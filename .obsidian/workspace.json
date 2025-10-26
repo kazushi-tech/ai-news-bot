@@ -11,10 +11,14 @@
             "id": "88ddd1ad8aacf78c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sources/url_inbox.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "url_inbox"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sources/url_inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "url_inboxへのバックリンク"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sources/url_inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "url_inboxからのアウトゴーイングリンク"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "sources/url_inbox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "url_inboxのアウトライン"
             }
           }
         ]
@@ -164,6 +171,28 @@
   },
   "active": "19bfa4c505d55ad1",
   "lastOpenFiles": [
+    "news/2025-10-26-kddiahvfzgl100aivah600-itmedia-news.md",
+    "news/2025-10-26-the-glaring-security-risks-with-ai-browser-agents-techcrunch.md",
+    "news/2025-10-26-uandroid-xrvwbhzbgugalaxy-xrvouvision-provza1800h-itmedia-news.md",
+    "news/2025-10-26-who-are-ai-browsers-for-techcrunch.md",
+    "news/2025-10-26-openai-reportedly-developing-new-generative-music-tool-techcrunch.md",
+    "news/2025-10-26-gmagoogleugeminivpbai2027n瓋-itmedia-news.md",
+    "news/2025-10-26-openai-wants-to-stop-chatgpt-from-validating-users-political-views-ars-technica.md",
+    "news/2025-10-26-google-and-anthropic-announce-cloud-deal-worth-tens-of-billions.md",
+    "news/2025-10-26-openai-buys-ai-startup-software-applications-incorporated.md",
+    "news/2025-10-26-microsoftagaiueuhucopilot-mode-in-edgevuactionsvv-itmedia-news.md",
+    "news/2025-10-26-microsoft-ai-chief-suleyman-company-wont-build-chatbots-for-erotica.md",
+    "news/2025-10-26-microsoftajc悤ailumicov-itmedia-news.md",
+    "news/2025-10-26-anthropicaiによる核兵器づくりを防ぐフィルターを開発その効果は本物か-wiredjp.md",
+    "news/2025-10-26-google-cloudanthropicgganthropictpu100p-itmedia-news.md",
+    "news/2025-10-26-airtags-and-cheap-gaming-laptops-headline-our-favorite-deals-this-week-the-verge.md",
+    "news/2025-10-26-meta-faces-a-new-threat-from-openais-new-viral-sora-2-video-app.md",
+    "news/2025-10-26-openaiamacaiuskyvjsoftware-applications-itmedia-news.md",
+    "news/2025-10-26-the-browser-wars-are-back-and-this-time-theyre-powered-by-ai-techcrunch.md",
+    "news/2025-10-26-alibaba-prices-ai-glasses-at-660-and-launches-chatgpt-rival.md",
+    "news/2025-10-26-openaiaiブラウザchatgpt-atlasでgoogle-chromeに挑む-wiredjp.md",
+    "news/2025-10-26--AI-news.md",
+    "news/2025-10-26-andrej-karpathy-agi-is-still-a-decade-away.md",
     "node_modules/jsdom/lib/jsdom/living/helpers/selectors.js",
     "node_modules/jsdom/lib/jsdom/living/named-properties-window.js",
     "node_modules/jsdom/lib/jsdom/named-properties-tracker.js",
@@ -175,11 +204,8 @@
     "node_modules/undici/lib/web/websocket/symbols.js",
     "node_modules/undici/lib/web/fetch/symbols.js",
     "node_modules/undici/lib/web/cache/symbols.js",
-    "node_modules/undici/lib/interceptor/redirect-interceptor.js",
     "node_modules/nwsapi/README.md",
     "node_modules/strnum/README.md",
-    "node_modules/strnum/CHANGELOG.md",
-    "node_modules/fast-xml-parser/README.md",
-    "node_modules/fast-xml-parser/CHANGELOG.md"
+    "node_modules/strnum/CHANGELOG.md"
   ]
 }

@@ -1,5 +1,6 @@
 {
-"cSpell.words": [
-"MMLU","DeepSeek","Readability","undici","JSDOM","byline","slugify","VAULT_DIR","idxs","sents","Obsidian"
-]
+  "cSpell.words": [
+    "Readability","JSDOM","undici","MMLU","Obsidian","VAULT_DIR",
+    "KHTML","x86_64","fast-xml-parser"
+  ]
 }
