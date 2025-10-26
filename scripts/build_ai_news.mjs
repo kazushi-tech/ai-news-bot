@@ -1,249 +1,354 @@
-#!/usr/bin/env node
-// inbox の未処理URLを本文抽出→要約→詳細(news/YYYY-MM-DD-*.md)＋一覧(news/YYYY-MM-DD--AI-news.md)を生成
-// 依存: jsdom, @mozilla/readability
+// scripts/build_ai_news.mjs
+// URL一覧（sources/url_inbox.md）から最大N件を処理し、Obsidian向けMarkdownをnews/へ生成します。
+// 依存: jsdom, @mozilla/readability, node-fetch, iconv-lite, jschardet, minimist, dayjs, sanitize-filename, gray-matter, turndown
 
 import fs from 'fs';
 import path from 'path';
-import { fileURLToPath } from 'url';
+import fetch from 'node-fetch';
 import { JSDOM } from 'jsdom';
 import { Readability } from '@mozilla/readability';
+import iconv from 'iconv-lite';
+import jschardet from 'jschardet';
+import minimist from 'minimist';
+import dayjs from 'dayjs';
+import utc from 'dayjs/plugin/utc.js';
+import timezone from 'dayjs/plugin/timezone.js';
+import he from 'he';
+import TurndownService from 'turndown';
+import crypto from 'crypto';
+import matter from 'gray-matter';
+import sanitize from 'sanitize-filename';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+dayjs.extend(utc);
+dayjs.extend(timezone);
 
-// ---------------- CLI flags ----------------
-const argv = process.argv.slice(2);
-const getFlag = (name, dflt = undefined) => {
-  const idx = argv.findIndex(a => a === `--${name}` || a.startsWith(`--${name}=`));
-  if (idx === -1) return dflt;
-  const v = argv[idx].includes('=') ? argv[idx].split('=')[1] : argv[idx + 1];
-  if (v === undefined || v.startsWith('--')) return dflt;
-  return v;
-};
-const MAX = Number(getFlag('max', 2));
-const DRY = argv.includes('--dry-run');
-const UA = getFlag('ua', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36');
-const TIMEOUT_MS = Number(getFlag('timeout', 15000));
-const JP_COLUMNS = argv.includes('--jp-columns');
-const DATE_OVERRIDE = getFlag('date'); // YYYY-MM-DD 固定日付で出力したいとき
-const SAVE_FULLTEXT = argv.includes('--save-fulltext'); // 配信者スタイル：本文テキストも保存
+const TZ = 'Asia/Tokyo';
 
-// ---------------- Paths ----------------
-const ROOT = process.cwd();
-const VAULT_DIR = process.env.VAULT_DIR || '';
-const OUT_BASE = VAULT_DIR && fs.existsSync(VAULT_DIR) ? VAULT_DIR : ROOT;
-const NEWS_DIR = path.join(OUT_BASE, 'news');
-const SRC_DIR = path.join(ROOT, 'sources'); // inbox はリポジトリ側を使う
-const CACHE_DIR = path.join(ROOT, '.cache');
-const INBOX = path.join(SRC_DIR, 'url_inbox.md');
-const SEEN = path.join(CACHE_DIR, 'seen.json');
+const args = minimist(process.argv.slice(2), {
+  boolean: ['jp-columns', 'save-fulltext'],
+  alias: { max: 'm' },
+  default: { max: 1 }
+});
 
-fs.mkdirSync(NEWS_DIR, { recursive: true });
-fs.mkdirSync(CACHE_DIR, { recursive: true });
-if (!fs.existsSync(INBOX)) fs.writeFileSync(INBOX, '');
-if (!fs.existsSync(SEEN)) fs.writeFileSync(SEEN, '{}');
+const ROOT_OUT = process.env.VAULT_DIR ? path.join(process.env.VAULT_DIR, 'news') : 'news';
+const INBOX = 'sources/url_inbox.md';
+const SEEN = '.cache/seen.json';
 
-// ---------------- Utils ----------------
-function toJstDate(d=new Date()){
-  const tz = 'Asia/Tokyo';
-  const pad = n => String(n).padStart(2,'0');
-  const dt = new Date(d.toLocaleString('en-US', { timeZone: tz }));
-  const y = dt.getFullYear();
-  const m = pad(dt.getMonth()+1);
-  const da = pad(dt.getDate());
-  const h = pad(dt.getHours());
-  const mi = pad(dt.getMinutes());
-  return { ymd: `${y}-${m}-${da}`, hm: `${h}:${mi}`, js: dt };
+// Utilities
+const sleep = (ms) => new Promise(res => setTimeout(res, ms));
+
+function ensureDir(p) { fs.mkdirSync(p, { recursive: true }); }
+function sha1(s) { return crypto.createHash('sha1').update(s).digest('hex'); }
+function toDateSafe(s) {
+  const d = dayjs(s);
+  return d.isValid() ? d.tz(TZ).format() : null;
+}
+function splitSentencesJPEN(text) {
+  // very simple JP/EN splitter
+  const normalized = text.replace(/\s+/g, ' ').trim();
+  if (!normalized) return [];
+  const parts = normalized
+    .replace(/。/g, '。|')
+    .replace(/！/g, '！|')
+    .replace(/？/g, '？|')
+    .replace(/\. /g, '.| ')
+    .replace(/\? /g, '?| ')
+    .replace(/! /g, '!| ')
+    .split('|')
+    .map(s => s.trim())
+    .filter(Boolean);
+  return parts;
+}
+function pickTopSentences(text, k = 5) {
+  const sents = splitSentencesJPEN(text);
+  if (sents.length === 0) return [];
+  const keywords = [
+    'AI','ＡＩ','生成','GenAI','LLM','モデル','学習','推論','発表','公開','オープンソース',
+    'OSS','研究','論文','ベンチマーク','評価','API','API','GPU','NVIDIA','Google','OpenAI',
+    'Anthropic','Meta','Apple','Microsoft','マイクロソフト','規制','政策','資金','買収','提携'
+  ];
+  const scored = sents.map((s, i) => {
+    let score = 0;
+    for (const kw of keywords) if (s.includes(kw)) score += 2;
+    if (/\d+(\.\d+)?%/.test(s)) score += 1;
+    if (/\b\d{4}\b/.test(s)) score += 1;
+    if (s.length < 200) score += 0.5; // brevity
+    return { s, score, i };
+  });
+  scored.sort((a,b)=> b.score - a.score || a.i - b.i);
+  return scored.slice(0, k).map(x => x.s);
 }
 
-function slugify(s){
-  return (s||'').toLowerCase().replace(/[^a-z0-9\u3040-\u30ff\u3400-\u9fff\s-]/g,'')
-    .replace(/[\s_]+/g,'-').replace(/-+/g,'-').slice(0,80) || 'article';
+function guessEncodingFromMeta(html) {
+  const m1 = html.match(/<meta[^>]*charset=["']?([^"'>\s]+)/i);
+  if (m1) return m1[1];
+  const m2 = html.match(/<meta[^>]*http-equiv=["']?content-type["']?[^>]*content=["'][^"']*charset=([^"'>\s]+)/i);
+  if (m2) return m2[1];
+  return null;
 }
 
-function estReadingMin(text){
-  const chars = (text||'').replace(/\s+/g,'').length;
-  return Math.max(1, Math.round(chars / 600));
+async function fetchDecoded(url) {
+  const res = await fetch(url, {
+    redirect: 'follow',
+    headers: {
+      'user-agent': 'ai-news-bot/0.1 (+https://github.com)',
+      'accept': 'text/html,application/xhtml+xml;q=0.9,*/*;q=0.8'
+    }
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const buf = Buffer.from(await res.arrayBuffer());
+  let encoding = null;
+
+  const ct = res.headers.get('content-type') || '';
+  const m = ct.match(/charset=([^;]+)/i);
+  if (m) encoding = m[1].trim();
+
+  if (!encoding) {
+    // Try meta sniff (fast path using UTF-8 decode first)
+    try {
+      const headText = buf.slice(0, 32768).toString('utf8');
+      const metaEnc = guessEncodingFromMeta(headText);
+      if (metaEnc) encoding = metaEnc;
+    } catch {}
+  }
+  if (!encoding) {
+    const det = jschardet.detect(buf);
+    encoding = det?.encoding || 'utf-8';
+  }
+
+  const encNorm = encoding.toLowerCase().replace(/_/g,'-');
+  const supported = ['utf-8','shift_jis','euc-jp','windows-31j','iso-2022-jp','gbk','gb2312','big5'];
+  const use = supported.includes(encNorm) ? encNorm : (encNorm.startsWith('utf') ? 'utf-8' : 'windows-31j');
+
+  const decoded = iconv.decode(buf, use);
+  return { html: decoded, encodingUsed: use, headers: Object.fromEntries(res.headers) };
 }
 
-function pickTags(text, url){
-  const t = `${text} ${url}`.toLowerCase();
-  const tags = new Set();
-  const addIf = (cond, tag) => { if (cond) tags.add(tag); };
-  addIf(/openai|chatgpt|sora|o1\b|o3\b/.test(t), 'openai');
-  addIf(/google|gemini|deepmind/.test(t), 'google');
-  addIf(/meta|llama/.test(t), 'meta');
-  addIf(/nvidia|gpu|h100|b200|sm_/.test(t), 'nvidia');
-  addIf(/anthropic|claude/.test(t), 'anthropic');
-  addIf(/microsoft|copilot/.test(t), 'microsoft');
-  addIf(/benchmark|mmlu|arena|eval|ベンチ/.test(t), 'benchmark');
-  addIf(/微調整|fine[- ]?tune|蒸留|distill/.test(t), 'finetune');
-  addIf(/推論|inference|最適化|量子化|quant/.test(t), 'inference');
-  addIf(/政策|規制|著作|copyright|lawsuit|訴訟/.test(t), 'policy');
-  addIf(/japan|\.jp\b|日本|国内/.test(t), 'japan');
-  addIf(/us\b|america|米国/.test(t), 'us');
-  addIf(/eu\b|europe|欧州/.test(t), 'eu');
-  return Array.from(tags);
+function extractMeta(document) {
+  const q = (sel) => document.querySelector(sel)?.getAttribute('content') || null;
+  const titleTag = document.querySelector('title')?.textContent?.trim() || null;
+  const ogTitle = q('meta[property="og:title"]') || q('meta[name="twitter:title"]');
+  const title = ogTitle || titleTag || '';
+  const siteName = q('meta[property="og:site_name"]') || null;
+  const description = q('meta[name="description"]') || q('meta[property="og:description"]') || null;
+  const published = q('meta[property="article:published_time"]')
+    || q('meta[name="date"]')
+    || q('meta[name="pubdate"]')
+    || q('meta[name="publish_date"]')
+    || q('meta[name="DC.date.issued"]')
+    || q('meta[property="article:modified_time"]')
+    || null;
+  return { title, siteName, description, published };
 }
 
-function splitSentences(text){
-  if (!text) return [];
-  const parts = text
-    .replace(/\s+/g,' ')
-    .split(/(?<=[。．！？!?])\s+|(?<=[.?!])\s+(?=[A-Z0-9])/g);
-  return parts.map(s => s.trim()).filter(Boolean);
+function createFrontmatter(fields) {
+  const order = [
+    'publish','title','date','source_url','domain','tags','word_count','reading_min',
+    'fetched_at','published_at','site_name','encoding_used'
+  ];
+  const lines = ['---'];
+  for (const k of order) {
+    if (fields[k] === undefined) continue;
+    const v = fields[k];
+    if (Array.isArray(v)) {
+      lines.push(`${k}:`);
+      for (const x of v) lines.push(`  - "${String(x).replace(/"/g, '\\"')}"`);
+    } else {
+      const val = String(v).replace(/"/g, '\\"');
+      lines.push(`${k}: "${val}"`);
+    }
+  }
+  lines.push('---','');
+  return lines.join('\n');
 }
 
-function extractSummary(text){
-  const sents = splitSentences(text);
-  const first = sents[0] || '';
-  const hasNumber = sents.filter(s => /\d[\d,]*(?:\.\d+)?%?|億|万/.test(s)).slice(0,4);
-  const keywordSents = sents.filter(s => /(LLM|GPT|AI|生成|推論|微調整|OpenAI|Google|Meta|NVIDIA|Anthropic|Claude|Gemini|Llama|Copilot|MMLU)/i.test(s)).slice(0,6);
-  const bullets = Array.from(new Set([first, ...hasNumber, ...keywordSents]))
-    .filter(Boolean)
-    .slice(0,6);
-  const tldr = bullets.join(' ').slice(0, 220);
-  return { tldr, bullets };
+function toSlug(str, max=80) {
+  const s = he.decode(str).replace(/\s+/g,' ').trim().toLowerCase();
+  const base = s
+    .replace(/[^a-z0-9\u3040-\u30ff\u4e00-\u9faf\- ]+/g,'')
+    .replace(/ /g,'-')
+    .replace(/-+/g,'-')
+    .slice(0, max);
+  return sanitize(base) || 'untitled';
 }
 
-async function fetchHtml(url){
-  const ctl = new AbortController();
-  const t = setTimeout(() => ctl.abort(), TIMEOUT_MS);
+function readingMinutesFromText(text) {
+  // rough JP+EN: 800 JP chars/min or 200 wpm; choose larger time
+  const chars = (text || '').replace(/\s+/g,'').length;
+  const words = (text || '').trim().split(/\s+/).length;
+  const jpMin = Math.max(1, Math.round(chars / 800));
+  const enMin = Math.max(1, Math.round(words / 200));
+  return Math.max(jpMin, enMin);
+}
+
+function shorten(str, n=240) {
+  if (!str) return '';
+  const s = str.replace(/\s+/g,' ').trim();
+  if (s.length <= n) return s;
+  return s.slice(0, n-1) + '…';
+}
+
+async function processUrl(url) {
   try {
-    const res = await fetch(url, { headers: { 'user-agent': UA }, redirect: 'follow', signal: ctl.signal });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const html = await res.text();
-    return { html, finalUrl: res.url || url };
-  } finally { clearTimeout(t); }
-}
+    const { html, encodingUsed, headers } = await fetchDecoded(url);
+    const dom = new JSDOM(html, { url });
+    const meta = extractMeta(dom.window.document);
+    const reader = new Readability(dom.window.document, { keepClasses: false });
+    const article = reader.parse();
 
-function extractMeta(doc){
-  const get = sel => doc.querySelector(sel)?.getAttribute('content') || '';
-  const title = doc.querySelector('title')?.textContent?.trim() || get('meta[property="og:title"],meta[name="twitter:title"]') || '';
-  const site_name = get('meta[property="og:site_name"]');
-  const published = get('meta[property="article:published_time"],meta[name="date"],meta[itemprop="datePublished"]') || '';
-  return { title, site_name, published_at: published };
-}
+    const title = (meta.title || article?.title || 'Untitled').trim();
+    const byline = article?.byline || '';
+    const siteName = meta.siteName || dom.window.document.location.hostname;
+    const text = (article?.textContent || '').trim();
+    const length = text.length;
+    const excerpt = meta.description || article?.excerpt || '';
 
-function markdownEscape(s=''){ return s.replace(/[\[\]<>]/g, m => ({'[':'\\[',']':'\\]','<':'&lt;','>':'&gt;'}[m])); }
+    const domain = new URL(url).hostname;
+    const publishedAt = meta.published ? toDateSafe(meta.published) : null;
+    const fetchedAt = dayjs().tz(TZ).format();
 
-async function processUrl(url, dateStr){
-  const { html, finalUrl } = await fetchHtml(url);
-  const dom = new JSDOM(html, { url: finalUrl });
-  const doc = dom.window.document;
-  const reader = new Readability(doc);
-  const article = reader.parse();
-  const meta = extractMeta(doc);
-  const text = (article?.textContent || '').trim();
-  const contentHtml = article?.content || '';
-  const title = meta.title || article?.title || (new URL(finalUrl)).hostname;
-  const domain = (new URL(finalUrl)).hostname.replace(/^www\./,'');
-  const tags = pickTags(text, finalUrl);
-  const { tldr, bullets } = extractSummary(text);
-  const word_count = text.replace(/\s+/g,' ').split(' ').length + Math.round(text.length/2);
-  const reading_min = estReadingMin(text);
-  const site_name = meta.site_name || domain;
-  const fetched_at = new Date().toISOString();
-  const published_at = meta.published_at || '';
+    // summarize (rule-based)
+    const bulletCandidates = pickTopSentences(text, 7);
+    const bullets = bulletCandidates.slice(0, 5);
+    const tldr = shorten(excerpt || bulletCandidates.slice(0, 3).join(' '), 300);
 
-  // ファイル名・戻りリンク
-  const slug = slugify(title) || slugify(domain);
-  const detailName = `${dateStr}-${slug}.md`;
-  const detailPath = path.join(NEWS_DIR, detailName);
-  const indexName = `${dateStr}--AI-news.md`;
-  const indexPath = path.join(NEWS_DIR, indexName);
+    // tags (heuristic)
+    const lower = (title + ' ' + text).toLowerCase();
+    const tags = [];
+    if (/[^\w](llm|gpt|transformer|モデル|大規模言語|生成|genai)/i.test(lower)) tags.push('LLM');
+    if (/(OSS|open source|オープンソース)/i.test(lower)) tags.push('OSS');
+    if (/(arxiv|論文|paper|研究)/i.test(lower)) tags.push('Research');
+    if (/(規制|policy|法|ガイドライン)/i.test(lower)) tags.push('Policy');
+    if (/(benchmark|ベンチマーク|性能|スコア)/i.test(lower)) tags.push('Benchmark');
+    if (!tags.length) tags.push('AI');
 
-  const front = [
-    '---',
-    `title: "${markdownEscape(title)}"`,
-    `date: ${dateStr}`,
-    `source_url: ${finalUrl}`,
-    `domain: ${domain}`,
-    'publish: true',
-    `tags: [${tags.join(', ')}]`,
-    `word_count: ${word_count}`,
-    `reading_min: ${reading_min}`,
-    `fetched_at: ${fetched_at}`,
-    `published_at: "${published_at}"`,
-    `site_name: "${markdownEscape(site_name)}"`,
-    '---',
-  ].join('\n');
+    // filenames
+    const dateStr = dayjs().tz(TZ).format('YYYY-MM-DD');
+    ensureDir(ROOT_OUT);
+    const slug = toSlug(title);
+    const hash = sha1(url).slice(0, 8);
+    const detailName = `${dateStr}-${slug}-${hash}.md`;
+    const detailPath = path.join(ROOT_OUT, detailName);
 
-  const fullTextBlock = SAVE_FULLTEXT
-    ? `\n## Full text (extracted)\n\n${text}\n`
-    : '';
+    // frontmatter
+    const fm = createFrontmatter({
+      publish: 'true',
+      title,
+      date: dateStr,
+      source_url: url,
+      domain,
+      tags,
+      word_count: String(text.split(/\s+/).length),
+      reading_min: String(readingMinutesFromText(text)),
+      fetched_at: fetchedAt,
+      published_at: publishedAt || '',
+      site_name: siteName,
+      encoding_used: encodingUsed
+    });
 
-  const md = `${front}\n\n## TL;DR\n\n${tldr}\n\n## Key points\n\n${bullets.map(b => `- ${b}`).join('\n')}\n${fullTextBlock}\n## Source\n\n[${markdownEscape(site_name)}](${finalUrl})\n\n## 戻りリンク\n\n← [[${indexName}]]\n`;
+    const turndown = new TurndownService();
+    const bodyMd = turndown.turndown(article?.content || '');
 
-  return { detailName, detailPath, indexName, indexPath, title, domain, tags, tldr, md, finalUrl };
-}
+    const detailMd = [
+      fm,
+      `# ${title}`,
+      byline ? `_by ${byline}_` : '',
+      '',
+      '## TL;DR',
+      tldr,
+      '',
+      '## Key Points',
+      ...bullets.map(b => `- ${b}`),
+      '',
+      '## Source',
+      `[${siteName}](${url})`,
+      ''
+    ];
 
-function ensureIndex(indexPath, dateStr){
-  if (fs.existsSync(indexPath)) return;
-  const headers = JP_COLUMNS ? ['タイトル','記事','引用元','要約'] : ['Time','Title','Source','Tags'];
-  const front = [
-    '---',
-    `title: "${dateStr} AI News"`,
-    `date: ${dateStr}`,
-    'publish: true',
-    '---',
-  ].join('\n');
-  const body = `\n| ${headers.join(' | ')} |\n| --- | --- | --- | --- |\n`;
-  fs.writeFileSync(indexPath, `${front}\n${body}`);
-}
+    if (args['save-fulltext']) {
+      detailMd.push('## Full Text (extracted)\n');
+      detailMd.push(bodyMd);
+      detailMd.push('');
+    }
 
-function appendIndexRow({ indexPath, hm, detailName, title, domain, tags, tldr, finalUrl }){
-  const row = JP_COLUMNS
-    ? `| [[${detailName}|${markdownEscape(title)}]] | [[${detailName}|詳細]] | [${domain}](${finalUrl}) | ${markdownEscape(tldr.slice(0,120))} |\n`
-    : `| ${hm} | [[${detailName}|${markdownEscape(title)}]] | [${domain}](https://${domain}) | ${tags.join(', ')} |\n`;
-  fs.appendFileSync(indexPath, row);
-}
+    fs.writeFileSync(detailPath, detailMd.join('\n'), 'utf8');
 
-async function main(){
-  const seen = JSON.parse(fs.readFileSync(SEEN, 'utf8') || '{}');
-  const inboxLines = fs.readFileSync(INBOX, 'utf8').split(/\r?\n/);
-  const uncheckedIdxs = [];
-  for (let i=0;i<inboxLines.length;i++){
-    const m = inboxLines[i].match(/^\s*- \[ \] (https?:\S+)/);
-    if (m) uncheckedIdxs.push([i, m[1]]);
+    // update daily index
+    const indexName = `${dateStr}--AI-news.md`;
+    const indexPath = path.join(ROOT_OUT, indexName);
+    const timeNow = dayjs().tz(TZ).format('HH:mm');
+    let tableHeader;
+    if (args['jp-columns']) {
+      tableHeader = `| 時刻 | サイト | タイトル | TL;DR |\n|---|---|---|---|\n`;
+    } else {
+      tableHeader = `| Time | Site | Title | TL;DR |\n|---|---|---|---|\n`;
+    }
+    const row = `| ${timeNow} | ${siteName} | [${title}](${detailName}) | ${shorten(tldr, 160)} |`;
+
+    if (!fs.existsSync(indexPath)) {
+      fs.writeFileSync(indexPath, tableHeader + row + '\n', 'utf8');
+    } else {
+      const prev = fs.readFileSync(indexPath, 'utf8');
+      // if header missing, add
+      const next = (prev.includes('|---|---|---|---|') ? prev : (tableHeader + prev)) + row + '\n';
+      fs.writeFileSync(indexPath, next, 'utf8');
+    }
+
+    return { ok: true, title, detailName };
+  } catch (err) {
+    return { ok: false, error: `${err}` };
   }
-  if (uncheckedIdxs.length === 0){
-    console.log('No unchecked URLs found in sources/url_inbox.md');
-    return;
-  }
+}
 
-  const baseDate = DATE_OVERRIDE ? new Date(`${DATE_OVERRIDE}T00:00:00+09:00`) : new Date();
-  const { ymd } = toJstDate(baseDate);
+function parseInboxUrls(md) {
+  const lines = md.split(/\r?\n/);
+  const urls = [];
+  const indices = [];
+  const re = /^\s*-\s\[\s\]\s+(https?:\/\/\S+)/;
+  lines.forEach((line, idx) => {
+    const m = line.match(re);
+    if (m) { urls.push(m[1]); indices.push(idx); }
+  });
+  return { lines, urls, indices };
+}
+
+function markProcessed(lines, idx) {
+  // turn "- [ ]" to "- [x]"
+  lines[idx] = lines[idx].replace('- [ ]', '- [x]');
+  return lines;
+}
+
+async function main() {
+  ensureDir(ROOT_OUT);
+  const maxN = Number(args.max) || 1;
+  const inbox = fs.existsSync(INBOX) ? fs.readFileSync(INBOX, 'utf8') : '';
+  const { lines, urls, indices } = parseInboxUrls(inbox);
+
+  if (!urls.length) {
+    console.log('No pending URLs in sources/url_inbox.md');
+    process.exit(0);
+  }
 
   let processed = 0;
-  for (const [lineIdx, url] of uncheckedIdxs){
-    if (processed >= MAX) break;
-    if (seen[url]) continue; // duplicate skip
-
-    try{
-      const res = await processUrl(url, ymd);
-      if (!DRY){
-        ensureIndex(res.indexPath, ymd);
-        fs.writeFileSync(res.detailPath, res.md);
-        const { hm: nowHm } = toJstDate();
-        appendIndexRow({ indexPath: res.indexPath, hm: nowHm, detailName: res.detailName, title: res.title, domain: res.domain, tags: res.tags, tldr: res.tldr, finalUrl: res.finalUrl });
-        // inbox行を [x] に
-        inboxLines[lineIdx] = inboxLines[lineIdx].replace('- [ ]', '- [x]');
-        seen[url] = { date: new Date().toISOString(), detail: res.detailName };
-      }
-      console.log('OK:', res.title);
+  for (let i = 0; i < urls.length && processed < maxN; i++) {
+    const url = urls[i];
+    const res = await processUrl(url);
+    if (res.ok) {
+      console.log(`OK: ${res.title}`);
       processed++;
-    }catch(e){
-      console.error('FAIL:', url, e.message);
+      markProcessed(lines, indices[i]);
+      // small delay to be polite
+      await sleep(500);
+    } else {
+      console.log(`NG: ${url} -> ${res.error}`);
     }
   }
 
-  if (!DRY){
-    fs.writeFileSync(INBOX, inboxLines.join('\n'));
-    fs.writeFileSync(SEEN, JSON.stringify(seen, null, 2));
-  }
-
+  fs.writeFileSync(INBOX, lines.join('\n'), 'utf8');
   console.log(`Processed ${processed} item(s).`);
 }
 
-main().catch(e=>{ console.error(e); process.exit(1); });
+main().catch(e => {
+  console.error(e);
+  process.exit(1);
+});

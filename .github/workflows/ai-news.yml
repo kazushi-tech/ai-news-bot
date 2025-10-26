@@ -1,0 +1,36 @@
+name: AI News Bot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "12 0 * * *" # 09:12 JST
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Install deps
+        run: npm i
+
+      - name: Init dirs (idempotent)
+        run: npm run init:dirs
+
+      - name: Collect (RSS → inbox)
+        run: npm run pick:week -- --days 7 --limit 20
+
+      - name: Build (news/)
+        run: npm run build:news -- --max 20 --jp-columns
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news/ sources/url_inbox.md .cache/seen.json
+          git commit -m "chore: daily AI news update [skip ci]" || echo "Nothing to commit"
+          git push
