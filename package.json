@@ -1,0 +1,17 @@
+{
+  "name": "ai-news-bot",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build:news": "node scripts/build_ai_news.mjs",
+    "init:dirs": "node -e \"import('fs').then(fs=>{['news','sources','scripts','.cache'].forEach(d=>{try{fs.mkdirSync(d)}catch{}});try{fs.writeFileSync('sources/url_inbox.md','',{flag:'a'})}catch{}})\"",
+    "pick:week": "node scripts/pick_ai_week.mjs"
+  },
+  "dependencies": {
+    "@mozilla/readability": "^0.5.0",
+    "fast-xml-parser": "^4.5.0",
+    "jsdom": "^26.0.0",
+    "undici": "^6.19.8"
+  }
+}

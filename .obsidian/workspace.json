@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "9789951dcebd6ea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fc9a48f007c52fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88ddd1ad8aacf78c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15e2ce8811873f92",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ef7d1da64b5e073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19bfa4c505d55ad1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "80dc568ec6400013",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "dff1bad25d6e1a6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a26e824931d3b7b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "182991c35696e191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a58c4fffec1eb233",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "4bb09c222142c785",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "54a73d0baeaeb058",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "12217c6ac1b23a1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "19bfa4c505d55ad1",
+  "lastOpenFiles": [
+    "node_modules/jsdom/lib/jsdom/living/helpers/selectors.js",
+    "node_modules/jsdom/lib/jsdom/living/named-properties-window.js",
+    "node_modules/jsdom/lib/jsdom/named-properties-tracker.js",
+    "node_modules/undici/types/filereader.d.ts",
+    "node_modules/undici/types/file.d.ts",
+    "node_modules/undici/docs/docs/api/DispatchInterceptor.md",
+    "node_modules/undici/lib/web/fetch/webidl.js",
+    "node_modules/undici/lib/api/util.js",
+    "node_modules/undici/lib/web/websocket/symbols.js",
+    "node_modules/undici/lib/web/fetch/symbols.js",
+    "node_modules/undici/lib/web/cache/symbols.js",
+    "node_modules/undici/lib/interceptor/redirect-interceptor.js",
+    "node_modules/nwsapi/README.md",
+    "node_modules/strnum/README.md",
+    "node_modules/strnum/CHANGELOG.md",
+    "node_modules/fast-xml-parser/README.md",
+    "node_modules/fast-xml-parser/CHANGELOG.md"
+  ]
+}
