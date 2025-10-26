@@ -1,12 +1,20 @@
 // scripts/smoke.mjs
-// 1件だけ通すスモークテスト（Dwarkeshのカラパシー記事例を使用）
+import fs from "fs/promises";
+import path from "path";
 
-import fs from 'fs';
-import { execFileSync } from 'child_process';
+const ROOT = process.cwd();
+const URL_INBOX = path.join(ROOT, "sources", "url_inbox.md");
 
-fs.mkdirSync('sources', { recursive: true });
-const line = "- [ ] https://www.dwarkesh.com/p/andrej-karpathy\n";
-fs.appendFileSync('sources/url_inbox.md', line, 'utf8');
+async function main() {
+  await fs.appendFile(URL_INBOX, "- [ ] https://www.dwarkesh.com/p/andrej-karpathy\n", "utf-8");
+  const { spawn } = await import("node:child_process");
+  await new Promise((resolve, reject) => {
+    const p = spawn(process.execPath, ["scripts/build_ai_news.mjs", "--max", "1", "--jp-columns", "--save-fulltext"], { stdio: "inherit" });
+    p.on("exit", (code) => code === 0 ? resolve() : reject(new Error("build_ai_news failed with code " + code)));
+  });
+}
 
-console.log('Added 1 URL to sources/url_inbox.md');
-execFileSync('node', ['scripts/build_ai_news.mjs', '--max', '1', '--jp-columns', '--save-fulltext'], { stdio: 'inherit' });
+main().catch(err => {
+  console.error(err);
+  process.exit(1);
+});

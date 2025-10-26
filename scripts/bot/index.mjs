@@ -1,72 +1,72 @@
 // bot/index.mjs
-// Discord → repository_dispatch (GitHub) トリガーBot
-// 環境変数: DISCORD_TOKEN, DISCORD_CHANNEL_ID, GITHUB_TOKEN, REPO (owner/repo), EVENT_TYPE (default: ai-news-url)
+import "dotenv/config";
+import { Client, GatewayIntentBits, Partials } from "discord.js";
 
-import 'dotenv/config';
-import fetch from 'node-fetch';
-import { Client, GatewayIntentBits, Partials } from 'discord.js';
+let _fetch = globalThis.fetch;
+if (!_fetch) {
+  const { default: f } = await import("node-fetch");
+  _fetch = f;
+}
 
-const token = process.env.DISCORD_TOKEN;
-const channelId = process.env.DISCORD_CHANNEL_ID;
-const githubToken = process.env.GITHUB_TOKEN;
-const repo = process.env.REPO;
-const eventType = process.env.EVENT_TYPE || 'ai-news-url';
+const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
+const DISCORD_CHANNEL_ID = process.env.DISCORD_CHANNEL_ID;
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const REPO = process.env.REPO;
+const EVENT_TYPE = process.env.EVENT_TYPE || "ai-news-url";
 
-if (!token || !channelId || !githubToken || !repo) {
-  console.error('Missing env. Please set DISCORD_TOKEN, DISCORD_CHANNEL_ID, GITHUB_TOKEN, REPO');
+if (!DISCORD_TOKEN || !DISCORD_CHANNEL_ID || !GITHUB_TOKEN || !REPO) {
+  console.error("Missing env. Please set DISCORD_TOKEN, DISCORD_CHANNEL_ID, GITHUB_TOKEN, REPO");
   process.exit(1);
 }
 
 const client = new Client({
-  intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent],
+  intents: [
+    GatewayIntentBits.Guilds,
+    GatewayIntentBits.GuildMessages,
+    GatewayIntentBits.MessageContent,
+  ],
   partials: [Partials.Channel]
 });
 
-function extractUrls(text) {
-  const re = /(https?:\/\/[^\s>]+)\b/g;
-  const out = [];
-  let m;
-  while ((m = re.exec(text)) !== null) out.push(m[1]);
-  return out;
-}
-
-async function fireDispatch(url) {
-  const api = `https://api.github.com/repos/${repo}/dispatches`;
-  const body = { event_type: eventType, client_payload: { url } };
-  const res = await fetch(api, {
-    method: 'POST',
-    headers: {
-      'Authorization': `token ${githubToken}`,
-      'Accept': 'application/vnd.github+json',
-      'User-Agent': 'ai-news-bot/0.1'
-    },
-    body: JSON.stringify(body)
-  });
-  if (!res.ok) {
-    const text = await res.text();
-    throw new Error(`GitHub dispatch failed: ${res.status} ${text}`);
-  }
-}
-
-client.on('ready', () => {
+client.once("ready", () => {
   console.log(`Discord bot online as ${client.user.tag}`);
 });
 
-client.on('messageCreate', async (message) => {
+const URL_RE = /(https?:\/\/[^\s>]+[^\s\.\)\]\}">])/i;
+
+client.on("messageCreate", async (message) => {
   try {
     if (message.author.bot) return;
-    if (message.channelId !== channelId) return;
-    const urls = extractUrls(message.content);
-    if (!urls.length) return;
+    if (message.channel?.id !== DISCORD_CHANNEL_ID) return;
 
-    for (const url of urls) {
-      await fireDispatch(url);
+    const m = message.content.match(URL_RE);
+    if (!m) return;
+
+    const url = m[1];
+    await message.react("✅").catch(()=>{});
+
+    const res = await _fetch(`https://api.github.com/repos/${REPO}/dispatches`, {
+      method: "POST",
+      headers: {
+        "authorization": `token ${GITHUB_TOKEN}`,
+        "accept": "application/vnd.github+json"
+      },
+      body: JSON.stringify({
+        event_type: EVENT_TYPE,
+        client_payload: { url }
+      })
+    });
+
+    if (!res.ok) {
+      const txt = await res.text().catch(()=>String(res.status));
+      console.error("dispatch failed:", res.status, txt);
+      await message.reply("GitHub dispatch failed ❌").catch(()=>{});
+    } else {
+      await message.reply("GitHub Actions started 🚀").catch(()=>{});
     }
-    await message.react('✅');
   } catch (e) {
     console.error(e);
-    try { await message.react('⚠️'); } catch {}
   }
 });
 
-client.login(token);
+client.login(DISCORD_TOKEN);

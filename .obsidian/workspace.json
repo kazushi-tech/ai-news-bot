@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/url_inbox.md",
+                "file": "news/2025-10-26-openaiaiブラウザchatgpt-atlasでgoogle-chromeに挑む-wiredjp.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "url_inbox"
+              "title": "2025-10-26-openaiaiブラウザchatgpt-atlasでgoogle-chromeに挑む-wiredjp"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/url_inbox.md",
+                "file": "news/2025-10-26-openaiaiブラウザchatgpt-atlasでgoogle-chromeに挑む-wiredjp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "url_inboxへのバックリンク"
+              "title": "2025-10-26-openaiaiブラウザchatgpt-atlasでgoogle-chromeに挑む-wiredjpへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sources/url_inbox.md",
+                "file": "news/2025-10-26-openaiaiブラウザchatgpt-atlasでgoogle-chromeに挑む-wiredjp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "url_inboxからのアウトゴーイングリンク"
+              "title": "2025-10-26-openaiaiブラウザchatgpt-atlasでgoogle-chromeに挑む-wiredjpからのアウトゴーイングリンク"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sources/url_inbox.md",
+                "file": "news/2025-10-26-openaiaiブラウザchatgpt-atlasでgoogle-chromeに挑む-wiredjp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "url_inboxのアウトライン"
+              "title": "2025-10-26-openaiaiブラウザchatgpt-atlasでgoogle-chromeに挑む-wiredjpのアウトライン"
             }
           }
         ]
@@ -169,44 +169,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "19bfa4c505d55ad1",
+  "active": "88ddd1ad8aacf78c",
   "lastOpenFiles": [
-    "Users/omats/git-check/myapp/news/2025-10-26--AI-news.md",
-    "Users/omats/git-check/myapp/news/2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
-    "Users/omats/git-check/myapp/news",
-    "Users/omats/git-check/myapp",
-    "Users/omats/git-check",
-    "Users/omats",
-    "Users",
-    "news/2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
+    "news/2025-10-26-andrej-karpathy-—-agi-is-still-a-decade-away-dc08e95a.md",
     "package-lock.json",
     "node_modules/@mixmark-io/domino/test/xss.js",
     "node_modules/@mixmark-io/domino/test/web-platform-tests.js",
     "node_modules/@mixmark-io/domino/test/web-platform-blocklist.json",
+    "node_modules/@mixmark-io/domino/test/w3c/level1/html/table51.js",
+    "node_modules/@mixmark-io/domino/test/w3c/level1/html/table34.js",
+    "node_modules/@mixmark-io/domino/test/w3c/level1/html/table28.js",
+    "node_modules/@mixmark-io/domino/test/w3c/level1/html/table25.js",
+    "node_modules/@mixmark-io/domino/test/w3c/level1/html/table01.js",
     "node_modules/discord-api-types/v9.mjs",
     "node_modules/lodash/release.md",
     "node_modules/lodash/README.md",
     "node_modules/jsdom/README.md",
-    "node_modules/dayjs/README.md",
     "node_modules/discord.js/README.md",
+    "node_modules/dayjs/README.md",
     "node_modules/dayjs/CHANGELOG.md",
     "node_modules/web-streams-polyfill/README.md",
-    "node_modules/@mixmark-io/domino/test/w3c/README.md",
     "node_modules/undici/README.md",
     "node_modules/undici/types/README.md",
+    "node_modules/undici/docs/docs/best-practices/mocking-request.md",
     "node_modules/undici/docs/docs/best-practices/writing-tests.md",
     "node_modules/undici/docs/docs/best-practices/proxy.md",
-    "node_modules/undici/docs/docs/best-practices/mocking-request.md",
     "node_modules/undici/docs/docs/best-practices/client-certificate.md",
     "node_modules/undici/docs/docs/api/api-lifecycle.md",
     "node_modules/undici/docs/docs/api/WebSocket.md",
     "node_modules/undici/docs/docs/api/Util.md",
-    "node_modules/undici/docs/docs/api/RedirectHandler.md",
     "node_modules/undici/docs/docs/api/RetryHandler.md",
     "node_modules/undici/docs/docs/api/RetryAgent.md",
-    "node_modules/undici/docs/docs/api/ProxyAgent.md",
     "node_modules/undici/docs/docs/api/PoolStats.md",
+    "node_modules/undici/docs/docs/api/RedirectHandler.md",
+    "node_modules/undici/docs/docs/api/ProxyAgent.md",
     "node_modules/undici/docs/docs/api/Pool.md",
+    "node_modules/undici/docs/docs/api/MockPool.md",
+    "node_modules/undici/docs/docs/api/MockClient.md",
+    "node_modules/undici/docs/docs/api/MockErrors.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }
