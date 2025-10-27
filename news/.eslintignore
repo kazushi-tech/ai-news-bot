@@ -1,4 +1,0 @@
-# Ignore script files and generated outputs
-scripts/*.mjs
-news/**
-.cache/**

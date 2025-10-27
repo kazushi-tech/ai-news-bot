@@ -1,84 +1,38 @@
-// scripts/pick_ai_week.mjs
-import fs from "fs/promises";
-import path from "path";
-import Parser from "rss-parser";
-import dayjs from "dayjs";
+#!/usr/bin/env node
+import fs from 'node:fs/promises';
+import fssync from 'node:fs';
+import path from 'node:path';
+import { jstDateStr } from '../lib/utils.mjs';
 
-const ROOT = process.cwd();
-const URL_INBOX = path.join(ROOT, "sources", "url_inbox.md");
-const SEEN_PATH = path.join(ROOT, ".cache", "seen.json");
+const NEWS_DIR = 'news';
 
-const parser = new Parser();
+(async () => {
+  const args = new Set(process.argv.slice(2));
+  const files = (await fs.readdir(NEWS_DIR)).filter(f => f.endsWith('--AI-news.md')).sort().reverse();
 
-const FEEDS = [
-  "https://openai.com/blog/rss/",
-  "https://huggingface.co/blog/feed.xml",
-  "https://research.google/feeds/pub/",
-  "https://ai.googleblog.com/feeds/posts/default",
-  "https://stability.ai/blog/rss.xml",
-  "https://www.deepmind.com/blog/rss.xml",
-  "https://arxiv.org/rss/cs.AI",
-  "https://www.anthropic.com/index.xml"
-];
-
-function scoreItem(it) {
-  let s = 0;
-  const title = (it.title || "").toLowerCase();
-  const now = dayjs();
-  const d = it.isoDate ? dayjs(it.isoDate) : (it.pubDate ? dayjs(it.pubDate) : null);
-  if (d) {
-    const days = Math.max(0, now.diff(d, "day"));
-    s += Math.max(0, 30 - days);
+  if (args.has('--weekly')) {
+    await buildIndex(files, 7, 'index-weekly.md', '🗓 週間インデックス');
   }
-  if (/\b(llm|gpt|open-source|release|model|dataset|benchmark|embedding|inference)\b/.test(title)) s += 20;
-  if (/open|release|ga|beta|paper|arxiv|model/.test(title)) s += 10;
-  if (/guide|tutorial|opinion/.test(title)) s += 3;
-  if (/weekly|roundup/.test(title)) s += 1;
-  if (/job|hiring/.test(title)) s -= 5;
-  if (/podcast/.test(title)) s -= 3;
-  return s;
-}
-
-async function main() {
-  const inboxRaw = await fs.readFile(URL_INBOX, "utf-8").catch(()=>"# URL Inbox\n\n");
-  const lines = inboxRaw.split("\n");
-  const current = new Set(lines.map(l => {
-    const m = l.match(/^- \[ \] (https?:\/\/\S+)/);
-    return m ? m[1] : null;
-  }).filter(Boolean));
-
-  let seen = {};
-  try { seen = JSON.parse(await fs.readFile(SEEN_PATH, "utf-8")); } catch {}
-  if (!seen || typeof seen !== "object") seen = {};
-
-  const candidates = [];
-  for (const feed of FEEDS) {
-    try {
-      const out = await parser.parseURL(feed);
-      for (const it of out.items || []) {
-        const link = it.link || "";
-        if (!link || current.has(link) || seen[link]) continue;
-        candidates.push({ link, title: it.title || "", score: scoreItem(it) });
-      }
-    } catch (e) {
-      console.error("RSS error:", feed, e.message);
-    }
+  if (args.has('--monthly')) {
+    await buildIndex(files, 31, 'index-monthly.md', '🗓 月間インデックス');
   }
+})().catch(e => { console.error(e); process.exit(1); });
 
-  candidates.sort((a,b) => b.score - a.score);
-  const pick = candidates.slice(0, 50);
-  const toAppend = pick.map(x => `- [ ] ${x.link}`).join("\n");
-
-  const newMd = inboxRaw.replace(/\s+$/, "") + "\n" + toAppend + (toAppend ? "\n" : "");
-  await fs.writeFile(URL_INBOX, newMd, "utf-8");
-
-  for (const x of pick) seen[x.link] = { added_at: dayjs().toISOString() };
-  await fs.writeFile(SEEN_PATH, JSON.stringify(seen, null, 2), "utf-8");
-
-  console.log(`Appended ${pick.length} URL(s) to inbox.`);
+async function buildIndex(files, days, outName, title) {
+  const now = Date.now();
+  const pick = [];
+  for (const f of files) {
+    const date = f.slice(0, 10);
+    const t = new Date(date + 'T00:00:00+09:00').getTime();
+    if (now - t <= days * 86400000) pick.push(f);
+  }
+  const out = ['# ' + title, '', `**生成日**: ${jstDateStr()}`, ''].join('\n');
+  let body = out;
+  for (const f of pick.sort()) {
+    const p = path.join(NEWS_DIR, f);
+    const md = await fs.readFile(p, 'utf8');
+    body += `\n## ${f.slice(0, 10)}\n\n` + md + '\n';
+  }
+  await fs.writeFile(path.join(NEWS_DIR, outName), body.trim() + '\n');
+  console.log(`built ${outName} (${pick.length} days)`);
 }
-
-main().catch(err => {
-  console.error(err);
-  process.exit(1);
-});

@@ -1,6 +1,15 @@
 {
   "cSpell.words": [
-    "Readability","JSDOM","undici","MMLU","Obsidian","VAULT_DIR",
-    "KHTML","x86_64","fast-xml-parser"
-  ]
+    "ai-news",
+    "franc",
+    "fulltext",
+    "jsdom",
+    "repo",
+    "rss",
+    "turndown",
+    "UTM",
+    "fssync"
+  ],
+  "editor.formatOnSave": true,
+  "markdown.preview.breaks": true
 }

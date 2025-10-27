@@ -1,262 +1,269 @@
-// scripts/build_ai_news.mjs
-import fs from "fs/promises";
-import path from "path";
-import crypto from "crypto";
-import { JSDOM } from "jsdom";
-import TurndownService from "turndown";
-import iconv from "iconv-lite";
-import jschardet from "jschardet";
-import { Readability } from "@mozilla/readability";
-import dayjs from "dayjs";
-import sanitize from "sanitize-filename";
+#!/usr/bin/env node
+import 'dotenv/config';
+import fs from 'node:fs/promises';
+import fssync from 'node:fs';
+import path from 'node:path';
+import Parser from 'rss-parser';
+import {
+  ensureDir, readJson, writeJson, stripUtm, toSlug, jstDateStr,
+  fetchHTML, extractArticle, detectLang, domainFromUrl, tagsFromDomain,
+  copyToVaultDir, tableHeader
+} from '../lib/utils.mjs';
 
-let _fetch = globalThis.fetch;
-if (!_fetch) {
-  const { default: f } = await import("node-fetch");
-  _fetch = f;
-}
+const args = parseArgs(process.argv.slice(2));
+const LOG = !!process.env.LOG_EVERYTHING;
 
-const args = process.argv.slice(2);
-const flags = new Set(args.filter(a => a.startsWith("--") && !/^\-\-\w+=/.test(a)));
-const getArg = (name, def = null) => {
-  const idx = args.indexOf(name);
-  if (idx >= 0 && idx + 1 < args.length) return args[idx + 1];
-  return def;
-};
+const NEWS_DIR = 'news';
+const FULL_DIR = 'news/fulltext';
+const SEEN_FILE = '.cache/seen.json';
+const INBOX = 'sources/url_inbox.md';
+const RSS_FILE = 'sources/rss.txt';
 
-const MAX = parseInt(getArg("--max", "1"), 10);
-const JP_COLS = flags.has("--jp-columns");
-const SAVE_FULL = flags.has("--save-fulltext");
+(async () => {
+  await ensureDir(NEWS_DIR);
+  await ensureDir(FULL_DIR);
+  await ensureDir('.cache');
 
-const ROOT = process.cwd();
-const NEWS_DIR = process.env.VAULT_DIR
-  ? path.join(process.env.VAULT_DIR, "news")
-  : path.join(ROOT, "news");
+  const seen = await readJson(SEEN_FILE, []);
+  const today = jstDateStr();
 
-const URL_INBOX = path.join(ROOT, "sources", "url_inbox.md");
-
-await fs.mkdir(NEWS_DIR, { recursive: true });
-await fs.mkdir(path.join(ROOT, ".cache"), { recursive: true });
-
-function detectAndDecode(buffer) {
-  try {
-    const guess = jschardet.detect(buffer);
-    let encoding = "utf-8";
-    if (guess && guess.encoding && guess.confidence > 0.6) {
-      const enc = guess.encoding.toLowerCase();
-      if (enc.includes("shift") || enc.includes("932")) encoding = "shift_jis";
-      else if (enc.includes("euc")) encoding = "euc-jp";
-      else if (enc.includes("gb")) encoding = "gb18030";
-      else encoding = enc;
-    }
-    let text;
-    try {
-      text = iconv.decode(Buffer.from(buffer), encoding);
-      return { text, encoding_used: encoding };
-    } catch {
-      return { text: Buffer.from(buffer).toString("utf-8"), encoding_used: "utf-8" };
-    }
-  } catch {
-    return { text: Buffer.from(buffer).toString("utf-8"), encoding_used: "utf-8" };
+  // 収集
+  let targets = [];
+  if (args.rss) {
+    targets = await collectFromRss({ sinceDays: args['since-days'] ?? 7, max: args.max ?? 20, seen });
+  } else {
+    targets = await collectFromInbox({ max: args.max ?? 1, seen });
   }
-}
-
-async function fetchHTML(url) {
-  const res = await _fetch(url, {
-    headers: {
-      "user-agent": "Mozilla/5.0 (ai-news-bot)",
-      "accept": "text/html,application/xhtml+xml"
-    }
-  });
-  const ab = await res.arrayBuffer();
-  const { text, encoding_used } = detectAndDecode(Buffer.from(ab));
-  return { html: text, encoding_used, status: res.status };
-}
-
-function siteDomain(u) {
-  try {
-    return new URL(u).hostname.replace(/^www\./, "");
-  } catch { return ""; }
-}
-
-function extractMeta(doc) {
-  const get = (sel, attr="content") => {
-    const el = doc.querySelector(sel);
-    return el ? (el.getAttribute(attr) || "").trim() : "";
-  };
-  const title = get('meta[property="og:title"]') || get('meta[name="twitter:title"]') || doc.title || "";
-  const site_name = get('meta[property="og:site_name"]') || "";
-  const published = get('meta[property="article:published_time"]') || get('meta[name="date"]') || "";
-  const description = get('meta[name="description"]') || get('meta[property="og:description"]') || "";
-  return { title, site_name, published_at: published, description };
-}
-
-function summarize(text) {
-  const clean = text
-    .replace(/\s+/g, " ")
-    .replace(/。/g, "。 ")
-    .replace(/\.([A-Za-z])/g, ". $1");
-
-  const sentences = clean.split(/[。\.!?！？]+[\s]*/).map(s => s.trim()).filter(Boolean);
-
-  const tldr = sentences.slice(0, 3).join("。") + (sentences.length ? "。" : "");
-
-  const KEYWORDS = [
-    "発表","公開","リリース","オープンソース","モデル","LLM","性能","パラメータ","トークン","推論","学習","精度","コスト",
-    "価格","資金調達","買収","提携","統合","サポート","対応","アップデート","ベータ","一般提供","GA","API","推定","context","token",
-    "context window","throughput","latency","extension","dataset","benchmark","SOTA","SOTa","論文","arXiv","embedding","蒸留"
-  ];
-
-  const scored = sentences.map((s, i) => {
-    let score = 0;
-    if (/\d/.test(s)) score += 1.5;
-    if (s.length > 80) score += 0.5;
-    if (i < 6) score += 0.5;
-    const hit = KEYWORDS.some(k => s.toLowerCase().includes(k.toLowerCase()));
-    if (hit) score += 1.2;
-    return { s, score };
-  }).sort((a,b) => b.score - a.score);
-
-  const points = scored.slice(0, 6).map(x => x.s).filter(Boolean);
-
-  return { tldr, points };
-}
-
-function mdEscape(s="") {
-  return s.replace(/\|/g, "\\|");
-}
-
-function toFrontmatter(obj) {
-  const lines = Object.entries(obj).map(([k,v]) => {
-    if (Array.isArray(v)) return `${k}: [${v.map(x => `"${String(x).replace(/"/g,'\\"')}"`).join(", ")}]`;
-    if (typeof v === "boolean") return `${k}: ${v ? "true" : "false"}`;
-    return `${k}: "${String(v).replace(/"/g, '\\"')}"`;
-  });
-  return `---\n${lines.join("\n")}\n---\n`;
-}
-
-async function main() {
-  const inboxRaw = await fs.readFile(URL_INBOX, "utf-8");
-  const lines = inboxRaw.split("\n");
-  const urls = [];
-  let processedLines = [...lines];
-  for (let i=0; i<lines.length; i++) {
-    const m = lines[i].match(/^- \[ \] (https?:\/\/\S+)/);
-    if (m) urls.push({ url: m[1], lineIndex: i });
+  if (targets.length === 0) {
+    console.log('No new targets.');
+    process.exit(0);
   }
 
-  const limit = Math.min(MAX, urls.length || 0);
-  const today = dayjs().format("YYYY-MM-DD");
-  const listPath = path.join(NEWS_DIR, `${today}--AI-news.md`);
-  const listRows = [];
-
-  let okCount = 0;
-
-  for (let n=0; n<limit; n++) {
-    const { url, lineIndex } = urls[n];
+  // 処理
+  const rows = [];
+  for (const u of targets) {
+    const url = stripUtm(u);
     try {
-      const { html, encoding_used } = await fetchHTML(url);
-      const dom = new JSDOM(html, { url });
-      const doc = dom.window.document;
-      const meta = extractMeta(doc);
-      const reader = new Readability(doc);
-      const article = reader.parse();
+      const html = await fetchHTML(url);
+      const art = extractArticle(html, url);
+      const domain = domainFromUrl(url);
+      const lang = detectLang((art?.textContent || '') + ' ' + (art?.title || ''));
+      const tags = tagsFromDomain(url);
 
-      const title = (article?.title || meta.title || doc.title || url).trim();
-      const textContent = (article?.textContent || "").trim();
-      const articleHTML = article?.content || "";
-      const turndown = new TurndownService();
-      const contentMD = turndown.turndown(articleHTML || "");
+      const title = (art?.title || tryTitleFromHtml(html) || url).trim();
+      const slug = `${today}--${toSlug(title) || toSlug(domain) || 'untitled'}`;
+      const fullPath = path.join(FULL_DIR, `${slug}.md`);
 
-      const domain = siteDomain(url);
-      const { tldr, points } = summarize(textContent || contentMD);
-      const wc = (textContent || contentMD).split(/\s+/).filter(Boolean).length;
-      const readingMin = Math.max(1, Math.round(wc / 500));
+      // 概要（課金ゼロ＝ローカル要約）: 先頭~中盤の重要っぽい文を数行抽出（雑だが実用）
+      const summary = summarizeLocal(art?.textContent || art?.excerpt || '', lang.code);
 
-      const slugRaw = sanitize(title.toLowerCase().replace(/\s+/g, "-"));
-      const hash = crypto.createHash("sha1").update(url).digest("hex").slice(0,8);
-      const detailFile = `${today}-${slugRaw}-${hash}.md`;
-      const detailPath = path.join(NEWS_DIR, detailFile);
+      // 任意: OpenAI要約
+      const ai = process.env.OPENAI_API_KEY ? await tryAiSummary(title, art?.textContent || '', lang.code) : null;
 
-      const front = toFrontmatter({
-        publish: true,
-        title,
-        date: today,
-        source_url: url,
-        domain,
-        tags: ["ai","news"],
-        word_count: wc,
-        reading_min: readingMin,
-        fetched_at: dayjs().toISOString(),
-        published_at: meta.published_at || "",
-        site_name: meta.site_name || "",
-        encoding_used
+      const md = buildArticleMarkdown({
+        title, url, domain, date: today, tags, lang, art, summary, ai
+      });
+      await fs.writeFile(fullPath, md);
+      LOG && console.log('saved fulltext:', fullPath);
+
+      rows.push({
+        time: new Date().toLocaleTimeString('ja-JP', { timeZone: 'Asia/Tokyo', hour: '2-digit', minute: '2-digit' }),
+        title, url, domain, lang: lang.code, tags
       });
 
-      let detailMD = [
-        front,
-        `# ${title}`,
-        "",
-        `**Source:** [${domain}](${url})  \u00A0  **Fetched:** ${dayjs().format("YYYY-MM-DD HH:mm")}`,
-        "",
-        "## TL;DR",
-        tldr ? tldr : "_No summary available._",
-        "",
-        "## Key Points",
-        ...(points.length ? points.slice(0,6).map(p => `- ${p}`) : ["- _No key points detected._"]),
-        ""
-      ].join("\n");
+      // seen更新 & inboxチェック
+      if (!seen.includes(url)) seen.push(url);
+      await markInboxChecked(url).catch(() => {});
 
-      if (SAVE_FULL) {
-        detailMD += "\n## Full Text\n" + (contentMD || "_(no content)_") + "\n";
-      }
-
-      await fs.writeFile(detailPath, detailMD, "utf-8");
-
-      listRows.push({ date: today, title, url, domain, tldr });
-
-      processedLines[lineIndex] = lines[lineIndex].replace("- [ ]", "- [x]");
-
-      console.log(`OK: ${title}`);
-      okCount++;
+      // ちょい待ち（連投抑制）
+      await new Promise((r) => setTimeout(r, 200));
     } catch (e) {
-      console.error(`ERROR processing ${url}:`, e.message);
+      console.error('Process error:', url, e.message);
     }
   }
 
-  if (listRows.length) {
-    const header = JP_COLS
-      ? ["日付","タイトル","ドメイン/媒体","要点"]
-      : ["Date","Title","Domain","TL;DR"];
-    const fm = toFrontmatter({
-      publish: true,
-      title: `AI News — ${today}`,
-      date: today,
-      entries: listRows.length
-    });
-    const tableLines = [
-      `# AI News (${today})`,
-      "",
-      `| ${header.join(" | ")} |`,
-      `| ${header.map(()=>":-").join(" | ")} |`,
-      ...listRows.map(r => {
-        const titleLink = `[${mdEscape(r.title)}](${r.url})`;
-        const cols = JP_COLS
-          ? [r.date, titleLink, mdEscape(r.domain), mdEscape(r.tldr)]
-          : [r.date, titleLink, mdEscape(r.domain), mdEscape(r.tldr)];
-        return `| ${cols.join(" | ")} |`;
-      })
-    ].join("\n") + "\n";
+  await writeJson(SEEN_FILE, seen);
 
-    await fs.writeFile(listPath, fm + tableLines, "utf-8");
+  // デイリーファイル
+  const dayMd = path.join(NEWS_DIR, `${today}--AI-news.md`);
+  const jp = !!args['jp-columns'];
+  const table = renderTable(rows, { jp });
+
+  if (!fssync.existsSync(dayMd)) {
+    const header = jp ? `# AIニュース (${today})\n\n` : `# AI News (${today})\n\n`;
+    await fs.writeFile(dayMd, header + table);
+  } else {
+    await fs.appendFile(dayMd, table);
   }
+  console.log(`OK: ${rows[0]?.title || 'N/A'} / Processed ${rows.length} item(s.)`);
 
-  await fs.writeFile(URL_INBOX, processedLines.join("\n"), "utf-8");
-
-  console.log(`Processed ${okCount} item(s).`);
-}
-
-main().catch(err => {
-  console.error(err);
+  // Obsidianへコピー（ローカルのみ）
+  if (process.env.VAULT_DIR) {
+    await copyToVaultDir(process.env.VAULT_DIR);
+  }
+})().catch((e) => {
+  console.error(e);
   process.exit(1);
 });
+
+function parseArgs(argv) {
+  const out = {};
+  for (let i = 0; i < argv.length; i++) {
+    const a = argv[i];
+    if (a.startsWith('--')) {
+      const k = a.slice(2);
+      const v = (argv[i + 1] && !argv[i + 1].startsWith('--')) ? argv[++i] : true;
+      out[k] = /^\d+$/.test(v) ? Number(v) : v;
+    }
+  }
+  return out;
+}
+
+async function collectFromInbox({ max, seen }) {
+  const txt = fssync.existsSync(INBOX) ? await fs.readFile(INBOX, 'utf8') : '';
+  const lines = txt.split('\n').map(s => s.trim());
+  const urls = [];
+  for (const l of lines) {
+    const m = l.match(/^- \[ \] (https?:\/\/\S+)/);
+    if (m) {
+      const u = m[1];
+      if (!seen.includes(u)) urls.push(u);
+    }
+  }
+  return urls.slice(0, max);
+}
+
+async function collectFromRss({ sinceDays = 7, max = 20, seen }) {
+  const parser = new Parser();
+  const feeds = fssync.existsSync(RSS_FILE) ? (await fs.readFile(RSS_FILE, 'utf8')).split('\n').map(s => s.trim()).filter(Boolean) : [];
+  const since = Date.now() - sinceDays * 86400000;
+  const picked = [];
+  for (const f of feeds) {
+    try {
+      const feed = await parser.parseURL(f);
+      for (const item of feed.items || []) {
+        const link = item.link || item.guid || '';
+        if (!link) continue;
+        const pub = item.isoDate ? new Date(item.isoDate).getTime() : (item.pubDate ? new Date(item.pubDate).getTime() : 0);
+        if (pub && pub < since) continue;
+        if (!seen.includes(link)) picked.push(link);
+      }
+    } catch (e) {
+      console.error('RSS error:', f, e.message);
+    }
+  }
+  // 重複排除＆最大件数
+  const uniq = Array.from(new Set(picked));
+  return uniq.slice(0, max);
+}
+
+function tryTitleFromHtml(html) {
+  const m = html.match(/<title[^>]*>([^<]+)<\/title>/i);
+  return m ? m[1] : '';
+}
+
+function summarizeLocal(text, langCode = 'ja') {
+  if (!text) return '';
+  const sents = splitSentences(text, langCode).slice(0, 8);
+  return sents.slice(0, 4).join(' ');
+}
+
+async function tryAiSummary(title, text, langCode = 'ja') {
+  if (!text) return null;
+  try {
+    const sys = "You are an assistant that writes concise tech news briefs.";
+    const jp = langCode === 'ja';
+    const user = [
+      `記事タイトル: ${title}`,
+      `本文（抜粋）: ${text.slice(0, 6000)}`
+    ].join('\n');
+    const res = await fetch('https://api.openai.com/v1/chat/completions', {
+      method: 'POST',
+      headers: { 'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: process.env.OPENAI_MODEL || 'gpt-4o-mini',
+        messages: [
+          { role: 'system', content: sys },
+          { role: 'user', content: `${user}\n\n出力は${jp ? '日本語' : 'English'}で、「概要(5行以内)」「詳細レポート(箇条書き5点)」を返して。` }
+        ],
+        temperature: 0.2
+      })
+    });
+    if (!res.ok) throw new Error(`OpenAI ${res.status}`);
+    const data = await res.json();
+    const content = data.choices?.[0]?.message?.content?.trim() || '';
+    return content;
+  } catch (e) {
+    console.error('AI summary error:', e.message);
+    return null;
+  }
+}
+
+function buildArticleMarkdown({ title, url, domain, date, tags = [], lang, art, summary, ai }) {
+  const langLabel = lang?.name || 'Unknown';
+  const fm = [
+    '---',
+    `title: "${escapeYaml(title)}"`,
+    `date: ${date}`,
+    `url: ${url}`,
+    `domain: ${domain}`,
+    `lang: ${lang?.code || 'und'}`,
+    `tags: [${tags.map(t => `"${t}"`).join(', ')}]`,
+    '---\n'
+  ].join('\n');
+
+  const header = `# ${title}\n\n`;
+
+  const sectionSource = [
+    '## 🔗 引用元',
+    `- **URL**: ${url}`,
+    `- **サイト**: ${art?.siteName || domain}`,
+    art?.byline ? `- **著者**: ${art.byline}` : '',
+    `- **言語**: ${langLabel}`,
+    ''
+  ].filter(Boolean).join('\n');
+
+  const sectionSummary = [
+    '## 🧭 概要',
+    (ai ? ai.split('\n').slice(0, 10).join('\n') : (summary || '(no summary)')),
+    ''
+  ].join('\n');
+
+  const sectionDetail = [
+    '## 📝 詳細レポート',
+    (ai ? ai : (art?.markdown || '(no content)'))
+  ].join('\n');
+
+  return fm + header + sectionSource + '\n' + sectionSummary + '\n' + sectionDetail + '\n';
+}
+
+function escapeYaml(s) {
+  return String(s).replace(/"/g, '\\"');
+}
+
+function splitSentences(text, langCode) {
+  if (langCode === 'ja') {
+    return text.split(/(?<=[。！!？\?])/).map(s => s.trim()).filter(Boolean);
+  }
+  return text.split(/(?<=[\.\!\?])\s+/).map(s => s.trim()).filter(Boolean);
+}
+
+function renderTable(rows, { jp = false } = {}) {
+  let md = tableHeader({ jp });
+  for (const r of rows) {
+    const tags = r.tags.join(',');
+    md += `| ${r.time} | [${escapePipes(r.title)}](${r.url}) | ${r.domain} | ${r.lang} | ${tags} |\n`;
+  }
+  md += '\n';
+  return md;
+}
+
+function escapePipes(s) { return String(s).replace(/\|/g, '\\|'); }
+
+async function markInboxChecked(url) {
+  if (!fssync.existsSync(INBOX)) return;
+  const txt = await fs.readFile(INBOX, 'utf8');
+  const out = txt.replace(new RegExp(`^- \\[ \\] ${escapeReg(url)}$`, 'm'), `- [x] ${url}`);
+  if (out !== txt) await fs.writeFile(INBOX, out);
+}
+function escapeReg(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }

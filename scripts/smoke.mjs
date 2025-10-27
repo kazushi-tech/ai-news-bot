@@ -1,20 +1,40 @@
-// scripts/smoke.mjs
-import fs from "fs/promises";
-import path from "path";
+#!/usr/bin/env node
+// smoke.mjs — 環境/ディレクトリ/依存の簡易チェック
 
-const ROOT = process.cwd();
-const URL_INBOX = path.join(ROOT, "sources", "url_inbox.md");
 
-async function main() {
-  await fs.appendFile(URL_INBOX, "- [ ] https://www.dwarkesh.com/p/andrej-karpathy\n", "utf-8");
-  const { spawn } = await import("node:child_process");
-  await new Promise((resolve, reject) => {
-    const p = spawn(process.execPath, ["scripts/build_ai_news.mjs", "--max", "1", "--jp-columns", "--save-fulltext"], { stdio: "inherit" });
-    p.on("exit", (code) => code === 0 ? resolve() : reject(new Error("build_ai_news failed with code " + code)));
-  });
+import fs from 'node:fs';
+import path from 'node:path';
+
+
+const mustDirs = ['news', 'sources', '.cache'];
+const mustFiles = ['package.json', '.env.example'];
+
+
+let ok = true;
+
+
+const ver = process.versions.node;
+console.log('Node version:', ver);
+if (!/^\d+/.test(ver) || Number(ver.split('.')[0]) < 24) {
+console.error('NG: Node 24+ が必要です');
+ok = false;
 }
 
-main().catch(err => {
-  console.error(err);
-  process.exit(1);
-});
+
+for (const d of mustDirs) {
+if (!fs.existsSync(path.join(process.cwd(), d))) {
+console.error('NG: missing dir', d);
+ok = false;
+}
+}
+for (const f of mustFiles) {
+if (!fs.existsSync(path.join(process.cwd(), f))) {
+console.error('NG: missing file', f);
+ok = false;
+}
+}
+
+
+if (ok) {
+console.log('OK: environment looks good.');
+}

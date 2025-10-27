@@ -1,6 +1,5 @@
-node_modules
-.cache
+node_modules/
+npm-debug.log*
 .env
+.env.*
 .DS_Store
-news/*.md
-sources/*.md

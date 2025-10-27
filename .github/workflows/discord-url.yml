@@ -1,19 +1,19 @@
-name: ai-news (daily batch)
+name: ai-news (repo_dispatch one-off)
 
 on:
-  schedule:
-    - cron: '12 0 * * *' # 09:12 JST
+  repository_dispatch:
+    types: [ai-news-url]
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: ai-news-daily
+  group: ai-news-repo-dispatch
   cancel-in-progress: false
 
 jobs:
-  daily:
+  build:
     runs-on: ubuntu-latest
     env:
       TZ: Asia/Tokyo
@@ -36,18 +36,23 @@ jobs:
       - name: Install
         run: npm ci
 
-      - name: Build from RSS (past 7 days, max 20)
-        run: npm run build:news -- --rss --since-days 7 --max 20 --jp-columns --save-fulltext
-
-      - name: Weekly & Monthly index (auto)
+      - name: Append to inbox (when repository_dispatch)
+        if: ${{ github.event_name == 'repository_dispatch' }}
         run: |
-          npm run pick:week
-          npm run pick:month
+          URL="${{ github.event.client_payload.url }}"
+          if [ -n "$URL" ]; then
+            echo "- [ ] $URL" >> sources/url_inbox.md
+          else
+            echo "no url payload, skip append"
+          fi
+
+      - name: Build (max 1, JP columns, save fulltext)
+        run: npm run build:news -- --max 1 --jp-columns --save-fulltext
 
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "chore(news): daily batch" || echo "no changes"
+          git commit -m "chore(news): process 1 URL from repo_dispatch" || echo "no changes"
           git push
