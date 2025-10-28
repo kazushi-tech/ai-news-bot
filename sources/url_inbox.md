@@ -2,3 +2,4 @@
 # - 未処理は `- [ ]`、処理後は `- [x]` に自動変換
 
 - [x] https://deepmind.google/discover/blog/bringing-ai-to-the-next-generation-of-fusion-energy/
+- [x] https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/
