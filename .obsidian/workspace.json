@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/index-weekly.md",
+                "file": "news/2025-10-28--computational-hardness-of-reinforcement-learning-with-partial-q-pi-realizability.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index-weekly"
+              "title": "2025-10-28--computational-hardness-of-reinforcement-learning-with-partial-q-pi-realizability"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/index-weekly.md",
+                "file": "news/2025-10-28--computational-hardness-of-reinforcement-learning-with-partial-q-pi-realizability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index-weeklyへのバックリンク"
+              "title": "2025-10-28--computational-hardness-of-reinforcement-learning-with-partial-q-pi-realizabilityへのバックリンク"
             }
           },
           {
@@ -173,42 +173,42 @@
   },
   "active": "88ddd1ad8aacf78c",
   "lastOpenFiles": [
-    "news/index-monthly.md",
+    "node_modules/dotenv/SECURITY.md",
+    "2025-10-26--AI-news.md",
+    "ai-news.yml",
+    "utils.mjs",
+    "summarize.mjs",
+    "install_argos.py",
+    "translate_argos.py",
+    "build_ai_news.mjs",
+    "build_from_clips.mjs",
+    "build_index_monthly.mjs",
+    "rss.txt",
+    "seen.json",
     "news/index-weekly.md",
+    "news/index-monthly.md",
+    "news/2025-10-28--performance-trade-offs-of-optimizing-small-language-models-for-e-commerce.md",
+    "news/2025-10-28--foundation-of-intelligence-review-of-math-word-problems-from-human-cognition-per.md",
     "news/2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
-    "news/weekly/2025-Www.md",
-    "news/weekly",
-    "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
-    "scripts/build_index_weekly.mjs",
-    "news/2025-10-27--AI-news.md",
-    "news/2025-10-26-andrej-karpathy--agi-is-still-a-decade-away-dc08e95a.md",
-    "news/2025-10-26--AI-news.md",
+    "news/2025-10-28--prefine-personalized-story-generation-via-simulated-user-critics-and-user-specif.md",
+    "README_STYLE_MONTHLY.md",
+    "news/fulltext/example-domain.md",
+    "news/2025-10-28--example-domain.md",
     "news/2025-10-28--AI-news.md",
-    "lib/summarize.mjs",
-    "node_modules/markdown-table/index.d.ts",
-    "node_modules/markdown-table/readme.md",
-    "node_modules/markdown-table/index.d.ts.map",
-    "node_modules/markdown-table/package.json",
-    "node_modules/markdown-table/index.js",
-    "node_modules/markdown-table/license",
-    "node_modules/jaconv/vite.config.mts",
-    "node_modules/jaconv/src/test/ts/jaconv/zenhan.spec.ts",
-    "node_modules/jaconv/README.md",
-    "node_modules/dayjs/README.md",
-    "node_modules/dayjs/CHANGELOG.md",
-    "node_modules/@discordjs/formatters/node_modules/discord-api-types/README.md",
-    "node_modules/parse5/README.md",
-    "node_modules/tough-cookie/README.md",
-    "node_modules/https-proxy-agent/README.md",
-    "node_modules/es-set-tostringtag/README.md",
-    "node_modules/http-proxy-agent/README.md",
-    "node_modules/@discordjs/util/README.md",
-    "node_modules/w3c-xmlserializer/README.md",
-    "node_modules/gopd/CHANGELOG.md",
-    "node_modules/gopd/README.md",
-    "node_modules/es-set-tostringtag/CHANGELOG.md",
-    "node_modules/w3c-xmlserializer/LICENSE.md",
-    "node_modules/@discordjs/collection/README.md",
+    "news/2025-10-28--exploration-through-generation-applying-gflownets-to-structured-search.md",
+    "news/2025-10-28--distribution-shift-alignment-helps-llms-simulate-survey-response-distributions.md",
+    "news/2025-10-28--a-multi-component-ai-framework-for-computational-psychology-from-robust-predicti.md",
+    "news/fulltext/foundation-of-intelligence-review-of-math-word-problems-from-human-cognition-per.md",
+    "news/fulltext/distribution-shift-alignment-helps-llms-simulate-survey-response-distributions.md",
+    "news/fulltext/performance-trade-offs-of-optimizing-small-language-models-for-e-commerce.md",
+    "news/fulltext/computational-hardness-of-reinforcement-learning-with-partial-q-pi-realizability.md",
+    "news/2025-10-28--computational-hardness-of-reinforcement-learning-with-partial-q-pi-realizability.md",
+    "news/fulltext/exploration-through-generation-applying-gflownets-to-structured-search.md",
+    "news/fulltext/geothought-a-dataset-for-enhancing-mathematical-geometry-reasoning-in-vision-lan.md",
+    "news/2025-10-28--geothought-a-dataset-for-enhancing-mathematical-geometry-reasoning-in-vision-lan.md",
+    "news/fulltext/capability-ceilings-in-autoregressive-language-models-empirical-evidence-from-kn.md",
+    "news/2025-10-28--capability-ceilings-in-autoregressive-language-models-empirical-evidence-from-kn.md",
+    "news/fulltext/sign-schema-induced-games-for-naming.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }
