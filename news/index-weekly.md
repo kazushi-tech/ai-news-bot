@@ -1,3 +1,38 @@
+# 🗓 週間インデックス
+
+**生成日**: 2025-10-28
+
+## 2025-10-26
+
+# AI News — 2025-10-26
+
+- [Andrej Karpathy — AGI is still a decade away](./2025-10-26-andrej-karpathy--agi-is-still-a-decade-away-dc08e95a.md) — Dwarkesh Podcast
+
+## 2025-10-27
+
+---
+title: "AI News — 2025-10-27"
+date: 2025-10-27
+tags: [ai-news, daily-index]
+---
+
+# AI News — 2025-10-27
+
+| タイトル | 記事 | 引用元 | 要約 |
+|---|---|---|---|
+| Andrej Karpathy — AGI is still a decade away | [記事ページ](./2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md) | [引用元](https://www.dwarkesh.com/p/andrej-karpathy) | [Labelbox](https://labelbox.com/dwarkesh) helps you get data that is more detailed, more accurate, and higher signal than you could get by default, no matter your domain or trainin |
+| Andrej Karpathy — AGI is still a decade away | [記事ページ](./2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md) | [引用元](https://www.dwarkesh.com/p/andrej-karpathy) | [Labelbox](https://labelbox.com/dwarkesh) helps you get data that is more detailed, more accurate, and higher signal than you could get by default, no matter your domain or trainin |
+| Andrej Karpathy — AGI is still a decade away | [記事ページ](./2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md) | [引用元](https://www.dwarkesh.com/p/andrej-karpathy) | [Labelbox](https://labelbox.com/dwarkesh) helps you get data that is more detailed, more accurate, and higher signal than you could get by default, no matter your domain or trainin |
+| Andrej Karpathy — AGI is still a decade away | [記事ページ](./2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md) | [引用元](https://www.dwarkesh.com/p/andrej-karpathy) | [Labelbox](https://labelbox.com/dwarkesh) helps you get data that is more detailed, more accurate, and higher signal than you could get by default, no matter your domain or trainin |
+| Latest News from Google Research Blog - Google Research | [記事ページ](./2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md) | [引用元](https://ai.googleblog.com/) | [ / Climate & Sustainability · / Generative AI · / Machine Perception / [ |
+| Andrej Karpathy — AGI is still a decade away | [記事ページ](./2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md) | [引用元](https://www.dwarkesh.com/p/andrej-karpathy) | [Labelbox](https://labelbox.com/dwarkesh) helps you get data that is more detailed, more accurate, and higher signal than you could get by default, no matter your domain or trainin |
+| Andrej Karpathy — AGI is still a decade away | [記事ページ](./2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md) | [引用元](https://www.dwarkesh.com/p/andrej-karpathy) | [Labelbox](https://labelbox.com/dwarkesh) helps you get data that is more detailed, more accurate, and higher signal than you could get by default, no matter your domain or trainin |
+| Andrej Karpathy — AGI is still a decade away | [記事ページ](./2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md) | [引用元](https://www.dwarkesh.com/p/andrej-karpathy) | [Labelbox](https://labelbox.com/dwarkesh) helps you get data that is more detailed, more accurate, and higher signal than you could get by default, no matter your domain or trainin |
+| Andrej Karpathy — AGI is still a decade away | [記事ページ](./2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md) | [引用元](https://www.dwarkesh.com/p/andrej-karpathy) | [Labelbox](https://labelbox.com/dwarkesh) helps you get data that is more detailed, more accurate, and higher signal than you could get by default, no matter your domain or trainin |
+
+
+## 2025-10-28
+
 # AIニュース (2025-10-28)
 
 | 時刻(JST) | タイトル | 出典 | 言語 | タグ |
@@ -30,4 +65,3 @@
 | 12:33 | [Self-Rewarding PPO: Aligning Large Language Models with Demonstrations Only](https://arxiv.org/abs/2510.21090) | arxiv.org | en | Paper |
 | 12:33 | [The Gray Zone of Faithfulness: Taming Ambiguity in Unfaithfulness Detection](https://arxiv.org/abs/2510.21118) | arxiv.org | en | Paper |
 | 12:33 | [Large Language Models Meet Text-Attributed Graphs: A Survey of Integration Frameworks and Applications](https://arxiv.org/abs/2510.21131) | arxiv.org | en | Paper |
-
