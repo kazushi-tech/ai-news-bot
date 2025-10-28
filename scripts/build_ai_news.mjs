@@ -1,269 +1,224 @@
 #!/usr/bin/env node
 import 'dotenv/config';
-import fs from 'node:fs/promises';
-import fssync from 'node:fs';
+import fs from 'node:fs';
 import path from 'node:path';
 import Parser from 'rss-parser';
+import dayjs from 'dayjs';
+import utc from 'dayjs/plugin/utc.js';
+import timezone from 'dayjs/plugin/timezone.js';
+import { table } from 'markdown-table';
 import {
-  ensureDir, readJson, writeJson, stripUtm, toSlug, jstDateStr,
-  fetchHTML, extractArticle, detectLang, domainFromUrl, tagsFromDomain,
-  copyToVaultDir, tableHeader
+  toJST, formatYMD, weekRangeMonSun,
+  fetchFulltext, htmlToMd, dedupe
 } from '../lib/utils.mjs';
+import { summarizeLocal, summarizeOpenAI } from '../lib/summarize.mjs';
 
-const args = parseArgs(process.argv.slice(2));
-const LOG = !!process.env.LOG_EVERYTHING;
+dayjs.extend(utc);
+dayjs.extend(timezone);
 
-const NEWS_DIR = 'news';
-const FULL_DIR = 'news/fulltext';
-const SEEN_FILE = '.cache/seen.json';
-const INBOX = 'sources/url_inbox.md';
-const RSS_FILE = 'sources/rss.txt';
+const parser = new Parser();
+const ROOT = process.cwd();
+const NEWS_DIR = path.join(ROOT, 'news');
+const FULL_DIR = path.join(NEWS_DIR, 'fulltext');
+fs.mkdirSync(NEWS_DIR, { recursive: true });
+fs.mkdirSync(FULL_DIR, { recursive: true });
 
-(async () => {
-  await ensureDir(NEWS_DIR);
-  await ensureDir(FULL_DIR);
-  await ensureDir('.cache');
+const argv = process.argv.slice(2);
+const MAX = getFlag('--max', 20);
+const SAVE_FULL = hasFlag('--save-fulltext');
+const USE_JP_COLUMNS = hasFlag('--jp-columns');
 
-  const seen = await readJson(SEEN_FILE, []);
-  const today = jstDateStr();
-
-  // 収集
-  let targets = [];
-  if (args.rss) {
-    targets = await collectFromRss({ sinceDays: args['since-days'] ?? 7, max: args.max ?? 20, seen });
-  } else {
-    targets = await collectFromInbox({ max: args.max ?? 1, seen });
-  }
-  if (targets.length === 0) {
-    console.log('No new targets.');
-    process.exit(0);
-  }
-
-  // 処理
-  const rows = [];
-  for (const u of targets) {
-    const url = stripUtm(u);
-    try {
-      const html = await fetchHTML(url);
-      const art = extractArticle(html, url);
-      const domain = domainFromUrl(url);
-      const lang = detectLang((art?.textContent || '') + ' ' + (art?.title || ''));
-      const tags = tagsFromDomain(url);
-
-      const title = (art?.title || tryTitleFromHtml(html) || url).trim();
-      const slug = `${today}--${toSlug(title) || toSlug(domain) || 'untitled'}`;
-      const fullPath = path.join(FULL_DIR, `${slug}.md`);
-
-      // 概要（課金ゼロ＝ローカル要約）: 先頭~中盤の重要っぽい文を数行抽出（雑だが実用）
-      const summary = summarizeLocal(art?.textContent || art?.excerpt || '', lang.code);
-
-      // 任意: OpenAI要約
-      const ai = process.env.OPENAI_API_KEY ? await tryAiSummary(title, art?.textContent || '', lang.code) : null;
-
-      const md = buildArticleMarkdown({
-        title, url, domain, date: today, tags, lang, art, summary, ai
-      });
-      await fs.writeFile(fullPath, md);
-      LOG && console.log('saved fulltext:', fullPath);
-
-      rows.push({
-        time: new Date().toLocaleTimeString('ja-JP', { timeZone: 'Asia/Tokyo', hour: '2-digit', minute: '2-digit' }),
-        title, url, domain, lang: lang.code, tags
-      });
-
-      // seen更新 & inboxチェック
-      if (!seen.includes(url)) seen.push(url);
-      await markInboxChecked(url).catch(() => {});
-
-      // ちょい待ち（連投抑制）
-      await new Promise((r) => setTimeout(r, 200));
-    } catch (e) {
-      console.error('Process error:', url, e.message);
-    }
-  }
-
-  await writeJson(SEEN_FILE, seen);
-
-  // デイリーファイル
-  const dayMd = path.join(NEWS_DIR, `${today}--AI-news.md`);
-  const jp = !!args['jp-columns'];
-  const table = renderTable(rows, { jp });
-
-  if (!fssync.existsSync(dayMd)) {
-    const header = jp ? `# AIニュース (${today})\n\n` : `# AI News (${today})\n\n`;
-    await fs.writeFile(dayMd, header + table);
-  } else {
-    await fs.appendFile(dayMd, table);
-  }
-  console.log(`OK: ${rows[0]?.title || 'N/A'} / Processed ${rows.length} item(s.)`);
-
-  // Obsidianへコピー（ローカルのみ）
-  if (process.env.VAULT_DIR) {
-    await copyToVaultDir(process.env.VAULT_DIR);
-  }
-})().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});
-
-function parseArgs(argv) {
-  const out = {};
-  for (let i = 0; i < argv.length; i++) {
-    const a = argv[i];
-    if (a.startsWith('--')) {
-      const k = a.slice(2);
-      const v = (argv[i + 1] && !argv[i + 1].startsWith('--')) ? argv[++i] : true;
-      out[k] = /^\d+$/.test(v) ? Number(v) : v;
-    }
-  }
-  return out;
+function hasFlag(name) { return argv.includes(name); }
+function getFlag(name, def) {
+  const i = argv.indexOf(name);
+  return i >= 0 ? Number(argv[i + 1]) : def;
 }
 
-async function collectFromInbox({ max, seen }) {
-  const txt = fssync.existsSync(INBOX) ? await fs.readFile(INBOX, 'utf8') : '';
-  const lines = txt.split('\n').map(s => s.trim());
-  const urls = [];
-  for (const l of lines) {
-    const m = l.match(/^- \[ \] (https?:\/\/\S+)/);
-    if (m) {
-      const u = m[1];
-      if (!seen.includes(u)) urls.push(u);
-    }
-  }
-  return urls.slice(0, max);
-}
+const sources = fs.readFileSync(path.join(ROOT, 'sources/rss.txt'), 'utf8')
+  .split('\n')
+  .map((l) => l.trim())
+  .filter((l) => l && !l.startsWith('#'));
 
-async function collectFromRss({ sinceDays = 7, max = 20, seen }) {
-  const parser = new Parser();
-  const feeds = fssync.existsSync(RSS_FILE) ? (await fs.readFile(RSS_FILE, 'utf8')).split('\n').map(s => s.trim()).filter(Boolean) : [];
-  const since = Date.now() - sinceDays * 86400000;
-  const picked = [];
-  for (const f of feeds) {
-    try {
-      const feed = await parser.parseURL(f);
-      for (const item of feed.items || []) {
-        const link = item.link || item.guid || '';
-        if (!link) continue;
-        const pub = item.isoDate ? new Date(item.isoDate).getTime() : (item.pubDate ? new Date(item.pubDate).getTime() : 0);
-        if (pub && pub < since) continue;
-        if (!seen.includes(link)) picked.push(link);
-      }
-    } catch (e) {
-      console.error('RSS error:', f, e.message);
-    }
-  }
-  // 重複排除＆最大件数
-  const uniq = Array.from(new Set(picked));
-  return uniq.slice(0, max);
-}
+const sinceDays = getFlag('--since-days', 7);
+const now = toJST(new Date());
+const dateStr = formatYMD(now);
 
-function tryTitleFromHtml(html) {
-  const m = html.match(/<title[^>]*>([^<]+)<\/title>/i);
-  return m ? m[1] : '';
-}
+console.log('Build AI News:', { dateStr, MAX, sinceDays, SAVE_FULL });
 
-function summarizeLocal(text, langCode = 'ja') {
-  if (!text) return '';
-  const sents = splitSentences(text, langCode).slice(0, 8);
-  return sents.slice(0, 4).join(' ');
-}
-
-async function tryAiSummary(title, text, langCode = 'ja') {
-  if (!text) return null;
+const entries = [];
+for (const url of sources) {
   try {
-    const sys = "You are an assistant that writes concise tech news briefs.";
-    const jp = langCode === 'ja';
-    const user = [
-      `記事タイトル: ${title}`,
-      `本文（抜粋）: ${text.slice(0, 6000)}`
-    ].join('\n');
-    const res = await fetch('https://api.openai.com/v1/chat/completions', {
-      method: 'POST',
-      headers: { 'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`, 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        model: process.env.OPENAI_MODEL || 'gpt-4o-mini',
-        messages: [
-          { role: 'system', content: sys },
-          { role: 'user', content: `${user}\n\n出力は${jp ? '日本語' : 'English'}で、「概要(5行以内)」「詳細レポート(箇条書き5点)」を返して。` }
-        ],
-        temperature: 0.2
-      })
-    });
-    if (!res.ok) throw new Error(`OpenAI ${res.status}`);
-    const data = await res.json();
-    const content = data.choices?.[0]?.message?.content?.trim() || '';
-    return content;
+    const feed = await parser.parseURL(url);
+    for (const item of feed.items || []) {
+      const pub = item.isoDate ? new Date(item.isoDate) : new Date();
+      if ((Date.now() - pub.getTime()) / 86400000 > sinceDays) continue;
+      entries.push({
+        title: item.title || '',
+        url: item.link || '',
+        source: new URL(item.link || feed.link || url).hostname,
+        date: pub,
+        publishedAt: pub
+      });
+    }
   } catch (e) {
-    console.error('AI summary error:', e.message);
-    return null;
+    console.warn('RSS error:', url, e.message);
   }
 }
 
-function buildArticleMarkdown({ title, url, domain, date, tags = [], lang, art, summary, ai }) {
-  const langLabel = lang?.name || 'Unknown';
-  const fm = [
-    '---',
-    `title: "${escapeYaml(title)}"`,
-    `date: ${date}`,
-    `url: ${url}`,
-    `domain: ${domain}`,
-    `lang: ${lang?.code || 'und'}`,
-    `tags: [${tags.map(t => `"${t}"`).join(', ')}]`,
-    '---\n'
-  ].join('\n');
+// 重複除去
+const items = dedupe(entries).slice(0, MAX);
 
-  const header = `# ${title}\n\n`;
+// 本文抽出と要約
+const processedItems = [];
+for (const item of items) {
+  try {
+    const { title: t2, content } = await fetchFulltext(item.url);
+    const md = htmlToMd(content);
+    const title = item.title || t2 || '(無題)';
+    const text = md;
+    const summary = process.env.OPENAI_API_KEY
+      ? await summarizeOpenAI(text)
+      : summarizeLocal(text);
+    item.summary = summary;
+    const publishedAt = item.publishedAt || item.date || new Date();
+    item.publishedAt = publishedAt;
 
-  const sectionSource = [
-    '## 🔗 引用元',
-    `- **URL**: ${url}`,
-    `- **サイト**: ${art?.siteName || domain}`,
-    art?.byline ? `- **著者**: ${art.byline}` : '',
-    `- **言語**: ${langLabel}`,
-    ''
-  ].filter(Boolean).join('\n');
+    // 個別記事（保存）
+    const slug = sanitizeSlug(title);
+    const mdBody = renderArticle({ title, url: item.url, source: item.source, date: now, summary, md });
+    const file = path.join(NEWS_DIR, `${dateStr}--${slug}.md`);
+    fs.writeFileSync(file, mdBody);
+    if (SAVE_FULL) {
+      fs.writeFileSync(path.join(FULL_DIR, `${slug}.md`), `# ${title}\n\n${md}`);
+    }
 
-  const sectionSummary = [
-    '## 🧭 概要',
-    (ai ? ai.split('\n').slice(0, 10).join('\n') : (summary || '(no summary)')),
-    ''
-  ].join('\n');
-
-  const sectionDetail = [
-    '## 📝 詳細レポート',
-    (ai ? ai : (art?.markdown || '(no content)'))
-  ].join('\n');
-
-  return fm + header + sectionSource + '\n' + sectionSummary + '\n' + sectionDetail + '\n';
-}
-
-function escapeYaml(s) {
-  return String(s).replace(/"/g, '\\"');
-}
-
-function splitSentences(text, langCode) {
-  if (langCode === 'ja') {
-    return text.split(/(?<=[。！!？\?])/).map(s => s.trim()).filter(Boolean);
+    processedItems.push({
+      title,
+      url: item.url,
+      source: item.source,
+      summary,
+      lang: guessLang(md) || '—',
+      articlePath: file,
+      publishedAt
+    });
+  } catch (e) {
+    console.warn('build item error:', item.url, e.message);
   }
-  return text.split(/(?<=[\.\!\?])\s+/).map(s => s.trim()).filter(Boolean);
 }
 
-function renderTable(rows, { jp = false } = {}) {
-  let md = tableHeader({ jp });
+// 日次インデックス（表）
+const dailyFile = path.join(NEWS_DIR, `${dateStr}--AI-news.md`);
+if (USE_JP_COLUMNS) {
+  const mdTable = makeNewsTable(processedItems);
+  const header = `# ${formatYMD(toJST())} — AIニュース`;
+  fs.writeFileSync(dailyFile, `${header}\n\n${mdTable}\n`);
+} else {
+  fs.writeFileSync(dailyFile, renderTable(processedItems));
+}
+
+// 週次集約（Mon-Sun）
+const wr = weekRangeMonSun(now);
+const WEEK_DIR = path.join(NEWS_DIR, 'weekly', wr.label);
+fs.mkdirSync(WEEK_DIR, { recursive: true });
+const weeklyIndex = path.join(WEEK_DIR, 'index.md');
+appendWeekly(weeklyIndex, processedItems, dateStr);
+
+console.log(`OK: ${processedItems[0]?.title || '-'} / Processed ${processedItems.length} item(s.)`);
+
+
+// ===== helpers =====
+
+function renderArticle({ title, url, source, date, summary, md }) {
+  const ymd = formatYMD(date);
+  return `# ${title}
+
+プロパティ  
+- **リンク**: ${url}  
+- **ソース**: ${source}  
+- **日付**: ${ymd}  
+
+## 引用元
+${url}
+
+${summary}
+
+## 詳細レポート
+${md}
+`;
+}
+
+function renderTable(rows) {
+  const headers = ['Title', 'Source', 'Lang', 'Tags', 'Article'];
+
+  const lines = [];
+  lines.push(`| ${headers.join(' | ')} |`);
+  lines.push(`| ${headers.map(() => '---').join(' | ')} |`);
+
   for (const r of rows) {
-    const tags = r.tags.join(',');
-    md += `| ${r.time} | [${escapePipes(r.title)}](${r.url}) | ${r.domain} | ${r.lang} | ${tags} |\n`;
+    const articleLink = `[記事ページへ](${path.basename(r.articlePath)})`;
+    const row = [
+      `[${r.title}](${r.url})`,
+      r.source,
+      r.lang || '—',
+      guessTags(r.source).join(','),
+      articleLink
+    ];
+    lines.push(`| ${row.join(' | ')} |`);
   }
-  md += '\n';
-  return md;
+  return `# ${formatYMD(toJST())} — AIニュース\n\n${lines.join('\n')}\n`;
 }
 
-function escapePipes(s) { return String(s).replace(/\|/g, '\\|'); }
-
-async function markInboxChecked(url) {
-  if (!fssync.existsSync(INBOX)) return;
-  const txt = await fs.readFile(INBOX, 'utf8');
-  const out = txt.replace(new RegExp(`^- \\[ \\] ${escapeReg(url)}$`, 'm'), `- [x] ${url}`);
-  if (out !== txt) await fs.writeFile(INBOX, out);
+function toRow(item) {
+  const published = item.publishedAt || Date.now();
+  const dateJst = dayjs(published).tz('Asia/Tokyo').format('YYYY-MM-DD');
+  return [
+    dateJst,
+    item.title || '',
+    item.source || '',
+    item.summary || '',
+    item.url
+  ];
 }
-function escapeReg(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+
+function makeNewsTable(items) {
+  const header = ['日付','タイトル','ソース','要約','URL'];
+  const rows = items.map(toRow);
+  return table([header, ...rows], { align: ['c','l','c','l','l'] });
+}
+
+function appendWeekly(weeklyIndex, rows, dateStr) {
+  const title = `## ${dateStr}`;
+  const block = rows.map((r) => `- [${r.title}](${path.basename(r.articlePath)}) — ${r.source}`).join('\n');
+  const add = `${title}\n${block}\n\n`;
+  if (!fs.existsSync(weeklyIndex)) {
+    fs.writeFileSync(weeklyIndex, `# 週次インデックス（Mon-Sun）\n\n${add}`);
+  } else {
+    fs.appendFileSync(weeklyIndex, add);
+  }
+}
+
+function sanitizeSlug(s) {
+  return (s || '')
+    .toLowerCase()
+    .replace(/[^\p{Letter}\p{Number}]+/gu, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 80);
+}
+
+// ざっくり言語推定（見た目用）
+function guessLang(md = '') {
+  const jp = /[一-龠ぁ-んァ-ヶ]/.test(md);
+  const en = /[a-zA-Z]/.test(md);
+  if (jp && en) return 'mixed';
+  if (jp) return 'ja';
+  if (en) return 'en';
+  return '';
+}
+
+function guessTags(host = '') {
+  if (/arxiv\.org/.test(host)) return ['Paper'];
+  if (/huggingface/.test(host)) return ['HuggingFace','OSS'];
+  if (/openai\.com/.test(host)) return ['OpenAI'];
+  if (/deepmind|google/.test(host)) return ['Google'];
+  return [];
+}

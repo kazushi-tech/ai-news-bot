@@ -1,15 +1,7 @@
 {
   "cSpell.words": [
-    "ai-news",
-    "franc",
-    "fulltext",
-    "jsdom",
-    "repo",
-    "rss",
-    "turndown",
-    "UTM",
-    "fssync"
-  ],
-  "editor.formatOnSave": true,
-  "markdown.preview.breaks": true
+    "jaconv", "gclid", "fbclid", "igshid",
+    "utm", "dedup", "tkey", "cssclass",
+    "repo", "dispatch", "Obsidian"
+  ]
 }

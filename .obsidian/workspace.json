@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "news/2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a26e824931d3b7b6",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/2025-10-26--AI-news.md",
+                "file": "news/2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-10-26--AI-newsへのバックリンク"
+              "title": "2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95aへのバックリンク"
             }
           },
           {
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,47 +165,50 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "88ddd1ad8aacf78c",
   "lastOpenFiles": [
-    "node_modules/@mixmark-io/domino/test/xss.js",
-    "node_modules/@mixmark-io/domino/test/web-platform-tests.js",
-    "node_modules/@mixmark-io/domino/test/web-platform-blocklist.json",
-    "node_modules/discord-api-types/v9.mjs",
-    "node_modules/discord-api-types/v9.js.map",
-    "node_modules/discord-api-types/v9.js",
-    "node_modules/discord-api-types/voice/v8.mjs",
-    "node_modules/discord-api-types/voice/v8.d.ts.map",
-    "node_modules/discord-api-types/voice/v8.js.map",
-    "node_modules/discord-api-types/voice/v8.js",
-    "node_modules/discord-api-types/voice/v8.d.ts",
-    "node_modules/lodash/README.md",
-    "node_modules/jsdom/README.md",
-    "node_modules/discord.js/README.md",
+    "news/2025-10-28--AI-news.md",
+    "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
+    "news/2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
+    "news/index-weekly.md",
+    "lib/summarize.mjs",
+    "node_modules/markdown-table/index.d.ts",
+    "node_modules/markdown-table/readme.md",
+    "node_modules/markdown-table/index.d.ts.map",
+    "node_modules/markdown-table/package.json",
+    "node_modules/markdown-table/index.js",
+    "node_modules/markdown-table/license",
+    "node_modules/jaconv/vite.config.mts",
+    "node_modules/jaconv/src/test/ts/jaconv/zenhan.spec.ts",
+    "node_modules/jaconv/src/test/ts/jaconv/hebon.spec.ts",
+    "node_modules/jaconv/src/test/ts/jaconv/katahira.spec.ts",
+    "node_modules/jaconv/README.md",
     "node_modules/dayjs/README.md",
     "node_modules/dayjs/CHANGELOG.md",
-    "node_modules/web-streams-polyfill/README.md",
-    "node_modules/undici/README.md",
-    "node_modules/jschardet/README.md",
-    "node_modules/rss-parser/README.md",
-    "node_modules/cssstyle/README.md",
+    "node_modules/@discordjs/formatters/node_modules/discord-api-types/README.md",
     "node_modules/parse5/README.md",
-    "node_modules/entities/readme.md",
-    "node_modules/lru-cache/README.md",
-    "node_modules/iconv-lite/Changelog.md",
-    "node_modules/psl/browserstack-logo.svg",
-    "node_modules/iconv-lite/README.md",
-    "node_modules/psl/SECURITY.md",
-    "node_modules/psl/README.md",
-    "node_modules/node-domexception/README.md",
-    "node_modules/node-fetch/README.md",
-    "node_modules/node-fetch/LICENSE.md",
-    "node_modules/math-intrinsics/README.md",
-    "node_modules/math-intrinsics/CHANGELOG.md",
-    "node_modules/magic-bytes.js/README.md",
-    "node_modules/mime-db/README.md",
-    "node_modules/agent-base/README.md"
+    "node_modules/tough-cookie/README.md",
+    "node_modules/https-proxy-agent/README.md",
+    "node_modules/es-set-tostringtag/README.md",
+    "node_modules/http-proxy-agent/README.md",
+    "node_modules/@discordjs/util/README.md",
+    "node_modules/w3c-xmlserializer/README.md",
+    "node_modules/gopd/CHANGELOG.md",
+    "node_modules/gopd/README.md",
+    "node_modules/es-set-tostringtag/CHANGELOG.md",
+    "node_modules/w3c-xmlserializer/LICENSE.md",
+    "node_modules/@discordjs/collection/README.md",
+    "node_modules/symbol-tree/README.md",
+    "node_modules/lodash.snakecase/README.md",
+    "node_modules/asynckit/README.md",
+    "node_modules/@discordjs/collection/CHANGELOG.md",
+    "node_modules/cssstyle/README.md",
+    "node_modules/psl/browserstack-logo.svg"
   ]
 }

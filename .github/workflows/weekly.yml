@@ -1,0 +1,25 @@
+name: ai-news (weekly)
+on:
+    schedule:
+        - cron: "15 0 * * 1" # JST 09:15
+    workflow_dispatch:
+
+jobs:
+    weekly:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v4
+              with:
+                  node-version: "24"
+            - run: npm ci
+            - run: node scripts/pick_ai_week.mjs
+            - name: Commit & push weekly
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git add weekly/
+                  git commit -m "chore(weekly): generate ${GITHUB_RUN_ID}" || echo "no changes"
+                  git push

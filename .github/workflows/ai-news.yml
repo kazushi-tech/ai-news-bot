@@ -17,37 +17,48 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: Asia/Tokyo
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '24'
-
-      - name: Use npm cache
-        uses: actions/cache@v4
-        with:
-          path: ~/.npm
-          key: node24-${{ hashFiles('package-lock.json') }}
-          restore-keys: |
-            node24-
+          cache: 'npm'
 
       - name: Install
         run: npm ci
 
-      - name: Build from RSS (past 7 days, max 20)
-        run: npm run build:news -- --rss --since-days 7 --max 20 --jp-columns --save-fulltext
-
-      - name: Weekly & Monthly index (auto)
+      - name: Build from RSS (past 7 days, max 20; JP columns; save fulltext)
         run: |
-          npm run pick:week
-          npm run pick:month
+          npm run build:news -- --rss --since-days 7 --max 20 --jp-columns --save-fulltext
+
+      - name: Generate weekly/monthly indices (JST-aware)
+        run: |
+          set -e
+          DOW=$(TZ=Asia/Tokyo date +%u)  # 1..7 (Mon=1)
+          DOM=$(TZ=Asia/Tokyo date +%d)  # 01..31
+
+          if [ "$DOW" = "1" ]; then
+            echo "Monday JST → generate weekly index"
+            node scripts/pick_ai_week.mjs
+          else
+            echo "Not Monday JST → skip weekly"
+          fi
+
+          if [ "$DOM" = "01" ]; then
+            echo "1st of month JST → try monthly index (optional)"
+            npm run -s pick:month || true
+          fi
 
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "chore(news): daily batch" || echo "no changes"
           git push

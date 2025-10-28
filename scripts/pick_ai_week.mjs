@@ -1,38 +1,74 @@
-#!/usr/bin/env node
+// scripts/pick_ai_week.mjs
 import fs from 'node:fs/promises';
-import fssync from 'node:fs';
 import path from 'node:path';
-import { jstDateStr } from '../lib/utils.mjs';
+import dayjs from 'dayjs';
+import utc from 'dayjs/plugin/utc.js';
+import timezone from 'dayjs/plugin/timezone.js';
+import { table } from 'markdown-table';
+
+dayjs.extend(utc); dayjs.extend(timezone);
+const TZ = 'Asia/Tokyo';
 
 const NEWS_DIR = 'news';
+const WEEKLY_DIR = 'weekly';
 
-(async () => {
-  const args = new Set(process.argv.slice(2));
-  const files = (await fs.readdir(NEWS_DIR)).filter(f => f.endsWith('--AI-news.md')).sort().reverse();
-
-  if (args.has('--weekly')) {
-    await buildIndex(files, 7, 'index-weekly.md', '🗓 週間インデックス');
-  }
-  if (args.has('--monthly')) {
-    await buildIndex(files, 31, 'index-monthly.md', '🗓 月間インデックス');
-  }
-})().catch(e => { console.error(e); process.exit(1); });
-
-async function buildIndex(files, days, outName, title) {
-  const now = Date.now();
-  const pick = [];
-  for (const f of files) {
-    const date = f.slice(0, 10);
-    const t = new Date(date + 'T00:00:00+09:00').getTime();
-    if (now - t <= days * 86400000) pick.push(f);
-  }
-  const out = ['# ' + title, '', `**生成日**: ${jstDateStr()}`, ''].join('\n');
-  let body = out;
-  for (const f of pick.sort()) {
-    const p = path.join(NEWS_DIR, f);
-    const md = await fs.readFile(p, 'utf8');
-    body += `\n## ${f.slice(0, 10)}\n\n` + md + '\n';
-  }
-  await fs.writeFile(path.join(NEWS_DIR, outName), body.trim() + '\n');
-  console.log(`built ${outName} (${pick.length} days)`);
+function weekRangeJST(d = dayjs().tz(TZ)) {
+  // 月曜はじまり
+  const dow = (d.day()+6)%7; // Mon:0 ... Sun:6
+  const start = d.subtract(dow, 'day').startOf('day');
+  const end = start.add(6, 'day').endOf('day');
+  return { start, end };
 }
+
+function parseFrontmatter(md) {
+  const m = md.match(/^---\n([\s\S]*?)\n---/);
+  const body = md.replace(/^---[\s\S]*?---\n?/, '');
+  return { body, fm: m ? m[1] : '' };
+}
+
+function collectNewsFiles() {
+  return fs.readdir(NEWS_DIR).then(files =>
+    files.filter(f => /\.md$/.test(f)).map(f => path.join(NEWS_DIR, f))
+  );
+}
+
+function extractRowsFromDaily(body) {
+  const block = body.split('\n').filter(l=>l.trim()).join('\n');
+  const tableStart = block.indexOf('| 日付 |');
+  if (tableStart === -1) return [];
+  const lines = block.slice(tableStart).split('\n').filter(x=>x.startsWith('|'));
+  // 1行目ヘッダ、2行目区切り、以降データ
+  return lines.slice(2).map(line=>{
+    const cols = line.split('|').slice(1,-1).map(c=>c.trim());
+    return { date: cols[0], title: cols[1], source: cols[2], summary: cols[3], url: cols[4] };
+  });
+}
+
+function markdownWeekly({start, end}, rows) {
+  const title = `AI News Weekly (${start.format('YYYY-MM-DD')} — ${end.format('YYYY-MM-DD')})`;
+  const header = ['日付','タイトル','ソース','要約','URL'];
+  const mdTable = table([header, ...rows.map(r=>[r.date,r.title,r.source,r.summary,r.url])], {
+    align: ['c','l','c','l','l']
+  });
+  return `---\ncssclass: ai-weekly\n---\n# ${title}\n\n> 期間: ${start.format('YYYY-MM-DD')}〜${end.format('YYYY-MM-DD')}（JST）\n\n${mdTable}\n`;
+}
+
+async function main() {
+  const { start, end } = weekRangeJST();
+  const files = await collectNewsFiles();
+  const rows = [];
+  for (const f of files) {
+    const md = await fs.readFile(f,'utf8');
+    const { body } = parseFrontmatter(md);
+    const rs = extractRowsFromDaily(body);
+    for (const r of rs) {
+      const d = dayjs.tz(r.date, TZ);
+      if (d.isAfter(start) && d.isBefore(end.add(1,'day'))) rows.push(r);
+    }
+  }
+  await fs.mkdir(WEEKLY_DIR, { recursive: true });
+  const outPath = path.join(WEEKLY_DIR, `${start.format('YYYY-[W]ww')}.md`);
+  await fs.writeFile(outPath, markdownWeekly({start,end}, rows), 'utf8');
+  console.log(`Weekly written: ${outPath} (${rows.length} items)`);
+}
+await main();
