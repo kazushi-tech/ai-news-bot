@@ -1,27 +1,29 @@
 {
   "name": "ai-news-bot",
-  "version": "0.1.0",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=24" },
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
-    "init:dirs": "mkdir -p news/fulltext sources .cache",
+    "start:bot": "node bot/index.mjs",
     "build:news": "node scripts/build_ai_news.mjs",
-    "pick:week": "node scripts/pick_ai_week.mjs",
-    "smoke": "node scripts/smoke.mjs",
-    "start:bot": "node bot/index.mjs"
+    "build:from-clips": "node scripts/build_from_clips.mjs",
+    "pick:week": "node scripts/pick_ai_week.mjs --weekly",
+    "pick:month": "node scripts/pick_ai_week.mjs --monthly",
+    "fmt": "npx prettier -w ."
   },
   "dependencies": {
-    "@mozilla/readability": "latest",
-    "dayjs": "latest",
-    "discord.js": "latest",
-    "dotenv": "latest",
-    "iconv-lite": "latest",
-    "jschardet": "latest",
-    "jsdom": "latest",
-    "node-fetch": "latest",
-    "rss-parser": "latest",
-    "sanitize-filename": "latest",
-    "turndown": "latest"
+    "@mozilla/readability": "0.5.0",
+    "discord.js": "14.16.3",
+    "dotenv": "16.4.5",
+    "franc-min": "6.1.0",
+    "jsdom": "24.1.0",
+    "langs": "2.0.0",
+    "rss-parser": "3.13.0",
+    "turndown": "7.2.0"
+  },
+  "devDependencies": {
+    "prettier": "3.3.3"
   }
 }
