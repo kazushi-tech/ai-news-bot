@@ -1,23 +1,15 @@
-/* ====== AI News table polish ====== */
+/* ヘッダ固定＋縞模様＋狭めのセル */
 .markdown-preview-view table {
   width: 100%;
-  border-collapse: separate;
-  border-spacing: 0;
-}
-.markdown-preview-view th, .markdown-preview-view td {
-  padding: 10px 12px;
-  border-bottom: 1px solid var(--background-modifier-border);
-  vertical-align: top;
+  border-collapse: collapse;
 }
 .markdown-preview-view thead th {
-  position: sticky;
-  top: 0;
+  position: sticky; top: 0; z-index: 2;
   background: var(--background-primary);
-  z-index: 1;
-  font-weight: 700;
 }
-.markdown-preview-view tbody tr:nth-child(even) td {
-  background: var(--background-secondary);
+.markdown-preview-view table th, .markdown-preview-view table td {
+  padding: 6px 8px;
+  border: 1px solid var(--background-modifier-border);
+  vertical-align: top;
 }
-.markdown-preview-view td:nth-child(1) { font-weight: 600; }
-.markdown-preview-view td a { text-decoration: none; }
+.markdown-preview-view table tbody tr:nth-child(odd) { background: rgba(127,127,127,.06); }

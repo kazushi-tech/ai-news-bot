@@ -1,9 +1,1 @@
-https://openai.com/blog/rss/
-https://www.anthropic.com/feed.xml
-https://ai.googleblog.com/atom.xml
-https://deepmind.google/discover/blog/feed.xml
 https://arxiv.org/rss/cs.AI
-https://arxiv.org/rss/cs.CL
-https://ai.meta.com/blog/rss/
-https://www.microsoft.com/en-us/research/feed/
-https://ai.apple.com/news/rss.xml

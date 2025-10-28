@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
+                "file": "news/index-weekly.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-27-latest-news-from-google-research-blog-google-research-fc993854"
+              "title": "index-weekly"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
+                "file": "news/index-weekly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-10-27-latest-news-from-google-research-blog-google-research-fc993854へのバックリンク"
+              "title": "index-weeklyへのバックリンク"
             }
           },
           {
@@ -173,13 +173,17 @@
   },
   "active": "88ddd1ad8aacf78c",
   "lastOpenFiles": [
+    "news/index-monthly.md",
+    "news/index-weekly.md",
     "news/2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
+    "news/weekly/2025-Www.md",
+    "news/weekly",
+    "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
+    "scripts/build_index_weekly.mjs",
     "news/2025-10-27--AI-news.md",
     "news/2025-10-26-andrej-karpathy--agi-is-still-a-decade-away-dc08e95a.md",
     "news/2025-10-26--AI-news.md",
     "news/2025-10-28--AI-news.md",
-    "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
-    "news/index-weekly.md",
     "lib/summarize.mjs",
     "node_modules/markdown-table/index.d.ts",
     "node_modules/markdown-table/readme.md",
@@ -189,8 +193,6 @@
     "node_modules/markdown-table/license",
     "node_modules/jaconv/vite.config.mts",
     "node_modules/jaconv/src/test/ts/jaconv/zenhan.spec.ts",
-    "node_modules/jaconv/src/test/ts/jaconv/hebon.spec.ts",
-    "node_modules/jaconv/src/test/ts/jaconv/katahira.spec.ts",
     "node_modules/jaconv/README.md",
     "node_modules/dayjs/README.md",
     "node_modules/dayjs/CHANGELOG.md",
@@ -207,8 +209,6 @@
     "node_modules/es-set-tostringtag/CHANGELOG.md",
     "node_modules/w3c-xmlserializer/LICENSE.md",
     "node_modules/@discordjs/collection/README.md",
-    "node_modules/symbol-tree/README.md",
-    "node_modules/lodash.snakecase/README.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }
