@@ -6,10 +6,11 @@ import Parser from 'rss-parser';
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc.js';
 import timezone from 'dayjs/plugin/timezone.js';
-import { table } from 'markdown-table';
+import { markdownTable } from 'markdown-table';
 import {
   toJST, formatYMD, weekRangeMonSun,
-  fetchFulltext, htmlToMd, dedupe
+  fetchFulltext, htmlToMd,
+  dedupItems as dedupe // ← utils の dedupItems を dedupe 名で使う
 } from '../lib/utils.mjs';
 import { summarizeLocal, summarizeOpenAI } from '../lib/summarize.mjs';
 
@@ -65,7 +66,7 @@ for (const url of sources) {
   }
 }
 
-// 重複除去
+// 重複除去（URL正規化 + タイトル類似）
 const items = dedupe(entries).slice(0, MAX);
 
 // 本文抽出と要約
@@ -75,10 +76,12 @@ for (const item of items) {
     const { title: t2, content } = await fetchFulltext(item.url);
     const md = htmlToMd(content);
     const title = item.title || t2 || '(無題)';
+
     const text = md;
     const summary = process.env.OPENAI_API_KEY
       ? await summarizeOpenAI(text)
       : summarizeLocal(text);
+
     item.summary = summary;
     const publishedAt = item.publishedAt || item.date || new Date();
     item.publishedAt = publishedAt;
@@ -110,13 +113,13 @@ for (const item of items) {
 const dailyFile = path.join(NEWS_DIR, `${dateStr}--AI-news.md`);
 if (USE_JP_COLUMNS) {
   const mdTable = makeNewsTable(processedItems);
-  const header = `# ${formatYMD(toJST())} — AIニュース`;
+  const header = `# ${formatYMD(now)} — AIニュース`;
   fs.writeFileSync(dailyFile, `${header}\n\n${mdTable}\n`);
 } else {
   fs.writeFileSync(dailyFile, renderTable(processedItems));
 }
 
-// 週次集約（Mon-Sun）
+// 週次集約（Mon–Sun の簡易インデックス）
 const wr = weekRangeMonSun(now);
 const WEEK_DIR = path.join(NEWS_DIR, 'weekly', wr.label);
 fs.mkdirSync(WEEK_DIR, { recursive: true });
@@ -165,7 +168,7 @@ function renderTable(rows) {
     ];
     lines.push(`| ${row.join(' | ')} |`);
   }
-  return `# ${formatYMD(toJST())} — AIニュース\n\n${lines.join('\n')}\n`;
+  return `# ${formatYMD(now)} — AIニュース\n\n${lines.join('\n')}\n`;
 }
 
 function toRow(item) {
@@ -181,9 +184,9 @@ function toRow(item) {
 }
 
 function makeNewsTable(items) {
-  const header = ['日付','タイトル','ソース','要約','URL'];
+  const header = ['日付', 'タイトル', 'ソース', '要約', 'URL'];
   const rows = items.map(toRow);
-  return table([header, ...rows], { align: ['c','l','c','l','l'] });
+  return markdownTable([header, ...rows], { align: ['c', 'l', 'c', 'l', 'l'] });
 }
 
 function appendWeekly(weeklyIndex, rows, dateStr) {
@@ -217,7 +220,7 @@ function guessLang(md = '') {
 
 function guessTags(host = '') {
   if (/arxiv\.org/.test(host)) return ['Paper'];
-  if (/huggingface/.test(host)) return ['HuggingFace','OSS'];
+  if (/huggingface/.test(host)) return ['HuggingFace', 'OSS'];
   if (/openai\.com/.test(host)) return ['OpenAI'];
   if (/deepmind|google/.test(host)) return ['Google'];
   return [];

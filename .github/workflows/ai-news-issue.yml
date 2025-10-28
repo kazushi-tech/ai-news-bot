@@ -1,0 +1,109 @@
+name: ai-news (from issue)
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  from-issue:
+    if: >
+      github.event.issue.state == 'open' &&
+      (
+        contains(github.event.issue.body, 'http') ||
+        contains(github.event.issue.title, 'http') ||
+        (github.event.action == 'labeled' && github.event.label.name == 'ai-news')
+      )
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Tokyo
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Install
+        run: npm ci
+
+      - name: Ensure label exists (ai-news)
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const name = "ai-news";
+            const color = "0ea5e9";
+            try {
+              await github.rest.issues.getLabel({ ...context.repo, name });
+            } catch {
+              await github.rest.issues.createLabel({
+                ...context.repo, name, color, description: "Trigger AI news processing"
+              });
+            }
+
+      - name: Extract first URL from issue (title or body)
+        id: ex
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = context.payload.issue.title || "";
+            const body  = context.payload.issue.body  || "";
+            const m = (title + "\n" + body).match(/https?:\/\/\S+/);
+            core.setOutput("url", m ? m[0] : "");
+
+      - name: Decide URL presence
+        id: flag
+        run: |
+          if [ -n "${{ steps.ex.outputs.url }}" ]; then
+            echo "has_url=true"  >> $GITHUB_OUTPUT
+          else
+            echo "has_url=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Append to inbox & build 1 item (JP columns / no time)
+        if: ${{ steps.flag.outputs.has_url == 'true' }}
+        run: |
+          echo "- [ ] ${{ steps.ex.outputs.url }}" >> sources/url_inbox.md
+          node scripts/build_from_clips.mjs --max 1 --jp-columns --save-fulltext
+
+      - name: Commit & push
+        if: ${{ steps.flag.outputs.has_url == 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore(news): process 1 URL from issue #${{ github.event.issue.number }}" || echo "no changes"
+          git push
+
+      - name: Comment result & close issue
+        if: ${{ steps.flag.outputs.has_url == 'true' }}
+        uses: actions/github-script@v7
+        env:
+          URL: ${{ steps.ex.outputs.url }}
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              ...context.repo, issue_number: context.issue.number,
+              body: `✅ Processed: ${process.env.URL}`
+            });
+            await github.rest.issues.update({
+              ...context.repo, issue_number: context.issue.number, state: "closed"
+            });
+
+      - name: Comment guidance (no URL found)
+        if: ${{ steps.flag.outputs.has_url == 'false' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              ...context.repo, issue_number: context.issue.number,
+              body: "⚠️ URLが見つかりませんでした。Issueの**タイトルか本文**にURLを1つ入れてください。"
+            });

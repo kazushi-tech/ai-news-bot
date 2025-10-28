@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
+                "file": "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a"
+              "title": "2025-10-27-latest-news-from-google-research-blog-google-research-fc993854"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
+                "file": "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95aへのバックリンク"
+              "title": "2025-10-27-latest-news-from-google-research-blog-google-research-fc993854へのバックリンク"
             }
           },
           {
@@ -173,9 +173,12 @@
   },
   "active": "88ddd1ad8aacf78c",
   "lastOpenFiles": [
+    "news/2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
+    "news/2025-10-27--AI-news.md",
+    "news/2025-10-26-andrej-karpathy--agi-is-still-a-decade-away-dc08e95a.md",
+    "news/2025-10-26--AI-news.md",
     "news/2025-10-28--AI-news.md",
     "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
-    "news/2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
     "news/index-weekly.md",
     "lib/summarize.mjs",
     "node_modules/markdown-table/index.d.ts",
@@ -206,9 +209,6 @@
     "node_modules/@discordjs/collection/README.md",
     "node_modules/symbol-tree/README.md",
     "node_modules/lodash.snakecase/README.md",
-    "node_modules/asynckit/README.md",
-    "node_modules/@discordjs/collection/CHANGELOG.md",
-    "node_modules/cssstyle/README.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }
