@@ -1,3 +1,8 @@
+## 2025年10月29日（水）
+
+- [ ] https://example.com/a
+- [ ] https://example.com/b
+
 # URL Inbox
 # - 未処理は `- [ ]`、処理後は `- [x]` に自動変換
 
