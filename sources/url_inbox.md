@@ -1,5 +1,7 @@
 ## 2025年10月29日（水）
 
+- [ ] EXTRACT_URLS.outputs.urls }},[object Object
+
 - [ ] https://example.com/a
 - [ ] https://example.com/b
 
