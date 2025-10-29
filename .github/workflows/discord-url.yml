@@ -1,4 +1,4 @@
-name: ai-news (repo_dispatch one-off)
+name: inbox from Discord (via Dify) 
 
 on:
   repository_dispatch:
