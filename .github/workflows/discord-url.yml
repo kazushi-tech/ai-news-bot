@@ -2,7 +2,7 @@ name: inbox from Discord (via Dify)
 
 on:
   repository_dispatch:
-    types: [ai-news-url]
+    types: [inbox_url]
 
 permissions:
   contents: write
