@@ -1,4 +1,4 @@
-name: inbox from Discord (via Dify) 
+name: inbox from Discord (via Dify)
 
 on:
   repository_dispatch:
@@ -7,25 +7,99 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: ai-news-inbox
+  cancel-in-progress: false
+
 jobs:
-  inbox: 
+  inbox:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
-      - uses: actions/setup-node@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          node-version: '24'
-          cache: 'npm'
-      - run: npm ci
-      - name: Append to inbox & build 1
+          fetch-depth: 0
+
+      - name: Show incoming payload
+        shell: bash
         run: |
-          echo "- [ ] ${{ github.event.client_payload.url }}" >> sources/url_inbox.md
-          node scripts/build_from_clips.mjs --max 1 --jp-columns --save-fulltext
+          echo "Incoming URLs(JSON): ${{ toJson(github.event.client_payload.urls) }}"
+
+      - name: Insert into sources/url_inbox.md (JP date header, top-insert, dedupe)
+        env:
+          URLS_JSON: ${{ toJson(github.event.client_payload.urls) }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p sources
+          touch sources/url_inbox.md
+
+          node - <<'NODE'
+          const fs = require('fs');
+          const path = 'sources/url_inbox.md';
+          const incoming = JSON.parse(process.env.URLS_JSON || '[]');
+
+          // 受信URLが空なら成功で終了
+          if (!Array.isArray(incoming) || incoming.length === 0) {
+            console.log('No URLs in payload. Skip.');
+            process.exit(0);
+          }
+
+          // 日本時間の見出し（Obsidian向け）
+          const tz = 'Asia/Tokyo';
+          const now = new Date(new Date().toLocaleString('en-US', { timeZone: tz }));
+          const w = '日月火水木金土'[now.getDay()];
+          const header = `## ${now.getFullYear()}年${String(now.getMonth()+1).padStart(2,'0')}月${String(now.getDate()).padStart(2,'0')}日（${w}）`;
+
+          // URL末尾の余分（括弧/句読点など）を除去
+          const trailRe = /[)\]\}＞》」』】、。．，｡､…・!?！？]*$/;
+          const norm = (u) => String(u || '').replace(trailRe, '');
+
+          // 既存本文と既存URL一覧
+          let text = '';
+          try { text = fs.readFileSync(path, 'utf8'); } catch {}
+          const existing = new Set();
+          const urlRe = /-\s\[[ xX]\]\s(https?:\/\/\S+)/g;
+          for (const m of text.matchAll(urlRe)) existing.add(norm(m[1]));
+
+          // 重複除去（受信内＋既存との重複を排除）
+          const seen = new Set();
+          const uniqIn = [];
+          for (const raw of incoming) {
+            const u = norm(raw);
+            if (!u) continue;
+            if (seen.has(u)) continue;
+            seen.add(u);
+            if (!existing.has(u)) uniqIn.push(u);
+          }
+
+          if (uniqIn.length === 0) {
+            console.log('All incoming URLs already exist. Nothing to insert.');
+            process.exit(0);
+          }
+
+          // 当日見出し直下に上書き挿入（先頭側）
+          const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          const headerRe = new RegExp(`^${esc(header)}\\s*$`, 'm');
+          const lines = uniqIn.map(u => `- [ ] ${u}`).join('\n') + '\n';
+
+          if (!headerRe.test(text)) {
+            text = `${header}\n\n${lines}\n${text}`;
+          } else {
+            text = text.replace(headerRe, `${header}\n\n${lines}`);
+          }
+
+          fs.writeFileSync(path, text, 'utf8');
+          console.log(`Inserted ${uniqIn.length} new URL(s) under header: ${header}`);
+          NODE
+
       - name: Commit & push
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "chore(news): process 1 URL from repo_dispatch" || echo "no changes"
+          git commit -m "chore(inbox): append URLs from Dify" || echo "no changes"
+          git pull --rebase origin "$GITHUB_REF_NAME" || true
           git push
