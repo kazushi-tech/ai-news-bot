@@ -20,6 +20,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -30,7 +32,17 @@ jobs:
         run: |
           sudo apt-get update -y
           sudo apt-get install -y jq
-          npm i
+          npm ci || npm i
+
+      # データファイルが無い/空でも落ちないように作成しておく
+      - name: Ensure data files
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p content/data
+          [ -f content/data/items.json ] || echo "[]" > content/data/items.json
+          # queue は空でもOK（ingest.js 側が空読み対応）
+          [ -f content/data/queue.json ] || : > content/data/queue.json
 
       - name: Prepare URLs
         id: prep
@@ -58,6 +70,7 @@ jobs:
             node scripts/ingest.js
           fi
 
+      # 差分がある時だけコミット＆プッシュ（差分ゼロで失敗させない）
       - name: Commit & Push (items.json / queue.json*)
         shell: bash
         run: |
@@ -65,12 +78,24 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # items.json は必ず
           git add -A content/data/items.json || true
-
-          # queue は存在する方だけ追加（片方でもOK）
           [ -f content/data/queue.json ]  && git add content/data/queue.json  || true
           [ -f content/data/queue.jsonl ] && git add content/data/queue.jsonl || true
 
-          git commit -m "chore(ingest): update items/queue [skip ci]" || echo "no changes"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(ingest): update items/queue [skip ci]"
+            git push
+          else
+            echo "no staged changes; skip commit/push"
+          fi
+
+      # デバッグ用（落ちたとき見やすい）
+      - name: Show workspace tree (debug)
+        if: always()
+        run: |
+          echo "---- tree ----"
+          ls -la
+          echo "---- data ----"
+          ls -la content/data || true
+          echo "---- head ----"
+          git log -1 --oneline || true
