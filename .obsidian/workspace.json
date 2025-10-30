@@ -173,17 +173,18 @@
   },
   "active": "88ddd1ad8aacf78c",
   "lastOpenFiles": [
+    "scripts/validate.js",
+    "scripts/utils/store.js",
+    "scripts/utils/url.js",
+    "scripts/utils/slug.js",
+    "scripts/utils/dify.js",
+    "scripts/utils",
+    "scripts/ingest.js",
+    "scripts/build_articles.js",
     "Users/omats/git-check/myapp/news/2025-10-26--AI-news.md",
     "node_modules/date-fns/locale/zh-TW.d.ts",
     "node_modules/date-fns/locale/zh-HK.d.ts",
     "node_modules/date-fns/locale/zh-CN.d.ts",
-    "node_modules/date-fns/yearsToQuarters.d.ts",
-    "node_modules/date-fns/fp/yearsToQuarters.d.ts",
-    "node_modules/date-fns/yearsToMonths.d.ts",
-    "node_modules/date-fns/fp/yearsToMonths.d.ts",
-    "node_modules/date-fns/yearsToDays.d.ts",
-    "node_modules/date-fns/fp/yearsToDays.d.ts",
-    "node_modules/date-fns/parse/_lib/parsers/YearParser.d.ts",
     "node_modules/date-fns/docs/logotype.svg",
     "node_modules/date-fns/docs/logo.svg",
     "node_modules/date-fns/docs/unicodeTokens.md",
@@ -210,7 +211,6 @@
     "node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md",
     "node_modules/tweetnacl/CHANGELOG.md",
     "node_modules/tweetnacl/AUTHORS.md",
-    "node_modules/@cloudflare/workerd-darwin-arm64/README.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }
