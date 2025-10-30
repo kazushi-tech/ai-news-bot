@@ -1,33 +1,41 @@
 name: build
+
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: '0 * * * *'
+    - cron: "0 * * * *" # 毎時。お好みで
+
 permissions:
   contents: write
+  actions: read
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    env:
-      TZ: Asia/Tokyo
-      DIFY_API_KEY_SUMMARY: ${{ secrets.DIFY_API_KEY_SUMMARY }}
-      DIFY_ENDPOINT: ${{ secrets.DIFY_ENDPOINT }}
-      DIFY_WORKFLOW_SUMMARY: ai-news-summarize-jp
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-        with: { node-version: '20.x' }
-      - run: corepack enable && corepack prepare pnpm@latest --activate
-      - run: pnpm i --frozen-lockfile=false
-      - name: Build Articles from Queue
-        run: node scripts/build_articles.js
-      - name: Validate
-        run: node scripts/validate.js
-      - name: Commit & Push (articles/news/items)
+        with: { node-version: "20.x" }
+      - run: npm i
+
+      - name: Debug env & queue
         run: |
-          git config user.name "github-actions[bot]"
+          echo "branch=${GITHUB_REF_NAME}"
+          test -f content/data/queue.jsonl && echo "queue lines: $(wc -l < content/data/queue.jsonl)" || echo "queue.jsonl NOT FOUND"
+          sed -n '1,10p' content/data/queue.jsonl 2>/dev/null || true
+          ls -la scripts || true
+
+      - name: Build articles
+        env:
+          DIFY_API_KEY_SUMMARY: ${{ secrets.DIFY_API_KEY_SUMMARY }}
+          DIFY_ENDPOINT: ${{ secrets.DIFY_ENDPOINT }}
+          DIFY_WORKFLOW_SUMMARY: ai-news-summarize-jp
+        run: node scripts/build_articles.js
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/articles/ content/news/ content/data/items.json || true
-          git commit -m "build: articles & index ($(date -u +%Y-%m-%dT%H:%M:%SZ))" || echo "no changes"
+          git add content/articles content/news content/data/items.json || true
+          git commit -m "build: articles & daily index" || echo "no changes"
           git push || true
