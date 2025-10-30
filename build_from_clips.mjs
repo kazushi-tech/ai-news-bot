@@ -7,7 +7,7 @@ import timezone from 'dayjs/plugin/timezone.js';
 import { markdownTable } from 'markdown-table';
 import stringSim from 'string-similarity';
 import { summarizeLocal } from '../lib/summarize.mjs';
-import { toJST, formatYMD, fetchFulltext, htmlToMd } from '../lib/utils.mjs';
+import { toJST, formatYMD, fetchFulltext, htmlToMd, translateJa } from '../lib/utils.mjs';
 
 dayjs.extend(utc); dayjs.extend(timezone);
 
@@ -58,16 +58,17 @@ for (const { url, nu } of picked) {
     const { title: t2, content } = await fetchFulltext(url);
     const md = htmlToMd(content);
     const title = t2 || url;
-
     const summary = summarizeLocal(md);
+    const titleJa = await translateJa(title);
+    const summaryJa = await translateJa(summary);
 
     const slug = sanitizeSlug(title);
     const articlePath = path.join(NEWS_DIR, `${dateStr}--${slug}.md`);
-    fs.writeFileSync(articlePath, renderArticle({ title, url, date: now, summary, md }));
+    fs.writeFileSync(articlePath, renderArticle({ title, titleJa, url, date: now, summary, summaryJa, md }));
 
     if (SAVE_FULL) fs.writeFileSync(path.join(FULL_DIR, `${slug}.md`), `# ${title}\n\n${md}`);
 
-    processed.push({ title, url, source: new URL(url).hostname, summary, articlePath, publishedAt: now, nu });
+    processed.push({ title, titleJa, url, source: new URL(url).hostname, summary, summaryJa, articlePath, publishedAt: now, nu });
     seen.add(nu);
   } catch (e) {
     console.warn('clip build error:', url, e.message);
@@ -80,10 +81,10 @@ const dailyFile = path.join(NEWS_DIR, `${dateStr}--AI-news.md`);
 if (USE_JP_COLUMNS) {
   const headerJP = ['タイトル','記事','引用元','要約'];
   const rows = unique.map(r => [
-    `[${r.title}](${r.url})`,
+    `[${r.titleJa || r.title}](${r.url})`,
     `[記事ページへ](${path.basename(r.articlePath)})`,
     `[引用元へ](${r.url})`,
-    r.summary || '—'
+    r.summaryJa || r.summary || '—'
   ]);
   const table = markdownTable([headerJP, ...rows], { align: ['l','c','c','l'] });
 
@@ -141,19 +142,20 @@ function dedupeByTitle(items, thr=0.9){
   return res;
   function key(t){ return (t||'').toLowerCase().replace(/\s+/g,' ').trim(); }
 }
-function renderArticle({ title, url, date, summary, md }){
+function renderArticle({ title, titleJa, url, date, summary, summaryJa, md }){
   const ymd = formatYMD(date);
-  return `# ${title}
+  return `# ${titleJa || title}
 
 プロパティ  
 - **リンク**: ${url}  
 - **日付**: ${ymd}  
+- **原題**: ${title}
 
 ## 引用元
 ${url}
 
 ## 要約
-${summary}
+${summaryJa || summary}
 
 ## 詳細レポート
 ${md}

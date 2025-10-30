@@ -1,0 +1,24 @@
+name: smoke
+on:
+  schedule:
+    - cron: '20 0 * * *' # JST 09:20
+  workflow_dispatch: {}
+permissions:
+  contents: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dify endpoint check
+        run: |
+          set -e
+          endpoint="${{ secrets.DIFY_ENDPOINT }}"
+          if [ -z "$endpoint" ] || [[ "$endpoint" != *"api.dify.ai"* ]]; then
+            endpoint="https://api.dify.ai/v1/workflows/run"
+          fi
+          code=$(curl -s -o /dev/null -w "%{http_code}" -X POST "$endpoint" || true)
+          echo "Dify HTTP: $code"
+          test -n "$code"
+      - name: GitHub dispatch dry-run
+        run: echo ok

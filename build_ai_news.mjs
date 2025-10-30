@@ -8,7 +8,7 @@ import timezone from 'dayjs/plugin/timezone.js';
 import { markdownTable } from 'markdown-table';
 import stringSim from 'string-similarity';
 import { summarizeLocal } from '../lib/summarize.mjs';
-import { toJST, formatYMD, fetchFulltext, htmlToMd } from '../lib/utils.mjs';
+import { toJST, formatYMD, fetchFulltext, htmlToMd, translateJa } from '../lib/utils.mjs';
 
 dayjs.extend(utc); dayjs.extend(timezone);
 
@@ -43,17 +43,11 @@ for (const url of sources) {
       const age = (Date.now() - pub.getTime())/86400000;
       if (age > sinceDays) continue;
       const link = item.link || '';
-      entries.push({
-        title: item.title || '',
-        url: link,
-        source: new URL(link || feed.link || url).hostname,
-        publishedAt: pub
-      });
+      entries.push({ title: item.title || '', url: link, source: new URL(link || feed.link || url).hostname, publishedAt: pub });
     }
   } catch(e){ console.warn('RSS error:', url, e.message); }
 }
 
-// URL正規化 → URLユニーク → タイトル類似で重複除去
 const byUrl = new Map();
 for (const it of entries) {
   const nu = normalizeUrl(it.url);
@@ -69,13 +63,15 @@ for (const item of uniq) {
     const md = htmlToMd(content);
     const title = item.title || t2 || '(無題)';
     const summary = summarizeLocal(md);
+    const titleJa = await translateJa(title);
+    const summaryJa = await translateJa(summary);
 
     const slug = sanitizeSlug(title);
     const articlePath = path.join(NEWS_DIR, `${dateStr}--${slug}.md`);
-    fs.writeFileSync(articlePath, renderArticle({ title, url: item.url, date: now, summary, md }));
+    fs.writeFileSync(articlePath, renderArticle({ title, titleJa, url: item.url, date: now, summary, summaryJa, md }));
     if (SAVE_FULL) fs.writeFileSync(path.join(FULL_DIR, `${slug}.md`), `# ${title}\n\n${md}`);
 
-    processed.push({ title, url: item.url, source: item.source, summary, articlePath, publishedAt: item.publishedAt });
+    processed.push({ title, titleJa, url: item.url, source: item.source, summary, summaryJa, articlePath, publishedAt: item.publishedAt });
   } catch(e){ console.warn('build item error:', item.url, e.message); }
 }
 
@@ -84,10 +80,10 @@ if (USE_JP_COLUMNS) {
   const table = markdownTable(
     [['タイトル','記事','引用元','要約'],
      ...processed.map(r => [
-       `[${r.title}](${r.url})`,
+       `[${r.titleJa || r.title}](${r.url})`,
        `[記事ページへ](${path.basename(r.articlePath)})`,
        `[引用元へ](${r.url})`,
-       r.summary || '—'
+       r.summaryJa || r.summary || '—'
      ])],
     { align: ['l','c','c','l'] }
   );
@@ -99,7 +95,6 @@ if (USE_JP_COLUMNS) {
 
 console.log(`OK: ${processed[0]?.title || '-'} / Processed ${processed.length} item(s.)`);
 
-// helpers
 function normalizeUrl(u){
   try {
     const url = new URL(u);
@@ -121,19 +116,20 @@ function dedupeByTitle(items, thr=0.9){
 function sanitizeSlug(s){
   return (s||'').toLowerCase().replace(/[^\p{Letter}\p{Number}]+/gu,'-').replace(/^-+|-+$/g,'').slice(0,80);
 }
-function renderArticle({ title, url, date, summary, md }){
+function renderArticle({ title, titleJa, url, date, summary, summaryJa, md }){
   const ymd = formatYMD(date);
-  return `# ${title}
+  return `# ${titleJa || title}
 
 プロパティ  
 - **リンク**: ${url}  
 - **日付**: ${ymd}  
+- **原題**: ${title}
 
 ## 引用元
 ${url}
 
 ## 要約
-${summary}
+${summaryJa || summary}
 
 ## 詳細レポート
 ${md}

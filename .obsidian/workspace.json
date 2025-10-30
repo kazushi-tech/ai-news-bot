@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
+                "file": "news/index-monthly.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-27-latest-news-from-google-research-blog-google-research-fc993854"
+              "title": "index-monthly"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
+                "file": "news/index-monthly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-10-27-latest-news-from-google-research-blog-google-research-fc993854へのバックリンク"
+              "title": "index-monthlyへのバックリンク"
             }
           },
           {
@@ -173,42 +173,42 @@
   },
   "active": "88ddd1ad8aacf78c",
   "lastOpenFiles": [
-    "news/2025-10-27-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
-    "news/2025-10-27--AI-news.md",
-    "news/2025-10-26-andrej-karpathy--agi-is-still-a-decade-away-dc08e95a.md",
-    "news/2025-10-26--AI-news.md",
-    "news/2025-10-28--AI-news.md",
-    "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
+    "content/data/queue.jsonl",
+    "content/data/items.json",
+    "content/data",
+    "content",
+    "README_STYLE_MONTHLY.md",
     "news/index-weekly.md",
-    "lib/summarize.mjs",
-    "node_modules/markdown-table/index.d.ts",
-    "node_modules/markdown-table/readme.md",
-    "node_modules/markdown-table/index.d.ts.map",
-    "node_modules/markdown-table/package.json",
-    "node_modules/markdown-table/index.js",
-    "node_modules/markdown-table/license",
-    "node_modules/jaconv/vite.config.mts",
-    "node_modules/jaconv/src/test/ts/jaconv/zenhan.spec.ts",
-    "node_modules/jaconv/src/test/ts/jaconv/hebon.spec.ts",
-    "node_modules/jaconv/src/test/ts/jaconv/katahira.spec.ts",
-    "node_modules/jaconv/README.md",
-    "node_modules/dayjs/README.md",
-    "node_modules/dayjs/CHANGELOG.md",
-    "node_modules/@discordjs/formatters/node_modules/discord-api-types/README.md",
-    "node_modules/parse5/README.md",
-    "node_modules/tough-cookie/README.md",
-    "node_modules/https-proxy-agent/README.md",
-    "node_modules/es-set-tostringtag/README.md",
-    "node_modules/http-proxy-agent/README.md",
-    "node_modules/@discordjs/util/README.md",
-    "node_modules/w3c-xmlserializer/README.md",
-    "node_modules/gopd/CHANGELOG.md",
-    "node_modules/gopd/README.md",
-    "node_modules/es-set-tostringtag/CHANGELOG.md",
-    "node_modules/w3c-xmlserializer/LICENSE.md",
-    "node_modules/@discordjs/collection/README.md",
-    "node_modules/symbol-tree/README.md",
-    "node_modules/lodash.snakecase/README.md",
+    "node_modules/tweetnacl/nacl.d.ts",
+    "node_modules/tweetnacl/README.md",
+    "node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md",
+    "node_modules/tweetnacl/CHANGELOG.md",
+    "node_modules/tweetnacl/AUTHORS.md",
+    "node_modules/tweetnacl/package.json",
+    "node_modules/tweetnacl/nacl.js",
+    "node_modules/tweetnacl/nacl.min.js",
+    "node_modules/tweetnacl/nacl-fast.min.js",
+    "node_modules/tweetnacl/nacl-fast.js",
+    "node_modules/tweetnacl/LICENSE",
+    "node_modules/@cloudflare/workerd-darwin-arm64/README.md",
+    "node_modules/@img/sharp-libvips-darwin-arm64/README.md",
+    "node_modules/wrangler/README.md",
+    "node_modules/@esbuild/darwin-arm64/README.md",
+    "node_modules/esbuild/LICENSE.md",
+    "node_modules/esbuild/README.md",
+    "node_modules/@cloudflare/kv-asset-handler/README.md",
+    "node_modules/@cloudflare/unenv-preset/README.md",
+    "node_modules/unenv/README.md",
+    "node_modules/blake3-wasm/readme.md",
+    "node_modules/blake3-wasm/changelog.md",
+    "node_modules/supports-color/readme.md",
+    "node_modules/workerd/README.md",
+    "node_modules/sharp/README.md",
+    "node_modules/fsevents/README.md",
+    "node_modules/path-to-regexp/Readme.md",
+    "node_modules/mime/README.md",
+    "node_modules/youch/README.md",
+    "node_modules/youch/LICENSE.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }

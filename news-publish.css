@@ -1,0 +1,12 @@
+/* news-publish.css — table-heavy news pages, Publish-friendly */
+:root { --news-h1-size: 2.2rem; --news-h1-weight: 800; --news-muted: var(--text-muted); --news-accent: var(--color-accent); }
+.markdown-preview-view h1, .site-body .markdown-rendered h1 { font-size: var(--news-h1-size); font-weight: var(--news-h1-weight); letter-spacing: .3px; margin-top: .2em; margin-bottom: .35em; }
+.news-date { color: var(--news-muted); font-size: .95rem; margin-bottom: .8rem; }
+.markdown-preview-view table, .site-body .markdown-rendered table { width: 100%; border-collapse: separate; border-spacing: 0; background: var(--background-primary); border: 1px solid var(--background-modifier-border); border-radius: 12px; overflow: hidden; }
+.markdown-preview-view thead th, .site-body .markdown-rendered thead th { position: sticky; top: 0; z-index: 2; background: var(--background-secondary); font-weight: 700; padding: 10px 12px; border-bottom: 1px solid var(--background-modifier-border); }
+.markdown-preview-view tbody td, .site-body .markdown-rendered tbody td { padding: 10px 12px; border-bottom: 1px solid var(--background-modifier-border); vertical-align: top; }
+.markdown-preview-view tbody tr:nth-child(odd), .site-body .markdown-rendered tbody tr:nth-child(odd) { background: rgba(127,127,127,.06); }
+.markdown-preview-view td:nth-child(2), .markdown-preview-view th:nth-child(2), .markdown-preview-view td:nth-child(3), .markdown-preview-view th:nth-child(3), .site-body .markdown-rendered td:nth-child(2), .site-body .markdown-rendered th:nth-child(2), .site-body .markdown-rendered td:nth-child(3), .site-body .markdown-rendered th:nth-child(3) { text-align: center; white-space: nowrap; width: 120px; }
+.markdown-preview-view a[href^="http"]::after, .site-body .markdown-rendered a[href^="http"]::after { content: "↗"; font-size: .85em; margin-left: .25em; color: var(--news-muted); }
+.markdown-preview-view .internal-embed, .site-body .markdown-rendered .internal-embed { margin: .6rem 0; }
+.markdown-preview-view h2, .site-body .markdown-rendered h2 { margin-top: 1.2em; border-bottom: 1px solid var(--background-modifier-border); padding-bottom: .25em; }
