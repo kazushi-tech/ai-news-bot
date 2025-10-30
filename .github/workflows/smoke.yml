@@ -1,24 +1,29 @@
 name: smoke
+
 on:
-  schedule:
-    - cron: '20 0 * * *' # JST 09:20
   workflow_dispatch: {}
-permissions:
-  contents: read
+  workflow_run:
+    workflows: [build]
+    types: [completed]
+
+permissions: {}
+
+concurrency: smoke-${{ github.run_id }}
 
 jobs:
   run:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
-      - name: Dify endpoint check
-        run: |
-          set -e
-          endpoint="${{ secrets.DIFY_ENDPOINT }}"
-          if [ -z "$endpoint" ] || [[ "$endpoint" != *"api.dify.ai"* ]]; then
-            endpoint="https://api.dify.ai/v1/workflows/run"
-          fi
-          code=$(curl -s -o /dev/null -w "%{http_code}" -X POST "$endpoint" || true)
-          echo "Dify HTTP: $code"
-          test -n "$code"
-      - name: GitHub dispatch dry-run
-        run: echo ok
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20.x"
+          cache: "npm"
+
+      - name: Install deps
+        run: npm ci || npm i
+
+      - name: Validate outputs
+        run: node scripts/validate.js

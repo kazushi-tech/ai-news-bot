@@ -3,39 +3,57 @@ name: build
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "0 * * * *" # 毎時。お好みで
+    # JST 09:00 = UTC 00:00、平日のみ
+    - cron: "0 0 * * 1-5"
 
 permissions:
   contents: write
-  actions: read
+
+concurrency: build-${{ github.ref }}
 
 jobs:
   run:
     runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Tokyo
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: "20.x" }
-      - run: npm i
 
-      - name: Debug env & queue
-        run: |
-          echo "branch=${GITHUB_REF_NAME}"
-          test -f content/data/queue.jsonl && echo "queue lines: $(wc -l < content/data/queue.jsonl)" || echo "queue.jsonl NOT FOUND"
-          sed -n '1,10p' content/data/queue.jsonl 2>/dev/null || true
-          ls -la scripts || true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20.x"
+          cache: "npm"
+
+      - name: Install deps
+        run: npm ci || npm i
 
       - name: Build articles
-        env:
-          DIFY_API_KEY_SUMMARY: ${{ secrets.DIFY_API_KEY_SUMMARY }}
-          DIFY_ENDPOINT: ${{ secrets.DIFY_ENDPOINT }}
-          DIFY_WORKFLOW_SUMMARY: ai-news-summarize-jp
         run: node scripts/build_articles.js
 
-      - name: Commit & Push changes
+      - name: Commit & Push news/**
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/articles content/news content/data/items.json || true
-          git commit -m "build: articles & daily index" || echo "no changes"
+          git add news/** || true
+          git commit -m "feat(news): publish batch [skip ci]" || echo "no changes"
           git push || true
+
+      - name: Upload artifact (news output)
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-output
+          path: news/**
+
+      - name: Notify Discord (optional)
+        if: always()
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          if [ -n "$DISCORD_WEBHOOK_URL" ]; then
+            status="${{ job.status }}"
+            msg="build finished: ${status}"
+            curl -sS -H "Content-Type: application/json" \
+              -d "{\"content\":\"${msg}\"}" "$DISCORD_WEBHOOK_URL" || true
+          fi
