@@ -16,29 +16,43 @@ ensureFileDir(QUEUE_PATH);
 if (!fs.existsSync(ITEMS_PATH)) fs.writeFileSync(ITEMS_PATH, '[]');
 
 function sha1(s) { return crypto.createHash('sha1').update(s).digest('hex'); }
+function uniq(a) { return [...new Set(a)]; }
+function splitMaybe(s) { return String(s).split(/[,\s\n]+/).map(v => v.trim()).filter(Boolean); }
+function extractUrlsFromAny(obj) {
+  try {
+    const s = JSON.stringify(obj);
+    const m = s.match(/https?:\/\/[^\s"'<>()]+/g) || [];
+    return uniq(m);
+  } catch { return []; }
+}
 
-// 1) repository_dispatch の client_payload.urls
-const eventPath = process.env.GITHUB_EVENT_PATH;
 let urls = [];
+
+// 1) repository_dispatch payload
+const eventPath = process.env.GITHUB_EVENT_PATH;
 try {
   if (eventPath && fs.existsSync(eventPath)) {
     const evt = JSON.parse(fs.readFileSync(eventPath, 'utf8'));
-    const p = evt?.client_payload?.urls;
-    if (Array.isArray(p)) urls.push(...p);
-    else if (typeof p === 'string') urls.push(...p.split(/[,\s\n]+/).filter(Boolean));
+    const cp = evt?.client_payload ?? {};
+
+    // よくある形：urls / url / text
+    if (Array.isArray(cp.urls)) urls.push(...cp.urls);
+    else if (cp.urls) urls.push(...splitMaybe(cp.urls));
+    else if (cp.url) urls.push(...splitMaybe(cp.url));
+    else if (cp.text) urls.push(...splitMaybe(cp.text));
+
+    // それでも無ければ、payload全体を正規表現で総なめ抽出
+    if (urls.length === 0) urls.push(...extractUrlsFromAny(cp));
   }
-} catch {}
+} catch { /* ignore */ }
 
 // 2) workflow_dispatch の inputs.urls（--urls 経由）
 const idx = process.argv.indexOf('--urls');
-if (idx > -1) {
-  const s = process.argv.slice(idx + 1).join(' ');
-  urls.push(...s.split(/[,\s\n]+/).filter(Boolean));
-}
+if (idx > -1) urls.push(...splitMaybe(process.argv.slice(idx + 1).join(' ')));
 
-urls = [...new Set(urls.map(s => s.trim()).filter(Boolean))];
+urls = uniq(urls).filter(Boolean);
 if (urls.length === 0) {
-  console.error('No URLs provided (client_payload.urls or --urls).');
+  console.error('No URLs provided (client_payload.* or --urls).');
   process.exit(1);
 }
 
