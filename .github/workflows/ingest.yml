@@ -1,9 +1,10 @@
 name: ingest
+
 on:
   workflow_dispatch:
     inputs:
       urls:
-        description: "URL（スペース/改行/カンマ区切りOK）"
+        description: "URL（スペース/改行/カンマ区切りOK・空ならキュー処理）"
         required: false
         type: string
   repository_dispatch:
@@ -11,39 +12,65 @@ on:
 
 permissions:
   contents: write
-  actions: read
+
+concurrency: ingest-${{ github.ref }}
 
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
-        with: { node-version: '20.x' }
-      - run: npm i
+        with:
+          node-version: "20.x"
+          cache: "npm"
 
-      - name: Debug payload & files
+      - name: Install deps (npm + jq)
         run: |
-          echo "event_name=${{ github.event_name }}"
-          echo "--- event payload ---"
-          cat "$GITHUB_EVENT_PATH" || true
-          echo "--- scripts dir ---"
-          ls -la scripts || true
+          sudo apt-get update -y
+          sudo apt-get install -y jq
+          npm i
 
-      - name: Ingest URLs
+      - name: Prepare URLs
+        id: prep
+        shell: bash
         run: |
-          if [ -n "${{ github.event.inputs.urls }}" ]; then
-            node scripts/ingest.js --urls "${{ github.event.inputs.urls }}"
+          set -euo pipefail
+          URLS_INPUT="${{ github.event.inputs.urls || '' }}"
+
+          URLS_EVENT=""
+          if [[ "${{ github.event_name }}" == "repository_dispatch" ]]; then
+            URLS_EVENT=$(jq -r '(.client_payload.urls // []) | join(",")' "$GITHUB_EVENT_PATH")
+          fi
+
+          URLS="${URLS_INPUT:-$URLS_EVENT}"
+
+          echo "urls=$URLS" >> "$GITHUB_OUTPUT"
+          echo "Event: ${{ github.event_name }}"
+          echo "URLs: ${URLS:-<none>}"
+
+      - name: Ingest
+        run: |
+          if [ -n "${{ steps.prep.outputs.urls }}" ]; then
+            node scripts/ingest.js --urls "${{ steps.prep.outputs.urls }}"
           else
             node scripts/ingest.js
           fi
-        env:
-          GITHUB_EVENT_PATH: ${{ github.event_path }}
 
-      - name: Commit & Push (items.json / queue.jsonl)
+      - name: Commit & Push (items.json / queue.json*)
+        shell: bash
         run: |
-          git config user.name "github-actions[bot]"
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/data/items.json content/data/queue.jsonl || true
-          git commit -m "ingest: update data ($(date -u +%Y-%m-%dT%H:%M:%SZ))" || echo "no changes"
-          git push || true
+
+          # items.json は必ず
+          git add -A content/data/items.json || true
+
+          # queue は存在する方だけ追加（片方でもOK）
+          [ -f content/data/queue.json ]  && git add content/data/queue.json  || true
+          [ -f content/data/queue.jsonl ] && git add content/data/queue.jsonl || true
+
+          git commit -m "chore(ingest): update items/queue [skip ci]" || echo "no changes"
+          git push
