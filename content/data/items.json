@@ -11,5 +11,31 @@
     "created_at": "2025-10-30T01:58:50.916Z",
     "last_seen": "2025-10-30T01:58:50.916Z",
     "needs_rebuild": true
+  },
+  {
+    "url_original": "https://a.com/1",
+    "url_norm": "https://a.com/1/",
+    "url_hash": "8e6715bf90ad3e2933259c533b44525da01106dc",
+    "slug": "",
+    "title_ja": "",
+    "summary_ja": "",
+    "key_points": [],
+    "lang": "ja",
+    "created_at": "2025-10-30T02:36:07.018Z",
+    "last_seen": "2025-10-30T02:36:07.018Z",
+    "needs_rebuild": true
+  },
+  {
+    "url_original": "https://b.com/2",
+    "url_norm": "https://b.com/2/",
+    "url_hash": "c70dfdc1ee2d03542317937925ea0c5f851ae044",
+    "slug": "",
+    "title_ja": "",
+    "summary_ja": "",
+    "key_points": [],
+    "lang": "ja",
+    "created_at": "2025-10-30T02:36:07.018Z",
+    "last_seen": "2025-10-30T02:36:07.018Z",
+    "needs_rebuild": true
   }
 ]
