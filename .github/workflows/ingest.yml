@@ -1,0 +1,28 @@
+name: ingest
+on:
+  repository_dispatch:
+    types: [inbox_url]
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20.x' }
+      - run: corepack enable && corepack prepare pnpm@latest --activate
+      - run: pnpm i --frozen-lockfile=false
+      - name: Ingest URLs
+        run: node scripts/ingest.js
+        env:
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+      - name: Commit & Push (items.json / queue.jsonl)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/data/items.json content/data/queue.jsonl || true
+          git commit -m "ingest: update data ($(date -u +%Y-%m-%dT%H:%M:%SZ))" || echo "no changes"
+          git push || true
