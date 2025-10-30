@@ -1,7 +1,8 @@
 name: ingest
 on:
+  workflow_dispatch: {}            # 手動トリガ用
   repository_dispatch:
-    types: [inbox_url]
+    types: [inbox_url]            # Discord/Worker からのフック
 permissions:
   contents: write
   actions: read
