@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "url_original": "https://example.com/ahttps://example.com/b",
+    "url_norm": "https://example.com/ahttps:/example.com/b/",
+    "url_hash": "7c20c876846418770d6eb047bfcc59868f1a6396",
+    "slug": "",
+    "title_ja": "",
+    "summary_ja": "",
+    "key_points": [],
+    "lang": "ja",
+    "created_at": "2025-10-30T01:58:50.916Z",
+    "last_seen": "2025-10-30T01:58:50.916Z",
+    "needs_rebuild": true
+  }
+]
