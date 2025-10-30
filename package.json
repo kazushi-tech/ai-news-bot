@@ -2,19 +2,22 @@
   "name": "ai-news-bot",
   "private": true,
   "type": "module",
-  "engines": {
-    "node": ">=24"
-  },
+  "engines": { "node": ">=20" },
   "scripts": {
     "start:bot": "node bot/index.mjs",
     "build:news": "node scripts/build_ai_news.mjs",
     "build:from-clips": "node scripts/build_from_clips.mjs",
     "pick:week": "node scripts/pick_ai_week.mjs --weekly",
     "pick:month": "node scripts/pick_ai_week.mjs --monthly",
-    "fmt": "npx prettier -w ."
+    "fmt": "npx prettier -w .",
+    "ingest": "node scripts/ingest.js",
+    "build:articles": "node scripts/build_articles.js",
+    "validate": "node scripts/validate.js"
   },
   "dependencies": {
     "@mozilla/readability": "0.5.0",
+    "@sindresorhus/slugify": "^2.2.1",
+    "date-fns": "^3.6.0",
     "dayjs": "^1.11.18",
     "discord.js": "14.16.3",
     "dotenv": "^16.6.1",
@@ -27,7 +30,8 @@
     "rss-parser": "^3.13.0",
     "string-similarity": "^4.0.4",
     "turndown": "7.2.0",
-    "tweetnacl": "^1.0.3"
+    "tweetnacl": "^1.0.3",
+    "undici": "^6.19.8"
   },
   "devDependencies": {
     "wrangler": "^4.45.1"
