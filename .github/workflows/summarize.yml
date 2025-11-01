@@ -1,4 +1,3 @@
-# .github/workflows/summarize.yml
 name: summarize-url
 
 on:
@@ -19,19 +18,23 @@ permissions:
 jobs:
   summarize:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     env:
+      # 使っていればここにSecretsを用意
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      NODE_OPTIONS: --max-old-space-size=1536
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
 
-      # ★ lockfileが直るまでの暫定なら ↓ を npm install に
       - name: Install deps
         run: npm ci --no-audit --no-fund
 
@@ -44,8 +47,8 @@ jobs:
 
       - name: Run summarizer (manual)
         if: ${{ github.event_name == 'workflow_dispatch' }}
-        run: node summarize.js "${{ github.event.inputs.url }}"
+        run: node scripts/summarize.mjs "${{ github.event.inputs.url }}"
 
       - name: Run summarizer (repo dispatch)
         if: ${{ github.event_name == 'repository_dispatch' && github.event.action == 'summarize-url' }}
-        run: node summarize.js "${{ github.event.client_payload.url }}"
+        run: node scripts/summarize.mjs "${{ github.event.client_payload.url }}"
