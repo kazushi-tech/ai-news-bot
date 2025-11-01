@@ -52,3 +52,28 @@ jobs:
       - name: Run summarizer (repo dispatch)
         if: ${{ github.event_name == 'repository_dispatch' && github.event.action == 'summarize-url' }}
         run: node scripts/summarize.mjs "${{ github.event.client_payload.url }}"
+# .github/workflows/summarize.yml の対象ステップ差し替え
+
+      - name: Run summarizer (manual)
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        run: node scripts/summarize.mjs "${{ github.event.inputs.url }}" | tee summary.md
+
+      - name: Upload summary (manual)
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: summary
+          path: summary.md
+          if-no-files-found: error
+
+      - name: Run summarizer (repo dispatch)
+        if: ${{ github.event_name == 'repository_dispatch' && github.event.action == 'summarize-url' }}
+        run: node scripts/summarize.mjs "${{ github.event.client_payload.url }}" | tee summary.md
+
+      - name: Upload summary (repo dispatch)
+        if: ${{ github.event_name == 'repository_dispatch' && github.event.action == 'summarize-url' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: summary
+          path: summary.md
+          if-no-files-found: error
