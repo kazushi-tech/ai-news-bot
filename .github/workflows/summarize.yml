@@ -4,32 +4,33 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: 'URL to summarize (optional when seed_file is set)'
+        description: "単発URL（seed_fileと同時指定不可）"
         required: false
-        default: ''
+        type: string
+        default: ""
       seed_file:
-        description: 'Path to seed file in repo (e.g. seeds.txt)'
+        description: "シード一覧のパス（urlと同時指定不可） 例: seeds.txt"
         required: false
-        default: ''
+        type: string
+        default: ""
       style:
-        description: 'general|tech|research|policy'
+        description: "出力スタイル"
         required: false
-        default: 'general'
+        type: string
+        default: "general"
       lang:
-        description: 'ja|en'
+        description: "言語"
         required: false
-        default: 'ja'
+        type: string
+        default: "ja"
       model:
-        description: 'Gemini model; fallback to repo var GEMINI_MODEL'
+        description: "Geminiのモデル名（未指定なら repo var GEMINI_MODEL を使用）"
         required: false
-        default: ''
-  schedule:
-    # 毎朝 08:15 JST（= 前日 23:15 UTC）
-    - cron: '15 23 * * *'
+        type: string
+        default: ""
 
 permissions:
   contents: write
-  actions: read
 
 concurrency:
   group: summarize-${{ github.ref }}
@@ -38,15 +39,16 @@ concurrency:
 jobs:
   summarize:
     runs-on: ubuntu-latest
+
     env:
-      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-      GEMINI_MODEL: ${{ github.event.inputs.model != '' && github.event.inputs.model || vars.GEMINI_MODEL }}
-      STYLE: ${{ github.event.inputs.style != '' && github.event.inputs.style || 'general' }}
-      LANG: ${{ github.event.inputs.lang != '' && github.event.inputs.lang || 'ja' }}
-      URL: ${{ github.event.inputs.url }}
-      SEED_FILE: ${{ github.event.inputs.seed_file }}
-      PUBLISH_TO_DOCS: ${{ vars.PUBLISH_TO_DOCS }}
-      DOCS_PATH: docs/ai-news-bot
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }} # ←Secrets名に合わせて（GEMINI_API_KEYならここも変更）
+      GEMINI_MODEL:   ${{ github.event.inputs.model != '' && github.event.inputs.model || vars.GEMINI_MODEL }}
+      STYLE:          ${{ github.event.inputs.style != '' && github.event.inputs.style || 'general' }}
+      LANG:           ${{ github.event.inputs.lang  != '' && github.event.inputs.lang  || 'ja' }}
+      URL:            ${{ github.event.inputs.url }}
+      SEED_FILE:      ${{ github.event.inputs.seed_file }}
+      DOCS_PATH:      ${{ vars.DOCS_PATH || 'docs/ai-news-bot' }}
+      PUBLISH_TO_DOCS: ${{ vars.PUBLISH_TO_DOCS || 'true' }}
 
     steps:
       - name: Checkout
@@ -57,52 +59,66 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'npm'
+          node-version: "20"
+          cache: "npm"
 
       - name: Install deps
-        run: |
-          corepack enable
-          npm ci
+        run: npm ci
 
       - name: Run summarizer (Gemini via Google AI Studio)
+        shell: bash
         run: |
-          node scripts/summarize.mjs \
-            --url="$URL" \
-            --seed-file="$SEED_FILE" \
-            --style="$STYLE" \
-            --lang="$LANG" \
-            --model="$GEMINI_MODEL"
+          set -euo pipefail
 
-      - name: Upload artifact
+          # どちらか片方だけ許可
+          if [[ -n "${URL}" && -n "${SEED_FILE}" ]]; then
+            echo "::error::url と seed_file は同時指定できません。片方だけにしてください。"
+            exit 1
+          fi
+          if [[ -z "${URL}" && -z "${SEED_FILE}" ]]; then
+            echo "::error::url か seed_file のどちらかは必須です。"
+            exit 1
+          fi
+
+          mkdir -p "${DOCS_PATH}"
+
+          CMD=(node scripts/summarize.mjs
+               --style "${STYLE}"
+               --lang "${LANG}"
+               --gemini-model "${GEMINI_MODEL}"
+               --outdir "${DOCS_PATH}")
+
+          if [[ -n "${URL}" ]]; then
+            CMD+=(--url "${URL}")
+          else
+            CMD+=(--seed-file "${SEED_FILE}")
+          fi
+
+          printf 'RUN:'; printf ' %q' "${CMD[@]}"; echo
+          "${CMD[@]}"
+
+      - name: Upload artifact (summary)
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: summary
-          path: summary/**
-          if-no-files-found: error
+          path: |
+            ${{ env.DOCS_PATH }}/**/*.md
+            ${{ env.DOCS_PATH }}/**/*.html
+          if-no-files-found: warn
           retention-days: 14
 
       - name: Publish to docs (optional)
         if: env.PUBLISH_TO_DOCS == 'true'
+        shell: bash
         run: |
-          mkdir -p "$DOCS_PATH"
-          rsync -a --include '*/' --include 'summary.md' --include '*.html' --exclude '*' summary/ "$DOCS_PATH"/
-          if [ -n "$(git status --porcelain)" ]; then
-            git config user.name "${GITHUB_ACTOR}"
-            git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-            git add "$DOCS_PATH"
-            git commit -m "chore(docs): publish summaries from run ${GITHUB_RUN_ID}"
+          set -euo pipefail
+          git config user.name  "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add "${DOCS_PATH}"
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: update summaries from run ${GITHUB_RUN_ID}"
             git push
           else
-            echo 'No changes to commit.'
-          fi
-
-      - name: Build daily index pages
-        if: env.PUBLISH_TO_DOCS == 'true'
-        run: |
-          node scripts/build_index.mjs
-          if [ -n "$(git status --porcelain)" ]; then
-            git add docs/news
-            git commit -m "chore(docs): rebuild daily index pages for run ${GITHUB_RUN_ID}"
-            git push
+            echo "No changes to commit."
           fi
