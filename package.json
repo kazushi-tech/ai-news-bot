@@ -1,39 +1,17 @@
 {
-  "name": "ai-news-bot",
-  "private": true,
-  "type": "module",
-  "engines": { "node": ">=20" },
-  "scripts": {
-    "start:bot": "node bot/index.mjs",
-    "build:news": "node scripts/build_ai_news.mjs",
-    "build:from-clips": "node scripts/build_from_clips.mjs",
-    "pick:week": "node scripts/pick_ai_week.mjs --weekly",
-    "pick:month": "node scripts/pick_ai_week.mjs --monthly",
-    "fmt": "npx prettier -w .",
-    "ingest": "node scripts/ingest.js",
-    "build:articles": "node scripts/build_articles.js",
-    "validate": "node scripts/validate.js"
-  },
-  "dependencies": {
-    "@mozilla/readability": "0.5.0",
-    "@sindresorhus/slugify": "^2.2.1",
-    "date-fns": "^3.6.0",
-    "dayjs": "^1.11.18",
-    "discord.js": "14.16.3",
-    "dotenv": "^16.6.1",
-    "franc-min": "6.1.0",
-    "jaconv": "^1.1.2",
-    "jsdom": "24.1.0",
-    "langs": "2.0.0",
-    "markdown-table": "^3.0.4",
-    "normalize-url": "^8.0.1",
-    "rss-parser": "^3.13.0",
-    "string-similarity": "^4.0.4",
-    "turndown": "7.2.0",
-    "tweetnacl": "^1.0.3",
-    "undici": "^6.19.8"
-  },
-  "devDependencies": {
-    "wrangler": "^4.45.1"
-  }
+"name": "ai-news-bot",
+"version": "1.0.1",
+"private": true,
+"type": "module",
+"engines": { "node": ">=20" },
+"scripts": {
+"bot": "node discord-bot/index.js",
+"start:bot": "node discord-bot/index.js",
+"send": "node scripts/send_urls.mjs",
+"summarize:test": "node .github/workflows/summarize.js"
+},
+"dependencies": {
+"@google/generative-ai": "^0.20.0",
+"discord.js": "^14.16.3"
+}
 }
