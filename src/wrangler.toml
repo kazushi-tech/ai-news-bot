@@ -1,5 +1,0 @@
-name = "ai-news-inbox-discord"
-main = "src/index.js"
-compatibility_date = "2024-10-01"
-account_id = "8c40f9e7e5746d75eb1c19601a160138"
-workers_dev = true

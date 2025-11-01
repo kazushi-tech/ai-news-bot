@@ -1,0 +1,27 @@
+# docker-compose.yml
+version: "3.8"
+
+services:
+  ai-news-bot:
+    container_name: ai-news-bot
+    build: .
+    restart: unless-stopped
+
+    # .env を使うなら env_file を推奨（両方書けます。どちらかでOK）
+    env_file:
+      - .env
+
+    # .env を使わずに直書きする場合は↓を使う（どちらか片方だけ残す）
+    environment:
+      DISCORD_BOT_TOKEN: ${DISCORD_BOT_TOKEN}
+      GITHUB_TOKEN: ${GITHUB_TOKEN}
+      GH_OWNER: ${GH_OWNER}
+      GH_REPO: ${GH_REPO}
+      GH_WORKFLOW_FILE: summarize.yml
+      GH_WORKFLOW_REF: main
+      DEFAULT_STYLE: general
+      DEFAULT_LANG: ja
+
+    # summarize.mjs が out/ に書き出す想定ならマウントしておくと便利
+    volumes:
+      - ./out:/app/out

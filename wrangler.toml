@@ -1,0 +1,11 @@
+name = "ai-news-inbox-discord"
+main = "src/index.js"
+compatibility_date = "2025-10-30"
+
+[vars]
+GITHUB_OWNER   = "kazushi-tech"
+GITHUB_REPO    = "ai-news-bot"
+WORKFLOW_REF   = "main"
+DEFAULT_STYLE  = "general"
+DEFAULT_LANG   = "ja"
+DEFAULT_MODEL  = "gemini-2.5-flash"
