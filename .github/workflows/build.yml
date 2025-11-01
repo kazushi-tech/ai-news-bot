@@ -46,14 +46,12 @@ jobs:
           name: news-output
           path: news/**
 
-      - name: Notify Discord (optional)
-        if: always()
+      - name: Notify Discord (failure only)
+        if: failure()
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
           if [ -n "$DISCORD_WEBHOOK_URL" ]; then
-            status="${{ job.status }}"
-            msg="build finished: ${status}"
             curl -sS -H "Content-Type: application/json" \
-              -d "{\"content\":\"${msg}\"}" "$DISCORD_WEBHOOK_URL" || true
+              -d '{"content":":rotating_light: build failed"}' "$DISCORD_WEBHOOK_URL" || true
           fi

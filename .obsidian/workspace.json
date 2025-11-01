@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/index-monthly.md",
+                "file": "news/weekly/2025-Www.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index-monthly"
+              "title": "2025-Www"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/index-monthly.md",
+                "file": "news/weekly/2025-Www.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index-monthlyへのバックリンク"
+              "title": "2025-Wwwへのバックリンク"
             }
           },
           {
@@ -173,6 +173,33 @@
   },
   "active": "88ddd1ad8aacf78c",
   "lastOpenFiles": [
+    "news/2025-10-27-latest-news-from-google-research-blog-google-research-fc993854.md",
+    "news/2025-10-31--mtir-sql-multi-turn-tool-integrated-reasoning-reinforcement-learning-for-text-to.md",
+    "news/2025-10-31--h3m-ssmoes-hypergraph-based-multimodal-learning-with-llm-reasoning-and-style-str.md",
+    "news/2025-10-31--gap-graph-based-agent-planning-with-parallel-tool-use-and-reinforcement-learning.md",
+    "news/2025-10-31--instrumental-goals-in-advanced-ai-systems-features-to-be-managed-and-not-failure.md",
+    "news/2025-10-31--predicate-renaming-via-large-language-models.md",
+    "news/2025-10-31--taming-the-real-world-complexities-in-cpt-e-m-coding-with-large-language-models.md",
+    "news/index-monthly.md",
+    "news/fulltext/taming-the-real-world-complexities-in-cpt-e-m-coding-with-large-language-models.md",
+    "news/fulltext/scheduling-your-llm-reinforcement-learning-with-reasoning-trees.md",
+    "news/fulltext/retrieval-augmented-generation-rag-for-fintech-agentic-design-and-evaluation.md",
+    "news/fulltext/reasoning-aware-grpo-using-process-mining.md",
+    "news/fulltext/ravr-reference-answer-guided-variational-reasoning-for-large-language-models.md",
+    "news/fulltext/predicate-renaming-via-large-language-models.md",
+    "news/fulltext/multi-objective-search-algorithms-applications-and-emerging-directions.md",
+    "news/fulltext/mtir-sql-multi-turn-tool-integrated-reasoning-reinforcement-learning-for-text-to.md",
+    "news/fulltext/knowcoder-a1-incentivizing-agentic-reasoning-capability-with-outcome-supervision.md",
+    "news/fulltext/instrumental-goals-in-advanced-ai-systems-features-to-be-managed-and-not-failure.md",
+    "news/fulltext/h3m-ssmoes-hypergraph-based-multimodal-learning-with-llm-reasoning-and-style-str.md",
+    "news/fulltext/grouping-nodes-with-known-value-differences-a-lossless-uct-based-abstraction-alg.md",
+    "news/fulltext/gap-graph-based-agent-planning-with-parallel-tool-use-and-reinforcement-learning.md",
+    "news/fulltext/from-medical-records-to-diagnostic-dialogues-a-clinical-grounded-approach-and-da.md",
+    "news/fulltext/fela-a-multi-agent-evolutionary-system-for-feature-engineering-of-industrial-eve.md",
+    "news/fulltext/energy-efficient-autonomous-driving-with-adaptive-perception-and-robust-decision.md",
+    "news/fulltext/cyclic-counterfactuals-under-shift-scale-interventions.md",
+    "news/fulltext/aligning-large-language-models-with-procedural-rules-an-autoregressive-state-tra.md",
+    "content/data/queue.json",
     "node_modules/date-fns/fp/yearsToQuarters.d.ts",
     "node_modules/date-fns/yearsToQuarters.d.ts",
     "node_modules/date-fns/fp/yearsToMonths.d.ts",
@@ -182,35 +209,8 @@
     "node_modules/date-fns/fp/weeksToDays.d.ts",
     "node_modules/date-fns/fp/yearsToDays.d.ts",
     "node_modules/date-fns/types.d.ts",
-    "node_modules/date-fns/transpose.d.ts",
-    "node_modules/date-fns/fp/types.d.ts",
-    "node_modules/date-fns/SECURITY.md",
-    "node_modules/date-fns/README.md",
-    "node_modules/date-fns/LICENSE.md",
-    "node_modules/date-fns/CHANGELOG.md",
-    "node_modules/date-fns/docs/webpack.md",
-    "node_modules/date-fns/docs/unicodeTokens.md",
-    "node_modules/date-fns/docs/release.md",
-    "node_modules/date-fns/docs/timeZones.md",
     "node_modules/date-fns/docs/logotype.svg",
     "node_modules/date-fns/docs/logo.svg",
-    "node_modules/date-fns/docs/i18nContributionGuide.md",
-    "node_modules/date-fns/docs/i18n.md",
-    "node_modules/date-fns/docs/gettingStarted.md",
-    "node_modules/date-fns/docs/fp.md",
-    "node_modules/date-fns/docs/cdn.md",
-    "node_modules/@sindresorhus/transliterate/readme.md",
-    "node_modules/@sindresorhus/slugify/readme.md",
-    "node_modules/escape-string-regexp/readme.md",
-    "Users/omats/git-check/myapp/news/2025-10-26--AI-news.md",
-    "node_modules/@emnapi/runtime/README.md",
-    "node_modules/fsevents/README.md",
-    "README_STYLE_MONTHLY.md",
-    "news/index-weekly.md",
-    "node_modules/tweetnacl/README.md",
-    "node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md",
-    "node_modules/tweetnacl/CHANGELOG.md",
-    "node_modules/tweetnacl/AUTHORS.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }

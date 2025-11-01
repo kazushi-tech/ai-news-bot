@@ -15,6 +15,17 @@ ensureFileDir(ITEMS_PATH);
 ensureFileDir(QUEUE_PATH);
 if (!fs.existsSync(ITEMS_PATH)) fs.writeFileSync(ITEMS_PATH, '[]');
 
+function parseUrls(arg) {
+  if (!arg) return [];
+  return String(arg).split(/[,\s]+/).map(s => s.trim()).filter(Boolean);
+}
+
+// CLI --urls 取得
+const i = process.argv.indexOf('--urls');
+const urlsFromCli = i !== -1 ? parseUrls(process.argv[i + 1]) : [];
+
+// queue.json からの読込（必要なら）
+
 function sha1(s) { return crypto.createHash('sha1').update(s).digest('hex'); }
 function uniq(a) { return [...new Set(a)]; }
 function splitMaybe(s) { return String(s).split(/[,\s\n]+/).map(v => v.trim()).filter(Boolean); }
