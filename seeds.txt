@@ -1,0 +1,3 @@
+# 1行に1URL。cronで巡回します。
+https://example.com/news/a
+https://example.org/blog/b
