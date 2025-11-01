@@ -11,16 +11,19 @@ on:
     types: [summarize-url]
 
 permissions:
-  contents: read
+  contents: write
   issues: write
   pull-requests: write
+
+concurrency:
+  group: news-${{ github.ref || 'main' }}
+  cancel-in-progress: false
 
 jobs:
   summarize:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:
-      # 使っていればここにSecretsを用意
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       NODE_OPTIONS: --max-old-space-size=1536
@@ -28,6 +31,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0  # push のため
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -41,39 +47,57 @@ jobs:
       - name: Debug inputs
         run: |
           echo "event=${{ github.event_name }}"
-          echo "action=${{ github.event.action }}"
           echo "inputs.url=${{ github.event.inputs.url }}"
           echo "payload.url=${{ github.event.client_payload.url }}"
 
-      - name: Run summarizer (manual)
-        if: ${{ github.event_name == 'workflow_dispatch' }}
-        run: node scripts/summarize.mjs "${{ github.event.inputs.url }}"
+      - name: Resolve input URL
+        id: in
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "url=${{ github.event.inputs.url }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "url=${{ github.event.client_payload.url }}" >> "$GITHUB_OUTPUT"
+          fi
+          test -n "${{ steps.in.outputs.url }}" || { echo "URL is empty"; exit 1; }
 
-      - name: Run summarizer (repo dispatch)
-        if: ${{ github.event_name == 'repository_dispatch' && github.event.action == 'summarize-url' }}
-        run: node scripts/summarize.mjs "${{ github.event.client_payload.url }}"
-# .github/workflows/summarize.yml の対象ステップ差し替え
+      - name: Run summarizer
+        shell: bash
+        run: |
+          node scripts/summarize.mjs "${{ steps.in.outputs.url }}" | tee summary.md
 
-      - name: Run summarizer (manual)
-        if: ${{ github.event_name == 'workflow_dispatch' }}
-        run: node scripts/summarize.mjs "${{ github.event.inputs.url }}" | tee summary.md
-
-      - name: Upload summary (manual)
-        if: ${{ github.event_name == 'workflow_dispatch' }}
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: summary
           path: summary.md
           if-no-files-found: error
 
-      - name: Run summarizer (repo dispatch)
-        if: ${{ github.event_name == 'repository_dispatch' && github.event.action == 'summarize-url' }}
-        run: node scripts/summarize.mjs "${{ github.event.client_payload.url }}" | tee summary.md
+      - name: Build filename (date & slug)
+        id: fname
+        shell: bash
+        run: |
+          set -euo pipefail
+          raw="${{ steps.in.outputs.url }}"
+          slug=$(echo "$raw" | sed -E 's#https?://##' | tr '[:upper:]' '[:lower:]' | sed -E 's#[^a-z0-9]+#-#g;s#^-+|-+$##g' | cut -c1-60)
+          date=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+          fname="content/news/${date}-${slug}.md"
+          mkdir -p "$(dirname "$fname")"
+          mv summary.md "$fname"
+          echo "slug=$slug"   >> "$GITHUB_OUTPUT"
+          echo "fname=$fname" >> "$GITHUB_OUTPUT"
 
-      - name: Upload summary (repo dispatch)
-        if: ${{ github.event_name == 'repository_dispatch' && github.event.action == 'summarize-url' }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: summary
-          path: summary.md
-          if-no-files-found: error
+      - name: Commit & push
+        shell: bash
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "${{ steps.fname.outputs.fname }}"
+          if git diff --cached --quiet; then
+            echo "No changes to commit"; exit 0
+          fi
+          git commit -m "feat(news): add summary for ${{ steps.fname.outputs.slug }} (auto)"
+          # 競合を避けて安全に push
+          git pull --rebase --autostash origin main || true
+          git push origin HEAD:main
