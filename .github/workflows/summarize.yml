@@ -4,12 +4,38 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: "URL to summarize"
-        required: true
-        type: string
+        description: "URL to summarize (単発)"
+        required: false
+        default: ""
+      seed_file:
+        description: "バッチ用のURLリスト（改行区切り）へのパス（例: seeds.txt）"
+        required: false
+        default: ""
+      style:
+        description: "summary style (general|tech|research|policy)"
+        required: false
+        default: "general"
+      lang:
+        description: "要約言語 (ja|en)"
+        required: false
+        default: "ja"
+      retries:
+        description: "fetch retries"
+        required: false
+        default: "2"
+      timeout_ms:
+        description: "fetch timeout (ms)"
+        required: false
+        default: "20000"
+  # schedule:
+  #   - cron: "0 0 * * *" # JST 9:00
 
 permissions:
   contents: read
+
+concurrency:
+  group: summarize-url
+  cancel-in-progress: true
 
 jobs:
   summarize:
@@ -26,12 +52,30 @@ jobs:
 
       - name: Install deps
         run: |
+          set -e
           npm ci --no-audit --no-fund || npm i --no-audit --no-fund
+          node -e "require.resolve('jsdom');require.resolve('@mozilla/readability');" \
+            || npm i jsdom @mozilla/readability --no-audit --no-fund
 
-      - name: Run summarizer
+      - name: Run summarizer (Gemini via Google AI Studio)
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GEMINI_MODEL:  ${{ vars.GEMINI_MODEL }}
         run: |
-          mkdir -p summary
-          node scripts/summarize.mjs "${{ inputs.url }}" | tee summary/summary.md
+          set -euo pipefail
+          OUTDIR="summary/${{ github.run_id }}"
+          URL_INPUT="${{ inputs.url }}"
+          SEED_INPUT="${{ inputs.seed_file }}"
+          STYLE="${{ inputs.style }}"
+          LANG="${{ inputs.lang }}"
+          RETRIES="${{ inputs.retries }}"
+          TIMEOUT_MS="${{ inputs.timeout_ms }}"
+
+          ARGS=( --outdir "$OUTDIR" --style "$STYLE" --lang "$LANG" --retries "$RETRIES" --timeout "$TIMEOUT_MS" )
+          if [ -n "$URL_INPUT" ]; then ARGS+=( --url "$URL_INPUT" ); fi
+          if [ -n "$SEED_INPUT" ]; then ARGS+=( --seed-file "$SEED_INPUT" ); fi
+
+          node scripts/summarize.mjs "${ARGS[@]}"
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
@@ -39,3 +83,4 @@ jobs:
           name: summary
           path: summary/**
           if-no-files-found: error
+          retention-days: 14
