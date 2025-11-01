@@ -1,81 +1,78 @@
-name: summarize-url
+name: Summarize URL (Gemini)
 
 on:
   workflow_dispatch:
     inputs:
       url:
-        description: "URL to summarize (単発)"
+        description: 'URL to summarize (optional when seed_file is set)'
         required: false
-        default: ""
+        default: ''
       seed_file:
-        description: "バッチ用のURLリスト（改行区切り）へのパス（例: seeds.txt）"
+        description: 'Path to seed file in repo (e.g. seeds.txt)'
         required: false
-        default: ""
+        default: ''
       style:
-        description: "summary style (general|tech|research|policy)"
+        description: 'general|tech|research|policy'
         required: false
-        default: "general"
+        default: 'general'
       lang:
-        description: "要約言語 (ja|en)"
+        description: 'ja|en'
         required: false
-        default: "ja"
-      retries:
-        description: "fetch retries"
+        default: 'ja'
+      model:
+        description: 'Gemini model; fallback to repo var GEMINI_MODEL'
         required: false
-        default: "2"
-      timeout_ms:
-        description: "fetch timeout (ms)"
-        required: false
-        default: "20000"
-  # schedule:
-  #   - cron: "0 0 * * *" # JST 9:00
+        default: ''
+  schedule:
+    # 毎朝 08:15 JST（= 前日 23:15 UTC）
+    - cron: '15 23 * * *'
 
 permissions:
-  contents: read
+  contents: write
+  actions: read
 
 concurrency:
-  group: summarize-url
+  group: summarize-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
   summarize:
     runs-on: ubuntu-latest
+    env:
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      GEMINI_MODEL: ${{ github.event.inputs.model != '' && github.event.inputs.model || vars.GEMINI_MODEL }}
+      STYLE: ${{ github.event.inputs.style != '' && github.event.inputs.style || 'general' }}
+      LANG: ${{ github.event.inputs.lang != '' && github.event.inputs.lang || 'ja' }}
+      URL: ${{ github.event.inputs.url }}
+      SEED_FILE: ${{ github.event.inputs.seed_file }}
+      PUBLISH_TO_DOCS: ${{ vars.PUBLISH_TO_DOCS }}
+      DOCS_PATH: docs/ai-news-bot
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-          cache: npm
+          node-version: '20'
+          cache: 'npm'
 
       - name: Install deps
         run: |
-          set -e
-          npm ci --no-audit --no-fund || npm i --no-audit --no-fund
-          node -e "require.resolve('jsdom');require.resolve('@mozilla/readability');" \
-            || npm i jsdom @mozilla/readability --no-audit --no-fund
+          corepack enable
+          npm ci
 
       - name: Run summarizer (Gemini via Google AI Studio)
-        env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          GEMINI_MODEL:  ${{ vars.GEMINI_MODEL }}
         run: |
-          set -euo pipefail
-          OUTDIR="summary/${{ github.run_id }}"
-          URL_INPUT="${{ inputs.url }}"
-          SEED_INPUT="${{ inputs.seed_file }}"
-          STYLE="${{ inputs.style }}"
-          LANG="${{ inputs.lang }}"
-          RETRIES="${{ inputs.retries }}"
-          TIMEOUT_MS="${{ inputs.timeout_ms }}"
-
-          ARGS=( --outdir "$OUTDIR" --style "$STYLE" --lang "$LANG" --retries "$RETRIES" --timeout "$TIMEOUT_MS" )
-          if [ -n "$URL_INPUT" ]; then ARGS+=( --url "$URL_INPUT" ); fi
-          if [ -n "$SEED_INPUT" ]; then ARGS+=( --seed-file "$SEED_INPUT" ); fi
-
-          node scripts/summarize.mjs "${ARGS[@]}"
+          node scripts/summarize.mjs \
+            --url="$URL" \
+            --seed-file="$SEED_FILE" \
+            --style="$STYLE" \
+            --lang="$LANG" \
+            --model="$GEMINI_MODEL"
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
@@ -84,3 +81,28 @@ jobs:
           path: summary/**
           if-no-files-found: error
           retention-days: 14
+
+      - name: Publish to docs (optional)
+        if: env.PUBLISH_TO_DOCS == 'true'
+        run: |
+          mkdir -p "$DOCS_PATH"
+          rsync -a --include '*/' --include 'summary.md' --include '*.html' --exclude '*' summary/ "$DOCS_PATH"/
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "${GITHUB_ACTOR}"
+            git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+            git add "$DOCS_PATH"
+            git commit -m "chore(docs): publish summaries from run ${GITHUB_RUN_ID}"
+            git push
+          else
+            echo 'No changes to commit.'
+          fi
+
+      - name: Build daily index pages
+        if: env.PUBLISH_TO_DOCS == 'true'
+        run: |
+          node scripts/build_index.mjs
+          if [ -n "$(git status --porcelain)" ]; then
+            git add docs/news
+            git commit -m "chore(docs): rebuild daily index pages for run ${GITHUB_RUN_ID}"
+            git push
+          fi
