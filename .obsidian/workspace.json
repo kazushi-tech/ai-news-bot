@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/2025-11-02--AI-news.md",
+                "file": "news/Sun Nov 02--AI-news.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-02--AI-news"
+              "title": "Sun Nov 02--AI-news"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/2025-11-02--AI-news.md",
+                "file": "news/Sun Nov 02--AI-news.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-02--AI-newsのアウトライン"
+              "title": "Sun Nov 02--AI-newsのアウトライン"
             }
           }
         ],
@@ -174,9 +174,11 @@
   },
   "active": "88ddd1ad8aacf78c",
   "lastOpenFiles": [
+    "indexes/weekly/2025-11-02.md",
+    "news/2025-11-02--AI-news.md",
+    "scripts/news-publish.css",
     "indexes/weekly/2025-11-03.md",
     "src/clips/2025-11-02--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake.md",
-    "news/2025-11-02--AI-news.md",
     "news/Sun Nov 02--AI-news.md",
     "src/clips/2025-11-02--ai-quicktake-bloomberg-3.md",
     "scripts/build_index_daily.mjs",
@@ -200,7 +202,6 @@
     "node_modules/@mixmark-io/domino/test/w3c/level1/html/obsolete/table52.js",
     "node_modules/@mixmark-io/domino/test/w3c/level1/html/obsolete/table50.js",
     "node_modules/@mixmark-io/domino/test/w3c/level1/html/obsolete/table49.js",
-    "node_modules/@mixmark-io/domino/test/w3c/level1/html/obsolete/table48.js",
     "node_modules/@mixmark-io/domino/test/w3c/README.md",
     "node_modules/@mixmark-io/domino/README.md",
     "node_modules/@mixmark-io/domino/CONTRIBUTING.md",
@@ -209,7 +210,6 @@
     "node_modules/gray-matter/README.md",
     "node_modules/gray-matter/CHANGELOG.md",
     "node_modules/extend-shallow/README.md",
-    "node_modules/is-extendable/README.md",
     "node_modules/psl/browserstack-logo.svg",
     "node_modules/date-fns/docs/logotype.svg",
     "node_modules/date-fns/docs/logo.svg"

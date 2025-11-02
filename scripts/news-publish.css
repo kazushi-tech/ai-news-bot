@@ -1,0 +1,22 @@
+/* news-publish.css (任意) */
+.markdown-preview-view table {
+  width: 100%;
+  table-layout: fixed;
+}
+.markdown-preview-view th, .markdown-preview-view td {
+  padding: .6rem .7rem;
+  vertical-align: top;
+}
+.markdown-preview-view thead th {
+  font-weight: 700;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+.markdown-preview-view td:nth-child(2),
+.markdown-preview-view td:nth-child(3) {
+  text-align: center;
+  white-space: nowrap;
+  width: 120px;
+}
+.markdown-preview-view td:nth-child(4) {  /* 要約 */
+  color: var(--text-muted);
+}
