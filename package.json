@@ -5,12 +5,15 @@
   "engines": {
     "node": ">=20"
   },
-  "scripts": {
+"scripts": {
     "clip": "node scripts/clip_url.mjs --url",
     "sum": "node scripts/summarize_clip.mjs",
     "sum:latest": "sh -lc 'LATEST=$(ls -t src/clips/*.md | head -n1); [ -n \"$LATEST\" ] && node scripts/summarize_clip.mjs \"$LATEST\"'",
+    "index:day": "node scripts/build_index_daily.mjs",
+    "index:day:date": "node scripts/build_index_daily.mjs --date",
     "publish": "git add -A && git commit -m \"clip+sum (Gemini 2.5-flash)\" || true && git push",
-    "one": "bash scripts/clip_sum_publish.sh"
+    "one": "bash scripts/clip_sum_publish.sh",
+    "one:page": "bash -lc 'npm run one -- \"$URL\" && npm run index:day && npm run publish'"
   }
 ,
   "dependencies": {
