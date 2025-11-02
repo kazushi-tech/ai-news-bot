@@ -1,11 +1,4 @@
-node_modules
 .env
-.DS_Store
-# build outputs
-artifacts/
-.env
-
-# local artifacts
+node_modules/
 _artifacts/
-summary/
-.DS_Store
+out/

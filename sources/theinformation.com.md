@@ -1,8 +1,8 @@
-
-The Information 一覧
-TABLE file.link AS 記事, date AS 日付, default(model,"") AS モデル, default(source_url,"") AS 出典
-FROM "summary" OR "src/summary"
-WHERE contains(lower(string(source_url) + " " + string(host) + " " + file.name), "theinformation.com")
-SORT date DESC
-
-
+---
+title: "The Information 一覧"
+---
+```dataview
+TABLE file.link AS 記事, default(date, file.ctime) AS 日付, model AS モデル, source_url AS 出典
+FROM "summary"
+WHERE host = "theinformation.com"
+SORT date DESC, file.ctime DESC
