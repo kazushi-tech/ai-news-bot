@@ -1,11 +1,10 @@
+# bloomberg.co.jp 一覧
 
-bloomberg.co.jp の記事一覧
-
-自動生成。編集しないでOK。
-
-TABLE file.link AS 記事, date AS 日付, model AS モデル, source_url AS 出典
-FROM "news"
-WHERE contains(lower(host), "bloomberg.co.jp")
+```dataview
+TABLE file.link AS 記事, date AS 日付, default(model,"") AS モデル, default(source_url,"") AS 出典
+FROM "summary" OR "src/summary"
+WHERE contains(lower(string(source_url) + " " + string(host) + " " + file.name), "bloomberg.co.jp")
 SORT date DESC
-
-
+TABLE file.link, source_url, host
+FROM "summary"
+LIMIT 10

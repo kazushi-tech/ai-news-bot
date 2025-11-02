@@ -1,11 +1,8 @@
 
-The Information の記事一覧
-
-自動生成。編集しないでOK。
-
-TABLE file.link AS 記事, date AS 日付, model AS モデル, source_url AS 出典
-FROM "news"
-WHERE contains(lower(host), "theinformation.com")
+The Information 一覧
+TABLE file.link AS 記事, date AS 日付, default(model,"") AS モデル, default(source_url,"") AS 出典
+FROM "summary" OR "src/summary"
+WHERE contains(lower(string(source_url) + " " + string(host) + " " + file.name), "theinformation.com")
 SORT date DESC
 
 
