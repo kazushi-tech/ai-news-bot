@@ -1,25 +1,50 @@
-name: ai-news (weekly)
+name: build-weekly-index
+
 on:
-    schedule:
-        - cron: "15 0 * * 1" # JST 09:15
-    workflow_dispatch:
+  workflow_dispatch: {}
+  schedule:
+    # 毎週 月曜 07:00 JST（= 日曜 22:00 UTC）
+    - cron: "0 22 * * 0"
+
+permissions:
+  contents: write
+  actions: read
+
+env:
+  NODE_OPTIONS: --dns-result-order=ipv4first
 
 jobs:
-    weekly:
-        runs-on: ubuntu-latest
-        permissions:
-            contents: write
-        steps:
-            - uses: actions/checkout@v4
-            - uses: actions/setup-node@v4
-              with:
-                  node-version: "24"
-            - run: npm ci
-            - run: node scripts/pick_ai_week.mjs
-            - name: Commit & push weekly
-              run: |
-                  git config user.name "github-actions[bot]"
-                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-                  git add weekly/
-                  git commit -m "chore(weekly): generate ${GITHUB_RUN_ID}" || echo "no changes"
-                  git push
+  weekly:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps (best effort)
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci --no-audit --no-fund || true
+          else
+            npm i --no-audit --no-fund || true
+          fi
+
+      - name: Build weekly index
+        run: |
+          node scripts/build_index_weekly.mjs
+
+      - name: Commit weekly indexes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add indexes/weekly || true
+          if git diff --cached --quiet; then
+            echo "No weekly index changes."
+          else
+            git commit -m "ci(index): weekly"
+            git push
+          fi
