@@ -174,6 +174,10 @@
   },
   "active": "88ddd1ad8aacf78c",
   "lastOpenFiles": [
+    "src/clips/2025-11-02--ai-quicktake-bloomberg.md",
+    "sources/nytimes.com.md",
+    "sources/wsj.com.md",
+    "scripts/make_source_note.mjs",
     "src/clips.md",
     "summary/1762059837830-example.com/summary.md",
     "summary/20251102-blog.google/summary.md",
@@ -188,7 +192,6 @@
     "node_modules/@mixmark-io/domino/test/w3c/level1/html/obsolete/table48.js",
     "node_modules/@mixmark-io/domino/test/w3c/level1/html/obsolete/table47.js",
     "node_modules/@mixmark-io/domino/test/w3c/level1/html/obsolete/table46.js",
-    "node_modules/@mixmark-io/domino/test/w3c/level1/html/obsolete/table45.js",
     "node_modules/@mixmark-io/domino/test/w3c/README.md",
     "node_modules/@mixmark-io/domino/README.md",
     "node_modules/@mixmark-io/domino/CONTRIBUTING.md",
@@ -207,9 +210,6 @@
     "node_modules/js-yaml/CHANGELOG.md",
     "node_modules/js-yaml/README.md",
     "node_modules/kind-of/README.md",
-    "node_modules/kind-of/CHANGELOG.md",
-    "sources/bloomberg.co.jp.md",
-    "sources/theinformation.com.md",
     "node_modules/psl/browserstack-logo.svg",
     "node_modules/date-fns/docs/logotype.svg",
     "node_modules/date-fns/docs/logo.svg"
