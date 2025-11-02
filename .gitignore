@@ -3,3 +3,9 @@ node_modules
 .DS_Store
 # build outputs
 artifacts/
+.env
+
+# local artifacts
+_artifacts/
+summary/
+.DS_Store
