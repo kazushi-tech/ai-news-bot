@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/Sun Nov 02--AI-news.md",
-                "mode": "source",
+                "file": "news/index-weekly.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sun Nov 02--AI-news"
+              "title": "index-weekly"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/Sun Nov 02--AI-news.md",
+                "file": "news/index-weekly.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sun Nov 02--AI-newsのアウトライン"
+              "title": "index-weeklyのアウトライン"
             }
           }
         ],
@@ -174,27 +174,29 @@
   },
   "active": "88ddd1ad8aacf78c",
   "lastOpenFiles": [
+    "news/summary.md",
+    "news/index-weekly.md",
+    "summary/20251102-blog.google/summary.md",
+    "src/clips/2025-11-02--ai-quicktake-bloomberg-2.md",
+    "src/clips/2025-11-02--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake.md",
+    "src/clips.md",
+    "news/index-monthly.md",
+    "src/clips/2025-11-02--ai-quicktake-bloomberg.md",
+    "src/clips/2025-11-02--ai-quicktake-bloomberg-3.md",
     "indexes/weekly/2025-11-02.md",
+    "news/Sun Nov 02--AI-news.md",
     "news/2025-11-02--AI-news.md",
     "scripts/news-publish.css",
     "indexes/weekly/2025-11-03.md",
-    "src/clips/2025-11-02--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake.md",
-    "news/Sun Nov 02--AI-news.md",
-    "src/clips/2025-11-02--ai-quicktake-bloomberg-3.md",
     "scripts/build_index_daily.mjs",
     "summary/zzz_dummy-bloomberg.md",
-    "news/index-weekly.md",
-    "src/clips/2025-11-02--ai-quicktake-bloomberg-2.md",
-    "src/clips/2025-11-02--ai-quicktake-bloomberg.md",
     "summary/2025-11-02--bloomberg.co.jp--ai-quicktake-bloomberg.md",
     "scripts/clip_sum_publish.sh",
-    "src/clips.md",
     "summary/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
     "sources/nytimes.com.md",
     "sources/wsj.com.md",
     "scripts/make_source_note.mjs",
     "summary/1762059837830-example.com/summary.md",
-    "summary/20251102-blog.google/summary.md",
     "summary/Sun Nov 02 2025 09:00:00 GMT+0900 (Japan Standard Time)--www.bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake.md",
     "scripts/clip_url.mjs",
     "node_modules/@mixmark-io/domino/package.json",
@@ -208,8 +210,6 @@
     "node_modules/@mixmark-io/domino/CHANGELOG.md",
     "node_modules/turndown/README.md",
     "node_modules/gray-matter/README.md",
-    "node_modules/gray-matter/CHANGELOG.md",
-    "node_modules/extend-shallow/README.md",
     "node_modules/psl/browserstack-logo.svg",
     "node_modules/date-fns/docs/logotype.svg",
     "node_modules/date-fns/docs/logo.svg"

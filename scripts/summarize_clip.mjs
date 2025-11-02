@@ -126,9 +126,11 @@ const front =
   `title: "${title.replace(/"/g, '\\"')}"\n` +
   `date: "${date}"\n` +
   `model: "${MODEL}"\n` +
+  `lang: "ja"\n` +                  // ← 追加（日本語フラグ）
   `source_url: "${sourceUrl}"\n` +
   `host: "${host}"\n` +
   `---\n\n`;
+
 
 await fs.writeFile(outPath, front + summary.trim() + "\n", "utf8");
 console.log("✔ summarized →", outPath);
