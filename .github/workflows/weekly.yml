@@ -34,8 +34,7 @@ jobs:
           fi
 
       - name: Build weekly index
-        run: |
-          node scripts/build_index_weekly.mjs
+        run: node scripts/build_index_weekly.mjs
 
       - name: Commit weekly indexes
         run: |

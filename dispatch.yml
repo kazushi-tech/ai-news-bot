@@ -1,0 +1,30 @@
+name: dispatch
+
+on:
+  repository_dispatch:
+    types: [summarize]
+
+jobs:
+  fanout:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const p = context.payload.client_payload || {};
+            const inputs = {
+              url: p.url || "",
+              seed_file: p.seed_file || "",
+              style: p.style || "general",
+              lang: p.lang || "ja",
+              model: p.model || "gemini-2.5-flash",
+              publish_to_docs: String(p.publish_to_docs ?? true),
+              docs_path: p.docs_path || "docs/ai-news-bot",
+            };
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: "summarize.yml",
+              ref: p.ref || "main",
+              inputs,
+            });
