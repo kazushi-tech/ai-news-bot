@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * summarize.mjs
+ * summarize.mjs (rich)
  * Node 20 (ESM)
  *
  * 入力:
@@ -26,7 +26,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT_ROOT = path.resolve(process.cwd(), "summary");
 const DEFAULT_MODEL = "gemini-2.5-flash";
 
-// -------- args/env --------
+/* ---------------- args/env ---------------- */
 function parseArgs(argv) {
   const out = {};
   for (let i = 2; i < argv.length; i++) {
@@ -56,7 +56,7 @@ if (REQUESTED_MODEL !== MODEL) {
   console.warn(`[warn] model is forced to ${MODEL} (requested: ${REQUESTED_MODEL})`);
 }
 
-// -------- utils --------
+/* ---------------- utils ---------------- */
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const firstOf = (v) => (Array.isArray(v) ? v[0] : v);
 const parseJsonSafe = (t) => { try { return JSON.parse(t); } catch { return null; } };
@@ -104,31 +104,98 @@ function extractReadable(html, baseUrl) {
   const reader = new Readability(dom.window.document);
   const parsed = reader.parse();
   if (!parsed) return null;
-  return { title: parsed.title || dom.window.document.title || "", text: parsed.textContent || "", contentHTML: parsed.content || "" };
+  return {
+    title: parsed.title || dom.window.document.title || "",
+    text: parsed.textContent || "",
+    contentHTML: parsed.content || ""
+  };
 }
 
-async function summarizeWithGemini(text, { lang, style, model, apiKey }) {
-  const chunk = text.length > 8000 ? text.slice(0, 8000) : text;
+/* ---------------- summarizer ---------------- */
+async function summarizeWithGemini(text, { lang, style, model, apiKey, sourceUrl, host }) {
+  const chunk = text.length > 12000 ? text.slice(0, 12000) : text;
 
-  const sys = lang === "ja"
-    ? `あなたはAIニュースの要約者です。読者は技術に明るい日本語話者です。`
-    : `You are a summarizer for AI/tech news targeting a technically literate audience.`;
+  const sys_ja =
+`あなたはAI/テックニュースの編集者です。読者は技術に明るい日本語話者。事実に忠実に、見出し構造と要点を明確にまとめます。`;
 
-  const instr = lang === "ja"
-    ? `以下の本文を${style}トーンで簡潔に要約してください。
-- まず1行の要約（結論）
-- 箇条書きで3〜6点（重要事実・数値・インパクト）
-- 出典があればドメイン名で明示
-- 推測は避け、本文の事実のみ。出力はMarkdown。`
-    : `Summarize in a ${style} tone with: one-line tl;dr, 3–6 bullets (facts/numbers/impact), cite source domain, Markdown only.`;
+  const instr_ja =
+`以下の本文を元に、**深めの解説つき要約**をMarkdownで作成してください（目安 600–1200語）。事実にない推測はしないでください。
 
-  const contents = [{ role: "user", parts: [{ text: `${sys}\n\n${instr}\n\n---\nARTICLE:\n${chunk}` }] }];
+# 出力仕様
+## 概要 (TL;DR)
+- 2〜3文で最重要ポイントを要約（誰が/何を/なぜ重要か）
+
+## 重要ポイント
+- 5〜8個の箇条書き。数値・固有名詞・影響を優先。
+
+## 詳細レポート
+### はじめに：何が起こったのか？
+- 3〜6文で背景と出来事を簡潔に。
+### 背景
+- 関連の経緯・市場/技術の文脈を説明。
+### なぜ重要か（影響）
+- 製品・ビジネス・規制/政策・投資の観点で箇条書き。
+### 関係者・企業の動き
+- 主要プレイヤーの発言/施策を列挙。
+
+### データ・数値
+| 指標 | 値 | 注記 |
+|---|---|---|
+| 代表的な数値 | 具体値 | 本文から根拠を簡潔に |
+
+## 引用（Notable quotes）
+> 本文から重要な1〜3文をそのまま引用し、話者/肩書きを添える。なければ省略。
+
+## リスクと課題
+- 3〜5点
+
+## 今後の見通し / アクション
+- 実務での示唆・次アクションを箇条書き（確度高い範囲で）。
+
+## 出典
+- ${host}（本文出典）
+`;
+
+  const sys_en =
+`You are an editor for AI/tech news. Audience is technically literate. Write a rich, structured brief faithful to the source.`;
+
+  const instr_en =
+`Summarize with **deep context** in Markdown (600–1200 words). Avoid speculation.
+
+# Output
+## TL;DR
+- 2–3 sentences capturing who/what/why-it-matters.
+
+## Key Points
+- 5–8 bullets emphasizing numbers, proper nouns, impact.
+
+## Deep Dive
+### What happened
+### Background
+### Why it matters (impact)
+### Stakeholders & moves
+### Data & Metrics
+| Metric | Value | Note |
+|---|---|---|
+
+## Notable quotes
+> 1–3 quotes with speaker, if present.
+
+## Risks & challenges
+## Outlook / Actions
+## Source
+- ${host}
+`;
+
+  const prompt = (lang === "ja")
+    ? `${sys_ja}\n\n${instr_ja}\n\n---\n[Source URL] ${sourceUrl}\n\n[ARTICLE]\n${chunk}`
+    : `${sys_en}\n\n${instr_en}\n\n---\n[Source URL] ${sourceUrl}\n\n[ARTICLE]\n${chunk}`;
 
   const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
   const resp = await fetch(endpoint, {
     method: "POST",
     headers: { "content-type": "application/json" },
-    body: JSON.stringify({ contents }),
+    body: JSON.stringify({ contents: [{ role: "user", parts: [{ text: prompt }] }] }),
   });
   if (!resp.ok) throw new Error(`Gemini API ${resp.status}: ${await resp.text()}`);
   const data = await resp.json();
@@ -137,7 +204,7 @@ async function summarizeWithGemini(text, { lang, style, model, apiKey }) {
   return txt.trim();
 }
 
-function buildFrontmatter({ title, sourceUrl, dateISO, model, extra = "" }) {
+function buildFrontmatter({ title, sourceUrl, dateISO, model }) {
   return [
     "---",
     `title: "${(title || "").replace(/"/g, '\\"')}"`,
@@ -145,13 +212,12 @@ function buildFrontmatter({ title, sourceUrl, dateISO, model, extra = "" }) {
     `date: ${dateISO.slice(0, 10)}`,
     `tags: [ai-news, gemini]`,
     `model: ${model}`,
-    extra && `status: ${extra}`,
     "---",
     "",
-  ].filter(Boolean).join("\n");
+  ].join("\n");
 }
 
-// -------- core --------
+/* ---------------- core ---------------- */
 async function processOne(targetUrl) {
   const u = new URL(targetUrl);
   const host = u.hostname;
@@ -177,9 +243,15 @@ async function processOne(targetUrl) {
     const title = (extracted?.title || host || "article").toString();
     const outDir = path.join(OUT_ROOT, `${RUN_ID}-${host}`);
     await ensureDir(outDir);
-    const fm = buildFrontmatter({ title, sourceUrl: targetUrl, dateISO, model: MODEL, extra: "extract_failed" });
-    const body = "_本文抽出に失敗しました。共有リンクや別ソースで再実行してください。_\n";
-    await fs.writeFile(path.join(outDir, "summary.md"), fm + body, "utf8");
+    const fm = buildFrontmatter({ title, sourceUrl: targetUrl, dateISO, model: MODEL });
+    const body = [
+      "> [!warning] 抽出失敗",
+      "本文抽出に失敗しました。共有リンクや別ソースで再実行してください。",
+      "",
+      "## Source URL",
+      targetUrl
+    ].join("\n");
+    await fs.writeFile(path.join(outDir, "summary.md"), fm + body + "\n", "utf8");
     await fs.writeFile(path.join(outDir, `${host}.html`), html, "utf8");
     console.warn("extract failed: wrote stub markdown");
     return;
@@ -187,20 +259,30 @@ async function processOne(targetUrl) {
 
   const dateISO = new Date().toISOString();
   const title = extracted.title || host;
+
   const summaryMd = await summarizeWithGemini(extracted.text, {
     lang: LANG,
     style: STYLE,
     model: MODEL,
     apiKey: API_KEY,
+    sourceUrl: targetUrl,
+    host
   });
 
-  const slug = toSlug(title, toSlug(host));
   const outDir = path.join(OUT_ROOT, `${RUN_ID}-${host}`);
   await ensureDir(outDir);
 
+  // ✅ ここが修正ポイント：オブジェクト渡し + テンプレ文字列
   const fm = buildFrontmatter({ title, sourceUrl: targetUrl, dateISO, model: MODEL });
-  await fs.writeFile(path.join(outDir, "summary.md"), fm + summaryMd + "\n", "utf8");
+  const appendix = `
 
+## Source URL
+${targetUrl}
+`;
+
+  await fs.writeFile(path.join(outDir, "summary.md"), fm + summaryMd + appendix, "utf8");
+
+  // 参考HTMLも保存（Obsidianで原文確認したい時に便利）
   if (contentHTML) {
     const htmlOut = `<!doctype html><meta charset="utf-8"><title>${title}</title><article>${contentHTML}</article>`;
     await fs.writeFile(path.join(outDir, `${host}.html`), htmlOut, "utf8");
