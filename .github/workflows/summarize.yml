@@ -1,54 +1,72 @@
-name: Summarize URL (Gemini)
+name: summarize
 
 on:
   workflow_dispatch:
     inputs:
       url:
-        description: "単発URL（seed_fileと同時指定不可）"
+        description: "単発URL（任意）"
         required: false
         type: string
-        default: ""
       seed_file:
-        description: "シード一覧のパス（urlと同時指定不可） 例: seeds.txt"
+        description: "シード一覧のパス（URLリスト）"
         required: false
         type: string
-        default: ""
       style:
         description: "出力スタイル"
         required: false
-        type: string
-        default: "general"
+        type: choice
+        options: [general, casual, formal]
+        default: general
       lang:
         description: "言語"
         required: false
-        type: string
-        default: "ja"
+        type: choice
+        options: [ja, en]
+        default: ja
       model:
-        description: "Geminiのモデル名（未指定なら repo var GEMINI_MODEL を使用）"
+        description: "モデル名"
         required: false
         type: string
-        default: ""
+        default: "gemini-2.5-flash"
+      publish_to_docs:
+        description: "docs に反映する？"
+        required: false
+        type: boolean
+        default: true
+      docs_path:
+        description: "docs 出力先"
+        required: false
+        type: string
+        default: "docs/ai-news-bot"
+
+env:
+  # Secrets → ENV へ（OR フォールバック）
+  GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY || secrets.GOOGLE_API_KEY }}
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY || secrets.GOOGLE_API_KEY }}
+
+  # 入力のデフォルト補正
+  GEMINI_MODEL: ${{ github.event.inputs.model || 'gemini-2.5-flash' }}
+  STYLE: ${{ github.event.inputs.style || 'general' }}
+  LANG: ${{ github.event.inputs.lang || 'ja' }}
+  URL: ${{ github.event.inputs.url }}
+  SEED_FILE: ${{ github.event.inputs.seed_file }}
+  DOCS_PATH: ${{ github.event.inputs.docs_path || 'docs/ai-news-bot' }}
+  PUBLISH_TO_DOCS: ${{ github.event.inputs.publish_to_docs == 'true' }}
+
+  # Discord Webhook（有無判定は if で secrets を直接使えないためフラグ化）
+  DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL || '' }}
+  HAS_DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL != '' }}
 
 permissions:
   contents: write
 
-concurrency:
-  group: summarize-${{ github.ref }}
-  cancel-in-progress: true
-
 jobs:
   summarize:
-    runs-on: ubuntu-latest
-
-    env:
-      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }} # ←Secrets名に合わせて（GEMINI_API_KEYならここも変更）
-      GEMINI_MODEL:   ${{ github.event.inputs.model != '' && github.event.inputs.model || vars.GEMINI_MODEL }}
-      STYLE:          ${{ github.event.inputs.style != '' && github.event.inputs.style || 'general' }}
-      LANG:           ${{ github.event.inputs.lang  != '' && github.event.inputs.lang  || 'ja' }}
-      URL:            ${{ github.event.inputs.url }}
-      SEED_FILE:      ${{ github.event.inputs.seed_file }}
-      DOCS_PATH:      ${{ vars.DOCS_PATH || 'docs/ai-news-bot' }}
-      PUBLISH_TO_DOCS: ${{ vars.PUBLISH_TO_DOCS || 'true' }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    concurrency:
+      group: summarize
+      cancel-in-progress: true
 
     steps:
       - name: Checkout
@@ -59,36 +77,39 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
-          cache: "npm"
+          node-version: 20
+          cache: npm
 
       - name: Install deps
         run: npm ci
+        shell: bash
 
       - name: Run summarizer (Gemini via Google AI Studio)
         shell: bash
         run: |
           set -euo pipefail
 
-          # どちらか片方だけ許可
-          if [[ -n "${URL}" && -n "${SEED_FILE}" ]]; then
+          # 入力バリデーション（片方だけ許可）
+          if [[ -n "${URL:-}" && -n "${SEED_FILE:-}" ]]; then
             echo "::error::url と seed_file は同時指定できません。片方だけにしてください。"
             exit 1
           fi
-          if [[ -z "${URL}" && -z "${SEED_FILE}" ]]; then
+          if [[ -z "${URL:-}" && -z "${SEED_FILE:-}" ]]; then
             echo "::error::url か seed_file のどちらかは必須です。"
             exit 1
           fi
 
-          mkdir -p "${DOCS_PATH}"
+          OUTDIR="out/summary"
+          rm -rf "$OUTDIR"
+          mkdir -p "$OUTDIR"
 
           CMD=(node scripts/summarize.mjs
                --style "${STYLE}"
                --lang "${LANG}"
                --gemini-model "${GEMINI_MODEL}"
-               --outdir "${DOCS_PATH}")
+               --outdir "${OUTDIR}")
 
-          if [[ -n "${URL}" ]]; then
+          if [[ -n "${URL:-}" ]]; then
             CMD+=(--url "${URL}")
           else
             CMD+=(--seed-file "${SEED_FILE}")
@@ -98,14 +119,13 @@ jobs:
           "${CMD[@]}"
 
       - name: Upload artifact (summary)
-        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: summary
           path: |
-            ${{ env.DOCS_PATH }}/**/*.md
-            ${{ env.DOCS_PATH }}/**/*.html
-          if-no-files-found: warn
+            out/summary/${{ github.run_id }}-*/summary.md
+            out/summary/${{ github.run_id }}-*/**/*.html
+          if-no-files-found: error
           retention-days: 14
 
       - name: Publish to docs (optional)
@@ -113,12 +133,37 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          mkdir -p "${DOCS_PATH}"
+          rsync -a "out/summary/${{ github.run_id }}-"*/ "${DOCS_PATH}/" || true
+
           git config user.name  "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add "${DOCS_PATH}"
+
           if ! git diff --cached --quiet; then
-            git commit -m "docs: update summaries from run ${GITHUB_RUN_ID}"
+            git commit -m "docs: update summaries from run $GITHUB_RUN_ID"
             git push
           else
             echo "No changes to commit."
           fi
+
+      - name: Notify Discord (result)
+        if: ${{ always() && env.HAS_DISCORD_WEBHOOK == 'true' }}
+        env:
+          DISCORD_WEBHOOK_URL: ${{ env.DISCORD_WEBHOOK_URL }}
+          STATUS: ${{ job.status }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          URL: ${{ env.URL }}
+          DOCS_PATH: ${{ env.DOCS_PATH }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          ICON="✅"
+          [[ "${STATUS}" != "success" ]] && ICON="❌"
+
+          MSG=$'[ '"${STATUS}"$' ] '"${ICON}"$' 要約ジョブ\nURL: '${URL:-'-'}$'\nRun: '${RUN_URL}$'\nDocs: '${DOCS_PATH:-'-'}
+
+          python3 - <<'PY' | curl -fsS -H 'Content-Type: application/json' -d @- "$DISCORD_WEBHOOK_URL" >/dev/null
+          import os, json
+          print(json.dumps({"content": os.environ["MSG"]}, ensure_ascii=False))
+          PY
