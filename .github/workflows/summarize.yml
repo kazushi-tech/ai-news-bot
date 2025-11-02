@@ -24,7 +24,7 @@ on:
         options: [ja, en]
         default: ja
       model:
-        description: "モデル名"
+        description: "モデル名（既定は gemini-2.5-flash）"
         required: false
         type: string
         default: "gemini-2.5-flash"
@@ -49,6 +49,7 @@ concurrency:
 
 env:
   NODE_ENV: production
+  TZ: Asia/Tokyo
 
 jobs:
   summarize:
@@ -66,7 +67,9 @@ jobs:
           cache: 'npm'
 
       - name: Install deps
-        run: npm ci
+        run: |
+          npm ci
+          node -v && npm -v
 
       - name: Derive flags & env (no secrets in if)
         id: derive
@@ -125,12 +128,52 @@ jobs:
           echo "::error::GEMINI_API_KEY or GOOGLE_API_KEY is required in repository secrets."
           exit 2
 
-      - name: Run summarize.mjs
+      # === ここから 2.5-flash 固定の事前疎通チェック（モデルは変えません） ===
+      - name: Gemini preflight (gemini-2.5-flash)
         env:
           GEMINI_API_KEY: ${{ env.GEMINI_API_KEY }}
         run: |
           set -Eeuo pipefail
-          CMD=(node scripts/summarize.mjs --style "$STYLE" --lang "$LANG" --model "$MODEL")
+          echo "Checking Gemini 2.5 Flash connectivity…"
+          STATUS=$(curl -s -o preflight.json -w "%{http_code}" \
+            -H 'Content-Type: application/json' \
+            -H "x-goog-api-key: ${GEMINI_API_KEY}" \
+            -d '{"contents":[{"parts":[{"text":"ping"}]}]}' \
+            'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent')
+          echo "status=$STATUS"
+          if [[ "$STATUS" -lt 200 || "$STATUS" -ge 300 ]]; then
+            echo "::error::Gemini preflight failed (HTTP $STATUS) with model=gemini-2.5-flash"
+            tail -c 2000 preflight.json || true
+            exit 3
+          fi
+
+      - name: Preflight (deps & inputs)
+        run: |
+          set -Eeuo pipefail
+          node - <<'JS'
+          try {
+            require('jsdom'); require('@mozilla/readability'); require('undici');
+            console.log('deps: ok');
+          } catch (e) {
+            console.error('deps: missing ->', e?.message || e);
+            process.exit(2);
+          }
+          JS
+
+      # === ここが落ちていたステップ（名称はそのまま保持） ===
+      - name: Run summarize.mjs
+        id: run_summary
+        env:
+          GEMINI_API_KEY: ${{ env.GEMINI_API_KEY }}
+          GOOGLE_API_KEY: ${{ env.GEMINI_API_KEY }}   # ← 追加：エイリアス
+          NODE_OPTIONS: --dns-result-order=ipv4first
+        run: |
+          set -Eeuo pipefail
+          set -x
+
+          mkdir -p out/summary summary || true
+
+          CMD=(node --unhandled-rejections=strict --trace-uncaught scripts/summarize.mjs --style "$STYLE" --lang "$LANG" --model "$MODEL")
           if [[ -n "${{ github.event.inputs.url }}" ]]; then
             CMD+=(--url "${{ github.event.inputs.url }}")
           fi
@@ -138,7 +181,32 @@ jobs:
             CMD+=(--seed-file "${{ github.event.inputs.seed_file }}")
           fi
           echo "+ ${CMD[*]}"
-          "${CMD[@]}"
+
+          # 3回までリトライ（10s/20s バックオフ）
+          ATTEMPT=0
+          until "${CMD[@]}" 2>&1 | tee summarize.log; do
+            EXIT_CODE=$?
+            ATTEMPT=$((ATTEMPT+1))
+            if [[ $ATTEMPT -ge 3 ]]; then
+              echo "summarize.mjs failed after ${ATTEMPT} attempts (exit=$EXIT_CODE)"
+              exit $EXIT_CODE
+            fi
+            S=$((ATTEMPT*10))
+            echo "retry in ${S}s ..."
+            sleep $S
+          done
+          set +x
+
+      - name: Upload debug log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: summarize-log
+          path: |
+            summarize.log
+            preflight.json
+          if-no-files-found: ignore
+          retention-days: 7
 
       - name: Upload artifact (summary)
         if: always()
@@ -184,19 +252,17 @@ jobs:
           run_id = os.environ.get("GITHUB_RUN_ID","")
           publish = os.environ.get("PUBLISH_TO_DOCS","false") == "true"
           docs = os.environ.get("DOCS_PATH","docs/ai-news-bot")
-
-          lines = []
-          lines.append("✅ AIニュース要約が完了しました")
-          lines.append(f"- repo: {repo}")
-          lines.append(f"- run : https://github.com/{repo}/actions/runs/{run_id}")
-          lines.append("- artifact: summary")
+          lines = [
+            "✅ AIニュース要約が完了しました",
+            f"- repo: {repo}",
+            f"- run : https://github.com/{repo}/actions/runs/{run_id}",
+            "- artifact: summary",
+          ]
           if publish:
               lines.append(f"- docs: {docs}")
-
           text = "\n".join(lines)
           if len(text) > 1900:
               text = text[:1900] + "…"
-
           with open("payload.json","w",encoding="utf-8") as f:
               json.dump({"content": text}, f, ensure_ascii=False)
           print("payload.json written")
@@ -204,6 +270,7 @@ jobs:
 
       - name: Notify Discord
         if: env.HAS_DISCORD_WEBHOOK == 'true'
+        continue-on-error: true
         env:
           WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
