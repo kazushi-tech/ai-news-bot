@@ -1,12 +1,13 @@
 #!/usr/bin/env node
 /**
- * build_index_daily.mjs (Publish用)
+ * build_index_daily.mjs (Publish用：デフォ3列)
  * summary/*.md を集計し、news/YYYY-MM-DD--AI-news.md を生成
- * 列: タイトル | 記事(内部リンク) | 引用元(外部リンク) | 要約(<=140字)
+ * 列: タイトル | 記事(内部リンク) | 引用元(外部リンク)
+ *
  * 使い方:
- *   node scripts/build_index_daily.mjs
- *   node scripts/build_index_daily.mjs --date=2025-11-02
- *   node scripts/build_index_daily.mjs --no-snippet            // 3列版
+ *   node scripts/build_index_daily.mjs                   # 最新日付で3列
+ *   node scripts/build_index_daily.mjs --date=2025-11-02 # 指定日
+ *   node scripts/build_index_daily.mjs --with-snippet    # 4列(要約あり)
  */
 
 import fs from "node:fs/promises";
@@ -14,121 +15,79 @@ import path from "node:path";
 import matter from "gray-matter";
 
 /* ---------- utils ---------- */
-const z = n => String(n).padStart(2, "0");
+const z = n => String(n).padStart(2,"0");
 const fmtDate = d => `${d.getFullYear()}-${z(d.getMonth()+1)}-${z(d.getDate())}`;
-const parseArgs = (argv) => {
-  const out = { noSnippet: false };
-  for (const a of argv.slice(2)) {
-    if (a.startsWith("--date=")) out.date = a.split("=")[1];
-    if (a === "--no-snippet") out.noSnippet = true;
-  }
-  return out;
-};
-const stripMd = (s="") =>
-  s.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1") // links
-   .replace(/[*_`>#]/g, "")                // marks
-   .replace(/\s+/g, " ")
-   .trim();
-const escapeCell = (s="") => String(s).replace(/\|/g, "\\|").replace(/\r?\n|\r/g, " ");
-const shorten = (s="", n=140) => (s = s.trim(), s.length>n ? s.slice(0,n-1)+"…" : s);
-const wikiLinkFor = (fp, label) => `[[${fp.replace(/\.md$/i,"")}|${label}]]`;
-
-function extractSnippet(md) {
-  // TL;DR の先頭2行 → Key Points → 冒頭
-  const pick = (re) => {
-    const m = md.match(re);
-    if (!m) return null;
-    const bullets = m[1]
-      .split(/\r?\n/)
-      .map(l => l.replace(/^\s*-\s?/, "").trim())
-      .filter(Boolean);
-    return bullets.length ? bullets.slice(0,2).map(stripMd).join(" / ") : null;
-  };
-  return (
-    pick(/^\s*#\s*TL;DR[\s\r\n]+((?:-\s?.*(?:\r?\n|$))+)/im) ||
-    pick(/^\s*##\s*Key Points[\s\r\n]+((?:-\s?.*(?:\r?\n|$))+)/im) ||
-    stripMd(md).slice(0, 200)
-  );
+function parseArgs(argv){ const o={withSnippet:false}; for(const a of argv.slice(2)){ if(a.startsWith("--date=")) o.date=a.split("=")[1]; if(a==="--with-snippet") o.withSnippet=true; } return o; }
+const escapeCell = s => String(s||"").replace(/\|/g,"\\|").replace(/\r?\n|\r/g," ");
+const stripMd = s => String(s||"").replace(/\[([^\]]+)\]\([^)]+\)/g,"$1").replace(/[*_`>#]/g,"").replace(/\s+/g," ").trim();
+const shorten = (s,n=140) => (s=String(s||"").trim(), s.length>n?s.slice(0,n-1)+"…":s);
+const wiki = (fp,label) => `[[${fp.replace(/\.md$/i,"")}|${label}]]`;
+function pickSnippet(md){
+  const sec = (re)=>{ const m=md.match(re); if(!m) return null;
+    const bullets=m[1].split(/\r?\n/).map(l=>l.replace(/^\s*-\s?/,"").trim()).filter(Boolean);
+    return bullets.length? bullets.slice(0,2).map(stripMd).join(" / ") : null; };
+  return sec(/^\s*#\s*TL;DR[\s\r\n]+((?:-\s?.*(?:\r?\n|$))+)/im) ||
+         sec(/^\s*##\s*Key Points[\s\r\n]+((?:-\s?.*(?:\r?\n|$))+)/im) ||
+         stripMd(md).slice(0,200);
 }
 
 /* ---------- gather ---------- */
-const { date: dateArg, noSnippet } = parseArgs(process.argv);
+const { date: dateArg, withSnippet } = parseArgs(process.argv);
+const dir = "summary";
+const files = (await fs.readdir(dir)).filter(f=>f.toLowerCase().endsWith(".md")).map(f=>path.join(dir,f));
+if(!files.length){ console.error("summary/ にファイルがありません"); process.exit(0); }
 
-const summaryDir = "summary";
-let files = [];
-try {
-  for (const f of await fs.readdir(summaryDir)) {
-    if (f.toLowerCase().endsWith(".md")) files.push(path.join(summaryDir, f));
-  }
-} catch { console.error("summary/ が見つかりません"); process.exit(1); }
-if (!files.length) { console.error("summary/ にファイルがありません"); process.exit(0); }
-
-const rows = [];
-for (const fp of files) {
-  const raw = await fs.readFile(fp, "utf8");
-  const { data: fm, content } = matter(raw);
-  const date = (fm.date || "").toString().slice(0,10);
-  if (!date) continue;
+const rows=[];
+for(const fp of files){
+  const raw=await fs.readFile(fp,"utf8");
+  const {data:fm, content}=matter(raw);
+  const date=(fm.date||"").toString().slice(0,10);
+  if(!date) continue;
   rows.push({
     file: fp,
     date,
-    title: (fm.title || path.basename(fp)).toString(),
-    host: (fm.host || "").toString(),
-    source_url: (fm.source_url || "").toString(),
-    model: (fm.model || "").toString(),
-    snippet: extractSnippet(content),
+    title: (fm.title||path.basename(fp)).toString(),
+    host: (fm.host||"").toString(),
+    src: (fm.source_url||"").toString(),
+    model: (fm.model||"").toString(),
+    snippet: pickSnippet(content),
   });
 }
-
-// 対象日
-let targetDate = dateArg;
-if (!targetDate) {
-  const latest = rows.slice().sort((a,b)=> a.date<b.date?1:-1)[0];
-  targetDate = latest?.date || fmtDate(new Date());
-}
-
-// 当日分
-const items = rows.filter(r=>r.date===targetDate)
-  .sort((a,b)=> a.title.localeCompare(b.title));
-
-if (!items.length) { console.error(`対象日の記事がありません: ${targetDate}`); process.exit(0); }
+let target = dateArg;
+if(!target){ const latest = rows.slice().sort((a,b)=>a.date<b.date?1:-1)[0]; target = latest?.date || fmtDate(new Date()); }
+const items = rows.filter(r=>r.date===target).sort((a,b)=>a.title.localeCompare(b.title));
+if(!items.length){ console.error(`対象日の記事がありません: ${target}`); process.exit(0); }
 
 /* ---------- render ---------- */
-const pageTitle = `${targetDate}--AI-news`;
+const pageTitle = `${target}--AI-news`;
 let md = `---\n`;
 md += `title: "${pageTitle.replace(/"/g,'\\"')}"\n`;
-md += `date: "${targetDate}"\n`;
+md += `date: "${target}"\n`;
 md += `type: "ai-news-daily"\n`;
 md += `---\n\n`;
 md += `> 合計: **${items.length} 本**　モデル: gemini-2.5-flash 固定\n\n`;
 
-if (noSnippet) {
-  // 3列
-  md += `| タイトル | 記事 | 引用元\n`;
-  md += `|:--|:--:|:--:\n`;
-  for (const it of items) {
-    const t = escapeCell(stripMd(it.title));
-    const article = wikiLinkFor(it.file, "記事ページへ");
-    const cite = it.source_url ? `[引用元へ](${it.source_url})` : escapeCell(it.host || "");
-    md += `| ${t} | ${article} | ${cite}\n`;
+if(!withSnippet){
+  md += `| タイトル | 記事 | 引用元 |\n|:--|:--:|:--:|\n`;
+  for(const it of items){
+    const t   = escapeCell(stripMd(it.title));
+    const art = wiki(it.file, "記事ページへ");
+    const cite= it.src ? `[引用元へ](${it.src})` : escapeCell(it.host||"");
+    md += `| ${t} | ${art} | ${cite} |\n`;
   }
-} else {
-  // 4列
-  md += `| タイトル | 記事 | 引用元 | 要約\n`;
-  md += `|:--|:--:|:--:|:--\n`;
-  for (const it of items) {
-    const t = escapeCell(stripMd(it.title));
-    const article = wikiLinkFor(it.file, "記事ページへ");
-    const cite = it.source_url ? `[引用元へ](${it.source_url})` : escapeCell(it.host || "");
-    const snip = escapeCell(shorten(stripMd(it.snippet||""), 140));
-    md += `| ${t} | ${article} | ${cite} | ${snip}\n`;
+}else{
+  md += `| タイトル | 記事 | 引用元 | 要約 |\n|:--|:--:|:--:|:--|\n`;
+  for(const it of items){
+    const t   = escapeCell(stripMd(it.title));
+    const art = wiki(it.file, "記事ページへ");
+    const cite= it.src ? `[引用元へ](${it.src})` : escapeCell(it.host||"");
+    const sn  = escapeCell(shorten(stripMd(it.snippet),140));
+    md += `| ${t} | ${art} | ${cite} | ${sn} |\n`;
   }
 }
-
 md += `\n---\nこのページは自動生成（summary/ のfrontmatter + 本文から集計）。\n`;
 
-/* ---------- write ---------- */
-await fs.mkdir("news", { recursive: true });
-const outPath = path.join("news", `${targetDate}--AI-news.md`);
-await fs.writeFile(outPath, md, "utf8");
-console.log("✔ index page →", outPath);
+await fs.mkdir("news",{recursive:true});
+const out = path.join("news", `${target}--AI-news.md`);
+await fs.writeFile(out, md, "utf8");
+console.log("✔ index page →", out);
