@@ -8,144 +8,145 @@ on:
         required: false
         type: string
       seed_file:
-        description: "URLリスト（1行1件）"
+        description: "シード一覧のパス（任意）"
         required: false
         type: string
-      style:
-        description: "出力スタイル"
-        required: false
-        type: choice
-        options: [general, casual, formal]
-        default: general
-      lang:
-        description: "言語"
-        required: false
-        type: choice
-        options: [ja, en]
-        default: ja
-      model:
-        description: "モデル名（固定運用: gemini-2.5-flash）"
-        required: false
-        type: string
-        default: "gemini-2.5-flash"
       publish_to_docs:
-        description: "Obsidianに自動保存（docsへコミット）"
+        description: "news/ に反映する？"
         required: false
         type: boolean
         default: true
       docs_path:
-        description: "出力先フォルダ（Obsidianで見るルート）"
+        description: "出力先ディレクトリ"
         required: false
         type: string
         default: "news"
+  repository_dispatch:
+    types: [sum]   # Discordワーカーからのイベント
 
 permissions:
   contents: write
   actions: read
 
+concurrency:
+  group: summarize-${{ github.ref }}
+  cancel-in-progress: false
+
 env:
-  TZ: "Asia/Tokyo"
-  NODE_OPTIONS: "--dns-result-order=ipv4first"
-  ARTIFACT_NAME: "summary"
+  NODE_OPTIONS: --dns-result-order=ipv4first
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }} # 別名でも参照されるように
 
 jobs:
   summarize:
     runs-on: ubuntu-latest
-
+    defaults:
+      run:
+        shell: bash
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "npm"
 
-      - name: Install deps (preflight)
+      - name: Install deps
         run: |
-          npm i jsdom @mozilla/readability undici@6
-
-      - name: Inject API keys (alias) & flags
-        run: |
-          if [ -n "${{ secrets.GEMINI_API_KEY }}" ]; then
-            echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" >> $GITHUB_ENV
-            echo "GOOGLE_API_KEY=${{ secrets.GEMINI_API_KEY }}" >> $GITHUB_ENV
-          elif [ -n "${{ secrets.GOOGLE_API_KEY }}" ]; then
-            echo "GEMINI_API_KEY=${{ secrets.GOOGLE_API_KEY }}" >> $GITHUB_ENV
-            echo "GOOGLE_API_KEY=${{ secrets.GOOGLE_API_KEY }}" >> $GITHUB_ENV
+          if [ -f package-lock.json ]; then
+            npm ci --no-audit --no-fund
           else
-            echo "::error::GEMINI_API_KEY / GOOGLE_API_KEY が未設定"; exit 1
+            npm i --no-audit --no-fund
           fi
 
-          if [ -n "${{ secrets.DISCORD_WEBHOOK_URL }}" ]; then
-            echo "HAS_DISCORD_WEBHOOK=1" >> $GITHUB_ENV
-            echo "DISCORD_WEBHOOK_URL=${{ secrets.DISCORD_WEBHOOK_URL }}" >> $GITHUB_ENV
-          else
-            echo "HAS_DISCORD_WEBHOOK=0" >> $GITHUB_ENV
+      - name: Resolve inputs (workflow_dispatch / repository_dispatch 両対応)
+        id: inp
+        run: |
+          URL="${{ github.event.inputs.url }}"
+          SEED="${{ github.event.inputs.seed_file }}"
+          PD="${{ github.event.inputs.publish_to_docs }}"
+          DP="${{ github.event.inputs.docs_path }}"
+
+          # repository_dispatch（Discordワーカー）経由の値でフォールバック
+          if [ -z "$URL" ]; then URL="${{ github.event.client_payload.url }}"; fi
+          if [ -z "$SEED" ]; then SEED="${{ github.event.client_payload.seed_file }}"; fi
+          if [ -z "$PD" ]; then PD="${{ github.event.client_payload.publish_to_docs }}"; fi
+          if [ -z "$DP" ]; then DP="${{ github.event.client_payload.docs_path }}"; fi
+
+          # 既定値
+          if [ -z "$PD" ]; then PD=true; fi
+          if [ -z "$DP" ]; then DP="news"; fi
+
+          echo "url=$URL" >> $GITHUB_OUTPUT
+          echo "seed_file=$SEED" >> $GITHUB_OUTPUT
+          echo "publish_to_docs=$PD" >> $GITHUB_OUTPUT
+          echo "docs_path=$DP" >> $GITHUB_OUTPUT
+
+      - name: Run summarize.mjs (modelはスクリプト側で gemini-2.5-flash に強制固定)
+        run: |
+          set -euo pipefail
+          mkdir -p summary
+
+          U="${{ steps.inp.outputs.url }}"
+          S="${{ steps.inp.outputs.seed_file }}"
+
+          echo "::group::inputs"
+          echo "[debug] url=${U:-<empty>}"
+          echo "[debug] seed_file=${S:-<empty>}"
+          echo "::endgroup::"
+
+          ARGS=()
+          if [ -n "${U:-}" ]; then ARGS+=("--url" "$U"); fi
+          if [ -n "${S:-}" ]; then ARGS+=("--seed-file" "$S"); fi
+
+          # 入力がゼロなら明示的に失敗させる（成功扱いで終わらないように）
+          if [ ${#ARGS[@]} -eq 0 ]; then
+            echo "::error::No url or seed_file provided"
+            exit 1
           fi
 
-      - name: Enforce input policy (url or seed_file required)
-        run: |
-          if [ -z "${{ github.event.inputs.url }}" ] && [ -z "${{ github.event.inputs.seed_file }}" ]; then
-            echo "::error::input_policy違反: url か seed_file のどちらか必須"; exit 1;
-          fi
-
-      - name: Gemini preflight
-        env:
-          GOOGLE_API_KEY: ${{ env.GOOGLE_API_KEY }}
-        run: |
-          node -e 'import { fetch } from "undici";
-          const key = process.env.GOOGLE_API_KEY;
-          const ep = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${key}`;
-          const body = {contents:[{role:"user",parts:[{text:"health-check"}]}]};
-          const r = await fetch(ep,{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify(body)});
-          if(!r.ok){console.error("Gemini preflight:", r.status, await r.text()); process.exit(1);}'
-
-      - name: Run summarize.mjs
-        env:
-          GOOGLE_API_KEY: ${{ env.GOOGLE_API_KEY }}
-        run: |
           node scripts/summarize.mjs \
-            --url '${{ github.event.inputs.url }}' \
-            --seed-file '${{ github.event.inputs.seed_file }}' \
-            --style '${{ github.event.inputs.style }}' \
-            --lang '${{ github.event.inputs.lang }}' \
-            --model '${{ github.event.inputs.model }}' \
-            --docs-path '${{ github.event.inputs.docs_path }}' \
-            --publish-to-docs '${{ github.event.inputs.publish_to_docs }}' \
+            "${ARGS[@]}" \
+            --style general --lang ja --model gemini-2.5-flash \
             2>&1 | tee summarize.log
 
-      - name: Upload artifact
+      - name: Sanity check outputs (debug)
+        if: always()
+        run: |
+          echo "::group::tree summary"
+          if [ -d summary ]; then find summary -maxdepth 3 -type f -print; else echo "summary/ <missing>"; fi
+          echo "::endgroup::"
+          echo "::group::head summarize.log"
+          sed -n '1,80p' summarize.log || true
+          echo "::endgroup::"
+
+      - name: Upload artifacts (summary + log)
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ env.ARTIFACT_NAME }}
-          path: summary/
+          name: summary
+          path: |
+            summary/**/*
+            summarize.log
+          if-no-files-found: warn
+          retention-days: 7
 
-      - name: Publish to docs (optional)
-        if: ${{ github.event.inputs.publish_to_docs == 'true' }}
+      - name: Commit to ${{ steps.inp.outputs.docs_path }}
+        if: ${{ steps.inp.outputs.publish_to_docs == 'true' }}
         run: |
           set -e
-          DOCS="${{ github.event.inputs.docs_path }}"
+          DOCS="${{ steps.inp.outputs.docs_path }}"
           mkdir -p "$DOCS"
-          rsync -av summary/ "$DOCS"/
+
+          # summary/ 以下の .md をすべて news/ 等へコピー
+          find summary -type f -name '*.md' -print -exec cp -f {} "$DOCS"/ \;
+
           git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "$DOCS"
-          git commit -m "publish(summarize): $GITHUB_RUN_ID" || echo "no changes"
-          git push
-
-      - name: Discord notify (optional)
-        if: env.HAS_DISCORD_WEBHOOK == '1'
-        continue-on-error: true
-        run: |
-          curl -s -X POST -H "Content-Type: application/json" \
-            -d "{\"content\":\"✅ ai-news-bot: run $GITHUB_RUN_NUMBER finished (publish_to_docs=${{ github.event.inputs.publish_to_docs }})\"}" \
-            "$DISCORD_WEBHOOK_URL" || true
-
-      - name: Always upload log
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: summarize-log
-          path: summarize.log
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "ci(summary): add/update news"
+            git push
+          fi

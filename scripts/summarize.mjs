@@ -1,97 +1,124 @@
 #!/usr/bin/env node
 /**
- * summarize.mjs (rich)
+ * summarize.mjs
  * Node 20 (ESM)
- *
- * 入力:
- *   --url or --seed-file (どちらか必須)
- *   --style general|casual|formal
- *   --lang  ja|en
- *   --model (指定があっても gemini-2.5-flash に固定)
- *   --docs-path, --publish-to-docs
- *
- * 出力:
- *   summary/<RUN_ID>-<host>/summary.md
- *   summary/<RUN_ID>-<host>/<host>.html
+ * 入力: --url または --seed-file（改行区切りURLリスト）, --style, --lang, --model（無視して強制固定）
+ * 出力: summary/<RUN_ID>-<host>/summary.md, <host>.html, 規約名の md(YYYY-MM-DD--host--slug.md)
+ * 本文抽出: JSON-LD(Article/NewsArticle/BlogPosting).articleBody 優先 + Readability 併用
+ * 要約: Google AI Studio (Gemini) REST / models: gemini-2.5-flash（強制固定）
  */
 
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { setTimeout as delay } from "node:timers/promises";
 import { JSDOM } from "jsdom";
 import { Readability } from "@mozilla/readability";
 import { fetch } from "undici";
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const OUT_ROOT = path.resolve(process.cwd(), "summary");
-const DEFAULT_MODEL = "gemini-2.5-flash";
+/* ---------------- constants ---------------- */
 
-/* ---------------- args/env ---------------- */
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const FORCED_MODEL = "gemini-2.5-flash";
+const MAX_ARTICLE_CHARS = 30000; // 要約前に切り詰める上限
+const SHORT_BODY_THRESHOLD = 120; // これ未満は抽出失敗扱い
+const USER_AGENT =
+  "Mozilla/5.0 (compatible; ai-news-bot/1.0; +https://github.com/kazushi-tech/ai-news-bot)";
+
+/* ---------------- tiny utils ---------------- */
+
 function parseArgs(argv) {
   const out = {};
   for (let i = 2; i < argv.length; i++) {
     const a = argv[i];
     if (a.startsWith("--")) {
-      const key = a.slice(2).replace(/-([a-z])/g, (_, c) => c.toUpperCase());
+      const key = a.slice(2);
       const val = argv[i + 1] && !argv[i + 1].startsWith("--") ? argv[++i] : "true";
       out[key] = val;
     }
   }
   return out;
 }
-const args = parseArgs(process.argv);
 
-const API_KEY = process.env.GEMINI_API_KEY || process.env.GOOGLE_API_KEY || "";
-if (!API_KEY) {
-  console.error("Missing GEMINI_API_KEY/GOOGLE_API_KEY");
-  process.exit(1);
+function firstOf(val) {
+  return Array.isArray(val) ? val[0] : val;
 }
 
-const RUN_ID = process.env.GITHUB_RUN_ID || `${Date.now()}`;
-const LANG = (args.lang || "ja").toLowerCase();
-const STYLE = (args.style || "general").toLowerCase();
-const REQUESTED_MODEL = args.model || DEFAULT_MODEL;
-const MODEL = DEFAULT_MODEL; // 強制固定
-if (REQUESTED_MODEL !== MODEL) {
-  console.warn(`[warn] model is forced to ${MODEL} (requested: ${REQUESTED_MODEL})`);
+function slugify(s) {
+  return (s || "untitled")
+    .toLowerCase()
+    .replace(/[^a-z0-9\-]+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "");
 }
 
-/* ---------------- utils ---------------- */
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-const firstOf = (v) => (Array.isArray(v) ? v[0] : v);
-const parseJsonSafe = (t) => { try { return JSON.parse(t); } catch { return null; } };
-const toSlug = (s, fallback = "article") =>
-  (s && typeof s === "string"
-    ? s.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, "-").replace(/^-+|-+$/g, "").slice(0, 80)
-    : "") || fallback;
-
-async function ensureDir(p) { await fs.mkdir(p, { recursive: true }); }
-
-async function fetchHtml(url) {
-  const r = await fetch(url, {
-    redirect: "follow",
-    headers: {
-      "user-agent": "Mozilla/5.0 (compatible; ai-news-bot/1.0; +https://github.com/)",
-      accept: "text/html,application/xhtml+xml",
-    },
-  });
-  if (!r.ok) throw new Error(`Fetch failed ${r.status}`);
-  return await r.text();
+function todayParts(d = new Date()) {
+  const yyyy = d.getFullYear();
+  const mm = String(d.getMonth() + 1).padStart(2, "0");
+  const dd = String(d.getDate()).padStart(2, "0");
+  return { yyyy, mm, dd };
 }
 
+function ensureLf(str) {
+  return (str || "").replace(/\r\n?/g, "\n");
+}
+
+function trimLen(s, max) {
+  if (!s) return "";
+  if (s.length <= max) return s;
+  return s.slice(0, max) + "\n...[truncated]...";
+}
+
+function pickApiKey() {
+  // Workflow 側で GEMINI_API_KEY を GOOGLE_API_KEY にもエイリアスしている前提
+  return process.env.GEMINI_API_KEY || process.env.GOOGLE_API_KEY || "";
+}
+
+function toPlainTextFromHtml(html) {
+  const dom = new JSDOM(html);
+  const text = dom.window.document.body.textContent || "";
+  return ensureLf(text).replace(/[ \t]+\n/g, "\n").replace(/\n{3,}/g, "\n\n").trim();
+}
+
+/* ---------------- fetch + extract ---------------- */
+
+async function fetchHtml(url, retry = 2) {
+  for (let i = 0; i <= retry; i++) {
+    try {
+      const res = await fetch(url, {
+        method: "GET",
+        headers: { "user-agent": USER_AGENT, accept: "text/html,application/xhtml+xml" },
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const html = await res.text();
+      return html;
+    } catch (e) {
+      if (i === retry) throw e;
+      await delay(1000 * (i + 1));
+    }
+  }
+}
+
+/** JSON-LDから articleBody / headline を抽出 */
 function extractFromJsonLd(doc) {
   const scripts = [...doc.querySelectorAll('script[type="application/ld+json"]')];
   for (const s of scripts) {
-    const json = parseJsonSafe(s.textContent.trim());
-    if (!json) continue;
-    const list = Array.isArray(json) ? json : [json];
-    for (const c of list) {
+    const raw = s.textContent?.trim();
+    if (!raw) continue;
+    let json;
+    try {
+      json = JSON.parse(raw);
+    } catch {
+      continue;
+    }
+    const arr = Array.isArray(json) ? json : [json];
+    for (const c of arr) {
       const type = (firstOf(c["@type"]) || "").toString().toLowerCase();
       if (["article", "newsarticle", "blogposting"].includes(type)) {
-        const title = c.headline || c.name || doc.title || "";
+        const title = firstOf(c.headline) || c.name || "";
         const body = typeof c.articleBody === "string" ? c.articleBody : "";
-        if (body && body.trim().length > 30) {
-          return { title, text: body };
+        if (body && body.trim().length >= SHORT_BODY_THRESHOLD) {
+          return { title, articleBody: body };
         }
       }
     }
@@ -99,231 +126,257 @@ function extractFromJsonLd(doc) {
   return null;
 }
 
-function extractReadable(html, baseUrl) {
-  const dom = new JSDOM(html, { url: baseUrl });
+/** Readability で本文HTMLを抽出し、プレーンテキスト化 */
+function extractWithReadability(html) {
+  const dom = new JSDOM(html, { url: "https://example.com/" });
   const reader = new Readability(dom.window.document);
-  const parsed = reader.parse();
-  if (!parsed) return null;
-  return {
-    title: parsed.title || dom.window.document.title || "",
-    text: parsed.textContent || "",
-    contentHTML: parsed.content || ""
+  const result = reader.parse();
+  if (!result) return null;
+  const title = result.title || "";
+  const plain = toPlainTextFromHtml(result.content || "");
+  if (plain.trim().length < SHORT_BODY_THRESHOLD) return null;
+  return { title, articleBody: plain, readableHtml: result.content || "" };
+}
+
+/* ---------------- LLM (Gemini) ---------------- */
+
+async function callGemini({ apiKey, model, prompt }) {
+  const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(
+    model
+  )}:generateContent?key=${encodeURIComponent(apiKey)}`;
+
+  const body = {
+    contents: [{ role: "user", parts: [{ text: prompt }] }],
+    generationConfig: { temperature: 0.3, topP: 0.9, topK: 40 },
   };
-}
 
-/* ---------------- summarizer ---------------- */
-async function summarizeWithGemini(text, { lang, style, model, apiKey, sourceUrl, host }) {
-  const chunk = text.length > 12000 ? text.slice(0, 12000) : text;
-
-  const sys_ja =
-`あなたはAI/テックニュースの編集者です。読者は技術に明るい日本語話者。事実に忠実に、見出し構造と要点を明確にまとめます。`;
-
-  const instr_ja =
-`以下の本文を元に、**深めの解説つき要約**をMarkdownで作成してください（目安 600–1200語）。事実にない推測はしないでください。
-
-# 出力仕様
-## 概要 (TL;DR)
-- 2〜3文で最重要ポイントを要約（誰が/何を/なぜ重要か）
-
-## 重要ポイント
-- 5〜8個の箇条書き。数値・固有名詞・影響を優先。
-
-## 詳細レポート
-### はじめに：何が起こったのか？
-- 3〜6文で背景と出来事を簡潔に。
-### 背景
-- 関連の経緯・市場/技術の文脈を説明。
-### なぜ重要か（影響）
-- 製品・ビジネス・規制/政策・投資の観点で箇条書き。
-### 関係者・企業の動き
-- 主要プレイヤーの発言/施策を列挙。
-
-### データ・数値
-| 指標 | 値 | 注記 |
-|---|---|---|
-| 代表的な数値 | 具体値 | 本文から根拠を簡潔に |
-
-## 引用（Notable quotes）
-> 本文から重要な1〜3文をそのまま引用し、話者/肩書きを添える。なければ省略。
-
-## リスクと課題
-- 3〜5点
-
-## 今後の見通し / アクション
-- 実務での示唆・次アクションを箇条書き（確度高い範囲で）。
-
-## 出典
-- ${host}（本文出典）
-`;
-
-  const sys_en =
-`You are an editor for AI/tech news. Audience is technically literate. Write a rich, structured brief faithful to the source.`;
-
-  const instr_en =
-`Summarize with **deep context** in Markdown (600–1200 words). Avoid speculation.
-
-# Output
-## TL;DR
-- 2–3 sentences capturing who/what/why-it-matters.
-
-## Key Points
-- 5–8 bullets emphasizing numbers, proper nouns, impact.
-
-## Deep Dive
-### What happened
-### Background
-### Why it matters (impact)
-### Stakeholders & moves
-### Data & Metrics
-| Metric | Value | Note |
-|---|---|---|
-
-## Notable quotes
-> 1–3 quotes with speaker, if present.
-
-## Risks & challenges
-## Outlook / Actions
-## Source
-- ${host}
-`;
-
-  const prompt = (lang === "ja")
-    ? `${sys_ja}\n\n${instr_ja}\n\n---\n[Source URL] ${sourceUrl}\n\n[ARTICLE]\n${chunk}`
-    : `${sys_en}\n\n${instr_en}\n\n---\n[Source URL] ${sourceUrl}\n\n[ARTICLE]\n${chunk}`;
-
-  const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
-  const resp = await fetch(endpoint, {
+  const res = await fetch(endpoint, {
     method: "POST",
-    headers: { "content-type": "application/json" },
-    body: JSON.stringify({ contents: [{ role: "user", parts: [{ text: prompt }] }] }),
+    headers: { "content-type": "application/json; charset=utf-8" },
+    body: JSON.stringify(body),
   });
-  if (!resp.ok) throw new Error(`Gemini API ${resp.status}: ${await resp.text()}`);
-  const data = await resp.json();
-  const txt = data?.candidates?.[0]?.content?.parts?.map((p) => p.text).join("") || "";
-  if (!txt.trim()) throw new Error("Gemini returned empty text");
-  return txt.trim();
+
+  if (!res.ok) {
+    const text = await res.text().catch(() => "");
+    throw new Error(`Gemini HTTP ${res.status}: ${text}`);
+  }
+
+  const json = await res.json();
+  const candidates = json.candidates || [];
+  const parts = candidates[0]?.content?.parts || [];
+  const text = parts.map((p) => p.text || "").join("");
+  return text || "";
 }
 
-function buildFrontmatter({ title, sourceUrl, dateISO, model }) {
+/* ---------------- markdown template builder ---------------- */
+
+function buildPromptJa({ title, url, articleText }) {
+  return [
+    "あなたは一流のテックニュース編集者です。以下の記事本文を読み、指定のテンプレで日本語要約してください。",
+    "",
+    "出力はMarkdown。各セクション見出しはそのまま使い、簡潔かつ具体的に。表が必要そうならMarkdownのTABLEで。",
+    "",
+    "## 概要 (TL;DR)",
+    "## 重要ポイント",
+    "## 詳細レポート（What happened/背景/影響/関係者/データ表）",
+    "## 引用（Notable quotes）",
+    "## リスクと課題",
+    "## 今後の見通し/アクション",
+    "## Source URL（必須）",
+    url,
+    "",
+    `タイトル: ${title || ""}`,
+    `URL: ${url}`,
+    "",
+    "【本文】",
+    articleText,
+  ].join("\n");
+}
+
+function buildFrontmatter({ title, url, model, host, dateY, dateM, dateD }) {
+  const safeTitle = (title || "").replace(/"/g, '\\"');
+  const dateStr = `${dateY}-${dateM}-${dateD}`;
   return [
     "---",
-    `title: "${(title || "").replace(/"/g, '\\"')}"`,
-    `source_url: "${sourceUrl}"`,
-    `date: ${dateISO.slice(0, 10)}`,
-    `tags: [ai-news, gemini]`,
-    `model: ${model}`,
+    `title: "${safeTitle}"`,
+    `source_url: "${url}"`,
+    `date: "${dateStr}"`,
+    `model: "${model}"`,
+    `host: "${host}"`,
+    "tags: [ai-news]",
     "---",
     "",
   ].join("\n");
 }
 
-/* ---------------- core ---------------- */
-async function processOne(targetUrl) {
-  const u = new URL(targetUrl);
-  const host = u.hostname;
-  console.log(`==> Fetching: ${targetUrl}`);
+/* ---------------- core per-URL pipeline ---------------- */
 
-  const html = await fetchHtml(targetUrl);
-  const dom = new JSDOM(html, { url: targetUrl });
-  const doc = dom.window.document;
+async function processOneUrl(targetUrl, runId, outRootDir) {
+  const { yyyy, mm, dd } = todayParts();
+  let title = "";
+  let articleText = "";
+  let readableHtml = "";
 
-  let extracted = extractFromJsonLd(doc);
-  let contentHTML = "";
-  if (!extracted) {
-    const rd = extractReadable(html, targetUrl);
-    if (rd) {
-      extracted = { title: rd.title, text: rd.text };
-      contentHTML = rd.contentHTML || "";
+  // URL 正規化と host/slug
+  let u;
+  try {
+    u = new URL(targetUrl);
+  } catch (e) {
+    throw new Error(`Invalid URL: ${targetUrl}`);
+  }
+  const host = u.host.toLowerCase();
+
+  // 取得
+  let html = "";
+  try {
+    html = await fetchHtml(targetUrl);
+  } catch (e) {
+    console.warn(`[warn] fetch failed: ${e.message}`);
+  }
+
+  if (html) {
+    // JSON-LD 優先
+    try {
+      const doc = new JSDOM(html).window.document;
+      const jl = extractFromJsonLd(doc);
+      if (jl) {
+        title = jl.title || title;
+        articleText = ensureLf(jl.articleBody || "").trim();
+      }
+    } catch (e) {
+      console.warn(`[warn] JSON-LD parse failed: ${e.message}`);
+    }
+
+    // Readability 併用（不足時のみ）
+    if (!articleText || articleText.length < SHORT_BODY_THRESHOLD) {
+      const r = extractWithReadability(html);
+      if (r) {
+        if (!title) title = r.title || title;
+        if (!articleText || articleText.length < SHORT_BODY_THRESHOLD) {
+          articleText = r.articleBody || "";
+        }
+        readableHtml = r.readableHtml || "";
+      }
     }
   }
 
-  // ---- フォールバック：抽出失敗でもURLだけ保存
-  if (!extracted || !extracted.text || extracted.text.trim().length < 80) {
-    const dateISO = new Date().toISOString();
-    const title = (extracted?.title || host || "article").toString();
-    const outDir = path.join(OUT_ROOT, `${RUN_ID}-${host}`);
-    await ensureDir(outDir);
-    const fm = buildFrontmatter({ title, sourceUrl: targetUrl, dateISO, model: MODEL });
-    const body = [
-      "> [!warning] 抽出失敗",
-      "本文抽出に失敗しました。共有リンクや別ソースで再実行してください。",
-      "",
-      "## Source URL",
-      targetUrl
-    ].join("\n");
-    await fs.writeFile(path.join(outDir, "summary.md"), fm + body + "\n", "utf8");
-    await fs.writeFile(path.join(outDir, `${host}.html`), html, "utf8");
-    console.warn("extract failed: wrote stub markdown");
+  // 出力先dir: summary/<RUN_ID>-<host>/
+  const outDir = path.join(outRootDir, `${runId}-${host}`);
+  await fs.mkdir(outDir, { recursive: true });
+
+  // 抽出できないときはスタブ保存
+  if (!articleText || articleText.trim().length < SHORT_BODY_THRESHOLD) {
+    const fileSlug = slugify(u.pathname.split("/").filter(Boolean).slice(-1)[0] || title);
+    const newsName = `${yyyy}-${mm}-${dd}--${host}--${fileSlug}.md`;
+    const fm = buildFrontmatter({
+      title,
+      url: targetUrl,
+      model: FORCED_MODEL,
+      host,
+      dateY: yyyy,
+      dateM: mm,
+      dateD: dd,
+    });
+    const stub =
+      fm +
+      "> 本文抽出に失敗。後で別ソースURLで再実行するか、Webクリッパーで `clips/` に保存して手動整形してください。\n\n" +
+      "---\n" +
+      `Source URL: ${targetUrl}\n`;
+    await fs.writeFile(path.join(outDir, "summary.md"), ensureLf(stub), "utf8");
+    await fs.writeFile(path.join(outDir, newsName), ensureLf(stub), "utf8"); // 規約名でも保存
+
+    // html も保存（取得できていたら）
+    if (html) {
+      await fs.writeFile(path.join(outDir, `${host}.html`), ensureLf(html), "utf8");
+    }
+    console.log(`[info] saved stub -> ${path.join(outDir, "summary.md")}`);
     return;
   }
 
-  const dateISO = new Date().toISOString();
-  const title = extracted.title || host;
+  // LLM 要約
+  const apiKey = pickApiKey();
+  if (!apiKey) {
+    const fm = buildFrontmatter({
+      title,
+      url: targetUrl,
+      model: FORCED_MODEL,
+      host,
+      dateY: yyyy,
+      dateM: mm,
+      dateD: dd,
+    });
+    const body =
+      fm +
+      "> 要約失敗: GEMINI_API_KEY / GOOGLE_API_KEY が見つかりません。\n\n" +
+      "---\n" +
+      `Source URL: ${targetUrl}\n`;
+    await fs.writeFile(path.join(outDir, "summary.md"), ensureLf(body), "utf8");
+    await fs.writeFile(
+      path.join(outDir, `${yyyy}-${mm}-${dd}--${host}--${slugify(title || "untitled")}.md`),
+      ensureLf(body),
+      "utf8"
+    );
+    if (html) await fs.writeFile(path.join(outDir, `${host}.html`), ensureLf(html), "utf8");
+    console.log("[warn] API key missing. Wrote stub.");
+    return;
+  }
 
-  const summaryMd = await summarizeWithGemini(extracted.text, {
-    lang: LANG,
-    style: STYLE,
-    model: MODEL,
-    apiKey: API_KEY,
-    sourceUrl: targetUrl,
-    host
+  // モデル強制固定
+  const model = FORCED_MODEL;
+
+  const prompt = buildPromptJa({
+    title,
+    url: targetUrl,
+    articleText: trimLen(ensureLf(articleText), MAX_ARTICLE_CHARS),
   });
 
-  const outDir = path.join(OUT_ROOT, `${RUN_ID}-${host}`);
-  await ensureDir(outDir);
-
-  // ✅ ここが修正ポイント：オブジェクト渡し + テンプレ文字列
-  const fm = buildFrontmatter({ title, sourceUrl: targetUrl, dateISO, model: MODEL });
-  const appendix = `
-
-## Source URL
-${targetUrl}
-`;
-
-  await fs.writeFile(path.join(outDir, "summary.md"), fm + summaryMd + appendix, "utf8");
-
-  // 参考HTMLも保存（Obsidianで原文確認したい時に便利）
-  if (contentHTML) {
-    const htmlOut = `<!doctype html><meta charset="utf-8"><title>${title}</title><article>${contentHTML}</article>`;
-    await fs.writeFile(path.join(outDir, `${host}.html`), htmlOut, "utf8");
-  } else {
-    await fs.writeFile(path.join(outDir, `${host}.html`), html, "utf8");
-  }
-
-  console.log(`✔ Wrote: summary/${RUN_ID}-${host}/summary.md`);
-}
-
-async function processSeedFile(filePath) {
-  const raw = await fs.readFile(filePath, "utf8");
-  const lines = raw.split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
-  if (lines.length === 0) throw new Error("seed_fileが空です");
-  for (const line of lines) {
-    try {
-      await processOne(line);
-      await sleep(500);
-    } catch (e) {
-      console.error(`seed_item failed: ${line} :: ${e.message}`);
-    }
-  }
-}
-
-(async () => {
-  const url = (args.url || "").trim();
-  const seed = (args.seedFile || "").trim();
-
-  if (!url && !seed) {
-    console.error("input_policy違反: --url or --seed-file 必須");
-    process.exit(1);
-  }
-
-  await ensureDir(OUT_ROOT);
-
+  let summaryMd = "";
   try {
-    if (url) await processOne(url);
-    if (seed) await processSeedFile(seed);
-    console.log(`publish_to_docs: ${String(args.publishToDocs || "false")}`);
+    summaryMd = await callGemini({ apiKey, model, prompt });
   } catch (e) {
-    console.error("ERROR:", e.stack || e.message);
-    process.exit(1);
+    console.warn(`[warn] Gemini error: ${e.message}`);
+    summaryMd = ""; // 失敗時は後でスタブ化
   }
-})();
+
+  const fileSlug = slugify(title || u.pathname.split("/").filter(Boolean).slice(-1)[0]);
+  const newsName = `${yyyy}-${mm}-${dd}--${host}--${fileSlug}.md`;
+
+  const fm = buildFrontmatter({
+    title,
+    url: targetUrl,
+    model,
+    host,
+    dateY: yyyy,
+    dateM: mm,
+    dateD: dd,
+  });
+
+    let finalMd;
+  if (!summaryMd || summaryMd.trim().length < 30) {
+    finalMd =
+      fm +
+      "> 要約生成に失敗しました。後で再実行してください。\n\n" +
+      "---\n" +
+      `Source URL: ${targetUrl}\n`;
+  } else {
+    const body = ensureLf(summaryMd).trim();
+    const withSrc =
+      body.endsWith(targetUrl)
+        ? body
+        : body + "\n\n---\n## Source URL（必須）\n" + targetUrl + "\n";
+    finalMd = fm + withSrc + "\n";
+  }
+
+    // 保存（artifact と 規約名の両方）
+  await fs.writeFile(path.join(outDir, "summary.md"), finalMd, "utf8");
+  await fs.writeFile(path.join(outDir, newsName), finalMd, "utf8"); // ← finaMd/newName 禁止。finalMd/newsNameで統一
+
+  // 参考HTMLも保存（readability抽出HTMLがあればそれ、なければ元HTML）
+  if (readableHtml) {
+    await fs.writeFile(path.join(outDir, `${host}.html`), ensureLf(readableHtml), "utf8");
+  } else if (html) {
+    await fs.writeFile(path.join(outDir, `${host}.html`), ensureLf(html), "utf8");
+  }
+
+  console.log(`[ok] ${targetUrl} -> ${path.join(outDir, newsName)} (artifact: summary.md)`);
+} // ← ここで processOneUrl を閉じる（必ずこのカッコを入れる）
