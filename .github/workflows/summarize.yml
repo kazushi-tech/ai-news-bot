@@ -39,131 +39,175 @@ on:
         type: string
         default: "docs/ai-news-bot"
 
-env:
-  # Secrets → ENV へ（OR フォールバック）
-  GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY || secrets.GOOGLE_API_KEY }}
-  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY || secrets.GOOGLE_API_KEY }}
-
-  # 入力のデフォルト補正
-  GEMINI_MODEL: ${{ github.event.inputs.model || 'gemini-2.5-flash' }}
-  STYLE: ${{ github.event.inputs.style || 'general' }}
-  LANG: ${{ github.event.inputs.lang || 'ja' }}
-  URL: ${{ github.event.inputs.url }}
-  SEED_FILE: ${{ github.event.inputs.seed_file }}
-  DOCS_PATH: ${{ github.event.inputs.docs_path || 'docs/ai-news-bot' }}
-  PUBLISH_TO_DOCS: ${{ github.event.inputs.publish_to_docs == 'true' }}
-
-  # Discord Webhook（有無判定は if で secrets を直接使えないためフラグ化）
-  DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL || '' }}
-  HAS_DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL != '' }}
-
 permissions:
   contents: write
+  actions: read
+
+concurrency:
+  group: summarize-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  NODE_ENV: production
 
 jobs:
   summarize:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     timeout-minutes: 30
-    concurrency:
-      group: summarize
-      cancel-in-progress: true
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-          cache: npm
+          node-version: '20'
+          cache: 'npm'
 
       - name: Install deps
         run: npm ci
-        shell: bash
 
-      - name: Run summarizer (Gemini via Google AI Studio)
+      - name: Derive flags & env (no secrets in if)
+        id: derive
         shell: bash
         run: |
-          set -euo pipefail
+          set -Eeuo pipefail
 
-          # 入力バリデーション（片方だけ許可）
-          if [[ -n "${URL:-}" && -n "${SEED_FILE:-}" ]]; then
-            echo "::error::url と seed_file は同時指定できません。片方だけにしてください。"
-            exit 1
-          fi
-          if [[ -z "${URL:-}" && -z "${SEED_FILE:-}" ]]; then
-            echo "::error::url か seed_file のどちらかは必須です。"
-            exit 1
-          fi
+          STYLE="${{ github.event.inputs.style }}"
+          LANG="${{ github.event.inputs.lang }}"
+          MODEL="${{ github.event.inputs.model }}"
+          DOCS_PATH_INPUT="${{ github.event.inputs.docs_path }}"
+          PUBLISH_INPUT="${{ github.event.inputs.publish_to_docs }}"
 
-          OUTDIR="out/summary"
-          rm -rf "$OUTDIR"
-          mkdir -p "$OUTDIR"
+          [[ -z "$STYLE" ]] && STYLE=general
+          [[ -z "$LANG" ]] && LANG=ja
+          [[ -z "$MODEL" ]] && MODEL=gemini-2.5-flash
+          [[ -z "$DOCS_PATH_INPUT" ]] && DOCS_PATH_INPUT="docs/ai-news-bot"
 
-          CMD=(node scripts/summarize.mjs
-               --style "${STYLE}"
-               --lang "${LANG}"
-               --gemini-model "${GEMINI_MODEL}"
-               --outdir "${OUTDIR}")
-
-          if [[ -n "${URL:-}" ]]; then
-            CMD+=(--url "${URL}")
+          echo "STYLE=$STYLE" >> "$GITHUB_ENV"
+          echo "LANG=$LANG" >> "$GITHUB_ENV"
+          echo "MODEL=$MODEL" >> "$GITHUB_ENV"
+          echo "DOCS_PATH=$DOCS_PATH_INPUT" >> "$GITHUB_ENV"
+          if [[ "$PUBLISH_INPUT" == "true" ]]; then
+            echo "PUBLISH_TO_DOCS=true" >> "$GITHUB_ENV"
           else
-            CMD+=(--seed-file "${SEED_FILE}")
+            echo "PUBLISH_TO_DOCS=false" >> "$GITHUB_ENV"
           fi
 
-          printf 'RUN:'; printf ' %q' "${CMD[@]}"; echo
+          # Prefer GEMINI_API_KEY, fallback GOOGLE_API_KEY
+          if [[ -n "${{ secrets.GEMINI_API_KEY }}" ]]; then
+            echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" >> "$GITHUB_ENV"
+          elif [[ -n "${{ secrets.GOOGLE_API_KEY }}" ]]; then
+            echo "GEMINI_API_KEY=${{ secrets.GOOGLE_API_KEY }}" >> "$GITHUB_ENV"
+          else
+            echo "NO_API_KEY=1" >> "$GITHUB_ENV"
+          fi
+
+          # Discord webhook availability flag
+          if [[ -n "${{ secrets.DISCORD_WEBHOOK_URL }}" ]]; then
+            echo "HAS_DISCORD_WEBHOOK=true" >> "$GITHUB_ENV"
+          else
+            echo "HAS_DISCORD_WEBHOOK=false" >> "$GITHUB_ENV"
+          fi
+
+          # Require either url or seed_file
+          URL="${{ github.event.inputs.url }}"
+          SEED="${{ github.event.inputs.seed_file }}"
+          if [[ -z "$URL" && -z "$SEED" ]]; then
+            echo "::error::Either 'url' or 'seed_file' is required."
+            exit 22
+          fi
+
+      - name: Fail early when API key missing
+        if: env.NO_API_KEY == '1'
+        run: |
+          echo "::error::GEMINI_API_KEY or GOOGLE_API_KEY is required in repository secrets."
+          exit 2
+
+      - name: Run summarize.mjs
+        env:
+          GEMINI_API_KEY: ${{ env.GEMINI_API_KEY }}
+        run: |
+          set -Eeuo pipefail
+          CMD=(node scripts/summarize.mjs --style "$STYLE" --lang "$LANG" --model "$MODEL")
+          if [[ -n "${{ github.event.inputs.url }}" ]]; then
+            CMD+=(--url "${{ github.event.inputs.url }}")
+          fi
+          if [[ -n "${{ github.event.inputs.seed_file }}" ]]; then
+            CMD+=(--seed-file "${{ github.event.inputs.seed_file }}")
+          fi
+          echo "+ ${CMD[*]}"
           "${CMD[@]}"
 
       - name: Upload artifact (summary)
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: summary
           path: |
-            out/summary/${{ github.run_id }}-*/summary.md
-            out/summary/${{ github.run_id }}-*/**/*.html
-          if-no-files-found: error
+            summary/**
+            out/summary/**
+          if-no-files-found: warn
           retention-days: 14
 
-      - name: Publish to docs (optional)
+      - name: Publish to docs
         if: env.PUBLISH_TO_DOCS == 'true'
-        shell: bash
         run: |
-          set -euo pipefail
-          mkdir -p "${DOCS_PATH}"
-          rsync -a "out/summary/${{ github.run_id }}-"*/ "${DOCS_PATH}/" || true
+          set -Eeuo pipefail
+          if [[ -d "out/summary" ]]; then SRC="out/summary"
+          elif [[ -d "summary" ]]; then SRC="summary"
+          else
+            echo "No summary directory found. Skipping docs publish."
+            exit 0
+          fi
+          mkdir -p "$DOCS_PATH"
+          rsync -a --delete "$SRC"/ "$DOCS_PATH"/
 
-          git config user.name  "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add "${DOCS_PATH}"
-
-          if ! git diff --cached --quiet; then
-            git commit -m "docs: update summaries from run $GITHUB_RUN_ID"
+          if ! git diff --quiet; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add "$DOCS_PATH"
+            git commit -m "docs: update AI news summary (run $GITHUB_RUN_NUMBER)"
             git push
           else
             echo "No changes to commit."
           fi
 
-      - name: Notify Discord (result)
-        if: ${{ always() && env.HAS_DISCORD_WEBHOOK == 'true' }}
-        env:
-          DISCORD_WEBHOOK_URL: ${{ env.DISCORD_WEBHOOK_URL }}
-          STATUS: ${{ job.status }}
-          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-          URL: ${{ env.URL }}
-          DOCS_PATH: ${{ env.DOCS_PATH }}
-        shell: bash
+      - name: Build Discord payload (Python only)
+        id: build_msg
+        if: env.HAS_DISCORD_WEBHOOK == 'true'
         run: |
-          set -euo pipefail
-          ICON="✅"
-          [[ "${STATUS}" != "success" ]] && ICON="❌"
+          python3 - <<'PY'
+          import json, os
+          repo = os.environ.get("GITHUB_REPOSITORY","")
+          run_id = os.environ.get("GITHUB_RUN_ID","")
+          publish = os.environ.get("PUBLISH_TO_DOCS","false") == "true"
+          docs = os.environ.get("DOCS_PATH","docs/ai-news-bot")
 
-          MSG=$'[ '"${STATUS}"$' ] '"${ICON}"$' 要約ジョブ\nURL: '${URL:-'-'}$'\nRun: '${RUN_URL}$'\nDocs: '${DOCS_PATH:-'-'}
+          lines = []
+          lines.append("✅ AIニュース要約が完了しました")
+          lines.append(f"- repo: {repo}")
+          lines.append(f"- run : https://github.com/{repo}/actions/runs/{run_id}")
+          lines.append("- artifact: summary")
+          if publish:
+              lines.append(f"- docs: {docs}")
 
-          python3 - <<'PY' | curl -fsS -H 'Content-Type: application/json' -d @- "$DISCORD_WEBHOOK_URL" >/dev/null
-          import os, json
-          print(json.dumps({"content": os.environ["MSG"]}, ensure_ascii=False))
+          text = "\n".join(lines)
+          if len(text) > 1900:
+              text = text[:1900] + "…"
+
+          with open("payload.json","w",encoding="utf-8") as f:
+              json.dump({"content": text}, f, ensure_ascii=False)
+          print("payload.json written")
           PY
+
+      - name: Notify Discord
+        if: env.HAS_DISCORD_WEBHOOK == 'true'
+        env:
+          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          set -Eeuo pipefail
+          curl -fsS -X POST "$WEBHOOK?wait=true" \
+            -H "Content-Type: application/json" \
+            --data-binary @payload.json
