@@ -1,115 +1,73 @@
 #!/usr/bin/env node
 /**
  * build_index_weekly.mjs
- * 直近7日（または --from/--to）から週次インデックスを生成（重複は URL で排除）
- * 出力列: タイトル | 記事ページへ | 引用元
- * 既定出力: news/weekly/YYYY-MM-DD.md
+ * 直近7日（含む本日）の articles/*.md を集計して重複排除した週次テーブルを生成
+ * 出力: news/weekly/YYYY-MM-DD.md
+ * 列: タイトル | 記事(内部リンク) | 引用元(外部リンク)
  */
-
 import fs from "node:fs/promises";
 import path from "node:path";
 import matter from "gray-matter";
+import { fileURLToPath } from "node:url";
+import { articleLink, pickTitle, pickHost, sourceLink, articlesDir } from "./lib/links.mjs";
 
-/* ---------- args ---------- */
-const args = Object.fromEntries(
-  process.argv.slice(2).map(a => {
-    const [k, ...v] = a.replace(/^--/, "").split("=");
-    return [k, v.length ? v.join("=") : true];
-  })
-);
-const today = new Date();
-const to = args.to || today.toISOString().slice(0, 10);
-const from = args.from || new Date(today.getTime() - 6 * 86400000).toISOString().slice(0, 10);
-const SUMMARY_DIR = args.summaryDir || "summary";
-const OUT = args.out || `news/weekly/${to}.md`;
-const VAULT = args.vault || "news";
-const LINK_MODE = (args.link || "obsidian").toLowerCase();
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.join(__dirname, "..");
 
-/* ---------- utils ---------- */
-function ymd(s) { return s.toISOString().slice(0, 10); }
-function cmpDesc(a, b) { return a.date < b.date ? 1 : a.date > b.date ? -1 : 0; }
+function ensureLf(s){ return String(s||"").replace(/\r\n?/g,"\n"); }
+function today(){ return new Date().toISOString().slice(0,10); }
+function ymd(d){ return d.toISOString().slice(0,10); }
+function daysAgo(n){
+  const d = new Date(); d.setDate(d.getDate()-n); return ymd(d);
+}
+const TO = today();
+const FROM = daysAgo(6); // 直近7日
 
-async function* walk(dir) {
-  for (const d of await fs.readdir(dir, { withFileTypes: true })) {
-    const p = path.join(dir, d.name);
-    if (d.isDirectory()) yield* walk(p);
-    else if (d.isFile()) yield p;
+function withinRange(name){
+  const m = name.match(/^(\d{4}-\d{2}-\d{2})--/);
+  if(!m) return false;
+  const day = m[1];
+  return (day >= FROM && day <= TO);
+}
+
+async function main(){
+  const AR = articlesDir(ROOT);
+  await fs.mkdir(AR, { recursive: true });
+  const names = (await fs.readdir(AR)).filter(n => n.endsWith(".md") && withinRange(n));
+
+  // source_url 正規化
+  const norm = (u) => String(u||"").trim().replace(/^https?:\/\//,"").replace(/\/$/,"");
+
+  // 収集
+  const items = [];
+  for (const n of names){
+    const full = path.join(AR, n);
+    const md = await fs.readFile(full, "utf8");
+    const fm = matter(md);
+    items.push({
+      date: n.slice(0,10),
+      title: pickTitle(fm.data),
+      art: articleLink({ filePath: `articles/${n}` }),
+      src: sourceLink(fm.data),
+      key: fm.data.source_url ? `src::${norm(fm.data.source_url)}` : `th::${pickHost(fm.data)}::${pickTitle(fm.data)}`,
+    });
   }
+
+  // 重複排除（source_url 優先）
+  const map = new Map();
+  for (const it of items){ map.set(it.key, it); }
+  const list = Array.from(map.values()).sort((a,b)=> (a.date === b.date) ? a.title.localeCompare(b.title) : (a.date < b.date ? 1 : -1));
+
+  // 出力
+  const OUT_DIR = path.join(ROOT, "news", "weekly");
+  const OUT_FILE = path.join(OUT_DIR, `${TO}.md`);
+  const header = `# ${TO}\n\n> 直近7日のAIニュース一覧 (${TO})\n\n`;
+  const tableHead = `| タイトル | 記事ページへ | 引用元 |\n|---|---|---|\n`;
+  const tableBody = list.map(r => `| ${r.title} | ${r.art} | ${r.src} |`).join("\n");
+
+  await fs.mkdir(OUT_DIR, { recursive: true });
+  await fs.writeFile(OUT_FILE, ensureLf(header + tableHead + tableBody + "\n"), "utf8");
+  console.log(`[ok] weekly index written: ${path.relative(ROOT, OUT_FILE)}`);
 }
 
-function inRangeByPrefix(basename, fromYmd, toYmd) {
-  const m = basename.match(/^(\d{4}-\d{2}-\d{2})--/);
-  if (!m) return false;
-  const d = m[1];
-  return d >= fromYmd && d <= toYmd;
-}
-
-function mkArticleLink(filePath) {
-  const basename = path.basename(filePath);
-  const inNews = `fulltext/${basename}`; // news/fulltext に記事 md がある前提
-  if (LINK_MODE === "wiki") return `[[${inNews}|記事ページへ]]`;
-  if (LINK_MODE === "obsidian") {
-    const fileParam = encodeURIComponent(inNews);
-    const vaultParam = encodeURIComponent(VAULT);
-    return `[記事ページへ](obsidian://open?vault=${vaultParam}&file=${fileParam})`;
-  }
-  return `[[${inNews}|記事ページへ]]`;
-}
-
-/* ---------- collect ---------- */
-const all = [];
-for await (const p of walk(SUMMARY_DIR)) {
-  const base = path.basename(p);
-  if (base.endsWith(".md") && inRangeByPrefix(base, from, to)) {
-    const raw = await fs.readFile(p, "utf8");
-    const fm = matter(raw).data || {};
-    const title = (fm.title || fm.headline || base.replace(/\.md$/, "")).toString().trim();
-    const source = (fm.source || fm.url || fm.link || "").toString().trim();
-    const date = base.slice(0, 10);
-    all.push({ p, base, date, title, source });
-  }
-}
-
-/* ---------- dedupe by URL (prefer Japanese-looking domains) ---------- */
-const pick = [];
-const seen = new Map(); // url -> index
-const preferJa = url => /\.co\.jp\b|ja\./i.test(url || "");
-
-for (const item of all.sort(cmpDesc)) {
-  const key = item.source || item.base; // URL なければファイル名で準ユニーク
-  if (!seen.has(key)) {
-    seen.set(key, pick.length);
-    pick.push(item);
-  } else {
-    // 既存より日本語っぽいソースを優先
-    const idx = seen.get(key);
-    if (!preferJa(pick[idx].source) && preferJa(item.source)) {
-      pick[idx] = item;
-    }
-  }
-}
-
-/* ---------- render ---------- */
-const rows = pick
-  .sort(cmpDesc)
-  .map(({ p, title, source }) => {
-    const srcLink = source ? `[引用元へ](${source})` : "";
-    return `| ${title} | ${mkArticleLink(p)} | ${srcLink} |`;
-  });
-
-const md = `---
-title: Weekly Index ${to}
-tags: [ai-news, weekly-index]
----
-
-# 直近7日のAIニュース一覧 (${to})
-> 自動生成。編集不要。
-
-| タイトル | 記事ページへ | 引用元 |
-|---|---|---|
-${rows.join("\n")}
-`;
-
-await fs.mkdir(path.dirname(OUT), { recursive: true });
-await fs.writeFile(OUT, md, "utf8");
-console.log(`weekly index written: ${OUT}`);
+main().catch(e=>{ console.error(e); process.exit(1); });

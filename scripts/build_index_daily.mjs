@@ -1,83 +1,61 @@
 #!/usr/bin/env node
 /**
  * build_index_daily.mjs
- * 指定日の要約 md から日次インデックスを生成
- * 出力列: タイトル | 記事ページへ | 引用元
- * ファイル名規約: summary/YYYY-MM-DD--host--slug.md（先頭の日付で判定）
- * 既定出力: news/daily/YYYY-MM-DD--AI-news.md
+ * articles/ から指定日の記事を拾って daily テーブルを作成
+ * 出力: news/daily/YYYY-MM-DD--AI-news.md
+ * 列: タイトル | 記事(内部リンク) | 引用元(外部リンク)
  */
-
 import fs from "node:fs/promises";
 import path from "node:path";
 import matter from "gray-matter";
+import { fileURLToPath } from "node:url";
+import { articleLink, pickTitle, pickHost, sourceLink, dayPrefix, articlesDir } from "./lib/links.mjs";
 
-/* ---------- args ---------- */
-const args = Object.fromEntries(
-  process.argv.slice(2).map(a => {
-    const [k, ...v] = a.replace(/^--/, "").split("=");
-    return [k, v.length ? v.join("=") : true];
-  })
-);
-const DATE = args.date || new Date().toISOString().slice(0, 10);
-const SUMMARY_DIR = args.summaryDir || "summary";
-const OUT = args.out || `news/daily/${DATE}--AI-news.md`;
-const VAULT = args.vault || "news"; // “読む用”Vault名（obsidian://open 用）
-const LINK_MODE = (args.link || "obsidian").toLowerCase(); // obsidian|wiki|publish
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.join(__dirname, "..");
 
-/* ---------- utils ---------- */
-async function* walk(dir) {
-  for (const d of await fs.readdir(dir, { withFileTypes: true })) {
-    const p = path.join(dir, d.name);
-    if (d.isDirectory()) yield* walk(p);
-    else if (d.isFile()) yield p;
+function ensureLf(s) { return String(s || "").replace(/\r\n?/g, "\n"); }
+function getArg(name, def = "") {
+  const m = process.argv.find(a => a.startsWith(`--${name}=`));
+  return m ? m.split("=")[1] : def;
+}
+const date = getArg("date", new Date().toISOString().slice(0,10));
+const OUT_DIR = path.join(ROOT, "news", "daily");
+const OUT_FILE = path.join(OUT_DIR, `${date}--AI-news.md`);
+
+async function main() {
+  const AR = articlesDir(ROOT);
+  await fs.mkdir(AR, { recursive: true });
+  const names = (await fs.readdir(AR)).filter(n => n.endsWith(".md") && n.startsWith(dayPrefix(date)));
+
+  const rows = [];
+  for (const n of names) {
+    const full = path.join(AR, n);
+    const md = await fs.readFile(full, "utf8");
+    const fm = matter(md);
+    const title = pickTitle(fm.data);
+    const host = pickHost(fm.data);
+    const art = articleLink({ filePath: `articles/${n}` });
+    const src = sourceLink(fm.data);
+    rows.push({ title, host, art, src });
   }
-}
-const isTarget = p => path.basename(p).startsWith(`${DATE}--`) && p.endsWith(".md");
 
-function mkArticleLink(filePath) {
-  // “news” Vault内の fulltext/ に記事 md がある前提でリンクする（無ければファイル名だけでOK）
-  const basename = path.basename(filePath);
-  const inNews = `fulltext/${basename}`; // news/fulltext にコピーされる想定
-  if (LINK_MODE === "wiki") return `[[${inNews}|記事ページへ]]`;
-  if (LINK_MODE === "obsidian") {
-    const fileParam = encodeURIComponent(inNews);
-    const vaultParam = encodeURIComponent(VAULT);
-    return `[記事ページへ](obsidian://open?vault=${vaultParam}&file=${fileParam})`;
+  // 同一source_urlで重複しがちなものを軽く抑止（最後に残った1件だけ）
+  const dedup = new Map();
+  for (const r of rows) {
+    const key = r.src || `${r.title}::${r.host}`;
+    dedup.set(key, r);
   }
-  // publish 等に拡張したい場合はここに分岐を足す
-  return `[[${inNews}|記事ページへ]]`;
+  const list = Array.from(dedup.values());
+
+  const header = `# ${date}--AI-news\n\n## ${date} のニュース索引\n`;
+  const tableHead = `| タイトル | 記事 | 引用元 |\n|---|---|---|\n`;
+  const tableBody = list.map(r => `| ${r.title} | ${r.art} | ${r.src} |`).join("\n");
+
+  await fs.mkdir(OUT_DIR, { recursive: true });
+  const body = header + "\n" + tableHead + tableBody + "\n";
+  await fs.writeFile(OUT_FILE, ensureLf(body), "utf8");
+  console.log(`[ok] daily index written: ${path.relative(ROOT, OUT_FILE)}`);
 }
 
-/* ---------- collect ---------- */
-const files = [];
-for await (const p of walk(SUMMARY_DIR)) if (isTarget(p)) files.push(p);
-files.sort(); // 安定
-
-const rows = [];
-for (const p of files) {
-  const raw = await fs.readFile(p, "utf8");
-  const fm = matter(raw).data || {};
-  const title = (fm.title || fm.headline || path.basename(p).replace(/\.md$/, "")).toString().trim();
-  const source = (fm.source || fm.url || fm.link || "").toString().trim();
-  const srcLink = source ? `[引用元へ](${source})` : "";
-  rows.push(`| ${title} | ${mkArticleLink(p)} | ${srcLink} |`);
-}
-
-/* ---------- render ---------- */
-const md = `---
-title: ${DATE} — AI News
-tags: [ai-news, daily-index]
----
-
-# ${DATE} — AI News
-
-> **自動生成**（編集不要）
-
-| タイトル | 記事ページへ | 引用元 |
-|---|---|---|
-${rows.join("\n")}
-`;
-
-await fs.mkdir(path.dirname(OUT), { recursive: true });
-await fs.writeFile(OUT, md, "utf8");
-console.log(`daily index written: ${OUT}`);
+main().catch(e => { console.error(e); process.exit(1); });

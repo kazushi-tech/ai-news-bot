@@ -1,0 +1,37 @@
+---
+title: "Marc Benioff Said AI Was Easy. A ‘Crazy’ Team at Salesforce Proved Him Wrong"
+title_ja: "Marc Benioff「AIは簡単」 Salesforceの「クレイジー」チームが覆す"
+source_url: "https://www.theinformation.com/articles/marc-benioff-said-ai-easy-crazy-team-salesforce-proved-wrong"
+date: "2025-11-03"
+model: "gemini-2.5-flash"
+host: "www.theinformation.com"
+tags: [ai-news]
+---
+申し訳ありませんが、提供された記事本文はタイトルとURL、およびウェブサイトのナビゲーション部分のみで、**実際の記事の内容が欠落しております**。そのため、記事を読み込み、要約を作成することができません。
+
+もし記事本文全体をご提供いただければ、改めて要約を作成いたします。
+
+---
+
+以下は、記事本文が欠落しているため、各セクションにその旨を記載したものです。
+
+## 概要 (TL;DR)
+記事本文が提供されていないため、要約できません。
+
+## 重要ポイント
+記事本文が提供されていないため、特定できません。
+
+## 詳細レポート（What happened/背景/影響/関係者/データ）
+記事本文が提供されていないため、詳細を報告できません。
+
+## 引用（Notable quotes）
+記事本文が提供されていないため、引用を抽出できません。
+
+## リスクと課題
+記事本文が提供されていないため、リスクと課題を特定できません。
+
+## 今後の見通し/アクション
+記事本文が提供されていないため、今後の見通しやアクションについて記述できません。
+
+## Source URL（必須）
+https://www.theinformation.com/articles/marc-benioff-said-ai-easy-crazy-team-salesforce-proved-wrong
