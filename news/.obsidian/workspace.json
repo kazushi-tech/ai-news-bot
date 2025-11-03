@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
+                "file": "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg"
+              "title": "2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
+                "file": "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloombergへのバックリンク"
+              "title": "2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrongへのバックリンク"
             }
           },
           {
@@ -226,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
+                "file": "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloombergからのアウトゴーイングリンク"
+              "title": "2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrongからのアウトゴーイングリンク"
             }
           },
           {
@@ -255,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
+                "file": "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloombergのアウトライン"
+              "title": "2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrongのアウトライン"
             }
           }
         ]
@@ -285,13 +285,13 @@
   },
   "active": "8b378122ca70c766",
   "lastOpenFiles": [
+    "daily/2025-11-03--AI-news.md",
     "daily/2025-11-02--AI-news.md",
+    "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
     "weekly/2025-11-03.md",
     "2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
     "weekly/2025-11-02.md",
-    "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
     "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
-    "daily/2025-11-03--AI-news.md",
     "articles",
     "無題のファイル.md",
     "templates/article.md.md",
