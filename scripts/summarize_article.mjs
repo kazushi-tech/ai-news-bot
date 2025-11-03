@@ -95,7 +95,7 @@ function ensureMd(s){ return s.endsWith("\n") ? s : s+"\n"; }
 async function processFile(file){
   const raw = await fs.readFile(file, "utf8");
   const fm  = matter(raw);
-  const url = fm.data?.source?.url || fm.data?.url || "";
+  const url = fm.data?.source?.url || fm.data?.url || fm.data?.source_url || fm.data?.sourceUrl || "";
   const title = fm.data?.title || fm.data?.headline || path.basename(file).replace(/\.md$/,"");
   if (!url) { console.log(`[skip] no source.url: ${path.relative(ROOT,file)}`); return; }
   if (fm.content.trim().length > 20) { console.log(`[skip] already has content: ${path.relative(ROOT,file)}`); return; }
