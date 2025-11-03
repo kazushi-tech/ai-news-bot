@@ -2,3 +2,4 @@
 node_modules/
 _artifacts/
 out/
+.obsidian/workspace.json
