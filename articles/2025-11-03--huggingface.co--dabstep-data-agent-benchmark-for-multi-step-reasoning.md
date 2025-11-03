@@ -1,6 +1,6 @@
 ---
 title: "DABStep: Data Agent Benchmark for Multi-step Reasoning"
-title_ja: "DABstep：多段階推論AIのデータ分析能力を評価、現状は低精度"
+title_ja: ""
 source_url: "https://huggingface.co/blog/dabstep"
 date: "2025-11-03"
 model: "gemini-2.5-flash"

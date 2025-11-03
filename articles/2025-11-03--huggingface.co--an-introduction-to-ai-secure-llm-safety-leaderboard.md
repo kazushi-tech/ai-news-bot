@@ -1,6 +1,6 @@
 ---
 title: "An Introduction to AI Secure LLM Safety Leaderboard"
-title_ja: "AIの安全性を測る LLM安全性リーダーボード登場"
+title_ja: ""
 source_url: "https://huggingface.co/blog/leaderboard-decodingtrust"
 date: "2025-11-03"
 model: "gemini-2.5-flash"

@@ -1,6 +1,6 @@
 ---
 title: "Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs"
-title_ja: "LLM搭載NPCと3Dで対話！デモ「NPC-Playground」公開"
+title_ja: ""
 source_url: "https://huggingface.co/blog/npc-gigax-cubzh"
 date: "2025-11-03"
 model: "gemini-2.5-flash"

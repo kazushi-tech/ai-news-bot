@@ -1,6 +1,6 @@
 ---
 title: "🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e"
-title_ja: "JAXとCloud TPU v5eでSDXL推論を劇的に高速化、費用対効果も向上"
+title_ja: ""
 source_url: "https://huggingface.co/blog/sdxl_jax"
 date: "2025-11-03"
 model: "gemini-2.5-flash"

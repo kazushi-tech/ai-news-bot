@@ -1,6 +1,6 @@
 ---
 title: "🇨🇿 BenCzechMark - Can your LLM Understand Czech?"
-title_ja: "BenCzechMark: LLMのチェコ語理解度を初の包括評価"
+title_ja: ""
 source_url: "https://huggingface.co/blog/benczechmark"
 date: "2025-11-03"
 model: "gemini-2.5-flash"

@@ -1,6 +1,6 @@
 ---
 title: "Results of the Open Source AI Game Jam"
-title_ja: "Open Source AIゲームジャム、AIゲームの頂点「Snip It」"
+title_ja: ""
 source_url: "https://huggingface.co/blog/game-jam-first-edition-results"
 date: "2025-11-03"
 model: "gemini-2.5-flash"

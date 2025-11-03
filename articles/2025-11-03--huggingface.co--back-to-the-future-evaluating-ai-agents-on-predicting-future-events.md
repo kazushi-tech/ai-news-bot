@@ -1,6 +1,6 @@
 ---
 title: "Back to The Future: Evaluating AI Agents on Predicting Future Events"
-title_ja: "AIは未来を予測できるか？ 新評価法「バック・トゥ・ザ・フューチャー」"
+title_ja: ""
 source_url: "https://huggingface.co/blog/futurebench"
 date: "2025-11-03"
 model: "gemini-2.5-flash"

@@ -1,6 +1,6 @@
 ---
 title: "AI Agents Are Here. What Now?"
-title_ja: "AIエージェント本格化 その影響と課題"
+title_ja: ""
 source_url: "https://huggingface.co/blog/ethics-soc-7"
 date: "2025-11-03"
 model: "gemini-2.5-flash"

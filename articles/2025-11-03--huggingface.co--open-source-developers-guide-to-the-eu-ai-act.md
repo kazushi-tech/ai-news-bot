@@ -1,6 +1,6 @@
 ---
 title: "Open Source Developers Guide to the EU AI Act"
-title_ja: "オープンソース開発者向けEU AI法対応ガイド"
+title_ja: ""
 source_url: "https://huggingface.co/blog/eu-ai-act-for-oss-developers"
 date: "2025-11-03"
 model: "gemini-2.5-flash"
