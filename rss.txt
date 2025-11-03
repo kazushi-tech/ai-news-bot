@@ -1,1 +1,6 @@
 https://arxiv.org/rss/cs.AI
+https://www.theinformation.com/feeds/latest
+https://ai.googleblog.com/feeds/posts/default?alt=rss
+https://www.marktechpost.com/feed
+https://openai.com/blog/rss.xml
+https://deepmind.google/discover/rss/

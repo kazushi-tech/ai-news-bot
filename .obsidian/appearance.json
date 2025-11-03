@@ -2,6 +2,7 @@
   "cssTheme": "Obsidian Nord",
   "baseFontSize": 21,
   "enabledCssSnippets": [
-    "news-publish"
+    "news-publish",
+    "hide-dev-folders"
   ]
 }

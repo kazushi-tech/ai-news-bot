@@ -1,0 +1,27 @@
+/* Hide dev/infra stuff in Obsidian file explorer */
+
+/* ---- folders ---- */
+.nav-folder-title[data-path="node_modules"],
+.nav-folder-title[data-path*="/node_modules"],
+.nav-folder-title[data-path=".git"],
+.nav-folder-title[data-path*="/.git"],
+.nav-folder-title[data-path=".github"],
+.nav-folder-title[data-path*="/.github"],
+.nav-folder-title[data-path=".vscode"],
+.nav-folder-title[data-path*="/.vscode"],
+.nav-folder-title[data-path="dist"],
+.nav-folder-title[data-path*="/dist"],
+.nav-folder-title[data-path="build"],
+.nav-folder-title[data-path*="/build"],
+.nav-folder-title[data-path="_artifacts"],
+.nav-folder-title[data-path*="/_artifacts"] {
+  display: none !important;
+}
+
+/* ---- files ---- */
+.nav-file-title[data-path$="package-lock.json"],
+.nav-file-title[data-path$="pnpm-lock.yaml"],
+.nav-file-title[data-path$="yarn.lock"],
+.nav-file-title[data-path$=".DS_Store"] {
+  display: none !important;
+}

@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "9789951dcebd6ea8",
+    "id": "c7388a975b84f731",
     "type": "split",
     "children": [
       {
-        "id": "9fc9a48f007c52fe",
+        "id": "7776ea4716547f7f",
         "type": "tabs",
         "children": [
           {
-            "id": "88ddd1ad8aacf78c",
+            "id": "f5c6ddd7b4bdcbee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/index.md.md",
+                "file": "example.com/2025-11-01-ai-news.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "2025-11-01-ai-news"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "15e2ce8811873f92",
+    "id": "113185bdb3ac455f",
     "type": "split",
     "children": [
       {
-        "id": "0ef7d1da64b5e073",
+        "id": "08006ad4185c6b76",
         "type": "tabs",
         "children": [
           {
-            "id": "19bfa4c505d55ad1",
+            "id": "e3aa44026c3d2397",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "80dc568ec6400013",
+            "id": "7fcd8d3c0d6df4fc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "dff1bad25d6e1a6f",
+            "id": "06ffcdf345b8eadb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 300
   },
   "right": {
-    "id": "a26e824931d3b7b6",
+    "id": "83360891525ef8ec",
     "type": "split",
     "children": [
       {
-        "id": "182991c35696e191",
+        "id": "e0a0245089eda9a5",
         "type": "tabs",
         "children": [
           {
-            "id": "a58c4fffec1eb233",
+            "id": "ec740dd6601d6258",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/2025-11-02--AI-news.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-11-02--AI-newsへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
-            "id": "4bb09c222142c785",
+            "id": "b713004879c672c0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/2025-11-02--AI-news.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-11-02--AI-newsからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
-            "id": "54a73d0baeaeb058",
+            "id": "991f1e855dbd0177",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,26 +135,25 @@
             }
           },
           {
-            "id": "12217c6ac1b23a1d",
+            "id": "b3a0067110f4db4b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/index.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index.mdのアウトライン"
+              "title": "アウトライン"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,52 +163,9 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "19bfa4c505d55ad1",
-  "lastOpenFiles": [
-    "news/index.md",
-    "news/index-weekly.md",
-    "seeds/ai-feeds-2025-11-03.txt",
-    "seeds",
-    "<vault>",
-    "news/weekly/2025-11-02.md",
-    "news/index.md.md",
-    "Users/omats/git-check/myapp/news/2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
-    "news/2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
-    "news/weekly/2025-11-03.md",
-    "news/daily/2025-11-03--AI-news.md",
-    "news/daily/2025-11-02--AI-news.md",
-    "news/daily",
-    "scripts/tidy_vault.mjs",
-    "news/fulltext/latent-chain-of-thought-for-visual-reasoning.md",
-    "artifacts/summary--1761971287/summary.md",
-    "artifacts/check/18992270285/18992270285-example-com/summary.md",
-    "_artifacts/19004770589/19004139178-example-com/summary.md",
-    "summary/index-weekly.md",
-    "summary/2025-11-02--bloomberg.co.jp--ai-quicktake-bloomberg.md",
-    "node_modules/rss-parser/index.d.ts",
-    "node_modules/rss-parser/scripts/build.sh",
-    "node_modules/rss-parser/scripts",
-    "node_modules/rss-parser/README.md",
-    "node_modules/rss-parser/node_modules/entities/lib/maps/entities.json",
-    "node_modules/rss-parser/node_modules/entities/lib/maps/xml.json",
-    "node_modules/rss-parser/node_modules/entities/readme.md",
-    "node_modules/xml2js/README.md",
-    "node_modules/xmlbuilder/README.md",
-    "node_modules/xmlbuilder/CHANGELOG.md",
-    "node_modules/sax/README.md",
-    "news/2025-11-03--AI-news.md",
-    "summary/index-daily-2025-11-02.md",
-    "summary/index-daily-2025-11-03.md",
-    "news/Sun Nov 02--AI-news.md",
-    "news/summary.md",
-    "node_modules/psl/browserstack-logo.svg",
-    "node_modules/date-fns/docs/logotype.svg",
-    "node_modules/date-fns/docs/logo.svg"
-  ]
+  "active": "f5c6ddd7b4bdcbee",
+  "lastOpenFiles": []
 }

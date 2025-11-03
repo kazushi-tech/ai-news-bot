@@ -1,1 +1,9 @@
-https://arxiv.org/rss/cs.AI
+# 例：必要なものだけ残してね
+https://huggingface.co/blog/feed.xml
+https://blog.research.google/atom.xml
+https://ai.meta.com/blog/feed/
+https://www.deepmind.com/blog/feed/basic.xml
+https://openai.com/blog/rss.xml
+http://export.arxiv.org/rss/cs.AI
+http://export.arxiv.org/rss/cs.CL
+http://export.arxiv.org/rss/cs.LG

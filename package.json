@@ -21,7 +21,7 @@
     "index:day:publish": "node scripts/build_index_daily.mjs --link=publish --publish_base=\"$PUBLISH_BASE\"",
     "index:week:publish": "node scripts/build_index_weekly.mjs --link=publish --publish_base=\"$PUBLISH_BASE\"",
     "feeds": "node scripts/fetch_ai_feeds.mjs",
-    "feeds:sum": "node scripts/fetch_ai_feeds.mjs && gh workflow run summarize.yml -f seed_file=\"seeds/ai-feeds-$(date +%F).txt\" -f lang=ja -f style=general -f model=\"gemini-2.5-flash\" -f publish_to_docs=true -r main",
+    "feeds:sum": "node scripts/fetch_ai_feeds.mjs && sh -lc 'SEED=$(ls -t seeds/ai-feeds-*.txt | head -n1); gh workflow run summarize.yml -f seed_file=\"$SEED\" -f lang=ja -f style=general -f model=\"gemini-2.5-flash\" -f publish_to_docs=true -r main'",
     "index:day:latest": "node scripts/build_index_daily.mjs --link=obsidian --vault=\"$OBSIDIAN_VAULT\" --out=news/daily/$(date +%F)--AI-news.md",
     "index:week:latest": "node scripts/build_index_weekly.mjs --link=obsidian --vault=\"$OBSIDIAN_VAULT\" --out=news/index-weekly.md"
   },
