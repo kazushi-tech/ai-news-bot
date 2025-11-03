@@ -49,16 +49,14 @@ jobs:
       - name: Build daily index (Obsidian links)
         run: >
           node scripts/build_index_daily.mjs
-          --link=obsidian
-          --vault "$OBSIDIAN_VAULT"
+          --link=obsidian --vault "$OBSIDIAN_VAULT"
           --out "news/daily/$(date +%F)--AI-news.md"
 
       - name: Build weekly index (Obsidian links)
         run: >
           node scripts/build_index_weekly.mjs
-          --link=obsidian
-          --vault "$OBSIDIAN_VAULT"
-          --out "news/weekly/$(date +%F)-weekly.md"
+          --link=obsidian --vault "$OBSIDIAN_VAULT"
+          --out "news/weekly/$(date +%F).md"
 
       - name: Commit changes
         shell: bash
