@@ -37,3 +37,13 @@ export function pickSourceUrl(fm, raw = "") {
 }
 
 /* （必要なら今後ここに obsidianUri 等を追加） */
+
+/* ---- compat: 一部のbuild_*が要求する pickHost を提供 ---- */
+export function pickHost(fm, raw = "") {
+  const u =
+    fm?.data?.source?.url ??
+    fm?.data?.url ??
+    raw ?? "";
+  try { return new URL(u).host || ""; }
+  catch { return fm?.data?.source?.host ?? fm?.data?.host ?? ""; }
+}
