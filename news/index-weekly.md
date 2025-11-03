@@ -1,5 +1,0 @@
-# 週次ニュース索引 (2025-10-28 〜 2025-11-03)
-
-| タイトル | 記事 | 引用元 |
-|---|---|---|
-| AIバブル懸念が再燃、巨額投資の裏で広がるリスクとは－QuickTake - Bloomberg | [記事ページへ](obsidian://open?vault=ai-news-bot&file=summary%2F2025-11-02--bloomberg.co.jp--ai-quicktake-bloomberg.md) | [www.bloomberg.co.jp](https://www.bloomberg.co.jp/news/articles/2025-10-04/T3LZDKGOT0JK00) |
