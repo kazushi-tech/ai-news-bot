@@ -1,157 +1,167 @@
 #!/usr/bin/env node
 /**
- * build_index_daily.mjs (Publish用：デフォ3列)
- * summary/*.md を集計し、news/YYYY-MM-DD--AI-news.md を生成
- * 列: タイトル | 記事(内部リンク) | 引用元(外部リンク)
- *
- * 使い方:
- *   node scripts/build_index_daily.mjs                   # 最新日付で3列
- *   node scripts/build_index_daily.mjs --date=2025-11-02 # 指定日
- *   node scripts/build_index_daily.mjs --with-snippet    # 4列(要約あり)
+ * build_index_daily.mjs
+ * 目的: 指定日の要約(md)からインデックス表を生成
+ * 既定列: タイトル | 記事 | 引用元
+ * --with-snippet で「要約」列を追加
+ * --link=wiki|publish|obsidian で「記事」リンクの出力形を切替
+ * ファイル名規約: summary/YYYY-MM-DD--host--slug.md （先頭の日付で判定）
  */
 
 import fs from "node:fs/promises";
 import path from "node:path";
 import matter from "gray-matter";
+import dayjs from "dayjs";
+import { articleLink } from "./lib/links.mjs";
 
-/* ---------- utils ---------- */
-const z = (n) => String(n).padStart(2, "0");
-const fmtDate = (d) =>
-  `${d.getFullYear()}-${z(d.getMonth() + 1)}-${z(d.getDate())}`;
+/* ---------------------- args/env ---------------------- */
+const args = Object.fromEntries(process.argv.slice(2).map(a => {
+  const [k, ...v] = a.replace(/^--/, "").split("=");
+  return [k, v.join("=") || true];
+}));
 
-function parseArgs(argv) {
-  const o = { withSnippet: false };
-  for (const a of argv.slice(2)) {
-    if (a.startsWith("--date=")) o.date = a.split("=")[1];
-    if (a === "--with-snippet") o.withSnippet = true;
-  }
-  return o;
-}
+const LINK_MODE = (args.link || process.env.LINK_MODE || "wiki").toString();
+const OBSIDIAN_VAULT = (args.vault || process.env.OBSIDIAN_VAULT || "Main").toString();
+const PUBLISH_BASE = (args.publish_base || process.env.PUBLISH_BASE || "").toString();
+const WITH_SNIPPET = !!args["with-snippet"];
+const DATE = (args.date || process.env.INDEX_DATE || dayjs().format("YYYY-MM-DD")).toString();
+const SUMMARY_DIR = (args.summary_dir || "summary").toString();
+const OUT = (args.out || `summary/index-daily-${DATE}.md`).toString();
 
-const escapeCell = (s) =>
-  String(s || "")
-    .replace(/\|/g, "\\|")
-    .replace(/\r?\n|\r/g, " ");
-
-const stripMd = (s) =>
-  String(s || "")
-    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
-    .replace(/[*_`>#]/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
-
-const shorten = (s, n = 140) => (
-  (s = String(s || "").trim()), s.length > n ? s.slice(0, n - 1) + "…" : s
-);
-
-/** Obsidian内部リンクを堅牢化（Windowsの \ を / に統一） */
-const wiki = (fp, label) =>
-  `[[${String(fp).replace(/\\/g, "/").replace(/\.md$/i, "")}|${label}]]`;
-
-/** frontmatter の date を "YYYY-MM-DD" に丸める（Date/文字列両対応） */
-function ymd(v) {
-  if (!v) return "";
-  if (v instanceof Date && !isNaN(v)) return v.toISOString().slice(0, 10);
-  const s = String(v);
-  const m = s.match(/\d{4}-\d{2}-\d{2}/);
+/* ---------------------- helpers ----------------------- */
+function parseUrl(data, content = "") {
+  const cand = data.url || data.source || data.source_url || data.link;
+  if (cand) return String(cand);
+  const m = content.match(/https?:\/\/[^\s)\]]+/);
   return m ? m[0] : "";
 }
 
-function pickSnippet(md) {
-  const sec = (re) => {
-    const m = md.match(re);
-    if (!m) return null;
-    const bullets = m[1]
-      .split(/\r?\n/)
-      .map((l) => l.replace(/^\s*-\s?/, "").trim())
-      .filter(Boolean);
-    return bullets.length
-      ? bullets.slice(0, 2).map(stripMd).join(" / ")
-      : null;
-  };
-  return (
-    sec(/^\s*#\s*TL;DR[\s\r\n]+((?:-\s?.*(?:\r?\n|$))+)/im) ||
-    sec(/^\s*##\s*Key Points[\s\r\n]+((?:-\s?.*(?:\r?\n|$))+)/im) ||
-    stripMd(md).slice(0, 200)
-  );
+function hostFrom(u) {
+  try {
+    return new URL(u).host;
+  } catch {
+    return "";
+  }
 }
 
-/* ---------- gather ---------- */
-const { date: dateArg, withSnippet } = parseArgs(process.argv);
-const dir = "summary";
-const files = (await fs.readdir(dir))
-  .filter((f) => f.toLowerCase().endsWith(".md"))
-  .map((f) => path.join(dir, f));
-
-if (!files.length) {
-  console.error("summary/ にファイルがありません");
-  process.exit(0);
+function stripMd(md) {
+  return String(md || "")
+    .replace(/`{3}[\s\S]*?`{3}/g, "") // code fence
+    .replace(/`[^`]*`/g, "")
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .replace(/!\[[^\]]*\]\([^)]+\)/g, "")
+    .replace(/[#>*_\-\[\]]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
-const rows = [];
-for (const fp of files) {
-  const raw = await fs.readFile(fp, "utf8");
-  const { data: fm, content } = matter(raw);
-  const date = ymd(fm.date);
-  if (!date) continue;
-  rows.push({
-    file: fp,
-    date,
-    title: (fm.title || path.basename(fp)).toString(),
-    host: (fm.host || "").toString(),
-    src: (fm.source_url || "").toString(),
-    model: (fm.model || "").toString(),
-    snippet: pickSnippet(content),
+// === ここから置き換え ===
+function jaRatio(s) {
+  const m = String(s || "").match(/[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff]/g);
+  return (m ? m.length : 0) / (String(s || "").length || 1);
+}
+
+function cleanJaTitle(raw) {
+  let base = String(raw || "").trim();
+
+  // 末尾に来がちな区切り + 英語サイト名を丸ごと落とす（保険）
+  base = base.replace(/\s*(?:[|｜:：\-–—])\s*[A-Za-z0-9].*$/, "").trim();
+
+  // 代表的な区切り文字で分割（左側・日本語率が高い方を優先）
+  const parts = base.split(/\s*(?:\||｜|—|–|－|-|:|：)\s*/g).filter(Boolean);
+
+  // 日本語率が高い最初の要素
+  for (const p of parts) {
+    if (jaRatio(p) >= 0.2) return p.trim();
+  }
+  return (parts[0] || base).trim();
+}
+
+function titleFrom(data, file) {
+  const fallback = path.basename(file).replace(/^\d{4}-\d{2}-\d{2}--/, "").replace(/\.md$/, "");
+  const raw = (data.title || data.headline || fallback).toString();
+  return cleanJaTitle(raw);
+}
+// === ここまで置き換え ===
+
+
+function isTargetDate(file) {
+  const base = path.basename(file);
+  const m = base.match(/^(\d{4}-\d{2}-\d{2})--/);
+  if (!m) return false;
+  return m[1] === DATE;
+}
+
+function uniqueByUrlJaFirst(items) {
+  const map = new Map(); // key: normalizedUrl -> item
+  for (const it of items) {
+    const key = (it.url || "").replace(/[?#].*$/, "");
+    if (!key) continue;
+    if (!map.has(key)) {
+      map.set(key, it);
+      continue;
+    }
+    const cur = map.get(key);
+    const curIsJa = (cur.lang || "").toLowerCase().startsWith("ja");
+    const nxtIsJa = (it.lang || "").toLowerCase().startsWith("ja");
+    // 日本語優先
+    if (!curIsJa && nxtIsJa) map.set(key, it);
+  }
+  return [...map.values()];
+}
+
+/* ---------------------- main -------------------------- */
+const filesAll = (await fs.readdir(SUMMARY_DIR)).filter(f => f.endsWith(".md")).map(f => path.join(SUMMARY_DIR, f));
+const files = filesAll.filter(isTargetDate);
+
+const rowsRaw = [];
+for (const file of files) {
+  const txt = await fs.readFile(file, "utf8");
+  const { data, content } = matter(txt);
+  const url = parseUrl(data, content);
+  const host = hostFrom(url);
+  const title = titleFrom(data, file);
+  const lang = (data.lang || data.language || "").toString();
+  const snippet = data.tldr || data.summary || stripMd(content).slice(0, 200);
+
+  rowsRaw.push({
+    file: file.replace(/\\/g, "/"),
+    url, host, title, lang, snippet
   });
 }
 
-let target = dateArg;
-if (!target) {
-  const latest = rows.slice().sort((a, b) => (a.date < b.date ? 1 : -1))[0];
-  target = latest?.date || fmtDate(new Date());
-}
+// 重複排除（URL基準、日本語優先）
+const rows = uniqueByUrlJaFirst(rowsRaw);
 
-const items = rows
-  .filter((r) => r.date === target)
-  .sort((a, b) => a.title.localeCompare(b.title));
+// ソート（ファイル名の降順 = 新しい順）
+rows.sort((a, b) => b.file.localeCompare(a.file));
 
-if (!items.length) {
-  console.error(`対象日の記事がありません: ${target}`);
-  process.exit(0);
-}
+const header3 = `| タイトル | 記事 | 引用元 |
+|---|---|---|`;
+const header4 = `| タイトル | 記事 | 引用元 | 要約 |
+|---|---|---|---|`;
 
-/* ---------- render ---------- */
-const pageTitle = `${target}--AI-news`;
-let md = `---\n`;
-md += `title: "${pageTitle.replace(/"/g, '\\"')}"\n`;
-md += `date: "${target}"\n`;
-md += `type: "ai-news-daily"\n`;
-md += `---\n\n`;
-md += `> 合計: **${items.length} 本**　モデル: gemini-2.5-flash 固定\n\n`;
+const lines = [];
+lines.push(`# ${DATE} のニュース索引`);
+lines.push("");
+lines.push(WITH_SNIPPET ? header4 : header3);
 
-if (!withSnippet) {
-  md += `| タイトル | 記事 | 引用元 |\n|:--|:--:|:--:|\n`;
-  for (const it of items) {
-    const t = escapeCell(stripMd(it.title));
-    const art = wiki(it.file, "記事ページへ"); // 内部リンク固定
-    const cite = it.src ? `[引用元へ](${it.src})` : escapeCell(it.host || "");
-    md += `| ${t} | ${art} | ${cite} |\n`;
-  }
-} else {
-  md += `| タイトル | 記事 | 引用元 | 要約 |\n|:--|:--:|:--:|:--|\n`;
-  for (const it of items) {
-    const t = escapeCell(stripMd(it.title));
-    const art = wiki(it.file, "記事ページへ"); // 内部リンク固定
-    const cite = it.src ? `[引用元へ](${it.src})` : escapeCell(it.host || "");
-    const sn = escapeCell(shorten(stripMd(it.snippet), 140));
-    md += `| ${t} | ${art} | ${cite} | ${sn} |\n`;
+for (const it of rows) {
+  const linkToArticle = articleLink({
+    mode: LINK_MODE,
+    vault: OBSIDIAN_VAULT,
+    filePath: it.file,
+    publishBase: PUBLISH_BASE
+  });
+  const external = it.url ? `[${it.host || "source"}](${it.url})` : "";
+  if (WITH_SNIPPET) {
+    lines.push(`| ${it.title} | ${linkToArticle} | ${external} | ${it.snippet} |`);
+  } else {
+    lines.push(`| ${it.title} | ${linkToArticle} | ${external} |`);
   }
 }
 
-md += `\n---\nこのページは自動生成（summary/ のfrontmatter + 本文から集計）。\n`;
+await fs.mkdir(path.dirname(OUT), { recursive: true });
+await fs.writeFile(OUT, lines.join("\n") + "\n", "utf8");
 
-/* ---------- write ---------- */
-await fs.mkdir("news", { recursive: true });
-const out = path.join("news", `${target}--AI-news.md`);
-await fs.writeFile(out, md, "utf8");
-console.log("✔ index page →", out);
+console.log(`✅ daily index written: ${OUT}`);

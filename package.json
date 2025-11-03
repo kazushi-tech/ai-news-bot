@@ -5,20 +5,24 @@
   "engines": {
     "node": ">=20"
   },
-"scripts": {
-  "clip": "node scripts/clip_url.mjs --url",
-  "sum": "node scripts/summarize_clip.mjs",
-  "sum:latest": "sh -lc 'LATEST=$(ls -t src/clips/*.md | head -n1); [ -n \"$LATEST\" ] && node scripts/summarize_clip.mjs \"$LATEST\"'",
-  "index:day": "node scripts/build_index_daily.mjs",
-  "index:day:date": "node scripts/build_index_daily.mjs --date",
-  "index:week": "node scripts/build_index_weekly.mjs",
-  "index:week:range": "node scripts/build_index_weekly.mjs --from",
-  "index:week:allow": "node scripts/build_index_weekly.mjs --allow",
-  "publish": "git add -A && git commit -m \"clip+sum (Gemini 2.5-flash) + index\" || true && git push",
-  "one": "bash scripts/clip_sum_publish.sh"
-}
-
-,
+  "scripts": {
+    "clip": "node scripts/clip_url.mjs --url",
+    "sum": "node scripts/summarize_clip.mjs",
+    "sum:latest": "sh -lc 'LATEST=$(ls -t src/clips/*.md | head -n1); [ -n \"$LATEST\" ] && node scripts/summarize_clip.mjs \"$LATEST\"'",
+    "index:day": "node scripts/build_index_daily.mjs",
+    "index:day:date": "node scripts/build_index_daily.mjs --date",
+    "index:week": "node scripts/build_index_weekly.mjs",
+    "index:week:range": "node scripts/build_index_weekly.mjs --from",
+    "index:week:allow": "node scripts/build_index_weekly.mjs --allow",
+    "publish": "git add -A && git commit -m \"clip+sum (Gemini 2.5-flash) + index\" || true && git push",
+    "one": "bash scripts/clip_sum_publish.sh",
+    "index:week:obsidian": "node scripts/build_index_weekly.mjs --link=obsidian --vault=\"$OBSIDIAN_VAULT\" --out=news/index-weekly.md",
+    "index:day:obsidian": "node scripts/build_index_daily.mjs --link=obsidian --vault=\"$OBSIDIAN_VAULT\" --out=news/$(date +%F)--AI-news.md",
+    "index:day:publish": "node scripts/build_index_daily.mjs --link=publish --publish_base=\"$PUBLISH_BASE\"",
+    "index:week:publish": "node scripts/build_index_weekly.mjs --link=publish --publish_base=\"$PUBLISH_BASE\"",
+    "feeds": "node scripts/fetch_ai_feeds.mjs",
+    "feeds:sum": "node scripts/fetch_ai_feeds.mjs && gh workflow run summarize.yml -f seed_file=\"seeds/ai-feeds-$(date +%F).txt\" -f lang=ja -f style=general -f model=\"gemini-2.5-flash\" -f publish_to_docs=true -r main"
+  },
   "dependencies": {
     "@mozilla/readability": "^0.5.0",
     "dayjs": "^1.11.19",
@@ -27,6 +31,7 @@
     "dotenv": "^16.4.5",
     "gray-matter": "^4.0.3",
     "jsdom": "^24.1.3",
+    "rss-parser": "3.12.0",
     "turndown": "^7.2.2",
     "undici": "^6.22.0"
   }
