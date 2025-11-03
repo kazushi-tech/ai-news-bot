@@ -1,0 +1,13 @@
+---
+title: "Open-source LLMs as LangChain Agents"
+title_ja: "オープンソースLLMがLangChainエージェントとして進化 GPT-3.5超えも"
+source_url: "https://huggingface.co/blog/open-source-llms-as-agents"
+date: "2025-11-03"
+model: "gemini-2.5-flash"
+host: "huggingface.co"
+tags: [ai-news]
+---
+> 要約生成に失敗しました。後で再実行してください。
+
+---
+Source URL: https://huggingface.co/blog/open-source-llms-as-agents

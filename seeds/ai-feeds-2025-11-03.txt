@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 https://huggingface.co/blog/openenv
 https://huggingface.co/blog/virustotal
 https://huggingface.co/blog/aisheets-unlock-images
@@ -99,22 +98,3 @@ https://huggingface.co/blog/agents-js
 https://huggingface.co/blog/game-jam-first-edition-results
 https://huggingface.co/blog/ai-webtv
 https://huggingface.co/blog/os-llms
-=======
-https://openai.com/index/expanding-stargate-to-michigan
-https://openai.com/index/introducing-aardvark
-https://openai.com/index/building-chatgpt-atlas
-https://openai.com/index/gpt-oss-safeguard-technical-report
-https://openai.com/index/introducing-gpt-oss-safeguard
-https://openai.com/index/dai-nippon-printing
-https://openai.com/index/doppel
-https://openai.com/index/built-to-benefit-everyone
-https://huggingface.co/blog/voice-consent-gate
-https://huggingface.co/blog/streaming-datasets
-https://huggingface.co/blog/huggingface-hub-v1
-https://huggingface.co/blog/openenv
-https://huggingface.co/blog/virustotal
-https://huggingface.co/blog/sentence-transformers-joins-hf
-https://huggingface.co/blog/ocr-open-models
-https://huggingface.co/blog/aisheets-unlock-images
-https://github.blog/ai-and-ml/github-copilot/how-to-update-community-health-files-with-ai/
->>>>>>> origin/main
