@@ -1,7 +1,6 @@
 /**
  * links.mjs (compat)
- * - 表内で崩れないMarkdownリンクに統一
- * - 旧buildスクリプト互換のエクスポートも用意（pickTitle等）
+ * テーブルで崩れないMarkdownリンク + 既存build_*互換API
  */
 export function articleLink(relPath, mode="obsidian") {
   const p = String(relPath).replace(/\\/g, "/");
@@ -14,36 +13,22 @@ export function sourceLink(url) {
   return `[引用元へ](${url})`;
 }
 
-/* ---- 旧build_* が import している互換API ---- */
-export const articlesDir = "articles";     // 旧コードのデフォルト想定に合わせる
-export const dayPrefix   = "";             // 使っていなくても存在だけ用意
-
-// 旧コードが (fm, fallback) などで呼んでも動くようにゆるく定義
+/* ---- 既存build_*がimportする互換API ---- */
 export function pickTitle(fm, fallback = "") {
-  const t =
-    fm?.data?.title ??
-    fm?.data?.headline ??
-    fm?.data?.name ??
-    fallback;
-  return String(t ?? "").trim();
+  const t = fm?.data?.title ?? fm?.data?.headline ?? fm?.data?.name ?? fallback ?? "";
+  return String(t).trim();
 }
 export function pickSourceUrl(fm, raw = "") {
-  return (
-    fm?.data?.source?.url ??
-    fm?.data?.url ??
-    raw ??
-    ""
-  );
+  return fm?.data?.source?.url ?? fm?.data?.url ?? raw ?? "";
 }
-
-/* （必要なら今後ここに obsidianUri 等を追加） */
-
-/* ---- compat: 一部のbuild_*が要求する pickHost を提供 ---- */
 export function pickHost(fm, raw = "") {
-  const u =
-    fm?.data?.source?.url ??
-    fm?.data?.url ??
-    raw ?? "";
-  try { return new URL(u).host || ""; }
-  catch { return fm?.data?.source?.host ?? fm?.data?.host ?? ""; }
+  const u = pickSourceUrl(fm, raw);
+  try { return new URL(u).host || ""; } catch { return fm?.data?.source?.host ?? fm?.data?.host ?? ""; }
 }
+
+/* ←これが無いと「is not a function」になる */
+export function articlesDir(...segs) { return ["articles", ...segs].filter(Boolean).join("/"); }
+export function dayPrefix(s=""){ return s; }
+
+/* ついでに定数も残しておく（参照してる古いコード向け）*/
+export const ARTICLES_DIR = "articles";
