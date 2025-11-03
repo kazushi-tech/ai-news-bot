@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
+                "file": "daily/2025-11-03--AI-news.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong"
+              "title": "2025-11-03--AI-news"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
+                "file": "daily/2025-11-03--AI-news.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrongへのバックリンク"
+              "title": "2025-11-03--AI-newsへのバックリンク"
             }
           },
           {
@@ -226,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
+                "file": "daily/2025-11-03--AI-news.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrongからのアウトゴーイングリンク"
+              "title": "2025-11-03--AI-newsからのアウトゴーイングリンク"
             }
           },
           {
@@ -255,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
+                "file": "daily/2025-11-03--AI-news.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrongのアウトライン"
+              "title": "2025-11-03--AI-newsのアウトライン"
             }
           }
         ]
@@ -285,21 +285,21 @@
   },
   "active": "8b378122ca70c766",
   "lastOpenFiles": [
-    "daily/2025-11-03--AI-news.md",
     "daily/2025-11-02--AI-news.md",
-    "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
+    "daily/2025-11-03--AI-news.md",
     "weekly/2025-11-03.md",
-    "2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
     "weekly/2025-11-02.md",
+    "conflict-files-obsidian-git.md",
+    "index.md",
     "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
+    "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
+    "2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
     "articles",
     "無題のファイル.md",
     "templates/article.md.md",
     "templates/article-tp.md.md",
     "templates",
-    "conflict-files-obsidian-git.md",
     "index-weekly.md",
-    "index.md",
     "index.md.md"
   ]
 }
