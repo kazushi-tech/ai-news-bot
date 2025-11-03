@@ -1,0 +1,6 @@
+# Obsidianのワークスペースは常にローカルを採用
+.obsidian/workspace.json merge=ours
+
+# 生成物は衝突させず常にローカルを採用
+news/daily/*.md  merge=ours
+news/weekly/*.md merge=ours
