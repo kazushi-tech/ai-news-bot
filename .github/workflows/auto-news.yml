@@ -1,0 +1,72 @@
+name: auto-news
+
+on:
+  schedule:
+    - cron: '0 6,12,18 * * *'  # UTC (JST+9)
+  workflow_dispatch: {}
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      OBSIDIAN_VAULT: news
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}  # Gemini 2.5-flash 用
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Fetch AI feeds
+        run: node scripts/fetch_ai_feeds.mjs
+
+      - name: Pick latest seed (outputs.seed)
+        id: seed
+        shell: bash
+        run: |
+          set -euo pipefail
+          SEED="$(ls -t seeds/ai-feeds-*.txt | head -n1)"
+          echo "seed=$SEED" >> "$GITHUB_OUTPUT"
+
+      - name: Summarize articles (Gemini 2.5-flash)
+        run: >
+          node scripts/summarize.mjs
+          --seed-file "${{ steps.seed.outputs.seed }}"
+          --lang ja
+          --style general
+          --model gemini-2.5-flash
+
+      - name: Build daily index (Obsidian links)
+        run: >
+          node scripts/build_index_daily.mjs
+          --link=obsidian
+          --vault "$OBSIDIAN_VAULT"
+          --out "news/daily/$(date +%F)--AI-news.md"
+
+      - name: Build weekly index (Obsidian links)
+        run: >
+          node scripts/build_index_weekly.mjs
+          --link=obsidian
+          --vault "$OBSIDIAN_VAULT"
+          --out "news/weekly/$(date +%F)-weekly.md"
+
+      - name: Commit changes
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Auto: feeds+summ+index" || true
+
+      - name: Push
+        run: git push
