@@ -1,6 +1,6 @@
 ---
 title: "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code"
-title_ja: ""
+title_ja: "Python版Tiny Agents、MCP対応エージェントを70行で構築"
 source_url: "https://huggingface.co/blog/python-tiny-agents"
 date: "2025-11-04"
 model: "gemini-2.5-flash"
@@ -8,66 +8,73 @@ host: "huggingface.co"
 tags: [ai-news]
 ---
 ## 概要 (TL;DR)
-
-Hugging Faceは、Model Context Protocol (MCP) を活用し、約70行のPythonコードで構築可能な「Tiny Agents」を発表しました。これは、`huggingface_hub`クライアントSDKをMCPクライアントとして拡張することで、LLMが外部ツールやAPIと簡単に連携できるようにするものです。開発者は、このフレームワークを使って、Webブラウジングや画像生成といった高度なタスクを実行できるエージェントを迅速に構築・デプロイできます。
+Hugging Faceは、JavaScript版に続き、PythonでMCP (Model Context Protocol) を活用した「Tiny Agents」を発表しました。`huggingface_hub`クライアントSDKをMCPクライアントとして拡張することで、約70行のPythonコードでLLMが外部ツールと連携できるエージェントを構築可能に。MCPはLLMとツールの相互作用を標準化し、カスタム統合の必要性を排除します。本記事では、既存エージェントの実行方法から、独自のAgent構築方法までを解説しています。
 
 ## 重要ポイント
-
-*   **MCPプロトコルの活用**: LLMと外部ツールの相互作用を標準化するオープンプロトコルであるMCPをPythonで実装。これにより、カスタム統合の必要がなくなります。
-*   **軽量なエージェント**: 約70行のPythonコードで、ツール利用可能なエージェントが構築可能。エージェントの核は、MCPクライアント上で動作するシンプルな`while`ループです。
-*   **`huggingface_hub`の拡張**: `huggingface_hub`クライアントSDKがMCPクライアントとして機能するよう拡張され、MCPサーバーからツールを取得し、LLMの推論中に利用できます。
-*   **簡単なデプロイと実行**: `pip install "huggingface_hub[mcp]"`でセットアップ後、CLIから既存のエージェントをHugging Face Hubから直接ロードして実行できます。
-*   **多様なMCPサーバー対応**: ファイルシステム、Playwright (Webブラウザ)、Gradio Spaces (画像生成など) といった様々なMCPサーバーに接続し、多様なツールを利用できます。
+*   **MCP (Model Context Protocol) の導入**: LLMが外部ツールやAPIと連携する際の標準プロトコルであり、ツールごとのカスタム統合を不要にします。
+*   **`huggingface_hub` SDKのMCPクライアント化**: `hugginggingface_hub`クライアントSDKがMCPクライアントとして機能するよう拡張され、MCPサーバーからツールを取得しLLMに渡すことが可能になりました。
+*   **Tiny Agentのシンプルさ**: Python版Agentは、MCPクライアント上に構築されたシンプルな`while`ループであり、約70行のコードで実装できます。
+*   **多様なMCPサーバー対応**: ファイルシステム、Playwright (サンドボックス化されたブラウザ)、Gradio Spacesなど、様々なMCPサーバーと連携し、LLMに強力なツール機能を提供します。
+*   **LLMのツール利用機能**: 現代のLLMは関数呼び出し（ツール利用）のために設計されており、MCPClientがツールの発見、フォーマット、実行をオーケストレーションします。
 
 ## 詳細レポート
-
-### What happened
-Hugging Faceは、JavaScript版「Tiny Agents in JS」に触発され、Pythonで同様のコンセプトを実装しました。これは、Model Context Protocol (MCP) を利用し、`huggingface_hub`クライアントSDKをMCPクライアントとして拡張することで、約70行のコードでLLMが外部ツールと連携できるエージェントを構築するものです。
-
-### 背景
-*   **MCPの登場**: MCPは、LLMが外部ツールやAPIとやり取りする方法を標準化するオープンプロトコルです。これにより、個々のツールに対するカスタム統合の記述が不要になり、LLMに新しい機能を簡単に追加できるようになります。
-*   **LLMのツール利用能力**: 現代のLLMは関数呼び出し（ツール利用）機能が組み込まれており、特定のユースケースや実世界のタスクに特化したアプリケーションの構築を可能にします。
-
-### 影響
-*   **開発の簡素化**: 開発者は複雑な統合ロジックを記述することなく、LLMに高度な機能（Web検索、画像生成など）を付与したエージェントを迅速に構築・デプロイできるようになりました。
-*   **エージェントエコシステムの拡大**: Hugging Face Hubの`tiny-agents/tiny-agents`データセットを通じて、コミュニティが独自のTiny Agentを共有し、貢献できるプラットフォームが提供されます。
-
-### 関係者
-*   **Hugging Face**: Tiny AgentsのPython実装と`huggingface_hub` SDKの拡張を主導。
-*   **LLMプロバイダー**: Qwen/Qwen2.5-72B-Instruct (Nebius inference provider経由) など、ツール利用をサポートするLLMを提供。
-*   **MCPサーバー**: ファイルシステムサーバー、Playwright MCPサーバー、Gradio Spacesなど、特定の機能を提供する外部ツール群。
-*   **開発者/ユーザー**: Tiny Agentsをインストールし、既存のエージェントを実行したり、独自のカスタムエージェントを構築したりする人々。
-
-### データ
-*   **コード行数**: エージェントのコアロジックは約70行。
-*   **インストール**: `pip install "huggingface_hub[mcp]>=0.32.0"`
-*   **エージェント設定**: `agent.json`ファイルで以下の項目を定義。
-    *   `model`: 使用するLLM (例: `Qwen/Qwen2.5-72B-Instruct`)
-    *   `provider`: LLMの推論プロバイダー (例: `nebius`)
-    *   `servers`: 接続するMCPサーバーのリスト (タイプ、コマンド、引数など)
-    *   `PROMPT.md`: エージェントの初期システムプロンプト。
-*   **MCPClientの役割**:
-    *   複数のMCPサーバーへの非同期接続管理。
-    *   サーバーからのツール発見。
-    *   LLM向けにツールをフォーマット。
-    *   適切なMCPサーバー経由でのツール呼び出し実行。
-*   **エージェントのコア**: `Agent`クラスは`MCPClient`を継承し、会話管理ロジックを追加。`run()`メソッド内の`while`ループが、ユーザー入力の処理、LLMとの対話、ツール実行、終了条件のチェックを担います。
+*   **What happened**:
+    JavaScript版Tiny Agentsに触発され、Python版Tiny Agentが開発されました。`huggingface_hub`クライアントSDKがMCPクライアントとして拡張され、LLMがMCPサーバーからツールを動的に取得し、推論中に利用できるようになりました。
+*   **背景**:
+    LLMが外部ツールやAPIと連携する際のカスタム統合の複雑さを解消するため、MCPプロトコルが考案されました。MCPは、ツールのスキーマ定義、LLMへの提示、ツールの実行、結果のフィードバックといったプロセスを標準化します。
+*   **影響**:
+    開発者は、各ツールに対するカスタム統合を書くことなく、LLMに新しい機能を容易に追加できるようになりました。これにより、エージェントの構築が大幅に簡素化され、迅速なプロトタイピングとデプロイが可能になります。Hugging Face Hubのデータセットからエージェント設定を直接ロードできるなど、エコシステムとの連携も強化されています。
+*   **関係者**:
+    *   **Hugging Face**: `huggingface_hub` SDKの開発とMCPクライアント機能の統合。
+    *   **MCPプロトコル**: LLMとツールの連携を標準化するオープンプロトコル。
+    *   **LLMプロバイダー**: Qwen/Qwen2.5-72B-Instruct (Nebius Inference Provider経由) など、ツール呼び出しをサポートするLLMを提供。
+    *   **開発者/ユーザー**: Tiny Agentを構築・利用する個人や企業。
+*   **データ**:
+    *   **インストールコマンド**:
+        ```bash
+        pip install "huggingface_hub[mcp]>=0.32.0"
+        ```
+    *   **CLIコマンド**:
+        ```bash
+        tiny-agents run [PATH]
+        ```
+        `PATH`は、Hugging Face Hubの`tiny-agents/tiny-agents`データセット内のエージェント設定、またはローカルフォルダ内の`agent.json`ファイルを指定します。
+    *   **Agent設定例 (`agent.json`)**:
+        ```json
+        {
+            "model": "Qwen/Qwen2.5-72B-Instruct",
+            "provider": "nebius",
+            "servers": [
+                {
+                    "type": "stdio",
+                    "command": "npx",
+                    "args": ["@playwright/mcp@latest"]
+                }
+            ]
+        }
+        ```
+        `PROMPT.md`ファイルで詳細なシステムプロンプトを定義することも可能です。
+    *   **MCPClientの主要機能**:
+        *   非同期接続の管理
+        *   MCPサーバーからのツール発見
+        *   LLM向けツールフォーマット
+        *   正しいMCPサーバー経由でのツール実行
+    *   **Agentの構造**: `MCPClient`を継承し、会話管理ロジックを追加。`run()`メソッドがエージェントのコアとなる`while`ループを実装します。
 
 ## 引用（Notable quotes）
-
-*   "An Agent is essentially a while loop built right on top of an MCP Client!"
-*   "MCP (Model Context Protocol) is an open protocol that standardizes how Large Language Models (LLMs) interact with external tools and APIs. Essentially, it removed the need to write custom integrations for each tool, making it simpler to plug new capabilities into your LLMs."
+*   「An Agent is essentially a while loop built right on top of an MCP Client!」
+*   「MCP (Model Context Protocol) is an open protocol that standardizes how Large Language Models (LLMs) interact with external tools and APIs. Essentially, it removed the need to write custom integrations for each tool, making it simpler to plug new capabilities into your LLMs.」
 
 ## リスクと課題
-
-*   **ツール呼び出しパフォーマンスのばらつき**: LLMモデルや推論プロバイダーによってツール呼び出しのパフォーマンスが異なる可能性があり、各プロバイダーの最適化に依存します。
-*   **エージェントの複雑性**: エージェントのロジック自体はシンプルですが、利用するツールの種類や連携するMCPサーバーが増えるにつれて、全体的なシステム設計やデバッグの複雑さが増す可能性があります。
+*   **LLMとプロバイダーのパフォーマンス差異**: 異なるLLMモデルや推論プロバイダー間では、ツール呼び出しのパフォーマンスに差が生じる可能性があり、最適な選択にはベンチマークと評価が必要です。
+*   **ローカルLLM連携の複雑さ**: llama.cppやLM StudioなどのローカルLLM推論サーバーとの連携は可能ですが、設定や管理には一定の技術的知識が求められる場合があります。
+*   **ツールのセキュリティとサンドボックス化**: 外部ツールへのアクセスは強力な機能であるため、特にファイルシステムやウェブブラウザへのアクセスはセキュリティ上の考慮が必要です（例: Playwright MCPサーバーはサンドボックス化されたChromiumを使用）。
 
 ## 今後の見通し/アクション
-
-*   **ベンチマーク**: 異なるLLMモデルと推論プロバイダーがエージェントのパフォーマンスに与える影響をベンチマークし、最適な組み合わせを特定する。
-*   **ローカルLLMとの連携**: `llama.cpp`や`LM Studio`のようなローカルLLM推論サーバーとTiny Agentsを連携させる。
-*   **コミュニティ貢献**: Hugging Face Hubの`tiny-agents/tiny-agents`データセットに独自のTiny Agentを共有し、プルリクエストを通じてプロジェクトに貢献する。
+*   **パフォーマンスベンチマーク**: 異なるLLMモデルと推論プロバイダーがエージェントのパフォーマンスに与える影響を評価し、最適な構成を特定します。
+*   **ローカルLLM連携の強化**: llama.cppやLM StudioなどのローカルLLM推論サーバーとのTiny Agentの実行をさらに探求し、利用を促進します。
+*   **コミュニティ貢献の促進**: 開発者が独自のTiny Agentを開発し、Hugging Face Hubの`tiny-agents/tiny-agents`データセットにプルリクエストを送信することで、コミュニティによるエージェントの多様化と進化を促します。
+*   **AGENTS.md標準のサポート**: `tiny-agents`がAGENTS.md標準をサポートしたことで、エージェントの記述と共有がさらに標準化され、エコシステム全体の相互運用性が向上する見込みです。
 
 ## Source URL
 https://huggingface.co/blog/python-tiny-agents

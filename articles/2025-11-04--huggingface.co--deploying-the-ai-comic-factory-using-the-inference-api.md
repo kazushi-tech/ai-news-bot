@@ -1,6 +1,6 @@
 ---
 title: "Deploying the AI Comic Factory using the Inference API"
-title_ja: "AIコミック作成「AI Comic Factory」をInference APIで展開"
+title_ja: ""
 source_url: "https://huggingface.co/blog/ai-comic-factory"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

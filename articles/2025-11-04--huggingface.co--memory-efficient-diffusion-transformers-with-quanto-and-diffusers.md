@@ -1,6 +1,6 @@
 ---
 title: "Memory-efficient Diffusion Transformers with Quanto and Diffusers"
-title_ja: "拡散Transformer、QuantoとDiffusersで省メモリ化"
+title_ja: ""
 source_url: "https://huggingface.co/blog/quanto-diffusers"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

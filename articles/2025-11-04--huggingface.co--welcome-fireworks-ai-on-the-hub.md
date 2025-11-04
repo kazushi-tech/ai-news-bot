@@ -1,6 +1,6 @@
 ---
 title: "Welcome Fireworks.ai on the Hub 🎆"
-title_ja: "Fireworks.aiがHF Hubに参入 高速推論プロバイダーに"
+title_ja: ""
 source_url: "https://huggingface.co/blog/fireworks-ai"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

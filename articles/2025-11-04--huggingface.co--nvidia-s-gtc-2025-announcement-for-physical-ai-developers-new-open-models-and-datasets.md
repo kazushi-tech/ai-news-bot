@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets"
-title_ja: "NVIDIA、GTC 2025でPhysical AI開発加速へ新オープンモデル・データセット"
+title_ja: ""
 source_url: "https://huggingface.co/blog/nvidia-physical-ai"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

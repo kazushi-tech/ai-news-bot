@@ -1,6 +1,6 @@
 ---
 title: "Build AI on premise with Dell Enterprise Hub"
-title_ja: "デル、Dell Enterprise HubでオンプレミスAIを容易に構築"
+title_ja: ""
 source_url: "https://huggingface.co/blog/dell-enterprise-hub"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

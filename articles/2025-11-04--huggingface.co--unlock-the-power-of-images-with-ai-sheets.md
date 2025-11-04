@@ -1,6 +1,6 @@
 ---
 title: "Unlock the power of images with AI Sheets"
-title_ja: ""
+title_ja: "AI Sheets、画像データの潜在力をAIで解放"
 source_url: "https://huggingface.co/blog/aisheets-unlock-images"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

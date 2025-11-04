@@ -1,6 +1,6 @@
 ---
 title: "Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator"
-title_ja: "Intel® Gaudi® 2 AIアクセラレーター テキスト生成パイプライン構築術"
+title_ja: ""
 source_url: "https://huggingface.co/blog/textgen-pipe-gaudi"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

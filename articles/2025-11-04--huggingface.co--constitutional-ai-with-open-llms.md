@@ -1,6 +1,6 @@
 ---
 title: "Constitutional AI with Open LLMs"
-title_ja: "オープンLLMで憲法AI 自己評価・修正で安全なAIに"
+title_ja: ""
 source_url: "https://huggingface.co/blog/constitutional_ai"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

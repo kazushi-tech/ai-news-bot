@@ -1,6 +1,6 @@
 ---
 title: "Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon"
-title_ja: "Intel Gaudi 2とXeonで企業RAGアプリを高性能・低コスト構築"
+title_ja: ""
 source_url: "https://huggingface.co/blog/cost-efficient-rag-applications-with-intel"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

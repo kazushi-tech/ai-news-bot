@@ -1,6 +1,6 @@
 ---
 title: "Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality"
-title_ja: "AIの質はデータで決まる より良いAIへ品質重視"
+title_ja: ""
 source_url: "https://huggingface.co/blog/ethics-soc-6"
 date: "2025-11-04"
 model: "gemini-2.5-flash"
