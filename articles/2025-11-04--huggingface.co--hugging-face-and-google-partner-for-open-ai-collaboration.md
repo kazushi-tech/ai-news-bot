@@ -1,6 +1,6 @@
 ---
 title: "Hugging Face and Google partner for open AI collaboration"
-title_ja: ""
+title_ja: "Hugging FaceとGoogleが提携、オープンAIの発展加速へ"
 source_url: "https://huggingface.co/blog/gcp-partnership"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

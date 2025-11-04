@@ -1,6 +1,6 @@
 ---
 title: "MCP for Research: How to Connect AI to Research Tools"
-title_ja: ""
+title_ja: "MCPで研究にAI導入 論文探索ツールを自動連携"
 source_url: "https://huggingface.co/blog/mcp-for-research"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

@@ -1,6 +1,6 @@
 ---
 title: "Making thousands of open LLMs bloom in the Vertex AI Model Garden"
-title_ja: ""
+title_ja: "Vertex AI Model Garden、数千のオープンLLM活用を促進"
 source_url: "https://huggingface.co/blog/google-cloud-model-garden"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

@@ -1,6 +1,6 @@
 ---
 title: "4M Models Scanned: Protect AI + Hugging Face 6 Months In"
-title_ja: ""
+title_ja: "Protect AIとHugging Face、6カ月で400万AIモデルをスキャンし安全確保"
 source_url: "https://huggingface.co/blog/pai-6-month"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

@@ -1,6 +1,6 @@
 ---
 title: "Building an AI WebTV"
-title_ja: ""
+title_ja: "AI WebTV開発 テキストから動画・音楽を自動生成"
 source_url: "https://huggingface.co/blog/ai-webtv"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

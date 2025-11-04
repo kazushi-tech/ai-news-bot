@@ -1,6 +1,6 @@
 ---
 title: "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models"
-title_ja: ""
+title_ja: "Intel® Core™ UltraでQwen3-8B Agent高速化：Depth-Pruned Draft Models"
 source_url: "https://huggingface.co/blog/intel-qwen3-agent"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

@@ -1,6 +1,6 @@
 ---
 title: "AI Policy @🤗: Open ML Considerations in the EU AI Act"
-title_ja: ""
+title_ja: "🤗、EU AI ActへオープンML開発の必要性を提言"
 source_url: "https://huggingface.co/blog/eu-ai-act-oss"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

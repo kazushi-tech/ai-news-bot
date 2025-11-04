@@ -1,6 +1,6 @@
 ---
 title: "Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS"
-title_ja: ""
+title_ja: "Fetch、Hugging FaceとAWSでAIツール統合 開発時間30%短縮"
 source_url: "https://huggingface.co/blog/fetch-eap-case-study"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

@@ -1,6 +1,6 @@
 ---
 title: "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent"
-title_ja: ""
+title_ja: "JAT、多芸多才で一部に秀でた汎用Transformer AI"
 source_url: "https://huggingface.co/blog/jat"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

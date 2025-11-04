@@ -1,6 +1,6 @@
 ---
 title: "AI Policy @🤗: Response to the White House AI Action Plan RFI"
-title_ja: ""
+title_ja: "🤗、ホワイトハウスAI行動計画RFIに回答：AI政策でオープン性を提言"
 source_url: "https://huggingface.co/blog/ai-action-wh-2025"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

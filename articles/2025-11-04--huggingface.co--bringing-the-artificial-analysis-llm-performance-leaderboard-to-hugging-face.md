@@ -1,6 +1,6 @@
 ---
 title: "Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face"
-title_ja: ""
+title_ja: "Artificial AnalysisのLLM性能評価ボード、Hugging Faceに登場"
 source_url: "https://huggingface.co/blog/leaderboard-artificial-analysis"
 date: "2025-11-04"
 model: "gemini-2.5-flash"

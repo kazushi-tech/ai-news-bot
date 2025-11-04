@@ -1,6 +1,6 @@
 ---
 title: "CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard"
-title_ja: ""
+title_ja: "Open LLMリーダーボード、CO₂排出量とモデル性能を分析"
 source_url: "https://huggingface.co/blog/leaderboard-emissions-analysis"
 date: "2025-11-04"
 model: "gemini-2.5-flash"
