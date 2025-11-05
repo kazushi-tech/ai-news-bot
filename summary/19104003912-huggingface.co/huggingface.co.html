@@ -1,0 +1,149 @@
+<div id="readability-page-1" class="page"><div>
+					<p><a href="https://example.com/blog">
+							Back to Articles</a></p>
+
+					
+					
+					
+					<div data-target="BlogAuthorsByline" data-props="{&quot;authors&quot;:[{&quot;author&quot;:{&quot;_id&quot;:&quot;6141a88b3a0ec78603c9e784&quot;,&quot;avatarUrl&quot;:&quot;https://cdn-avatars.huggingface.co/v1/production/uploads/6141a88b3a0ec78603c9e784/DJsxSmWV39M33JFheLobC.jpeg&quot;,&quot;fullname&quot;:&quot;merve&quot;,&quot;name&quot;:&quot;merve&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:true,&quot;isHf&quot;:true,&quot;isHfAdmin&quot;:false,&quot;isMod&quot;:false,&quot;followerCount&quot;:9194}}],&quot;translators&quot;:[],&quot;proofreaders&quot;:[],&quot;lang&quot;:&quot;en&quot;}">
+
+<p><span><span><a href="https://example.com/merve"><img alt="merve's avatar" src="https://cdn-avatars.huggingface.co/v1/production/uploads/6141a88b3a0ec78603c9e784/DJsxSmWV39M33JFheLobC.jpeg"></a>
+				</span>
+	</span></p>
+			</div>
+					
+
+					<!-- HTML_TAG_START -->
+<div><nav aria-label="Secondary"><ul><li><a href="#brief-background-on-text-generation" title="Brief Background on Text Generation"><!-- HTML_TAG_START -->Brief Background on Text Generation<!-- HTML_TAG_END --></a>
+									<ul><li><a href="#models-created-with-love-by-hugging-face-with-bigscience-and-bigcode-💗" title="Models created with love by Hugging Face with BigScience and BigCode 💗"><!-- HTML_TAG_START -->Models created with love by Hugging Face with BigScience and BigCode 💗<!-- HTML_TAG_END --></a>
+												<ul></ul>
+											</li></ul>
+								</li><li><a href="#licensing" title="Licensing"><!-- HTML_TAG_START -->Licensing<!-- HTML_TAG_END --></a>
+									<ul></ul>
+								</li><li><a href="#tools-in-the-hugging-face-ecosystem-for-llm-serving" title="Tools in the Hugging Face Ecosystem for LLM Serving"><!-- HTML_TAG_START -->Tools in the Hugging Face Ecosystem for LLM Serving<!-- HTML_TAG_END --></a>
+									<ul><li><a href="#text-generation-inference" title="Text Generation Inference"><!-- HTML_TAG_START -->Text Generation Inference<!-- HTML_TAG_END --></a>
+												<ul></ul>
+											</li><li><a href="#how-to-find-the-best-model" title="How to find the best model?"><!-- HTML_TAG_START -->How to find the best model?<!-- HTML_TAG_END --></a>
+												<ul></ul>
+											</li></ul>
+								</li><li><a href="#parameter-efficient-fine-tuning-peft" title="Parameter Efficient Fine Tuning (PEFT)"><!-- HTML_TAG_START -->Parameter Efficient Fine Tuning (PEFT)<!-- HTML_TAG_END --></a>
+									<ul></ul>
+								</li></ul></nav></div><p>[Updated on July 24, 2023: Added Llama 2.]</p>
+<p>Text generation and conversational technologies have been around for ages. Earlier challenges in working with these technologies were controlling both the coherence and diversity of the text through inference parameters and discriminative biases. More coherent outputs were less creative and closer to the original training data and sounded less human. Recent developments overcame these challenges, and user-friendly UIs enabled everyone to try these models out. Services like ChatGPT have recently put the spotlight on powerful models like GPT-4 and caused an explosion of open-source alternatives like Llama to go mainstream. We think these technologies will be around for a long time and become more and more integrated into everyday products. </p>
+<p>This post is divided into the following sections:</p>
+<ol>
+<li><a href="#brief-background-on-text-generation">Brief background on text generation</a></li>
+<li><a href="#licensing">Licensing</a></li>
+<li><a href="#tools-in-the-hugging-face-ecosystem-for-llm-serving">Tools in the Hugging Face Ecosystem for LLM Serving</a></li>
+<li><a href="#parameter-efficient-fine-tuning-peft">Parameter Efficient Fine Tuning (PEFT)</a></li>
+</ol>
+<h2>
+	<a id="brief-background-on-text-generation" href="#brief-background-on-text-generation">
+		<span></span>
+	</a>
+	<span>
+		Brief Background on Text Generation
+	</span>
+</h2>
+<p>Text generation models are essentially trained with the objective of completing an incomplete text or generating text from scratch as a response to a given instruction or question. Models that complete incomplete text are called Causal Language Models, and famous examples are GPT-3 by OpenAI and <a href="https://ai.meta.com/blog/large-language-model-Llama-meta-ai/">Llama</a> by Meta AI. </p>
+<p><a href="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/os_llms/text_generation.png" rel="nofollow"><img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/os_llms/text_generation.png" alt="Causal LM Output"></a></p>
+<p>One concept you need to know before we move on is fine-tuning. This is the process of taking a very large model and transferring the knowledge contained in this base model to another use case, which we call <em>a downstream task</em>. These tasks can come in the form of instructions. As the model size grows, it can generalize better to instructions that do not exist in the pre-training data, but were learned during fine-tuning.</p>
+<p>Causal language models are adapted using a process called reinforcement learning from human feedback (RLHF). This optimization is mainly made over how natural and coherent the text sounds rather than the validity of the answer. Explaining how RLHF works is outside the scope of this blog post, but you can find more information about this process <a href="https://huggingface.co/blog/rlhf">here</a>.</p>
+<p>For example, GPT-3 is a causal language <em>base</em> model, while the models in the backend of ChatGPT (which is the UI for GPT-series models) are fine-tuned through RLHF on prompts that can consist of conversations or instructions. It’s an important distinction to make between these models. </p>
+<p>On the Hugging Face Hub, you can find both causal language models and causal language models fine-tuned on instructions (which we’ll give links to later in this blog post). Llama is one of the first open-source LLMs to have outperformed/matched closed-source ones. A research group led by Together has created a reproduction of Llama's dataset, called Red Pajama, and trained LLMs and instruction fine-tuned models on it. You can read more about it <a href="https://www.together.xyz/blog/redpajama">here</a> and find <a href="https://huggingface.co/models?sort=trending&amp;search=togethercomputer%2Fredpajama">the model checkpoints on Hugging Face Hub</a>. By the time this blog post is written, three of the largest causal language models with open-source licenses are <a href="https://huggingface.co/mosaicml/mpt-30b">MPT-30B by MosaicML</a>, <a href="https://huggingface.co/Salesforce/xgen-7b-8k-base">XGen by Salesforce</a> and <a href="https://huggingface.co/tiiuae/falcon-40b">Falcon by TII UAE</a>, available completely open on Hugging Face Hub.
+Recently, Meta released <a href="https://ai.meta.com/Llama/">Llama 2</a>, an open-access model with a license that allows commercial use. As of now, Llama 2 outperforms all of the other open-source large language models on different benchmarks. <a href="https://huggingface.co/meta-Llama">Llama 2 checkpoints on Hugging Face Hub</a> are compatible with transformers, and the largest checkpoint is available for everyone to try at <a href="https://huggingface.co/chat/">HuggingChat</a>. You can read more about how to fine-tune, deploy and prompt with Llama 2 in <a href="https://huggingface.co/blog/llama2">this blog post</a>.</p>
+<p>The second type of text generation model is commonly referred to as the text-to-text generation model. These models are trained on text pairs, which can be questions and answers or instructions and responses. The most popular ones are T5 and BART (which, as of now, aren’t state-of-the-art). Google has recently released the FLAN-T5 series of models. FLAN is a recent technique developed for instruction fine-tuning, and FLAN-T5 is essentially T5 fine-tuned using FLAN. As of now, the FLAN-T5 series of models are state-of-the-art and open-source, available on the <a href="https://huggingface.co/models?search=google/flan">Hugging Face Hub</a>. Note that these are different from instruction-tuned causal language models, although the input-output format might seem similar. Below you can see an illustration of how these models work.</p>
+<p><a href="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/os_llms/flan_t5.png" rel="nofollow"><img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/os_llms/flan_t5.png" alt="FLAN-T5 Illustration"></a></p>
+<p>Having more variation of open-source text generation models enables companies to keep their data private, to adapt models to their domains faster, and to cut costs for inference instead of relying on closed paid APIs. All open-source causal language models on Hugging Face Hub can be found <a href="https://huggingface.co/models?pipeline_tag=text-generation">here</a>, and text-to-text generation models can be found <a href="https://huggingface.co/models?pipeline_tag=text2text-generation&amp;sort=trending">here</a>.</p>
+<h3>
+	<a id="models-created-with-love-by-hugging-face-with-bigscience-and-bigcode-💗" href="#models-created-with-love-by-hugging-face-with-bigscience-and-bigcode-💗">
+		<span></span>
+	</a>
+	<span>
+		Models created with love by Hugging Face with BigScience and BigCode 💗
+	</span>
+</h3>
+<p>Hugging Face has co-led two science initiatives, BigScience and BigCode. As a result of them, two large language models were created, <a href="https://huggingface.co/bigscience/bloom">BLOOM</a> 🌸 and <a href="https://huggingface.co/bigcode/starcoder">StarCoder</a> 🌟. 
+BLOOM is a causal language model trained on 46 languages and 13 programming languages. It is the first open-source model to have more parameters than GPT-3. You can find all the available checkpoints in the <a href="https://huggingface.co/docs/transformers/model_doc/bloom">BLOOM documentation</a>.</p>
+<p>StarCoder is a language model trained on permissive code from GitHub (with 80+ programming languages 🤯) with a Fill-in-the-Middle objective. It’s not fine-tuned on instructions, and thus, it serves more as a coding assistant to complete a given code, e.g., translate Python to C++, explain concepts (what’s recursion), or act as a terminal. You can try all of the StarCoder checkpoints <a href="https://huggingface.co/spaces/bigcode/bigcode-playground">in this application</a>. It also comes with a <a href="https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode">VSCode extension</a>.</p>
+<p>Snippets to use all models mentioned in this blog post are given in either the model repository or the documentation page of that model type in Hugging Face.</p>
+<h2>
+	<a id="licensing" href="#licensing">
+		<span></span>
+	</a>
+	<span>
+		Licensing
+	</span>
+</h2>
+<p>Many text generation models are either closed-source or the license limits commercial use. Fortunately, open-source alternatives are starting to appear and being embraced by the community as building blocks for further development, fine-tuning, or integration with other projects. Below you can find a list of some of the large causal language models with fully open-source licenses:</p>
+<ul>
+<li><a href="https://huggingface.co/tiiuae/falcon-40b">Falcon 40B</a></li>
+<li><a href="https://huggingface.co/tiiuae/falcon-40b">XGen</a></li>
+<li><a href="https://huggingface.co/mosaicml/mpt-30b">MPT-30B</a></li>
+<li><a href="https://huggingface.co/EleutherAI/pythia-12b">Pythia-12B</a></li>
+<li><a href="https://huggingface.co/togethercomputer/RedPajama-INCITE-7B-Base">RedPajama-INCITE-7B</a></li>
+<li><a href="https://huggingface.co/OpenAssistant/falcon-40b-sft-mix-1226">OpenAssistant (Falcon variant)</a></li>
+</ul>
+<p>There are two code generation models, <a href="https://huggingface.co/models?sort=trending&amp;search=bigcode%2Fstarcoder">StarCoder by BigCode</a> and <a href="https://huggingface.co/models?sort=trending&amp;search=salesforce%2Fcodegen">Codegen by Salesforce</a>. There are model checkpoints in different sizes and open-source or <a href="https://huggingface.co/blog/open_rail">open RAIL</a> licenses for both, except for <a href="https://huggingface.co/Salesforce/codegen25-7b-instruct">Codegen fine-tuned on instruction</a>.</p>
+<p>The Hugging Face Hub also hosts various models fine-tuned for instruction or chat use. They come in various styles and sizes depending on your needs.</p>
+<ul>
+<li><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-Chat</a>, by Mosaic ML, uses the CC-BY-NC-SA license, which does not allow commercial use. However, <a href="https://huggingface.co/mosaicml/mpt-30b-instruct">MPT-30B-Instruct</a> uses CC-BY-SA 3.0, which can be used commercially.</li>
+<li><a href="https://huggingface.co/tiiuae/falcon-40b-instruct">Falcon-40B-Instruct</a> and <a href="https://huggingface.co/tiiuae/falcon-7b-instruct">Falcon-7B-Instruct</a> both use the Apache 2.0 license, so commercial use is also permitted.</li>
+<li>Another popular family of models is OpenAssistant, some of which are built on Meta's Llama model using a custom instruction-tuning dataset. Since the original Llama model can only be used for research, the OpenAssistant checkpoints built on Llama don’t have full open-source licenses. However, there are OpenAssistant models built on open-source models like <a href="https://huggingface.co/models?search=openassistant/falcon">Falcon</a> or <a href="https://huggingface.co/models?search=openassistant/pythia">pythia</a> that use permissive licenses.</li>
+<li><a href="https://huggingface.co/HuggingFaceH4/starchat-beta">StarChat Beta</a> is the instruction fine-tuned version of StarCoder, and has BigCode Open RAIL-M v1 license, which allows commercial use. Instruction-tuned coding model of Salesforce, <a href="https://huggingface.co/Salesforce/xgen-7b-8k-inst">XGen model</a>, only allows research use.</li>
+</ul>
+<p>If you're looking to fine-tune a model on an existing instruction dataset, you need to know how a dataset was compiled. Some of the existing instruction datasets are either crowd-sourced or use outputs of existing models (e.g., the models behind ChatGPT). <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">ALPACA</a> dataset created by Stanford is created through the outputs of models behind ChatGPT. Moreover, there are various crowd-sourced instruction datasets with open-source licenses, like <a href="https://huggingface.co/datasets/OpenAssistant/oasst1">oasst1</a> (created by thousands of people voluntarily!) or <a href="https://huggingface.co/datasets/databricks/databricks-dolly-15k">databricks/databricks-dolly-15k</a>. If you'd like to create a dataset yourself, you can check out <a href="https://huggingface.co/datasets/databricks/databricks-dolly-15k#sources">the dataset card of Dolly</a> on how to create an instruction dataset. Models fine-tuned on these datasets can be distributed. </p>
+<p>You can find a comprehensive table of some open-source/open-access models below. </p>
+
+<h2>
+	<a id="tools-in-the-hugging-face-ecosystem-for-llm-serving" href="#tools-in-the-hugging-face-ecosystem-for-llm-serving">
+		<span></span>
+	</a>
+	<span>
+		Tools in the Hugging Face Ecosystem for LLM Serving
+	</span>
+</h2>
+<h3>
+	<a id="text-generation-inference" href="#text-generation-inference">
+		<span></span>
+	</a>
+	<span>
+		Text Generation Inference
+	</span>
+</h3>
+<p>Response time and latency for concurrent users are a big challenge for serving these large models. To tackle this problem, Hugging Face has released <a href="https://github.com/huggingface/text-generation-inference">text-generation-inference</a> (TGI), an open-source serving solution for large language models built on Rust, Python, and gRPc. TGI is integrated into inference solutions of Hugging Face, <a href="https://huggingface.co/inference-endpoints">Inference Endpoints</a>, and <a href="https://huggingface.co/inference-api">Inference API</a>, so you can directly create an endpoint with optimized inference with few clicks, or simply send a request to Hugging Face's Inference API to benefit from it, instead of integrating TGI to your platform. </p>
+<p><a href="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/os_llms/huggingchat_ui.png" rel="nofollow"><img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/os_llms/huggingchat_ui.png" alt="Screenshot from HuggingChat"></a></p>
+<p>TGI currently powers <a href="https://huggingface.co/chat/">HuggingChat</a>, Hugging Face's open-source chat UI for LLMs. This service currently uses one of OpenAssistant's models as the backend model. You can chat as much as you want with HuggingChat and enable the Web search feature for responses that use elements from current Web pages. You can also give feedback to each response for model authors to train better models. The UI of HuggingChat is also <a href="https://github.com/huggingface/chat-ui">open-sourced</a>, and we are working on more features for HuggingChat to allow more functions, like generating images inside the chat. </p>
+<p><a href="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/os_llms/huggingchat_web.png" rel="nofollow"><img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/os_llms/huggingchat_web.png" alt="HuggingChat Search"></a></p>
+<p>Recently, a Docker template for HuggingChat was released for Hugging Face Spaces. This allows anyone to deploy their instance based on a large language model with only a few clicks and customize it. You can create your large language model instance <a href="https://huggingface.co/new-space?template=huggingchat/chat-ui-template">here</a> based on various LLMs, including Llama 2.</p>
+<p><a href="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/os_llms/docker_chat.png" rel="nofollow"><img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/os_llms/docker_chat.png" alt="HuggingChat Space"></a></p>
+<h3>
+	<a id="how-to-find-the-best-model" href="#how-to-find-the-best-model">
+		<span></span>
+	</a>
+	<span>
+		How to find the best model?
+	</span>
+</h3>
+<p>Hugging Face hosts an <a href="https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard">LLM leaderboard</a>. This leaderboard is created by evaluating community-submitted models on text generation benchmarks on Hugging Face’s clusters. If you can’t find the language or domain you’re looking for, you can filter them <a href="https://huggingface.co/models?pipeline_tag=text-generation&amp;sort=downloads">here</a>.</p>
+<p><a href="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/os_llms/LLM_leaderboard.png" rel="nofollow"><img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/os_llms/LLM_leaderboard.png" alt="Open LLM Leaderboard"></a></p>
+<p>You can also check out the <a href="https://huggingface.co/spaces/optimum/llm-perf-leaderboard">LLM Performance leaderboard</a>, which aims to evaluate the latency and throughput of large language models available on Hugging Face Hub.</p>
+<h2>
+	<a id="parameter-efficient-fine-tuning-peft" href="#parameter-efficient-fine-tuning-peft">
+		<span></span>
+	</a>
+	<span>
+		Parameter Efficient Fine Tuning (PEFT)
+	</span>
+</h2>
+<p>If you’d like to fine-tune one of the existing large models on your instruction dataset, it is nearly impossible to do so on consumer hardware and later deploy them (since the instruction models are the same size as the original checkpoints that are used for fine-tuning). <a href="https://huggingface.co/docs/peft/index">PEFT</a> is a library that allows you to do parameter-efficient fine-tuning techniques. This means that rather than training the whole model, you can train a very small number of additional parameters, enabling much faster training with very little performance degradation. With PEFT, you can do low-rank adaptation (LoRA), prefix tuning, prompt tuning, and p-tuning.</p>
+<p>You can check out further resources for more information on text generation.</p>
+<p><strong>Further Resources</strong></p>
+<ul>
+<li>Together with AWS we released TGI-based LLM deployment deep learning containers called LLM Inference Containers. Read about them <a href="https://aws.amazon.com/tr/blogs/machine-learning/announcing-the-launch-of-new-hugging-face-llm-inference-containers-on-amazon-sagemaker/">here</a>.</li>
+<li><a href="https://huggingface.co/tasks/text-generation">Text Generation task page</a> to find out more about the task itself.</li>
+<li>PEFT announcement <a href="https://huggingface.co/blog/peft">blog post</a>.</li>
+<li>Read about how Inference Endpoints use TGI <a href="https://huggingface.co/blog/inference-endpoints-llm">here</a>.</li>
+<li>Read about how to fine-tune Llama 2 transformers and PEFT, and prompt <a href="https://huggingface.co/blog/llama2">here</a>.</li>
+</ul>
+<!-- HTML_TAG_END --></div></div>

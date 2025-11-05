@@ -1,6 +1,6 @@
 ---
 title: "Open-source LLMs as LangChain Agents"
-title_ja: ""
+title_ja: "オープンソースLLMがLangChainエージェントに MixtralがGPT-3.5超え"
 source_url: "https://huggingface.co/blog/open-source-llms-as-agents"
 date: "2025-11-05"
 model: "gemini-2.5-flash"
