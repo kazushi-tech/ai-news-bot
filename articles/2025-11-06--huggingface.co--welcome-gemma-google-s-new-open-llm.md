@@ -1,6 +1,6 @@
 ---
 title: "Welcome Gemma - Google’s new open LLM"
-title_ja: ""
+title_ja: "Google、新オープンLLM「Gemma」登場"
 source_url: "https://huggingface.co/blog/gemma"
 date: "2025-11-06"
 model: "gemini-2.5-flash"
