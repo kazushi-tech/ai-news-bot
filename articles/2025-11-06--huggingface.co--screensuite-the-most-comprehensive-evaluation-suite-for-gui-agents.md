@@ -1,11 +1,27 @@
 ---
-title: "ScreenSuite - The most comprehensive evaluation suite for GUI Agents!"
-title_ja: "ScreenSuite、GUIエージェント向け総合評価スイート発表"
-source_url: "https://huggingface.co/blog/screensuite"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: ScreenSuite - The most comprehensive evaluation suite for GUI Agents!
+title_ja: ScreenSuite、GUIエージェント向け総合評価スイート発表
+source_url: 'https://huggingface.co/blog/screensuite'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging
+    Faceは、GUIエージェントの性能を評価するための最も包括的なベンチマークスイート「ScreenSuite」をリリースしました。これは、GUIエージェントをよりオープンでアクセスしやすく、統合しやすいものにするための取り組
+  - '- ## 重要ポイント'
+  - >-
+    - *   **GUIエージェントの定義**:
+    仮想世界で行動するAIエージェントで、デスクトップやスマートフォン上でクリック、入力、ナビゲーションなどの操作を行うことができます。
+  - >-
+    - *   **ScreenSuiteの目的**:
+    GUIエージェントの評価を標準化し、コミュニティがモデルの性能を比較・改善できるようにすることで、この分野の進歩を加速させます。
+  - >-
+    - *   **包括的な評価**:
+    知覚、グラウンディング、単一ステップアクション、複数ステップエージェント能力を網羅する13のベンチマークを統合しています。
 ---
 ## 概要 (TL;DR)
 

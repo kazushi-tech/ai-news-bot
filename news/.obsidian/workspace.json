@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/2025-11-03.md",
-                "mode": "source",
+                "file": "index-weekly.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-03"
+              "title": "index-weekly"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/2025-11-03.md",
+                "file": "index-weekly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-11-03へのバックリンク"
+              "title": "index-weeklyへのバックリンク"
             }
           },
           {
@@ -226,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/2025-11-03.md",
+                "file": "index-weekly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-11-03からのアウトゴーイングリンク"
+              "title": "index-weeklyからのアウトゴーイングリンク"
             }
           },
           {
@@ -255,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/2025-11-03.md",
+                "file": "index-weekly.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-03のアウトライン"
+              "title": "index-weeklyのアウトライン"
             }
           }
         ]
@@ -283,23 +283,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34537ffc16288a5d",
+  "active": "8b378122ca70c766",
   "lastOpenFiles": [
-    "daily/2025-11-03--AI-news.md",
-    "daily/2025-11-02--AI-news.md",
-    "weekly/2025-11-03.md",
+    "index.md.md",
+    "weekly/2025-11-05.md",
     "weekly/2025-11-02.md",
+    "daily/2025-11-04--AI-news.md",
+    "daily/2025-11-05--AI-news.md",
+    "weekly/2025-11-04.md",
+    "2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
     "conflict-files-obsidian-git.md",
+    "daily/2025-11-03--AI-news.md",
+    "weekly/2025-11-03.md",
     "index.md",
+    "index-weekly.md",
+    "daily/2025-11-02--AI-news.md",
     "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
     "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
-    "2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
     "articles",
     "無題のファイル.md",
     "templates/article.md.md",
     "templates/article-tp.md.md",
-    "templates",
-    "index-weekly.md",
-    "index.md.md"
+    "templates"
   ]
 }

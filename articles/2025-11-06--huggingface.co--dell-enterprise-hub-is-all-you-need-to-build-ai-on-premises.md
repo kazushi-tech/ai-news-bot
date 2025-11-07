@@ -1,11 +1,27 @@
 ---
-title: "Dell Enterprise Hub is all you need to build AI on premises"
-title_ja: "Dell Enterprise Hub、オンプレミスAI構築の全てをこれ一つで"
-source_url: "https://huggingface.co/blog/dell-ai-applications"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: Dell Enterprise Hub is all you need to build AI on premises
+title_ja: Dell Enterprise Hub、オンプレミスAI構築の全てをこれ一つで
+source_url: 'https://huggingface.co/blog/dell-ai-applications'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Dellは「Dell Tech World」にて、オンプレミスAIの構築・展開を大幅に簡素化する「Dell Enterprise
+    Hub」の最新版を発表しました。このハブは、Dell AIサーバーとAI PCの両方に対応し、主要なAIモデル
+  - '- ## 重要ポイント'
+  - >-
+    - *   **Dell Enterprise Hubの機能拡張**: Dell Tech
+    Worldで、オンプレミスAI構築のための包括的なソリューションとして新バージョンを発表。
+  - >-
+    - *   **最適化済みAIモデル提供**: Meta Llama 4 Maverick、DeepSeek R1、Google Gemma
+    3などの人気モデルを、Dell AI Server Platforms向けに最適化されたコンテナとして
+  - >-
+    - *   **AIアプリケーションカタログ**:
+    OpenWebUIやAnythingLLMといったすぐにデプロイ可能なAIアプリケーションを提供し、オンプレミスでのチャットボットやエージェントシステムの構築を容易に。
 ---
 ## 概要 (TL;DR)
 Dellは「Dell Tech World」にて、オンプレミスAIの構築・展開を大幅に簡素化する「Dell Enterprise Hub」の最新版を発表しました。このハブは、Dell AIサーバーとAI PCの両方に対応し、主要なAIモデル、すぐにデプロイ可能なAIアプリケーション、NVIDIA/AMD/Intelの最新アクセラレータへの最適化、そしてCLI/Python SDKを提供することで、企業がセキュアな環境で生成AIを迅速に導入できるよう支援します。

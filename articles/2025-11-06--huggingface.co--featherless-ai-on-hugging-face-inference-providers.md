@@ -1,11 +1,25 @@
 ---
-title: "Featherless AI on Hugging Face Inference Providers 🔥"
-title_ja: "Hugging Face推論プロバイダーにFeatherless AI参入 サーバーレスAI強化"
-source_url: "https://huggingface.co/blog/inference-providers-featherless"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: "Featherless AI on Hugging Face Inference Providers \U0001F525"
+title_ja: Hugging Face推論プロバイダーにFeatherless AI参入 サーバーレスAI強化
+source_url: 'https://huggingface.co/blog/inference-providers-featherless'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging Faceは、Featherless AIを新たなInference ProviderとしてHugging Face
+    Hubに統合しました。これにより、ユーザーはサーバーレス価格でDeepSeek、Meta、Googleなどの
+  - '- ## 重要ポイント'
+  - >-
+    - *   **Featherless AIの統合**: Featherless AIがHugging Face HubのInference
+    Providerエコシステムに加わりました。
+  - >-
+    - *   **広範なモデルサポート**:
+    DeepSeek、Meta、Google、Qwenなど、最新のオープンソースモデルを含む多様なテキストおよび会話モデルをサポートします。
+  - '- *   **サーバーレス価格と広範なモデル**: サーバー管理なしで、比類ないモデル範囲と多様性をサーバーレス価格で提供します。'
 ---
 ## 概要 (TL;DR)
 Hugging Faceは、Featherless AIを新たなInference ProviderとしてHugging Face Hubに統合しました。これにより、ユーザーはサーバーレス価格でDeepSeek、Meta、Googleなどの広範なAIモデルにアクセスできるようになり、Hugging FaceのUIやクライアントSDKsを通じて簡単に利用できます。

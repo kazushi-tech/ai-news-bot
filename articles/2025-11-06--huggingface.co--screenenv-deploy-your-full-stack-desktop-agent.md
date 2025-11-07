@@ -1,11 +1,27 @@
 ---
-title: "ScreenEnv: Deploy your full stack Desktop Agent"
-title_ja: "ScreenEnv、フルスタックデスクトップAIエージェントをDockerで簡単展開"
-source_url: "https://huggingface.co/blog/screenenv"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'ScreenEnv: Deploy your full stack Desktop Agent'
+title_ja: ScreenEnv、フルスタックデスクトップAIエージェントをDockerで簡単展開
+source_url: 'https://huggingface.co/blog/screenenv'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    -
+    ScreenEnvは、Dockerコンテナ内で隔離されたUbuntuデスクトップ環境を構築するための強力なPythonライブラリです。これにより、GUIエージェント（デスクトップエージェント）のテストとデプロイが可能になります。Model 
+  - '- ## 重要ポイント'
+  - >-
+    - *   **フルデスクトップ制御**:
+    マウス・キーボード操作、ウィンドウ管理、アプリケーション起動、ファイル操作、ターミナルアクセス、セッション録画など、デスクトップ環境全体をコードから完全に制御できます。
+  - >-
+    - *   **デュアル統合モード**: AIシステム向けのModel Context Protocol (MCP)
+    と、既存のバックエンドやカスタムエージェント向けのDirect Sandbox APIの2つの統合アプローチをサポートします。
+  - >-
+    - *   **Dockerネイティブ**:
+    複雑なVM設定が不要で、Dockerコンテナ内で隔離された再現性の高い環境を10秒未満でデプロイ可能。AMD64およびARM64アーキテクチャに対応しています。
 ---
 ## 概要 (TL;DR)
 

@@ -1,11 +1,25 @@
 ---
-title: "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face"
-title_ja: "Google Cloud C4、Intel・Hugging FaceがGPT OSSのTCOを70%削減"
-source_url: "https://huggingface.co/blog/gpt-oss-on-intel-xeon"
-date: "2025-11-03"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: >-
+  Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging
+  Face
+title_ja: Google Cloud C4、Intel・Hugging FaceがGPT OSSのTCOを70%削減
+source_url: 'https://huggingface.co/blog/gpt-oss-on-intel-xeon'
+date: '2025-11-03'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Google Cloud C4 VM（Intel Xeon 6プロセッサ搭載）が、前世代のC3 VM（4th Gen Intel
+    Xeonプロセッサ搭載）と比較して、OpenAI GPT OSS大規模言語モデル（LLM）のテキスト生成におい
+  - '- ## 重要ポイント'
+  - >-
+    - *   **TCOの劇的な改善:** Google Cloud C4 VMは、GPT OSS LLMの推論において、前世代のC3
+    VMと比較してTCOを最大1.7倍改善。
+  - '- *   **性能向上:** C4 VMは、vCPUあたりのスループットでC3 VMを1.4倍から1.7倍上回る性能を発揮。'
+  - '- *   **コスト効率:** C4 VMはC3 VMよりも時間あたりの価格が低く、同等の生成トークン量に対して必要な費用が大幅に削減される。'
 ---
 ## 概要 (TL;DR)
 Google Cloud C4 VM（Intel Xeon 6プロセッサ搭載）が、前世代のC3 VM（4th Gen Intel Xeonプロセッサ搭載）と比較して、OpenAI GPT OSS大規模言語モデル（LLM）のテキスト生成において、総所有コスト（TCO）を最大1.7倍改善し、性能とコスト効率を大幅に向上させた。IntelとHugging Faceの共同によるフレームワーク最適化がこの成果に貢献している。

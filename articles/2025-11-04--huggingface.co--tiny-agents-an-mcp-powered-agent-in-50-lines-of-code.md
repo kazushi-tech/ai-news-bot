@@ -1,11 +1,28 @@
 ---
-title: "Tiny Agents: an MCP-powered agent in 50 lines of code"
-title_ja: "わずか50行！MCP搭載「Tiny Agents」AIエージェント"
-source_url: "https://huggingface.co/blog/tiny-agents"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'Tiny Agents: an MCP-powered agent in 50 lines of code'
+title_ja: わずか50行！MCP搭載「Tiny Agents」AIエージェント
+source_url: 'https://huggingface.co/blog/tiny-agents'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging Faceは、MCP (Model Context Protocol)
+    を活用し、わずか50行のTypeScriptコードで動作するシンプルなエージェント「Tiny
+    Agents」を実装・公開しました。MCPはLLMにツールセ
+  - '- ## 重要ポイント'
+  - >-
+    - *   **MCP (Model Context Protocol) の定義**:
+    LLMにツールセットを公開するための標準APIであり、シンプルながら強力です。
+  - >-
+    - *   **エージェントの簡素化**:
+    MCPクライアントがあれば、エージェントはLLM推論クライアントとツールセットを組み合わせた「単なる`while`ループ」として実装可能。
+  - >-
+    - *   **コードの簡潔さ**: Hugging FaceのTypeScript SDK (`@huggingface/inference`)
+    をベースに、わずか50行のコードでエージェントを実現。
 ---
 ## 概要 (TL;DR)
 

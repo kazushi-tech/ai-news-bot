@@ -1,11 +1,24 @@
 ---
-title: "Democratizing AI Safety with RiskRubric.ai"
-title_ja: "AI安全評価を普及 RiskRubric.aiがモデルリスクを標準化"
-source_url: "https://huggingface.co/blog/riskrubric"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: Democratizing AI Safety with RiskRubric.ai
+title_ja: AI安全評価を普及 RiskRubric.aiがモデルリスクを標準化
+source_url: 'https://huggingface.co/blog/riskrubric'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging
+    Faceは、AIモデルの安全性とセキュリティを標準化された方法で評価する新イニシアチブ「RiskRubric.ai」を発表しました。Cloud
+    Security AllianceとNoma Securityが主導し、透明性、
+  - '- ## 重要ポイント'
+  - '- *   AIモデルの安全性・セキュリティ評価を標準化し、民主化することを目的とした「RiskRubric.ai」が立ち上げられました。'
+  - '- *   RiskRubric.aiは、透明性、信頼性、セキュリティ、プライバシー、安全性、評判の6つの柱でモデルを評価します。'
+  - >-
+    - *   評価はNoma
+    Securityの機能を利用して自動化され、1,000以上の信頼性テスト、200以上の敵対的セキュリティプローブ、コードスキャンなどが含まれます。
 ---
 ## 概要 (TL;DR)
 Hugging Faceは、AIモデルの安全性とセキュリティを標準化された方法で評価する新イニシアチブ「RiskRubric.ai」を発表しました。Cloud Security AllianceとNoma Securityが主導し、透明性、信頼性、セキュリティ、プライバシー、安全性、評判の6つの柱でモデルを評価し、リスクスコアとグレードを提供します。これにより、オープンモデルエコシステムにおける信頼構築と安全性向上が目指されます。

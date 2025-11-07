@@ -1,11 +1,25 @@
 ---
-title: "Smol2Operator: Post-Training GUI Agents for Computer Use"
-title_ja: "Smol2Operator、訓練済みAIがGUI操作エージェントに進化"
-source_url: "https://huggingface.co/blog/smol2operator"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'Smol2Operator: Post-Training GUI Agents for Computer Use'
+title_ja: Smol2Operator、訓練済みAIがGUI操作エージェントに進化
+source_url: 'https://huggingface.co/blog/smol2operator'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '# Smol2Operator: GUIエージェントのための訓練アプローチ'
+key_points:
+  - '- ## 概要 (TL;DR)'
+  - >-
+    - 本研究は、軽量なVision-Language Model (VLM)
+    がGUIに根ざしたスキルを習得し、エージェント的なGUIコーダーへと進化する過程を示しています。完全な再現性とさらなる研究を促進するため、全ての訓練レシピ、データ処理ツ
+  - '- ## 重要ポイント'
+  - >-
+    - *   **GUI自動化のブレークスルー**: 軽量VLM (SmolVLM2-2.2B-Instruct)
+    をGUIエージェントに進化させるための包括的な2段階訓練アプローチ「Smol2Operator」を提示。
+  - >-
+    - *   **統一されたアクション空間**:
+    複数のGUI自動化データセットに存在するアクション表現の不統一を解消するため、データ変換パイプラインを構築し、統一されたアクション空間を作成。
 ---
 # Smol2Operator: GUIエージェントのための訓練アプローチ
 

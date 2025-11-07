@@ -1,11 +1,23 @@
 ---
-title: "Back to The Future: Evaluating AI Agents on Predicting Future Events"
-title_ja: "バック・トゥ・ザ・フューチャー：AIエージェントの未来予測能力を評価"
-source_url: "https://huggingface.co/blog/futurebench"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'Back to The Future: Evaluating AI Agents on Predicting Future Events'
+title_ja: バック・トゥ・ザ・フューチャー：AIエージェントの未来予測能力を評価
+source_url: 'https://huggingface.co/blog/futurebench'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging
+    Faceは、AIエージェントの未来予測能力を評価する新しいベンチマーク「FutureBench」を発表しました。これは、既存のAIベンチマークが過去の知識に焦点を当て、データ汚染や「リーダーボードのゲーミング」といった課題を
+  - '- ## 重要ポイント'
+  - >-
+    - *   **未来予測の重要性**:
+    AIの真の価値とAGIへの道は、過去の事実を暗記するのではなく、過去の情報から未来を予測する能力によって示されると提唱。
+  - '- *   **データ汚染の排除**: 未来の出来事を予測するため、まだ存在しないデータでの訓練が不可能であり、データ汚染の問題を根本的に解決。'
+  - '- *   **客観的検証可能性**: 予測結果は未来の出来事によって客観的に検証され、モデル性能のタイムスタンプ付き測定が可能。'
 ---
 ## 概要 (TL;DR)
 

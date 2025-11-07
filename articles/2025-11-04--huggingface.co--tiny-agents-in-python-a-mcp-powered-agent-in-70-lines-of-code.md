@@ -1,11 +1,27 @@
 ---
-title: "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code"
-title_ja: "Python版Tiny Agents、MCP対応エージェントを70行で構築"
-source_url: "https://huggingface.co/blog/python-tiny-agents"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'Tiny Agents in Python: a MCP-powered agent in ~70 lines of code'
+title_ja: Python版Tiny Agents、MCP対応エージェントを70行で構築
+source_url: 'https://huggingface.co/blog/python-tiny-agents'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging Faceは、JavaScript版に続き、PythonでMCP (Model Context Protocol)
+    を活用した「Tiny Agents」を発表しました。`huggingface_hub`クライアントSDKをMC
+  - '- ## 重要ポイント'
+  - >-
+    - *   **MCP (Model Context Protocol) の導入**:
+    LLMが外部ツールやAPIと連携する際の標準プロトコルであり、ツールごとのカスタム統合を不要にします。
+  - >-
+    - *   **`huggingface_hub` SDKのMCPクライアント化**:
+    `hugginggingface_hub`クライアントSDKがMCPクライアントとして機能するよう拡張され、MCPサーバーからツールを取得しLLMに渡すこと
+  - >-
+    - *   **Tiny Agentのシンプルさ**:
+    Python版Agentは、MCPクライアント上に構築されたシンプルな`while`ループであり、約70行のコードで実装できます。
 ---
 ## 概要 (TL;DR)
 Hugging Faceは、JavaScript版に続き、PythonでMCP (Model Context Protocol) を活用した「Tiny Agents」を発表しました。`huggingface_hub`クライアントSDKをMCPクライアントとして拡張することで、約70行のPythonコードでLLMが外部ツールと連携できるエージェントを構築可能に。MCPはLLMとツールの相互作用を標準化し、カスタム統合の必要性を排除します。本記事では、既存エージェントの実行方法から、独自のAgent構築方法までを解説しています。

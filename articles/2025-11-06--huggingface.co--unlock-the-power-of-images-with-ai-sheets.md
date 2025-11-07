@@ -1,11 +1,23 @@
 ---
-title: "Unlock the power of images with AI Sheets"
-title_ja: "AI Sheetsが画像活用を革新！AIで抽出・生成・編集をスプレッドシートで"
-source_url: "https://huggingface.co/blog/aisheets-unlock-images"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: Unlock the power of images with AI Sheets
+title_ja: AI Sheetsが画像活用を革新！AIで抽出・生成・編集をスプレッドシートで
+source_url: 'https://huggingface.co/blog/aisheets-unlock-images'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: >-
+  Hugging Face AI
+  Sheetsは、AIモデルでデータセットを強化するノーコードのオープンソースツールです。今回、画像対応し、スプレッドシート上で画像からのデータ抽出（レシート、文書）、テキストからの画像生成、画像編集が可能に。数千のオープンモデルをInference
+key_points:
+  - '- ## 重要ポイント'
+  - '- *   **ノーコードAIデータ強化**: AIモデルを活用してデータセットを強化するオープンソースツールで、コーディングは不要です。'
+  - >-
+    - *   **画像対応（Vision Support）**:
+    画像データのアップロード、表示、分析、情報抽出、生成、編集がスプレッドシート上で可能になりました。
+  - '- *   **多様な画像操作**:'
+  - '-     *   **画像からのデータ抽出**: レシートからの項目抽出、文書分類、キャプション生成、手書き文字認識など。'
 ---
 Hugging Face AI Sheetsは、AIモデルでデータセットを強化するノーコードのオープンソースツールです。今回、画像対応し、スプレッドシート上で画像からのデータ抽出（レシート、文書）、テキストからの画像生成、画像編集が可能に。数千のオープンモデルをInference Providers経由で利用します。
 

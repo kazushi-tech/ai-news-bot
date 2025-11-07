@@ -1,13 +1,43 @@
 ---
-title: "Build AI on premise with Dell Enterprise Hub"
-title_ja: ""
-source_url: "https://huggingface.co/blog/dell-enterprise-hub"
-date: "2025-11-03"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: Build AI on premise with Dell Enterprise Hub
+title_ja: ''
+source_url: 'https://huggingface.co/blog/dell-enterprise-hub'
+date: '2025-11-03'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+source:
+  url: 'https://huggingface.co/blog/dell-enterprise-hub'
+summarized_at: '2025-11-05T11:00:01.757Z'
+tldr: '# Build AI on premise with Dell Enterprise Hub'
+key_points:
+  - '- ## TL;DR'
+  - >-
+    - - Hugging FaceはDell
+    Technologiesと共同で、企業向けにオープンAIモデルをオンプレミスで簡単に学習・デプロイできる「Dell Enterprise
+    Hub」を発表しました。
+  - '- - このハブは、企業のセキュリティ、プライバシー、コンプライアンス要件を満たすために、モデルの所有と制御、機密データの保護を実現します。'
+  - '- - オンプレミスでの大規模言語モデル（LLM）導入・運用の複雑さを解消し、従来数週間かかっていた作業を数分に短縮します。'
+  - >-
+    - - Llama
+    3やMixtralなどの厳選されたモデルの提供に加え、デプロイ、オンプレミスでのファインチューニング、および独自のモデルの持ち込み（BYOM）をサポートします。
 ---
-> 要約生成に失敗しました。後で再実行してください。
+# Build AI on premise with Dell Enterprise Hub
 
----
-Source URL: https://huggingface.co/blog/dell-enterprise-hub
+## TL;DR
+- Hugging FaceはDell Technologiesと共同で、企業向けにオープンAIモデルをオンプレミスで簡単に学習・デプロイできる「Dell Enterprise Hub」を発表しました。
+- このハブは、企業のセキュリティ、プライバシー、コンプライアンス要件を満たすために、モデルの所有と制御、機密データの保護を実現します。
+- オンプレミスでの大規模言語モデル（LLM）導入・運用の複雑さを解消し、従来数週間かかっていた作業を数分に短縮します。
+- Llama 3やMixtralなどの厳選されたモデルの提供に加え、デプロイ、オンプレミスでのファインチューニング、および独自のモデルの持ち込み（BYOM）をサポートします。
+- DellのAIハードウェアアクセラレータを搭載したプラットフォームに最適化されており、継続的なパフォーマンス向上とモデル・プラットフォーム対応の拡大が予定されています。
+
+## 重要ポイント
+- **オンプレミスAI導入の簡素化**: Hugging FaceとDellは「Dell Enterprise Hub」を発表し、企業がDellプラットフォーム上でオープンAIモデルをオンプレミスで簡単に学習・デプロイできる新体験を提供します。
+- **企業のセキュリティ・コンプライアンス対応**: オープンモデルとオンプレミス運用により、セキュリティ、プライバシー、コンプライアンスの要件を満たし、企業がAI機能を完全に理解・所有・制御し、顧客データを保護できるようになります。
+- **導入期間の大幅な短縮**: コンテナ、並列処理、量子化などの複雑な設定を自動化し、通常数週間かかるLLMのオンプレミス導入・運用を数分に短縮し、エンジニアリング作業を大幅に削減します。
+- **包括的な機能**: Llama 3、Mixtral、Gemmaなどの厳選されたオープンモデルを提供し、ワンクリックでのデプロイ、企業固有データでのオンプレミスファインチューニング、およびOpenAI互換APIを介した独自のモデルのデプロイ（BYOM）をサポートします。
+- **Dellプラットフォームへの最適化**: NVIDIA、AMD、Intel GaudiなどのAIハードウェアアクセラレータを搭載したDellプラットフォーム向けにモデルが最適化されており、Hugging Faceのエンジニアリングチームとの協力により、さらなる最適化とモデル・プラットフォームのサポート拡大が進められています。
+
+## 概要
+Hugging FaceはDell Technologiesとの協力で、企業がオープンなAIモデルをオンプレミスで容易に学習・デプロイできる「Dell Enterprise Hub」を立ち上げました。このサービスは、セキュリティ、プライバシー、コンプライアンスといった企業の厳格な要件を満たしつつ、大規模言語モデルの導入にかかる複雑な作業と時間を大幅に削減します。Llama 3などのキュレーションされたモデルを提供し、簡単なデプロイ、機密データを保護するオンプレミスでのファインチューニング、そして独自のモデルの持ち込みを可能にすることで、企業はDellの最適化されたプラットフォーム上でAI開発を加速できます。

@@ -1,11 +1,27 @@
 ---
-title: "The NLP Course is becoming the LLM Course"
-title_ja: "NLPコースがLLMコースへ、AI進化でカリキュラム刷新"
-source_url: "https://huggingface.co/blog/llm-course"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: The NLP Course is becoming the LLM Course
+title_ja: NLPコースがLLMコースへ、AI進化でカリキュラム刷新
+source_url: 'https://huggingface.co/blog/llm-course'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging
+    Faceは、AIの民主化ミッションの一環として、人気の「NLPコース」を「LLMコース」として大幅に刷新・拡張します。このアップグレードは、LLMのファインチューニングや推論モデル構築といった最新のAIトレンドに対応し、既存
+  - '- ## 重要ポイント'
+  - >-
+    - *   **コース名の変更と拡張**:
+    「NLPコース」から「LLMコース」へ名称を変更し、LLMのファインチューニング、推論、推論モデル構築など、最新のAIトピックを網羅します。
+  - >-
+    - *   **既存コンテンツの維持・更新**: 分類、固有表現認識といった古典的NLPタスクのコンテンツも維持し、Sentence
+    TransformersやModernBertなどの最新手法で更新します。
+  - >-
+    - *   **オープンソース連携の強化**: Hugging
+    Faceライブラリだけでなく、LlamaIndex、LangChain、Unslothなどの外部ライブラリやツールとのコラボレーションを拡大します。
 ---
 ## 概要 (TL;DR)
 Hugging Faceは、AIの民主化ミッションの一環として、人気の「NLPコース」を「LLMコース」として大幅に刷新・拡張します。このアップグレードは、LLMのファインチューニングや推論モデル構築といった最新のAIトレンドに対応し、既存の古典的NLPコンテンツも最新のアプローチで更新します。また、Hugging Faceライブラリに限定せず、LlamaIndexやLangChainなどの外部ツールとの連携を強化し、インタラクティブな演習やライブセッションも導入することで、より広範なオープンソースコミュニティに貢献することを目指します。

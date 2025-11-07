@@ -1,11 +1,27 @@
 ---
-title: "How Hugging Face Scaled Secrets Management for AI Infrastructure"
-title_ja: ""
-source_url: "https://huggingface.co/blog/scaling-secrets-management"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: How Hugging Face Scaled Secrets Management for AI Infrastructure
+title_ja: ''
+source_url: 'https://huggingface.co/blog/scaling-secrets-management'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging
+    Faceは、急成長するAIインフラにおけるシークレット管理の課題（シークレットスプロール、複雑な権限管理、ローカル開発の非効率性、手動ローテーションの負担）を解決するため、Infisicalを導入しました。この移行により、マ
+  - '- ## 重要ポイント'
+  - >-
+    - *   **一元化と自動化**: Infisicalを導入し、マルチクラウド環境（AWS, Azure,
+    GCP）におけるシークレット管理を一元化・自動化しました。
+  - >-
+    - *   **Kubernetes統合**: Infisical Kubernetes
+    Operatorにより、シークレットの変更がKubernetesオブジェクトに自動同期され、必要に応じてアプリケーションの再デプロイが可能です（Huggi
+  - >-
+    - *   **セキュリティ強化**:
+    Oktaとの連携によるきめ細かいロールベースアクセス制御（RBAC）、自動監査、安全なシークレット共有、CI/CDパイプラインへの統合により、セキュリティ体制を大幅に強化しました。
 ---
 ## 概要 (TL;DR)
 Hugging Faceは、急成長するAIインフラにおけるシークレット管理の課題（シークレットスプロール、複雑な権限管理、ローカル開発の非効率性、手動ローテーションの負担）を解決するため、Infisicalを導入しました。この移行により、マルチクラウド環境でのKubernetes統合、CI/CD連携、OktaとのRBAC統合、ローカル開発の改善が実現され、セキュリティの大幅な強化とエンジニアリング効率の向上が達成されました。

@@ -1,11 +1,24 @@
 ---
-title: "Introducing AI Sheets: a tool to work with datasets using open AI models!"
-title_ja: "AI Sheets登場！オープンAIモデルでデータセット活用"
-source_url: "https://huggingface.co/blog/aisheets"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'Introducing AI Sheets: a tool to work with datasets using open AI models!'
+title_ja: AI Sheets登場！オープンAIモデルでデータセット活用
+source_url: 'https://huggingface.co/blog/aisheets'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging Face AI
+    Sheetsは、AIモデルを活用してデータセットを構築、強化、変換するための新しいオープンソースのノーコードツールです。スプレッドシートのような直感的なUIを提供し、Hugging
+    Face Hub上の数千の
+  - '- ## 重要ポイント'
+  - '- *   **ノーコードデータセット操作**: AIモデルを使用してデータセットの構築、変換、強化をノーコードで実現します。'
+  - '- *   **スプレッドシートUI**: 馴染みやすいスプレッドシート形式のユーザーインターフェースで、直感的に操作できます。'
+  - >-
+    - *   **オープンモデルエコシステムとの統合**: Hugging Face Hubの豊富なオープンモデルやInference
+    Providers、ローカルモデル（gpt-ossなど）をシームレスに利用できます。
 ---
 ## 概要 (TL;DR)
 Hugging Face AI Sheetsは、AIモデルを活用してデータセットを構築、強化、変換するための新しいオープンソースのノーコードツールです。スプレッドシートのような直感的なUIを提供し、Hugging Face Hub上の数千のオープンモデルやローカルモデル（OpenAIのgpt-ossを含む）を利用できます。ローカルまたはHubにデプロイ可能で、迅速な実験から大規模なデータ生成まで対応します。

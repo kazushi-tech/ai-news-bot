@@ -1,11 +1,29 @@
 ---
-title: "Gaia2 and ARE: Empowering the community to study agents"
-title_ja: "Gaia2とARE、AIエージェント研究を支援する新環境"
-source_url: "https://huggingface.co/blog/gaia2"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'Gaia2 and ARE: Empowering the community to study agents'
+title_ja: Gaia2とARE、AIエージェント研究を支援する新環境
+source_url: 'https://huggingface.co/blog/gaia2'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging
+    Faceは、より複雑で現実世界に近いAIエージェントの評価を可能にする新しいベンチマーク「Gaia2」と、その実行・デバッグ・評価のためのオープンフレームワーク「Meta
+    Agents Research Environmen
+  - '- ## 重要ポイント'
+  - >-
+    - *   **新ベンチマークGaia2**:
+    従来のGAIAの限界（簡単なタスクの解決済み化）を克服し、より複雑な現実世界タスクに特化した「読み書き」可能なエージェントベンチマーク。曖昧性処理、適応性、時間的推論、ノイズ耐性など、7つの新しい
+  - >-
+    - *   **オープンフレームワークARE**:
+    Gaia2の実行、デバッグ、評価を可能にするMetaのオープンソースフレームワーク。現実世界のスマートフォン環境をシミュレートし、エージェントの行動を詳細な構造化トレースとして記録・分析できる
+  - >-
+    - *   **評価結果**:
+    複数の大規模モデルを評価した結果、2025年9月時点でGPT-5（高推論モード）が最高スコア、オープンソースモデルではKimi
+    K2が最高。シンプルなツール実行や検索は解決に近づいているが、時間的推論、曖昧性処理
 ---
 ## 概要 (TL;DR)
 

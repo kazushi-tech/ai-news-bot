@@ -1,11 +1,29 @@
 ---
-title: "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models"
-title_ja: "Intel Core UltraでQwen3-8Bエージェントを加速：剪定ドラフトモデルで性能向上"
-source_url: "https://huggingface.co/blog/intel-qwen3-agent"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: >-
+  Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft
+  Models
+title_ja: Intel Core UltraでQwen3-8Bエージェントを加速：剪定ドラフトモデルで性能向上
+source_url: 'https://huggingface.co/blog/intel-qwen3-agent'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Qwen3-8Bは、ネイティブなエージェント機能を持ち、AI
+    PCに最適なモデルです。OpenVINO.GenAIと軽量なQwen3-0.6Bドラフトモデルを用いた推測デコーディングにより、推論速度を約1.3倍に加速しました。さらに、ドラフ
+  - '- ## 重要ポイント'
+  - >-
+    - *   **Qwen3-8Bのエージェント機能:**
+    Qwen3-8Bは、ツール呼び出し、多段階推論、長文コンテキスト処理をサポートし、複雑なエージェントワークフローに適しています。
+  - >-
+    - *   **推測デコーディングによる高速化:** Intel® Core™
+    Ultra搭載デバイス上で、OpenVINO.GenAIとQwen3-0.6Bドラフトモデルを用いた推測デコーディングにより、Qwen3-8Bの推論速度がベースライ
+  - >-
+    - *   **深さ剪定によるさらなる性能向上:**
+    ドラフトモデル（Qwen3-0.6B）から6層を剪定し、合成データでファインチューニングすることで、推論速度はさらに約1.4倍に加速しました。これは、ドラフトモデルのレイテンシ削減が全体の速
 ---
 ## 概要 (TL;DR)
 Qwen3-8Bは、ネイティブなエージェント機能を持ち、AI PCに最適なモデルです。OpenVINO.GenAIと軽量なQwen3-0.6Bドラフトモデルを用いた推測デコーディングにより、推論速度を約1.3倍に加速しました。さらに、ドラフトモデルに深さ剪定（depth-pruning）を適用することで、速度向上を約1.4倍にまで押し上げました。これらの最適化は、🤗smolagentsとの統合を通じて、高速なローカルAIエージェントの実行を可能にします。

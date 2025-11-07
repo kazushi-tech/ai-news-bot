@@ -1,11 +1,27 @@
 ---
-title: "Public AI on Hugging Face Inference Providers 🔥"
-title_ja: "Public AIがHugging Face推論プロバイダーに 公共モデルアクセス容易に"
-source_url: "https://huggingface.co/blog/inference-providers-publicai"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: "Public AI on Hugging Face Inference Providers \U0001F525"
+title_ja: Public AIがHugging Face推論プロバイダーに 公共モデルアクセス容易に
+source_url: 'https://huggingface.co/blog/inference-providers-publicai'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging Faceは、非営利のオープンソースプロジェクトであるPublic AIを新たなInference
+    Providerとして統合しました。これにより、Swiss AI InitiativeやAI Singaporeといった機関が
+  - '- ## 重要ポイント'
+  - >-
+    - *   **Public AIの統合**: Hugging Face HubにPublic AIが新たなInference
+    Providerとして加わりました。
+  - >-
+    - *   **公共AIモデルへのアクセス向上**: Swiss AI InitiativeやAI
+    Singaporeなどの公共AIモデル開発者を支援し、それらのモデルへのアクセスを簡素化します。
+  - >-
+    - *   **シームレスな利用**: Hugging FaceのウェブUIおよびPython/JSクライアントSDKから、Public
+    AIを介したモデル推論を容易に実行できます。
 ---
 ## 概要 (TL;DR)
 Hugging Faceは、非営利のオープンソースプロジェクトであるPublic AIを新たなInference Providerとして統合しました。これにより、Swiss AI InitiativeやAI Singaporeといった機関が開発する公共および主権AIモデルへのアクセスが、Hugging Face HubのモデルページやクライアントSDKから直接、かつ容易になります。Public AIの利用は現時点では無料です。

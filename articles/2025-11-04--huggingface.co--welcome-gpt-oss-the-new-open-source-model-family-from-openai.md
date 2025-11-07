@@ -1,11 +1,21 @@
 ---
-title: "Welcome GPT OSS, the new open-source model family from OpenAI!"
-title_ja: "OpenAI、待望のオープンソース「GPT OSS」ファミリーをリリース"
-source_url: "https://huggingface.co/blog/welcome-openai-gpt-oss"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'Welcome GPT OSS, the new open-source model family from OpenAI!'
+title_ja: OpenAI、待望のオープンソース「GPT OSS」ファミリーをリリース
+source_url: 'https://huggingface.co/blog/welcome-openai-gpt-oss'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - OpenAIは、強力な推論、エージェントタスク、多様な開発者ユースケース向けに設計された新しいオープンソースモデルファミリー「GPT
+    OSS」をリリースしました。このファミリーには、117Bパラメータのgpt-oss-120bと21Bパラメ
+  - '- ## 重要ポイント'
+  - '- *   **モデル**: gpt-oss-120b (117Bパラメータ) と gpt-oss-20b (21Bパラメータ) の2種類。'
+  - '- *   **アーキテクチャ**: Mixture-of-Experts (MoE) とMXFP4 4ビット量子化により、効率的な推論を実現。'
+  - '- *   **リソース要件**: 120Bモデルは単一のH100 GPU、20Bモデルは16GBメモリで動作し、コンシューマーハードウェアにも対応。'
 ---
 ## 概要 (TL;DR)
 OpenAIは、強力な推論、エージェントタスク、多様な開発者ユースケース向けに設計された新しいオープンソースモデルファミリー「GPT OSS」をリリースしました。このファミリーには、117Bパラメータのgpt-oss-120bと21Bパラメータのgpt-oss-20bが含まれ、両モデルともMixture-of-Experts (MoE) アーキテクチャとMXFP4 4ビット量子化を採用し、高速推論と低リソース使用を実現しています。モデルはApache 2.0ライセンスで提供され、Hugging FaceはTransformers、Inference Providers、パートナープラットフォームを通じて広範なサポートを提供します。

@@ -1,40 +1,24 @@
 {
   "name": "ai-news-bot",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
-  "engines": {
-    "node": ">=20"
-  },
+  "engines": { "node": ">=20.0.0" },
   "scripts": {
-    "clip": "node scripts/clip_url.mjs --url",
-    "sum": "node scripts/summarize_clip.mjs",
-    "sum:latest": "sh -lc 'LATEST=$(ls -t src/clips/*.md | head -n1); [ -n \"$LATEST\" ] && node scripts/summarize_clip.mjs \"$LATEST\"'",
-    "index:day": "node scripts/build_index_daily.mjs",
-    "index:day:date": "node scripts/build_index_daily.mjs --date",
-    "index:week": "node scripts/build_index_weekly.mjs",
-    "index:week:range": "node scripts/build_index_weekly.mjs --from",
-    "index:week:allow": "node scripts/build_index_weekly.mjs --allow",
-    "publish": "git add -A && git commit -m \"clip+sum (Gemini 2.5-flash) + index\" || true && git push",
-    "one": "bash scripts/clip_sum_publish.sh",
-    "index:week:obsidian": "node scripts/build_index_weekly.mjs --link=obsidian --vault=\"$OBSIDIAN_VAULT\" --out=news/index-weekly.md",
-    "index:day:obsidian": "node scripts/build_index_daily.mjs --link=obsidian --vault=\"$OBSIDIAN_VAULT\" --out=news/$(date +%F)--AI-news.md",
-    "index:day:publish": "node scripts/build_index_daily.mjs --link=publish --publish_base=\"$PUBLISH_BASE\"",
-    "index:week:publish": "node scripts/build_index_weekly.mjs --link=publish --publish_base=\"$PUBLISH_BASE\"",
-    "feeds": "node scripts/fetch_ai_feeds.mjs",
-    "feeds:sum": "node scripts/fetch_ai_feeds.mjs && sh -lc 'SEED=$(ls -t seeds/ai-feeds-*.txt | head -n1); gh workflow run summarize.yml -f seed_file=\"$SEED\" -f lang=ja -f style=general -f model=\"gemini-2.5-flash\" -f publish_to_docs=true -r main'",
-    "index:day:latest": "node scripts/build_index_daily.mjs --link=obsidian --vault=\"$OBSIDIAN_VAULT\" --out=news/daily/$(date +%F)--AI-news.md",
-    "index:week:latest": "node scripts/build_index_weekly.mjs --link=obsidian --vault=\"$OBSIDIAN_VAULT\" --out=news/index-weekly.md"
+    "env:boot": "bash -lc 'set -a; [ -f .env ] && source .env; set +a; node -e \"console.log(process.env.GOOGLE_API_KEY ? \\\"OK\\\" : \\\"MISSING\\\")\"'",
+    "summary": "node scripts/summarize_article.mjs",
+    "validate": "node scripts/validate_articles.mjs",
+    "daily": "bash -lc 'DATE=$(date +%F); node scripts/build_index_daily.mjs --date=\"${DATE}\" --link=publish'",
+    "weekly": "bash -lc 'DATE=$(date +%F); node scripts/build_index_weekly.mjs --to=\"${DATE}\" --link=publish'",
+    "weekly:range": "node scripts/build_index_weekly.mjs --from=2025-10-28 --to=2025-11-03 --link=publish",
+    "backfill:dry": "node scripts/backfill_missing_summaries.mjs --max=10 --dry-run=true",
+    "backfill": "node scripts/backfill_missing_summaries.mjs --max=10 --dry-run=false",
+    "lint": "eslint \"{scripts,src}/**/*.{js,mjs}\"",
+    "lint:fix": "eslint --fix \"{scripts,src}/**/*.{js,mjs}\"",
+    "finish": "node scripts/finish_up.mjs"
   },
-  "dependencies": {
-    "@mozilla/readability": "^0.5.0",
-    "dayjs": "^1.11.19",
-    "discord-interactions": "^4.4.0",
-    "discord.js": "^14.16.3",
-    "dotenv": "^16.4.5",
-    "gray-matter": "^4.0.3",
-    "jsdom": "^24.1.3",
-    "rss-parser": "3.12.0",
-    "turndown": "^7.2.2",
-    "undici": "^6.22.0"
+  "devDependencies": {
+    "@eslint/js": "^9.11.0",
+    "eslint": "^9.11.0"
   }
 }

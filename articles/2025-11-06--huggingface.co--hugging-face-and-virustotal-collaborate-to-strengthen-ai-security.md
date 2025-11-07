@@ -1,11 +1,29 @@
 ---
-title: "Hugging Face and VirusTotal collaborate to strengthen AI security"
-title_ja: "Hugging FaceとVirusTotalがAIセキュリティを共同強化"
-source_url: "https://huggingface.co/blog/virustotal"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: Hugging Face and VirusTotal collaborate to strengthen AI security
+title_ja: Hugging FaceとVirusTotalがAIセキュリティを共同強化
+source_url: 'https://huggingface.co/blog/virustotal'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging
+    Faceは世界有数の脅威インテリジェンス・マルウェア分析プラットフォームであるVirusTotalとの提携を発表しました。これにより、Hugging
+    Face Hub上の220万以上の公開モデルおよびデータセットリポジトリが
+  - '- ## 重要ポイント'
+  - >-
+    - *   **AIモデルの潜在的リスクへの対応**:
+    AIモデルは複雑なデジタル資産であり、悪意のあるペイロード、改ざんファイル、既知のマルウェア、危険なコードを実行する依存関係など、隠れたリスクを伴う可能性があります。
+  - >-
+    - *   **世界最大の脅威インテリジェンス活用**:
+    VirusTotalの世界最大かつ最も信頼されているマルウェアインテリジェンスデータベースを活用し、Hugging Face
+    Hubに共有されるファイルにセキュリティ層を追加します。
+  - >-
+    - *   **プライバシー保護と効率的なスキャン**:
+    ファイルのハッシュ値のみをVirusTotalと比較し、生のファイル内容は共有しないため、ユーザーのプライバシーを保護しつつ効率的な脅威検出を実現します。
 ---
 ## 概要 (TL;DR)
 Hugging Faceは世界有数の脅威インテリジェンス・マルウェア分析プラットフォームであるVirusTotalとの提携を発表しました。これにより、Hugging Face Hub上の220万以上の公開モデルおよびデータセットリポジトリがVirusTotalによって継続的にスキャンされるようになります。本提携は、機械学習コミュニティを悪意のある資産から保護し、AIセキュリティを大幅に強化することを目的としています。

@@ -1,11 +1,29 @@
 ---
-title: "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face"
-title_ja: "Google Cloud C4、Intel・Hugging Face協力でGPT OSSのTCO 7割減"
-source_url: "https://huggingface.co/blog/gpt-oss-on-intel-xeon"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: >-
+  Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging
+  Face
+title_ja: Google Cloud C4、Intel・Hugging Face協力でGPT OSSのTCO 7割減
+source_url: 'https://huggingface.co/blog/gpt-oss-on-intel-xeon'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Google Cloudの最新C4 VMインスタンス（Intel Xeon 6プロセッサ搭載）が、前世代のC3 VM（第4世代Intel
+    Xeonプロセッサ搭載）と比較し、OpenAI GPT OSS LLMの推論において、総所有コスト（T
+  - '- ## 重要ポイント'
+  - >-
+    - *   **TCOの劇的な改善**: Google Cloud C4 VMは、前世代のC3 VMと比較して、GPT OSS
+    LLMの推論におけるTCOを1.7倍（70%）改善しました。
+  - >-
+    - *   **スループットの向上**: C4 VMは、vCPUあたりスループットがC3
+    VMの1.4倍から1.7倍に向上し、特にバッチサイズ64では1.7倍の性能差を記録しました。
+  - >-
+    - *   **Intel Xeon 6プロセッサの性能**: 最新のIntel Xeon 6プロセッサ（Granite
+    Rapids）が、LLM推論において優れた性能とコスト効率を提供することを実証しました。
 ---
 ## 概要 (TL;DR)
 

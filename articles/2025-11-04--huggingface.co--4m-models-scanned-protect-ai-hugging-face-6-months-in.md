@@ -1,11 +1,21 @@
 ---
-title: "4M Models Scanned: Protect AI + Hugging Face 6 Months In"
-title_ja: "Protect AIとHugging Face、提携半年で400万超モデルスキャンしセキュリティ強化"
-source_url: "https://huggingface.co/blog/pai-6-month"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: '4M Models Scanned: Protect AI + Hugging Face 6 Months In'
+title_ja: Protect AIとHugging Face、提携半年で400万超モデルスキャンしセキュリティ強化
+source_url: 'https://huggingface.co/blog/pai-6-month'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging FaceとProtect AIは2024年10月の提携から6ヶ月で、Hugging Face
+    Hub上の447万のユニークモデルバージョンをスキャンし、5.17万モデルにわたる35.2万件のセキュリティ問題（不安全/疑わしい
+  - '- ## 重要ポイント'
+  - '- *   **提携の目的**: Hugging Face HubのMLモデルセキュリティを強化し、オープンソースAIの安全な利用を促進。'
+  - '- *   **スキャン実績**: 2025年4月1日までに447万のユニークモデルバージョンをスキャン。'
+  - '- *   **問題特定**: 5.17万モデルにわたる35.2万件の不安全/疑わしい問題を特定。'
 ---
 ## 概要 (TL;DR)
 

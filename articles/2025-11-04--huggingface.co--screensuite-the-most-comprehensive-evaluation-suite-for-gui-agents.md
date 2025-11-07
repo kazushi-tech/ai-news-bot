@@ -1,11 +1,27 @@
 ---
-title: "ScreenSuite - The most comprehensive evaluation suite for GUI Agents!"
-title_ja: "ScreenSuite、GUIエージェント評価の決定版スイートを公開"
-source_url: "https://huggingface.co/blog/screensuite"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: ScreenSuite - The most comprehensive evaluation suite for GUI Agents!
+title_ja: ScreenSuite、GUIエージェント評価の決定版スイートを公開
+source_url: 'https://huggingface.co/blog/screensuite'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging
+    Faceは、GUIエージェント向けの最も包括的な評価スイート「ScreenSuite」をリリースしました。これは、GUIエージェントをよりオープンでアクセスしやすく、統合しやすくするための取り組みの一環として開発され、Vis
+  - '- ## 重要ポイント'
+  - >-
+    - *   **包括的な評価スイート**:
+    GUIエージェントの性能を評価するための最大級のベンチマークスイートであり、13のベンチマークを統合しています。
+  - >-
+    - *   **多岐にわたる能力評価**: 知覚 (Perception)、グラウンディング (Grounding)、単一ステップアクション
+    (Single step actions)、複数ステップエージェント (Multi-step agen
+  - >-
+    - *   **Vision-only評価**:
+    既存の多くのベンチマークと異なり、アクセシビリティツリーやDOMなどのメタデータに依存せず、視覚情報のみで評価を行うため、より現実的で挑戦的な設定を提供します。
 ---
 ## 概要 (TL;DR)
 Hugging Faceは、GUIエージェント向けの最も包括的な評価スイート「ScreenSuite」をリリースしました。これは、GUIエージェントをよりオープンでアクセスしやすく、統合しやすくするための取り組みの一環として開発され、Vision Language Models (VLMs)の多様なエージェント能力を評価するための、最も包括的で簡単な方法を提供します。

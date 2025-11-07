@@ -1,11 +1,23 @@
 ---
-title: "Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders"
-title_ja: "Reachy Mini、AI開発者の今日と明日を築くオープンソースロボット"
-source_url: "https://huggingface.co/blog/reachy-mini"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders
+title_ja: Reachy Mini、AI開発者の今日と明日を築くオープンソースロボット
+source_url: 'https://huggingface.co/blog/reachy-mini'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging FaceとPollen Roboticsが、AI開発者、教育者、愛好家向けのオープンソースロボット「Reachy
+    Mini」を発表しました。人間とロボットのインタラクション（HRI）、クリエイティブコーディング、AI実験に特
+  - '- ## 重要ポイント'
+  - '- *   **オープンソース:** ハードウェア、ソフトウェア、シミュレーション環境が全てオープンソースで提供されます。'
+  - >-
+    - *   **Hugging Face連携:** 最先端のオープンソースAIモデル（音声、視覚、個性）をHugging
+    Faceハブから利用・共有可能です。
+  - '- *   **低価格・コンパクト:** $299から購入可能で、デスクトップに置ける小型サイズ（高さ28cm、重さ1.5kg）。'
 ---
 ## 概要 (TL;DR)
 Hugging FaceとPollen Roboticsが、AI開発者、教育者、愛好家向けのオープンソースロボット「Reachy Mini」を発表しました。人間とロボットのインタラクション（HRI）、クリエイティブコーディング、AI実験に特化し、Pythonでプログラミング可能。デスクトップサイズで$299からと手頃な価格で提供され、Hugging Faceハブを通じてAIモデルやロボット行動を共有できるコミュニティ主導のプラットフォームを目指します。

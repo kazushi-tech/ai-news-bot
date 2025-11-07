@@ -1,11 +1,21 @@
 ---
-title: "Gaia2 and ARE: Empowering the community to study agents"
-title_ja: "Gaia2とARE、AIエージェントの現実世界評価・研究を可能に"
-source_url: "https://huggingface.co/blog/gaia2"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'Gaia2 and ARE: Empowering the community to study agents'
+title_ja: Gaia2とARE、AIエージェントの現実世界評価・研究を可能に
+source_url: 'https://huggingface.co/blog/gaia2'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '# Gaia2とARE: エージェント研究コミュニティを強化'
+key_points:
+  - '- ## 概要 (TL;DR)'
+  - >-
+    - Hugging Faceは、AIエージェントの評価ベンチマーク「Gaia2」と、その実行・デバッグ・評価のためのオープンフレームワーク「ARE
+    (Agent Research Environments)」をリリースしました。Gaia2は、G
+  - '- ## 重要ポイント'
+  - '- *   **Gaia2ベンチマーク**: GAIAの後継として、より複雑な実世界タスクに焦点を当てたエージェント評価ベンチマーク。'
+  - '-     *   読み取り専用だったGAIAに対し、Gaia2は「読み書き可能」で、インタラクティブな動作と複雑性管理を評価します。'
 ---
 # Gaia2とARE: エージェント研究コミュニティを強化
 

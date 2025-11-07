@@ -1,11 +1,23 @@
 ---
-title: "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers"
-title_ja: "OpenAI gpt-ossの秘策、transformersであなたも"
-source_url: "https://huggingface.co/blog/faster-transformers"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: "Tricks from OpenAI gpt-oss YOU \U0001FAF5 can use with transformers"
+title_ja: OpenAI gpt-ossの秘策、transformersであなたも
+source_url: 'https://huggingface.co/blog/faster-transformers'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - OpenAIのGPT-OSSモデルリリースに伴い、Hugging Face
+    Transformersライブラリが大幅にアップグレードされました。これらの改善は、GPT-OSSモデルの効率的なロード、実行、ファインチューニングを可能にするだけ
+  - '- ## 重要ポイント'
+  - >-
+    - *   **ビルド不要なカスタムカーネル**: Hugging Face Hubから事前にビルドされた高性能カーネル（Flash Attention
+    3、MoEカーネルなど）を簡単に利用可能。
+  - '- *   **MXFP4量子化**: 4ビット浮動小数点量子化により、大規模モデルのVRAM要件を大幅に削減し、単一GPUでの実行を可能に。'
+  - '- *   **テンソル並列処理 (TP)**: モデルのテンソルを複数GPUに分割し、大規模モデルのスループットを向上。'
 ---
 ## 概要 (TL;DR)
 

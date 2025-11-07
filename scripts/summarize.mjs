@@ -4,6 +4,12 @@
  * Node 20+ (ESM) / モデルは gemini-2.5-flash に固定
  */
 /* cspell:ignore Readability generativelanguage */
+import 'dotenv/config';
+if (process.env.AI_NEWS_OFFLINE === '1') {
+  console.error('AI_NEWS_OFFLINE=1: skip summarize');
+  process.exit(0);
+}
+
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";

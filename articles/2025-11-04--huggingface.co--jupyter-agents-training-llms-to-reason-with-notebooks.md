@@ -1,11 +1,25 @@
 ---
-title: "Jupyter Agents: training LLMs to reason with notebooks"
-title_ja: "Jupyter Agents：LLM推論をノートブックで学習・強化"
-source_url: "https://huggingface.co/blog/jupyter-agent-2"
-date: "2025-11-04"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'Jupyter Agents: training LLMs to reason with notebooks'
+title_ja: Jupyter Agents：LLM推論をノートブックで学習・強化
+source_url: 'https://huggingface.co/blog/jupyter-agent-2'
+date: '2025-11-04'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging Faceは、LLMにJupyter Notebook内でのコード実行能力を与え、データサイエンスタスクを解決する「Jupyter
+    Agent v2」を発表しました。本プロジェクトでは、特にQwen-3-4Bのような小規模モデ
+  - '- ## 重要ポイント'
+  - >-
+    - *   **Jupyter Agent v2**: LLMがJupyter
+    Notebook環境でコードを実行し、データ分析・データサイエンスタスクを解決するためのエージェント。
+  - '- *   **小規模モデルの強化**: Qwen-3-4Bのような小規模LLMを対象に、データサイエンスエージェントとしての性能向上を目指した。'
+  - >-
+    - *   **DABStepベンチマーク**:
+    データサイエンスエージェントの評価に用いられる現実的なタスクベンチマーク。現状のLLMには依然として困難な課題が多い。
 ---
 ## 概要 (TL;DR)
 Hugging Faceは、LLMにJupyter Notebook内でのコード実行能力を与え、データサイエンスタスクを解決する「Jupyter Agent v2」を発表しました。本プロジェクトでは、特にQwen-3-4Bのような小規模モデルの性能向上に焦点を当て、高品質な合成訓練データ生成パイプラインと最適化されたスキャフォールディングを開発。これにより、DABStepベンチマークのEasyタスクで75%の精度を達成し、小規模モデルとしてはSOTA（State-of-the-Art）の性能を示しました。訓練済みモデルとデータセットはオープンソースとして公開されています。

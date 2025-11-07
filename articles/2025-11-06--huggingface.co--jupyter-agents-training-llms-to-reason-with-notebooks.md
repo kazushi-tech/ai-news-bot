@@ -1,11 +1,24 @@
 ---
-title: "Jupyter Agents: training LLMs to reason with notebooks"
-title_ja: "Jupyter Agents、LLMの推論をノートブックで実現"
-source_url: "https://huggingface.co/blog/jupyter-agent-2"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'Jupyter Agents: training LLMs to reason with notebooks'
+title_ja: Jupyter Agents、LLMの推論をノートブックで実現
+source_url: 'https://huggingface.co/blog/jupyter-agent-2'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging Faceは、LLMにJupyter
+    Notebook環境でのコード実行能力を与え、データ分析・データサイエンスタスクを解決する「Jupyter Agent
+    v2」を発表しました。高品質な合成トレーニングデータと最適化されたス
+  - '- ## 重要ポイント'
+  - '- *   **目的**: LLMにJupyter Notebook内でコードを実行させ、データ分析・データサイエンスタスクを解決させる。'
+  - '- *   **ベンチマーク**: Adyenと共同開発したDABStepベンチマークを使用し、現実的なデータサイエンスタスクでモデルを評価。'
+  - >-
+    - *   **アプローチ**:
+    小規模モデル（Qwen3-4B）に焦点を当て、大規模モデルに匹敵する性能を目指し、高品質なトレーニングデータ生成パイプラインと簡素化されたスキャフォールディングを開発。
 ---
 ## 概要 (TL;DR)
 Hugging Faceは、LLMにJupyter Notebook環境でのコード実行能力を与え、データ分析・データサイエンスタスクを解決する「Jupyter Agent v2」を発表しました。高品質な合成トレーニングデータと最適化されたスキャフォールディングを用いて、小規模モデル（Qwen-3-4B）をファインチューニングし、DABStepベンチマークで最先端の性能を達成しました。ファインチューニング済みモデルとトレーニングデータセットは公開されており、コミュニティでの利用が可能です。

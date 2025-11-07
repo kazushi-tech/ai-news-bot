@@ -1,11 +1,25 @@
 ---
-title: "Smol2Operator: Post-Training GUI Agents for Computer Use"
-title_ja: "Smol2Operator: 訓練済みGUIエージェント、PC操作AIに進化"
-source_url: "https://huggingface.co/blog/smol2operator"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'Smol2Operator: Post-Training GUI Agents for Computer Use'
+title_ja: 'Smol2Operator: 訓練済みGUIエージェント、PC操作AIに進化'
+source_url: 'https://huggingface.co/blog/smol2operator'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging Faceは、軽量なVision-Language Model (VLM)
+    であるSmolVLM2-2.2B-Instructを、GUI（グラフィカルユーザーインターフェース）を理解し操作できるエージェント「Smol2Oper
+  - '- ## 重要ポイント'
+  - >-
+    - *   **GUI自動化のブレークスルー:** 軽量VLM (SmolVLM2-2.2B-Instruct)
+    がGUIを理解し、操作するエージェント（Smol2Operator）へと進化。
+  - >-
+    - *   **統一されたアクション空間:**
+    複数のGUI自動化データセットに存在する不統一なアクション表現を、標準化された単一フォーマットに変換するパイプラインを開発。正規化座標（0-1）を採用し、柔軟なアクション空間変換ツールも提供。
+  - '- *   **2段階訓練戦略:**'
 ---
 ## 概要 (TL;DR)
 

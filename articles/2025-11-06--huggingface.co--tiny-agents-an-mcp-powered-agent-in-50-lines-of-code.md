@@ -1,11 +1,27 @@
 ---
-title: "Tiny Agents: an MCP-powered agent in 50 lines of code"
-title_ja: "MCPで動く超軽量エージェント、たった50行で実現"
-source_url: "https://huggingface.co/blog/tiny-agents"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'Tiny Agents: an MCP-powered agent in 50 lines of code'
+title_ja: MCPで動く超軽量エージェント、たった50行で実現
+source_url: 'https://huggingface.co/blog/tiny-agents'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '# 概要 (TL;DR)'
+key_points:
+  - >-
+    - Hugging Faceは、MCP (Model Context Protocol)
+    とLLMのネイティブなツール呼び出し機能を活用し、わずか50行のTypeScriptコードで強力なLLMエージェントを実装する方法を公開しました。MCPは
+  - '- # 重要ポイント'
+  - >-
+    - *   **MCPの活用**: MCP (Model Context Protocol)
+    は、LLMにフックできるツールのセットを公開するための標準APIであり、シンプルながら強力です。
+  - >-
+    - *   **エージェントの簡素化**:
+    MCPクライアントがあれば、エージェントは「その上にwhileループがあるだけ」という極めてシンプルな構造で実装可能です。
+  - >-
+    - *   **LLMのネイティブツールサポート**:
+    最近のLLMが関数呼び出し（ツール利用）にネイティブ対応していることが、このエージェント実装の基盤となっています。
 ---
 # 概要 (TL;DR)
 

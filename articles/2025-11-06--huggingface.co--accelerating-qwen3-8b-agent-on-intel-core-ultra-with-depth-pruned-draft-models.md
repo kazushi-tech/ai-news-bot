@@ -1,11 +1,27 @@
 ---
-title: "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models"
-title_ja: "Intel Core UltraでQwen3-8Bエージェントを高速化 剪定ドラフトモデルでAI性能を大幅向上"
-source_url: "https://huggingface.co/blog/intel-qwen3-agent"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: >-
+  Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft
+  Models
+title_ja: Intel Core UltraでQwen3-8Bエージェントを高速化 剪定ドラフトモデルでAI性能を大幅向上
+source_url: 'https://huggingface.co/blog/intel-qwen3-agent'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - IntelとHugging Faceは、Qwen3-8BエージェントモデルをIntel® Core™
+    Ultraプロセッサ上で最大1.4倍高速化する技術を発表しました。軽量なQwen3-0.6Bドラフトモデルを用いた投機的デコーディングに加
+  - '- ## 重要ポイント'
+  - '- *   **Qwen3-8Bの最適化**: エージェント機能を持つQwen3-8BモデルをIntel® Core™ Ultra上で最適化。'
+  - >-
+    - *   **投機的デコーディング**:
+    Qwen3-0.6Bドラフトモデルを用いた投機的デコーディングにより、ベースラインから約1.3倍の高速化を達成。
+  - >-
+    - *   **深度剪定によるさらなる加速**:
+    ドラフトモデルの深度を剪定し、合成データでファインチューニングすることで、合計で約1.4倍の高速化を実現。
 ---
 ## 概要 (TL;DR)
 

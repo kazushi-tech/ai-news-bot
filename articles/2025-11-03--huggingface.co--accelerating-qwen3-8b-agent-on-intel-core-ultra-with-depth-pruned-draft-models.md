@@ -1,13 +1,42 @@
 ---
-title: "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models"
-title_ja: ""
-source_url: "https://huggingface.co/blog/intel-qwen3-agent"
-date: "2025-11-03"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: >-
+  Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft
+  Models
+date: '2025-11-03'
+model: gemini-2.5-flash
+source_url: 'https://huggingface.co/blog/intel-qwen3-agent'
+host: huggingface.co
+tldr: >-
+  Intelは、推測デコーディングと深度剪定されたドラフトモデルを使用し、Intel Core
+  Ultra上でQwen3-8Bエージェントの推論速度を最大1.4倍に加速しました。これにより、高速なローカルAIエージェントの実用化が推進されます。
+key_points:
+  - Qwen3-8Bは、ツール呼び出し、多段階推論、長文コンテキスト処理能力を持つエージェントモデルであり、AI PCでの活用に適しています。
+  - >-
+    OpenVINO.GenAIと軽量なQwen3-0.6Bドラフトモデルを用いた推測デコーディングにより、Qwen3-8Bの生成速度が約1.3倍に向上しました。
+  - ドラフトモデルのQwen3-0.6Bから6層を深度剪定し、ファインチューニングを施すことで、速度向上を約1.4倍にまでさらに加速させました。
+  - この性能向上は、Intel® Core™ Ultraプロセッサと統合GPU上でベンチマークされ、ローカルAIエージェントの効率的な実行を可能にします。
+  - "最適化されたモデルは\U0001F917smolagentsなどのフレームワークと統合され、API呼び出しやコード実行を含む多様なエージェントアプリケーションを高速に実行できます。"
+title_ja: ''
+tags:
+  - ai-news
+source:
+  url: 'https://huggingface.co/blog/intel-qwen3-agent'
+summarized_at: '2025-11-05T10:57:43.178Z'
 ---
-> 要約生成に失敗しました。後で再実行してください。
+# Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models
 
----
-Source URL: https://huggingface.co/blog/intel-qwen3-agent
+## TL;DR
+- Qwen3-8Bは、ネイティブエージェント機能、ツール呼び出し、多段階推論などを備え、AI PC上のエージェントアプリケーションに最適化されている。
+- Intel Core Ultra上でOpenVINO.GenAIとQwen3-0.6Bドラフトモデルを用いた投機的デコーディングにより、Qwen3-8Bの生成速度を約1.3倍に向上させた。
+- ドラフトモデルから深さの一部（6層）をプルーニングし、ファインチューニングを施すことで、さらなる性能向上（約1.4倍の高速化）を達成した。
+- この高速化されたQwen3-8Bは、🤗smolagentsなどのエージェントフレームワークと統合され、AI PC上で効率的なローカルAIエージェントの実行を可能にする。
+
+## 重要ポイント
+- Qwen3-8Bは、明示的なエージェント動作でトレーニングされており、ツール呼び出し、多段階推論、長文コンテキスト処理能力により複雑なエージェントワークフローに適している。
+- エージェントアプリケーションでは「思考プロセス」によりトークン使用量が増加するため、推論速度が応答性にとって非常に重要となる。
+- Intel Core Ultra上のQwen3-8B（4ビット最適化OpenVINO版）をベンチマークのベースラインとし、小型のQwen3-0.6Bをドラフトモデルとして用いる投機的デコーディングで約1.3倍の速度向上を実現した。
+- ドラフトモデルの推論レイテンシが投機的デコーディングの速度向上に大きく寄与するため、Qwen3-0.6Bドラフトモデルの層をプルーニングし、ファインチューニングにより品質を回復させた。
+- プルーニングされたドラフトモデルを使用することで、ベースラインに対し約1.4倍の速度向上を達成し、この最適化は🤗smolagentsと統合され、ローカルAIエージェントがウェブ検索やコード実行などのタスクを効率的に処理するデモンストレーションが行われた。
+
+## 概要
+Qwen3-8Bは、エージェント機能と長文コンテキスト処理能力を持つモデルですが、エージェントアプリケーションでの応答性向上のため、推論速度の改善が求められます。本研究では、Intel Core Ultra上でOpenVINO.GenAIと軽量なQwen3-0.6Bドラフトモデルを用いた投機的デコーディングにより、Qwen3-8Bの生成速度を約1.3倍に高速化しました。さらに、ドラフトモデルの層をプルーニングし、ファインチューニングを施すことで、全体の速度を約1.4倍まで加速させることに成功しました。この最適化された設定は🤗smolagentsなどのフレームワークと統合され、AI PC上でAPI呼び出しやコード実行などを行うAIエージェントを効率的に動作させることが可能になりました。

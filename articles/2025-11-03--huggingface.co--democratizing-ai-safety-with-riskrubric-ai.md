@@ -1,13 +1,38 @@
 ---
-title: "Democratizing AI Safety with RiskRubric.ai"
-title_ja: ""
-source_url: "https://huggingface.co/blog/riskrubric"
-date: "2025-11-03"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: Democratizing AI Safety with RiskRubric.ai
+title_ja: ''
+source_url: 'https://huggingface.co/blog/riskrubric'
+date: '2025-11-03'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+source:
+  url: 'https://huggingface.co/blog/riskrubric'
+summarized_at: '2025-11-05T11:01:46.206Z'
+tldr: '# Democratizing AI Safety with RiskRubric.ai'
+key_points:
+  - '- ## TL;DR'
+  - '- - RiskRubric.aiは、Hugging Faceハブ上のAIモデルのリスクを標準化された方法で評価する新しいプラットフォームです。'
+  - '- - 透明性、信頼性、セキュリティ、プライバシー、安全性、評判の6つの柱で評価し、0-100のスコアとA-Fのグレードを付与します。'
+  - '- - 評価結果から、オープンモデルが特定の点でクローズドモデルを上回ることが判明しました。'
+  - '- - ほとんどのモデルは安全な範囲ですが、中程度のスコアのモデル群が懸念事項であり、平均モデルが安全とは限りません。'
 ---
-> 要約生成に失敗しました。後で再実行してください。
+# Democratizing AI Safety with RiskRubric.ai
 
----
-Source URL: https://huggingface.co/blog/riskrubric
+## TL;DR
+- RiskRubric.aiは、Hugging Faceハブ上のAIモデルのリスクを標準化された方法で評価する新しいプラットフォームです。
+- 透明性、信頼性、セキュリティ、プライバシー、安全性、評判の6つの柱で評価し、0-100のスコアとA-Fのグレードを付与します。
+- 評価結果から、オープンモデルが特定の点でクローズドモデルを上回ることが判明しました。
+- ほとんどのモデルは安全な範囲ですが、中程度のスコアのモデル群が懸念事項であり、平均モデルが安全とは限りません。
+- 強固なセキュリティ対策は安全性向上にも直接つながりますが、透明性とのバランスが重要です。
+
+## 重要ポイント
+- **RiskRubric.aiの発表**: Cloud Security AllianceとNoma Securityが主導し、AIモデルのリスクを標準的かつ透過的に評価するプラットフォーム「RiskRubric.ai」を発表しました。
+- **6つの評価柱**: 透明性、信頼性、セキュリティ、プライバシー、安全性、評判の6つの側面からモデルを評価し、一貫性のある比較可能なリスクスコアとA-Fのグレードを提供します。
+- **詳細な評価プロセス**: 1,000以上の信頼性テスト、200以上の敵対的セキュリティプローブ、自動コードスキャン、文書レビュー、プライバシー評価、有害コンテンツテストなどを自動で実施します。
+- **評価結果の主要な傾向**: オープンモデルは特定の分野（特に透明性）でクローズドモデルを上回ることがあり、モデルのリスク分布は二極化しており、安全なモデルと中程度の保護レベルのモデルに分かれます。また、安全性リスクはセキュリティ体制と密接に連動し、厳格な保護は透明性を損なう可能性があるためバランスが重要です。
+- **コミュニティによる安全性向上**: 標準化された公開評価は、開発者がモデルの弱点を特定し、コミュニティが改善に貢献する「良い循環」を生み出し、AIモデル全体の安全性向上を促進します。
+
+## 概要
+Hugging FaceハブにおけるAIモデルの安全性とセキュリティ評価の課題に対応するため、Cloud Security AllianceとNoma SecurityがRiskRubric.aiを立ち上げました。このプラットフォームは、透明性、信頼性、セキュリティ、プライバシー、安全性、評判の6つの柱に基づき、AIモデルのリスクを標準化された方法で評価し、スコアとグレードを提供します。初期評価では、オープンモデルが特定の点でクローズドモデルを上回る一方、中程度の保護レベルのモデル群が主要な懸念事項であり、強固なセキュリティ対策が安全性向上に直結することが示されました。RiskRubric.aiは、AIコミュニティ全体でモデルの安全性と信頼性を協力して向上させるための基盤を提供します。

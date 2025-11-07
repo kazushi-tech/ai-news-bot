@@ -1,11 +1,27 @@
 ---
-title: "MCP for Research: How to Connect AI to Research Tools"
-title_ja: "MCPでAIと研究ツール連携 研究発見を自動化"
-source_url: "https://huggingface.co/blog/mcp-for-research"
-date: "2025-11-06"
-model: "gemini-2.5-flash"
-host: "huggingface.co"
-tags: [ai-news]
+title: 'MCP for Research: How to Connect AI to Research Tools'
+title_ja: MCPでAIと研究ツール連携 研究発見を自動化
+source_url: 'https://huggingface.co/blog/mcp-for-research'
+date: '2025-11-06'
+model: gemini-2.5-flash
+host: huggingface.co
+tags:
+  - ai-news
+tldr: '## 概要 (TL;DR)'
+key_points:
+  - >-
+    - Model Context Protocol (MCP)
+    は、AIエージェントが外部の研究ツールやデータソースと連携するための標準プロトコルです。これにより、研究者は自然言語でAIに指示を出すことで、論文、コード、モデル、データセットの発見
+  - '- ## 重要ポイント'
+  - >-
+    - *   **研究発見の非効率性:** 従来の研究発見は、arXiv、GitHub、Hugging
+    Faceなどのプラットフォーム間を手動で移動し、情報を整理する必要があり、非常に非効率でした。
+  - >-
+    - *   **MCPの導入:** Model Context Protocol (MCP)
+    は、AIが自然言語で外部ツールと通信し、研究発見プロセスを自動化・効率化するための標準です。
+  - >-
+    - *   **3層の抽象化:**
+    研究発見は「手動研究」「スクリプトツール」「MCP統合」の3つの抽象化レイヤーで捉えられ、MCPは最も高度な自動化を提供します。
 ---
 ## 概要 (TL;DR)
 Model Context Protocol (MCP) は、AIエージェントが外部の研究ツールやデータソースと連携するための標準プロトコルです。これにより、研究者は自然言語でAIに指示を出すことで、論文、コード、モデル、データセットの発見プロセスを自動化し、手動でのプラットフォーム切り替えや情報整理の非効率性を解消できます。Hugging Faceは、このMCPを利用した「Research Tracker MCP」を提供し、研究発見の効率化を推進しています。
