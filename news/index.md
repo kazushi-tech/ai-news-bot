@@ -1,17 +1,9 @@
----
-title: AI News ダッシュボード
----
-
-## 日次
-```dataview
-LIST FROM "news/daily"
-SORT file.name DESC
-LIMIT 30
-`````
-
-週次
-TABLE WITHOUT ID file.link AS "週次"
-FROM "news/weekly"
-SORT file.name DESC
+# AIニュース（ローカル）
 
 
+- 最新Weekly: [[weekly/2025-11-06.md|2025-11-06]]
+
+## 最近のDaily
+
+- [[daily/2025-11-07.md|2025-11-07]]
+- [[daily/2025-11-02.md|2025-11-02]]
