@@ -3,7 +3,7 @@ title: 記事タイトル
 date: 2025-11-02
 model: gemini-2.5-flash
 source_url: https://example.com/path
-host: bloomberg.co.jp
+host: example.com
 tldr: 1〜3文で要約。
 key_points:
   - ポイント1
