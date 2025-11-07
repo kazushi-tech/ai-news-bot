@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index-weekly.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index-weekly"
+              "title": "index"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index-weekly.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index-weeklyへのバックリンク"
+              "title": "indexへのバックリンク"
             }
           },
           {
@@ -286,6 +286,9 @@
   "active": "8b378122ca70c766",
   "lastOpenFiles": [
     "index.md.md",
+    "index-weekly.md",
+    "index.md",
+    "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
     "weekly/2025-11-05.md",
     "weekly/2025-11-02.md",
     "daily/2025-11-04--AI-news.md",
@@ -295,11 +298,8 @@
     "conflict-files-obsidian-git.md",
     "daily/2025-11-03--AI-news.md",
     "weekly/2025-11-03.md",
-    "index.md",
-    "index-weekly.md",
     "daily/2025-11-02--AI-news.md",
     "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
-    "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
     "articles",
     "無題のファイル.md",
     "templates/article.md.md",

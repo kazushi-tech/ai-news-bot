@@ -1,0 +1,5 @@
+/* 記事のPropertiesを非表示（本文に集中） */
+.metadata-container { display: none !important; }
+/* 4列テーブルの可読性UP */
+.markdown-rendered table td, 
+.markdown-rendered table th { padding: 6px 10px; }
