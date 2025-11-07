@@ -1,101 +1,34 @@
 name: ingest
-
 on:
-  workflow_dispatch:
-    inputs:
-      urls:
-        description: "URL（スペース/改行/カンマ区切りOK・空ならキュー処理）"
-        required: false
-        type: string
   repository_dispatch:
-    types: [inbox_url]
-
-permissions:
-  contents: write
-
-concurrency: ingest-${{ github.ref }}
+    types: [ingest_url]
 
 jobs:
   run:
     runs-on: ubuntu-latest
+    env:
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      GEMINI_MODEL: gemini-2.5-flash
+      NEWS_ROOT: news
+      LINK_MODE: obsidian
+      AI_NEWS_OFFLINE: "0"
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
       - uses: actions/setup-node@v4
-        with:
-          node-version: "20.x"
-          cache: "npm"
-
-      - name: Install deps (npm + jq)
+        with: { node-version: '20' }
+      - run: npm ci
+      - run: npm run env:boot
+      - name: Ingest URL
+        run: node scripts/ingest_url.mjs --url "${{ github.event.client_payload.url }}"
+      - name: Rebuild indexes
         run: |
-          sudo apt-get update -y
-          sudo apt-get install -y jq
-          npm ci || npm i
-
-      # データファイルが無い/空でも落ちないように作成しておく
-      - name: Ensure data files
-        shell: bash
+          npm run daily
+          npm run weekly
+          npm run home
+      - name: Commit
         run: |
-          set -euo pipefail
-          mkdir -p content/data
-          [ -f content/data/items.json ] || echo "[]" > content/data/items.json
-          # queue は空でもOK（ingest.js 側が空読み対応）
-          [ -f content/data/queue.json ] || : > content/data/queue.json
-
-      - name: Prepare URLs
-        id: prep
-        shell: bash
-        run: |
-          set -euo pipefail
-          URLS_INPUT="${{ github.event.inputs.urls || '' }}"
-
-          URLS_EVENT=""
-          if [[ "${{ github.event_name }}" == "repository_dispatch" ]]; then
-            URLS_EVENT=$(jq -r '(.client_payload.urls // []) | join(",")' "$GITHUB_EVENT_PATH")
-          fi
-
-          URLS="${URLS_INPUT:-$URLS_EVENT}"
-
-          echo "urls=$URLS" >> "$GITHUB_OUTPUT"
-          echo "Event: ${{ github.event_name }}"
-          echo "URLs: ${URLS:-<none>}"
-
-      - name: Ingest
-        run: |
-          if [ -n "${{ steps.prep.outputs.urls }}" ]; then
-            node scripts/ingest.js --urls "${{ steps.prep.outputs.urls }}"
-          else
-            node scripts/ingest.js
-          fi
-
-      # 差分がある時だけコミット＆プッシュ（差分ゼロで失敗させない）
-      - name: Commit & Push (items.json / queue.json*)
-        shell: bash
-        run: |
-          set -euo pipefail
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add -A content/data/items.json || true
-          [ -f content/data/queue.json ]  && git add content/data/queue.json  || true
-          [ -f content/data/queue.jsonl ] && git add content/data/queue.jsonl || true
-
-          if ! git diff --cached --quiet; then
-            git commit -m "chore(ingest): update items/queue [skip ci]"
-            git push
-          else
-            echo "no staged changes; skip commit/push"
-          fi
-
-      # デバッグ用（落ちたとき見やすい）
-      - name: Show workspace tree (debug)
-        if: always()
-        run: |
-          echo "---- tree ----"
-          ls -la
-          echo "---- data ----"
-          ls -la content/data || true
-          echo "---- head ----"
-          git log -1 --oneline || true
+          git config user.name "ai-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "ingest: ${{ github.event.client_payload.url }}" || echo "no changes"
+          git push

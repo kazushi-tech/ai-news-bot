@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "weekly/2025-11-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-11-02"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "weekly/2025-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "indexへのバックリンク"
+              "title": "2025-11-02へのバックリンク"
             }
           },
           {
@@ -285,20 +285,28 @@
   },
   "active": "8b378122ca70c766",
   "lastOpenFiles": [
+    "articles/2025-11-07--nazology.kusuguru.co.jp--ai.md",
+    "daily/2025-11-07.md",
+    "daily/2025-11-02.md",
+    "daily/Sun Nov 02 2025 09:00:00 GMT+0900 (Japan Standard Time).md",
+    "daily",
+    "daily/2025-11-02--AI-news.md",
+    "source/news-2025-11-07.md",
+    "source",
+    "weekly/2025-11-02.md",
+    "daily/2025-11-06--AI-news.md",
+    "daily/2025-11-05--AI-news.md",
+    "index.md",
     "index.md.md",
     "index-weekly.md",
-    "index.md",
     "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
     "weekly/2025-11-05.md",
-    "weekly/2025-11-02.md",
     "daily/2025-11-04--AI-news.md",
-    "daily/2025-11-05--AI-news.md",
     "weekly/2025-11-04.md",
     "2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-11-03--AI-news.md",
     "weekly/2025-11-03.md",
-    "daily/2025-11-02--AI-news.md",
     "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
     "articles",
     "無題のファイル.md",

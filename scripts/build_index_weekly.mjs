@@ -1,65 +1,59 @@
-// scripts/build_index_weekly.mjs
+import "dotenv/config";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
-import { writeFile, mkdir } from "node:fs/promises";
+import { writeFile } from "node:fs/promises";
 import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
-import { collectRootArticles, readArticleMeta, inDateRange, makeArticleLink } from "./lib/index-utils.mjs";
+import { ROOT, ensureDirs, collectArticles, readArticleMeta, makeArticleLink, threeColTable, header, jstToday, mondayOfISOWeek } from "./lib/index-utils.mjs";
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const ROOT = process.env.NEWS_ROOT
-  ? path.resolve(process.env.NEWS_ROOT)
-  : path.resolve(__dirname, ".."); // ← ai-news-bot 直下
+export async function buildWeekly(baseDate) {
+  await ensureDirs();
+  const monday = mondayOfISOWeek(baseDate);
+  const files = await collectArticles();
+  const metas = await Promise.all(files.map(readArticleMeta));
+  // その週(月〜日)に属するもの
+  const inWeek = metas.filter(m => {
+    const d = m.data?.date;
+    if (!d) return false;
+    // 月曜から+6日まで
+    return d >= monday && d <= plusDays(monday, 6);
+  });
 
-function ymd(dt = new Date()) { return dt.toISOString().slice(0,10); }
-function ts(d) { return d ? new Date(d + "T00:00:00Z").getTime() : null; }
+  const rows = inWeek
+    .map(m => {
+      const title = (m.data?.title || path.basename(m.file, ".md")).replace(/[\|\n]/g, " ");
+      const rel = path.relative(ROOT, m.file).replace(/\\/g, "/");
+      const link = makeArticleLink(rel, "記事ページへ");
+      const source_url = m.data?.source_url || "";
+      return { title, link, source_url };
+    })
+    .sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
-const argv = yargs(hideBin(process.argv))
-  .option("from", { type: "string" })
-  .option("to",   { type: "string" })
-  .option("link", { type: "string", default: "publish" })
-  .help().argv;
+  const content = [
+    header(`${monday} 週のニュース`),
+    rows.length ? threeColTable(rows) : "_この週は記事がありません_ \n"
+  ].join("");
 
-async function main() {
-  let to = argv.to || ymd(new Date());
-  let from = argv.from;
-  if (!from) {
-    const t = new Date(to + "T00:00:00Z");
-    from = ymd(new Date(t.getTime() - 6*24*60*60*1000));
-  }
-  const fromTs = ts(from), toTs = ts(to);
-  const linkMode = argv.link;
-
-  const files = await collectRootArticles(ROOT);
-  const rows = [];
-  for (const fp of files) {
-    const { data } = await readArticleMeta(fp);
-    if (data?.date && inDateRange(data.date, fromTs, toTs)) {
-      rows.push({
-        date: data.date,
-        title: data.title || "(untitled)",
-        link: makeArticleLink(fp, linkMode),
-        host: data.host || "",
-        tldr: (data.tldr || "").replace(/\n/g, " ")
-      });
-    }
-  }
-
-  const outDir = path.join(ROOT, "weekly");
-  await mkdir(outDir, { recursive: true });
-  const out = path.join(outDir, `${to}.md`);
-
-  const table = [
-    "| 日付 | タイトル | 記事ページへ | 引用元 | 要約 |",
-    "|---|---|---|---|---|",
-    ...rows
-      .sort((a,b)=>b.date.localeCompare(a.date))
-      .map(r => `| ${r.date} | ${r.title} | [記事ページへ](${r.link}) | ${r.host} | ${r.tldr} |`)
-  ].join("\n");
-
-  const md = [`---\nfrom: ${from}\nto: ${to}\n---`, "", "# Weekly Index", "", table].join("\n");
-  await writeFile(out, md, "utf-8");
-  console.log(out);
+  const out = path.join(ROOT, "weekly", `${monday}.md`);
+  await writeFile(out, content, "utf8");
+  console.log(`Wrote weekly: weekly/${monday}.md (${rows.length} rows)`);
 }
 
-main().catch(e => { console.error(e); process.exit(1); });
+function plusDays(ymd, n) {
+  const [Y, M, D] = ymd.split("-").map(Number);
+  const d = new Date(Date.UTC(Y, M - 1, D + n));
+  const yy = d.getUTCFullYear();
+  const mm = String(d.getUTCMonth() + 1).padStart(2, "0");
+  const dd = String(d.getUTCDate()).padStart(2, "0");
+  return `${yy}-${mm}-${dd}`;
+}
+
+if (import.meta.url === `file://${process.argv[1]}`) {
+  const argv = yargs(hideBin(process.argv))
+    .option("date", { type: "string", default: jstToday() })
+    .help().argv;
+
+  buildWeekly(argv.date).catch(e => {
+    console.error(e);
+    process.exit(1);
+  });
+}

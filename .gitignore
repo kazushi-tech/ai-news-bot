@@ -1,5 +1,6 @@
 .env
+.env.*
+news/source/
 node_modules/
-_artifacts/
-out/
 .obsidian/workspace.json
+out/

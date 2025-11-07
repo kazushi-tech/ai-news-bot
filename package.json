@@ -1,22 +1,23 @@
 {
-  "name": "ai-news-bot",
-  "version": "0.1.0",
+  "name": "ai-news-simple",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=20.0.0" },
   "scripts": {
-     "env:boot": "set -a; source .env; set +a; node -p \"process.env.GOOGLE_API_KEY? 'OK':'MISSING'\"",
-    "validate": "node scripts/validate_articles.mjs",
-    "daily": "bash -lc 'DATE=$(date +%F); node scripts/build_index_daily.mjs --date=\"$DATE\" --link=${LINK_MODE:-obsidian}'",
-    "weekly": "bash -lc 'DATE=$(date +%F); node scripts/build_index_weekly.mjs --to=\"$DATE\" --link=${LINK_MODE:-obsidian}'",
-    "backfill": "node scripts/backfill_missing_summaries.mjs --max=30 --dry-run=false --sleep=800",
-    "backfill:dry": "node scripts/backfill_missing_summaries.mjs --max=30 --dry-run=true",
-    "finish": "node scripts/finish_up.mjs && node scripts/build_home.mjs",
+    "ingest:url": "node scripts/ingest.js",
+    "daily": "node scripts/build_index_daily.mjs",
+    "weekly": "node scripts/build_index_weekly.mjs",
     "home": "node scripts/build_home.mjs",
-    "ingest:url": "bash -lc 'EXTRACTOR=readability node scripts/summarize_article.mjs --url \"$URL\" --lang=ja --force && npm run daily && npm run weekly && npm run home'"
+    "validate": "node scripts/validate_articles.mjs",
+    "rebuild-all-daily": "node scripts/rebuild_all_daily.mjs",
+    "source:today": "node scripts/build_source_news.mjs --today",
+    "source:range": "node scripts/build_source_news.mjs",
+    "one": "node scripts/ingest.js --url \"$URL\" && npm run daily && npm run weekly && npm run home && npm run validate && npm run source:today"
   },
-  "devDependencies": {
-    "@eslint/js": "^9.11.0",
-    "eslint": "^9.11.0"
+  "dependencies": {
+    "@mozilla/readability": "^0.5.0",
+    "jsdom": "^25.0.0",
+    "yargs": "^17.7.2",
+    "yaml": "^2.5.0",
+    "undici": "^6.19.8"
   }
 }

@@ -1,101 +1,131 @@
-// ingest.js - repository_dispatch と workflow_dispatch(--urls) の両対応
-import fs from 'node:fs';
-import path from 'node:path';
-import { fileURLToPath } from 'node:url';
-import crypto from 'node:crypto';
-import { normalizeUrl } from './utils/url.js';
-import { loadItems, saveItems, ensureFileDir, appendQueueLine } from './utils/store.js';
+import "dotenv/config";
+import path from "node:path";
+import { writeFile } from "node:fs/promises";
+import { JSDOM } from "jsdom";
+import { Readability } from "@mozilla/readability";
+import { hideBin } from "yargs/helpers";
+import yargs from "yargs";
+import { ROOT, ensureDirs, hostOf, slugify, jstToday, toFrontmatter } from "./lib/index-utils.mjs";
+import { fetch } from "undici";
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const DATA_DIR = path.resolve(__dirname, '../content/data');
-const ITEMS_PATH = path.join(DATA_DIR, 'items.json');
-const QUEUE_PATH = path.join(DATA_DIR, 'queue.jsonl');
+const argv = yargs(hideBin(process.argv))
+  .option("url", { type: "string", demandOption: true })
+  .help().argv;
 
-ensureFileDir(ITEMS_PATH);
-ensureFileDir(QUEUE_PATH);
-if (!fs.existsSync(ITEMS_PATH)) fs.writeFileSync(ITEMS_PATH, '[]');
+const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY;
+const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+const OFFLINE = String(process.env.AI_NEWS_OFFLINE || "0") === "1";
 
-function parseUrls(arg) {
-  if (!arg) return [];
-  return String(arg).split(/[,\s]+/).map(s => s.trim()).filter(Boolean);
+async function fetchArticle(url) {
+  const res = await fetch(url, { redirect: "follow" });
+  if (!res.ok) throw new Error(`Fetch failed: ${res.status}`);
+  const html = await res.text();
+  const dom = new JSDOM(html, { url });
+  const reader = new Readability(dom.window.document);
+  const art = reader.parse();
+  const title = art?.title?.trim() || dom.window.document.title?.trim() || url;
+  const text = (art?.textContent || "").trim();
+  return { title, text };
 }
 
-// CLI --urls 取得
-const i = process.argv.indexOf('--urls');
-const urlsFromCli = i !== -1 ? parseUrls(process.argv[i + 1]) : [];
+async function summarizeWithGemini(text, url) {
+  if (OFFLINE) {
+    const tldr = text.slice(0, 160).replace(/\s+/g, " ") + (text.length > 160 ? "..." : "");
+    return {
+      title: "",
+      tldr,
+      key_points: []
+    };
+  }
+  if (!GOOGLE_API_KEY) throw new Error("API_KEY_INVALID");
 
-// queue.json からの読込（必要なら）
+  const prompt = [
+    "You are a Japanese news summarizer.",
+    "Return strict JSON with fields: title, tldr, key_points (array of 3-6 short bullets).",
+    "Write in Japanese. Keep tldr within 1-3 sentences.",
+    "Input text follows:\n\n",
+    text.slice(0, 12000)
+  ].join("\n");
 
-function sha1(s) { return crypto.createHash('sha1').update(s).digest('hex'); }
-function uniq(a) { return [...new Set(a)]; }
-function splitMaybe(s) { return String(s).split(/[,\s\n]+/).map(v => v.trim()).filter(Boolean); }
-function extractUrlsFromAny(obj) {
+  const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GOOGLE_API_KEY}`;
+  const body = {
+    contents: [{ role: "user", parts: [{ text: prompt }] }],
+    generationConfig: { temperature: 0.2, maxOutputTokens: 512 }
+  };
+
+  const res = await fetch(endpoint, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body)
+  });
+
+  if (!res.ok) {
+    const errText = await res.text();
+    throw new Error(`Gemini API error: ${res.status} ${errText}`);
+  }
+  const data = await res.json();
+  const textOut = data?.candidates?.[0]?.content?.parts?.[0]?.text || "";
+  const jsonStr = extractJson(textOut);
   try {
-    const s = JSON.stringify(obj);
-    const m = s.match(/https?:\/\/[^\s"'<>()]+/g) || [];
-    return uniq(m);
-  } catch { return []; }
+    const obj = JSON.parse(jsonStr);
+    return {
+      title: (obj.title || "").toString(),
+      tldr: (obj.tldr || "").toString(),
+      key_points: Array.isArray(obj.key_points) ? obj.key_points.map(String) : []
+    };
+  } catch (e) {
+    // Fallback: treat whole output as TL;DR
+    return { title: "", tldr: textOut.trim().slice(0, 300), key_points: [] };
+  }
 }
 
-let urls = [];
+function extractJson(s) {
+  // try code fence
+  const fence = s.match(/```json\s*([\s\S]*?)```/i);
+  if (fence) return fence[1].trim();
+  // try first {...}
+  const obj = s.match(/\{[\s\S]*\}/);
+  if (obj) return obj[0];
+  return "{}";
+}
 
-// 1) repository_dispatch payload
-const eventPath = process.env.GITHUB_EVENT_PATH;
-try {
-  if (eventPath && fs.existsSync(eventPath)) {
-    const evt = JSON.parse(fs.readFileSync(eventPath, 'utf8'));
-    const cp = evt?.client_payload ?? {};
+async function main() {
+  await ensureDirs();
+  const source_url = argv.url;
+  const date = jstToday();
+  const host = hostOf(source_url);
+  const { title: rawTitle, text } = await fetchArticle(source_url);
+  const sum = await summarizeWithGemini(text, source_url);
+  const title = sum.title || rawTitle;
 
-    // よくある形：urls / url / text
-    if (Array.isArray(cp.urls)) urls.push(...cp.urls);
-    else if (cp.urls) urls.push(...splitMaybe(cp.urls));
-    else if (cp.url) urls.push(...splitMaybe(cp.url));
-    else if (cp.text) urls.push(...splitMaybe(cp.text));
+  const fileSlug = slugify(new URL(source_url).pathname.replace(/\//g, "-") || rawTitle);
+  const filename = `${date}--${host}--${fileSlug}.md`;
+  const rel = path.join("articles", filename);
+  const abs = path.join(ROOT, rel);
 
-    // それでも無ければ、payload全体を正規表現で総なめ抽出
-    if (urls.length === 0) urls.push(...extractUrlsFromAny(cp));
-  }
-} catch { /* ignore */ }
+  const fm = {
+    title,
+    date,
+    model: GEMINI_MODEL,
+    source_url,
+    host,
+    tldr: sum.tldr,
+    key_points: sum.key_points
+  };
 
-// 2) workflow_dispatch の inputs.urls（--urls 経由）
-const idx = process.argv.indexOf('--urls');
-if (idx > -1) urls.push(...splitMaybe(process.argv.slice(idx + 1).join(' ')));
+  const body = [
+    toFrontmatter(fm),
+    fm.tldr ? `## TL;DR\n\n${fm.tldr}\n\n` : "",
+    fm.key_points?.length ? `## Key Points\n\n${fm.key_points.map(p => `- ${p}`).join("\n")}\n\n` : "",
+    "## 引用元\n\n",
+    `[${host}](${source_url})\n`
+  ].join("");
 
-urls = uniq(urls).filter(Boolean);
-if (urls.length === 0) {
-  console.error('No URLs provided (client_payload.* or --urls).');
+  await writeFile(abs, body);
+  console.log(`Wrote: ${rel}`);
+}
+
+main().catch(e => {
+  console.error(e.message || e);
   process.exit(1);
-}
-
-const items = loadItems(ITEMS_PATH);
-const byHash = new Map(items.map(i => [i.url_hash, i]));
-let newCount = 0;
-
-for (const raw of urls) {
-  const url_norm = normalizeUrl(raw);
-  const url_hash = sha1(url_norm);
-  const now = new Date().toISOString();
-
-  if (!byHash.has(url_hash)) {
-    items.push({
-      url_original: raw,
-      url_norm,
-      url_hash,
-      slug: '',
-      title_ja: '',
-      summary_ja: '',
-      key_points: [],
-      lang: 'ja',
-      created_at: now,
-      last_seen: now,
-      needs_rebuild: true
-    });
-    appendQueueLine(QUEUE_PATH, url_norm);
-    newCount++;
-  } else {
-    byHash.get(url_hash).last_seen = now;
-  }
-}
-
-saveItems(ITEMS_PATH, items);
-console.log(JSON.stringify({ received: urls.length, new_items: newCount }, null, 2));
+});

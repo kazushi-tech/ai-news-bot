@@ -1,41 +1,45 @@
-// scripts/build_home.mjs
-import { readdir, writeFile, mkdir } from "node:fs/promises";
+import "dotenv/config";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
+import { readdir, writeFile, stat } from "node:fs/promises";
+import { ROOT, header } from "./lib/index-utils.mjs";
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const ROOT = process.env.NEWS_ROOT
-  ? path.resolve(process.env.NEWS_ROOT)
-  : path.resolve(__dirname, "..");
+async function latestByDir(dir) {
+  try {
+    const files = (await readdir(path.join(ROOT, dir))).filter(f => f.endsWith(".md"));
+    files.sort((a, b) => b.localeCompare(a)); // 降順
+    return files[0] || null;
+  } catch { return null; }
+}
 
-function sortDesc(a, b) { return b.localeCompare(a); }
+async function recentDaily(n = 7) {
+  try {
+    const files = (await readdir(path.join(ROOT, "daily"))).filter(f => f.endsWith(".md"));
+    files.sort((a, b) => b.localeCompare(a));
+    return files.slice(0, n);
+  } catch { return []; }
+}
 
 async function main() {
-  await mkdir(ROOT, { recursive: true });
-
-  const weeklyDir = path.join(ROOT, "weekly");
-  const dailyDir  = path.join(ROOT, "daily");
-
-  const wfiles = (await readdir(weeklyDir)).filter(f => f.endsWith(".md")).sort(sortDesc);
-  const latestWeekly = wfiles[0] || null;
-
-  const dfiles = (await readdir(dailyDir)).filter(f => f.endsWith(".md")).sort(sortDesc).slice(0, 7);
+  const latestWeekly = await latestByDir("weekly");
+  const recents = await recentDaily(7);
 
   const lines = [];
-  lines.push("# AIニュース — ダッシュボード");
-  lines.push("");
+  lines.push(header("AIニュース（ローカル）"));
   if (latestWeekly) {
-    lines.push(`> **最新のWeekly** → [[weekly/${latestWeekly}|${latestWeekly.replace(".md","")}]]`);
+    lines.push(`- 最新Weekly: [[weekly/${latestWeekly}|${latestWeekly.replace(".md","")}]]\n`);
   }
-  if (dfiles.length) {
+  if (recents.length) {
+    lines.push("## 最近のDaily\n");
+    for (const f of recents) {
+      lines.push(`- [[daily/${f}|${f.replace(".md","")}]]`);
+    }
     lines.push("");
-    lines.push("## 最近のDaily");
-    for (const f of dfiles) lines.push(`- [[daily/${f}|${f.replace(".md","")}]]`);
   }
-  lines.push("");
-  lines.push("> 生成: scripts/build_home.mjs");
-
-  await writeFile(path.join(ROOT, "index.md"), lines.join("\n"), "utf-8");
-  console.log(path.join(ROOT, "index.md"));
+  const out = path.join(ROOT, "index.md");
+  await writeFile(out, lines.join("\n"), "utf8");
+  console.log(`Wrote index: index.md`);
 }
-main().catch(e => { console.error(e); process.exit(1); });
+
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main().catch(e => { console.error(e); process.exit(1); });
+}
