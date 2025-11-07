@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/2025-11-02.md",
+                "file": "articles/2025-11-07--nazology.kusuguru.co.jp--ai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-02"
+              "title": "2025-11-07--nazology.kusuguru.co.jp--ai"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/2025-11-02.md",
+                "file": "articles/2025-11-07--nazology.kusuguru.co.jp--ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-11-02へのバックリンク"
+              "title": "2025-11-07--nazology.kusuguru.co.jp--aiへのバックリンク"
             }
           },
           {
@@ -285,6 +285,10 @@
   },
   "active": "8b378122ca70c766",
   "lastOpenFiles": [
+    "weekly/2025-11-02.md",
+    "weekly/2025-11-04.md",
+    "weekly/2025-11-06.md",
+    "weekly/2025-11-05.md",
     "articles/2025-11-07--nazology.kusuguru.co.jp--ai.md",
     "daily/2025-11-07.md",
     "daily/2025-11-02.md",
@@ -293,16 +297,13 @@
     "daily/2025-11-02--AI-news.md",
     "source/news-2025-11-07.md",
     "source",
-    "weekly/2025-11-02.md",
     "daily/2025-11-06--AI-news.md",
     "daily/2025-11-05--AI-news.md",
     "index.md",
     "index.md.md",
     "index-weekly.md",
     "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
-    "weekly/2025-11-05.md",
     "daily/2025-11-04--AI-news.md",
-    "weekly/2025-11-04.md",
     "2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-11-03--AI-news.md",
