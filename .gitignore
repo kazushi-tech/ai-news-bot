@@ -4,3 +4,11 @@ news/source/
 node_modules/
 .obsidian/workspace.json
 out/
+# === ai-news-bot tidy ===
+/node_modules/
+/artifacts/
+/.cache/
+/saved/
+/news/articles/
+/news/daily/
+/news/weekly/
