@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/2025-11-07--nazology.kusuguru.co.jp--archives-187383.md",
+                "file": "index.md.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-07--nazology.kusuguru.co.jp--archives-187383"
+              "title": "index.md"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/2025-11-07--nazology.kusuguru.co.jp--archives-187383.md",
+                "file": "index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-11-07--nazology.kusuguru.co.jp--archives-187383へのバックリンク"
+              "title": "index.mdへのバックリンク"
             }
           },
           {
@@ -285,8 +285,8 @@
   },
   "active": "8b378122ca70c766",
   "lastOpenFiles": [
-    "index.md.md",
     "articles/2025-11-07--nazology.kusuguru.co.jp--archives-187383.md",
+    "index.md.md",
     "templates/article.md.md",
     "daily/2025-11-08.md",
     "templates/article-tp.md.md",

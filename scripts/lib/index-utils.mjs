@@ -1,100 +1,80 @@
+// scripts/lib/index-utils.mjs
 import fs from "node:fs/promises";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
-import { parse as parseYAML, stringify as stringifyYAML } from "yaml";
+import matter from "gray-matter";
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const ROOT = process.env.NEWS_ROOT ? path.resolve(process.env.NEWS_ROOT) : path.resolve(__dirname, "../../news");
-const LINK_MODE = process.env.LINK_MODE || "obsidian";
-
-export function jstToday() {
-  const fmt = new Intl.DateTimeFormat("ja-JP", { timeZone: "Asia/Tokyo", year: "numeric", month: "2-digit", day: "2-digit" });
-  const [{ value: y }, , { value: m }, , { value: d }] = fmt.formatToParts(new Date());
-  return `${y}-${m}-${d}`;
+export function resolveRoot() {
+  return process.env.NEWS_ROOT
+    ? path.resolve(process.env.NEWS_ROOT)
+    : path.resolve(new URL("..", import.meta.url).pathname);
 }
 
-export function ensureDirs() {
-  return Promise.all([
-    fs.mkdir(path.join(ROOT, "articles"), { recursive: true }),
-    fs.mkdir(path.join(ROOT, "daily"), { recursive: true }),
-    fs.mkdir(path.join(ROOT, "weekly"), { recursive: true }),
-    fs.mkdir(path.join(ROOT, "source"), { recursive: true })
-  ]);
+export function newsDir(root) {
+  return path.join(root, "news");
+}
+export function articlesDir(root) {
+  return path.join(newsDir(root), "articles");
 }
 
-export function slugify(s) {
-  return s.toLowerCase()
-    .replace(/https?:\/\//g, "")
-    .replace(/[^a-z0-9\-_.]+/g, "-")
-    .replace(/-+/g, "-")
-    .replace(/^-|-$/g, "")
-    .slice(0, 80) || "article";
+export async function collectArticleFiles(root) {
+  const dir = articlesDir(root);
+  const files = await fs.readdir(dir, { withFileTypes: true });
+  const out = [];
+  for (const ent of files) {
+    if (ent.isFile() && ent.name.endsWith(".md")) {
+      out.push(path.join(dir, ent.name));
+    }
+  }
+  return out;
 }
 
-export function hostOf(url) {
-  try { return new URL(url).host; } catch { return "unknown-host"; }
-}
-
-export async function writeFileSafe(fp, content) {
-  await fs.mkdir(path.dirname(fp), { recursive: true });
-  await fs.writeFile(fp, content, "utf8");
-}
-
-export function toFrontmatter(obj) {
-  const yaml = stringifyYAML(obj, { lineWidth: 0 });
-  return `---\n${yaml}---\n`;
-}
-
-// scripts/lib/index-utils.mjs の中
-export function makeArticleLink(relPath, text = "記事ページへ") {
-  // relPath 例: "articles/2025-11-07--host--slug.md"
-  const full = `news/${relPath}`.replace(/\\/g, "/").replace(/\.md$/i, "");
-  return `[[${full}|${text}]]`;
-}
-
-
-
-export async function readArticleMeta(fp) {
+export async function readArticleMeta(fp, root) {
   const raw = await fs.readFile(fp, "utf8");
-  const m = raw.match(/^---\n([\s\S]*?)\n---/);
-  if (!m) return { data: {}, body: raw, raw, file: fp };
-  const data = parseYAML(m[1] || "") || {};
-  const body = raw.slice(m[0].length);
-  return { data, body, raw, file: fp };
+  const { data } = matter(raw);
+  const relPath = path.relative(root, fp).replace(/\\/g, "/"); // for Obsidian
+  // date は string or Date の両対応で YYYY-MM-DD を返す
+  let dateStr = "";
+  if (typeof data.date === "string") {
+    dateStr = data.date.slice(0, 10);
+  } else if (data.date && typeof data.date.toISOString === "function") {
+    dateStr = data.date.toISOString().slice(0, 10);
+  }
+  return {
+    title: data.title ?? "",
+    title_ja: data.title_ja ?? "",
+    source_url: data.source_url ?? "",
+    host: data.host ?? "",
+    date: dateStr,
+    relPath,
+  };
 }
 
-export async function collectArticles() {
-  const dir = path.join(ROOT, "articles");
-  let files = [];
-  try { files = await fs.readdir(dir); } catch { return []; }
-  return files
-    .filter(f => f.endsWith(".md"))
-    .map(f => path.join(dir, f));
+export function makeArticleLink(relPath, mode = "obsidian") {
+  if (mode === "obsidian") {
+    return `[[${relPath}|記事ページへ]]`;
+  }
+  if (mode === "publish") {
+    const slug = `/${relPath.replace(/^news\//, "news/").replace(/\.md$/, "")}`;
+    return `[記事ページへ](${slug})`;
+  }
+  return relPath;
 }
 
-export function ymd(date = new Date()) {
-  const fmt = new Intl.DateTimeFormat("ja-JP", { timeZone: "Asia/Tokyo", year: "numeric", month: "2-digit", day: "2-digit" });
-  const [{ value: y }, , { value: m }, , { value: d }] = fmt.formatToParts(date);
-  return `${y}-${m}-${d}`;
+export function ymd(dateMaybe) {
+  if (typeof dateMaybe === "string") return dateMaybe.slice(0, 10);
+  if (dateMaybe instanceof Date) return dateMaybe.toISOString().slice(0, 10);
+  return new Date().toISOString().slice(0, 10);
 }
 
-export function mondayOfISOWeek(dateStr) {
-  const [Y, M, D] = dateStr.split("-").map(Number);
-  const d = new Date(Date.UTC(Y, M - 1, D));
-  // convert to Monday
-  const day = d.getUTCDay() || 7; // Sun=0 -> 7
-  d.setUTCDate(d.getUTCDate() - (day - 1));
-  return ymd(d);
+export function startOfISOWeek(d) {
+  const date = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
+  const day = (date.getUTCDay() || 7); // 1-7
+  if (day !== 1) date.setUTCDate(date.getUTCDate() - (day - 1));
+  return date;
 }
-
-export function header(title) {
-  return `# ${title}\n\n`;
+export function endOfISOWeek(d) {
+  const s = startOfISOWeek(d);
+  const e = new Date(s);
+  e.setUTCDate(e.getUTCDate() + 6);
+  return e;
 }
-
-export function threeColTable(rows) {
-  const head = `| タイトル | 記事ページへ | 引用元 |\n|---|---|---|\n`;
-  const body = rows.map(r => `| ${r.title} | ${r.link} | [引用元へ](${r.source_url}) |`).join("\n");
-  return head + body + "\n";
-}
-
-export { ROOT };

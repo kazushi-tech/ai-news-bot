@@ -14,11 +14,24 @@ const CONFIG = path.join(ROOT, "feeds", "ai-news.yml");
 const yamlText = await fs.readFile(CONFIG, "utf8");
 const conf = YAML.parse(yamlText ?? "{}");
 
+// ---- 既存のYAML設定（既定値） ----
 const sinceDays     = Number(conf.since_days ?? 2);
 const maxPer        = Number(conf.max_per_source ?? 5);
 const maxPerDomain  = Number(conf.max_per_domain ?? 2);
 const totalCap      = Number(conf.max_total ?? 50);
 const cutoff        = Date.now() - sinceDays * 24 * 60 * 60 * 1000;
+
+// ---- 追記: 環境変数で上書きできる除外＆上限 ----
+// 例) RSS_EXCLUDE_DOMAINS="huggingface.co,theverge.com"
+// 例) RSS_PER_DOMAIN_CAP="1"
+const denyHosts = new Set(
+  (process.env.RSS_EXCLUDE_DOMAINS || "")
+    .split(",")
+    .map(s => s.trim().toLowerCase())
+    .filter(Boolean)
+);
+// env未設定ならYAMLの max_per_domain を採用
+const perDomainCap = Number(process.env.RSS_PER_DOMAIN_CAP ?? maxPerDomain);
 
 const parser = new Parser();
 const limit  = pLimit(2);
@@ -79,6 +92,12 @@ function canonicalLink(it) {
   return link || null;
 }
 
+// hostname（www.除去・小文字化）
+function hostOf(u) {
+  try { return new URL(u).hostname.replace(/^www\./, "").toLowerCase(); }
+  catch { return "invalid"; }
+}
+
 const pickSet = new Set();
 
 for (const s of (conf.sources ?? [])) {
@@ -112,19 +131,33 @@ for (const s of (conf.sources ?? [])) {
   console.log("[info]", s.rss, "-> 取得:" + rawItems.length, "/ 追加:" + add, "/ 合計:" + pickSet.size);
 }
 
-// ドメイン偏りを抑制
-const host = (u) => {
-  try { return new URL(u).hostname.replace(/^www\./, ""); }
-  catch { return "invalid"; }
-};
+// ---- 追記: 除外ドメインをここで弾く ----
+let candidates = Array.from(pickSet);
+const beforeExclude = candidates.length;
+if (denyHosts.size) {
+  candidates = candidates.filter(u => !denyHosts.has(hostOf(u)));
+}
+const excludedCount = beforeExclude - candidates.length;
+console.log(
+  "[filter] denyDomains:",
+  denyHosts.size ? Array.from(denyHosts).join(",") : "(none)",
+  "/ excluded:", excludedCount
+);
+
+// ドメイン偏りを抑制（env優先の perDomainCap を使用）
 const byHost = {};
-for (const u of pickSet) (byHost[host(u)] ||= []).push(u);
+for (const u of candidates) (byHost[hostOf(u)] ||= []).push(u);
 
 const balanced = [];
-for (const h of Object.keys(byHost)) balanced.push(...byHost[h].slice(0, maxPerDomain));
+for (const h of Object.keys(byHost)) balanced.push(...byHost[h].slice(0, perDomainCap));
 
 const finalList = balanced.slice(0, totalCap);
-console.log("[done] 候補 合計:" + pickSet.size + " / ドメイン調整後:" + balanced.length + " / 送出:" + finalList.length);
+console.log(
+  "[done] 候補 合計:" + pickSet.size +
+  " / deny後:" + candidates.length +
+  " / ドメイン調整後:" + balanced.length +
+  " / 送出:" + finalList.length
+);
 
 const runSummarize = (url) => new Promise((resolve) => {
   const p = spawn("node", ["scripts/summarize_from_clip.mjs", "--url", url], { cwd: ROOT });

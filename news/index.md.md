@@ -1,17 +1,18 @@
+
 ---
-title: "AI News — Index"
+title: AI News — Index
 ---
 
-## AI News 一覧
+# AI News — 一覧
 
 ```dataview
-table
-  title as タイトル,
-  link(file.path, "記事ページへ") as 記事ページへ,
-  link(url, default(source, domain)) as 引用元
-from "news/articles"
-sort file.ctime desc
-limit 200
+TABLE WITHOUT ID
+  choice(length(default(title_ja, "")) > 0, default(title_ja, ""), "（タイトル未設定）") AS "タイトル",
+  link(file.link, "記事ページへ") AS "記事ページへ",
+  link(default(source_url, url), "引用元") AS "引用元"
+FROM "news/articles"
+SORT default(date, file.ctime) DESC
+
 `````
 
 

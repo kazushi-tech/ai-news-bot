@@ -1,13 +1,14 @@
 ---
 title: 記事タイトル
-date: 2025-11-02
+date: 2025-11-02T00:00:00.000Z
 model: gemini-2.5-flash
-source_url: https://example.com/path
+source_url: 'https://example.com/path'
 host: example.com
 tldr: 1〜3文で要約。
 key_points:
   - ポイント1
   - ポイント2
+title_ja: 記事タイトル
 ---
 ```dataview
 TABLE 

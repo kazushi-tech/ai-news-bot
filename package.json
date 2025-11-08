@@ -10,7 +10,8 @@
     "ingest": "node scripts/ingest_rss.mjs",
     "home": "node scripts/build_home.mjs",
     "validate": "node scripts/validate_articles.mjs",
-    "one": "npm run summarize && npm run daily -- --date $(date +%F) --link obsidian && npm run weekly -- --link obsidian && npm run home -- --link obsidian && npm run validate"
+    "one": "npm run summarize && npm run daily -- --date $(date +%F) --link obsidian && npm run weekly -- --link obsidian && npm run home -- --link obsidian && npm run validate",
+    "today": "npm run ingest && npm run one"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

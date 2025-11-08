@@ -1,9 +1,9 @@
 # feeds/ai-news.yml
 # ばらつきを出したいので期間を少し広めに（必要なら戻してOK）
-since_days: 7
-max_per_source: 6
+since_days: 2
+max_per_source: 5
 max_per_domain: 2
-max_total: 40
+max_total: 12
 
 sources:
   # =========================
