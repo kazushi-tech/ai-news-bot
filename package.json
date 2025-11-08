@@ -1,24 +1,30 @@
 {
-  "name": "ai-news-simple",
+  "name": "ai-news-pipeline",
   "private": true,
   "type": "module",
+  "version": "1.0.0",
   "scripts": {
-    "ingest:url": "node scripts/ingest.js",
+    "summarize": "node scripts/summarize_article.mjs --pending",
     "daily": "node scripts/build_index_daily.mjs",
     "weekly": "node scripts/build_index_weekly.mjs",
+    "ingest": "node scripts/ingest_rss.mjs",
     "home": "node scripts/build_home.mjs",
     "validate": "node scripts/validate_articles.mjs",
-    "rebuild-all-daily": "node scripts/rebuild_all_daily.mjs",
-    "source:today": "node scripts/build_source_news.mjs --today",
-    "source:range": "node scripts/build_source_news.mjs",
-    "one": "node scripts/ingest.js --url \"$URL\" && npm run daily && npm run weekly && npm run home && npm run validate && npm run source:today"
+    "one": "npm run summarize && npm run daily -- --date $(date +%F) --link obsidian && npm run weekly -- --link obsidian && npm run home -- --link obsidian && npm run validate"
   },
   "dependencies": {
-    "@mozilla/readability": "^0.5.0",
-    "dotenv": "^17.2.3",
-    "jsdom": "^25.0.1",
-    "undici": "^6.22.0",
-    "yaml": "^2.8.1",
-    "yargs": "^17.7.2"
+    "cheerio": "^1.0.0",
+    "date-fns": "^4.1.0",
+    "date-fns-tz": "^3.1.0",
+    "discord.js": "14.24.2",
+    "dotenv": "16.6.1",
+    "gray-matter": "^4.0.3",
+    "p-limit": "7.2.0",
+    "rss-parser": "3.13.0",
+    "undici": "^6.19.8",
+    "yaml": "2.8.1"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }

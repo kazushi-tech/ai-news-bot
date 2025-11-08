@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/2025-11-07--nazology.kusuguru.co.jp--ai.md",
-                "mode": "source",
+                "file": "articles/2025-11-07--nazology.kusuguru.co.jp--archives-187383.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-07--nazology.kusuguru.co.jp--ai"
+              "title": "2025-11-07--nazology.kusuguru.co.jp--archives-187383"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/2025-11-07--nazology.kusuguru.co.jp--ai.md",
+                "file": "articles/2025-11-07--nazology.kusuguru.co.jp--archives-187383.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-11-07--nazology.kusuguru.co.jp--aiへのバックリンク"
+              "title": "2025-11-07--nazology.kusuguru.co.jp--archives-187383へのバックリンク"
             }
           },
           {
@@ -285,15 +285,27 @@
   },
   "active": "8b378122ca70c766",
   "lastOpenFiles": [
-    "daily/2025-11-03.md",
+    "index.md.md",
     "articles/2025-11-07--nazology.kusuguru.co.jp--archives-187383.md",
-    "weekly/2025-11-02.md",
-    "weekly/2025-11-04.md",
-    "weekly/2025-11-06.md",
-    "weekly/2025-11-05.md",
+    "templates/article.md.md",
+    "daily/2025-11-08.md",
+    "templates/article-tp.md.md",
     "articles/2025-11-07--nazology.kusuguru.co.jp--ai.md",
-    "daily/2025-11-07.md",
+    "無題のファイル.md",
+    "index-weekly.md",
+    "index.md",
+    "conflict-files-obsidian-git.md",
+    "2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
+    "weekly/2025-11-06.md",
+    "weekly/2025-W45.md",
+    "weekly/2025-11-03.md",
+    "weekly/2025-11-04.md",
+    "daily/2025-11-03.md",
     "daily/2025-11-02.md",
+    "daily/2025-11-07.md",
+    "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
+    "weekly/2025-11-05.md",
+    "weekly/2025-11-02.md",
     "daily/Sun Nov 02 2025 09:00:00 GMT+0900 (Japan Standard Time).md",
     "daily",
     "daily/2025-11-02--AI-news.md",
@@ -301,19 +313,7 @@
     "source",
     "daily/2025-11-06--AI-news.md",
     "daily/2025-11-05--AI-news.md",
-    "index.md",
-    "index.md.md",
-    "index-weekly.md",
-    "articles/2025-11-02--bloomberg.co.jp--aiバブル懸念が再燃-巨額投資の裏で広がるリスクとは-quicktake-bloomberg.md",
-    "daily/2025-11-04--AI-news.md",
-    "2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
-    "conflict-files-obsidian-git.md",
-    "daily/2025-11-03--AI-news.md",
-    "weekly/2025-11-03.md",
-    "articles/2025-11-03--www.theinformation.com--marc-benioff-said-ai-was-easy-a-crazy-team-at-salesforce-proved-him-wrong.md",
     "articles",
-    "無題のファイル.md",
-    "templates/article.md.md",
     "templates"
   ]
 }

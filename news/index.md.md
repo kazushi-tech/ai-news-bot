@@ -1,19 +1,20 @@
 ---
-title: AI News ダッシュボード
+title: "AI News — Index"
 ---
 
-## 日次
+## AI News 一覧
+
 ```dataview
-TABLE WITHOUT ID file.link AS "日次"
-FROM "news/daily"
-SORT file.name DESC
-LIMIT 7
+table
+  title as タイトル,
+  link(file.path, "記事ページへ") as 記事ページへ,
+  link(url, default(source, domain)) as 引用元
+from "news/articles"
+sort file.ctime desc
+limit 200
 `````
-## 週次
-```dataview
-TABLE WITHOUT ID file.link AS "週次"
-FROM "news/weekly"
-SORT file.name DESC
-LIMIT 8
-`````
+
+
+
+
 

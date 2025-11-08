@@ -45,14 +45,14 @@ export function toFrontmatter(obj) {
   return `---\n${yaml}---\n`;
 }
 
+// scripts/lib/index-utils.mjs の中
 export function makeArticleLink(relPath, text = "記事ページへ") {
-  // relPath: e.g. articles/2025-11-07--example.com--foo.md
-  const noExt = relPath.replace(/\.md$/i, "");
-  if (LINK_MODE === "obsidian") {
-    return `[[${noExt}|${text}]]`;
-  }
-  return `[${text}](${relPath})`;
+  // relPath 例: "articles/2025-11-07--host--slug.md"
+  const full = `news/${relPath}`.replace(/\\/g, "/").replace(/\.md$/i, "");
+  return `[[${full}|${text}]]`;
 }
+
+
 
 export async function readArticleMeta(fp) {
   const raw = await fs.readFile(fp, "utf8");

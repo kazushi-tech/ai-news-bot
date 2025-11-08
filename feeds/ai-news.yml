@@ -1,0 +1,101 @@
+# feeds/ai-news.yml
+# ばらつきを出したいので期間を少し広めに（必要なら戻してOK）
+since_days: 7
+max_per_source: 6
+max_per_domain: 2
+max_total: 40
+
+sources:
+  # =========================
+  # ニュース検索（多様化の主力）
+  # =========================
+  - name: GoogleNews_ja_AI
+    rss: "https://news.google.com/rss/search?q=%E7%94%9F%E6%88%90AI+OR+AI+OR+LLM+OR+OpenAI+OR+Anthropic+-site:x.com&hl=ja&gl=JP&ceid=JP:ja"
+  - name: GoogleNews_en_AI
+    rss: "https://news.google.com/rss/search?q=AI+OR+Generative+AI+OR+LLM+OR+OpenAI+OR+Anthropic+-site:x.com&hl=en-US&gl=US&ceid=US:en"
+
+  # =========================
+  # テック系メディア（英語）
+  # =========================
+  - name: TheVerge_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:theverge.com/ai&hl=en-US&gl=US&ceid=US:en"
+  - name: TechCrunch_AI_feed
+    rss: "https://techcrunch.com/tag/artificial-intelligence/feed/"
+  - name: MITTechReview_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:technologyreview.com/topic/artificial-intelligence&hl=en-US&gl=US&ceid=US:en"
+  - name: ArsTechnica_IT_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:arstechnica.com/information-technology&hl=en-US&gl=US&ceid=US:en"
+  - name: Wired_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:wired.com/tag/artificial-intelligence&hl=en-US&gl=US&ceid=US:en"
+  - name: VentureBeat_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:venturebeat.com/ai&hl=en-US&gl=US&ceid=US:en"
+  - name: Reuters_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:reuters.com/technology/ai&hl=en-US&gl=US&ceid=US:en"
+  - name: CNBC_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:cnbc.com+AI&hl=en-US&gl=US&ceid=US:en"
+  - name: FT_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:ft.com+%22artificial+intelligence%22&hl=en-US&gl=US&ceid=US:en"
+  - name: Guardian_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:theguardian.com/technology+%22artificial+intelligence%22&hl=en-US&gl=US&ceid=US:en"
+  - name: TheInformation_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:theinformation.com+AI&hl=en-US&gl=US&ceid=US:en"
+
+  # =========================
+  # 日本語メディア
+  # =========================
+  - name: ITmedia_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:itmedia.co.jp/news+AI&hl=ja&gl=JP&ceid=JP:ja"
+  - name: Impress_Watch_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:impress.co.jp+%E7%94%9F%E6%88%90AI+OR+AI&hl=ja&gl=JP&ceid=JP:ja"
+  - name: Gigazine_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:gigazine.net+AI&hl=ja&gl=JP&ceid=JP:ja"
+  - name: CNETJapan_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:japan.cnet.com+AI&hl=ja&gl=JP&ceid=JP:ja"
+  - name: ZDNetJapan_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:japan.zdnet.com+AI&hl=ja&gl=JP&ceid=JP:ja"
+  - name: Nikkei_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:nikkei.com+%E7%94%9F%E6%88%90AI+OR+AI&hl=ja&gl=JP&ceid=JP:ja"
+  - name: BloombergJP_AI_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:bloomberg.co.jp+%E7%94%9F%E6%88%90AI+OR+AI&hl=ja&gl=JP&ceid=JP:ja"
+  - name: Nazology_feed
+    rss: "https://nazology.kusuguru.co.jp/feed/"
+
+  # =========================
+  # 公式ブログ・研究（直接RSSが不安定な所はGNewsで代替）
+  # =========================
+  - name: Google_AI_Blog_feed
+    rss: "https://blog.google/technology/ai/rss/"
+  - name: DeepMind_site_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:deepmind.google/discover&hl=en-US&gl=US&ceid=US:en"
+  - name: OpenAI_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:openai.com/blog&hl=en-US&gl=US&ceid=US:en"
+  - name: Anthropic_news_research_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:anthropic.com/news+OR+site:anthropic.com/research&hl=en-US&gl=US&ceid=US:en"
+  - name: MetaAI_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:ai.meta.com/blog&hl=en-US&gl=US&ceid=US:en"
+  - name: Microsoft_Research_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:microsoft.com/en-us/research/blog&hl=en-US&gl=US&ceid=US:en"
+  - name: Azure_AI_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:azure.microsoft.com/en-us/blog+AI&hl=en-US&gl=US&ceid=US:en"
+  - name: NVIDIA_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:blogs.nvidia.com+AI&hl=en-US&gl=US&ceid=US:en"
+  - name: HuggingFace_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:huggingface.co/blog&hl=en-US&gl=US&ceid=US:en"
+  - name: StabilityAI_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:stability.ai/blog&hl=en-US&gl=US&ceid=US:en"
+  - name: Databricks_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:databricks.com/blog+AI&hl=en-US&gl=US&ceid=US:en"
+  - name: Cerebras_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:cerebras.net/blog&hl=en-US&gl=US&ceid=US:en"
+  - name: MistralAI_news_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:mistral.ai/news&hl=en-US&gl=US&ceid=US:en"
+  - name: xAI_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:x.ai/blog&hl=en-US&gl=US&ceid=US:en"
+  - name: Perplexity_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:perplexity.ai/blog&hl=en-US&gl=US&ceid=US:en"
+  - name: Cohere_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:cohere.com/blog&hl=en-US&gl=US&ceid=US:en"
+  - name: LangChain_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:langchain.com/blog&hl=en-US&gl=US&ceid=US:en"
+  - name: LlamaIndex_blog_via_GNews
+    rss: "https://news.google.com/rss/search?q=site:llamaindex.ai/blog+OR+site:llamaindex.com/blog&hl=en-US&gl=US&ceid=US:en"

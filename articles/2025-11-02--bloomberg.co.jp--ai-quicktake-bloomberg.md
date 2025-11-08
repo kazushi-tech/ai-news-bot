@@ -3,7 +3,7 @@ title: AIバブル懸念が再燃、巨額投資の裏で広がるリスクと�
 date: '2025-11-02'
 model: gemini-2.5-flash
 source_url: 'https://www.bloomberg.co.jp/news/articles/2025-10-04/T3LZDKGOT0JK00'
-host: bloomberg.co.jp
+host: www.bloomberg.co.jp
 tldr: >-
   巨額のAI投資が続く中で、収益モデルの未確立や資本破壊のリスクから、1990年代後半のドットコム・バブルのような投資過熱への懸念が再燃しています。しかし、AI業界のリーダーたちは、AGI（汎用AI）の長期的な可能性と急速な普及に強い自信を示しています。
 key_points:

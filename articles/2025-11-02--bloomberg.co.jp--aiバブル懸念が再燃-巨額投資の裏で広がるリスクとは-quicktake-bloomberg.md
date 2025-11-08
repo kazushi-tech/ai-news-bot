@@ -1,9 +1,9 @@
 ---
 title: AIバブル懸念が再燃、巨額投資の裏で広がるリスクとは－QuickTake - Bloomberg
-date: 2025-11-02T00:00:00.000Z
+date: '2025-11-02'
 model: gemini-2.5-flash
 source_url: 'https://www.bloomberg.co.jp/news/articles/2025-10-04/T3LZDKGOT0JK00'
-host: bloomberg.co.jp
+host: www.bloomberg.co.jp
 tldr: >-
   AIブームに伴う巨額投資が続く一方で、1990年代のドットコム・バブルに似た投資過熱とリスクへの懸念が再燃しています。収益モデルの不確実性や中国企業の台頭、電力消費増大といった課題が指摘される中、業界リーダーは楽観的見通しを維持しています。
 key_points:
