@@ -6,12 +6,29 @@ model: "gemini-2.5-flash"
 host: ""
 tags: [ai-news]
 ---
-## 概要 (TL;DR)
-## 重要ポイント
-## 詳細レポート（What happened/背景/影響/関係者/データ表）
-## 引用（Notable quotes）
-## リスクと課題
-## 今後の見通し/アクション
-
 ---
-## Source URL（必須）
+title: ""
+date: 2025-11-09
+host: ""
+source_url: ""
+url:
+model: gemini-2.5-flash
+---
+
+# {{title}}
+
+> [!quote] 引用元
+> - 元記事: {{source_url}}
+> - 媒体: {{host}}
+
+> [!summary] 概要
+（要約）
+
+## 詳細レポート
+（本文／箇条書き）
+
+> [!tip] 重要な示唆
+- （示唆）
+
+> [!warning] リスク・未確定要素
+- （懸念）

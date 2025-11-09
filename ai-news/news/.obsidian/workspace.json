@@ -8,133 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6c4b1a2278b6816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-26-andrej-karpathy-agi-is-still-a-decade-away-dc08e95a"
-            }
-          },
-          {
-            "id": "c84e0bd627e2db30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index-weekly.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index-weekly"
-            }
-          },
-          {
-            "id": "0f08aa51b0c1f9e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly/2025-11-02.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-02"
-            }
-          },
-          {
-            "id": "c3378d203e473e47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly/2025-11-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-02"
-            }
-          },
-          {
-            "id": "808c30c25f89c3b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-11-03--AI-news.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-03--AI-news"
-            }
-          },
-          {
-            "id": "2d3474a6f54268a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly/2025-11-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-03"
-            }
-          },
-          {
-            "id": "5f56cf2463ef00a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-11-02--AI-news.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-02--AI-news"
-            }
-          },
-          {
-            "id": "26a11f9f99b5fb87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index-weekly.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index-weekly"
-            }
-          },
-          {
             "id": "8b378122ca70c766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index.md"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,8 +170,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b378122ca70c766",
+  "active": "34537ffc16288a5d",
   "lastOpenFiles": [
+    "2025-11-09--AI-news.md",
+    "index.pdf",
+    "weekly/2025-W44.md",
+    "weekly/NaN-WNaN.md",
+    "daily/2025-10-31.md",
+    "daily/Sun Nov 02 2025 09:00:00 GMT+0900 (Japan Standard Time).md",
+    "daily/Mon Nov 03 2025 09:00:00 GMT+0900 (Japan Standard Time).md",
+    "daily/2025-11-04.md",
+    "daily/Fri Nov 07 2025 09:00:00 GMT+0900 (Japan Standard Time).md",
+    "daily/Sat Nov 08 2025 09:00:00 GMT+0900 (Japan Standard Time).md",
+    "daily/2025-11-09.md",
+    "index-weekly.md",
+    "index.md.md",
+    "index.md",
+    "index.md.pdf",
+    "daily/2025-11-08.md",
+    "articles/2025-11-09--nazology.kusuguru.co.jp--160073.md",
+    "articles/2025-11-09--news.google.com--cbmif0fvx3lxte1idvq0bwdfexrsmhjca04yx3jisjk1cjfec1lzafdaszfisgsyugfrunpcqtbsdzjtqlzrenjqzwdcshvzmufvtuftajf0rzzotklqlxvvowpoyzvrutazv21fywztbufqb2x6d0q3tetvqkfmmwfvsxzpckxdcjg.md",
+    "articles/2025-11-08--nazology.kusuguru.co.jp--124552.md",
+    "articles/2025-11-09--news.google.com--cbmiuefvx3lxte9zndd1a1oyvjjawnvjsu1aekhqxzc4ztkyewxgunm5nvjjq19nqnrfrurba3p2rg9pqkrbmvndu3daumfzz3lhts13anbpt3lf.md",
     "sources/theinformation.com.md",
     "sources/bloomberg.co.jp.md",
     "sources/wsj.com.md",
@@ -294,32 +201,12 @@
     "weekly/2025-11-07.md",
     "daily/2025-11-05.md",
     "daily/2025-11-03--AI-news.md",
-    "daily/2025-11-07--AI-news.md",
-    "daily/2025-11-06.md",
-    "daily/2025-11-02--AI-news.md",
-    "articles/2025-11-06--huggingface.co--screensuite-the-most-comprehensive-evaluation-suite-for-gui-agents.md",
-    "articles/2025-11-04--huggingface.co--screenenv-deploy-your-full-stack-desktop-agent.md",
-    "articles/2025-11-06--huggingface.co--introducing-agents-js-give-tools-to-your-llms-using-javascript.md",
-    "articles/2025-11-06--huggingface.co--ai-apps-in-a-flash-with-gradio-s-reload-mode.md",
-    "articles/2025-11-04--huggingface.co--introducing-smolagents-simple-agents-that-write-actions-in-code.md",
-    "articles/2025-11-06--huggingface.co--diffusers-welcomes-stable-diffusion-3.md",
-    "articles/2025-11-06--huggingface.co--hugging-face-partners-with-wiz-research-to-improve-ai-security.md",
-    "articles/2025-11-04--huggingface.co--4m-models-scanned-protect-ai-hugging-face-6-months-in.md",
-    "articles/2025-11-07--blog.google--new-google-finance-ai-deep-search.md",
-    "articles/2025-11-06--huggingface.co--open-source-text-generation-llm-ecosystem-at-hugging-face.md",
-    "articles/2025-11-03--huggingface.co--mcp-for-research-how-to-connect-ai-to-research-tools.md",
-    "articles/2025-11-06--huggingface.co--featherless-ai-on-hugging-face-inference-providers.md",
-    "articles/2025-11-05--huggingface.co--introducing-w-rstchen-fast-diffusion-for-image-generation.md",
-    "articles/2025-11-03--huggingface.co--accelerating-stable-diffusion-xl-inference-with-jax-on-cloud-tpu-v5e.md",
-    "articles/2025-11-06--huggingface.co--unlock-the-power-of-images-with-ai-sheets.md",
     "sources/sources/rss.txt",
     "sources/sources",
     "weekly/weekly",
     "daily/daily",
     "articles/articles/Users/omats/git-check/myapp/ai-news-bot",
     "articles/articles/Users/omats/git-check/myapp",
-    "articles/articles/Users/omats/git-check",
-    "articles/articles/Users/omats",
-    "articles/articles/Users"
+    "articles/articles/Users/omats/git-check"
   ]
 }

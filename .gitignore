@@ -12,3 +12,8 @@ out/
 /news/articles/
 /news/daily/
 /news/weekly/
+**/node_modules/
+**/.pnpm/
+**/.yarn/
+**/.cache/
+/news/

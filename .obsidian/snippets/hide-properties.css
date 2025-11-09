@@ -1,0 +1,7 @@
+/* hide front-matter Properties everywhere (reader + editor) */
+.metadata-container,
+.metadata-properties,
+.metadata-add-button,
+.cm-embed-block .metadata-container {
+  display: none !important;
+}

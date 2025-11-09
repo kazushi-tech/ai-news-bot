@@ -9,5 +9,6 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "highlightr-plugin",
-  "editor-width-slider"
+  "editor-width-slider",
+  "callout-manager"
 ]

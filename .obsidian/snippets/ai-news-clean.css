@@ -1,0 +1,45 @@
+/* プロパティ UI を完全に非表示（読み取り/ライブプレビュー） */
+.metadata-container,
+.cm-line.HyperMD-frontmatter,
+.cm-hmd-frontmatter { display:none !important; }
+
+/* callout の見出しなどに残る英語を抑制する（最低限） */
+.callout[data-callout="cite"] .callout-title-inner { visibility:hidden; }
+.callout[data-callout="cite"] .callout-title-inner::after { 
+  content: "引用元"; visibility:visible;
+}
+
+/* ===== タイトルを大きく・太く ===== */
+.markdown-reading-view h1,
+.cm-s-obsidian .HyperMD-header-1 {
+  font-size: 2.6rem;
+  font-weight: 800;
+  letter-spacing: .02em;
+  line-height: 1.15;
+  margin-top: .6rem;
+  margin-bottom: 1rem;
+}
+
+/* サブ見出しの和見出しをくっきり */
+.markdown-reading-view h2,
+.cm-s-obsidian .HyperMD-header-2 {
+  font-weight: 700;
+  border-left: 4px solid var(--color-accent);
+  padding-left: .6rem;
+}
+
+/* 引用元コールアウトを見やすく */
+.callout[data-callout="cite"] {
+  border-left: 4px solid var(--color-accent);
+  background: rgba(127,127,127,.08);
+}
+.callout[data-callout="cite"] .callout-title-inner { visibility:hidden; }
+.callout[data-callout="cite"] .callout-title-inner::after {
+  content: "引用元"; visibility:visible;
+  font-weight: 700;
+}
+
+/* プロパティUI（frontmatter）を完全に隠す */
+.metadata-container,
+.cm-line.HyperMD-frontmatter,
+.cm-hmd-frontmatter { display: none !important; }

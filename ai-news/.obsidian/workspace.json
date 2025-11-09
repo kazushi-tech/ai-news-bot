@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "example.com/2025-11-01-ai-news.md",
-                "mode": "source",
+                "file": "news/index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-01-ai-news"
+              "title": "index"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "news/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "indexへのバックリンク"
             }
           },
           {
@@ -152,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,9 +163,47 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f5c6ddd7b4bdcbee",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "scripts/doctor_title_autofill.mjs",
+    "scripts/doctor_layout.mjs",
+    "scripts/summarize_one.mjs",
+    "news/index.md.md",
+    "articles/2025-11-09--nazology.kusuguru.co.jp--ai.md",
+    "scripts/doctor_jp_style.mjs",
+    "index.md",
+    "articles/2025-11-09--nazology.kusuguru.co.jp--138937.md",
+    "articles/2025-11-09--news.google.com--cbmibefvx3lxte03em1cckxkenawbetqufm3df9zyxlumdnuudj3zfhcymitsnlrzwx2bhpoznjrbjz1mgvkbtheauhmug5qadg1ylpgd0hrum1cyxvtahe1wwv3thdamddcrep4enpinfvaqmdzrq.md",
+    "articles/2025-11-09--nazology.kusuguru.co.jp--124708.md",
+    "articles/2025-11-09--nazology.kusuguru.co.jp--124642.md",
+    "articles/2025-11-09--news.google.com--cbmix0fvx3lxte1fc1b5afrmn1hqeepvlu8zoudgrfljv3f1odm4ovc4uwjhry1fyvrdmdvbr3r6twjmewxxmgxymtbsrgdwduvxu0hsvgozvldzdjjld3ptcndoeuvqthzz.md",
+    "scripts/news/weekly/2025-W45.md",
+    "scripts/news/daily/2025-11-09.md",
+    "scripts/utils/slug.js",
+    "scripts/utils/url.js",
+    "scripts/utils/store.js",
+    "scripts/templates/tech.md",
+    "scripts/news/weekly",
+    "scripts/utils/dify.js",
+    "scripts/templates/general.md",
+    "scripts/templates/research.md",
+    "scripts/templates/policy.md",
+    "scripts/news/daily",
+    "scripts/lib/index-utils.mjs",
+    "articles/2025-11-09--news.google.com--cbmivefvx3lxte9yy2z1a0i1nnqwtfr6wug0rmjmufpolvlmtmrva0s3m1fatzroem5uqldnuklqoviwlw0xce5zzgv1shm5qxzuvxfxandgt09huvlquw.md",
+    "articles/2025-11-08--blog.google--oklahoma-workforce-talent-pipeline.md",
+    "news/articles/articles/2025-11-08--news.google.com--cbmiuefvx3lxte9zndd1a1oyvjjawnvjsu1aekhqxzc4ztkyewxgunm5nvjjq19nqnrfrurba3p2rg9pqkrbmvndu3daumfzz3lhts13anbpt3lf.md",
+    "news/weekly/weekly/2025-11-06.md",
+    "news/weekly/weekly/2025-11-05.md",
+    "news/weekly/weekly/2025-11-03.md",
+    "news/weekly/2025-11-06.md",
+    "news/weekly/2025-11-07.md",
+    "news/weekly/2025-W45.md",
+    "example.com/2025-11-01-ai-news.md"
+  ]
 }

@@ -1,7 +1,21 @@
 {
-  "cSpell.words": [
-    "jaconv", "gclid", "fbclid", "igshid",
-    "utm", "dedup", "tkey", "cssclass",
-    "repo", "dispatch", "Obsidian"
-  ]
+  "files.exclude": {
+    "/news/**": true,              // ルート直下の「news」だけ隠す（ai-news/news には当たらない）
+    "**/node_modules/**": true,
+    "**/.pnpm/**": true,
+    "**/.yarn/**": true,
+    "**/.cache/**": true
+  },
+  "search.exclude": {
+    "/news/**": true,
+    "**/node_modules/**": true,
+    "**/.pnpm/**": true,
+    "**/.yarn/**": true
+  },
+  "files.watcherExclude": {
+    "/news/**": true,
+    "**/node_modules/**": true,
+    "**/.pnpm/**": true,
+    "**/.yarn/**": true
+  }
 }

@@ -7,23 +7,26 @@
     "summarize": "node scripts/summarize_article.mjs --pending",
     "daily": "node scripts/build_index_daily.mjs",
     "weekly": "node scripts/build_index_weekly.mjs",
-    "ingest": "node scripts/ingest_rss.mjs",
+    "ingest": "node scripts/ingest_rss.mjs && node scripts/doctor_jp_style.mjs",
     "home": "node scripts/build_home.mjs",
     "validate": "node scripts/validate_articles.mjs",
-    "one": "npm run summarize && npm run daily -- --date $(date +%F) --link obsidian && npm run weekly -- --link obsidian && npm run home -- --link obsidian && npm run validate",
-    "today": "npm run ingest && npm run one"
+    "one": "node scripts/summarize_one.mjs && node scripts/doctor_jp_style.mjs && node scripts/build_home.mjs",
+    "today": "npm run ingest && npm run one",
+    "bot:url": "node scripts/bot_ingest_url.mjs",
+    "bot": "node tools/discord-bot/index.mjs"
   },
   "dependencies": {
     "cheerio": "^1.0.0",
     "date-fns": "^4.1.0",
     "date-fns-tz": "^3.1.0",
-    "discord.js": "14.24.2",
+    "discord.js": "^14.24.2",
     "dotenv": "16.6.1",
     "gray-matter": "^4.0.3",
     "p-limit": "7.2.0",
     "rss-parser": "3.13.0",
     "undici": "^6.19.8",
-    "yaml": "2.8.1"
+    "yaml": "2.8.1",
+    "yargs": "^18.0.0"
   },
   "engines": {
     "node": ">=20"

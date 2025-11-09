@@ -1,0 +1,42 @@
+/* === AI News tables (read view) === */
+.markdown-preview-view table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+.markdown-preview-view thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--background-primary);
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+.markdown-preview-view table tr:nth-child(even) {
+  background: var(--background-secondary);
+}
+.markdown-preview-view table th,
+.markdown-preview-view table td {
+  padding: 8px 10px;
+  vertical-align: top;
+  word-wrap: break-word;
+}
+
+/* 「記事ページへ」をボタン風に */
+.markdown-preview-view a[href^="articles/"] {
+  display: inline-block;
+  padding: 2px 10px;
+  border: 1px solid var(--interactive-accent);
+  border-radius: 8px;
+  text-decoration: none;
+}
+.markdown-preview-view a[href^="articles/"]:hover {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+/* セクション見出しの余白微調整 */
+.markdown-preview-view h2 {
+  margin-top: 1.2rem;
+  padding-top: .2rem;
+  border-top: 1px solid var(--background-modifier-border);
+}
