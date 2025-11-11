@@ -108,7 +108,7 @@ jobs:
             exit 1
           fi
 
-          node scripts/summarize.mjs \
+          node .dev/scripts/summarize.mjs \
             "${ARGS[@]}" \
             --style general --lang ja --model gemini-2.5-flash \
             2>&1 | tee summarize.log

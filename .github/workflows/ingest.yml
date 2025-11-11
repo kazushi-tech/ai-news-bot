@@ -19,7 +19,7 @@ jobs:
       - run: npm ci
       - run: npm run env:boot
       - name: Ingest URL
-        run: node scripts/ingest_url.mjs --url "${{ github.event.client_payload.url }}"
+        run: node .dev/scripts/ingest_url.mjs --url "${{ github.event.client_payload.url }}"
       - name: Rebuild indexes
         run: |
           npm run daily
