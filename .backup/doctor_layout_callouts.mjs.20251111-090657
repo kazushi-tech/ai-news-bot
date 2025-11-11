@@ -1,0 +1,97 @@
+// file: .dev/scripts/doctor_layout_callouts.mjs
+import 'dotenv/config';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import matter from 'gray-matter';
+
+const ROOT = process.env.NEWS_ROOT || './ai-news';
+const ART  = path.join(ROOT, 'articles');
+
+const SECTIONS = [
+  '概要',
+  '詳細レポート',
+  '抽出テキスト',
+  '具体的なポイント',
+  '重要な示唆',
+  'リスク・未確定要素',
+  '引用・ソース'
+];
+
+function splitByH2(md){
+  const lines = md.split('\n');
+  let head = [];
+  const sections = [];
+  let cur = null;
+  for(const ln of lines){
+    const m = ln.match(/^##\s+(.+?)\s*$/);
+    if(m){
+      if(cur) sections.push(cur);
+      cur = { title: m[1].trim(), body: [] };
+    }else{
+      if(cur) cur.body.push(ln); else head.push(ln);
+    }
+  }
+  if(cur) sections.push(cur);
+  return { head: head.join('\n').trim(), sections };
+}
+
+function normalize(md, tldr, sourceUrl){
+  const lines = md.replace(/\r\n/g,'\n').split('\n');
+  let out = [];
+  let i = 0;
+  if(/^#\s+/.test(lines[0])){ out.push(lines[0]); i = 1; }
+  for(; i<lines.length; i++){
+    out.push(/^#\s+/.test(lines[i]) ? lines[i].replace(/^#\s+/,'## ') : lines[i]);
+  }
+  let body = out.join('\n');
+
+  // 既存コールアウトは一旦除去（本文は再生成するので潔くクリア）
+  body = body
+    .replace(/^\s*>\s*\[\!\s*(summary|info|note|tip)\s*.*$/gmi,'')
+    .replace(/^(>\s.*\n?)+/gmi,'');
+
+  const tldrText = (tldr || '').trim() || '（要約準備中）';
+  // ← ここを collapsed 既定にする（[!summary]-）
+  const tldrBlock = `\n> [!summary]- TL;DR\n> ${tldrText.split('\n').join('\n> ')}\n`;
+
+  const { head, sections } = splitByH2(body);
+  const map = new Map();
+  for(const s of sections){
+    const key = SECTIONS.find(k => s.title.startsWith(k));
+    if(key) map.set(key, (s.body.join('\n') || '').trim());
+  }
+
+  const sourceSec = sourceUrl ? `- 元記事: ${sourceUrl}\n` : '';
+
+  const rebuilt = [
+    head.trim(),
+    tldrBlock.trim(),
+    ...SECTIONS.map(k => `\n## ${k}\n\n${(map.get(k)||'').trim()}`)
+  ].join('\n').replace(/\n{3,}/g,'\n\n').trim();
+
+  const withSource = rebuilt.replace(/(## 引用・ソース\s*\n+)/, `$1${sourceSec}`);
+  return withSource.trim() + '\n';
+}
+
+async function runFile(fp){
+  const raw = await fs.readFile(fp,'utf8');
+  const parsed = matter(raw);
+  const tldr = (parsed.data.tldr || '').toString();
+  const source = (parsed.data.source_url || '').toString();
+  const body = normalize(parsed.content, tldr, source);
+  const out = matter.stringify(body, parsed.data);
+  if(out !== raw){ await fs.writeFile(fp, out, 'utf8'); return true; }
+  return false;
+}
+
+async function main(){
+  const files = (await fs.readdir(ART).catch(()=>[])).filter(f=>f.endsWith('.md'));
+  let changed = 0;
+  for(const f of files){
+    const fp = path.join(ART, f);
+    const ok = await runFile(fp).catch(()=>false);
+    if(ok) changed++;
+  }
+  console.log(`[doctor:layout] changed ${changed} file(s).`);
+}
+main().catch(e=>{ console.error(e); process.exit(1); });

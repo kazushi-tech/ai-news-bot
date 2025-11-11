@@ -4,6 +4,8 @@
   "enabledCssSnippets": [
     "hide-dev-folders",
     "hide-properties",
-    "news-reading"
+    "news-reading",
+    "ai-news-table",
+    "ai-news-clean"
   ]
 }

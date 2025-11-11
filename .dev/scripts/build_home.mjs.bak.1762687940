@@ -1,0 +1,119 @@
+// file: scripts/build_home.mjs
+import fs from "node:fs/promises";
+import path from "node:path";
+import matter from "gray-matter";
+
+const ROOT = process.env.NEWS_ROOT
+  ? path.resolve(process.env.NEWS_ROOT)
+  : path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
+
+const OUT        = path.join(ROOT, "index.md");
+const HOME_LIMIT = Number(process.env.HOME_LIMIT || 12);
+const FRESH_DAYS = Number(process.env.FRESH_DAYS || 30);
+
+const ARTICLES_DIRS = [
+  path.join(ROOT, "articles"),
+  path.join(ROOT, "articles", new Date().toISOString().slice(0,10)), // あれば拾う
+];
+
+const clamp = (s,n=140)=> (s && s.length>n) ? s.slice(0,n-1)+"…" : (s||"");
+const splitRuns = (s, n=32)=> s.replace(/[^\s]{60,}/g, m => m.match(new RegExp(`.{1,${n}}`,"g")).join(" "));
+
+function isFresh(ms){
+  if (!FRESH_DAYS) return true;
+  return (Date.now() - ms) <= FRESH_DAYS*24*60*60*1000;
+}
+
+async function listFiles() {
+  const out = [];
+  for (const d of ARTICLES_DIRS){
+    try{
+      const files=(await fs.readdir(d)).filter(f=>f.endsWith(".md"));
+      for (const f of files) out.push(path.join(d,f));
+    }catch{}
+  }
+  return [...new Set(out)];
+}
+
+function extractTitleFromBody(body){
+  const pick = (re)=> (body.match(re)||[])[1]?.trim();
+  const post = pick(/^\s*##\s*投稿内容\s*\n+([\s\S]*?)(?:\n{2,}|^\s*##\s)/m);
+  const summ = pick(/^\s*##\s*概要\s*\n+([\s\S]*?)(?:\n{2,}|^\s*##\s)/m);
+  const h1   = pick(/^\s*#\s+(.+?)$/m);
+  const para = (body.replace(/^#.*$/m,"").match(/\n\n([^#\n].*?)\n\n/s)||[])[1] || "";
+  let t = (post || summ || h1 || para)
+    .replace(/```[\s\S]*?```/g,"")
+    .replace(/!\[[^\]]*]\([^)]+\)/g,"")
+    .replace(/\[([^\]]+)]\([^)]+\)/g,"$1")
+    .replace(/^\s*#+\s*/gm,"")
+    .replace(/\s+/g," ")
+    .trim();
+  if (/^title:\s*x$/i.test(t) || /^x$/i.test(t) || /^https?:\/\//i.test(t)) t = "";
+  return clamp(splitRuns(t));
+}
+
+function relFromRoot(fp){
+  const rel = path.relative(ROOT, fp).replace(/\\/g,"/");
+  return rel.startsWith("articles/") ? rel : `articles/${path.basename(fp)}`;
+}
+
+function htmlEscape(s){ return (s||"").replace(/[&<>]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[m])); }
+
+function rowHTML(title, link, src){
+  // タイトルはインラインstyleで2行折り返し強制（CSS不要）
+  const tDiv = `<div style="white-space:normal;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;word-break:break-all;overflow-wrap:anywhere;">${htmlEscape(title||"(無題)")}</div>`;
+  const linkCell = `<a href="${link}">記事ページへ</a>`;
+  const srcCell  = src ? `<a href="${src}" target="_blank" rel="noopener">${htmlEscape(new URL(src).host)}</a>` : "";
+  return `<tr><td>${tDiv}</td><td style="text-align:center;white-space:nowrap;">${linkCell}</td><td style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">${srcCell}</td></tr>`;
+}
+
+async function main(){
+  const files = await listFiles();
+  const items = [];
+  for (const fp of files){
+    try{
+      const stat = await fs.stat(fp);
+      const raw  = await fs.readFile(fp,"utf8");
+      const g    = matter(raw);
+      const fmT  = (g.data?.title || "").toString().trim();
+      const body = g.content || "";
+      const title = (!fmT || /^x$/i.test(fmT) || /^https?:\/\//i.test(fmT) || /^title:\s*x$/i.test(fmT))
+        ? extractTitleFromBody(body)
+        : fmT;
+      items.push({
+        created: stat.mtime?.getTime?.() || 0,
+        fresh: isFresh(stat.mtime?.getTime?.() || 0),
+        title,
+        link: relFromRoot(fp),
+        src: g.data?.source_url || g.data?.url || g.data?.source || ""
+      });
+    }catch{}
+  }
+
+  // 新しい＆fresh優先
+  items.sort((a,b)=> (b.fresh - a.fresh) || (b.created - a.created));
+  const list = items.slice(0, HOME_LIMIT);
+
+  // ここからは **純HTMLテーブル**（Markdown表は使わない）
+  const table = [
+    `<table style="table-layout:fixed;width:100%;">`,
+    `<colgroup><col style="width:65%"><col style="width:10%"><col style="width:25%"></colgroup>`,
+    `<thead><tr><th>タイトル</th><th>記事ページへ</th><th>引用元</th></tr></thead>`,
+    `<tbody>`,
+    ...list.map(v => rowHTML(v.title, v.link, v.src)),
+    `</tbody></table>`
+  ].join("");
+
+  const md = [
+    `# AI News`,
+    ``,
+    `## 要約一覧（合計 ${list.length}件）`,
+    ``,
+    table,
+    ``
+  ].join("\n");
+
+  await fs.writeFile(OUT, md, "utf8");
+  console.log(`Wrote index: ${path.relative(ROOT,OUT)} | rows: ${list.length}`);
+}
+main().catch(e=>{ console.error(e); process.exit(1); });

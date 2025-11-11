@@ -18,15 +18,13 @@ if (urls.length === 0) {
 
 const run = (url) => new Promise((resolve) => {
   const p = spawn("node", ["scripts/summarize_from_clip.mjs", "--url", url], { cwd: ROOT });
-  p.on("close", (code) => resolve({ code, url }));
+  let out = "", err = "";
+  p.stdout.on("data", d => out += d.toString());
+  p.stderr.on("data", d => err += d.toString());
+  p.on("close", (code) => resolve({ code, out, err, url }));
 });
 
-for (const raw of urls) {
-  const url = raw.trim();
-  if (!/^https?:\/\//.test(url) || url.includes("####")) { // ← ダミー行は弾く
-    console.log("[skip]", url);
-    continue;
-  }
+for (const url of urls) {
   console.log("[ingest]", url);
   const r = await run(url);
   console.log(r.code === 0 ? "[ok]" : "[ng]", url);

@@ -1,34 +1,28 @@
 {
   "name": "ai-news-pipeline",
-  "private": true,
+  "version": "1.1.0",
   "type": "module",
-  "version": "1.0.0",
-  "scripts": {
-    "summarize": "node scripts/summarize_article.mjs --pending",
-    "daily": "node scripts/build_index_daily.mjs",
-    "weekly": "node scripts/build_index_weekly.mjs",
-    "ingest": "node scripts/ingest_rss.mjs && node scripts/doctor_jp_style.mjs",
-    "home": "node scripts/build_home.mjs",
-    "validate": "node scripts/validate_articles.mjs",
-    "one": "node scripts/summarize_one.mjs && node scripts/doctor_jp_style.mjs && node scripts/build_home.mjs",
-    "today": "npm run ingest && npm run one",
-    "bot:url": "node scripts/bot_ingest_url.mjs",
-    "bot": "node tools/discord-bot/index.mjs"
-  },
-  "dependencies": {
-    "cheerio": "^1.0.0",
-    "date-fns": "^4.1.0",
-    "date-fns-tz": "^3.1.0",
-    "discord.js": "^14.24.2",
-    "dotenv": "16.6.1",
-    "gray-matter": "^4.0.3",
-    "p-limit": "7.2.0",
-    "rss-parser": "3.13.0",
-    "undici": "^6.19.8",
-    "yaml": "2.8.1",
-    "yargs": "^18.0.0"
-  },
   "engines": {
     "node": ">=20"
+  },
+  "scripts": {
+    "home": "node .dev/scripts/build_home.mjs",
+    "doctor:title": "node .dev/scripts/doctor_title_autofill.mjs",
+    "doctor:layout": "node .dev/scripts/doctor_layout_callouts.mjs",
+    "doctor:tldr": "node .dev/scripts/doctor_generate_tldr.mjs",
+    "add:url": "node .dev/scripts/add_url.mjs",
+    "ingest:urls": "node .dev/scripts/ingest_urls.mjs",
+    "watch:discord": "node .dev/scripts/watch_discord.mjs",
+    "collect:clips": "node .dev/scripts/collect_clips.mjs",
+    "push": "node .dev/scripts/push.mjs"
+  },
+  "dependencies": {
+    "@mozilla/readability": "^0.5.0",
+    "date-fns-tz": "^2.0.0",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "gray-matter": "^4.0.3",
+    "jsdom": "^24.0.0",
+    "undici": "^6.19.8"
   }
 }

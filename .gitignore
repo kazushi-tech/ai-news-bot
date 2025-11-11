@@ -17,3 +17,5 @@ out/
 **/.yarn/
 **/.cache/
 /news/
+lib/node_modules/
+lib/
