@@ -5,9 +5,9 @@ import { spawn } from 'node:child_process';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
-const TOKEN = process.env.DISCORD_TOKEN || '';
-const CHID  = (process.env.DISCORD_CHANNEL_ID || '').trim();
-const ROOT  = process.env.NEWS_ROOT || './ai-news';
+const TOKEN = process.env.DISCORD_TOKEN ?? '';
+const CHID  = (process.env.DISCORD_CHANNEL_ID ?? '').trim();
+const ROOT  = process.env.NEWS_ROOT ?? './ai-news';
 const QFILE = path.join(ROOT, 'queue', 'urls.txt');
 
 if (!TOKEN) {
@@ -24,10 +24,15 @@ const client = new Client({
   partials: [Partials.Channel],
 });
 
-// v15 / v14 どちらでも動くように両方掛ける
-const onReady = (c) => console.log(`[discord] logged in as ${c.user.tag}`);
-client.once('clientReady', onReady);       // v15 推奨イベント名
-client.once(Events.ClientReady, onReady);  // v14 互換（実体は 'ready'）
+// v14/v15 両対応（clientReady を追加）＋ 二重発火防止
+let didReady = false;
+const onReady = (c) => {
+  if (didReady) return;
+  didReady = true;
+  console.log(`[discord] logged in as ${c.user.tag}`);
+};
+client.once('clientReady', onReady);      // v15 推奨名
+client.once(Events.ClientReady, onReady); // v14 互換（v15でも同値）
 
 function extractUrls(text = '') {
   const rx = /https?:\/\/[^\s<>()]+/g;
@@ -46,7 +51,7 @@ async function addQueue(urls) {
   return added;
 }
 
-let timer = null;
+let timer;
 function debounceIngest(ms = 5000) {
   clearTimeout(timer);
   timer = setTimeout(() => {

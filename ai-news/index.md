@@ -12,6 +12,11 @@
 </thead>
 <tbody>
 <tr>
+<td style="vertical-align:top;padding:8px;border-bottom:1px solid #ddd;"><div style="max-width:540px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;line-height:1.35;font-weight:600">Google prepares Genie 3 public experiment with AI worlds</div></td>
+<td style="vertical-align:top;padding:8px;border-bottom:1px solid #ddd;;width:180px"><a href="articles/2025-11-12--testingcatalog.com--google-prepares-genie-3-public-experiment-with-ai-generated-worlds.md" style="text-decoration:none;">記事ページへ</a></td>
+<td style="vertical-align:top;padding:8px;border-bottom:1px solid #ddd;;width:220px"><a href="https://www.testingcatalog.com/google-prepares-genie-3-public-experiment-with-ai-generated-worlds/" style="text-decoration:none;">testingcatalog.com</a></td>
+</tr>
+<tr>
 <td style="vertical-align:top;padding:8px;border-bottom:1px solid #ddd;"><div style="max-width:540px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;line-height:1.35;font-weight:600">research</div></td>
 <td style="vertical-align:top;padding:8px;border-bottom:1px solid #ddd;;width:180px"><a href="articles/2025-11-11–openai.com–research.md" style="text-decoration:none;">記事ページへ</a></td>
 <td style="vertical-align:top;padding:8px;border-bottom:1px solid #ddd;;width:220px"><a href="https://openai.com/research" style="text-decoration:none;">openai.com</a></td>
@@ -65,11 +70,6 @@
 <td style="vertical-align:top;padding:8px;border-bottom:1px solid #ddd;"><div style="max-width:540px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;line-height:1.35;font-weight:600">スタンフォード大学の研究から「その確率も教えて」でAIが覚醒すると判明 - ナゾロジー</div></td>
 <td style="vertical-align:top;padding:8px;border-bottom:1px solid #ddd;;width:180px"><a href="articles/2025-11-09--nazology.kusuguru.co.jp--ai.md" style="text-decoration:none;">記事ページへ</a></td>
 <td style="vertical-align:top;padding:8px;border-bottom:1px solid #ddd;;width:220px"><a href="https://nazology.kusuguru.co.jp/archives/187383" style="text-decoration:none;">nazology.kusuguru.co.jp</a></td>
-</tr>
-<tr>
-<td style="vertical-align:top;padding:8px;border-bottom:1px solid #ddd;"><div style="max-width:540px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;line-height:1.35;font-weight:600">AIが人間の「奇妙な思考」を学習：非合理的な夢を生成する新システム開発</div></td>
-<td style="vertical-align:top;padding:8px;border-bottom:1px solid #ddd;;width:180px"><a href="articles/2025-11-09--nazology.kusuguru.co.jp--187631.md" style="text-decoration:none;">記事ページへ</a></td>
-<td style="vertical-align:top;padding:8px;border-bottom:1px solid #ddd;;width:220px"></td>
 </tr>
 </tbody>
 </table>
