@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=20.0.0" },
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "scripts": {
-     "env:boot": "set -a; source .env; set +a; node -p \"process.env.GOOGLE_API_KEY? 'OK':'MISSING'\"",
+    "env:boot": "set -a; source .env; set +a; node -p \"process.env.GOOGLE_API_KEY? 'OK':'MISSING'\"",
     "validate": "node scripts/validate_articles.mjs",
     "daily": "bash -lc 'DATE=$(date +%F); node scripts/build_index_daily.mjs --date=\"$DATE\" --link=${LINK_MODE:-obsidian}'",
     "weekly": "bash -lc 'DATE=$(date +%F); node scripts/build_index_weekly.mjs --to=\"$DATE\" --link=${LINK_MODE:-obsidian}'",
@@ -18,5 +20,8 @@
   "devDependencies": {
     "@eslint/js": "^9.11.0",
     "eslint": "^9.11.0"
+  },
+  "dependencies": {
+    "@sindresorhus/slugify": "^3.0.0"
   }
 }
