@@ -1,0 +1,146 @@
+/* news-table.css
+ * Vault: /Users/omats/git-check/myapp 用
+ * ai-news-bot の daily / weekly / index を Dラボっぽいカードテーブルにする
+ */
+
+/* 対象ノート（ai-news-bot の daily / weekly / index）だけを絞り込む */
+.markdown-preview-view[data-path^="ai-news-bot/daily/"],
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"],
+.markdown-preview-view[data-path="ai-news-bot/index"],
+.markdown-preview-view[data-path="ai-news-bot/index.md"] {
+  display: flex;
+  justify-content: center;
+}
+
+/* 中身コンテナの最大幅（本文全体の幅） */
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] .markdown-preview-sizer,
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] .markdown-preview-sizer,
+.markdown-preview-view[data-path="ai-news-bot/index"] .markdown-preview-sizer,
+.markdown-preview-view[data-path="ai-news-bot/index.md"] .markdown-preview-sizer {
+  max-width: 960px;
+}
+
+/* テーブル本体をカード化 ---------------------------------------- */
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] table,
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] table,
+.markdown-preview-view[data-path="ai-news-bot/index"] table,
+.markdown-preview-view[data-path="ai-news-bot/index.md"] table {
+  width: 100%;
+  max-width: 960px;
+  margin: 24px auto;
+  border-collapse: collapse;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.35);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+
+/* ヘッダー行（タイトル行） -------------------------------------- */
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] thead,
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] thead,
+.markdown-preview-view[data-path="ai-news-bot/index"] thead,
+.markdown-preview-view[data-path="ai-news-bot/index.md"] thead {
+  background: linear-gradient(90deg, #ff6b6b, #feca57);
+  color: #fff;
+}
+
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] thead th,
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] thead th,
+.markdown-preview-view[data-path="ai-news-bot/index"] thead th,
+.markdown-preview-view[data-path="ai-news-bot/index.md"] thead th {
+  padding: 10px 14px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-align: left;
+  white-space: nowrap;
+}
+
+/* 各列の幅（おおよそ Dラボ風バランス） -------------------------- */
+/* 1列目: タイトル / 2列目: 記事ページへ / 3列目: 引用元 / 4列目: 要約 */
+
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] thead th:nth-child(1),
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] thead th:nth-child(1),
+.markdown-preview-view[data-path="ai-news-bot/index"] thead th:nth-child(1),
+.markdown-preview-view[data-path="ai-news-bot/index.md"] thead th:nth-child(1),
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] tbody td:nth-child(1),
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] tbody td:nth-child(1),
+.markdown-preview-view[data-path="ai-news-bot/index"] tbody td:nth-child(1),
+.markdown-preview-view[data-path="ai-news-bot/index.md"] tbody td:nth-child(1) {
+  width: 28%;
+}
+
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] thead th:nth-child(2),
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] thead th:nth-child(2),
+.markdown-preview-view[data-path="ai-news-bot/index"] thead th:nth-child(2),
+.markdown-preview-view[data-path="ai-news-bot/index.md"] thead th:nth-child(2),
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] tbody td:nth-child(2),
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] tbody td:nth-child(2),
+.markdown-preview-view[data-path="ai-news-bot/index"] tbody td:nth-child(2),
+.markdown-preview-view[data-path="ai-news-bot/index.md"] tbody td:nth-child(2) {
+  width: 20%;
+}
+
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] thead th:nth-child(3),
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] thead th:nth-child(3),
+.markdown-preview-view[data-path="ai-news-bot/index"] thead th:nth-child(3),
+.markdown-preview-view[data-path="ai-news-bot/index.md"] thead th:nth-child(3),
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] tbody td:nth-child(3),
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] tbody td:nth-child(3),
+.markdown-preview-view[data-path="ai-news-bot/index"] tbody td:nth-child(3),
+.markdown-preview-view[data-path="ai-news-bot/index.md"] tbody td:nth-child(3) {
+  width: 16%;
+}
+
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] thead th:nth-child(4),
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] thead th:nth-child(4),
+.markdown-preview-view[data-path="ai-news-bot/index"] thead th:nth-child(4),
+.markdown-preview-view[data-path="ai-news-bot/index.md"] thead th:nth-child(4),
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] tbody td:nth-child(4),
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] tbody td:nth-child(4),
+.markdown-preview-view[data-path="ai-news-bot/index"] tbody td:nth-child(4),
+.markdown-preview-view[data-path="ai-news-bot/index.md"] tbody td:nth-child(4) {
+  width: 36%;
+}
+
+/* 本文行 -------------------------------------------------------- */
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] tbody tr,
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] tbody tr,
+.markdown-preview-view[data-path="ai-news-bot/index"] tbody tr,
+.markdown-preview-view[data-path="ai-news-bot/index.md"] tbody tr {
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] tbody tr:nth-child(odd),
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] tbody tr:nth-child(odd),
+.markdown-preview-view[data-path="ai-news-bot/index"] tbody tr:nth-child(odd),
+.markdown-preview-view[data-path="ai-news-bot/index.md"] tbody tr:nth-child(odd) {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] tbody tr:hover,
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] tbody tr:hover,
+.markdown-preview-view[data-path="ai-news-bot/index"] tbody tr:hover,
+.markdown-preview-view[data-path="ai-news-bot/index.md"] tbody tr:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+/* セル共通（パディング＆折り返し） ------------------------------ */
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] td,
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] td,
+.markdown-preview-view[data-path="ai-news-bot/index"] td,
+.markdown-preview-view[data-path="ai-news-bot/index.md"] td {
+  padding: 10px 14px;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  word-break: break-word;
+}
+
+/* 要約列だけ 2 行までに制限（純粋な CSS だけで実装） ---------- */
+.markdown-preview-view[data-path^="ai-news-bot/daily/"] tbody td:nth-child(4),
+.markdown-preview-view[data-path^="ai-news-bot/weekly/"] tbody td:nth-child(4),
+.markdown-preview-view[data-path="ai-news-bot/index"] tbody td:nth-child(4),
+.markdown-preview-view[data-path="ai-news-bot/index.md"] tbody td:nth-child(4) {
+  max-height: calc(1.4em * 2.2); /* だいたい 2 行ぶん */
+  overflow: hidden;
+}

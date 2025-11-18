@@ -22,7 +22,11 @@
     "eslint": "^9.11.0"
   },
   "dependencies": {
+    "@mozilla/readability": "^0.6.0",
     "@sindresorhus/slugify": "^3.0.0",
-    "undici": "^7.16.0"
+    "gray-matter": "^4.0.3",
+    "jsdom": "^27.2.0",
+    "undici": "^7.16.0",
+    "yargs": "^18.0.0"
   }
 }

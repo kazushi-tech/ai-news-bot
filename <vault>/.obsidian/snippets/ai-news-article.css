@@ -1,0 +1,29 @@
+/* AI News 記事ノート用スタイル
+ * 対象: ai-news/articles/**/*.md
+ */
+
+.markdown-preview-view[data-path^="ai-news/articles/"] {
+  line-height: 1.7;
+}
+
+/* タイトル */
+.markdown-preview-view[data-path^="ai-news/articles/"] h1 {
+  font-size: 1.8em;
+  margin-bottom: 0.6em;
+}
+
+/* セクション見出し */
+.markdown-preview-view[data-path^="ai-news/articles/"] h2 {
+  font-size: 1.25em;
+  margin-top: 1.6em;
+  margin-bottom: 0.4em;
+  border-left: 3px solid var(--text-accent);
+  padding-left: 0.5em;
+}
+
+/* TL;DR 部分だけ少し背景を付ける */
+.markdown-preview-view[data-path^="ai-news/articles/"] h2 + ul {
+  padding: 0.75em 1em;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.03);
+}
