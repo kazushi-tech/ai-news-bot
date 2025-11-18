@@ -9,20 +9,41 @@
     "home": "node .dev/scripts/build_home.mjs",
     "doctor:title": "node .dev/scripts/doctor_title_autofill.mjs",
     "doctor:layout": "node .dev/scripts/doctor_layout_callouts.mjs",
-    "doctor:tldr": "node .dev/scripts/doctor_generate_tldr.mjs",
+    "doctor:tldr": "node .dev/scripts/doctor_generate_tldr_all.mjs",
     "add:url": "node .dev/scripts/add_url.mjs",
     "ingest:urls": "node .dev/scripts/ingest_urls.mjs",
     "watch:discord": "node .dev/scripts/watch_discord.mjs",
     "collect:clips": "node .dev/scripts/collect_clips.mjs",
-    "push": "node .dev/scripts/push.mjs"
+    "push": "node .dev/scripts/push.mjs",
+    "refresh:home": "npm run ingest:urls && npm run doctor:tldr && npm run home",
+    "ingest:manual-tweet": "node .dev/scripts/ingest_manual_tweet.mjs",
+    "weekly": "node .dev/scripts/build_weekly.mjs",
+    "doctor:host": "node .dev/scripts/doctor_host_source_normalize.mjs",
+    "sources": "node .dev/scripts/build_sources_index.mjs",
+    "manual:new": "node .dev/scripts/add_manual_article.mjs",
+    "doctor:tldr-block": "node .dev/scripts/doctor_sync_tldr_block.mjs",
+    "doctor:overview": "node .dev/scripts/doctor_fill_overview_from_tldr.mjs",
+    "doctor:props": "node .dev/scripts/doctor_normalize_frontmatter.mjs",
+    "doctor:detail": "node .dev/scripts/doctor_generate_detail_report.mjs",
+    "doctor:source-block": "node .dev/scripts/doctor_insert_source_block.mjs",
+    "collect:feeds": "node .dev/scripts/collect_feeds.mjs",
+    "daily": "npm run collect:feeds && npm run refresh:news",
+    "refresh:news": "npm run ingest:urls && npm run doctor:tldr && npm run doctor:tldr-block && npm run doctor:overview && npm run home && npm run weekly && npm run sources"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@mozilla/readability": "^0.5.0",
+    "@sindresorhus/slugify": "^3.0.0",
     "date-fns-tz": "^2.0.0",
     "discord.js": "^14.16.3",
-    "dotenv": "16.6.1",
     "gray-matter": "^4.0.3",
+    "iconv-lite": "^0.7.0",
     "jsdom": "^24.0.0",
-    "undici": "^6.19.8"
+    "rss-parser": "^3.13.0",
+    "undici": "^6.19.8",
+    "yaml": "^2.5.0"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.3"
   }
 }
