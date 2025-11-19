@@ -15,6 +15,7 @@
     "backfill:dry": "node scripts/backfill_missing_summaries.mjs --max=30 --dry-run=true",
     "finish": "node scripts/finish_up.mjs && node scripts/build_home.mjs",
     "home": "node scripts/build_home.mjs",
+    "discord": "node scripts/discord_bot.mjs",
     "ingest:url": "bash -lc 'EXTRACTOR=readability node scripts/summarize_article.mjs --url \"$URL\" --lang=ja --force && npm run daily && npm run weekly && npm run home'"
   },
   "devDependencies": {
@@ -24,6 +25,8 @@
   "dependencies": {
     "@mozilla/readability": "^0.6.0",
     "@sindresorhus/slugify": "^3.0.0",
+    "discord.js": "^14.25.0",
+    "dotenv": "^17.2.3",
     "gray-matter": "^4.0.3",
     "jsdom": "^27.2.0",
     "undici": "^7.16.0",

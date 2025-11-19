@@ -1,0 +1,7 @@
+/* hide-inline-title.css
+ * Vault 全体でインラインタイトル（ファイル名の大きいタイトル）を非表示にする
+ */
+
+.inline-title {
+  display: none !important;
+}

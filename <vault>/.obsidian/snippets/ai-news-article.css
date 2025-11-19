@@ -1,29 +1,46 @@
-/* AI News 記事ノート用スタイル
+/* ai-news-article.css
+ * AI News 記事ノート専用スタイル
  * 対象: ai-news/articles/**/*.md
  */
 
-.markdown-preview-view[data-path^="ai-news/articles/"] {
-  line-height: 1.7;
+/* ベース段落 */
+.markdown-preview-view[data-path^="ai-news/articles/"] p {
+  line-height: 1.8;
+  margin: 0.4em 0;
 }
 
-/* タイトル */
+/* ファイル名ベースの h1（スラッグ）は非表示 */
 .markdown-preview-view[data-path^="ai-news/articles/"] h1 {
-  font-size: 1.8em;
-  margin-bottom: 0.6em;
+  display: none;
 }
 
-/* セクション見出し */
-.markdown-preview-view[data-path^="ai-news/articles/"] h2 {
+/* 記事タイトル: 最初の h2 を大きく表示 */
+.markdown-preview-view[data-path^="ai-news/articles/"] h2:first-of-type {
+  font-size: 1.6em;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+/* セクション見出し: 2つ目以降の h2 は見出しスタイル */
+.markdown-preview-view[data-path^="ai-news/articles/"] h2:not(:first-of-type) {
   font-size: 1.25em;
-  margin-top: 1.6em;
+  margin-top: 1.8em;
   margin-bottom: 0.4em;
   border-left: 3px solid var(--text-accent);
-  padding-left: 0.5em;
+  padding-left: 0.6em;
 }
 
-/* TL;DR 部分だけ少し背景を付ける */
+/* TL;DR ブロック: 見出し直後のリストを軽くカード化 */
 .markdown-preview-view[data-path^="ai-news/articles/"] h2 + ul {
   padding: 0.75em 1em;
   border-radius: 8px;
   background-color: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--background-modifier-border);
+}
+
+/* 箇条書きの行間 */
+.markdown-preview-view[data-path^="ai-news/articles/"] ul {
+  margin: 0.4em 0 0.8em 1.2em;
+  line-height: 1.7;
 }
