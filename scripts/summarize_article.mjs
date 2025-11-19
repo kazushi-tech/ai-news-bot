@@ -1,532 +1,483 @@
-// ai-news-bot/scripts/summarize_article.mjs
-// URL -> ai-news/articles/YYYY-MM-DD--host--slug.md を生成するスクリプト
-// 依存: gray-matter, node >=18 (fetch), jsdom, @mozilla/readability
+// scripts/summarize_article.mjs
+// URL から記事を取得して Gemini 2.5 Flash で要約し、
+// Obsidian 用 Markdown を ai-news/articles/ に出力する。
+// 403 / ネットワークエラー時は URL context tool だけでのフォールバック要約を行う。
 
-import fs from "node:fs";
+import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import matter from "gray-matter";
+import { JSDOM } from "jsdom";
+import { Readability } from "@mozilla/readability";
 
-let Readability = null;
-let JSDOM = null;
-
-// ESM 用 __dirname 相当
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-// -----------------------------
-// .env ローダー（簡易版）
-// -----------------------------
-function loadEnvFromDotenv() {
-  try {
-    const rootDir = path.resolve(__dirname, "..");
-    const envPath = path.join(rootDir, ".env");
-    if (!fs.existsSync(envPath)) return;
-
-    const content = fs.readFileSync(envPath, "utf8");
-    for (const line of content.split(/\r?\n/)) {
-      const trimmed = line.trim();
-      if (!trimmed || trimmed.startsWith("#")) continue;
-
-      const eqIndex = trimmed.indexOf("=");
-      if (eqIndex === -1) continue;
-
-      const key = trimmed.slice(0, eqIndex).trim();
-      let value = trimmed.slice(eqIndex + 1).trim();
-
-      if (
-        (value.startsWith('"') && value.endsWith('"')) ||
-        (value.startsWith("'") && value.endsWith("'"))
-      ) {
-        value = value.slice(1, -1);
-      }
-
-      if (!(key in process.env)) {
-        process.env[key] = value;
-      }
-    }
-    console.log("[summarize] .env loaded from", envPath);
-  } catch (err) {
-    console.warn("[summarize] WARN: failed to load .env:", err.message);
-  }
-}
-
-loadEnvFromDotenv();
-
-// -----------------------------
-// CLI 引数パーサ
-// -----------------------------
-const argv = process.argv.slice(2);
-
-function getArgValue(name, defaultValue = null) {
-  const idx = argv.indexOf(`--${name}`);
-  if (idx !== -1) {
-    const next = argv[idx + 1];
-    if (next && !next.startsWith("--")) return next;
-    return true;
-  }
-  const prefix = `--${name}=`;
-  const found = argv.find((a) => a.startsWith(prefix));
-  if (found) return found.slice(prefix.length);
-  return defaultValue;
-}
-
-const urlArg = getArgValue("url");
-const lang = getArgValue("lang", "ja");
-const force = argv.includes("--force") || getArgValue("force") === true;
-
-if (!urlArg || typeof urlArg !== "string") {
-  console.error("[summarize] ERROR: --url を指定してください");
-  process.exit(1);
-}
-
-// -----------------------------
-// 環境変数 & パス解決
-// -----------------------------
-const ROOT =
-  process.env.ROOT || path.resolve(process.cwd(), "..", "ai-news");
-const ARTICLES_DIR = path.join(ROOT, "articles");
-
-const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY;
+// ====== 環境変数 ======
+const GEMINI_API_KEY =
+  process.env.GOOGLE_API_KEY || process.env.GEMINI_API_KEY || "";
 const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
-const EXTRACTOR = process.env.EXTRACTOR || "readability";
-const OFFLINE = process.env.AI_NEWS_OFFLINE === "1";
+const NEWS_ROOT =
+  process.env.NEWS_ROOT ||
+  path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "ai-news");
 
-console.log("[summarize] ROOT      =", ROOT);
-console.log("[summarize] ARTICLES  =", ARTICLES_DIR);
-console.log("[summarize] URL       =", urlArg);
-console.log("[summarize] LANG      =", lang);
-console.log("[summarize] EXTRACTOR =", EXTRACTOR);
-console.log("[summarize] OFFLINE   =", OFFLINE);
-console.log("[summarize] FORCE     =", force);
-
-if (!OFFLINE && !GOOGLE_API_KEY) {
-  console.error("[summarize] ERROR: GOOGLE_API_KEY が未設定です");
+if (!GEMINI_API_KEY) {
+  console.error(
+    "[summarize_article] ❌ ERROR: GOOGLE_API_KEY or GEMINI_API_KEY is not set"
+  );
   process.exit(1);
 }
 
-// -----------------------------
-// Utility: 日付, スラッグ
-// -----------------------------
-function getTodayDateString() {
-  const now = new Date();
-  const iso = new Date(
-    now.getTime() - now.getTimezoneOffset() * 60 * 1000
-  ).toISOString();
-  return iso.slice(0, 10);
+// ====== ユーティリティ ======
+
+function todayYMD() {
+  const d = new Date();
+  const yyyy = d.getFullYear();
+  const mm = String(d.getMonth() + 1).padStart(2, "0");
+  const dd = String(d.getDate()).padStart(2, "0");
+  return `${yyyy}-${mm}-${dd}`;
 }
 
-function slugify(input) {
-  return (
-    input
-      .toLowerCase()
-      .replace(/https?:\/\//g, "")
-      .replace(/[^a-z0-9\-_.\/]/g, "-")
-      .replace(/\/+/g, "-")
-      .replace(/-+/g, "-")
-      .replace(/^[-.]+|[-.]+$/g, "")
-      .slice(0, 80) || "article"
-  );
+function slugify(str, fallback = "article") {
+  if (!str) return fallback;
+  const s = str
+    .toLowerCase()
+    .replace(/^https?:\/\//, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+  return s || fallback;
 }
 
-function ensureDirSync(dir) {
-  if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir, { recursive: true });
-  }
+function buildArticlePath(rawUrl, extractedTitle) {
+  const url = new URL(rawUrl);
+  const host = url.host;
+  const date = todayYMD();
+
+  const lastPathSegment = url.pathname
+    .split("/")
+    .filter(Boolean)
+    .pop();
+
+  const slugSource =
+    lastPathSegment ||
+    extractedTitle ||
+    host.replace(/\./g, "-") ||
+    "article";
+
+  const slug = slugify(slugSource);
+  const fileName = `${date}--${host}--${slug}.md`;
+  const articlesDir = path.join(NEWS_ROOT, "articles");
+  const filePath = path.join(articlesDir, fileName);
+
+  return { host, date, articlesDir, filePath };
 }
 
-// -----------------------------
-// HTML 取得 & 本文抽出
-// -----------------------------
-async function fetchHtml(url) {
-  const res = await fetch(url, { method: "GET", redirect: "follow" });
+async function fetchHtml(rawUrl) {
+  const res = await fetch(rawUrl, {
+    redirect: "follow",
+    headers: {
+      // OpenAI や一部サイト向けに、ブラウザっぽい UA を設定
+      "User-Agent":
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      Accept:
+        "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+    },
+  });
+
   if (!res.ok) {
-    throw new Error(`fetch failed: ${res.status} ${res.statusText}`);
+    const err = new Error(
+      `Failed to fetch article: ${res.status} ${res.statusText}`
+    );
+    err.status = res.status;
+    throw err;
   }
-  return await res.text();
+
+  return res.text();
 }
 
-async function maybeLoadReadability() {
-  if (Readability && JSDOM) return;
-  try {
-    const jsdomMod = await import("jsdom");
-    JSDOM = jsdomMod.JSDOM;
-  } catch (err) {
-    console.warn(
-      "[summarize] WARN: jsdom を読み込めませんでした。`npm i jsdom` が必要かもです。",
-      err.message
-    );
+function extractArticle(rawUrl, html) {
+  const dom = new JSDOM(html, { url: rawUrl });
+  const reader = new Readability(dom.window.document);
+  const article = reader.parse();
+
+  if (!article) {
+    return { title: "", textContent: "" };
   }
-  try {
-    const readabilityMod = await import("@mozilla/readability");
-    Readability = readabilityMod.Readability;
-  } catch (err) {
-    console.warn(
-      "[summarize] WARN: @mozilla/readability を読み込めませんでした。`npm i @mozilla/readability` が必要かもです。",
-      err.message
-    );
-  }
+
+  const title = (article.title || "").trim();
+  const textContent = (article.textContent || "").trim();
+  return { title, textContent };
 }
 
-async function extractArticle(urlStr, html) {
-  const url = new URL(urlStr);
-  const fallbackTitle = url.hostname;
-  const fallbackText = html
-    .replace(/<script[\s\S]*?<\/script>/gi, "")
-    .replace(/<style[\s\S]*?<\/style>/gi, "")
-    .replace(/<\/(p|div|h[1-6]|li|br)[^>]*>/gi, "\n")
-    .replace(/<[^>]+>/g, "")
-    .replace(/&nbsp;/g, " ")
-    .replace(/\s+\n/g, "\n")
-    .replace(/\n{3,}/g, "\n\n")
-    .trim();
+// Gemini への要約リクエスト
+async function callGeminiForSummary({
+  url,
+  host,
+  date,
+  articleText, // string | null
+  isFallback, // boolean
+}) {
+  const model = GEMINI_MODEL;
+  const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
 
-  if (EXTRACTOR !== "readability") {
-    return {
-      url,
-      host: url.hostname,
-      title: fallbackTitle,
-      text: fallbackText,
-    };
+  const baseInstruction = [
+    "あなたはニュース・テック系記事の要約アシスタントです。",
+    "出力は必ず JSON のみで返してください。Markdown やコードブロックは一切含めないでください。",
+    "",
+    "JSON のスキーマは次の通りです:",
+    "",
+    "```json",
+    '{',
+    '  "title": "string",                // 記事の日本語タイトル（可能なら元タイトルをベースに要約してもよい）',
+    '  "tldr": "string",                 // 2〜3行程度の要約（後で frontmatter と TL;DR コールアウト両方に使う）',
+    '  "overview": "string",             // 記事全体の概要（500〜800文字程度）',
+    '  "detail_sections": [              // 詳細レポート用のセクション',
+    '    { "title": "string", "body": "string" }',
+    "  ],",
+    '  "key_points": ["string", ...],    // 箇条書きの重要ポイント',
+    '  "insights": ["string", ...],      // 解釈・示唆・インパクト',
+    '  "risks": ["string", ...],         // リスク・不確定要素・注意点',
+    '  "notes": ["string", ...]          // 補足メモ（任意・なければ空配列）',
+    "}",
+    "```",
+    "",
+    "必ず上記 JSON をそのまま返し、それ以外の文字列は一切出力しないでください。",
+  ].join("\n");
+
+  let userPrompt;
+
+  if (articleText && !isFallback) {
+    // 通常ルート：抽出済み本文 + URL context の併用
+    userPrompt = [
+      baseInstruction,
+      "",
+      `対象の記事 URL: ${url}`,
+      "",
+      "以下に、スクレイピング済みの本文テキストを与えます。",
+      "ノイズや重複が含まれていてもよいので、URL context tool で元ページも参照しつつ、",
+      "最終的な JSON 要約を作成してください。",
+      "",
+      "----- スクレイピング本文（そのまま） -----",
+      articleText,
+      "----- スクレイピング本文ここまで -----",
+    ].join("\n");
+  } else {
+    // フォールバックルート：URL context のみ
+    userPrompt = [
+      baseInstruction,
+      "",
+      `対象の記事 URL: ${url}`,
+      "",
+      "この URL への直接アクセス（サーバー側からの fetch）が 403 / 404 / ネットワークエラーなどで失敗しました。",
+      "そのため、URL context tool のみを使って、ページ内容を取得して要約してください。",
+      "",
+      "ページの構造（セクション・見出し・リード文など）もできるだけ反映しつつ、上記 JSON スキーマに従って出力してください。",
+    ].join("\n");
   }
-
-  await maybeLoadReadability();
-
-  if (!Readability || !JSDOM) {
-    console.warn(
-      "[summarize] readability を利用できないので fallback に切り替えます"
-    );
-    return {
-      url,
-      host: url.hostname,
-      title: fallbackTitle,
-      text: fallbackText,
-    };
-  }
-
-  try {
-    const dom = new JSDOM(html, { url: urlStr });
-    const reader = new Readability(dom.window.document);
-    const article = reader.parse();
-
-    const title = (article && article.title) || fallbackTitle;
-    const text = (article && article.textContent) || fallbackText;
-
-    return {
-      url,
-      host: url.hostname,
-      title: title.trim(),
-      text: text.trim(),
-    };
-  } catch (err) {
-    console.warn(
-      "[summarize] readability 解析に失敗したので fallback に切り替えます:",
-      err.message
-    );
-    return {
-      url,
-      host: url.hostname,
-      title: fallbackTitle,
-      text: fallbackText,
-    };
-  }
-}
-
-// -----------------------------
-// Gemini 呼び出し
-// -----------------------------
-function extractJsonFromText(raw) {
-  if (!raw) return "";
-  let s = raw.trim();
-
-  // ```json ～ ``` を剥がす
-  if (s.startsWith("```")) {
-    const lines = s.split(/\r?\n/);
-    if (lines[0].trim().startsWith("```")) lines.shift();
-    if (
-      lines.length &&
-      lines[lines.length - 1].trim().startsWith("```")
-    ) {
-      lines.pop();
-    }
-    s = lines.join("\n");
-  }
-
-  // 先頭の { と最後の } の間だけを取る
-  const first = s.indexOf("{");
-  const last = s.lastIndexOf("}");
-  if (first !== -1 && last !== -1 && last > first) {
-    s = s.slice(first, last + 1);
-  }
-
-  return s.trim();
-}
-
-async function callGeminiSummary({ text, url, lang }) {
-  if (OFFLINE) {
-    console.warn(
-      "[summarize] OFFLINE モードのため Gemini 呼び出しをスキップします"
-    );
-    return buildFallbackSummary(text, url, lang);
-  }
-
-  const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(
-    GEMINI_MODEL
-  )}:generateContent?key=${encodeURIComponent(GOOGLE_API_KEY)}`;
-
-  const langLabel = lang === "ja" ? "Japanese" : "English";
-
-  const prompt = `
-You are an expert news analyst.
-
-Summarize the following article and respond ONLY in valid JSON with this structure:
-
-{
-  "title": "short title in ${langLabel}",
-  "tldr": "1-2 sentence TL;DR in ${langLabel}",
-  "key_points": ["bullet point 1 in ${langLabel}", "bullet point 2 in ${langLabel}"],
-  "overview": "overview section in ${langLabel}",
-  "details": "detailed analysis in ${langLabel}",
-  "insights": "important implications in ${langLabel}",
-  "risks": "risks and unknowns in ${langLabel}"
-}
-
-Do NOT include any extra explanation or markdown, ONLY the JSON.
-
-Article URL: ${url}
-
-Article content:
-${text.slice(0, 16000)}
-`.trim();
 
   const body = {
     contents: [
       {
         role: "user",
-        parts: [{ text: prompt }],
+        parts: [{ text: userPrompt }],
       },
     ],
+    // URL context tool を常に有効化（通常ルートでも補助的に利用）
+    tools: [{ url_context: {} }],
+    generationConfig: {
+      temperature: 0.2,
+      topK: 40,
+      topP: 0.95,
+    },
   };
 
-  const res = await fetch(apiUrl, {
+  const res = await fetch(`${endpoint}?key=${encodeURIComponent(
+    GEMINI_API_KEY
+  )}`, {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
+    headers: {
+      "Content-Type": "application/json; charset=utf-8",
+    },
     body: JSON.stringify(body),
   });
 
   if (!res.ok) {
-    const errText = await res.text();
-    throw new Error(
-      `Gemini API error: ${res.status} ${res.statusText}: ${errText}`
+    const errBody = await res.text();
+    const err = new Error(
+      `Gemini API error: ${res.status} ${res.statusText} - ${errBody}`
     );
+    err.status = res.status;
+    throw err;
   }
 
   const data = await res.json();
-  const candidates = data.candidates;
-  if (!candidates || !candidates.length) {
-    throw new Error("Gemini API returned no candidates");
-  }
+  const parts = data?.candidates?.[0]?.content?.parts || [];
+  const text = parts.map((p) => p.text || "").join("").trim();
 
-  const parts = candidates[0].content?.parts || [];
-  const rawText = parts.map((p) => p.text || "").join("").trim();
-  const jsonText = extractJsonFromText(rawText);
+  if (!text) {
+    throw new Error("Gemini API returned empty response");
+  }
 
   let parsed;
   try {
-    parsed = JSON.parse(jsonText);
-  } catch (err) {
+    parsed = JSON.parse(text);
+  } catch (e) {
     console.warn(
-      "[summarize] WARN: Gemini からの JSON パースに失敗しました。fallback に切り替えます:",
-      err.message
+      "[summarize_article] ⚠️ Gemini response was not valid JSON, using raw markdown fallback"
     );
-    return buildFallbackSummary(text, url, lang);
+    // JSON じゃなかった場合は、本文すべてを 1 つのセクションとして扱う
+    parsed = {
+      title: "",
+      tldr: "",
+      overview: "",
+      detail_sections: [{ title: "詳細レポート", body: text }],
+      key_points: [],
+      insights: [],
+      risks: [],
+      notes: [],
+    };
   }
-
-  return normalizeSummaryJson(parsed, text, url, lang);
-}
-
-function buildFallbackSummary(text, urlStr, lang) {
-  const url = new URL(urlStr);
-  const lines = text
-    .split(/\n+/)
-    .map((l) => l.trim())
-    .filter(Boolean);
-  const firstLines = lines.slice(0, 3).join(" / ").slice(0, 180);
-
-  const tldr =
-    lang === "ja"
-      ? firstLines || "記事本文から要約を生成できませんでした。"
-      : firstLines || "Failed to generate summary from the article body.";
-
-  const keyPoints = lines.slice(0, 5).map((l) => l.slice(0, 120));
 
   return {
-    title: url.hostname,
-    tldr,
-    key_points: keyPoints.length ? keyPoints : [tldr],
-    overview: "",
-    details: "",
-    insights: "",
-    risks: "",
+    model: model,
+    summary: {
+      title: parsed.title || "",
+      tldr: parsed.tldr || "",
+      overview: parsed.overview || "",
+      detail_sections: Array.isArray(parsed.detail_sections)
+        ? parsed.detail_sections
+        : [],
+      key_points: Array.isArray(parsed.key_points) ? parsed.key_points : [],
+      insights: Array.isArray(parsed.insights) ? parsed.insights : [],
+      risks: Array.isArray(parsed.risks) ? parsed.risks : [],
+      notes: Array.isArray(parsed.notes) ? parsed.notes : [],
+    },
+    rawText: text,
   };
 }
 
-function normalizeSummaryJson(obj, text, urlStr, lang) {
-  const fallback = buildFallbackSummary(text, urlStr, lang);
+function renderMarkdown({
+  url,
+  host,
+  date,
+  model,
+  articleText,
+  summary,
+}) {
+  const safeTldr =
+    (summary.tldr || "").replace(/\r?\n/g, " ").trim() ||
+    (summary.key_points && summary.key_points[0]) ||
+    "";
 
-  return {
-    title:
-      typeof obj.title === "string" && obj.title.trim()
-        ? obj.title.trim()
-        : fallback.title,
-    tldr:
-      typeof obj.tldr === "string" && obj.tldr.trim()
-        ? obj.tldr.trim()
-        : fallback.tldr,
-    key_points:
-      Array.isArray(obj.key_points) && obj.key_points.length
-        ? obj.key_points.map((p) => String(p).trim()).filter(Boolean)
-        : fallback.key_points,
-    overview: typeof obj.overview === "string" ? obj.overview.trim() : "",
-    details: typeof obj.details === "string" ? obj.details.trim() : "",
-    insights: typeof obj.insights === "string" ? obj.insights.trim() : "",
-    risks: typeof obj.risks === "string" ? obj.risks.trim() : "",
-  };
-}
+  const frontmatterLines = [
+    "---",
+    `title: "${(summary.title || "").replace(/"/g, '\\"') || url}"`,
+    `url: "${url}"`,
+    `host: "${host}"`,
+    `created: "${date}"`,
+    `kind: "summary"`,
+    `model: "${model}"`,
+    `tldr: "${safeTldr.replace(/"/g, '\\"')}"`,
+    "---",
+    "",
+  ];
 
-// -----------------------------
-// Markdown 生成
-// -----------------------------
-function buildMarkdown({ meta, sections }) {
-  const bodyLines = [];
+  const lines = [];
 
-  bodyLines.push(`# ${meta.title}`);
-  bodyLines.push("");
-
-  bodyLines.push("## TL;DR");
-  bodyLines.push("");
-  if (meta.tldr) {
-    bodyLines.push(`- ${meta.tldr}`);
+  // TL;DR コールアウト
+  lines.push("> [!summary] TL;DR");
+  if (safeTldr) {
+    // 2〜3個に分割できそうなら分割
+    const bullets =
+      summary.key_points && summary.key_points.length > 0
+        ? summary.key_points.slice(0, 3)
+        : [safeTldr];
+    for (const item of bullets) {
+      lines.push(`> - ${item}`);
+    }
   } else {
-    bodyLines.push("- (TL;DR なし)");
+    lines.push("> - （後で TL;DR を追記）");
   }
-  bodyLines.push("");
+  lines.push("");
 
-  bodyLines.push("## 概要");
-  bodyLines.push("");
-  bodyLines.push(sections.overview || "(概要なし)");
-  bodyLines.push("");
-
-  bodyLines.push("## 詳細レポート");
-  bodyLines.push("");
-  bodyLines.push(sections.details || "(詳細レポートなし)");
-  bodyLines.push("");
-
-  bodyLines.push("## 重要な示唆");
-  bodyLines.push("");
-  bodyLines.push(sections.insights || "(重要な示唆なし)");
-  bodyLines.push("");
-
-  bodyLines.push("## リスク・未確定要素");
-  bodyLines.push("");
-  bodyLines.push(sections.risks || "(リスク・未確定要素なし)");
-  bodyLines.push("");
-
-  bodyLines.push("## 引用・ソース");
-  bodyLines.push("");
-  if (meta.source_url) {
-    bodyLines.push(`- [元記事](${meta.source_url})`);
+  // 概要
+  lines.push("## 概要");
+  lines.push("");
+  if (summary.overview) {
+    lines.push(summary.overview.trim());
   } else {
-    bodyLines.push("- (元記事 URL 不明)");
+    lines.push("（概要は後で追記）");
   }
-  bodyLines.push("");
+  lines.push("");
 
-  const data = {
-    title: meta.title,
-    date: meta.date,
-    model: meta.model,
-    source_url: meta.source_url,
-    host: meta.host,
-    tldr: meta.tldr,
-    key_points: meta.key_points,
-    kind: "summary",
-  };
+  // 詳細レポート
+  lines.push("## 詳細レポート");
+  lines.push("");
+  if (summary.detail_sections.length > 0) {
+    for (const section of summary.detail_sections) {
+      const title = (section.title || "").trim();
+      if (title) {
+        lines.push(`### ${title}`);
+        lines.push("");
+      }
+      if (section.body) {
+        lines.push(section.body.trim());
+        lines.push("");
+      }
+    }
+  } else {
+    lines.push("（詳細レポートは後で追記）");
+    lines.push("");
+  }
 
-  const body = bodyLines.join("\n").trim() + "\n";
-  return matter.stringify(body, data);
+  // 抽出テキスト（元記事の生テキストの一部を残しておきたい場合）
+  if (articleText) {
+    lines.push("## 抽出テキスト（スクレイピング済み本文の一部）");
+    lines.push("");
+    const snippet = articleText.slice(0, 2000).trim(); // 長すぎるので先頭 2000 文字だけ
+    lines.push("```text");
+    lines.push(snippet);
+    lines.push("```");
+    lines.push("");
+  }
+
+  // 抽出ポイント
+  lines.push("## 抽出ポイント");
+  lines.push("");
+  if (summary.key_points.length > 0) {
+    for (const p of summary.key_points) {
+      lines.push(`- ${p}`);
+    }
+  } else {
+    lines.push("- （後で追記）");
+  }
+  lines.push("");
+
+  // 重要な示唆
+  lines.push("## 重要な示唆");
+  lines.push("");
+  if (summary.insights.length > 0) {
+    for (const p of summary.insights) {
+      lines.push(`- ${p}`);
+    }
+  } else {
+    lines.push("- （後で追記）");
+  }
+  lines.push("");
+
+  // リスク・未確定要素
+  lines.push("## リスク・未確定要素");
+  lines.push("");
+  if (summary.risks.length > 0) {
+    for (const p of summary.risks) {
+      lines.push(`- ${p}`);
+    }
+  } else {
+    lines.push("- （後で追記）");
+  }
+  lines.push("");
+
+  // メモ
+  lines.push("## メモ");
+  lines.push("");
+  if (summary.notes.length > 0) {
+    for (const p of summary.notes) {
+      lines.push(`- ${p}`);
+    }
+  } else {
+    lines.push("- （必要に応じてメモを追記）");
+  }
+  lines.push("");
+
+  // Source URL
+  lines.push("---");
+  lines.push("");
+  lines.push(`Source URL: ${url}`);
+  lines.push("");
+
+  return frontmatterLines.join("\n") + lines.join("\n");
 }
 
-// -----------------------------
-// メイン処理
-// -----------------------------
+// ====== メイン処理 ======
+
 async function main() {
-  try {
-    ensureDirSync(ARTICLES_DIR);
+  const rawUrl = process.argv[2];
 
-    const targetUrl = new URL(urlArg);
-    const dateStr = getTodayDateString();
-    const host = targetUrl.hostname;
-    const slug = slugify(targetUrl.pathname || targetUrl.hostname);
-
-    const filename = `${dateStr}--${host}--${slug}.md`;
-    const outPath = path.join(ARTICLES_DIR, filename);
-
-    console.log("[summarize] filename =", filename);
-    console.log("[summarize] outPath  =", outPath);
-
-    if (fs.existsSync(outPath) && !force) {
-      console.log(
-        "[summarize] 既にファイルが存在するためスキップします (--force で上書き可能):",
-        outPath
-      );
-      return;
-    }
-
-    console.log("[summarize] HTML を取得中...");
-    const html = await fetchHtml(targetUrl.toString());
-
-    console.log("[summarize] 本文を抽出中...");
-    const article = await extractArticle(targetUrl.toString(), html);
-
-    if (!article.text || article.text.length < 50) {
-      console.warn(
-        "[summarize] WARN: 抽出本文が短すぎます。Gemini にはそのまま投げますが、要約品質は低いかもしれません。"
-      );
-    }
-
-    console.log("[summarize] Gemini に要約を依頼中...");
-    const summary = await callGeminiSummary({
-      text: article.text,
-      url: targetUrl.toString(),
-      lang,
-    });
-
-    const meta = {
-      title: summary.title || article.title || targetUrl.toString(),
-      date: dateStr,
-      model: GEMINI_MODEL,
-      source_url: targetUrl.toString(),
-      host: article.host,
-      tldr: summary.tldr,
-      key_points: summary.key_points,
-    };
-
-    const sections = {
-      overview: summary.overview,
-      details: summary.details,
-      insights: summary.insights,
-      risks: summary.risks,
-    };
-
-    const markdown = buildMarkdown({ meta, sections });
-
-    fs.writeFileSync(outPath, markdown, "utf8");
-
-    console.log("[summarize] 書き込み完了:", outPath);
-  } catch (err) {
-    console.error("[summarize] FATAL:", err);
+  if (!rawUrl) {
+    console.error("[summarize_article] ❌ ERROR: URL argument is required");
     process.exit(1);
   }
+
+  console.log("[summarize_article] URL:", rawUrl);
+
+  let html = "";
+  let articleText = "";
+  let extractedTitle = "";
+  let isFallback = false;
+
+  try {
+    html = await fetchHtml(rawUrl);
+    const { title, textContent } = extractArticle(rawUrl, html);
+
+    extractedTitle = title || "";
+    articleText = textContent || "";
+
+    const MIN_CHARS = 400;
+    if (!articleText || articleText.length < MIN_CHARS) {
+      console.warn(
+        `[summarize_article] ⚠️ extracted article text too short (${articleText.length} chars), falling back to URL context only`
+      );
+      isFallback = true;
+      articleText = "";
+    }
+  } catch (err) {
+    const status = err.status || null;
+    if (status === 403) {
+      console.warn(
+        "[summarize_article] ⚠️ fetch failed (403 Forbidden), falling back to URL context only"
+      );
+    } else if (status) {
+      console.warn(
+        `[summarize_article] ⚠️ fetch failed (${status} ${err.message}), falling back to URL context only`
+      );
+    } else {
+      console.warn(
+        `[summarize_article] ⚠️ fetch error (${err.message}), falling back to URL context only`
+      );
+    }
+    isFallback = true;
+    articleText = "";
+  }
+
+  const date = todayYMD();
+  const { host, articlesDir, filePath } = buildArticlePath(
+    rawUrl,
+    extractedTitle
+  );
+
+  const { model, summary } = await callGeminiForSummary({
+    url: rawUrl,
+    host,
+    date,
+    articleText: articleText || null,
+    isFallback,
+  });
+
+  const markdown = renderMarkdown({
+    url: rawUrl,
+    host,
+    date,
+    model,
+    articleText: articleText || null,
+    summary,
+  });
+
+  await fs.mkdir(articlesDir, { recursive: true });
+  await fs.writeFile(filePath, markdown, "utf8");
+
+  console.log("[summarize_article] output:", filePath);
+  console.log("[summarize_article] ✅ done:", filePath);
 }
 
-main();
+main().catch((err) => {
+  console.error("[summarize_article] ❌ ERROR");
+  console.error(err);
+  process.exit(1);
+});
