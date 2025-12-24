@@ -364,21 +364,39 @@ function renderMarkdown({ title, url, source, domain, created, tldr, body }) {
   // bodyから重複するタイトルや引用元を除去（Geminiが生成したフォーマットをクリーンアップ）
   let cleanBody = body || '';
   
-  // # タイトル 形式の見出しを全て除去（タイトルと完全一致でなくても除去）
+  // Step 1: すべての # タイトル 形式の見出しを除去（H1のみ、H2以降は残す）
+  // マルチパスで確実に除去
   cleanBody = cleanBody.replace(/^#\s+[^\n]+\n*/gm, '');
+  cleanBody = cleanBody.replace(/\n#\s+[^\n]+\n*/g, '\n');
   
-  // > [!info] 元記事 または > [!info] 引用元 のCallout全体を除去
-  cleanBody = cleanBody.replace(/^>\s*\[!info\]\s*(元記事|引用元)[^\n]*\n(>\s*[^\n]*\n?)*/gm, '');
+  // Step 2: すべての > [!info] Callout全体を除去（元記事、引用元、その他すべて）
+  cleanBody = cleanBody.replace(/^>\s*\[!info\][^\n]*\n(>\s*[^\n]*\n?)*/gm, '');
   
-  // ## 概要 見出しを除去（次の見出しまでの内容も含めて除去しない、見出しだけ）
+  // Step 3: ## 概要 見出しを除去
   cleanBody = cleanBody.replace(/^##\s*概要\s*\n*/gm, '');
   
-  // URL単体行を除去（引用元として既に表示されているため）
-  const urlPattern = new RegExp(`^${url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*\n?`, 'gm');
+  // Step 4: URL単体行を除去（引用元として既に表示されているため）
+  const urlPattern = new RegExp(`^${url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*\\n?`, 'gm');
   cleanBody = cleanBody.replace(urlPattern, '');
-  cleanBody = cleanBody.replace(new RegExp(`^"${url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"\\s*\n?`, 'gm'), '');
+  cleanBody = cleanBody.replace(new RegExp(`^"${url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"\\s*\\n?`, 'gm'), '');
+  // クォート付きURLも除去
+  cleanBody = cleanBody.replace(new RegExp(`"${url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"`, 'g'), '');
   
-  // 連続する空行を1つに
+  // Step 5: 先頭にタイトルと同じ（または非常に似た）テキストがある場合は除去
+  // タイトルを正規化して比較
+  const normalizedTitle = title.replace(/[\s\-–—:：・「」『』（）()[\]【】]/g, '').toLowerCase();
+  const firstLine = cleanBody.split('\n')[0] || '';
+  const normalizedFirstLine = firstLine.replace(/[\s\-–—:：・「」『』（）()[\]【】]/g, '').toLowerCase();
+  if (normalizedTitle && normalizedFirstLine && normalizedFirstLine.length > 10) {
+    // 文字列の類似度をチェック
+    if (normalizedFirstLine.includes(normalizedTitle) || normalizedTitle.includes(normalizedFirstLine)) {
+      const lines = cleanBody.split('\n');
+      lines.shift();
+      cleanBody = lines.join('\n');
+    }
+  }
+  
+  // Step 6: 連続する空行を1つに
   cleanBody = cleanBody.replace(/\n{3,}/g, '\n\n');
   // 先頭の空行を除去
   cleanBody = cleanBody.replace(/^\s*\n+/, '').trim();
