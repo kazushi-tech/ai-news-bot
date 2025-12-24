@@ -225,6 +225,7 @@ async function summarizeWithGemini(articleText, title, url) {
     "JSON 形式でのみ回答してください。説明文や前置き、コードブロックは不要です。",
     "",
     "JSON の仕様:",
+    '- フィールド "title_ja": 記事タイトルを日本語に翻訳したもの（元の意味を損なわず、魅力的に）。',
     '- フィールド "tldr": 記事全体をひとことで要約した日本語1文（60〜100文字程度）。',
     '- フィールド "overview": 記事の概要を2〜3文で説明（段落形式）。【重要】タイトル、URL、Markdown見出し(#)、Callout記法(> [!...])は絶対に含めないこと。純粋に概要の説明文のみを書く。',
     '- フィールド "sections": 詳細レポートのセクション配列。各セクションは以下の形式:',
@@ -280,6 +281,7 @@ async function summarizeWithGemini(articleText, title, url) {
 
   // 軽く整形
   const tldr = String(parsed.tldr).trim();
+  const titleJa = parsed.title_ja ? String(parsed.title_ja).trim() : null;
 
   // 新形式: overview + sections / 旧形式: body
   let body;
@@ -297,7 +299,7 @@ async function summarizeWithGemini(articleText, title, url) {
     body = String(parsed.body).trim();
   }
 
-  return { tldr, body };
+  return { tldr, body, titleJa };
 }
 
 // -----------------------------------------------------------------------------
@@ -632,6 +634,12 @@ async function main() {
   const slug = buildSlugFromUrlOrTitle(urlObj, title);
   const filename = `${createdDate}--${domain}--${slug}.md`;
   const filepath = path.join(articlesDir, filename);
+
+  // 翻訳タイトルがあれば採用
+  if (summary.titleJa) {
+    console.log(`[summarize] Translated title from Gemini: ${summary.titleJa}`);
+    title = summary.titleJa;
+  }
 
   const md = renderMarkdown({
     title,
