@@ -39,6 +39,7 @@ async function main() {
         date: data.date,
         title: data.title || "(untitled)",
         link: makeArticleLink(fp, linkMode),
+        source_url: data.source_url || "",
         host: data.host || "",
         tldr: (data.tldr || "").replace(/\n/g, " ")
       });
@@ -54,7 +55,7 @@ async function main() {
     "|---|---|---|---|---|",
     ...rows
       .sort((a,b)=>b.date.localeCompare(a.date))
-      .map(r => `| ${r.date} | ${r.title} | [記事ページへ](${r.link}) | ${r.host} | ${r.tldr} |`)
+      .map(r => `| ${r.date} | ${r.title} | [記事ページへ](${r.link}) / [引用元へ](${r.source_url}) | ${r.host} | ${r.tldr} |`)
   ].join("\n");
 
   const md = [`---\nfrom: ${from}\nto: ${to}\n---`, "", "# Weekly Index", "", table].join("\n");

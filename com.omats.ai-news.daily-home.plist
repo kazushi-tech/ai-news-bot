@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <!-- このジョブのID（他と被らなければ何でもOK） -->
+  <key>Label</key>
+  <string>com.omats.ai-news.daily-home</string>
+
+  <!-- 実行コマンド -->
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>-lc</string>
+    <string>/Users/omats/git-check/myapp/ai-news-bot/scripts/run_daily_and_home.sh</string>
+  </array>
+
+  <!-- 実行スケジュール: 毎日 07:30 -->
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>7</integer>
+    <key>Minute</key>
+    <integer>30</integer>
+  </dict>
+
+  <!-- ログイン時にも一度実行 -->
+  <key>RunAtLoad</key>
+  <true/>
+
+  <!-- 標準出力・エラー出力 -->
+  <key>StandardOutPath</key>
+  <string>/Users/omats/git-check/myapp/ai-news-bot/logs/launchd-daily-home.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/omats/git-check/myapp/ai-news-bot/logs/launchd-daily-home.err.log</string>
+</dict>
+</plist>

@@ -549,85 +549,94 @@ async function main() {
   console.log("[summarize] domain       =", domain);
   console.log("[summarize] source       =", source);
 
+import { GeminiUsageManager } from "./lib/GeminiUsageManager.mjs";
+
+// ... existing imports ...
+
+// -----------------------------------------------------------------------------
+// オフライン/エラー時/予算オーバー時のフォールバック生成
+// -----------------------------------------------------------------------------
+
+function createUnsummarizedFallback(title, url, reason) {
+  return {
+    tldr: `（未要約: ${reason}）内容を確認するにはリンクを開いてください。`,
+    body: `> [!warning] 未要約 (${reason})\n> Gemini API のクォータ制限、またはエラーのため要約をスキップしました。\n> [元記事](${url}) から内容を確認してください。\n\n（後で手動更新するか、翌日以降に再生成してください）`,
+    titleJa: null // タイトル翻訳もスキップ
+  };
+}
+
+function createLinkOnlyFallback(title, url, note = "リンク保存") {
+  return {
+    tldr: `${note}: 内容はリンク先を確認してください。`,
+    body: `> [!note] ${note}\n> 自動要約対象外、または本文取得困難なためリンクのみ保存しました。\n> [元記事](${url}) を確認してください。`,
+    titleJa: null
+  };
+}
+
+// ... inside main() ...
+
+  // usageManager の初期化 (project root/state)
+  const usageManager = new GeminiUsageManager(path.join(ROOT_DIR, 'state'));
+
   let title, textContent;
   
   if (isTwitterUrl) {
-    // X/Twitter URLはoEmbed APIでツイート内容を取得
-    console.log("[summarize] X/Twitter URL detected - fetching via oEmbed API");
-    const tweetIdMatch = url.match(/status\/(\d+)/);
-    const tweetId = tweetIdMatch ? tweetIdMatch[1] : 'unknown';
-    const authorMatch = url.match(/(?:x\.com|twitter\.com)\/([^\/]+)\/status/);
-    const author = authorMatch ? authorMatch[1] : 'unknown';
-    
-    try {
-      // oEmbed APIでツイートHTMLを取得
-      const oEmbedUrl = `https://publish.twitter.com/oembed?url=${encodeURIComponent(url)}&omit_script=true`;
-      const oEmbedRes = await fetch(oEmbedUrl);
-      if (oEmbedRes.ok) {
-        const oEmbedData = await oEmbedRes.json();
-        // HTMLからテキストを抽出
-        const tweetHtml = oEmbedData.html || '';
-        const authorName = oEmbedData.author_name || author;
-        // HTMLタグを除去してテキストを取得
-        const tweetText = tweetHtml
-          .replace(/<[^>]+>/g, ' ')
-          .replace(/&mdash;/g, '—')
-          .replace(/&amp;/g, '&')
-          .replace(/&lt;/g, '<')
-          .replace(/&gt;/g, '>')
-          .replace(/&quot;/g, '"')
-          .replace(/&#39;/g, "'")
-          .replace(/\s+/g, ' ')
-          .trim();
-        
-        title = `${authorName}のX投稿`;
-        textContent = `X投稿 by ${authorName}:\n\n${tweetText}\n\nURL: ${url}`;
-        console.log(`[summarize] oEmbed success: ${authorName}`);
-      } else {
-        throw new Error('oEmbed API failed');
-      }
-    } catch (err) {
-      console.log(`[summarize] oEmbed failed, using fallback: ${err.message}`);
-      title = `X Post (@${author})`;
-      textContent = `X投稿 by @${author}\n\nURL: ${url}\n\n（oEmbed APIで取得できなかったため、リンク先を確認してください）`;
-    }
+    // X/Twitter: 本文取得を頑張らず、最初から「リンク保存」モード
+    console.log("[summarize] X/Twitter URL detected - skipping fetch, using link-only mode");
+    title = `X Post (${url})`; // 仮タイトル
+    textContent = ""; // 本文なし
   } else {
     // 通常の記事抽出
-    const result = await extractArticle(url);
-    title = result.title;
-    textContent = result.textContent;
+    try {
+      const result = await extractArticle(url);
+      title = result.title;
+      textContent = result.textContent;
+    } catch (err) {
+      console.warn(`[summarize] extractArticle failed: ${err.message}`);
+      // 抽出ごときで止まらない。タイトル不明で続行。
+      title = `Article (${domain})`;
+      textContent = "";
+    }
   }
 
   let summary;
-  if (isTwitterUrl && process.env.AI_NEWS_OFFLINE !== "1") {
-    // X記事もGeminiで要約を試みる
-    try {
-      summary = await summarizeWithGemini(textContent, title, url);
-    } catch (err) {
-      console.warn("[summarize] X記事のGemini要約失敗、フォールバック:", err.message);
-      summary = {
-        tldr: `X投稿です。内容はリンク先を確認してください。`,
-        body: `> [!note] X投稿\n> この記事はX/Twitterの投稿です。\n\n${textContent}`
-      };
-    }
-  } else if (isTwitterUrl) {
-    // オフライン時のX記事処理
-    summary = {
-      tldr: `X/Twitterの投稿です。リンク先で内容を確認してください。`,
-      body: `> [!warning] X/Twitter投稿\n> この記事はX/Twitterの投稿です。内容を確認するには引用元リンクをクリックしてください。\n\n元のURLから手動で内容を確認し、必要に応じてこのノートを編集してください。`
-    };
-  } else if (process.env.AI_NEWS_OFFLINE === "1") {
+
+  // 1. X/Twitter は無条件でリンク保存モード (Gemini使わない)
+  if (isTwitterUrl) {
+    summary = createLinkOnlyFallback(title, url, "X/Twitter投稿");
+  } 
+  // 2. オフラインモード指定時
+  else if (process.env.AI_NEWS_OFFLINE === "1") {
     console.log("[summarize] AI_NEWS_OFFLINE=1 → offlineSummary を使用");
     summary = offlineSummary(textContent, title, url);
-  } else {
-    try {
-      summary = await summarizeWithGemini(textContent, title, url);
-    } catch (err) {
-      console.warn(
-        "[summarize] Gemini 要約に失敗したため offlineSummary にフォールバックします:",
-        err.message
-      );
-      summary = offlineSummary(textContent, title, url);
+  } 
+  // 3. 通常のGemini要約（予算チェック付き）
+  else {
+    // 予算チェック
+    const budgetStatus = await usageManager.checkBudget();
+    
+    if (!budgetStatus.allowed) {
+      console.warn(`[summarize] Gemini budget/limit prevented execution: ${budgetStatus.reason}`);
+      summary = createUnsummarizedFallback(title, url, budgetStatus.reason);
+    } else {
+      // 実行
+      try {
+        summary = await summarizeWithGemini(textContent, title, url);
+        // 成功したらカウントアップ
+        await usageManager.increment();
+      } catch (err) {
+        console.warn("[summarize] Gemini execution failed:", err.message);
+        
+        // 429 (Resource Exhausted) の場合はフラグを立てる
+        if (err.message.includes('429') || err.message.includes('Quota exceeded')) {
+          console.warn("[summarize] Detected 429/Quota Exceeded. Marking limit reached for today.");
+          await usageManager.markLimitReached();
+          summary = createUnsummarizedFallback(title, url, "Quota Exceeded (429)");
+        } else {
+          // その他のエラー
+          summary = createUnsummarizedFallback(title, url, `API Error: ${err.message}`);
+        }
+      }
     }
   }
 

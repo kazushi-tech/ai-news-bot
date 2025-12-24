@@ -1,11 +1,12 @@
 // scripts/discord_queue_bot.mjs
-// Discord の指定チャンネルから URL を拾って ai-news/queue/urls.txt に追記する。
+// Discord の指定チャンネルから URL を拾って ai-news/queue/urls.txt に追記し、自動で記事生成まで実行する。
 
 import "dotenv/config";
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { Client, GatewayIntentBits } from "discord.js";
+import { spawn } from "node:child_process";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -33,6 +34,60 @@ async function appendToQueue(url) {
   console.log(`[discord_queue_bot] queued: ${url}`);
 }
 
+// Worker実行状態管理
+let workerRunning = false;
+let pendingWorkerRun = false;
+
+async function runWorker() {
+  if (workerRunning) {
+    pendingWorkerRun = true;
+    console.log("[discord_queue_bot] Worker already running, will run again after completion");
+    return;
+  }
+  
+  workerRunning = true;
+  console.log("[discord_queue_bot] Starting queue_worker...");
+  
+  return new Promise((resolve) => {
+    const child = spawn("node", ["--env-file=.env", "scripts/queue_worker.mjs"], {
+      cwd: path.resolve(__dirname, ".."),
+      env: { ...process.env, NEWS_ROOT },
+      stdio: "inherit"
+    });
+    
+    child.on("close", async (code) => {
+      console.log(`[discord_queue_bot] queue_worker exited with code ${code}`);
+      workerRunning = false;
+      
+      // ペンディング中の実行があれば再実行
+      if (pendingWorkerRun) {
+        pendingWorkerRun = false;
+        setTimeout(() => runWorker(), 1000);
+      }
+      resolve();
+    });
+    
+    child.on("error", (err) => {
+      console.error("[discord_queue_bot] queue_worker error:", err);
+      workerRunning = false;
+      resolve();
+    });
+  });
+}
+
+// デバウンス処理：連続投稿時に5秒待ってからworkerを実行
+let workerDebounceTimer = null;
+
+function scheduleWorker() {
+  if (workerDebounceTimer) {
+    clearTimeout(workerDebounceTimer);
+  }
+  workerDebounceTimer = setTimeout(() => {
+    workerDebounceTimer = null;
+    runWorker();
+  }, 5000); // 5秒待ってから実行
+}
+
 const client = new Client({
   intents: [
     GatewayIntentBits.Guilds,
@@ -45,6 +100,7 @@ client.once("ready", () => {
   console.log(`[discord_queue_bot] Logged in as ${client.user.tag}`);
   console.log(`[discord_queue_bot] NEWS_ROOT = ${newsRoot}`);
   console.log(`[discord_queue_bot] Watching channel: ${CHANNEL_ID}`);
+  console.log(`[discord_queue_bot] Auto-worker: ENABLED (5s debounce)`);
 });
 
 client.on("messageCreate", async (message) => {
@@ -61,12 +117,19 @@ client.on("messageCreate", async (message) => {
 
     if (!urls.length) return;
 
+    let addedCount = 0;
     for (const url of urls) {
+      // 全てのURLをキューに追加（X/Twitterもプレースホルダー生成される）
       await appendToQueue(url);
+      addedCount++;
     }
 
-    // 成功したら軽くリアクション（邪魔なら消してOK）
-    await message.react("✅").catch(() => {});
+    // 成功したら軽くリアクション
+    if (addedCount > 0) {
+      await message.react("✅").catch(() => {});
+      // 自動でworkerを実行（デバウンス付き）
+      scheduleWorker();
+    }
   } catch (err) {
     console.error("[discord_queue_bot] ERROR:", err);
   }

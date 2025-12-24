@@ -1,176 +1,212 @@
-// ai-news-bot/scripts/build_home.mjs
-// AI News ホームダッシュボード生成スクリプト
-// - Daily:  ai-news-bot/daily/*.md
-// - Weekly: ai-news/weekly/*.md
-// - 出力:   ai-news-bot/index.md
+// scripts/build_home.mjs
+// AI News トップページ (ai-news/index.md) を再生成する。
+// - 最新 Weekly (weekly/)
+// - 最近の Daily (news/)
+// を Obsidian で確実にクリックできる「Markdown リンク形式」で一覧表示する。
 
-import fs from 'node:fs/promises';
-import path from 'node:path';
-import matter from 'gray-matter';
+import fs from "node:fs/promises";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
 
-const BOT_ROOT = process.cwd(); // /Users/omats/git-check/myapp/ai-news-bot
-const NEWS_ROOT = path.resolve(BOT_ROOT, '..', 'ai-news');
+// ====== パス設定 ======
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-const DAILY_DIR = path.join(BOT_ROOT, 'daily');       // ★ ここを使う（旧: ai-news/daily）
-const WEEKLY_DIR = path.join(NEWS_ROOT, 'weekly');    // 週次は現状 ai-news/weekly
-const OUTPUT_PATH = path.join(BOT_ROOT, 'index.md');
+// NEWS_ROOT が指定されていなければ ../ai-news を見る
+const AI_NEWS_DIR =
+  process.env.NEWS_ROOT || path.resolve(__dirname, "..", "ai-news");
 
-function log(...args) {
-  console.log('[home]', ...args);
-}
+const DAILY_DIR = path.join(AI_NEWS_DIR, "news");
+const WEEKLY_DIR = path.join(AI_NEWS_DIR, "weekly");
+const HOME_INDEX_PATH = path.join(AI_NEWS_DIR, "index.md");
 
-// 安全な readdir（ディレクトリが無ければ空配列を返す）
-async function safeReadDir(dir) {
+// 最近の Daily を何件出すか（環境変数で調整可）
+const MAX_RECENT_DAILIES = Number.parseInt(
+  process.env.HOME_RECENT_DAILIES || "7",
+  10
+);
+
+// ====== ヘルパー ======
+async function safeReaddir(dir) {
   try {
-    const entries = await fs.readdir(dir, { withFileTypes: true });
-    return entries
-      .filter((e) => e.isFile() && e.name.endsWith('.md'))
-      .map((e) => e.name);
+    return await fs.readdir(dir, { withFileTypes: true });
   } catch (err) {
-    if (err && err.code === 'ENOENT') {
-      log('dir not found (ok):', dir);
+    if (err && err.code === "ENOENT") {
+      // ディレクトリがまだ無い場合は空扱いにする
       return [];
     }
     throw err;
   }
 }
 
-function dateFromFilename(name) {
-  const m = name.match(/^(\d{4}-\d{2}-\d{2})/);
-  return m ? m[1] : null;
+function getDowJa(dateStr) {
+  // dateStr: "2025-11-22" など
+  const d = new Date(dateStr);
+  if (Number.isNaN(d.getTime())) return "";
+  const labels = ["日", "月", "火", "水", "木", "金", "土"];
+  return labels[d.getDay()];
 }
 
-function weekFromFilename(name) {
-  // 例: 2025-11-19.md / 2025-W46--AI-news.md どちらでも
-  const m =
-    name.match(/^(\d{4}-W?\d{2})/) ||
-    name.match(/^(\d{4}-\d{2}-\d{2})/);
-  return m ? m[1] : null;
+// news/ 配下から最近の Daily を収集
+async function collectRecentDailies() {
+  const entries = await safeReaddir(DAILY_DIR);
+
+  const files = entries
+    .filter((ent) => ent.isFile() && ent.name.endsWith(".md"))
+    .map((ent) => ent.name)
+    // 形式: YYYY-MM-DD--AI-news.md のものだけ
+    .filter((name) => /^\d{4}-\d{2}-\d{2}--AI-news\.md$/.test(name));
+
+  // ファイル名先頭の日付 (YYYY-MM-DD) で降順ソート
+  files.sort((a, b) => {
+    const da = a.slice(0, 10);
+    const db = b.slice(0, 10);
+    // 降順
+    return db.localeCompare(da);
+  });
+
+  const trimmed = files.slice(0, MAX_RECENT_DAILIES);
+
+  return trimmed.map((name) => {
+    const dateStr = name.slice(0, 10); // "YYYY-MM-DD"
+    const dow = getDowJa(dateStr);
+    const label = dow ? `${dateStr}（${dow}）` : dateStr;
+    const basename = name.replace(/\.md$/, "");
+
+    // index.md から見た相対パス（Markdownリンク用）
+    const linkPath = `news/${basename}`;
+
+    return { dateStr, label, linkPath };
+  });
 }
 
-function buildObsidianLink(vaultRelPath, label) {
-  // vault: myapp 固定前提
-  const encoded = encodeURIComponent(vaultRelPath)
-    // Obsidian は / をそのまま扱ってくれるのでここだけ戻す
-    .replace(/%2F/g, '%2F');
-  return `[${label}](obsidian://open?vault=myapp&file=${encoded})`;
+// weekly/ 配下から最新 Weekly を収集
+async function collectLatestWeeklies(limit = 3) {
+  const entries = await safeReaddir(WEEKLY_DIR);
+
+  const files = entries
+    .filter((ent) => ent.isFile() && ent.name.endsWith(".md"))
+    .map((ent) => ent.name)
+    // 形式: 2025-W47--AI-news.md など
+    .filter((name) => /^\d{4}-W\d{2}--AI-news\.md$/.test(name));
+
+  // ファイル名（= 年+週）で降順ソート
+  files.sort((a, b) => b.localeCompare(a));
+
+  const trimmed = files.slice(0, limit);
+
+  return trimmed.map((name) => {
+    const weekPart = name.split("--")[0]; // "2025-W47"
+    const basename = name.replace(/\.md$/, "");
+    const linkPath = `weekly/${basename}`; // index.md からの相対パス
+
+    return { weekPart, linkPath };
+  });
 }
 
-async function loadDaily() {
-  const files = await safeReadDir(DAILY_DIR);
-  const result = [];
+// index.md の Markdown を組み立て
+function buildMarkdown({ weeklies, dailies }) {
+  const weeklySection =
+    weeklies.length === 0
+      ? [
+          "## 最新 Weekly",
+          "",
+          "> [!info]",
+          "> まだ Weekly ノートが生成されていません。",
+          "> `weekly/` ディレクトリが空の場合はこの表示になります。",
+          "",
+        ].join("\n")
+      : [
+          "## 最新 Weekly",
+          "",
+          ...weeklies.map(
+            (w) => `- [${w.weekPart} AI News](${w.linkPath})`
+          ),
+          "",
+        ].join("\n");
 
-  for (const file of files) {
-    const full = path.join(DAILY_DIR, file);
-    const raw = await fs.readFile(full, 'utf8');
-    const { data } = matter(raw);
+  const dailyHeader = "## 最近の Daily";
+  let dailySection = "";
 
-    const date = (data.date || dateFromFilename(file) || '').toString().slice(0, 10);
-    if (!date) continue;
-
-    const title = data.title || file.replace(/\.md$/, '');
-    const relPath = path.posix.join('ai-news-bot', 'daily', file);
-
-    result.push({
-      file,
-      date,
-      title,
-      relPath,
-    });
-  }
-
-  // 新しい日付順
-  result.sort((a, b) => b.date.localeCompare(a.date));
-  return result;
-}
-
-async function loadWeekly() {
-  const files = await safeReadDir(WEEKLY_DIR);
-  const result = [];
-
-  for (const file of files) {
-    const full = path.join(WEEKLY_DIR, file);
-    const raw = await fs.readFile(full, 'utf8');
-    const { data } = matter(raw);
-
-    const week = (data.week || weekFromFilename(file) || '').toString();
-    if (!week) continue;
-
-    const title = data.title || file.replace(/\.md$/, '');
-    const relPath = path.posix.join('ai-news', 'weekly', file);
-
-    result.push({
-      file,
-      week,
-      title,
-      relPath,
-    });
-  }
-
-  // 新しい週順（文字列比較で十分）
-  result.sort((a, b) => b.week.localeCompare(a.week));
-  return result;
-}
-
-function renderHome({ weekly, daily }) {
-  const latestWeekly = weekly.slice(0, 3);
-  const recentDaily = daily.slice(0, 10);
-
-  let md = '';
-  md += `---\n`;
-  md += `title: "AI News Home"\n`;
-  md += `---\n\n`;
-  md += `# AI News\n\n`;
-
-  // Weekly セクション
-  md += `## 最新 Weekly\n\n`;
-  if (latestWeekly.length === 0) {
-    md += `（Weekly がまだ生成されていません）\n\n`;
+  if (dailies.length === 0) {
+    dailySection = [
+      dailyHeader,
+      "",
+      "> [!info]",
+      "> まだ Daily ノートが生成されていません。",
+      "> Discord に URL を貼ってキューが処理されると、ここに直近数日分が並びます。",
+      "",
+    ].join("\n");
   } else {
-    md += `| 週 | Weeklyページ |\n`;
-    md += `| --- | --- |\n`;
-    for (const w of latestWeekly) {
-      const link = buildObsidianLink(w.relPath, w.title);
-      md += `| ${w.week} | ${link} |\n`;
-    }
-    md += `\n`;
+    const tableHeader = [
+      dailyHeader,
+      "",
+      "| 日付 | Daily ノート |",
+      "| --- | --- |",
+    ].join("\n");
+
+    const rows = dailies
+      .map((d) => {
+        const linkLabel = `${d.label} の AI News`;
+        const link = `[${linkLabel}](${d.linkPath})`;
+        return `| ${d.label} | ${link} |`;
+      })
+      .join("\n");
+
+    dailySection = `${tableHeader}\n${rows}\n`;
   }
 
-  // Daily セクション
-  md += `## 最近の Daily\n\n`;
-  if (recentDaily.length === 0) {
-    md += `（Daily がまだ生成されていません）\n\n`;
-  } else {
-    md += `| 日付 | Dailyページ |\n`;
-    md += `| --- | --- |\n`;
-    for (const d of recentDaily) {
-      const link = buildObsidianLink(d.relPath, d.title);
-      md += `| ${d.date} | ${link} |\n`;
-    }
-    md += `\n`;
-  }
+  const frontmatter = [
+    "---",
+    'title: "AI News index"',
+    "cssclass: ai-news-home",
+    "---",
+    "",
+  ].join("\n");
 
-  return md;
+  const body = [
+    "# AI News index",
+    "",
+    "> [!summary] このページの読み方",
+    "> - まずは「最新 Weekly」から全体像をざっくり把握",
+    "> - 次に「最近の Daily」から気になる日付を開く",
+    "> - 個別記事は Daily ノート内のテーブルから読む",
+    "",
+    weeklySection,
+    dailySection,
+  ].join("\n");
+
+  return `${frontmatter}${body}\n`;
 }
 
+// ====== エントリーポイント ======
 async function main() {
-  log('BOT_ROOT   =', BOT_ROOT);
-  log('NEWS_ROOT  =', NEWS_ROOT);
-  log('DAILY_DIR  =', DAILY_DIR);
-  log('WEEKLY_DIR =', WEEKLY_DIR);
+  try {
+    console.log("[build_home] AI_NEWS_DIR =", AI_NEWS_DIR);
+    console.log("[build_home] DAILY_DIR   =", DAILY_DIR);
+    console.log("[build_home] WEEKLY_DIR  =", WEEKLY_DIR);
+    console.log("[build_home] OUTPUT      =", HOME_INDEX_PATH);
 
-  const [daily, weekly] = await Promise.all([loadDaily(), loadWeekly()]);
+    const [weeklies, dailies] = await Promise.all([
+      collectLatestWeeklies(3),
+      collectRecentDailies(),
+    ]);
 
-  log(`daily count  = ${daily.length}`);
-  log(`weekly count = ${weekly.length}`);
+    console.log(
+      `[build_home] weeklies=${weeklies.length}, dailies=${dailies.length}`
+    );
 
-  const md = renderHome({ weekly, daily });
-  await fs.writeFile(OUTPUT_PATH, md, 'utf8');
+    const markdown = buildMarkdown({ weeklies, dailies });
 
-  log('wrote:', OUTPUT_PATH);
+    await fs.writeFile(HOME_INDEX_PATH, markdown, "utf8");
+
+    console.log(
+      `[build_home] done. wrote index.md with ${weeklies.length} weeklies & ${dailies.length} dailies.`
+    );
+  } catch (err) {
+    console.error("[build_home] ❌ ERROR", err);
+    process.exitCode = 1;
+  }
 }
 
-main().catch((err) => {
-  console.error('[home] ERROR:', err);
-  process.exit(1);
-});
+main();

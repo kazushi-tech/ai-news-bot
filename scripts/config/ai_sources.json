@@ -1,0 +1,44 @@
+[
+  {
+    "id": "itmedia_ai",
+    "label": "ITmedia AI",
+    "rss": "https://example.com/itmedia/ai/rss",
+    "maxPerDay": 3
+  },
+  {
+    "id": "ledge_ai",
+    "label": "Ledge.ai",
+    "rss": "https://example.com/ledge/ai/rss",
+    "maxPerDay": 2
+  },
+  {
+    "id": "ainow",
+    "label": "AINOW",
+    "rss": "https://example.com/ainow/rss",
+    "maxPerDay": 2
+  },
+  {
+    "id": "gigazine_ai",
+    "label": "GIGAZINE",
+    "rss": "https://example.com/gigazine/ai/rss",
+    "maxPerDay": 3
+  },
+  {
+    "id": "theverge_ai",
+    "label": "The Verge AI",
+    "rss": "https://example.com/theverge/ai/rss",
+    "maxPerDay": 3
+  },
+  {
+    "id": "openai_blog",
+    "label": "OpenAI Blog",
+    "rss": "https://example.com/openai/blog/rss",
+    "maxPerDay": 5
+  },
+  {
+    "id": "google_ai",
+    "label": "Google AI Blog",
+    "rss": "https://example.com/google/ai/rss",
+    "maxPerDay": 5
+  }
+]

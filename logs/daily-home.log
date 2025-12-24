@@ -1,0 +1,261 @@
+[2025-11-20 12:04:24] start: daily + home
+
+> ai-news-bot@0.1.0 daily
+> bash -lc 'DATE=$(date +%F); node scripts/build_index_daily.mjs --date="$DATE" --link=${LINK_MODE:-obsidian}'
+
+[daily] ROOT        = /Users/omats/git-check/myapp/ai-news
+[daily] ARTICLES    = /Users/omats/git-check/myapp/ai-news/articles
+[daily] OUTPUT_DIR  = /Users/omats/git-check/myapp/ai-news-bot/daily
+[daily] targetDate  = 2025-11-20
+[daily] linkMode    = obsidian
+[daily] articles for 2025-11-20 = 1
+[daily] wrote: /Users/omats/git-check/myapp/ai-news-bot/daily/2025-11-20--AI-news.md
+
+> ai-news-bot@0.1.0 home
+> node scripts/build_home.mjs
+
+[home] BOT_ROOT   = /Users/omats/git-check/myapp/ai-news-bot
+[home] NEWS_ROOT  = /Users/omats/git-check/myapp/ai-news
+[home] DAILY_DIR  = /Users/omats/git-check/myapp/ai-news-bot/daily
+[home] WEEKLY_DIR = /Users/omats/git-check/myapp/ai-news/weekly
+[home] daily count  = 9
+[home] weekly count = 3
+[home] wrote: /Users/omats/git-check/myapp/ai-news-bot/index.md
+[2025-11-20 12:04:25] done:  daily + home
+[2025-11-20 12:15:16] start: daily + home
+
+> ai-news-bot@0.1.0 daily
+> bash -lc 'DATE=$(date +%F); node scripts/build_index_daily.mjs --date="$DATE" --link=${LINK_MODE:-obsidian}'
+
+[daily] ROOT        = /Users/omats/git-check/myapp/ai-news
+[daily] ARTICLES    = /Users/omats/git-check/myapp/ai-news/articles
+[daily] OUTPUT_DIR  = /Users/omats/git-check/myapp/ai-news-bot/daily
+[daily] targetDate  = 2025-11-20
+[daily] linkMode    = obsidian
+
+/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:183
+  return new YAMLException(
+         ^
+YAMLException: unexpected end of the stream within a double quoted scalar at line 34, column 1:
+    
+    ^
+    at generateError (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:183:10)
+    at throwError (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:189:9)
+    at readDoubleQuotedScalar (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:681:3)
+    at composeNode (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1381:13)
+    at readBlockMapping (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1105:11)
+    at composeNode (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1375:12)
+    at readDocument (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1541:3)
+    at loadDocuments (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1604:5)
+    at load (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1630:19)
+    at Object.safeLoad (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1653:10) {
+  reason: 'unexpected end of the stream within a double quoted scalar',
+  mark: Mark {
+    name: null,
+    buffer: '\n' +
+      'title: "記事の取得失敗"\n' +
+      'url: "https://x.com/naturenature109/status/1988910528274608592?s=46&t=ZacuOuwjVfR4x| タイトル    | 記事ページへ                                                                                                    | 引用元                                                                                            | 要約                                                           |\n' +
+      '| ------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |\n' +
+      '| 記事の取得失敗 | [記事ページへ](obsidian://open?vault=myapp&file=ai-news%2Farticles%2F2025-11-20--x.com--1988910528274608592.md) | [引用元へ](https://x.com/naturenature109/status/1988910528274608592?s=46&t=ZacuOuwjVfR4xuhGZmlmzQ) | 指定されたX (旧Twitter) のURLはJavaScriptに依存しており、コンテンツを直接取得できませんでした。 |要\n' +
+      '\n' +
+      '提供されたURLはX (旧Twitter) の投稿ページですが、ブラウジングツールではJavaScriptが無効なため、ページのコンテンツを正常に読み込むことができませんでした。これにより、記事のタイトル、要約、詳細な内容を抽出することが不可能となりました。X (旧Twitter) のコンテンツは動的に生成されることが多く、静的なHTMLとして取得することが困難な場合があります。そのため、指定されたスキーマに従って情報を生成することができません。\n' +
+      '\n' +
+      '## 詳細レポート\n' +
+      '\n' +
+      '（詳細レポートは後で追記）\n' +
+      '\n' +
+      '## 抽出ポイント\n' +
+      '\n' +
+      '- X (旧Twitter) のページはJavaScriptに依存しているため、コンテンツの直接取得ができませんでした。\n' +
+      '- ブラウジングツールではJavaScriptが無効な状態で動作するため、ページ内容を解析できませんでした。\n' +
+      '- 記事の要約に必要な情報を抽出できませんでした。\n' +
+      '\n' +
+      '## 重要な示唆\n' +
+      '\n' +
+      '- X (旧Twitter) のような動的なウェブサイトのコンテンツをプログラムで取得する際には、JavaScriptの実行環境が必要となることが多いです。\n' +
+      '- 静的なコンテンツ取得ツールでは、このようなサイトの情報を完全に取得することは困難です。\n' +
+      '- 今後の同様のタスクでは、JavaScriptレンダリングに対応したツールが必要となる可能性があります。\n' +
+      '\n' +
+      '## リスク・未確定要素\n' +
+      '\n' +
+      '- 提供されたURLから記事の内容を正確に把握できないため、要約の品質が保証されません。\n' +
+      '- 情報が取得できないことにより、ユーザーの期待に応えられない可能性があります。\n' +
+      '- 将来的にX (旧Twitter) の仕様変更があった場合、同様の問題が発生する可能性があります。\n' +
+      '\n' +
+      '## メモ\n' +
+      '\n' +
+      '- 記事の内容を要約するには、手動での確認またはJavaScript実行が可能な環境でのアクセスが必要です。\n' +
+      '\x00',
+    position: 1754,
+    line: 33,
+    column: 0
+  }
+}
+
+Node.js v22.20.0
+[2025-11-20 12:15:28] start: daily + home
+
+> ai-news-bot@0.1.0 daily
+> bash -lc 'DATE=$(date +%F); node scripts/build_index_daily.mjs --date="$DATE" --link=${LINK_MODE:-obsidian}'
+
+[daily] ROOT        = /Users/omats/git-check/myapp/ai-news
+[daily] ARTICLES    = /Users/omats/git-check/myapp/ai-news/articles
+[daily] OUTPUT_DIR  = /Users/omats/git-check/myapp/ai-news-bot/daily
+[daily] targetDate  = 2025-11-20
+[daily] linkMode    = obsidian
+
+/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:183
+  return new YAMLException(
+         ^
+YAMLException: unexpected end of the stream within a double quoted scalar at line 34, column 1:
+    
+    ^
+    at generateError (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:183:10)
+    at throwError (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:189:9)
+    at readDoubleQuotedScalar (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:681:3)
+    at composeNode (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1381:13)
+    at readBlockMapping (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1105:11)
+    at composeNode (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1375:12)
+    at readDocument (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1541:3)
+    at loadDocuments (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1604:5)
+    at load (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1630:19)
+    at Object.safeLoad (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1653:10) {
+  reason: 'unexpected end of the stream within a double quoted scalar',
+  mark: Mark {
+    name: null,
+    buffer: '\n' +
+      'title: "記事の取得失敗"\n' +
+      'url: "https://x.com/naturenature109/status/1988910528274608592?s=46&t=ZacuOuwjVfR4x| タイトル    | 記事ページへ                                                                                                    | 引用元                                                                                            | 要約                                                           |\n' +
+      '| ------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |\n' +
+      '| 記事の取得失敗 | [記事ページへ](obsidian://open?vault=myapp&file=ai-news%2Farticles%2F2025-11-20--x.com--1988910528274608592.md) | [引用元へ](https://x.com/naturenature109/status/1988910528274608592?s=46&t=ZacuOuwjVfR4xuhGZmlmzQ) | 指定されたX (旧Twitter) のURLはJavaScriptに依存しており、コンテンツを直接取得できませんでした。 |要\n' +
+      '\n' +
+      '提供されたURLはX (旧Twitter) の投稿ページですが、ブラウジングツールではJavaScriptが無効なため、ページのコンテンツを正常に読み込むことができませんでした。これにより、記事のタイトル、要約、詳細な内容を抽出することが不可能となりました。X (旧Twitter) のコンテンツは動的に生成されることが多く、静的なHTMLとして取得することが困難な場合があります。そのため、指定されたスキーマに従って情報を生成することができません。\n' +
+      '\n' +
+      '## 詳細レポート\n' +
+      '\n' +
+      '（詳細レポートは後で追記）\n' +
+      '\n' +
+      '## 抽出ポイント\n' +
+      '\n' +
+      '- X (旧Twitter) のページはJavaScriptに依存しているため、コンテンツの直接取得ができませんでした。\n' +
+      '- ブラウジングツールではJavaScriptが無効な状態で動作するため、ページ内容を解析できませんでした。\n' +
+      '- 記事の要約に必要な情報を抽出できませんでした。\n' +
+      '\n' +
+      '## 重要な示唆\n' +
+      '\n' +
+      '- X (旧Twitter) のような動的なウェブサイトのコンテンツをプログラムで取得する際には、JavaScriptの実行環境が必要となることが多いです。\n' +
+      '- 静的なコンテンツ取得ツールでは、このようなサイトの情報を完全に取得することは困難です。\n' +
+      '- 今後の同様のタスクでは、JavaScriptレンダリングに対応したツールが必要となる可能性があります。\n' +
+      '\n' +
+      '## リスク・未確定要素\n' +
+      '\n' +
+      '- 提供されたURLから記事の内容を正確に把握できないため、要約の品質が保証されません。\n' +
+      '- 情報が取得できないことにより、ユーザーの期待に応えられない可能性があります。\n' +
+      '- 将来的にX (旧Twitter) の仕様変更があった場合、同様の問題が発生する可能性があります。\n' +
+      '\n' +
+      '## メモ\n' +
+      '\n' +
+      '- 記事の内容を要約するには、手動での確認またはJavaScript実行が可能な環境でのアクセスが必要です。\n' +
+      '\x00',
+    position: 1754,
+    line: 33,
+    column: 0
+  }
+}
+
+Node.js v22.20.0
+[2025-11-20 12:33:18] start: daily + home
+
+> ai-news-bot@0.1.0 daily
+> bash -lc 'DATE=$(date +%F); node scripts/build_index_daily.mjs --date="$DATE" --link=${LINK_MODE:-obsidian}'
+
+[daily] ROOT        = /Users/omats/git-check/myapp/ai-news
+[daily] ARTICLES    = /Users/omats/git-check/myapp/ai-news/articles
+[daily] OUTPUT_DIR  = /Users/omats/git-check/myapp/ai-news-bot/daily
+[daily] targetDate  = 2025-11-20
+[daily] linkMode    = obsidian
+
+/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:183
+  return new YAMLException(
+         ^
+YAMLException: unexpected end of the stream within a double quoted scalar at line 34, column 1:
+    
+    ^
+    at generateError (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:183:10)
+    at throwError (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:189:9)
+    at readDoubleQuotedScalar (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:681:3)
+    at composeNode (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1381:13)
+    at readBlockMapping (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1105:11)
+    at composeNode (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1375:12)
+    at readDocument (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1541:3)
+    at loadDocuments (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1604:5)
+    at load (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1630:19)
+    at Object.safeLoad (/Users/omats/git-check/myapp/ai-news-bot/node_modules/js-yaml/lib/js-yaml/loader.js:1653:10) {
+  reason: 'unexpected end of the stream within a double quoted scalar',
+  mark: Mark {
+    name: null,
+    buffer: '\n' +
+      'title: "記事の取得失敗"\n' +
+      'url: "https://x.com/naturenature109/status/1988910528274608592?s=46&t=ZacuOuwjVfR4x| タイトル    | 記事ページへ                                                                                                    | 引用元                                                                                            | 要約                                                           |\n' +
+      '| ------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |\n' +
+      '| 記事の取得失敗 | [記事ページへ](obsidian://open?vault=myapp&file=ai-news%2Farticles%2F2025-11-20--x.com--1988910528274608592.md) | [引用元へ](https://x.com/naturenature109/status/1988910528274608592?s=46&t=ZacuOuwjVfR4xuhGZmlmzQ) | 指定されたX (旧Twitter) のURLはJavaScriptに依存しており、コンテンツを直接取得できませんでした。 |要\n' +
+      '\n' +
+      '提供されたURLはX (旧Twitter) の投稿ページですが、ブラウジングツールではJavaScriptが無効なため、ページのコンテンツを正常に読み込むことができませんでした。これにより、記事のタイトル、要約、詳細な内容を抽出することが不可能となりました。X (旧Twitter) のコンテンツは動的に生成されることが多く、静的なHTMLとして取得することが困難な場合があります。そのため、指定されたスキーマに従って情報を生成することができません。\n' +
+      '\n' +
+      '## 詳細レポート\n' +
+      '\n' +
+      '（詳細レポートは後で追記）\n' +
+      '\n' +
+      '## 抽出ポイント\n' +
+      '\n' +
+      '- X (旧Twitter) のページはJavaScriptに依存しているため、コンテンツの直接取得ができませんでした。\n' +
+      '- ブラウジングツールではJavaScriptが無効な状態で動作するため、ページ内容を解析できませんでした。\n' +
+      '- 記事の要約に必要な情報を抽出できませんでした。\n' +
+      '\n' +
+      '## 重要な示唆\n' +
+      '\n' +
+      '- X (旧Twitter) のような動的なウェブサイトのコンテンツをプログラムで取得する際には、JavaScriptの実行環境が必要となることが多いです。\n' +
+      '- 静的なコンテンツ取得ツールでは、このようなサイトの情報を完全に取得することは困難です。\n' +
+      '- 今後の同様のタスクでは、JavaScriptレンダリングに対応したツールが必要となる可能性があります。\n' +
+      '\n' +
+      '## リスク・未確定要素\n' +
+      '\n' +
+      '- 提供されたURLから記事の内容を正確に把握できないため、要約の品質が保証されません。\n' +
+      '- 情報が取得できないことにより、ユーザーの期待に応えられない可能性があります。\n' +
+      '- 将来的にX (旧Twitter) の仕様変更があった場合、同様の問題が発生する可能性があります。\n' +
+      '\n' +
+      '## メモ\n' +
+      '\n' +
+      '- 記事の内容を要約するには、手動での確認またはJavaScript実行が可能な環境でのアクセスが必要です。\n' +
+      '\x00',
+    position: 1754,
+    line: 33,
+    column: 0
+  }
+}
+
+Node.js v22.20.0
+[2025-11-20 13:12:24] start: daily + home
+
+> ai-news-bot@0.1.0 daily
+> bash -lc 'DATE=$(date +%F); node scripts/build_index_daily.mjs --date="$DATE" --link=${LINK_MODE:-obsidian}'
+
+[daily] ROOT        = /Users/omats/git-check/myapp/ai-news
+[daily] ARTICLES    = /Users/omats/git-check/myapp/ai-news/articles
+[daily] OUTPUT_DIR  = /Users/omats/git-check/myapp/ai-news-bot/daily
+[daily] targetDate  = 2025-11-20
+[daily] linkMode    = obsidian
+[daily] articles for 2025-11-20 = 2
+[daily] wrote: /Users/omats/git-check/myapp/ai-news-bot/daily/2025-11-20--AI-news.md
+
+> ai-news-bot@0.1.0 home
+> node scripts/build_home.mjs
+
+[home] BOT_ROOT   = /Users/omats/git-check/myapp/ai-news-bot
+[home] NEWS_ROOT  = /Users/omats/git-check/myapp/ai-news
+[home] DAILY_DIR  = /Users/omats/git-check/myapp/ai-news-bot/daily
+[home] WEEKLY_DIR = /Users/omats/git-check/myapp/ai-news/weekly
+[home] daily count  = 9
+[home] weekly count = 3
+[home] wrote: /Users/omats/git-check/myapp/ai-news-bot/index.md
+[2025-11-20 13:12:24] done:  daily + home

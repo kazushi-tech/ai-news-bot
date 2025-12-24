@@ -1,123 +1,54 @@
 // scripts/finish_up.mjs
+// ingest 後にまとめて実行する仕上げ処理。
+// 1) 各種 doctor スクリプト
+// 2) Daily / Weekly / Home index 更新
+// 3) 新規記事を Discord に自動ポスト
+
+import { spawnSync } from "node:child_process";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { readFile, writeFile, mkdir } from "node:fs/promises";
-import { spawn } from "node:child_process";
-import matter from "gray-matter";
-import { fetch } from "undici";
-import { collectRootArticles, readArticleMeta } from "./lib/index-utils.mjs";
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const ROOT = process.env.NEWS_ROOT ? path.resolve(process.env.NEWS_ROOT) : path.resolve(__dirname, "..");
-const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY || "";
-const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
-const OFFLINE = String(process.env.AI_NEWS_OFFLINE || "0") === "1";
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-function ymd(d=new Date()){ return d.toISOString().slice(0,10); }
-function sleep(ms){ return new Promise(r=>setTimeout(r, ms)); }
+const NEWS_ROOT =
+  process.env.NEWS_ROOT ||
+  path.resolve(__dirname, "..", "ai-news");
 
-async function summarize(text, url){
-  if (OFFLINE || !GOOGLE_API_KEY){
-    const lines = text.split(/\n+/).filter(Boolean);
-    const tldr = (lines[0]||"").slice(0,140);
-    const key_points = lines.slice(1,6).map(s=>`- ${s.slice(0,120)}`);
-    return { tldr, key_points };
-  }
-  const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(GEMINI_MODEL)}:generateContent?key=${GOOGLE_API_KEY}`;
-  const body = { contents: [{ role: "user", parts: [{ text:
-`Summarize to pure JSON with keys:
-- tldr (<=140 chars, one sentence)
-- key_points (3-6 bullet lines, <=120 chars)
-Source URL: ${url}
-
---- ARTICLE START ---
-${text.slice(0,30000)}
---- ARTICLE END ---` }]}] };
-  const res = await fetch(endpoint, { method: "POST", headers: {"content-type":"application/json"}, body: JSON.stringify(body) });
-  if (!res.ok) throw new Error(`Gemini ${res.status} ${res.statusText}`);
-  const data = await res.json();
-  const out = data?.candidates?.[0]?.content?.parts?.[0]?.text || "";
-  try {
-    const json = JSON.parse(out.match(/\{[\s\S]*\}/)?.[0] || out);
-    return { tldr: (json.tldr||"").trim(), key_points: (json.key_points||[]).map(String) };
-  } catch {
-    const lines = out.split(/\n+/).map(s=>s.replace(/^[-•]\s*/,"").trim()).filter(Boolean);
-    return { tldr: (lines[0]||"").slice(0,140), key_points: lines.slice(1,6).map(s=>`- ${s.slice(0,120)}`) };
-  }
-}
-
-async function backfillRound(limit=40, pauseMs=900){
-  const files = await collectRootArticles(ROOT);
-  let done = 0;
-  for (const fp of files){
-    if (done >= limit) break;
-    const { data } = await readArticleMeta(fp);
-    if (data.tldr && Array.isArray(data.key_points) && data.key_points.length) continue;
-
-    let content = (await readFile(fp,"utf-8"));
-    const parsed = matter(content);
-    let text = (parsed.content||"").trim();
-
-    if (!text || text.length < 200){
-      if (!data.source_url) continue;
-      try{
-        const html = await (await fetch(data.source_url)).text();
-        const { Readability } = await import("@mozilla/readability");
-        const { JSDOM } = await import("jsdom");
-        const dom = new JSDOM(html, { url: data.source_url });
-        const r = new Readability(dom.window.document).parse();
-        text = r?.textContent || "";
-      }catch{}
-    }
-    if (!text) continue;
-
-    const { tldr, key_points } = await summarize(text, data.source_url||"");
-    const next = matter.stringify(parsed.content, { ...data, tldr, key_points });
-    await writeFile(fp, next, "utf-8");
-    console.log(`[OK] updated: ${fp}`);
-    done++;
-    if (pauseMs) await sleep(pauseMs);
-  }
-  return done;
-}
-
-async function validateOnce(){
-  const files = await collectRootArticles(ROOT);
-  let bad = 0;
-  for (const fp of files){
-    const { data } = await readArticleMeta(fp);
-    const lacks = ["title","date","model","source_url","host","tldr","key_points"].filter(k => !(k in (data||{})));
-    if (lacks.length || !data.key_points?.length) bad++;
-  }
-  return bad === 0;
-}
-
-async function buildIndexes(){
-  await mkdir(path.join(ROOT,"daily"), { recursive: true });
-  await mkdir(path.join(ROOT,"weekly"), { recursive: true });
-  const DATE = ymd(new Date());
-  await new Promise((ok,ng)=>{
-    const p = spawn(process.execPath, [path.join(ROOT,"scripts","build_index_daily.mjs"), "--date", DATE, "--link", "publish"], { stdio:"inherit" });
-    p.on("exit", code => code===0?ok():ng(new Error("daily failed")));
+function runStep(label, scriptPath) {
+  console.log(`[finish_up] ▶ node ${scriptPath}`);
+  const result = spawnSync("node", [scriptPath], {
+    stdio: "inherit",
+    env: { 
+      ...process.env, 
+      NEWS_ROOT,
+      AI_NEWS_DIR: NEWS_ROOT  // build_index_daily.mjs が AI_NEWS_DIR を要求
+    },
   });
-  await new Promise((ok,ng)=>{
-    const p = spawn(process.execPath, [path.join(ROOT,"scripts","build_index_weekly.mjs"), "--to", DATE, "--link", "publish"], { stdio:"inherit" });
-    p.on("exit", code => code===0?ok():ng(new Error("weekly failed")));
-  });
-}
 
-async function main(){
-  // 1) backfill を繰り返し（最大 10 ラウンド）
-  for (let i=1;i<=10;i++){
-    const n = await backfillRound(40, 900);
-    console.log(`round ${i}: filled ${n}`);
-    const ok = await validateOnce();
-    if (ok){ console.log("✅ validate OK"); break; }
-    if (n === 0 && i >= 2){ console.log("⚠️ no progress; stopping"); break; }
+  if (result.status !== 0) {
+    console.error(
+      `[finish_up] ❌ step failed: ${label} (exit=${result.status})`
+    );
+    process.exit(result.status ?? 1);
   }
-  // 2) indexes 再生成
-  await buildIndexes();
-  console.log("✅ daily/weekly rebuilt");
 }
 
-main().catch(e=>{ console.error(e); process.exit(1); });
+console.log("[finish_up] NEWS_ROOT =", NEWS_ROOT);
+
+const steps = [
+  ["cssclass", "scripts/doctor_cssclass_ai_news_article.mjs"],
+  ["callouts", "scripts/doctor_callouts_sections.mjs"],
+  ["layout", "scripts/doctor_layout_articles.mjs"],
+  ["title-header", "scripts/doctor_title_header.mjs"],
+  ["tldr-from-overview", "scripts/doctor_generate_tldr_from_overview.mjs"],
+  ["build-daily", "scripts/build_index_daily.mjs"],
+  ["build-weekly", "scripts/build_index_weekly.mjs"],
+  ["build-home", "scripts/build_home.mjs"],
+  // ★ここで Discord に新規記事をポスト
+  ["discord-post", "scripts/discord_post_new_articles.mjs"],
+];
+
+for (const [label, script] of steps) {
+  runStep(label, script);
+}

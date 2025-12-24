@@ -9,30 +9,38 @@
   "scripts": {
     "env:boot": "set -a; source .env; set +a; node -p \"process.env.GOOGLE_API_KEY? 'OK':'MISSING'\"",
     "validate": "node scripts/validate_articles.mjs",
-    "daily": "bash -lc 'DATE=$(date +%F); node scripts/build_index_daily.mjs --date=\"$DATE\" --link=${LINK_MODE:-obsidian}'",
+    "daily": "node scripts/build_index_daily.mjs",
     "weekly": "bash -lc 'DATE=$(date +%F); node scripts/build_index_weekly.mjs --to=\"$DATE\" --link=${LINK_MODE:-obsidian}'",
     "backfill": "node scripts/backfill_missing_summaries.mjs --max=30 --dry-run=false --sleep=800",
     "backfill:dry": "node scripts/backfill_missing_summaries.mjs --max=30 --dry-run=true",
-    "finish": "node scripts/finish_up.mjs && node scripts/build_home.mjs",
+    "finish": "node scripts/finish_up.mjs",
     "home": "node scripts/build_home.mjs",
     "discord": "node scripts/discord_bot.mjs",
-    "ingest:url": "node scripts/summarize_article.mjs",
+    "ingest:url": "node --env-file=.env scripts/summarize_article.mjs",
     "discord:bot": "node scripts/discord_queue_bot.mjs",
     "discord:queue-bot": "node scripts/discord_queue_bot.mjs",
-    "queue:worker": "node scripts/queue_worker.mjs"
+    "discord:sync": "node scripts/discord_sync_once.mjs",
+    "queue:worker": "NEWS_ROOT=../ai-news node --env-file=.env scripts/queue_worker.mjs",
+    "fetch:ai-candidates": "node ./scripts/fetch_ai_candidates.mjs",
+    "ai-news:dev": "concurrently -n discord,worker -c auto \"npm run discord:queue-bot\" \"npm run queue:worker\""
   },
   "devDependencies": {
     "@eslint/js": "^9.11.0",
+    "concurrently": "^9.2.1",
     "eslint": "^9.11.0"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@mozilla/readability": "^0.6.0",
     "@sindresorhus/slugify": "^3.0.0",
     "discord.js": "^14.25.0",
     "dotenv": "^17.2.3",
+    "fast-xml-parser": "^5.3.2",
     "gray-matter": "^4.0.3",
     "jsdom": "^27.2.0",
+    "rss-parser": "^3.13.0",
     "undici": "^7.16.0",
+    "yaml": "^2.8.1",
     "yargs": "^18.0.0"
   }
 }
