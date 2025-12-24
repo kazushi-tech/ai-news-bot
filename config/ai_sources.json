@@ -1,0 +1,332 @@
+{
+  "sources": [
+    {
+      "id": "guardianAI",
+      "label": "The Guardian – Artificial Intelligence",
+      "rss": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "scienceDailyAI",
+      "label": "ScienceDaily – Artificial Intelligence",
+      "rss": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "wiredAI",
+      "label": "WIRED – Artificial Intelligence Latest",
+      "rss": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "futurismAI",
+      "label": "Futurism – Artificial Intelligence",
+      "rss": "https://futurism.com/categories/ai-artificial-intelligence/feed",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "aiNews",
+      "label": "Artificial Intelligence News",
+      "rss": "https://www.artificialintelligence-news.com/feed/rss/",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "venturebeatAI",
+      "label": "VentureBeat – AI",
+      "rss": "https://venturebeat.com/category/ai/feed/",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "aiBusiness",
+      "label": "AI Business",
+      "rss": "https://aibusiness.com/rss.xml",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "theConversationAI",
+      "label": "The Conversation – Artificial intelligence (AI)",
+      "rss": "https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "techRepublicAI",
+      "label": "TechRepublic – Artificial Intelligence",
+      "rss": "https://www.techrepublic.com/rssfeeds/topic/artificial-intelligence/",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "ieeeSpectrumAI",
+      "label": "IEEE Spectrum – Artificial Intelligence",
+      "rss": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "infoQAI",
+      "label": "InfoQ – AI, ML & Data Engineering",
+      "rss": "https://feed.infoq.com/ai-ml-data-eng/",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "insideBigData",
+      "label": "insideBIGDATA",
+      "rss": "https://insidebigdata.com/feed",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "kdnuggets",
+      "label": "KDnuggets",
+      "rss": "https://www.kdnuggets.com/feed",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "analyticsIndia",
+      "label": "Analytics India Magazine",
+      "rss": "https://analyticsindiamag.com/feed/",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "bloombergTech",
+      "label": "Bloomberg Technology",
+      "rss": "https://feeds.bloomberg.com/technology/news.rss",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "gizmodoTech",
+      "label": "Gizmodo – Technology",
+      "rss": "https://gizmodo.com/rss",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "computerworld",
+      "label": "Computerworld",
+      "rss": "http://www.computerworld.com/index.rss",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "engadget",
+      "label": "Engadget",
+      "rss": "https://www.engadget.com/rss.xml",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "googleAI",
+      "label": "Google AI Blog",
+      "rss": "https://ai.googleblog.com/feeds/posts/default?alt=rss",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "googleResearch",
+      "label": "Google Research Blog",
+      "rss": "https://feeds.feedburner.com/blogspot/gJZg",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "deepmindBlog",
+      "label": "DeepMind Blog",
+      "rss": "https://deepmind.google/discover/blog/feed.xml",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "openaiNews",
+      "label": "OpenAI News",
+      "rss": "https://openai.com/news/rss.xml",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "huggingfaceBlog",
+      "label": "Hugging Face Blog",
+      "rss": "https://huggingface.co/blog/feed.xml",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "stabilityAI",
+      "label": "Stability AI Blog",
+      "rss": "https://stability.ai/blog?format=rss",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "microsoftAI",
+      "label": "Microsoft AI Blog",
+      "rss": "https://blogs.microsoft.com/ai/feed/",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "metaAI",
+      "label": "Meta AI Blog",
+      "rss": "https://ai.meta.com/blog/rss.xml",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "cohereBlog",
+      "label": "Cohere – Context Blog",
+      "rss": "https://txt.cohere.ai/rss/",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "langchainBlog",
+      "label": "LangChain Blog",
+      "rss": "https://blog.langchain.dev/rss/",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "eleutherBlog",
+      "label": "EleutherAI Blog",
+      "rss": "https://blog.eleuther.ai/index.xml",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "arxivCSLG",
+      "label": "arXiv cs.LG (Machine Learning)",
+      "rss": "https://arxiv.org/rss/cs.LG",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "arxivCSCL",
+      "label": "arXiv cs.CL (Computation and Language)",
+      "rss": "https://arxiv.org/rss/cs.CL",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "arxivCSCV",
+      "label": "arXiv cs.CV (Computer Vision)",
+      "rss": "https://arxiv.org/rss/cs.CV",
+      "lang": "en",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "mlNewsJapanese",
+      "label": "ML-News – Japanese",
+      "rss": "https://www.machine-learning.news/rss?listName=japanese",
+      "lang": "ja",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "nikkeiXTechIT",
+      "label": "日経クロステック IT",
+      "rss": "https://xtech.nikkei.com/rss/xtech-it.rdf",
+      "lang": "ja",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "itmediaAIPlus",
+      "label": "ITmedia AI＋",
+      "rss": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
+      "lang": "ja",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "hatenaAIHotentry",
+      "label": "はてなブックマーク – AI 人気エントリ",
+      "rss": "https://b.hatena.ne.jp/q/ai?users=5&mode=rss&sort=recent",
+      "lang": "ja",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "hatenaITHotentry",
+      "label": "はてなブックマーク – IT 人気エントリ",
+      "rss": "https://b.hatena.ne.jp/hotentry/it.rss",
+      "lang": "ja",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "gigazineAll",
+      "label": "GIGAZINE – 全ニュース (RSS 2.0)",
+      "rss": "https://gigazine.net/news/rss_2.0/",
+      "lang": "ja",
+      "kind": "news",
+      "disabled": true
+    },
+    {
+      "id": "zennTopicLLM",
+      "label": "Zenn – トピック LLM",
+      "rss": "https://zenn.dev/topics/llm/feed",
+      "lang": "ja",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "zennTopicAI",
+      "label": "Zenn – トピック AI",
+      "rss": "https://zenn.dev/topics/ai/feed",
+      "lang": "ja",
+      "kind": "news",
+      "disabled": false
+    },
+    {
+      "id": "zennTopicML",
+      "label": "Zenn – トピック 機械学習",
+      "rss": "https://zenn.dev/topics/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/feed",
+      "lang": "ja",
+      "kind": "news",
+      "disabled": false
+    }
+  ]
+}
