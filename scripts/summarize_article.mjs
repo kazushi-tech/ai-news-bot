@@ -410,42 +410,58 @@ function renderMarkdown({ title, url, source, domain, created, tldr, body }) {
       // 新形式: 概要と詳細レポートを分離
       const parts = cleanBody.split(/(?=^## )/m);
       let overviewPart = parts[0].trim();
-      const detailParts = parts.slice(1);
+      // detailPartsから「## 概要」セクションを除外
+      const detailParts = parts.slice(1).filter(p => !p.trim().startsWith('## 概要'));
       
-      // overviewPartからもタイトルとURLを除去
+      // overviewPartからH1、Callout、URLを除去
       overviewPart = overviewPart.replace(/^#\s+[^\n]+\n*/gm, '');
-      overviewPart = overviewPart.replace(new RegExp(`^${url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*\n?`, 'gm'), '');
+      overviewPart = overviewPart.replace(/\n#\s+[^\n]+\n*/g, '\n');
+      overviewPart = overviewPart.replace(new RegExp(`^${url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*\\n?`, 'gm'), '');
       overviewPart = overviewPart.replace(/^>\s*\[![^\]]+\][^\n]*\n(>\s*[^\n]*\n?)*/gm, '');
       overviewPart = overviewPart.replace(/^\s*\n+/, '').trim();
       
+      // 「## 概要」セクションの内容も統合（もしあれば）
+      const summarySection = parts.slice(1).find(p => p.trim().startsWith('## 概要'));
+      if (summarySection) {
+        let summaryContent = summarySection.replace(/^## 概要\s*\n*/m, '').trim();
+        // summaryContentからもH1とCalloutを除去
+        summaryContent = summaryContent.replace(/^#\s+[^\n]+\n*/gm, '');
+        summaryContent = summaryContent.replace(/\n#\s+[^\n]+\n*/g, '\n');
+        summaryContent = summaryContent.replace(/^>\s*\[![^\]]+\][^\n]*\n(>\s*[^\n]*\n?)*/gm, '');
+        summaryContent = summaryContent.replace(/^\s*\n+/, '').trim();
+        
+        // overviewPartが空なら、summaryContentを使う
+        if (!overviewPart && summaryContent) {
+          overviewPart = summaryContent;
+        } else if (overviewPart && summaryContent) {
+          // 両方ある場合は統合（重複チェック後）
+          if (!overviewPart.includes(summaryContent.substring(0, 50))) {
+            overviewPart = overviewPart + '\n\n' + summaryContent;
+          }
+        }
+      }
+      
       // タイトルと同じまたは非常に似た内容で始まる場合は除去
-      // タイトル正規化: 括弧やダッシュなどを除去して比較
       const normalizedTitle = title.replace(/[\s\-–—:：・「」『』（）()[\]【】]/g, '').toLowerCase();
       const firstLine = overviewPart.split('\n')[0] || '';
       const normalizedFirstLine = firstLine.replace(/[\s\-–—:：・「」『』（）()[\]【】]/g, '').toLowerCase();
       
-      // 最初の行がタイトルと80%以上一致する場合は削除
-      if (normalizedTitle && normalizedFirstLine) {
-        const shorter = normalizedTitle.length < normalizedFirstLine.length ? normalizedTitle : normalizedFirstLine;
-        const longer = normalizedTitle.length >= normalizedFirstLine.length ? normalizedTitle : normalizedFirstLine;
-        let matchCount = 0;
-        for (let i = 0; i < shorter.length; i++) {
-          if (longer.includes(shorter[i])) matchCount++;
-        }
-        const matchRatio = matchCount / shorter.length;
-        
-        if (matchRatio > 0.8 || normalizedFirstLine.includes(normalizedTitle) || normalizedTitle.includes(normalizedFirstLine)) {
-          // 最初の行を除去
+      if (normalizedTitle && normalizedFirstLine && normalizedFirstLine.length > 10) {
+        if (normalizedFirstLine.includes(normalizedTitle) || normalizedTitle.includes(normalizedFirstLine)) {
           const overviewLines = overviewPart.split('\n');
           overviewLines.shift();
           overviewPart = overviewLines.join('\n').trim();
         }
       }
       
+      // 再度H1とCalloutを除去（念のため）
+      overviewPart = overviewPart.replace(/^#\s+[^\n]+\n*/gm, '');
+      overviewPart = overviewPart.replace(/^>\s*\[![^\]]+\][^\n]*\n(>\s*[^\n]*\n?)*/gm, '');
+      overviewPart = overviewPart.replace(/^\s*\n+/, '').trim();
+      
       // 概要をコールアウトで表示
       if (overviewPart) {
         lines.push("> [!abstract] 概要");
-        // 概要を複数行Calloutに整形
         const overviewLines = overviewPart.split('\n').map(line => `> ${line}`);
         lines.push(...overviewLines);
         lines.push("");
@@ -456,25 +472,28 @@ function renderMarkdown({ title, url, source, domain, created, tldr, body }) {
         lines.push("## 詳細レポート");
         lines.push("");
         
-        // 各サブセクションをCallout形式で処理
         const calloutTypes = ['note', 'tip', 'important', 'example', 'quote'];
         let calloutIndex = 0;
         
         for (const section of detailParts) {
-          const trimmed = section.trim();
+          let trimmed = section.trim();
           if (!trimmed) continue;
           
-          // 見出しと本文を分離
+          // セクション内のH1とCalloutも除去
+          trimmed = trimmed.replace(/^#\s+[^\n]+\n*/gm, '');
+          trimmed = trimmed.replace(/\n#\s+[^\n]+\n*/g, '\n');
+          trimmed = trimmed.replace(/^>\s*\[!info\][^\n]*\n(>\s*[^\n]*\n?)*/gm, '');
+          trimmed = trimmed.trim();
+          if (!trimmed) continue;
+          
           const [headingLine, ...contentLines] = trimmed.split('\n');
           const heading = headingLine.replace(/^## /, '').trim();
           const content = contentLines.join('\n').trim();
           
-          // サブセクションをCallout形式で出力
           const calloutType = calloutTypes[calloutIndex % calloutTypes.length];
           lines.push(`> [!${calloutType}] ${heading}`);
           
           if (content) {
-            // コンテンツを複数行Calloutに整形
             const contentCleaned = content.split('\n').map(line => `> ${line}`).join('\n');
             lines.push(contentCleaned);
           }
