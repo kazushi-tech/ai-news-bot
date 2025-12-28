@@ -55,7 +55,7 @@ async function main() {
     "|---|---|---|---|---|",
     ...rows
       .sort((a,b)=>b.date.localeCompare(a.date))
-      .map(r => `| ${r.date} | ${r.title} | [記事ページへ](${r.link}) / [引用元へ](${r.source_url}) | ${r.host} | ${r.tldr} |`)
+      .map(r => `| ${r.date} | ${r.title} | [[articles/${path.basename(r.link)}\\|記事ページへ]] | [引用元へ](${r.source_url}) | ${r.tldr} |`)
   ].join("\n");
 
   const md = [`---\nfrom: ${from}\nto: ${to}\n---`, "", "# Weekly Index", "", table].join("\n");

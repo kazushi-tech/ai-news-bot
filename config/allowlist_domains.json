@@ -1,0 +1,31 @@
+{
+  "high_trust": [
+    "openai.com",
+    "anthropic.com",
+    "deepmind.google",
+    "deepmind.com",
+    "blog.google",
+    "research.google",
+    "ai.meta.com",
+    "ai.facebook.com",
+    "microsoft.com",
+    "arxiv.org",
+    "nature.com",
+    "science.org"
+  ],
+  "medium_trust": [
+    "techcrunch.com",
+    "theverge.com",
+    "arstechnica.com",
+    "wired.com",
+    "theguardian.com",
+    "bloomberg.com",
+    "reuters.com",
+    "nikkei.com",
+    "japan.cnet.com",
+    "gigazine.net",
+    "venturebeat.com",
+    "theinformation.com"
+  ],
+  "low_trust": []
+}

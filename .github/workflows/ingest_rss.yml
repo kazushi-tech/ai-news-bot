@@ -1,0 +1,52 @@
+name: Ingest RSS
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Every 6 hours
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run RSS Ingestion
+        run: npm run ingest:rss
+        env:
+          # Only if strictly needed. ingest_rss.mjs uses config/ai_sources.json and doesn't explicitly require secrets currently
+          # but future proofing or if logger needs something.
+          CI: true
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          if [[ -n $(git status -s) ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected."
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "No changes detected."
+          fi
+
+      - name: Commit and Push
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git add state/url_inbox.md
+          git commit -m "chore: update url_inbox.md from RSS ingestion [skip ci]"
+          git push

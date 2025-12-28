@@ -6,14 +6,17 @@ import { fileURLToPath } from "node:url";
 import { JSDOM } from "jsdom";
 import { Readability } from "@mozilla/readability";
 import { GoogleGenerativeAI } from "@google/generative-ai";
+import YAML from "yaml";
+import { GeminiUsageManager } from "./lib/GeminiUsageManager.mjs";
+import { classifyDifficulty } from "./lib/difficulty.mjs";
+import { REPO_ROOT, NEWS_ROOT, STATE_DIR } from "./lib/paths.mjs";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// AI_NEWS_DIR の解決：環境変数があればそれ優先、なければ ../ai-news を使う
-const ROOT_DIR = path.resolve(__dirname, "..", "..");
-const AI_NEWS_DIR =
-  process.env.AI_NEWS_DIR || path.resolve(ROOT_DIR, "ai-news");
+// AI_NEWS_DIR: 統一されたパス定義を使用
+const ROOT_DIR = REPO_ROOT;
+const AI_NEWS_DIR = NEWS_ROOT;
 
 // -----------------------------------------------------------------------------
 // CLI パーサ
@@ -25,6 +28,8 @@ function parseArgs(argv) {
   let outdir = "articles";
   let sourceOverride = null;
   let domainOverride = null;
+  let titleOverride = null;
+  let descriptionOverride = null;
 
   for (const arg of argv) {
     if (!arg.startsWith("--") && !url) {
@@ -40,10 +45,14 @@ function parseArgs(argv) {
       sourceOverride = arg.slice("--source=".length);
     } else if (arg.startsWith("--domain=")) {
       domainOverride = arg.slice("--domain=".length);
+    } else if (arg.startsWith("--title=")) {
+      titleOverride = arg.slice("--title=".length);
+    } else if (arg.startsWith("--description=")) {
+      descriptionOverride = arg.slice("--description=".length);
     }
   }
 
-  return { url, created, outdir, sourceOverride, domainOverride };
+  return { url, created, outdir, sourceOverride, domainOverride, titleOverride, descriptionOverride };
 }
 
 // -----------------------------------------------------------------------------
@@ -184,13 +193,17 @@ async function extractArticle(url) {
 // Gemini 要約
 // -----------------------------------------------------------------------------
 
-async function summarizeWithGemini(articleText, title, url) {
+async function summarizeWithGemini(articleText, title, url, useHardModel = false) {
   const apiKey = process.env.GOOGLE_API_KEY;
   if (!apiKey) {
     throw new Error("GOOGLE_API_KEY is not set");
   }
 
-  const modelName = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+  const modelEasy = process.env.GEMINI_MODEL_EASY || process.env.GEMINI_MODEL || "gemini-2.5-flash";
+  const modelHard = process.env.GEMINI_MODEL_HARD || "gemini-2.5-flash"; // ユーザー要求により統一
+  
+  const modelName = useHardModel ? modelHard : modelEasy;
+  console.log(`[summarize] Using Gemini Model: ${modelName} (HardMode=${useHardModel})`);
 
   const genAI = new GoogleGenerativeAI(apiKey);
   const model = genAI.getGenerativeModel({
@@ -217,28 +230,48 @@ async function summarizeWithGemini(articleText, title, url) {
     articleText.length > 12000 ? articleText.slice(0, 12000) : articleText;
 
   const prompt = [
-    "以下のニュース記事本文を、日本語で詳細にレポートしてください。",
+    "以下のニュース記事本文を、日本語で要約してください。",
     "",
     "想定読者: AI・テック業界のニュースを追っている日本人の知識労働者。",
-    "あなたはDラボAIチャンネルのライターです。読者が記事を読まなくても内容を把握できるよう、詳細で構造化されたレポートを作成してください。",
+    "あなたはDラボAIチャンネルのライターです。",
     "",
-    "JSON 形式でのみ回答してください。説明文や前置き、コードブロックは不要です。",
+    "【重要】出力形式: JSON のみ",
+    "Markdownや説明文は一切含めず、以下のJSON形式を守ってください。",
     "",
-    "JSON の仕様:",
-    '- フィールド "title_ja": 記事タイトルを日本語に翻訳したもの（元の意味を損なわず、魅力的に）。',
-    '- フィールド "tldr": 記事全体をひとことで要約した日本語1文（60〜100文字程度）。',
-    '- フィールド "overview": 記事の概要を2〜3文で説明（段落形式）。【重要】タイトル、URL、Markdown見出し(#)、Callout記法(> [!...])は絶対に含めないこと。純粋に概要の説明文のみを書く。',
-    '- フィールド "sections": 詳細レポートのセクション配列。各セクションは以下の形式:',
-    '  - "heading": サブ見出し（例: "提携の目的：〇〇が△△に"、"背景にある課題"、"技術と安全性"、"期待される未来"）【重要】Markdown見出し記号(#)は不要、テキストのみ',
-    '  - "content": セクションの内容（段落または箇条書き）【重要】タイトルやURLを繰り返さない',
-    '  - 3〜6セクション程度を作成',
+    "JSONスキーマ:",
+    "{",
+    "  \"title_ja\": \"記事タイトルの日本語訳\",",
+    "  \"one_line_summary\": \"40〜60字の1行要約。テーブル表示用。\",",
+    "  \"bullets\": [",
+    "    \"箇条書き要点1（最大3〜5個）\",",
+    "    \"箇条書き要点2\",",
+    "    \"箇条書き要点3\"",
+    "  ],",
+    "  \"why_it_matters\": \"なぜこのニュースが重要か（1〜2文）\",",
+    "  \"tags\": [\"tag1\", \"tag2\", \"tag3\"],  // 3〜8個の関連タグ",
+    "  \"importance\": 3,  // 1〜5の重要度スコア (1=低, 5=極めて重要)",
+    "  \"importance_reason\": \"重要度の理由を1行で\",",
+    "  \"reliability\": \"high|mid|low\",",
+    "  \"reliability_reason\": \"信頼度の理由\"",
+    "}",
     "",
-    "内容のガイドライン:",
-    "- 固有名詞（企業名、製品名、人名）は正確に記載",
-    "- 数値やデータがあれば必ず含める",
-    "- 技術的な内容は分かりやすく説明",
-    "- 箇条書きを使う場合は「- 」から始める",
-    "- 表形式で整理できる内容があれば Markdown テーブルで表現",
+    "ガイドライン:",
+    "- `one_line_summary` は40〜60字で簡潔に。テーブル1行に収まるように。",
+    "- `bullets` は3〜5個。誇張せず事実ベースで。",
+    "- `why_it_matters` は読者がこのニュースを気にすべき理由を簡潔に。",
+    "- `tags`: 3〜8個。具体的な技術名・企業名・トピック。例: LLM, OpenAI, GPT-4, Reasoning, Benchmark, Regulation",
+    "  - 推奨タグ: LLM, Agents, OpenAI, Anthropic, Google, DeepMind, Microsoft, Meta, GPT, Claude, Gemini, o1, o3, Reasoning, RAG, Fine-tuning, RLHF, Multimodal, Benchmark, Research, Paper, Regulation, Copyright, Privacy, Ethics, Safety, API, Enterprise, Startup, Funding, M&A",
+    "  - 避けるタグ: ai-news, news, tech, update (一般的すぎる)",
+    "- `importance`: 1〜5のスコア",
+    "  - 5: 業界を変える重大発表（新モデルリリース、大型M&A、重要な法規制）",
+    "  - 4: 主要プレイヤーの重要発表（新機能、提携、研究成果）",
+    "  - 3: 興味深い技術トピック（標準）",
+    "  - 2: ニッチな話題",
+    "  - 1: 補足情報",
+    "- `importance_reason`: なぜそのスコアなのかを1行で説明",
+    "- `reliability`: high=公式発表/主要メディア, mid=信頼できる二次情報, low=噂/未確認",
+    "- 推測しない。不明な情報は「不明」と記載。",
+    "- 引用は最小限（必要なら短いフレーズ程度）。",
     "",
     `記事タイトル: ${title}`,
     `URL: ${url}`,
@@ -267,39 +300,83 @@ async function summarizeWithGemini(articleText, title, url) {
     );
   }
 
-  // 新形式: tldr + sections / 旧形式: tldr + body
-  if (!parsed.tldr) {
+  // 新形式: one_line_summary + bullets / 旧形式: tldr + sections|body
+  const oneLineSummary = parsed.one_line_summary 
+    ? String(parsed.one_line_summary).trim() 
+    : (parsed.tldr ? String(parsed.tldr).trim().slice(0, 60) : null);
+  
+  if (!oneLineSummary && !parsed.tldr) {
     throw new Error(
-      `Gemini response missing tldr field.\nraw:\n${raw}`
-    );
-  }
-  if (!parsed.sections && !parsed.body) {
-    throw new Error(
-      `Gemini response missing sections or body fields.\nraw:\n${raw}`
+      `Gemini response missing one_line_summary or tldr field.\nraw:\n${raw}`
     );
   }
 
   // 軽く整形
-  const tldr = String(parsed.tldr).trim();
+  const tldr = oneLineSummary || String(parsed.tldr || '').trim();
   const titleJa = parsed.title_ja ? String(parsed.title_ja).trim() : null;
+  const whyItMatters = parsed.why_it_matters ? String(parsed.why_it_matters).trim() : null;
+  
+  // Importance (1-5, default 3)
+  let importance = parsed.importance ? parseInt(parsed.importance, 10) : 3;
+  if (isNaN(importance) || importance < 1 || importance > 5) {
+    importance = 3; // Normalize to default
+  }
+  const importanceReason = parsed.importance_reason ? String(parsed.importance_reason).trim() : null;
+  
+  const reliability = parsed.reliability ? String(parsed.reliability).trim().toLowerCase() : null;
+  const reliabilityReason = parsed.reliability_reason ? String(parsed.reliability_reason).trim() : null;
+  
+  // 新形式: bullets / 旧形式: tags from frontmatter
+  const bullets = Array.isArray(parsed.bullets) 
+    ? parsed.bullets.map(b => String(b).trim()).filter(Boolean)
+    : [];
+  const tags = Array.isArray(parsed.tags) 
+    ? parsed.tags.map(t => String(t).trim()).filter(Boolean)
+    : ['ai-news'];
 
-  // 新形式: overview + sections / 旧形式: body
+  // body生成: 新形式（bullets）または旧形式（sections/body）
   let body;
-  if (parsed.sections && Array.isArray(parsed.sections)) {
-    // 新形式: 構造化レポート
-    const overview = parsed.overview ? String(parsed.overview).trim() : '';
-    const sectionsMarkdown = parsed.sections.map(sec => {
-      const heading = sec.heading ? `## ${sec.heading}` : '';
-      const content = sec.content ? String(sec.content).trim() : '';
-      return heading ? `${heading}\n\n${content}` : content;
-    }).join('\n\n');
-    body = overview ? `${overview}\n\n${sectionsMarkdown}` : sectionsMarkdown;
-  } else {
-    // 旧形式: bodyそのまま
+  if (bullets.length > 0) {
+    // 新形式: bullets -> 箇条書き
+    const lines = bullets.map(b => `- ${b}`);
+    body = lines.join('\n');
+  } else if (parsed.sections && Array.isArray(parsed.sections)) {
+    // 旧形式: 構造化レポート -> Callout形式に変換
+    const lines = [];
+
+    // Overview -> Abstract Callout
+    if (parsed.overview) {
+      lines.push("> [!abstract] 概要");
+      const overviewLines = String(parsed.overview).trim().split('\n');
+      overviewLines.forEach(line => lines.push(`> ${line}`));
+      lines.push("");
+    }
+
+    // Sections -> Specific Callouts
+    const defaultTypes = ['note', 'tip', 'important', 'example', 'quote'];
+    
+    parsed.sections.forEach((sec, idx) => {
+      const type = sec.type || defaultTypes[idx % defaultTypes.length];
+      const heading = sec.heading || `Section ${idx + 1}`;
+      
+      lines.push(`> [!${type}] ${heading}`);
+      
+      if (sec.content) {
+        const contentLines = String(sec.content).trim().split('\n');
+        contentLines.forEach(line => lines.push(`> ${line}`));
+      }
+      lines.push("");
+    });
+
+    body = lines.join('\n').trim();
+  } else if (parsed.body) {
+    // 最旧形式: bodyそのまま
     body = String(parsed.body).trim();
+  } else {
+    body = '';
   }
 
-  return { tldr, body, titleJa };
+  return { tldr, body, titleJa, whyItMatters, importance, importanceReason, reliability, reliabilityReason, bullets, tags };
 }
 
 // -----------------------------------------------------------------------------
@@ -335,13 +412,120 @@ function offlineSummary(articleText, title, url) {
 }
 
 // -----------------------------------------------------------------------------
+// Related Articles 検索
+// -----------------------------------------------------------------------------
+
+/**
+ * 全記事をスキャンしてインメモリインデックスを作成
+ */
+async function loadArticlesForRelated() {
+  const articlesDir = path.join(AI_NEWS_DIR, 'articles');
+  
+  let entries;
+  try {
+    entries = await fs.readdir(articlesDir, { withFileTypes: true });
+  } catch {
+    return [];
+  }
+  
+  const articles = [];
+  
+  for (const entry of entries) {
+    if (!entry.isFile() || !entry.name.endsWith('.md')) continue;
+    
+    const filepath = path.join(articlesDir, entry.name);
+    
+    try {
+      const content = await fs.readFile(filepath, 'utf8');
+      const fmMatch = content.match(/^---\n([\s\S]*?)\n---/);
+      
+      if (!fmMatch) continue;
+      
+      const fm = YAML.parse(fmMatch[1]);
+      
+      articles.push({
+        file: entry.name,
+        title: fm.title || entry.name.replace(/\.md$/, ''),
+        date: fm.created || fm.date || '',
+        tags: Array.isArray(fm.tags) ? fm.tags : [],
+        importance: fm.importance || fm.interest || 3,
+        source: fm.source || '',
+        domain: fm.domain || '',
+        host: fm.host || fm.domain || ''
+      });
+    } catch {
+      // YAML パースエラーまたはファイル読み込みエラーはスキップ
+    }
+  }
+  
+  return articles;
+}
+
+/**
+ * Related記事を検索
+ */
+async function findRelatedArticles(currentFile, currentTags, currentHost, maxResults = 5) {
+  const allArticles = await loadArticlesForRelated();
+  
+  // 現在の記事を除外
+  const others = allArticles.filter(art => art.file !== currentFile);
+  
+  // 同タグ記事（タグ一致数でソート）
+  const byTags = others
+    .filter(art => {
+      if (!Array.isArray(art.tags) || art.tags.length === 0) return false;
+      if (!Array.isArray(currentTags) || currentTags.length === 0) return false;
+      // ai-news を除外したタグで一致チェック
+      const artTagsFiltered = art.tags.filter(t => t !== 'ai-news');
+      const currentTagsFiltered = currentTags.filter(t => t !== 'ai-news');
+      return artTagsFiltered.some(tag => currentTagsFiltered.includes(tag));
+    })
+    .map(art => {
+      const artTagsFiltered = art.tags.filter(t => t !== 'ai-news');
+      const currentTagsFiltered = currentTags.filter(t => t !== 'ai-news');
+      const matchCount = artTagsFiltered.filter(tag => currentTagsFiltered.includes(tag)).length;
+      return { ...art, matchCount };
+    })
+    .sort((a, b) => {
+      // タグ一致数でソート
+      if (a.matchCount !== b.matchCount) return b.matchCount - a.matchCount;
+      // importance でソート
+      const impA = a.importance || 3;
+      const impB = b.importance || 3;
+      if (impA !== impB) return impB - impA;
+      // 日付でソート（新しい順）
+      return (b.date || '').localeCompare(a.date || '');
+    })
+    .slice(0, maxResults);
+  
+  // 同ソース記事
+  const bySource = others
+    .filter(art => {
+      if (!currentHost) return false;
+      return art.host === currentHost || art.domain === currentHost;
+    })
+    .sort((a, b) => {
+      // importance でソート
+      const impA = a.importance || 3;
+      const impB = b.importance || 3;
+      if (impA !== impB) return impB - impA;
+      // 日付でソート（新しい順）
+      return (b.date || '').localeCompare(a.date || '');
+    })
+    .slice(0, maxResults);
+  
+  return { byTags, bySource };
+}
+
+// -----------------------------------------------------------------------------
 // Markdown 出力
 // -----------------------------------------------------------------------------
 
-function renderMarkdown({ title, url, source, domain, created, tldr, body }) {
+function renderMarkdown({ title, url, source, domain, created, tldr, body, status = 'summarized', whyItMatters = null, importance = null, importanceReason = null, reliability = null, reliabilityReason = null, inputTags = null, relatedArticles = null }) {
   const lines = [];
 
   lines.push("---");
+  lines.push("type: ai-news");
   lines.push(`title: ${escapeYaml(title)}`);
   lines.push(`url: ${escapeYaml(url)}`);
   lines.push(`source_url: ${escapeYaml(url)}`);  // daily 生成で必須
@@ -349,6 +533,46 @@ function renderMarkdown({ title, url, source, domain, created, tldr, body }) {
   lines.push(`domain: ${escapeYaml(domain)}`);
   lines.push(`tldr: ${escapeYaml(tldr)}`);
   lines.push(`created: ${created}`);
+  if (status && status !== 'summarized') {
+    lines.push(`status: ${status}`);
+  }
+  if (whyItMatters) {
+    lines.push(`why_it_matters: ${escapeYaml(whyItMatters)}`);
+  }
+  if (importance !== null && importance !== undefined) {
+    lines.push(`importance: ${importance}`);
+  }
+  if (importanceReason) {
+    lines.push(`importance_reason: ${escapeYaml(importanceReason)}`);
+  }
+  if (reliability) {
+    lines.push(`reliability: ${reliability}`);
+  }
+  if (reliabilityReason) {
+    lines.push(`reliability_reason: ${escapeYaml(reliabilityReason)}`);
+  }
+  
+  // interestの設定（status別）
+  const interestMap = {
+    'x_only': 3,
+    'summarized': 3,
+    'blocked': 2
+  };
+  const interest = importance !== null ? importance : (interestMap[status] || 3);
+  lines.push(`interest: ${interest}`);
+  
+  // tagsの設定（引数から受け取るか、status別のデフォルト）
+  let finalTags = inputTags && inputTags.length > 0 ? [...inputTags] : ['ai-news'];
+  if (!finalTags.includes('ai-news')) {
+    finalTags.unshift('ai-news');
+  }
+  if (status === 'x_only' && !finalTags.includes('x')) {
+    finalTags.push('x');
+  } else if (status === 'blocked' && !finalTags.includes('blocked')) {
+    finalTags.push('blocked');
+  }
+  lines.push(`tags: [${finalTags.join(', ')}]`);
+  
   lines.push("cssclass: ai-news-article");
   lines.push("---");
 
@@ -356,158 +580,90 @@ function renderMarkdown({ title, url, source, domain, created, tldr, body }) {
   lines.push(`# ${title}`);
   lines.push("");
 
-  // 引用元をCallout形式で表示（Dラボ形式）
-  if (url) {
-    lines.push("> [!info] 引用元");
-    lines.push(`> ${url}`);
-    lines.push("");
-  }
+  // 引用元をCallout形式で表示
+  lines.push("> [!info] 引用元");
+  lines.push(`> ${url}`);
+  lines.push("");
 
-  // bodyから重複するタイトルや引用元を除去（Geminiが生成したフォーマットをクリーンアップ）
-  let cleanBody = body || '';
-  
-  // Step 1: すべての # タイトル 形式の見出しを除去（H1のみ、H2以降は残す）
-  // マルチパスで確実に除去
-  cleanBody = cleanBody.replace(/^#\s+[^\n]+\n*/gm, '');
-  cleanBody = cleanBody.replace(/\n#\s+[^\n]+\n*/g, '\n');
-  
-  // Step 2: すべての > [!info] Callout全体を除去（元記事、引用元、その他すべて）
-  cleanBody = cleanBody.replace(/^>\s*\[!info\][^\n]*\n(>\s*[^\n]*\n?)*/gm, '');
-  
-  // Step 3: ## 概要 見出しを除去
-  cleanBody = cleanBody.replace(/^##\s*概要\s*\n*/gm, '');
-  
-  // Step 4: URL単体行を除去（引用元として既に表示されているため）
-  const urlPattern = new RegExp(`^${url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*\\n?`, 'gm');
-  cleanBody = cleanBody.replace(urlPattern, '');
-  cleanBody = cleanBody.replace(new RegExp(`^"${url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"\\s*\\n?`, 'gm'), '');
-  // クォート付きURLも除去
-  cleanBody = cleanBody.replace(new RegExp(`"${url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"`, 'g'), '');
-  
-  // Step 5: 先頭にタイトルと同じ（または非常に似た）テキストがある場合は除去
-  // タイトルを正規化して比較
-  const normalizedTitle = title.replace(/[\s\-–—:：・「」『』（）()[\]【】]/g, '').toLowerCase();
-  const firstLine = cleanBody.split('\n')[0] || '';
-  const normalizedFirstLine = firstLine.replace(/[\s\-–—:：・「」『』（）()[\]【】]/g, '').toLowerCase();
-  if (normalizedTitle && normalizedFirstLine && normalizedFirstLine.length > 10) {
-    // 文字列の類似度をチェック
-    if (normalizedFirstLine.includes(normalizedTitle) || normalizedTitle.includes(normalizedFirstLine)) {
-      const lines = cleanBody.split('\n');
-      lines.shift();
-      cleanBody = lines.join('\n');
+  // status別の本文処理
+  if (status === 'x_only') {
+    // X URL: 引用元のみ、本文なし
+    lines.push("## メモ");
+    lines.push("");
+    lines.push("（X投稿のため、要約は省略されました。リンク先を確認してください）");
+    lines.push("");
+  } else if (status === 'blocked') {
+    // blocked: warningのみ
+    lines.push(body.trim());
+    lines.push("");
+  } else {
+    // summarized: TL;DR + 本文
+    if (tldr && !body.includes('[!summary]')) {
+      lines.push("> [!summary] TL;DR");
+      lines.push(`> ${tldr}`);
+      lines.push("");
+    }
+    
+    let cleanBody = body || '';
+    cleanBody = cleanBody.replace(/\r\n/g, '\n');
+    cleanBody = cleanBody.replace(/\n{3,}/g, '\n\n');
+    
+    lines.push(cleanBody.trim());
+    lines.push("");
+    
+    // Why it matters セクション
+    if (whyItMatters) {
+      lines.push("> [!important] Why it matters");
+      lines.push(`> ${whyItMatters}`);
+      lines.push("");
+    }
+    
+    // 信頼度セクション
+    if (reliability) {
+      const reliabilityLabel = { high: '高', mid: '中', low: '低' }[reliability] || reliability;
+      const reasonText = reliabilityReason ? `（${reliabilityReason}）` : '';
+      lines.push(`**信頼度:** ${reliabilityLabel}${reasonText}`);
+      lines.push("");
     }
   }
-  
-  // Step 6: 連続する空行を1つに
-  cleanBody = cleanBody.replace(/\n{3,}/g, '\n\n');
-  // 先頭の空行を除去
-  cleanBody = cleanBody.replace(/^\s*\n+/, '').trim();
 
-  // 概要セクション（bodyの最初の段落または全体）
-  if (cleanBody && cleanBody.trim()) {
-    // bodyに ##見出し が含まれているかチェック
-    const hasHeadings = cleanBody.includes('## ');
+  // Related Articles セクション（末尾に追加）
+  if (relatedArticles && (relatedArticles.byTags.length > 0 || relatedArticles.bySource.length > 0)) {
+    lines.push('');
+    lines.push('---');
+    lines.push('');
+    lines.push('## 🔗 Related Articles');
+    lines.push('');
     
-    if (hasHeadings) {
-      // 新形式: 概要と詳細レポートを分離
-      const parts = cleanBody.split(/(?=^## )/m);
-      let overviewPart = parts[0].trim();
-      // detailPartsから「## 概要」セクションを除外
-      const detailParts = parts.slice(1).filter(p => !p.trim().startsWith('## 概要'));
-      
-      // overviewPartからH1、Callout、URLを除去
-      overviewPart = overviewPart.replace(/^#\s+[^\n]+\n*/gm, '');
-      overviewPart = overviewPart.replace(/\n#\s+[^\n]+\n*/g, '\n');
-      overviewPart = overviewPart.replace(new RegExp(`^${url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*\\n?`, 'gm'), '');
-      overviewPart = overviewPart.replace(/^>\s*\[![^\]]+\][^\n]*\n(>\s*[^\n]*\n?)*/gm, '');
-      overviewPart = overviewPart.replace(/^\s*\n+/, '').trim();
-      
-      // 「## 概要」セクションの内容も統合（もしあれば）
-      const summarySection = parts.slice(1).find(p => p.trim().startsWith('## 概要'));
-      if (summarySection) {
-        let summaryContent = summarySection.replace(/^## 概要\s*\n*/m, '').trim();
-        // summaryContentからもH1とCalloutを除去
-        summaryContent = summaryContent.replace(/^#\s+[^\n]+\n*/gm, '');
-        summaryContent = summaryContent.replace(/\n#\s+[^\n]+\n*/g, '\n');
-        summaryContent = summaryContent.replace(/^>\s*\[![^\]]+\][^\n]*\n(>\s*[^\n]*\n?)*/gm, '');
-        summaryContent = summaryContent.replace(/^\s*\n+/, '').trim();
-        
-        // overviewPartが空なら、summaryContentを使う
-        if (!overviewPart && summaryContent) {
-          overviewPart = summaryContent;
-        } else if (overviewPart && summaryContent) {
-          // 両方ある場合は統合（重複チェック後）
-          if (!overviewPart.includes(summaryContent.substring(0, 50))) {
-            overviewPart = overviewPart + '\n\n' + summaryContent;
-          }
-        }
-      }
-      
-      // タイトルと同じまたは非常に似た内容で始まる場合は除去
-      const normalizedTitle = title.replace(/[\s\-–—:：・「」『』（）()[\]【】]/g, '').toLowerCase();
-      const firstLine = overviewPart.split('\n')[0] || '';
-      const normalizedFirstLine = firstLine.replace(/[\s\-–—:：・「」『』（）()[\]【】]/g, '').toLowerCase();
-      
-      if (normalizedTitle && normalizedFirstLine && normalizedFirstLine.length > 10) {
-        if (normalizedFirstLine.includes(normalizedTitle) || normalizedTitle.includes(normalizedFirstLine)) {
-          const overviewLines = overviewPart.split('\n');
-          overviewLines.shift();
-          overviewPart = overviewLines.join('\n').trim();
-        }
-      }
-      
-      // 再度H1とCalloutを除去（念のため）
-      overviewPart = overviewPart.replace(/^#\s+[^\n]+\n*/gm, '');
-      overviewPart = overviewPart.replace(/^>\s*\[![^\]]+\][^\n]*\n(>\s*[^\n]*\n?)*/gm, '');
-      overviewPart = overviewPart.replace(/^\s*\n+/, '').trim();
-      
-      // 概要をコールアウトで表示
-      if (overviewPart) {
-        lines.push("> [!abstract] 概要");
-        const overviewLines = overviewPart.split('\n').map(line => `> ${line}`);
-        lines.push(...overviewLines);
-        lines.push("");
-      }
-      
-      // 詳細レポート
-      if (detailParts.length > 0) {
-        lines.push("## 詳細レポート");
-        lines.push("");
-        
-        const calloutTypes = ['note', 'tip', 'important', 'example', 'quote'];
-        let calloutIndex = 0;
-        
-        for (const section of detailParts) {
-          let trimmed = section.trim();
-          if (!trimmed) continue;
-          
-          // セクション内のH1とCalloutも除去
-          trimmed = trimmed.replace(/^#\s+[^\n]+\n*/gm, '');
-          trimmed = trimmed.replace(/\n#\s+[^\n]+\n*/g, '\n');
-          trimmed = trimmed.replace(/^>\s*\[!info\][^\n]*\n(>\s*[^\n]*\n?)*/gm, '');
-          trimmed = trimmed.trim();
-          if (!trimmed) continue;
-          
-          const [headingLine, ...contentLines] = trimmed.split('\n');
-          const heading = headingLine.replace(/^## /, '').trim();
-          const content = contentLines.join('\n').trim();
-          
-          const calloutType = calloutTypes[calloutIndex % calloutTypes.length];
-          lines.push(`> [!${calloutType}] ${heading}`);
-          
-          if (content) {
-            const contentCleaned = content.split('\n').map(line => `> ${line}`).join('\n');
-            lines.push(contentCleaned);
-          }
-          lines.push("");
-          
-          calloutIndex++;
-        }
-      }
-    } else {
-      // 旧形式: そのまま出力
-      lines.push(cleanBody.trim());
-      lines.push("");
+    if (relatedArticles.byTags.length > 0) {
+      lines.push('### 同じトピック');
+      lines.push('');
+      lines.push('| Title | Date | Imp | Source |');
+      lines.push('| --- | --- | --- | --- |');
+      relatedArticles.byTags.forEach(art => {
+        const titleEscaped = (art.title || '').replace(/\|/g, '\\|');
+        const artPath = `articles/${art.file}`;
+        const dateStr = art.date || '';
+        const impStr = art.importance || '';
+        const sourceStr = art.source || art.host || '';
+        lines.push(`| [[${artPath}\\|${titleEscaped}]] | ${dateStr} | ${impStr} | ${sourceStr} |`);
+      });
+      lines.push('');
+    }
+    
+    if (relatedArticles.bySource.length > 0) {
+      lines.push('### 同じソース');
+      lines.push('');
+      lines.push('| Title | Date | Imp |');
+      lines.push('| --- | --- | --- |');
+      relatedArticles.bySource.forEach(art => {
+        const titleEscaped = (art.title || '').replace(/\|/g, '\\|');
+        const artPath = `articles/${art.file}`;
+        const dateStr = art.date || '';
+        const impStr = art.importance || '';
+        lines.push(`| [[${artPath}\\|${titleEscaped}]] | ${dateStr} | ${impStr} |`);
+      });
+      lines.push('');
     }
   }
 
@@ -517,41 +673,6 @@ function renderMarkdown({ title, url, source, domain, created, tldr, body }) {
 // -----------------------------------------------------------------------------
 // メイン
 // -----------------------------------------------------------------------------
-
-async function main() {
-  const { url, created, outdir, sourceOverride, domainOverride } = parseArgs(
-    process.argv.slice(2)
-  );
-
-  if (!url) {
-    console.error(
-      "Usage: node scripts/summarize_article.mjs <URL> [--date=YYYY-MM-DD] [--outdir=articles] [--source=LABEL] [--domain=HOST]"
-    );
-    process.exit(1);
-  }
-
-  const createdDate = created || todayYYYYMMDD();
-  const urlObj = new URL(url);
-  const domain = domainOverride || urlObj.hostname;
-
-  // X/Twitter URLは記事抽出が難しいためフラグを立てる
-  const isTwitterUrl = (domain === 'x.com' || domain === 'twitter.com');
-
-  const source = sourceOverride || toSourceLabelFromDomain(domain);
-
-  const articlesDir = path.resolve(AI_NEWS_DIR, outdir);
-  await fs.mkdir(articlesDir, { recursive: true });
-
-  console.log("[summarize] AI_NEWS_DIR =", AI_NEWS_DIR);
-  console.log("[summarize] ARTICLES_DIR =", articlesDir);
-  console.log("[summarize] URL          =", url);
-  console.log("[summarize] created      =", createdDate);
-  console.log("[summarize] domain       =", domain);
-  console.log("[summarize] source       =", source);
-
-import { GeminiUsageManager } from "./lib/GeminiUsageManager.mjs";
-
-// ... existing imports ...
 
 // -----------------------------------------------------------------------------
 // オフライン/エラー時/予算オーバー時のフォールバック生成
@@ -573,44 +694,89 @@ function createLinkOnlyFallback(title, url, note = "リンク保存") {
   };
 }
 
-// ... inside main() ...
+async function main() {
+  const { url, created, outdir, sourceOverride, domainOverride, titleOverride, descriptionOverride } = parseArgs(
+    process.argv.slice(2)
+  );
+
+  if (!url) {
+    console.error(
+      "Usage: node scripts/summarize_article.mjs <URL> [--date=YYYY-MM-DD] [--outdir=articles] [--source=LABEL] [--domain=HOST] [--title=TITLE] [--description=DESC]"
+    );
+    process.exit(1);
+  }
+
+  const createdDate = created || todayYYYYMMDD();
+  const urlObj = new URL(url);
+  const domain = domainOverride || urlObj.hostname;
+
+  // X/Twitter URLは記事抽出が難しいためフラグを立てる
+  const isTwitterUrl = (domain === 'x.com' || domain === 'twitter.com' || domain === 'www.x.com' || domain === 'www.twitter.com');
+
+  const source = sourceOverride || toSourceLabelFromDomain(domain);
+
+  const articlesDir = path.resolve(AI_NEWS_DIR, outdir);
+  await fs.mkdir(articlesDir, { recursive: true });
+
+  console.log("[summarize] AI_NEWS_DIR =", AI_NEWS_DIR);
+  console.log("[summarize] ARTICLES_DIR =", articlesDir);
+  console.log("[summarize] URL          =", url);
+  console.log("[summarize] created      =", createdDate);
+  console.log("[summarize] domain       =", domain);
+  console.log("[summarize] source       =", source);
+  if (titleOverride) {
+    console.log("[summarize] title (from metadata) =", titleOverride);
+  }
 
   // usageManager の初期化 (project root/state)
   const usageManager = new GeminiUsageManager(path.join(ROOT_DIR, 'state'));
 
   let title, textContent;
+  let status = 'summarized'; // デフォルト
   
   if (isTwitterUrl) {
-    // X/Twitter: 本文取得を頑張らず、最初から「リンク保存」モード
-    console.log("[summarize] X/Twitter URL detected - skipping fetch, using link-only mode");
-    title = `X Post (${url})`; // 仮タイトル
+    // X/Twitter: 本文取得をスキップし、「x_only」モード
+    console.log("[summarize] X/Twitter URL detected - using x_only mode");
+    title = titleOverride || `X Post (${url})`; // Discord embedタイトル優先
     textContent = ""; // 本文なし
+    status = 'x_only';
   } else {
     // 通常の記事抽出
     try {
       const result = await extractArticle(url);
       title = result.title;
       textContent = result.textContent;
+      
+      // extractArticleのタイトルより、Discord embedタイトルを優先
+      if (titleOverride) {
+        title = titleOverride;
+      }
     } catch (err) {
       console.warn(`[summarize] extractArticle failed: ${err.message}`);
-      // 抽出ごときで止まらない。タイトル不明で続行。
-      title = `Article (${domain})`;
+      title = titleOverride || `Article (${domain})`;
       textContent = "";
+      status = 'blocked'; // 本文取得失敗
     }
   }
 
   let summary;
 
-  // 1. X/Twitter は無条件でリンク保存モード (Gemini使わない)
-  if (isTwitterUrl) {
-    summary = createLinkOnlyFallback(title, url, "X/Twitter投稿");
-  } 
-  // 2. オフラインモード指定時
+  // X URL (x_only) の場合は要約をスキップ
+  if (status === 'x_only') {
+    console.log("[summarize] x_only mode: skipping summarization");
+    summary = createLinkOnlyFallback(title, url, "X投稿");
+  }
+  // オフラインモード
   else if (process.env.AI_NEWS_OFFLINE === "1") {
     console.log("[summarize] AI_NEWS_OFFLINE=1 → offlineSummary を使用");
     summary = offlineSummary(textContent, title, url);
   } 
-  // 3. 通常のGemini要約（予算チェック付き）
+  // blocked (本文取得失敗) の場合も要約スキップ
+  else if (status === 'blocked') {
+    console.log("[summarize] blocked mode: skipping summarization");
+    summary = createUnsummarizedFallback(title, url, "本文取得失敗");
+  }
+  // 通常のGemini要約（予算チェック付き）
   else {
     // 予算チェック
     const budgetStatus = await usageManager.checkBudget();
@@ -618,25 +784,50 @@ function createLinkOnlyFallback(title, url, note = "リンク保存") {
     if (!budgetStatus.allowed) {
       console.warn(`[summarize] Gemini budget/limit prevented execution: ${budgetStatus.reason}`);
       summary = createUnsummarizedFallback(title, url, budgetStatus.reason);
+      status = 'blocked';
     } else {
       // 実行
-      try {
-        summary = await summarizeWithGemini(textContent, title, url);
-        // 成功したらカウントアップ
-        await usageManager.increment();
-      } catch (err) {
-        console.warn("[summarize] Gemini execution failed:", err.message);
-        
-        // 429 (Resource Exhausted) の場合はフラグを立てる
-        if (err.message.includes('429') || err.message.includes('Quota exceeded')) {
-          console.warn("[summarize] Detected 429/Quota Exceeded. Marking limit reached for today.");
-          await usageManager.markLimitReached();
-          summary = createUnsummarizedFallback(title, url, "Quota Exceeded (429)");
-        } else {
-          // その他のエラー
-          summary = createUnsummarizedFallback(title, url, `API Error: ${err.message}`);
+        // 難易度判定
+        const diff = classifyDifficulty({ url, text: textContent });
+        console.log(`[summarize] Difficulty: hard=${diff.hard}, reasons=[${diff.reasons.join(", ")}]`);
+
+        // 初回試行のモデル決定
+        let useHard = diff.hard;
+        let errorReason = null;
+
+        try {
+           summary = await summarizeWithGemini(textContent, title, url, useHard);
+           await usageManager.increment();
+        } catch (err) {
+           console.warn(`[summarize] 1st attempt (${useHard ? 'Hard' : 'Easy'}) failed: ${err.message}`);
+           
+           // Easyで失敗した場合はHardでリトライ (予算/429エラー以外)
+           if (!useHard && !err.message.includes('Quota') && !err.message.includes('429')) {
+             console.log("[summarize] Retrying with Hard model...");
+             try {
+               summary = await summarizeWithGemini(textContent, title, url, true);
+               await usageManager.increment();
+             } catch (retryErr) {
+               console.warn(`[summarize] Retry failed: ${retryErr.message}`);
+               errorReason = retryErr.message;
+             }
+           } else {
+             errorReason = err.message;
+           }
         }
-      }
+
+        if (!summary) {
+          // 最終的に失敗した場合
+           if (errorReason && (errorReason.includes('429') || errorReason.includes('Quota'))) {
+              await usageManager.markLimitReached();
+              summary = createUnsummarizedFallback(title, url, "Quota Exceeded (429)");
+           } else {
+             // 難物記事として失敗ノートを残すか、単なるエラーか
+             // ここでは「要約不可」としてフォールバック
+             summary = createUnsummarizedFallback(title, url, `Failed after retry: ${errorReason}`);
+           }
+           status = 'blocked';
+        }
     }
   }
 
@@ -650,6 +841,21 @@ function createLinkOnlyFallback(title, url, note = "リンク保存") {
     title = summary.titleJa;
   }
 
+  // Related記事を検索（新規記事生成時のみ）
+  let relatedArticles = null;
+  if (status === 'summarized' && summary.tags && summary.tags.length > 0) {
+    try {
+      relatedArticles = await findRelatedArticles(
+        filename,
+        summary.tags,
+        domain
+      );
+      console.log(`[summarize] Found ${relatedArticles.byTags.length} related by tags, ${relatedArticles.bySource.length} by source`);
+    } catch (err) {
+      console.warn(`[summarize] Failed to find related articles: ${err.message}`);
+    }
+  }
+
   const md = renderMarkdown({
     title,
     url,
@@ -657,13 +863,19 @@ function createLinkOnlyFallback(title, url, note = "リンク保存") {
     domain,
     created: createdDate,
     tldr: summary.tldr,
-    body: summary.body
+    body: summary.body,
+    status,
+    whyItMatters: summary.whyItMatters,
+    reliability: summary.reliability,
+    reliabilityReason: summary.reliabilityReason,
+    inputTags: summary.tags,
+    relatedArticles  // 追加
   });
 
   await fs.writeFile(filepath, md, "utf8");
 
   console.log(
-    `[summarize] wrote ${path.relative(AI_NEWS_DIR, filepath)} (title="${title}")`
+    `[summarize] wrote ${path.relative(AI_NEWS_DIR, filepath)} (title="${title}", status=${status})`
   );
 }
 

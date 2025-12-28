@@ -17,7 +17,7 @@ cssclass: ai-news-home
 
 ## 最近の Daily
 
-> [!info]
-> まだ Daily ノートが生成されていません。
-> Discord に URL を貼ってキューが処理されると、ここに直近数日分が並びます。
+| 日付 | Daily ノート |
+| --- | --- |
+| 2025-12-25（木） | [2025-12-25（木） の AI News](news/2025-12-25--AI-news) |
 

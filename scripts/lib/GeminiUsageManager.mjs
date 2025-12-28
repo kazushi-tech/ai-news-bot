@@ -33,12 +33,9 @@ export class GeminiUsageManager {
   async checkBudget() {
     const state = await this._loadState();
     const today = this._getTodayKey();
-    const dayState = state[today] || { count: 0, limitReached: false };
+    const dayState = state[today] || { count: 0 };
 
-    if (dayState.limitReached) {
-      return { allowed: false, reason: 'limit_reached' };
-    }
-
+    // limitReached フラグは使用しない（常に予算カウントのみでチェック）
     if (this.budget > 0 && dayState.count >= this.budget) {
       return { allowed: false, reason: 'budget_exceeded' };
     }
@@ -59,16 +56,9 @@ export class GeminiUsageManager {
     return state[today].count;
   }
 
+  // markLimitReached は廃止（常に要約を試みる）
   async markLimitReached() {
-    const state = await this._loadState();
-    const today = this._getTodayKey();
-
-    if (!state[today]) {
-      state[today] = { count: 0, limitReached: false };
-    }
-
-    state[today].limitReached = true;
-    await this._saveState(state);
-    console.log(`[GeminiUsageManager] Marked limit reached for ${today}`);
+    // 何もしない - limitReached フラグは使用しない
+    console.log(`[GeminiUsageManager] markLimitReached called but ignored (feature disabled)`);
   }
 }

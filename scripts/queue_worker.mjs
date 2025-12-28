@@ -33,17 +33,14 @@ const __dirname = path.dirname(__filename);
 
 // ====== 環境変数 & パス ======
 
-// NEWS_ROOT は env から必須で入れる（なければ ai-news-bot/ai-news を見るのでハズれる）
-const NEWS_ROOT =
-  process.env.NEWS_ROOT ||
-  path.resolve(__dirname, "..", "ai-news");
+// 統一パス定義を使用（ai-news-bot/ = Vault root）
+import { REPO_ROOT, NEWS_ROOT, QUEUE_DIR as QUEUE_PATH } from "./lib/paths.mjs";
 
-const REPO_ROOT = path.resolve(__dirname, "..");
-
-const QUEUE_DIR = path.join(NEWS_ROOT, "queue");
+const QUEUE_DIR = QUEUE_PATH;
 const URLS_FILE = path.join(QUEUE_DIR, "urls.txt");
 const PROCESSED_FILE = path.join(QUEUE_DIR, "processed.txt");
 const FAILED_FILE = path.join(QUEUE_DIR, "failed.txt");
+const METADATA_FILE = path.join(QUEUE_DIR, "metadata.json");
 
 // 1日の処理上限（0 or 未設定なら無制限）
 const MAX_ARTICLES_PER_DAY = Number(
@@ -69,6 +66,17 @@ async function readLinesIfExists(filePath) {
   } catch (err) {
     if (err.code === "ENOENT") return [];
     throw err;
+  }
+}
+
+async function loadMetadata() {
+  try {
+    const data = await fs.readFile(METADATA_FILE, "utf8");
+    return JSON.parse(data);
+  } catch (err) {
+    if (err.code === "ENOENT") return {};
+    console.warn(`[queue] Failed to load metadata: ${err.message}`);
+    return {};
   }
 }
 
@@ -164,6 +172,7 @@ async function ingestQueueOnce() {
 
   const processed = new Set(await readLinesIfExists(PROCESSED_FILE));
   const failed = new Set(await readLinesIfExists(FAILED_FILE));
+  const metadata = await loadMetadata();
 
   const today = todayKey();
   const usagePath = usageFilePath(today);
@@ -198,7 +207,18 @@ async function ingestQueueOnce() {
     }
 
     console.log(`[queue] ingest: ${url}`);
-    const ok = await runNodeScript(SUMMARIZE_SCRIPT, [url], { NEWS_ROOT });
+    
+    // メタデータからタイトル・説明を引数として渡す
+    const meta = metadata[url] || {};
+    const args = [url];
+    if (meta.title) {
+      args.push(`--title=${meta.title}`);
+    }
+    if (meta.description) {
+      args.push(`--description=${meta.description}`);
+    }
+    
+    const ok = await runNodeScript(SUMMARIZE_SCRIPT, args, { NEWS_ROOT });
 
     if (ok) {
       console.log(`[queue] ✅ success: ${url}`);
@@ -234,9 +254,8 @@ async function autoPushIfNeeded() {
   }
 
   console.log("[queue] git add / commit / push を実行します。");
-  const msg = `AI News auto update ${new Date()
-    .toISOString()
-    .slice(0, 10)}`;
+  const date = new Date().toISOString().slice(0, 10);
+  const msg = `news: add ${date}`;
 
   await runGit(["add", "-A"]);
   await runGit(["commit", "-m", msg]);

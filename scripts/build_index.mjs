@@ -1,116 +1,164 @@
-#!/usr/bin/env node
-/*
-docs/ai-news-bot 配下の summary.md を集計し、
-docs/news/YYYY-MM-DD--AI-news.md に静的テーブルを生成/更新します。
-依存パッケージなし（簡易YAMLパーサ）。
-*/
+// scripts/build_index.mjs
+// news/ai/INDEX.md を生成
+// 最新の日次ファイルリンク一覧 + 直近N件のヘッドライン
+
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import YAML from 'yaml';
 
-const DOCS_ROOT = path.resolve(process.cwd(), 'docs');
-const SRC_DIR = path.join(DOCS_ROOT, 'ai-news-bot');
-const OUT_DIR = path.join(DOCS_ROOT, 'news');
-
-function ensure(str) { return str == null ? '' : String(str); }
-
-async function walk(dir) {
-  const out = [];
-  const ents = await fs.readdir(dir, { withFileTypes: true });
-  for (const e of ents) {
-    const p = path.join(dir, e.name);
-    if (e.isDirectory()) out.push(...await walk(p));
-    else if (e.isFile() && e.name === 'summary.md') out.push(p);
-  }
-  return out;
+const AI_NEWS_DIR = process.env.AI_NEWS_DIR;
+if (!AI_NEWS_DIR) {
+  console.error('[index] ERROR: AI_NEWS_DIR is not set');
+  process.exit(1);
 }
 
-function parseFrontmatter(md) {
-  const m = md.match(/^---\n([\s\S]*?)\n---\n?/);
-  const data = {};
-  let body = md;
-  if (m) {
-    const yaml = m[1];
-    body = md.slice(m[0].length);
-    for (const line of yaml.split(/\r?\n/)) {
-      if (!line.trim() || line.trim().startsWith('#')) continue;
-      const idx = line.indexOf(':');
-      if (idx === -1) continue;
-      const k = line.slice(0, idx).trim();
-      let v = line.slice(idx + 1).trim();
-      if (/^\[.*\]$/.test(v)) { try { v = JSON.parse(v); } catch { /* noop */ } }
-      else if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
-        v = v.slice(1, -1);
+const NEWS_DIR = path.join(AI_NEWS_DIR, 'news', 'ai');
+const ARTICLES_DIR = path.join(AI_NEWS_DIR, 'articles');
+const MAX_HEADLINES = Number(process.env.AI_NEWS_MAX_INDEX_ITEMS || '30');
+
+console.log('[index] AI_NEWS_DIR =', AI_NEWS_DIR);
+console.log('[index] NEWS_DIR =', NEWS_DIR);
+console.log('[index] MAX_HEADLINES =', MAX_HEADLINES);
+
+async function getDailyFiles() {
+  try {
+    const entries = await fs.readdir(NEWS_DIR, { withFileTypes: true });
+    return entries
+      .filter(e => e.isFile() && e.name.match(/^\d{4}-\d{2}-\d{2}-AI-news\.md$/))
+      .map(e => e.name)
+      .sort()
+      .reverse();  // 新しい順
+  } catch {
+    return [];
+  }
+}
+
+async function getRecentArticles() {
+  try {
+    const entries = await fs.readdir(ARTICLES_DIR, { withFileTypes: true });
+    const files = entries
+      .filter(e => e.isFile() && e.name.endsWith('.md'))
+      .map(e => e.name)
+      .sort()
+      .reverse()
+      .slice(0, MAX_HEADLINES);
+
+    const articles = [];
+
+    for (const file of files) {
+      const fullPath = path.join(ARTICLES_DIR, file);
+      let raw;
+      try {
+        raw = await fs.readFile(fullPath, 'utf8');
+      } catch {
+        continue;
       }
-      data[k] = v;
+
+      const m = raw.match(/^---\n([\s\S]*?)\n---\n?/);
+      if (!m) continue;
+
+      let fm;
+      try {
+        fm = YAML.parse(m[1]);
+      } catch {
+        continue;
+      }
+
+      if (!fm) continue;
+
+      // 日付抽出
+      let dateStr = '';
+      if (fm.created) {
+        dateStr = String(fm.created).slice(0, 10);
+      }
+      if (!dateStr) {
+        const m2 = file.match(/^(\d{4}-\d{2}-\d{2})--/);
+        if (m2) dateStr = m2[1];
+      }
+
+      articles.push({
+        file,
+        title: fm.title || file,
+        date: dateStr,
+        source: fm.source || '',
+        tldr: fm.tldr || '',
+        source_url: fm.source_url || ''
+      });
     }
+
+    return articles;
+  } catch {
+    return [];
   }
-  return { data, body };
-}
-
-function ymd(dstr) {
-  const d = new Date(dstr || Date.now());
-  if (isNaN(d.getTime())) return undefined;
-  const y = d.getFullYear();
-  const m = String(d.getMonth() + 1).padStart(2, '0');
-  const dd = String(d.getDate()).padStart(2, '0');
-  return `${y}-${m}-${dd}`;
-}
-
-/** 本文の先頭の一文（句点/ピリオド/!/? まで）を返し、max を超えたら省略 */
-function firstSentence(text, max = 140) {
-  const t = ensure(text).replace(/\s+/g, ' ').trim();
-  if (!t) return '';
-  const m = t.match(/^.*?[。．.!?！？]/); // 句読点の直後まで
-  let s = m ? m[0] : t.slice(0, max);
-  if (s.length > max) s = s.slice(0, max - 1) + '…';
-  return s;
-}
-
-function mdRow({ date, title, url, source, summary }) {
-  const titleCell = url ? `[${title}](${url})` : title;
-  const sumCell = ensure(summary).replace(/\|/g, '\\|');
-  const srcCell = ensure(source).replace(/\|/g, '\\|');
-  return `| ${date} | ${titleCell} | ${srcCell} | ${sumCell} |`;
 }
 
 async function main() {
-  await fs.mkdir(OUT_DIR, { recursive: true });
+  await fs.mkdir(NEWS_DIR, { recursive: true });
 
-  const files = await walk(SRC_DIR);
-  const rows = [];
+  const dailyFiles = await getDailyFiles();
+  const articles = await getRecentArticles();
 
-  for (const f of files) {
-    const md = await fs.readFile(f, 'utf8');
-    const { data, body } = parseFrontmatter(md);
+  const lines = [];
 
-    const stat = await fs.stat(f);
-    const date = ymd(data.date) || ymd(stat.mtime);
-    const title = ensure(data.title || data.headline || path.basename(path.dirname(f)));
-    const url = ensure(data.url || data.link || data.href || '');
-    const source = ensure(data.source || data.site || data.publisher || '');
-    const summary = firstSentence(body, 140);
+  // Frontmatter
+  lines.push('---');
+  lines.push('kind: ai-news-index');
+  lines.push(`updated: ${new Date().toISOString().slice(0, 10)}`);
+  lines.push('---');
+  lines.push('');
 
-    rows.push({ date, title, url, source, summary });
+  // タイトル
+  lines.push('# AI News Index');
+  lines.push('');
+
+  // 日次ファイルリンク一覧（最新10件）
+  lines.push('## 📅 日次まとめ');
+  lines.push('');
+  
+  const recentDays = dailyFiles.slice(0, 10);
+  if (recentDays.length > 0) {
+    for (const file of recentDays) {
+      const dateMatch = file.match(/^(\d{4}-\d{2}-\d{2})/);
+      const dateStr = dateMatch ? dateMatch[1] : file;
+      lines.push(`- [[${file.replace('.md', '')}|${dateStr}]]`);
+    }
+  } else {
+    lines.push('_まだ日次まとめはありません_');
   }
+  lines.push('');
 
-  // 日付降順
-  rows.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
+  // 直近N件のヘッドライン
+  lines.push(`## 📰 最新ニュース（直近${MAX_HEADLINES}件）`);
+  lines.push('');
 
-  const today = ymd(Date.now());
-  const outFile = path.join(OUT_DIR, `${today}--AI-news.md`);
+  if (articles.length > 0) {
+    lines.push('| 日付 | タイトル | ソース |');
+    lines.push('| --- | --- | --- |');
+    
+    for (const art of articles) {
+      const titleCell = art.title.replace(/\|/g, '\\|').replace(/\n/g, ' ');
+      const dateCell = art.date || '-';
+      const sourceCell = art.source.replace(/\|/g, '\\|');
+      const link = `[[articles/${art.file}|${titleCell}]]`;
+      lines.push(`| ${dateCell} | ${link} | ${sourceCell} |`);
+    }
+  } else {
+    lines.push('_まだニュースはありません_');
+  }
+  lines.push('');
 
-  const header =
-`# AI news (${today})
+  // フッタ
+  lines.push('---');
+  lines.push(`_最終更新: ${new Date().toISOString()}_`);
 
-| 日付 | タイトル | 出典 | 概要 |
-|---|---|---|---|
-`;
-  const table = rows.map(mdRow).join('\n');
-  await fs.writeFile(outFile, header + table + '\n', 'utf8');
+  const content = lines.join('\n');
+  const outPath = path.join(NEWS_DIR, 'INDEX.md');
+
+  await fs.writeFile(outPath, content, 'utf8');
+  console.log(`[index] wrote news/ai/INDEX.md (${dailyFiles.length} daily files, ${articles.length} headlines)`);
 }
 
-// ← ここは関数の外。最後に実行。
-main().catch((e) => { 
-  console.error(e);
+main().catch(err => {
+  console.error(err);
   process.exit(1);
 });

@@ -8,6 +8,11 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import RSSParser from "rss-parser";
 
+// SAFETY LOCK: This script is disabled to prevent unauthorized URL fetching.
+// Remove this block if you intend to re-enable automatic feed fetching.
+console.log("[feeds] 🚫 This script is DISABLED per user request (only Discord URLs allowed).");
+process.exit(0);
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 

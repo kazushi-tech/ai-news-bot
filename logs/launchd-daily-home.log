@@ -3111,3 +3111,33 @@
 > ai-news-bot@0.1.0 daily
 > node scripts/build_index_daily.mjs
 
+[runner] === run_daily_and_home.sh start ===
+[runner] npm run daily
+
+> ai-news-bot@0.1.0 daily
+> node scripts/build_index_daily.mjs
+
+[runner] === run_daily_and_home.sh start ===
+[runner] npm run daily
+
+> ai-news-bot@0.1.0 daily
+> node scripts/build_index_daily.mjs
+
+[runner] === run_daily_and_home.sh start ===
+[runner] npm run daily
+
+> ai-news-bot@0.1.0 daily
+> node scripts/build_index_daily.mjs
+
+[runner] === run_daily_and_home.sh start ===
+[runner] npm run daily
+
+> ai-news-bot@0.1.0 daily
+> node scripts/build_index_daily.mjs
+
+[runner] === run_daily_and_home.sh start ===
+[runner] npm run daily
+
+> ai-news-bot@0.1.0 daily
+> node scripts/build_index_daily.mjs
+

@@ -1,0 +1,2127 @@
+
+## Collected on 2025-12-28T10:16:20.018Z
+- [ ] 2025-12-27 [From shrimp Jesus to erotic tractors: how viral AI slop took over the internet](https://www.theguardian.com/technology/2025/dec/27/from-shrimp-jesus-to-erotic-tractors-how-viral-ai-slop-took-over-the-internet) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-27 [More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-27 [‘It brings you closer to the natural world’: the rise of the Merlin birdsong identifying app](https://www.theguardian.com/environment/2025/dec/27/merlin-ai-assisted-birdsong-identifying-app-bird-species) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-27 [London Eye architect proposes 14-mile tidal power station off Somerset coast](https://www.theguardian.com/environment/2025/dec/27/london-eye-architect-proposes-14-mile-tidal-power-station-off-somerset-coast) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-26 [Storytelling is an ancient human art, not a corporate invention \| Letters](https://www.theguardian.com/media/2025/dec/26/storytelling-is-an-ancient-human-art-not-a-corporate-invention) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-26 [The best of: First Dog on the Moon cartoons 2025 \| First Dog on the Moon](https://www.theguardian.com/commentisfree/gallery/2025/dec/26/the-best-of-first-dog-on-the-moon-cartoons-2025) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-26 [AI boom adds more than half a trillion dollars to wealth of US tech barons in 2025](https://www.theguardian.com/business/2025/dec/26/ai-boom-adds-more-than-half-a-trillion-dollars-to-wealth-of-us-tech-barons-in-2025) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-26 [Our king, priest and feudal lord – how AI is taking us back to the dark ages \| Joseph de Weck](https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-23 [Ella Baron on AI at Christmas – cartoon](https://www.theguardian.com/commentisfree/picture/2025/dec/23/ella-baron-ai-at-christmas-chatgpt-cartoon) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-23 [Elon Musk, AI and the antichrist: the biggest tech stories of 2025](https://www.theguardian.com/technology/2025/dec/22/biggest-tech-stories-2025) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-23 [When the AI bubble bursts, humans will finally have their chance to take back control \| Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-23 [The best of the long read in 2025](https://www.theguardian.com/news/2025/dec/23/the-best-of-the-long-read-in-2025) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-22 [Activist group says it has scraped 86m music files from Spotify](https://www.theguardian.com/technology/2025/dec/22/activist-group-says-it-has-scraped-86m-music-files-from-spotify) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-21 [Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-19 [Investment in data centers worldwide hit record $61bn in 2025, report finds](https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-19 [What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-19 [Proposal to allow use of Australian copyrighted material to train AI abandoned after backlash](https://www.theguardian.com/australia-news/2025/dec/19/proposal-australian-copyrighted-material-train-ai-abandoned-after-backlash) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-19 [UK’s largest proposed datacentre ‘understating planned water use’](https://www.theguardian.com/environment/2025/dec/19/uk-largest-proposed-data-centre-planned-water-use-northumberland) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-18 [UK actors vote to refuse to be digitally scanned in pushback against AI](https://www.theguardian.com/tv-and-radio/2025/dec/18/equity-actors-vote-to-refuse-to-be-digitally-scanned-in-pushback-against-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-18 [Trump Media announces $6bn merger plan with fusion power company](https://www.theguardian.com/media/2025/dec/18/truth-social-merger-fusion-power-tae) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-26 [This tiny chip could change the future of quantum computing](https://www.sciencedaily.com/releases/2025/12/251226045341.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-12-22 [This AI finds simple rules where humans see only chaos](https://www.sciencedaily.com/releases/2025/12/251221091237.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-12-21 [A new tool is revealing the invisible networks inside cancer](https://www.sciencedaily.com/releases/2025/12/251221043216.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-12-10 [Scientists reveal a tiny brain chip that streams thoughts in real time](https://www.sciencedaily.com/releases/2025/12/251209234139.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-12-08 [This tiny implant sends secret messages to the brain](https://www.sciencedaily.com/releases/2025/12/251208052515.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-11-28 [Scientists uncover the brain’s hidden learning blocks](https://www.sciencedaily.com/releases/2025/11/251128050509.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-11-16 [Physicists reveal a new quantum state where electrons run wild](https://www.sciencedaily.com/releases/2025/11/251116105625.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-11-16 [A single beam of light runs AI with supercomputer power](https://www.sciencedaily.com/releases/2025/11/251115095923.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-11-14 [New prediction breakthrough delivers results shockingly close to reality](https://www.sciencedaily.com/releases/2025/11/251112111023.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-11-05 [Artificial neurons that behave like real brain cells](https://www.sciencedaily.com/releases/2025/11/251105050723.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-11-01 [Too much screen time may be hurting kids’ hearts](https://www.sciencedaily.com/releases/2025/11/251101000418.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-10-28 [Breakthrough optical processor lets AI compute at the speed of light](https://www.sciencedaily.com/releases/2025/10/251027224833.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-10-22 [Stanford’s tiny eye chip helps the blind see again](https://www.sciencedaily.com/releases/2025/10/251022023118.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-10-22 [AI turns x-rays into time machines for arthritis care](https://www.sciencedaily.com/releases/2025/10/251022023116.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-10-14 [Scientists build artificial neurons that work like real ones](https://www.sciencedaily.com/releases/2025/10/251013040335.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-10-13 [90% of science is lost. This new AI just found it](https://www.sciencedaily.com/releases/2025/10/251013040314.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-10-09 [Why GPS fails in cities. And how it was brilliantly fixed](https://www.sciencedaily.com/releases/2025/10/251009033124.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-10-04 [These little robots literally walk on water](https://www.sciencedaily.com/releases/2025/10/251003033930.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-09-28 [Quantum chips just proved they’re ready for the real world](https://www.sciencedaily.com/releases/2025/09/250927031230.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-09-25 [Caltech’s massive 6,100-qubit array brings the quantum future closer](https://www.sciencedaily.com/releases/2025/09/250925025341.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-09-24 [AI-powered smart bandage heals wounds 25% faster](https://www.sciencedaily.com/releases/2025/09/250924012232.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-09-21 [Scientists just made atoms talk to each other inside silicon chips](https://www.sciencedaily.com/releases/2025/09/250920214318.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-09-08 [AI has no idea what it’s doing, but it’s threatening us all](https://www.sciencedaily.com/releases/2025/09/250907172635.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-08-28 [Caltech breakthrough makes quantum memory last 30 times longer](https://www.sciencedaily.com/releases/2025/08/250827234137.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-08-24 [Why tiny bee brains could hold the key to smarter AI](https://www.sciencedaily.com/releases/2025/08/250824031528.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-08-22 [Scientists just cracked the quantum code hidden in a single atom](https://www.sciencedaily.com/releases/2025/08/250821094524.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-08-17 [This simple magnetic trick could change quantum computing forever](https://www.sciencedaily.com/releases/2025/08/250816113508.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-08-13 [Tiny “talking” robots form shape-shifting swarms that heal themselves](https://www.sciencedaily.com/releases/2025/08/250812234535.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-07-25 [Harvard’s ultra-thin chip could revolutionize quantum computing](https://www.sciencedaily.com/releases/2025/07/250724232413.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-07-25 [Google's deepfake hunter sees what you can’t—even in videos without faces](https://www.sciencedaily.com/releases/2025/07/250724232412.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-07-24 [A simple twist fooled AI—and revealed a dangerous flaw in medical ethics](https://www.sciencedaily.com/releases/2025/07/250723045711.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-07-08 [Scientists discover the moment AI truly understands language](https://www.sciencedaily.com/releases/2025/07/250707073353.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-07-03 [Scientists just simulated the “impossible” — fault-tolerant quantum code cracked at last](https://www.sciencedaily.com/releases/2025/07/250702214157.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-06-30 [Quantum computers just beat classical ones — Exponentially and unconditionally](https://www.sciencedaily.com/releases/2025/06/250629033459.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-06-25 [Quantum computers just got an upgrade – and it’s 10× more efficient](https://www.sciencedaily.com/releases/2025/06/250625011632.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-06-23 [Affordances in the brain: The human superpower AI hasn’t mastered](https://www.sciencedaily.com/releases/2025/06/250622225921.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-06-22 [Half of today’s jobs could vanish—Here’s how smart countries are future-proofing workers](https://www.sciencedaily.com/releases/2025/06/250622030429.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-06-26 [Quantum breakthrough: ‘Magic states’ now easier, faster, and way less noisy](https://www.sciencedaily.com/releases/2025/06/250621233816.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-06-19 [AI at light speed: How glass fibers could replace silicon brains](https://www.sciencedaily.com/releases/2025/06/250619090855.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-06-19 [The AI that writes climate-friendly cement recipes in seconds](https://www.sciencedaily.com/releases/2025/06/250619035502.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-06-16 [Robots that feel heat, pain, and pressure? This new “skin” makes it possible](https://www.sciencedaily.com/releases/2025/06/250616040237.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-06-09 [Photonic quantum chips are making AI smarter and greener](https://www.sciencedaily.com/releases/2025/06/250608222002.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-06-07 [This “robot bird” flies at 45 mph through forests—With no GPS or light](https://www.sciencedaily.com/releases/2025/06/250607103103.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-06-03 [Guardrails, education urged to protect adolescent AI users](https://www.sciencedaily.com/releases/2025/06/250603141208.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-06-02 [Self-powered artificial synapse mimics human color vision](https://www.sciencedaily.com/releases/2025/06/250602155323.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-30 [Engineers develop self-healing muscle for robots](https://www.sciencedaily.com/releases/2025/05/250530151849.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-29 [Horses 'mane' inspiration for new generation of social robots](https://www.sciencedaily.com/releases/2025/05/250528214222.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-28 [Mid-air transformation helps flying, rolling robot to transition smoothly](https://www.sciencedaily.com/releases/2025/05/250528150829.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-28 [AI meets game theory: How language models perform in human-like social scenarios](https://www.sciencedaily.com/releases/2025/05/250528132456.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-28 [Solitonic superfluorescence paves way for high-temperature quantum materials](https://www.sciencedaily.com/releases/2025/05/250528131645.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-27 [Emotional responses crucial to attitudes about self-driving cars](https://www.sciencedaily.com/releases/2025/05/250527124219.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-22 [AI is here to stay, let students embrace the technology, experts urge](https://www.sciencedaily.com/releases/2025/05/250522133513.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-22 [Could AI understand emotions better than we do?](https://www.sciencedaily.com/releases/2025/05/250522124755.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-21 [Scientists discover class of crystals with properties that may prove revolutionary](https://www.sciencedaily.com/releases/2025/05/250521161106.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-21 [MIT scientists develop tool that makes underwater scenes crystal clear](https://www.sciencedaily.com/releases/2025/05/250521125256.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-20 [World's first petahertz-speed phototransistor in ambient conditions](https://www.sciencedaily.com/releases/2025/05/250519204533.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-19 [Robots learning without us? New study cuts humans from early testing](https://www.sciencedaily.com/releases/2025/05/250519132026.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-19 [Empowering robots with human-like perception to navigate unwieldy terrain](https://www.sciencedaily.com/releases/2025/05/250519132021.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-19 [Remotely controlled robots at your fingertips: Enhancing safety in industrial sites](https://www.sciencedaily.com/releases/2025/05/250519131817.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-05-19 [With evolutionary AI, scientists find hidden keys for better land use](https://www.sciencedaily.com/releases/2025/05/250519131038.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2025-12-27 [So Long, GPT-5. Hello, Qwen](https://www.wired.com/story/expired-tired-wired-gpt-5/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-24 [The Age of the All-Access AI Agent Is Here](https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-24 [Pinterest Users Are Tired of All the AI Slop](https://www.wired.com/story/pinterst-ai-slop-content/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-24 [AlphaFold Changed Science. After 5 Years, It’s Still Evolving](https://www.wired.com/story/alphafold-changed-science-after-5-years-its-still-evolving/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-23 [Google’s and OpenAI’s Chatbots Can Strip Women in Photos Down to Bikinis](https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-22 [OpenAI’s Child Exploitation Reports Increased Sharply This Year](https://www.wired.com/story/openai-child-safety-reports-ncmec/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-22 [People Are Using Sora 2 to Make Disturbing Videos With AI-Generated Kids](https://www.wired.com/story/people-are-using-sora-2-to-make-child-fetish-content/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-22 [Tech Disrupted Friendship. It’s Time to Bring It Back](https://www.wired.com/story/expired-tired-wired-ai-friends/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-19 [WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-19 [Introducing a New Chapter for ‘Uncanny Valley’](https://www.wired.com/story/uncanny-valley-podcast-new-chapter-for-uncanny-valley/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-27 [After Outcry, Firefox Promises “Kill Switch” That Turns Off All AI Features](https://futurism.com/artificial-intelligence/outcry-firefox-promises-kill-switch-ai-features) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-27 [AI Backlash Grew Massively in 2025](https://futurism.com/artificial-intelligence/ai-backlash-2025) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-26 [AI Code Is a Bug-Filled Mess](https://futurism.com/artificial-intelligence/ai-code-bug-filled-mess) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-26 [Children Falling Apart as They Become Addicted to AI](https://futurism.com/artificial-intelligence/children-character-ai-addicted) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-25 [Is an AI-Powered Toy Terrorizing Your Child?](https://futurism.com/artificial-intelligence/ai-powered-toys-children) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-24 [Grimes Says She Has AI Psychosis, Recommends You Should Get it Too](https://futurism.com/artificial-intelligence/grimes-ai-psychosis) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-24 [Trump’s Chip Embargo Against China Is Backfiring Spectacularly](https://futurism.com/future-society/trump-china-ai-chip-investors) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-24 [Woman Suffers AI Psychosis After Obsessively Generating AI Images of Herself](https://futurism.com/health-medicine/ai-psychosis-startup-images) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-23 [AI Is a Godsend for Criminals Forging Fake Art](https://futurism.com/artificial-intelligence/ai-fraud-fine-art) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-23 [Gen Z Terrified of Losing Their Humanity to AI](https://futurism.com/artificial-intelligence/gen-z-brain-humanity-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-23 [Man Describes How ChatGPT Led Him Straight Into Psychosis](https://futurism.com/artificial-intelligence/man-chatgpt-psychosis) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-23 [Top Software Engineering Students Can’t Get a Job Because of AI](https://futurism.com/future-society/software-developers-ai-jobs) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-22 [Zuckerberg Already Blowing Up Relationship With New Head of AI He Paid Ten Zillion Dollars to Hire](https://futurism.com/artificial-intelligence/zuckerberg-fall-out-new-ai-hire) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-22 [Sam Altman Unhappy With Fate He’s Created for Himself](https://futurism.com/artificial-intelligence/sam-altman-unhappy-public-company-ceo) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-21 [Police Warn of Robot Crime Wave](https://futurism.com/artificial-intelligence/police-robot-crime-wave) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-21 [YouTube Now Shutting Down Channels Posting AI Slop](https://futurism.com/artificial-intelligence/youtube-shutting-down-ai-slop-channels) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-21 [Professor Warns That the Wealthy Are Trying to Use AI to Seize Control of Everything](https://futurism.com/artificial-intelligence/professor-ai-wealthy-inevitable) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-21 [Doctors Warn That AI Companions Are Dangerous](https://futurism.com/artificial-intelligence/doctors-warn-ai-companions-dangerous) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-20 [Doctors Catch Cancer-Diagnosing AI Extracting Patients’ Race Data and Being Racist With It](https://futurism.com/health-medicine/ai-cancer-diagnostic-bias) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-20 [Officials Deploying AI Surveillance Devices in School Bathrooms](https://futurism.com/artificial-intelligence/ai-surveillance-school-bathroom) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-19 [TikTok Accounts Are Using AI Slop to Sell Seeds to Plants That Don’t Exist](https://futurism.com/artificial-intelligence/tiktok-ai-slop-seeds-plants-dont-exist) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-19 [Investors Warn That Humanoid Robots Are the Next Financial Bubble](https://futurism.com/future-society/humanoid-robot-financial-bubble) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-19 [Google’s AI Summaries Are Destroying the Lives of Recipe Developers](https://futurism.com/artificial-intelligence/google-ai-summaries-destroying-recipe-developers) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-18 [When Asked to Generate an Alphabet Poster for Preschoolers, the Latest Version of ChatGPT Just Flails Wildly](https://futurism.com/artificial-intelligence/chatgpt-openai-alphabet-animals) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-18 [Bernie Sanders Calls for Halt on Construction of New Data Centers](https://futurism.com/future-society/bernie-sanders-ai-data-centers) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-18 [Millions of Private ChatGPT Conversations Are Being Harvested and Sold for Profit](https://futurism.com/artificial-intelligence/ai-chatbot-data-scraping) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-24 [The future of rail: Watching, predicting, and learning](https://www.artificialintelligence-news.com/news/rail-ai-in-the-uk-beyond-predictive-maintenance/) *(Artificial Intelligence News)*
+- [ ] 2025-12-24 [Disney is embedding generative AI into its operating model](https://www.artificialintelligence-news.com/news/why-disney-is-embedding-generative-ai-into-its-operating-model/) *(Artificial Intelligence News)*
+- [ ] 2025-12-23 [Arm and the future of AI at the edge](https://www.artificialintelligence-news.com/news/arm-chips-and-the-future-of-ai-at-the-edge/) *(Artificial Intelligence News)*
+- [ ] 2025-12-23 [Inside China’s push to apply AI across its energy system](https://www.artificialintelligence-news.com/news/inside-chinas-push-to-apply-ai-across-its-energy-system/) *(Artificial Intelligence News)*
+- [ ] 2025-12-22 [Tesco signs three-year AI deal centred on customer experience](https://www.artificialintelligence-news.com/news/tesco-signs-three-year-ai-deal-centred-on-customer-experience/) *(Artificial Intelligence News)*
+- [ ] 2025-12-19 [Marketing agencies using AI in workflows serve more clients](https://www.artificialintelligence-news.com/news/marketing-agencies-ai-use-creates-faster-workflows-but-need-restructuring-internally/) *(Artificial Intelligence News)*
+- [ ] 2025-12-19 [50,000 Copilot licences for Indian service companies](https://www.artificialintelligence-news.com/news/service-provider-ai-implementations-india-enterprise-scale-copilot-rollouts/) *(Artificial Intelligence News)*
+- [ ] 2025-12-19 [Zara’s use of AI shows how retail workflows are quietly changing](https://www.artificialintelligence-news.com/news/zara-use-of-ai-shows-how-retail-workflows-are-quietly-changing/) *(Artificial Intelligence News)*
+- [ ] 2025-12-18 [AI in Human Resources: the real operational impact](https://www.artificialintelligence-news.com/news/hr-ai-in-human-resources-the-real-operational-impact/) *(Artificial Intelligence News)*
+- [ ] 2025-12-18 [Wall Street’s AI gains are here — banks plan for fewer people](https://www.artificialintelligence-news.com/news/wall-street-ai-gains-are-here-banks-plan-for-fewer-people/) *(Artificial Intelligence News)*
+- [ ] 2025-12-18 [Ensuring effective AI in insurance operations](https://www.artificialintelligence-news.com/news/insurance-ai-use-operational-differences-experienced-by-the-big-players/) *(Artificial Intelligence News)*
+- [ ] 2025-12-18 [AstraZeneca leads big pharma’s AI clinical trials revolution with real-world patient impact](https://www.artificialintelligence-news.com/news/astrazeneca-ai-clinical-trials-2025/) *(Artificial Intelligence News)*
+- [ ] 2025-12-23 [New York Signs off on AI Safety Legislation](https://aibusiness.com/ai-policy/new-york-signs-ai-safety-legislation) *(AI Business)*
+- [ ] 2025-12-22 [x402 Aims to Enable Agentic Payments With Digital Dollars](https://aibusiness.com/agentic-ai/x402-agentic-payments-digital-dollars) *(AI Business)*
+- [ ] 2025-12-22 [AI Coding Startup Lovable Now Valued at $6.6B](https://aibusiness.com/generative-ai/ai-coding-startup-lovable-series-b) *(AI Business)*
+- [ ] 2025-12-19 [University Researchers Debut Tiny Programmable Robots](https://aibusiness.com/robotics/university-researchers-debut-world-s-smallest-programmable-robots) *(AI Business)*
+- [ ] 2025-12-18 [Salesforce Buys Qualified in Agentic Marketing Push](https://aibusiness.com/agentic-ai/salesforce-buys-qualified-in-agentic-marketing-push) *(AI Business)*
+- [ ] 2025-12-18 [Anthropic Launches Skills Open Standard for Claude](https://aibusiness.com/foundation-models/anthropic-launches-skills-open-standard-claude) *(AI Business)*
+- [ ] 2025-12-18 [Google Releases Gemini 3 Flash Aimed at Enterprises](https://aibusiness.com/foundation-models/google-releases-gemini-3-flash-model-enterprise) *(AI Business)*
+- [ ] 2025-12-17 [OpenAI Updates ChatGPT Images Tool](https://aibusiness.com/generative-ai/openai-updates-chatgpt-images-tool) *(AI Business)*
+- [ ] 2025-12-17 [Nvidia Aims to Bolster HPC With Acquisition](https://aibusiness.com/data-management/nvidia-focuses-on-hpc-schedmd) *(AI Business)*
+- [ ] 2025-12-16 [US Government Seeks Tech Talent](https://aibusiness.com/ai-policy/us-government-seeks-tech-talent) *(AI Business)*
+- [ ] 2025-12-16 [Ai2 Introduces Molmo 2 Open Video Models](https://aibusiness.com/foundation-models/ai2-molmo-open-video-models) *(AI Business)*
+- [ ] 2025-12-16 [Vertical AI Systems and Open Source Flexibility](https://aibusiness.com/generative-ai/vertical-ai-systems-and-open-source-flexibility) *(AI Business)*
+- [ ] 2025-12-16 [Google Releases Updated Gemini Deep Research](https://aibusiness.com/agentic-ai/google-releases-updated-gemini-deep-research) *(AI Business)*
+- [ ] 2025-12-16 [Runware Secures $50M in Quest to Build 'One API for All AI'](https://aibusiness.com/generative-ai/runware-one-api-startup-funding) *(AI Business)*
+- [ ] 2025-12-15 [States Expected to Fight Back Against AI Executive Order](https://aibusiness.com/ai-policy/states-to-fight-back-against-ai-executive-order-podcast) *(AI Business)*
+- [ ] 2025-12-15 [AI Startup Raises $13M to Combat Deepfakes](https://aibusiness.com/generative-ai/ai-startup-combats-deepfakes) *(AI Business)*
+- [ ] 2025-12-15 [Nvidia Releases Nemotron 3 Open Models](https://aibusiness.com/foundation-models/nvidia-nemotron-3-open-models) *(AI Business)*
+- [ ] 2025-12-15 [Neocloud Providers Look to Network AI Data Centers](https://aibusiness.com/data-centers/neocloud-providers-network-ai-data-centers) *(AI Business)*
+- [ ] 2025-12-12 [The Future of Creativity with AI, Art and Media](https://aibusiness.com/generative-ai/the-future-of-creativity-ai-art-and-media) *(AI Business)*
+- [ ] 2025-12-12 [OpenAI Seals $1B Disney Deal, Launches ChatGPT 5.2](https://aibusiness.com/foundation-models/openai-disney-deal-chatgpt-update) *(AI Business)*
+- [ ] 2025-12-12 [Enterprises Overwhelmed by, and Attracted to, AI Technology](https://aibusiness.com/agentic-ai/enterprises-overwhelmed-and-attracted-by-ai-technology) *(AI Business)*
+- [ ] 2025-12-11 [MIT Researchers Use AI to 'Speak' Objects into Existence](https://aibusiness.com/robotics/mit-researchers-speak-objects-into-existence) *(AI Business)*
+- [ ] 2025-12-11 [US State Attorneys General Demand Greater AI Safety From Tech Giants](https://aibusiness.com/ai-policy/state-attorneys-general-ai-safety-tech-giants) *(AI Business)*
+- [ ] 2025-12-10 [The Growing Need for Cybersecurity in Agentic AI](https://aibusiness.com/agentic-ai/the-growing-need-for-cybersecurity-in-agentic-ai) *(AI Business)*
+- [ ] 2025-12-10 [Amazon to Spend Another $35B in India, With AI the Focus](https://aibusiness.com/data-centers/amazon-to-spend-another-35b-in-india-with-ai-the-focus) *(AI Business)*
+- [ ] 2025-12-09 [Microsoft to Spend Another $5.4 Billion to Boost AI in Canada](https://aibusiness.com/data-centers/microsoft-to-spend-another-5-4-billion-to-boost-ai-in-canada) *(AI Business)*
+- [ ] 2025-12-09 [Sale of Nvidia AI Chips to China Helps All Parties](https://aibusiness.com/generative-ai/sale-of-nvidia-ai-chips-to-china) *(AI Business)*
+- [ ] 2025-12-09 [Google AI Glasses Set to Take on Meta Ray-Bans Next Year](https://aibusiness.com/speech-recognition/google-ai-glasses-next-year) *(AI Business)*
+- [ ] 2025-12-08 [In AI Play, IBM Acquires Data Streaming Provider Confluent](https://aibusiness.com/data-management/in-ai-play-ibm-acquires-confluent) *(AI Business)*
+- [ ] 2025-12-08 [Meta Acquires Wearable AI Startup Limitless](https://aibusiness.com/speech-recognition/meta-acquires-limitless) *(AI Business)*
+- [ ] 2025-12-08 [Robot Reassembles Pompeii Artifacts](https://aibusiness.com/robotics/robot-reassembles-pompeii-artifacts) *(AI Business)*
+- [ ] 2025-12-08 [MIT Unveils Method to Cut LLM Computation, Boost Efficiency](https://aibusiness.com/generative-ai/mit-method-cuts-llm-computation) *(AI Business)*
+- [ ] 2025-12-05 [The NYT Sues Perplexity as Meta Partners With Publishers](https://aibusiness.com/generative-ai/the-nyt-sues-perplexity-meta-partners-with-publishers) *(AI Business)*
+- [ ] 2025-12-05 [Nvidia, Mistral AI Partner to Launch New Family of Open Models](https://aibusiness.com/foundation-models/nvidia-mistral-open-models) *(AI Business)*
+- [ ] 2025-12-05 [Hyundai Unveils AI-Powered Robot MobED, on Sale in 2026](https://aibusiness.com/robotics/hyundai-unveils-mobed) *(AI Business)*
+- [ ] 2025-12-04 [Saudi AI Startup Launches Arabic LLM](https://aibusiness.com/generative-ai/saudi-ai-startup-launches-arabic-llm) *(AI Business)*
+- [ ] 2025-12-04 [Snowflake Deal Another Example of Anthropic's Influence](https://aibusiness.com/generative-ai/snowflake-deal-an-example-of-anthropi-influence) *(AI Business)*
+- [ ] 2025-12-04 [OpenAI to Acquire AI Startup Neptune, in Model Training Boost](https://aibusiness.com/foundation-models/openai-acquire-neptune-model-training) *(AI Business)*
+- [ ] 2025-12-04 [Nvidia Releases Open Reasoning AI for Self-Driving Vehicles](https://aibusiness.com/automation/nvidia-open-reasoning-ai-self-driving-vehicles) *(AI Business)*
+- [ ] 2025-12-03 [AWS Simplifies Agent Building With Model Customization](https://aibusiness.com/agentic-ai/aws-agent-model-customization) *(AI Business)*
+- [ ] 2025-12-03 [AWS Steps up Its AI Game at Re:Invent 2025](https://aibusiness.com/generative-ai/aws-steps-up-its-ai-at-re-invent-2025s) *(AI Business)*
+- [ ] 2025-12-03 [DeepSeek's New Models Reveal Open Source Complexities](https://aibusiness.com/generative-ai/deepseek-s-new-models-reveal-open-source-complexities) *(AI Business)*
+- [ ] 2025-12-02 [OpenAI's Latest Moves Aimed at Enterprise AI](https://aibusiness.com/generative-ai/openai-latest-moves-enterprise-ai) *(AI Business)*
+- [ ] 2025-12-02 [AWS Targets AI Maturity in Nova Forge Release](https://aibusiness.com/generative-ai/aws-targets-ai-maturity-with-nova-forge) *(AI Business)*
+- [ ] 2025-12-02 [AWS Launches Frontier Agents](https://aibusiness.com/agentic-ai/aws-launches-frontier-agents) *(AI Business)*
+- [ ] 2025-12-02 [Lack of Diversity in AI Roles Amplified in AI Systems](https://aibusiness.com/ai-policy/lack-of-diversity-in-ai-roles) *(AI Business)*
+- [ ] 2025-12-01 [Generative AI Startup Runway Releases Gen-4.5 Video Model](https://aibusiness.com/generative-ai/runway-releases-gen-4-5-video-model) *(AI Business)*
+- [ ] 2025-12-01 [Sunday Robotics Emerges From Stealth With Household Robot](https://aibusiness.com/robotics/sunday-robotics-emerges-stealth-household-robot) *(AI Business)*
+- [ ] 2025-12-01 [Mathematical Superintelligence Startup Valued at $1.45B](https://aibusiness.com/ml/mathematical-superintelligence-startup-unicorn-status) *(AI Business)*
+- [ ] 2025-12-01 [Responsible AI Center to Combine Research With Industry Know-How](https://aibusiness.com/responsible-ai/responsible-ai-center-to-combine-research-with-industry-know-how) *(AI Business)*
+- [ ] 2025-12-26 [Deepfakes leveled up in 2025 – here’s what’s coming next](https://theconversation.com/deepfakes-leveled-up-in-2025-heres-whats-coming-next-271391) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-24 [When AI recreates the female voice, it also rewrites who gets heard](https://theconversation.com/when-ai-recreates-the-female-voice-it-also-rewrites-who-gets-heard-268257) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-23 [How can Canada become a global AI powerhouse? By investing in mathematics](https://theconversation.com/how-can-canada-become-a-global-ai-powerhouse-by-investing-in-mathematics-271796) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-23 [How ChatGPT could change the face of advertising, without you even knowing about it](https://theconversation.com/how-chatgpt-could-change-the-face-of-advertising-without-you-even-knowing-about-it-270330) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-19 [People are getting their news from AI – and it’s altering their views](https://theconversation.com/people-are-getting-their-news-from-ai-and-its-altering-their-views-269354) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-19 [What the hyperproduction of AI slop is doing to science](https://theconversation.com/what-the-hyperproduction-of-ai-slop-is-doing-to-science-272250) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-18 [Why it’s so hard to tell if a piece of text was written by AI – even for AI](https://theconversation.com/why-its-so-hard-to-tell-if-a-piece-of-text-was-written-by-ai-even-for-ai-265181) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-17 [AI tools are being used to subject women in public life to online violence](https://theconversation.com/ai-tools-are-being-used-to-subject-women-in-public-life-to-online-violence-271703) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-17 [Ponzi schemes and financial bubbles: lessons from history](https://theconversation.com/ponzi-schemes-and-financial-bubbles-lessons-from-history-272188) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-16 [Slop, vibe coding and glazing: AI dominates 2025’s words of the year](https://theconversation.com/slop-vibe-coding-and-glazing-ai-dominates-2025s-words-of-the-year-269688) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-15 [After mass violence, trauma spreads socially. Here are 3 ways you can help reduce it](https://theconversation.com/after-mass-violence-trauma-spreads-socially-here-are-3-ways-you-can-help-reduce-it-272050) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-15 [Australia’s national plan says existing laws are enough to regulate AI. This is false hope](https://theconversation.com/australias-national-plan-says-existing-laws-are-enough-to-regulate-ai-this-is-false-hope-271725) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-15 [The ‘one chatbot per child’ model for AI in classrooms conflicts with what research shows: Learning is a social process](https://theconversation.com/the-one-chatbot-per-child-model-for-ai-in-classrooms-conflicts-with-what-research-shows-learning-is-a-social-process-269885) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-14 [The ‘AI Homeless Man Prank’ reveals a crisis in AI education](https://theconversation.com/the-ai-homeless-man-prank-reveals-a-crisis-in-ai-education-270623) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-12 [What’s at stake in Trump’s executive order aiming to curb state-level AI regulation](https://theconversation.com/whats-at-stake-in-trumps-executive-order-aiming-to-curb-state-level-ai-regulation-266668) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-12 [Can scientists detect life without knowing what it looks like? Research using machine learning offers a new way](https://theconversation.com/can-scientists-detect-life-without-knowing-what-it-looks-like-research-using-machine-learning-offers-a-new-way-271066) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-12 [How I rehumanize the college classroom for the AI-augmented age](https://theconversation.com/how-i-rehumanize-the-college-classroom-for-the-ai-augmented-age-269168) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-11 [With Nvidia’s second-best AI chips headed for China, the US shifts priorities from security to trade](https://theconversation.com/with-nvidias-second-best-ai-chips-headed-for-china-the-us-shifts-priorities-from-security-to-trade-271831) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-11 [AI’s errors may be impossible to eliminate – what that means for its use in health care](https://theconversation.com/ais-errors-may-be-impossible-to-eliminate-what-that-means-for-its-use-in-health-care-251036) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-11 [AI-generated political videos are more about memes and money than persuading and deceiving](https://theconversation.com/ai-generated-political-videos-are-more-about-memes-and-money-than-persuading-and-deceiving-268977) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-11 [What’s the safest way to walk home at night? We’ve created an AI-powered app that shows you](https://theconversation.com/whats-the-safest-way-to-walk-home-at-night-weve-created-an-ai-powered-app-that-shows-you-271710) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-11 [King Gizzard & The Lizard Wizard quit Spotify in protest, only for an AI doppelgänger to step in](https://theconversation.com/king-gizzard-and-the-lizard-wizard-quit-spotify-in-protest-only-for-an-ai-doppelganger-to-step-in-271735) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-10 [‘Artificial intelligence’ myths have existed for centuries – from the ancient Greeks to a pope’s chatbot](https://theconversation.com/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot-270175) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-10 [From early cars to generative AI, new technologies create demand for specialized materials](https://theconversation.com/from-early-cars-to-generative-ai-new-technologies-create-demand-for-specialized-materials-269241) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-09 [The metaverse is ushering in a new era of behind-the-scenes exploitation](https://theconversation.com/the-metaverse-is-ushering-in-a-new-era-of-behind-the-scenes-exploitation-269679) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-24 [Upscale Your Video Content for Just $36](https://www.techrepublic.com/article/videoproc-lifetime-family-license/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-24 [Alphabet-backed Motive Gears Up for IPO Amid AI Expansion and Legal Battles](https://www.techrepublic.com/article/news-motive-ipo/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-24 [MiniMax Unveils M2.1 to Bring Multilingual Programming Gains to Open AI Models](https://www.techrepublic.com/article/news-minimax-m2-release/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-23 [Nvidia Sets Sights on China Again as H200 Chip Shipments Near](https://www.techrepublic.com/article/news-nvidia-h200-chip-shipments-china/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-23 [Kargo Raises $42M for AI Warehouse Tech Plans](https://www.techrepublic.com/article/news-kargo-funding/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-22 [6 Key iPhone Air Features That Define Apple’s Thinnest iPhone](https://www.techrepublic.com/article/news-iphone-air-features/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-22 [OpenAI’s New AI Foundations Course Promises ‘Job-Ready’ Skills and Credential](https://www.techrepublic.com/article/news-openai-chatgpt-training-certifications/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-22 [AI Startup FINNY Raises $17M for Advisor Prospecting Push](https://www.techrepublic.com/article/news-ai-startup-finny-funding/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-22 [Instacart Hit With $60M FTC Settlement Over Hidden Fees](https://www.techrepublic.com/article/news-instacart-ftc-settlement/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-19 [Daily Tech Insider Breaks Down the Surge in Factory Robots, Flash Models, and Hyperscale Funding](https://www.techrepublic.com/article/news-best-of-dti-dec-15-19/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-19 [Palo Alto Networks, Google Cloud Expand Partnership in Multibillion-Dollar Deal](https://www.techrepublic.com/article/news-palo-alto-google-cloud-multibillion-dollar-deal/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-19 [AI Chip Shortage Could Raise Smartphone Prices in 2026](https://www.techrepublic.com/article/news-ai-chip-shortage-rising-smartphone-prices-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-19 [Trump Media Announces $6 Billion Merger With Fusion Power Developer TAE](https://www.techrepublic.com/article/news-trump-media-tae-6b-merger/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-19 [OWASP Drops First AI Agent Risk List](https://www.techrepublic.com/article/news-owasp-ai-agent-risk-list/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-19 [Nvidia and Google Back $6.6B AI Startup Lovable](https://www.techrepublic.com/article/news-nvidia-google-ai-funding-lovable/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-18 [Last-Minute Amazon Prime Deals for Holiday Shopping](https://www.techrepublic.com/article/news-last-minute-amazon-prime-deals-holiday-shopping-2025/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-18 [Inside China’s ‘Manhattan Project’: China Moves Closer to Chip Self-Reliance With Secret EUV Prototype](https://www.techrepublic.com/article/news-china-euv-prototype/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-18 [What Microsoft’s 2026 Product Plans Reveal About Its AI Push](https://www.techrepublic.com/article/news-microsoft-2026-product-plans/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-18 [This $25 Subscription Will Bring AI Into Your Business](https://www.techrepublic.com/article/1minai-pro-plan-lifetime-subscription/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-17 [Power Is the New Gold Rush for AI Data Centers](https://www.techrepublic.com/article/news-power-new-gold-rush-ai-data-centers/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-27 [AI Data Centers Demand More Than Copper Can Deliver](https://spectrum.ieee.org/rf-over-fiber) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-25 [How to Stay Ahead of AI as an Early-Career Engineer](https://spectrum.ieee.org/ai-effect-entry-level-jobs) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-24 [Drones Compete to Spot and Extinguish Brushfires](https://spectrum.ieee.org/wildfire-drones) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-16 [This AI Can Beat You At Rock-Paper-Scissors](https://spectrum.ieee.org/analog-reservoir-computer) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-10 [Why Vision AI Models Fail](https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-10 [Two New AI Ethics Certifications Available from IEEE](https://spectrum.ieee.org/two-new-ai-ethics-certifications) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-08 [Amazon’s “Catalog AI” Product Platform Helps You Shop Smarter](https://spectrum.ieee.org/abhishek-agrawal-amazon-catalog-ai) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-08 [Proactive Hearing Assistant Filters Through Voices in a Crowd](https://spectrum.ieee.org/proactive-ai-hearing-devices) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-04 [Are We Testing AI’s Intelligence the Wrong Way?](https://spectrum.ieee.org/melanie-mitchell) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-04 [Room-Size Particle Accelerators Go Commercial](https://spectrum.ieee.org/plasma-wakefield-acceleration) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-02 [AI’s Wrong Answers Are Bad. Its Wrong Reasoning Is Worse](https://spectrum.ieee.org/ai-reasoning-failures) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-01 [The Next Frontier in AI Isn’t Just More Data](https://spectrum.ieee.org/reinforcement-learning-environments) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-11-26 [TraffickCam Uses Computer Vision to Counter Human Trafficking](https://spectrum.ieee.org/traffickcam-human-trafficking-hotel-ai) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-11-25 [AI Agents Break Rules Under Everyday Pressure](https://spectrum.ieee.org/ai-agents-safety) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-11-23 [Safer Autonomous Vehicles Means Asking Them the Right Questions](https://spectrum.ieee.org/autonomous-vehicles-explainable-ai-decisions) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-11-22 [On Rereading Norbert Wiener’s The Human Use of Human Beings at 75](https://spectrum.ieee.org/on-rereading-norbert-wieners-the-human-use-of-human-beings-at-75) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-11-19 [Keys to Building an AI University: A Framework from NVIDIA](https://content.knowledgehub.wiley.com/the-roadmap-to-becoming-an-ai-university-industry-brief/) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-11-17 [Microfluidics Could Be the Answer to Cooling AI Chips](https://spectrum.ieee.org/microfluidics-cooling-ai-chips-corintis) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-11-17 [Your Laptop Isn’t Ready for LLMs. That’s About to Change](https://spectrum.ieee.org/ai-models-locally) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-11-13 [Smart Bandage Uses Electricity and Drugs to Heal Wounds](https://spectrum.ieee.org/smart-bandage-ai-electrical-stimulation) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-11-13 [China’s Tech Giants Race to Replace Nvidia’s AI Chips](https://spectrum.ieee.org/china-ai-chip) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-11-08 [AI Models Fail Miserably at This One Easy Task: Telling Time](https://spectrum.ieee.org/large-language-models-reading-clocks) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-11-04 [A Challenge to Roboticists: My Humanoid Olympics](https://spectrum.ieee.org/humanoid-robot-olympics) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-10-30 [AI Model Growth Outpaces Hardware Improvements](https://spectrum.ieee.org/mlperf-trends) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-10-30 [From Bottleneck to Breakthrough: AI in Chip Verification](https://spectrum.ieee.org/calibre-vision-ai-chip-design) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-10-29 [Scientists Need a Positive Vision for AI](https://spectrum.ieee.org/responsible-ai) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-10-27 [Your AI Agent Is Now a Target for Email Phishing](https://spectrum.ieee.org/ai-agent-phishing) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-10-22 [Agentic AI’s Hidden Data Trail—and How to Shrink It](https://spectrum.ieee.org/agentic-ai-security) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-10-21 [Real-time Audio Deepfakes Have Arrived](https://spectrum.ieee.org/real-time-audio-deepfake-vishing) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-10-21 [Inside the Best Weather-Forecasting AI in the World](https://spectrum.ieee.org/ai-weather-forecasting) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-23 [News Bytes 20251222: Federated AI Learning at 3 National Labs, AI “Doomers” Speak Out](https://insideainews.com/2025/12/23/news-bytes-20251222-federated-ai-learning-at-3-national-labs-ai-doomers-speak-out/) *(insideBIGDATA)*
+- [ ] 2025-12-19 [Smart Cities Go Digital: Why Brands Should Pay Attention](https://insideainews.com/2025/12/19/smart-cities-go-digital-why-brands-should-pay-attention/) *(insideBIGDATA)*
+- [ ] 2025-12-19 [VAST Data Selected by SciNet and SHARCNET in Canada](https://insideainews.com/2025/12/19/vast-data-selected-by-scinet-and-sharcnet-in-canada/) *(insideBIGDATA)*
+- [ ] 2025-12-19 [Element Critical Launches AI Data Center Platform with Mercuria, 26North, Arctos and Safanad](https://insideainews.com/2025/12/19/element-critical-launches-ai-data-center-platform-with-mercuria-26north-arctos-and-safanad/) *(insideBIGDATA)*
+- [ ] 2025-12-17 [Edge AI: Advanced Thermal Solutions Introduces Heat Sinks for NVIDIA Jetson Thor Modules](https://insideainews.com/2025/12/17/edge-ai-advanced-thermal-solutions-introduces-heat-sinks-for-nvidia-jetson-thor-modules/) *(insideBIGDATA)*
+- [ ] 2025-12-15 [As Q-Day Nears, A New Approach Is Needed for HPC and AI Data Security](https://insideainews.com/2025/12/15/as-q-day-nears-a-new-approach-is-needed-for-hpc-and-ai-data-security/) *(insideBIGDATA)*
+- [ ] 2025-12-15 [News Bytes 20251215: On-Off-On GPU Exports to China, the US-China Power Gap, Pocket-Sized HPC, Regulating AI](https://insideainews.com/2025/12/15/news-bytes-20251215-on-off-on-gpu-exports-to-china-the-us-china-power-gap-pocket-sized-hpc-regulating-ai/) *(insideBIGDATA)*
+- [ ] 2025-12-15 [Rocket Doctor AI: As the Healthcare Battle Rages, AI Can Help Bridge the Divide](https://insideainews.com/2025/12/15/rocket-doctor-ai-as-the-healthcare-battle-rages-ai-can-help-bridge-the-divide/) *(insideBIGDATA)*
+- [ ] 2025-12-10 [Personal ‘AI Supercomputer’ Runs 120B-Parameter LLMs On-Device, Tiiny AI Says](https://insideainews.com/2025/12/10/personal-ai-supercomputer-runs-120b-parameter-llms-on-device-tiiny-ai-says/) *(insideBIGDATA)*
+- [ ] 2025-12-10 [Study: Privacy as Productivity Tax, Data Fears Are Slowing Enterprise AI Adoption, Employees Bypass Security](https://insideainews.com/2025/12/10/study-privacy-as-productivity-tax-data-fears-are-slowing-enterprise-ai-adoption-employees-bypass-security/) *(insideBIGDATA)*
+- [ ] 2025-12-26 [5 Fun Docker Projects for Absolute Beginners](https://www.kdnuggets.com/5-fun-docker-projects-for-absolute-beginners) *(KDnuggets)*
+- [ ] 2025-12-24 [Top 7 Open Source OCR Models](https://www.kdnuggets.com/top-7-open-source-ocr-models) *(KDnuggets)*
+- [ ] 2025-12-23 [Probability Concepts You’ll Actually Use in Data Science](https://www.kdnuggets.com/probability-concepts-youll-actually-use-in-data-science) *(KDnuggets)*
+- [ ] 2025-12-23 [5 Emerging Trends in Data Engineering for 2026](https://www.kdnuggets.com/5-emerging-trends-in-data-engineering-for-2026) *(KDnuggets)*
+- [ ] 2025-12-22 [Gistr: The Smart AI Notebook for Organizing Knowledge](https://www.kdnuggets.com/gistr-the-smart-ai-notebook-for-organizing-knowledge) *(KDnuggets)*
+- [ ] 2025-12-22 [7 Tiny AI Models for Raspberry Pi](https://www.kdnuggets.com/7-tiny-ai-models-for-raspberry-pi) *(KDnuggets)*
+- [ ] 2025-12-19 [5 Useful Python Scripts to Automate Boring Everyday Tasks](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-everyday-tasks) *(KDnuggets)*
+- [ ] 2025-12-18 [Prompt Engineering for Data Quality and Validation Checks](https://www.kdnuggets.com/prompt-engineering-for-data-quality-and-validation-checks) *(KDnuggets)*
+- [ ] 2025-12-18 [Hosting Language Models on a Budget](https://www.kdnuggets.com/hosting-language-models-on-a-budget) *(KDnuggets)*
+- [ ] 2025-12-18 [5 Top AI-Powered App Builders](https://www.kdnuggets.com/5-top-ai-powered-app-builders) *(KDnuggets)*
+- [ ] 2025-12-28 [Is Data Centre Impact Being Undervalued in India’s GDP Calculations?](https://analyticsindiamag.com/ai-features/is-data-centre-impact-being-undervalued-in-indias-gdp-calculations/) *(Analytics India Magazine)*
+- [ ] 2025-12-27 [Building an AI Economy That Includes Everyone](https://analyticsindiamag.com/ai-features/building-an-ai-economy-that-includes-everyone/) *(Analytics India Magazine)*
+- [ ] 2025-12-26 [Coforge to Acquire Encora in $2.35 Bn All-Stock Mega Deal to Strengthen AI Engineering](https://analyticsindiamag.com/ai-news-updates/coforge-to-acquire-encora-in-2-35-bn-all-stock-mega-deal-to-strengthen-ai-engineering/) *(Analytics India Magazine)*
+- [ ] 2025-12-26 [Infosys To Offer ₹21 lakh CTC For Freshers With Specialised Skills](https://analyticsindiamag.com/ai-news-updates/infosys-to-offer-%e2%82%b921-lakh-ctc-for-freshers-with-specialised-skills/) *(Analytics India Magazine)*
+- [ ] 2025-12-26 [Linux Foundation’s Safe Harbour for the Agentic AI Era](https://analyticsindiamag.com/global-tech/linux-foundations-safe-harbour-for-the-agentic-ai-era/) *(Analytics India Magazine)*
+- [ ] 2025-12-26 [Mangaluru’s Cost Advantages Make it an Ideal Data Centre Hub: KDEM–SBP–Deloitte Study](https://analyticsindiamag.com/ai-news-updates/mangalurus-cost-advantages-make-it-an-ideal-data-centre-hub-kdem-sbp-deloitte-study/) *(Analytics India Magazine)*
+- [ ] 2025-12-26 [Why India Still Doesn’t Have Its Own Database Company](https://analyticsindiamag.com/global-tech/why-india-still-doesnt-have-its-own-database-company/) *(Analytics India Magazine)*
+- [ ] 2025-12-26 [From Karnataka to Gujarat, How States’ Startup Policies in 2025 Revved Up Innovation](https://analyticsindiamag.com/ai-trends/from-karnataka-to-gujarat-how-states-startup-policies-in-2025-revved-up-innovation/) *(Analytics India Magazine)*
+- [ ] 2025-12-26 [These 8 Tier-2,3 Cities Powered India’s Startup Growth in 2025](https://analyticsindiamag.com/ai-trends/these-8-tier-23-cities-powered-indias-startup-growth-in-2025/) *(Analytics India Magazine)*
+- [ ] 2025-12-25 [How Do You Price the GPU Boom?](https://analyticsindiamag.com/global-tech/how-do-you-price-the-gpu-boom/) *(Analytics India Magazine)*
+- [ ] 2025-12-25 [Groq to Now Help NVIDIA Build Inference Tech](https://analyticsindiamag.com/ai-news-updates/groq-to-now-help-nvidia-build-inference-tech/) *(Analytics India Magazine)*
+- [ ] 2025-12-25 [Top 10 Companies That Crowned Hyderabad as India’s Greenfield GCC Leader in 2025](https://analyticsindiamag.com/ai-features/top-10-companies-that-crowned-hyderabad-as-indias-greenfield-gcc-leader-in-2025/) *(Analytics India Magazine)*
+- [ ] 2025-12-24 [Coforge Launches EvolveOps.AI, an Agentic AI-Powered IT Operations Platform](https://analyticsindiamag.com/ai-news-updates/coforge-launches-evolveops-ai-an-agentic-ai-powered-it-operations-platform/) *(Analytics India Magazine)*
+- [ ] 2025-12-24 [ServiceNow to Buy Armis for $7.75 Billion](https://analyticsindiamag.com/ai-news-updates/servicenow-to-buy-armis-for-7-75-billion/) *(Analytics India Magazine)*
+- [ ] 2025-12-24 [The AI Coding Gold Rush Ends Where Harness Begins](https://analyticsindiamag.com/ai-features/the-ai-coding-gold-rush-ends-where-harness-begins/) *(Analytics India Magazine)*
+- [ ] 2025-12-28 [Why AI in Africa Depends on Telecom Infrastructure](https://www.bloomberg.com/news/videos/2025-12-28/why-ai-in-africa-depends-on-telecom-infrastructure) *(Bloomberg Technology)*
+- [ ] 2025-12-27 [China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems) *(Bloomberg Technology)*
+- [ ] 2025-12-27 [Bringing High-Speed Internet to South Africa's Townships](https://www.bloomberg.com/news/videos/2025-12-27/bringing-high-speed-internet-to-south-africa-s-townships) *(Bloomberg Technology)*
+- [ ] 2025-12-26 [FaZe Clan Influencers Exit Over Contract Dispute With New Owner](https://www.bloomberg.com/news/articles/2025-12-26/faze-clan-influencers-exit-over-contract-dispute-with-new-owner) *(Bloomberg Technology)*
+- [ ] 2025-12-26 [Ellison, Paramount Put Pressure on WBD for a Deal](https://www.bloomberg.com/news/videos/2025-12-26/ellison-paramount-put-pressure-on-wbd-for-a-deal-video) *(Bloomberg Technology)*
+- [ ] 2025-12-26 [Nvidia Up on AI Licensing Deal, Biohaven Down on Study Results, Coforge Up](https://www.bloomberg.com/news/videos/2025-12-26/nvidia-up-on-ai-deal-biohaven-down-on-study-results-video) *(Bloomberg Technology)*
+- [ ] 2025-12-26 [ServiceNow $12 Billion Deal Spree Is ‘Deja Vu’ of CEO’s SAP Days](https://www.bloomberg.com/news/articles/2025-12-26/servicenow-12-billion-deal-spree-is-deja-vu-of-ceo-s-sap-days) *(Bloomberg Technology)*
+- [ ] 2025-12-26 [Coforge Buys Encora at $2.35 Billion EV in All-Stock Deal](https://www.bloomberg.com/news/articles/2025-12-26/coforge-to-buy-encora-at-2-35-billion-ev-through-share-swap) *(Bloomberg Technology)*
+- [ ] 2025-12-26 [Waymo Expansion Seeks to Make Robotaxis Relevant](https://www.bloomberg.com/news/newsletters/2025-12-26/waymo-expansion-seeks-to-make-robotaxis-relevant) *(Bloomberg Technology)*
+- [ ] 2025-12-26 [Russia Delays Debut Launch of New Rocket at Baiterek Project](https://www.bloomberg.com/news/articles/2025-12-26/russia-delays-debut-launch-of-new-rocket-under-baiterek-project) *(Bloomberg Technology)*
+- [ ] 2025-12-28 [‘This Will Be a Stressful Job’: OpenAI Is Hiring for a Position That Sounds Horrifying](https://gizmodo.com/this-will-be-a-stressful-job-openai-is-hiring-for-a-position-that-sounds-horrifying-2000703759) *(Gizmodo – Technology)*
+- [ ] 2025-12-27 [Tim Blake Nelson Wrote a Novel About Superhero Actors](https://gizmodo.com/tim-blake-nelson-wrote-a-novel-about-superhero-actors-2000703760) *(Gizmodo – Technology)*
+- [ ] 2025-12-27 [Why Is Wonder Woman Like This?](https://gizmodo.com/why-is-wonder-woman-like-this-2000702225) *(Gizmodo – Technology)*
+- [ ] 2025-12-27 [Zack Snyder Reveals Henry Cavill in the Reeves Superman Suit](https://gizmodo.com/zack-snyder-reveals-henry-cavill-in-the-reeves-superman-suit-2000703752) *(Gizmodo – Technology)*
+- [ ] 2025-12-27 [California Might Tax Billionaires. Cue the Inevitable Tech Billionaire Tantrum](https://gizmodo.com/california-might-tax-billionaires-cue-the-inevitable-tech-billionaire-tantrum-2000703411) *(Gizmodo – Technology)*
+- [ ] 2025-12-27 [‘Ben 10’ Was, First and Foremost, for Kids—and Also for Itself](https://gizmodo.com/ben-10-was-first-and-foremost-for-kids-and-also-for-itself-2000703519) *(Gizmodo – Technology)*
+- [ ] 2025-12-27 [‘Last Airbender’ Fans Will Fight to See Their ‘Avatar’ in Theaters](https://gizmodo.com/last-airbender-fans-will-fight-to-see-their-avatar-in-theaters-2000703727) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [‘Wicked: For Good’ Comes Home Next Week With a Bubble Full of Extras](https://gizmodo.com/wicked-for-good-comes-home-next-week-with-a-bubble-full-of-extras-2000703673) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [Scientists Make Material That Can Morph Into Anything With the Pull of a String](https://gizmodo.com/scientists-make-material-that-can-morph-into-anything-with-the-pull-of-a-string-2000703588) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [Uh Oh: Male Mosquitoes Can Feed on Our Blood, Too](https://gizmodo.com/uh-oh-male-mosquitoes-can-feed-on-our-blood-too-study-finds-2000703485) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [James Cameron Will Tell Us the Future of ‘Avatar,’ No Matter What](https://gizmodo.com/james-cameron-avatar-4-5-press-conference-2000703566) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [Deepfakes Leveled up in 2025—Here’s What’s Coming Next](https://gizmodo.com/deepfakes-leveled-up-in-2025-heres-whats-coming-next-2000703649) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [‘Stranger Things’ Star Jamie Campbell Bower on Playing Vecna’s Variations](https://gizmodo.com/stranger-things-star-jamie-campbell-bower-on-playing-vecnas-variations-2000703553) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [Oracle’s AI Push Is Leading to Its Worst Quarter Since 2001](https://gizmodo.com/oracles-ai-push-is-leading-to-its-worst-quarter-since-2001-2000703605) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [LG’s Monstrous 52-Inch 5K Gaming Monitor Will Swallow Up Your Desk](https://gizmodo.com/lgs-monstrous-52-inch-5k-gaming-monitor-will-swallow-up-your-desk-2000703616) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [Starlink Rival Launches Its Largest Satellite Yet for Space-Based Cellular Network](https://gizmodo.com/starlink-rival-launches-its-largest-satellite-yet-for-space-based-cellular-network-2000703460) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [How the ‘Demon Slayer’ Studio Broke Laws of Anime Physics to Bring ‘Infinity Castle’ Fights to Life](https://gizmodo.com/demon-slayer-infinity-castle-anime-ufotable-trilogy-akaza-tanjiro-2000703501) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [Elon Musk Says He’s Removing ‘Sustainable’ From Tesla’s Mission](https://gizmodo.com/elon-musk-says-hes-removing-sustainable-from-teslas-mission-2000703528) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [‘Zombie Stars’ Might Be a Beacon in Our Search for Dark Matter](https://gizmodo.com/zombie-stars-might-be-a-beacon-in-our-search-for-dark-matter-2000703512) *(Gizmodo – Technology)*
+- [ ] 2025-12-26 [South Park Writer Snagged ‘Trump-Kennedy Center’ Web Domains Months Ago](https://gizmodo.com/south-park-writer-snagged-trump-kennedy-center-web-domains-months-ago-2000703562) *(Gizmodo – Technology)*
+- [ ] 2025-12-27 [Samsung's two new speakers will deliver crisp audio while blending into your decor](https://www.engadget.com/audio/speakers/samsungs-two-new-speakers-will-deliver-crisp-audio-while-blending-into-your-decor-230053770.html?src=rss) *(Engadget)*
+- [ ] 2025-12-27 [OpenAI is hiring a new Head of Preparedness to try to predict and mitigate AI's harms](https://www.engadget.com/ai/openai-is-hiring-a-new-head-of-preparedness-to-try-to-predict-and-mitigate-ais-harms-220330486.html?src=rss) *(Engadget)*
+- [ ] 2025-12-27 [Here’s the first real look at the Retroid Pocket 6 running PS2 games](https://www.engadget.com/gaming/heres-the-first-real-look-at-the-retroid-pocket-6-running-ps2-games-193624145.html?src=rss) *(Engadget)*
+- [ ] 2025-12-27 [Stardew Valley players on the Nintendo Switch 2 get a free upgrade](https://www.engadget.com/gaming/nintendo/stardew-valley-players-on-the-nintendo-switch-2-get-a-free-upgrade-174849697.html?src=rss) *(Engadget)*
+- [ ] 2025-12-26 [New York State will require warning labels on social media platforms](https://www.engadget.com/social-media/new-york-state-will-require-warning-labels-on-social-media-platforms-210306716.html?src=rss) *(Engadget)*
+- [ ] 2025-12-26 [What we listened to in 2025](https://www.engadget.com/entertainment/music/what-we-listened-to-in-2025-201308584.html?src=rss) *(Engadget)*
+- [ ] 2025-12-26 [The best iPad accessories for 2026](https://www.engadget.com/computing/accessories/best-ipad-accessories-130018595.html?src=rss) *(Engadget)*
+- [ ] 2025-12-26 [You may soon be able to change your Gmail address](https://www.engadget.com/computing/you-may-soon-be-able-to-change-your-gmail-address-165633905.html?src=rss) *(Engadget)*
+- [ ] 2025-12-26 [LG announces line of premium gaming monitors that offer 5K visuals](https://www.engadget.com/computing/accessories/lg-announces-line-of-premium-gaming-monitors-that-offer-5k-visuals-165224945.html?src=rss) *(Engadget)*
+- [ ] 2025-12-26 [Our favorite books we read in 2025](https://www.engadget.com/entertainment/our-favorite-books-we-read-in-2025-160000704.html?src=rss) *(Engadget)*
+- [ ] 2025-12-26 [LG will show off a humanoid robot for household chores at CES 2026](https://www.engadget.com/home/smart-home/lg-will-show-off-a-humanoid-robot-for-household-chores-at-ces-2026-145411218.html?src=rss) *(Engadget)*
+- [ ] 2025-12-26 [Apple will allow third-party app stores and payment processing in Brazil](https://www.engadget.com/big-tech/apple-will-allow-third-party-app-stores-and-payment-processing-in-brazil-135114824.html?src=rss) *(Engadget)*
+- [ ] 2025-12-26 [How to find lost AirPods](https://www.engadget.com/audio/headphones/how-to-find-lost-airpods-120000144.html?src=rss) *(Engadget)*
+- [ ] 2025-12-26 [The best SSDs for PS5 in 2026](https://www.engadget.com/gaming/playstation/best-ssd-for-ps5-130004175.html?src=rss) *(Engadget)*
+- [ ] 2025-12-26 [Xiaomi's 17 Ultra Leica Edition smartphone comes with a manual zoom ring](https://www.engadget.com/mobile/smartphones/xiaomis-17-ultra-leica-edition-smartphone-comes-with-a-manual-zoom-ring-093502893.html?src=rss) *(Engadget)*
+- [ ] 2025-12-26 [The best microSD cards for the Nintendo Switch 2](https://www.engadget.com/gaming/nintendo/best-microsd-cards-for-nintendo-switch-2-160052947.html?src=rss) *(Engadget)*
+- [ ] 2025-12-25 [The best PS5 accessories for 2026](https://www.engadget.com/gaming/playstation/best-playstation-5-accessories-140018902.html?src=rss) *(Engadget)*
+- [ ] 2025-12-25 [How to set up a PS5 for a child](https://www.engadget.com/gaming/playstation/how-to-set-up-a-ps5-for-a-child-160039866.html?src=rss) *(Engadget)*
+- [ ] 2025-12-25 [How to transfer your games to the Nintendo Switch 2](https://www.engadget.com/gaming/nintendo/how-to-transfer-your-games-to-the-nintendo-switch-2-130000702.html?src=rss) *(Engadget)*
+- [ ] 2025-12-25 [2025 Christmas Day NFL games: How to watch today, full streaming schedule and more](https://www.engadget.com/entertainment/streaming/2025-christmas-day-nfl-games-how-to-watch-today-full-streaming-schedule-and-more-233022063.html?src=rss) *(Engadget)*
+- [ ] 2025-12-25 [The best Nintendo Switch 2 games for 2026](https://www.engadget.com/gaming/nintendo/best-nintendo-switch-2-games-070007467.html?src=rss) *(Engadget)*
+- [ ] 2025-12-25 [Steam and Valve's online games are partially down](https://www.engadget.com/gaming/pc/steam-and-valves-online-games-are-partially-down-191033988.html?src=rss) *(Engadget)*
+- [ ] 2025-12-25 [The best microSD cards in 2026](https://www.engadget.com/computing/accessories/best-microsd-card-130038282.html?src=rss) *(Engadget)*
+- [ ] 2025-12-24 [Today's the last day to get $100 off the PS5 and PS5 Pro](https://www.engadget.com/gaming/playstation/todays-the-last-day-to-get-100-off-the-ps5-and-ps5-pro-181454333.html?src=rss) *(Engadget)*
+- [ ] 2025-12-24 [The best live TV streaming services to cut cable in 2026](https://www.engadget.com/entertainment/streaming/best-live-tv-streaming-service-133000410.html?src=rss) *(Engadget)*
+- [ ] 2025-12-24 [The best VPN deals: Up to 88 percent off ProtonVPN, Surfshark, ExpressVPN, NordVPN and more](https://www.engadget.com/deals/the-best-vpn-deals-up-to-88-percent-off-protonvpn-surfshark-expressvpn-nordvpn-and-more-120056445.html?src=rss) *(Engadget)*
+- [ ] 2025-12-24 [How to set up an iPad for a child](https://www.engadget.com/mobile/tablets/how-to-set-up-an-ipad-for-a-child-160001671.html?src=rss) *(Engadget)*
+- [ ] 2025-12-24 [Pro-Russian hacker group claims responsibility for DDoS attack on French postal service](https://www.engadget.com/cybersecurity/pro-russian-hacker-group-claims-responsibility-for-ddos-attack-on-french-postal-service-140015323.html?src=rss) *(Engadget)*
+- [ ] 2025-12-24 [Toyota's Prius Prime saved me gas money but probably not the environment](https://www.engadget.com/transportation/toyotas-prius-prime-saved-me-gas-money-but-probably-not-the-environment-133027378.html?src=rss) *(Engadget)*
+- [ ] 2025-12-24 [How to redeem game codes on the Nintendo Switch 2](https://www.engadget.com/gaming/nintendo/how-to-redeem-game-codes-on-the-nintendo-switch-2-130059847.html?src=rss) *(Engadget)*
+- [ ] 2025-12-24 [Samsung's latest Odyssey gaming monitor has a 32-inch 6K screen with glasses-free 3D](https://www.engadget.com/computing/accessories/samsungs-latest-odyssey-gaming-monitor-has-a-32-inch-6k-screen-with-glasses-free-3d-130051748.html?src=rss) *(Engadget)*
+- [ ] 2025-12-24 [US bans former EU Commissioner and others over social media rules](https://www.engadget.com/big-tech/us-bans-former-eu-commissioner-and-others-over-social-media-rules-121804097.html?src=rss) *(Engadget)*
+- [ ] 2025-12-24 [The best streaming deals: Get 50 percent off MasterClass subscriptions, plus save on Starz, Audible, Crunchyroll and others](https://www.engadget.com/deals/the-best-streaming-deals-get-50-percent-off-masterclass-subscriptions-plus-save-on-starz-audible-crunchyroll-and-others-133028536.html?src=rss) *(Engadget)*
+- [ ] 2025-12-24 [The best streaming services in 2026](https://www.engadget.com/entertainment/streaming/best-streaming-services-154527042.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [Nintendo has huge discounts on Switch 2 games in its holiday sale](https://www.engadget.com/gaming/nintendo/nintendo-has-huge-discounts-on-switch-2-games-in-its-holiday-sale-220058951.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [IO Interactive's 007 First Light has been delayed until May 27](https://www.engadget.com/gaming/io-interactives-007-first-light-has-been-delayed-until-may-27-194809718.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [Engadget Podcast: Why is the Nex Playground 'AI console' such a hit?](https://www.engadget.com/social-media/engadget-podcast-why-is-the-nex-playground-ai-console-such-a-hit-181151201.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [Xbox cloud gaming comes to newer Amazon Fire TV models](https://www.engadget.com/gaming/xbox/xbox-cloud-gaming-comes-to-newer-amazon-fire-tv-models-163517432.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [New York Times reporter files lawsuit against AI companies](https://www.engadget.com/ai/new-york-times-reporter-files-lawsuit-against-ai-companies-161624268.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [Apple's iOS 26.3 will introduce proximity pairing to third-party devices in the EU](https://www.engadget.com/mobile/apples-ios-263-will-introduce-proximity-pairing-to-third-party-devices-in-the-eu-133037696.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [The best gifts cards to give this holiday season: Amazon, Apple, Best Buy and others](https://www.engadget.com/the-best-gifts-cards-to-give-this-holiday-season-amazon-apple-best-buy-and-others-110032592.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [2025 was the year Xbox died](https://www.engadget.com/gaming/xbox/2025-was-the-year-xbox-died-130000467.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [CES 2026: Everything we're expecting from tech's biggest conference in January](https://www.engadget.com/big-tech/ces-2026-everything-were-expecting-from-techs-biggest-conference-in-january-120000106.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [The Morning After: The best games of 2025](https://www.engadget.com/general/the-morning-after-engadget-newsletter-121545111.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [How to set up an Apple Watch for a child](https://www.engadget.com/wearables/how-to-set-up-an-apple-watch-for-a-child-120051230.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [The best SSDs in 2026](https://www.engadget.com/computing/accessories/best-ssds-140014262.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [The best Nintendo Switch 2 accessories for 2026](https://www.engadget.com/gaming/nintendo/best-nintendo-switch-2-accessories-070011952.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [US bans new foreign-made drones and components](https://www.engadget.com/big-tech/us-bans-new-foreign-made-drones-and-components-053201854.html?src=rss) *(Engadget)*
+- [ ] 2025-12-23 [Pirate group Anna's Archive says it has scraped Spotify in its entirety](https://www.engadget.com/entertainment/streaming/pirate-group-annas-archive-says-it-has-scraped-spotify-in-its-entirety-211914755.html?src=rss) *(Engadget)*
+- [ ] 2025-12-22 [Call of Duty co-creator Vince Zampella killed in a car crash](https://www.engadget.com/gaming/call-of-duty-co-creator-vince-zampella-killed-in-a-car-crash-204046354.html?src=rss) *(Engadget)*
+- [ ] 2024-03-29 [Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html) *(Google Research Blog)*
+- [ ] 2024-03-28 [AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html) *(Google Research Blog)*
+- [ ] 2024-03-20 [Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html) *(Google Research Blog)*
+- [ ] 2024-03-20 [Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html) *(Google Research Blog)*
+- [ ] 2024-03-19 [ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html) *(Google Research Blog)*
+- [ ] 2024-03-19 [SCIN: A new resource for representative dermatology images](http://blog.research.google/2024/03/scin-new-resource-for-representative.html) *(Google Research Blog)*
+- [ ] 2024-03-18 [MELON: Reconstructing 3D objects from images with unknown poses](http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html) *(Google Research Blog)*
+- [ ] 2024-03-15 [HEAL: A framework for health equity assessment of machine learning performance](http://blog.research.google/2024/03/heal-framework-for-health-equity.html) *(Google Research Blog)*
+- [ ] 2024-03-14 [Cappy: Outperforming and boosting large multi-task language models with a small scorer](http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html) *(Google Research Blog)*
+- [ ] 2024-03-12 [Talk like a graph: Encoding graphs for large language models](http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html) *(Google Research Blog)*
+- [ ] 2024-03-11 [Chain-of-table: Evolving tables in the reasoning chain for table understanding](http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html) *(Google Research Blog)*
+- [ ] 2024-03-08 [Health-specific embedding tools for dermatology and pathology](http://blog.research.google/2024/03/health-specific-embedding-tools-for.html) *(Google Research Blog)*
+- [ ] 2024-03-07 [Social learning: Collaborative learning with large language models](http://blog.research.google/2024/03/social-learning-collaborative-learning.html) *(Google Research Blog)*
+- [ ] 2024-03-06 [Croissant: a metadata format for ML-ready datasets](http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html) *(Google Research Blog)*
+- [ ] 2024-03-04 [Google at APS 2024](http://blog.research.google/2024/03/google-at-aps-2024.html) *(Google Research Blog)*
+- [ ] 2024-02-22 [VideoPrism: A foundational visual encoder for video understanding](http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html) *(Google Research Blog)*
+- [ ] 2024-02-21 [Advances in private training for production on-device language models](http://blog.research.google/2024/02/advances-in-private-training-for.html) *(Google Research Blog)*
+- [ ] 2024-02-14 [Learning the importance of training data under concept drift](http://blog.research.google/2024/02/learning-importance-of-training-data.html) *(Google Research Blog)*
+- [ ] 2024-02-13 [DP-Auditorium: A flexible library for auditing differential privacy](http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html) *(Google Research Blog)*
+- [ ] 2024-02-06 [Graph neural networks in TensorFlow](http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html) *(Google Research Blog)*
+- [ ] 2024-02-02 [A decoder-only foundation model for time-series forecasting](http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html) *(Google Research Blog)*
+- [ ] 2024-02-02 [Intervening on early readouts for mitigating spurious features and simplicity bias](http://blog.research.google/2024/02/intervening-on-early-readouts-for.html) *(Google Research Blog)*
+- [ ] 2024-01-31 [MobileDiffusion: Rapid text-to-image generation on-device](http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html) *(Google Research Blog)*
+- [ ] 2024-01-26 [Mixed-input matrix multiplication performance optimizations](http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html) *(Google Research Blog)*
+- [ ] 2024-01-23 [Exphormer: Scaling transformers for graph-structured data](http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html) *(Google Research Blog)*
+- [ ] 2025-12-22 [One in a million: celebrating the customers shaping AI’s future](https://openai.com/index/one-in-a-million-customers) *(OpenAI News)*
+- [ ] 2025-12-22 [Continuously hardening ChatGPT Atlas against prompt injection](https://openai.com/index/hardening-atlas-against-prompt-injection) *(OpenAI News)*
+- [ ] 2025-12-18 [Evaluating chain-of-thought monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability) *(OpenAI News)*
+- [ ] 2025-12-18 [Deepening our collaboration with the U.S. Department of Energy](https://openai.com/index/us-department-of-energy-collaboration) *(OpenAI News)*
+- [ ] 2025-12-18 [AI literacy resources for teens and parents](https://openai.com/index/ai-literacy-resources-for-teens-and-parents) *(OpenAI News)*
+- [ ] 2025-12-18 [Updating our Model Spec with teen protections](https://openai.com/index/updating-model-spec-with-teen-protections) *(OpenAI News)*
+- [ ] 2025-12-18 [Introducing GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex) *(OpenAI News)*
+- [ ] 2025-12-18 [Introducing GPT-5.2-Codex](https://openai.com/index/gpt-5-2-codex) *(OpenAI News)*
+- [ ] 2025-12-18 [Addendum to GPT-5.2 System Card: GPT-5.2-Codex](https://openai.com/index/gpt-5-2-codex-system-card) *(OpenAI News)*
+- [ ] 2025-12-17 [Introducing OpenAI Academy for News Organizations](https://openai.com/index/openai-academy-for-news-organizations) *(OpenAI News)*
+- [ ] 2025-12-17 [Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt) *(OpenAI News)*
+- [ ] 2025-12-16 [Evaluating AI’s ability to perform scientific research tasks](https://openai.com/index/frontierscience) *(OpenAI News)*
+- [ ] 2025-12-16 [Measuring AI’s capability to accelerate biological research](https://openai.com/index/accelerating-biological-research-in-the-wet-lab) *(OpenAI News)*
+- [ ] 2025-12-16 [The new ChatGPT Images is here](https://openai.com/index/new-chatgpt-images-is-here) *(OpenAI News)*
+- [ ] 2025-12-12 [BNY builds “AI for everyone, everywhere” with OpenAI](https://openai.com/index/bny) *(OpenAI News)*
+- [ ] 2025-12-12 [How We Used Codex to Ship Sora for Android in 28 Days](https://openai.com/index/shipping-sora-for-android-with-codex) *(OpenAI News)*
+- [ ] 2025-12-12 [BBVA and OpenAI collaborate to transform global banking](https://openai.com/index/bbva-collaboration-expansion) *(OpenAI News)*
+- [ ] 2025-12-11 [Advancing science and math with GPT-5.2](https://openai.com/index/gpt-5-2-for-science-and-math) *(OpenAI News)*
+- [ ] 2025-12-11 [Update to GPT-5 System Card: GPT-5.2](https://openai.com/index/gpt-5-system-card-update-gpt-5-2) *(OpenAI News)*
+- [ ] 2025-12-11 [Increasing revenue 300% by bringing AI to SMBs](https://openai.com/index/podium) *(OpenAI News)*
+- [ ] 2025-12-11 [Introducing GPT-5.2](https://openai.com/index/introducing-gpt-5-2) *(OpenAI News)*
+- [ ] 2025-12-11 [The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora](https://openai.com/index/disney-sora-agreement) *(OpenAI News)*
+- [ ] 2025-12-11 [Ten years](https://openai.com/index/ten-years) *(OpenAI News)*
+- [ ] 2025-12-10 [Strengthening cyber resilience as AI capabilities advance](https://openai.com/index/strengthening-cyber-resilience) *(OpenAI News)*
+- [ ] 2025-12-09 [How Scout24 is building the next generation of real-estate search with AI](https://openai.com/index/scout24) *(OpenAI News)*
+- [ ] 2025-12-09 [OpenAI co-founds Agentic AI Foundation, donates AGENTS.md](https://openai.com/index/agentic-ai-foundation) *(OpenAI News)*
+- [ ] 2025-12-09 [Launching our first OpenAI Certifications courses](https://openai.com/index/openai-certificate-courses) *(OpenAI News)*
+- [ ] 2025-12-09 [OpenAI appoints Denise Dresser as Chief Revenue Officer](https://openai.com/index/openai-appoints-denise-dresser) *(OpenAI News)*
+- [ ] 2025-12-09 [Building AI fluency at scale with ChatGPT Enterprise](https://openai.com/index/commonwealth-bank-of-australia) *(OpenAI News)*
+- [ ] 2025-12-09 [Bringing powerful AI to millions across Europe with Deutsche Telekom](https://openai.com/index/deutsche-telekom-collaboration) *(OpenAI News)*
+- [ ] 2025-12-08 [Instacart and OpenAI partner on AI shopping experiences](https://openai.com/index/instacart-partnership) *(OpenAI News)*
+- [ ] 2025-12-08 [The state of enterprise AI](https://openai.com/index/the-state-of-enterprise-ai-2025-report) *(OpenAI News)*
+- [ ] 2025-12-08 [How Virgin Atlantic uses AI to enhance every step of travel](https://openai.com/index/virgin-atlantic-oliver-byers) *(OpenAI News)*
+- [ ] 2025-12-04 [Introducing OpenAI for Australia](https://openai.com/global-affairs/openai-for-australia) *(OpenAI News)*
+- [ ] 2025-12-03 [OpenAI to acquire Neptune](https://openai.com/index/openai-to-acquire-neptune) *(OpenAI News)*
+- [ ] 2025-12-03 [How confessions can keep language models honest](https://openai.com/index/how-confessions-can-keep-language-models-honest) *(OpenAI News)*
+- [ ] 2025-12-03 [Announcing the initial People-First AI Fund grantees](https://openai.com/index/people-first-ai-fund-grantees) *(OpenAI News)*
+- [ ] 2025-12-01 [Inside Mirakl's agentic commerce vision](https://openai.com/index/mirakl) *(OpenAI News)*
+- [ ] 2025-12-01 [Funding grants for new research into AI and mental health](https://openai.com/index/ai-mental-health-research-grants) *(OpenAI News)*
+- [ ] 2025-12-01 [OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”](https://openai.com/index/norad-holiday-collaboration) *(OpenAI News)*
+- [ ] 2025-12-01 [Accenture and OpenAI accelerate enterprise AI success](https://openai.com/index/accenture-partnership) *(OpenAI News)*
+- [ ] 2025-12-01 [OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption](https://openai.com/index/thrive-holdings) *(OpenAI News)*
+- [ ] 2025-11-26 [Mixpanel security incident: what OpenAI users need to know](https://openai.com/index/mixpanel-incident) *(OpenAI News)*
+- [ ] 2025-11-25 [Expanding data residency access to business customers worldwide](https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide) *(OpenAI News)*
+- [ ] 2025-11-25 [Our approach to mental health-related litigation](https://openai.com/index/mental-health-litigation-approach) *(OpenAI News)*
+- [ ] 2025-11-25 [Inside JetBrains—the company reshaping how the world writes code](https://openai.com/index/jetbrains-2025) *(OpenAI News)*
+- [ ] 2025-11-24 [Introducing shopping research in ChatGPT](https://openai.com/index/chatgpt-shopping-research) *(OpenAI News)*
+- [ ] 2025-11-24 [GPT-5 and the future of mathematical discovery](https://openai.com/index/gpt-5-mathematical-discovery) *(OpenAI News)*
+- [ ] 2025-11-20 [OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain](https://openai.com/index/openai-and-foxconn-collaborate) *(OpenAI News)*
+- [ ] 2025-11-20 [Helping 1,000 small businesses build with AI](https://openai.com/index/small-business-ai-jam) *(OpenAI News)*
+- [ ] 2025-11-20 [Early experiments in accelerating science with GPT-5](https://openai.com/index/accelerating-science-gpt-5) *(OpenAI News)*
+- [ ] 2025-11-19 [Strengthening our safety ecosystem with external testing](https://openai.com/index/strengthening-safety-with-external-testing) *(OpenAI News)*
+- [ ] 2025-11-19 [How evals drive the next chapter in AI for businesses](https://openai.com/index/evals-drive-next-chapter-of-ai) *(OpenAI News)*
+- [ ] 2025-11-19 [OpenAI and Target team up on new AI-powered experiences](https://openai.com/index/target-partnership) *(OpenAI News)*
+- [ ] 2025-11-19 [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max) *(OpenAI News)*
+- [ ] 2025-11-19 [Teacher Access Terms](https://openai.com/policies/education-terms) *(OpenAI News)*
+- [ ] 2025-11-19 [A free version of ChatGPT built for teachers](https://openai.com/index/chatgpt-for-teachers) *(OpenAI News)*
+- [ ] 2025-11-19 [GPT-5.1-Codex-Max System Card](https://openai.com/index/gpt-5-1-codex-max-system-card) *(OpenAI News)*
+- [ ] 2025-11-19 [How Scania is accelerating work with AI across its global workforce](https://openai.com/index/scania) *(OpenAI News)*
+- [ ] 2025-11-18 [Intuit and OpenAI join forces on new AI-powered experiences](https://openai.com/index/intuit-partnership) *(OpenAI News)*
+- [ ] 2025-11-17 [OpenAI named Emerging Leader in Generative AI](https://openai.com/index/gartner-2025-emerging-leader) *(OpenAI News)*
+- [ ] 2025-11-14 [Introducing OpenAI for Ireland](https://openai.com/index/openai-for-ireland) *(OpenAI News)*
+- [ ] 2025-11-13 [Understanding neural networks through sparse circuits](https://openai.com/index/understanding-neural-networks-through-sparse-circuits) *(OpenAI News)*
+- [ ] 2025-11-13 [Introducing GPT-5.1 for developers](https://openai.com/index/gpt-5-1-for-developers) *(OpenAI News)*
+- [ ] 2025-11-13 [Introducing group chats in ChatGPT](https://openai.com/index/group-chats-in-chatgpt) *(OpenAI News)*
+- [ ] 2025-11-13 [How Philips is scaling AI literacy across 70,000 employees](https://openai.com/index/philips) *(OpenAI News)*
+- [ ] 2025-11-12 [Neuro drives national retail wins with ChatGPT Business](https://openai.com/index/neurogum) *(OpenAI News)*
+- [ ] 2025-11-12 [Fighting the New York Times’ invasion of user privacy](https://openai.com/index/fighting-nyt-user-privacy-invasion) *(OpenAI News)*
+- [ ] 2025-11-12 [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1) *(OpenAI News)*
+- [ ] 2025-11-12 [GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1) *(OpenAI News)*
+- [ ] 2025-11-10 [Free ChatGPT for transitioning U.S. servicemembers and veterans](https://openai.com/index/chatgpt-for-veterans) *(OpenAI News)*
+- [ ] 2025-11-07 [Understanding prompt injections: a frontier security challenge](https://openai.com/index/prompt-injections) *(OpenAI News)*
+- [ ] 2025-11-07 [Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows](https://openai.com/index/notion) *(OpenAI News)*
+- [ ] 2025-11-06 [From Pilot to Practice: How BBVA Is Scaling AI Across the Organization](https://openai.com/index/bbva-2025) *(OpenAI News)*
+- [ ] 2025-11-06 [Introducing the Teen Safety Blueprint](https://openai.com/index/introducing-the-teen-safety-blueprint) *(OpenAI News)*
+- [ ] 2025-11-06 [AI progress and recommendations](https://openai.com/index/ai-progress-and-recommendations) *(OpenAI News)*
+- [ ] 2025-11-05 [How CRED is tapping AI to deliver premium customer experiences](https://openai.com/index/cred-swamy-seetharaman) *(OpenAI News)*
+- [ ] 2025-11-05 [How Chime is redefining marketing through AI](https://openai.com/index/chime-vineet-mehra) *(OpenAI News)*
+- [ ] 2025-11-05 [1 million business customers putting AI to work](https://openai.com/index/1-million-businesses-putting-ai-to-work) *(OpenAI News)*
+- [ ] 2025-11-04 [Brazil’s AI moment is here](https://openai.com/global-affairs/brazil-ai-moment-is-here) *(OpenAI News)*
+- [ ] 2025-11-03 [Introducing IndQA](https://openai.com/index/introducing-indqa) *(OpenAI News)*
+- [ ] 2025-11-03 [AWS and OpenAI announce multi-year strategic partnership](https://openai.com/index/aws-and-openai-partnership) *(OpenAI News)*
+- [ ] 2025-10-30 [Expanding Stargate to Michigan](https://openai.com/index/expanding-stargate-to-michigan) *(OpenAI News)*
+- [ ] 2025-10-30 [Introducing Aardvark: OpenAI’s agentic security researcher](https://openai.com/index/introducing-aardvark) *(OpenAI News)*
+- [ ] 2025-10-30 [How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas](https://openai.com/index/building-chatgpt-atlas) *(OpenAI News)*
+- [ ] 2025-10-29 [Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b and gpt-oss-safeguard-20b](https://openai.com/index/gpt-oss-safeguard-technical-report) *(OpenAI News)*
+- [ ] 2025-10-29 [Introducing gpt-oss-safeguard](https://openai.com/index/introducing-gpt-oss-safeguard) *(OpenAI News)*
+- [ ] 2025-10-28 [Knowledge preservation powered by ChatGPT](https://openai.com/index/dai-nippon-printing) *(OpenAI News)*
+- [ ] 2025-10-28 [Doppel’s AI defense system stops attacks before they spread](https://openai.com/index/doppel) *(OpenAI News)*
+- [ ] 2025-10-28 [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership) *(OpenAI News)*
+- [ ] 2025-10-28 [Built to benefit everyone](https://openai.com/index/built-to-benefit-everyone) *(OpenAI News)*
+- [ ] 2025-10-27 [Seizing the AI opportunity](https://openai.com/global-affairs/seizing-the-ai-opportunity) *(OpenAI News)*
+- [ ] 2025-10-27 [Addendum to GPT-5 System Card: Sensitive conversations](https://openai.com/index/gpt-5-system-card-sensitive-conversations) *(OpenAI News)*
+- [ ] 2025-10-27 [Strengthening ChatGPT’s responses in sensitive conversations](https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations) *(OpenAI News)*
+- [ ] 2025-10-27 [A law and tax firm redefines efficiency with ChatGPT Business](https://openai.com/index/steuerrecht) *(OpenAI News)*
+- [ ] 2025-10-23 [OpenAI acquires Software Applications Incorporated, maker of Sky](https://openai.com/index/openai-acquires-software-applications-incorporated) *(OpenAI News)*
+- [ ] 2025-10-23 [Consensus accelerates research with GPT-5 and Responses API](https://openai.com/index/consensus) *(OpenAI News)*
+- [ ] 2025-10-23 [AI in South Korea—OpenAI’s Economic Blueprint](https://openai.com/index/south-korea-economic-blueprint) *(OpenAI News)*
+- [ ] 2025-10-23 [Work smarter with your company knowledge in ChatGPT](https://openai.com/index/introducing-company-knowledge) *(OpenAI News)*
+- [ ] 2025-10-22 [The next chapter for UK sovereign AI](https://openai.com/index/the-next-chapter-for-uk-sovereign-ai) *(OpenAI News)*
+- [ ] 2025-10-22 [AI in Japan—OpenAI’s Japan Economic Blueprint](https://openai.com/index/japan-economic-blueprint) *(OpenAI News)*
+- [ ] 2025-10-21 [Continue your ChatGPT experience beyond WhatsApp](https://openai.com/index/chatgpt-whatsapp-transition) *(OpenAI News)*
+- [ ] 2025-10-21 [Introducing ChatGPT Atlas, the browser with ChatGPT built in](https://openai.com/index/introducing-chatgpt-atlas) *(OpenAI News)*
+- [ ] 2025-10-15 [Plex Coffee delivers fast service and personal connections with ChatGPT Business](https://openai.com/index/plex-coffee) *(OpenAI News)*
+- [ ] 2025-10-14 [Expert Council on Well-Being and AI](https://openai.com/index/expert-council-on-well-being-and-ai) *(OpenAI News)*
+- [ ] 2025-10-14 [Argentina’s AI opportunity](https://openai.com/global-affairs/argentinas-ai-opportunity) *(OpenAI News)*
+- [ ] 2025-10-13 [OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators](https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration) *(OpenAI News)*
+- [ ] 2025-10-10 [HYGH powers next-gen digital ads with ChatGPT Business](https://openai.com/index/hygh) *(OpenAI News)*
+- [ ] 2025-10-09 [Defining and evaluating political bias in LLMs](https://openai.com/index/defining-and-evaluating-political-bias-in-llms) *(OpenAI News)*
+- [ ] 2025-10-08 [Growing impact and scale with ChatGPT](https://openai.com/index/hibob) *(OpenAI News)*
+- [ ] 2025-10-07 [Disrupting malicious uses of AI: October 2025](https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025) *(OpenAI News)*
+- [ ] 2025-10-06 [Codex is now generally available](https://openai.com/index/codex-now-generally-available) *(OpenAI News)*
+- [ ] 2025-10-06 [Introducing apps in ChatGPT and the new Apps SDK](https://openai.com/index/introducing-apps-in-chatgpt) *(OpenAI News)*
+- [ ] 2025-10-06 [AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs](https://openai.com/index/openai-amd-strategic-partnership) *(OpenAI News)*
+- [ ] 2025-10-06 [Accelerating AI adoption in Europe](https://openai.com/global-affairs/accelerating-ai-uptake-in-europe) *(OpenAI News)*
+- [ ] 2025-10-06 [Introducing AgentKit, new Evals, and RFT for agents](https://openai.com/index/introducing-agentkit) *(OpenAI News)*
+- [ ] 2025-10-02 [With GPT-5, Wrtn builds lifestyle AI for millions in Korea](https://openai.com/index/wrtn) *(OpenAI News)*
+- [ ] 2025-10-02 [OpenAI announces strategic collaboration with Japan’s Digital Agency](https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency) *(OpenAI News)*
+- [ ] 2025-10-01 [Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure](https://openai.com/index/samsung-and-sk-join-stargate) *(OpenAI News)*
+- [ ] 2025-09-30 [The Sora feed philosophy](https://openai.com/index/sora-feed-philosophy) *(OpenAI News)*
+- [ ] 2025-09-30 [Sora 2 System Card](https://openai.com/index/sora-2-system-card) *(OpenAI News)*
+- [ ] 2025-09-30 [Launching Sora responsibly](https://openai.com/index/launching-sora-responsibly) *(OpenAI News)*
+- [ ] 2025-09-30 [Sora 2 is here](https://openai.com/index/sora-2) *(OpenAI News)*
+- [ ] 2025-09-29 [Converting inbound leads into customers at OpenAI](https://openai.com/index/openai-inbound-sales-assistant) *(OpenAI News)*
+- [ ] 2025-09-29 [Driving sales productivity and customer success at OpenAI](https://openai.com/index/openai-gtm-assistant) *(OpenAI News)*
+- [ ] 2025-09-29 [Turning contracts into searchable data at OpenAI](https://openai.com/index/openai-contract-data-agent) *(OpenAI News)*
+- [ ] 2025-09-29 [Improving support with every interaction at OpenAI](https://openai.com/index/openai-support-model) *(OpenAI News)*
+- [ ] 2025-09-29 [Empowering teams to unlock insights faster at OpenAI](https://openai.com/index/openai-research-assistant) *(OpenAI News)*
+- [ ] 2025-09-29 [Building OpenAI with OpenAI](https://openai.com/index/building-openai-with-openai) *(OpenAI News)*
+- [ ] 2025-09-29 [Introducing parental controls](https://openai.com/index/introducing-parental-controls) *(OpenAI News)*
+- [ ] 2025-09-29 [Combating online child sexual exploitation & abuse](https://openai.com/index/combating-online-child-sexual-exploitation-abuse) *(OpenAI News)*
+- [ ] 2025-09-29 [Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol](https://openai.com/index/buy-it-in-chatgpt) *(OpenAI News)*
+- [ ] 2025-09-26 [Partnering with AARP to help keep older adults safe online](https://openai.com/index/aarp-partnership-older-adults-online-safety) *(OpenAI News)*
+- [ ] 2025-09-25 [More ways to work with your team and tools in ChatGPT](https://openai.com/index/more-ways-to-work-with-your-team) *(OpenAI News)*
+- [ ] 2025-09-25 [Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval) *(OpenAI News)*
+- [ ] 2025-09-25 [Introducing ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse) *(OpenAI News)*
+- [ ] 2025-09-24 [Transforming the manufacturing industry with ChatGPT](https://openai.com/index/eneos-materials) *(OpenAI News)*
+- [ ] 2025-09-24 [SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’](https://openai.com/global-affairs/openai-for-germany) *(OpenAI News)*
+- [ ] 2025-09-23 [OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites](https://openai.com/index/five-new-stargate-sites) *(OpenAI News)*
+- [ ] 2025-09-22 [CNA is transforming its newsroom with AI](https://openai.com/index/cna-walter-fernandez) *(OpenAI News)*
+- [ ] 2025-09-22 [American-made innovation](https://openai.com/global-affairs/american-made-innovation) *(OpenAI News)*
+- [ ] 2025-09-22 [Creating a safe, observable AI infrastructure for 1 million classrooms](https://openai.com/index/schoolai) *(OpenAI News)*
+- [ ] 2025-09-22 [OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems](https://openai.com/index/openai-nvidia-systems-partnership) *(OpenAI News)*
+- [ ] 2025-09-22 [Outbound coordinated vulnerability disclosure policy](https://openai.com/policies/outbound-coordinated-disclosure-policy) *(OpenAI News)*
+- [ ] 2025-09-17 [Detecting and reducing scheming in AI models](https://openai.com/index/detecting-and-reducing-scheming-in-ai-models) *(OpenAI News)*
+- [ ] 2025-09-16 [Introducing Stargate UK](https://openai.com/index/introducing-stargate-uk) *(OpenAI News)*
+- [ ] 2025-09-16 [Building towards age prediction](https://openai.com/index/building-towards-age-prediction) *(OpenAI News)*
+- [ ] 2025-09-16 [Teen safety, freedom, and privacy](https://openai.com/index/teen-safety-freedom-and-privacy) *(OpenAI News)*
+- [ ] 2025-09-15 [Introducing upgrades to Codex](https://openai.com/index/introducing-upgrades-to-codex) *(OpenAI News)*
+- [ ] 2025-09-15 [How people are using ChatGPT](https://openai.com/index/how-people-are-using-chatgpt) *(OpenAI News)*
+- [ ] 2025-09-15 [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex) *(OpenAI News)*
+- [ ] 2025-09-12 [Working with US CAISI and UK AISI to build more secure AI systems](https://openai.com/index/us-caisi-uk-aisi-ai-update) *(OpenAI News)*
+- [ ] 2025-09-12 [Announcing OpenAI Grove](https://openai.com/index/openai-grove) *(OpenAI News)*
+- [ ] 2025-09-11 [A joint statement from OpenAI and Microsoft](https://openai.com/index/joint-statement-from-openai-and-microsoft) *(OpenAI News)*
+- [ ] 2025-09-11 [Statement on OpenAI’s Nonprofit and PBC](https://openai.com/index/statement-on-openai-nonprofit-and-pbc) *(OpenAI News)*
+- [ ] 2025-09-09 [Shipping smarter agents with every new model](https://openai.com/index/safetykit) *(OpenAI News)*
+- [ ] 2025-09-08 [A People-First AI Fund: $50M to support nonprofits](https://openai.com/index/people-first-ai-fund) *(OpenAI News)*
+- [ ] 2025-09-05 [Why language models hallucinate](https://openai.com/index/why-language-models-hallucinate) *(OpenAI News)*
+- [ ] 2025-09-05 [GPT-5 bio bug bounty call](https://openai.com/gpt-5-bio-bug-bounty) *(OpenAI News)*
+- [ ] 2025-09-05 [OpenAI and Greek Government launch ‘OpenAI for Greece’](https://openai.com/global-affairs/openai-for-greece) *(OpenAI News)*
+- [ ] 2025-09-04 [Expanding economic opportunity with AI](https://openai.com/index/expanding-economic-opportunity-with-ai) *(OpenAI News)*
+- [ ] 2025-09-02 [Vijaye Raji to become CTO of Applications with acquisition of Statsig](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig) *(OpenAI News)*
+- [ ] 2025-09-02 [Building more helpful ChatGPT experiences for everyone](https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone) *(OpenAI News)*
+- [ ] 2025-08-28 [Introducing gpt-realtime and Realtime API updates](https://openai.com/index/introducing-gpt-realtime) *(OpenAI News)*
+- [ ] 2025-08-28 [Supporting nonprofit and community innovation](https://openai.com/index/supporting-nonprofit-and-community-innovation) *(OpenAI News)*
+- [ ] 2025-08-27 [Collective alignment: public input on our Model Spec](https://openai.com/index/collective-alignment-aug-2025-updates) *(OpenAI News)*
+- [ ] 2025-08-27 [OpenAI and Anthropic share findings from a joint safety evaluation](https://openai.com/index/openai-anthropic-safety-evaluation) *(OpenAI News)*
+- [ ] 2025-08-26 [Helping people when they need it most](https://openai.com/index/helping-people-when-they-need-it-most) *(OpenAI News)*
+- [ ] 2025-08-25 [Announcing the OpenAI Learning Accelerator](https://openai.com/global-affairs/learning-accelerator) *(OpenAI News)*
+- [ ] 2025-08-22 [Accelerating life sciences research](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences) *(OpenAI News)*
+- [ ] 2025-08-21 [Scaling domain expertise in complex, regulated domains](https://openai.com/index/blue-j) *(OpenAI News)*
+- [ ] 2025-08-20 [Mixi reimagines communication with ChatGPT](https://openai.com/index/mixi) *(OpenAI News)*
+- [ ] 2025-08-18 [Q&A with DoorDash’s CPO, Mariana Garavaglia](https://openai.com/index/doordash-mariana-garavaglia) *(OpenAI News)*
+- [ ] 2025-08-12 [Scaling accounting capacity with OpenAI](https://openai.com/index/basis) *(OpenAI News)*
+- [ ] 2025-08-12 [OpenAI’s letter to Governor Newsom on harmonized regulation](https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation) *(OpenAI News)*
+- [ ] 2025-08-07 [Introducing GPT-5 for developers](https://openai.com/index/introducing-gpt-5-for-developers) *(OpenAI News)*
+- [ ] 2025-08-07 [GPT-5 and the new era of work](https://openai.com/index/gpt-5-new-era-of-work) *(OpenAI News)*
+- [ ] 2025-08-07 [Coding and design with GPT-5](https://openai.com/index/gpt-5-coding-design) *(OpenAI News)*
+- [ ] 2025-08-07 [Creative writing with GPT-5](https://openai.com/index/gpt-5-creative-writing) *(OpenAI News)*
+- [ ] 2025-08-07 [Medical research with GPT-5](https://openai.com/index/gpt-5-medical-research) *(OpenAI News)*
+- [ ] 2025-08-07 [How Cursor uses GPT-5](https://openai.com/index/gpt-5-cursor) *(OpenAI News)*
+- [ ] 2025-08-07 [From hard refusals to safe-completions: toward output-centric safety training](https://openai.com/index/gpt-5-safe-completions) *(OpenAI News)*
+- [ ] 2025-08-07 [How Amgen uses GPT-5](https://openai.com/index/gpt-5-amgen) *(OpenAI News)*
+- [ ] 2025-08-07 [GPT-5 System Card](https://openai.com/index/gpt-5-system-card) *(OpenAI News)*
+- [ ] 2025-08-07 [Introducing GPT-5](https://openai.com/index/introducing-gpt-5) *(OpenAI News)*
+- [ ] 2025-08-07 [First look at GPT-5](https://openai.com/index/gpt-5-first-look) *(OpenAI News)*
+- [ ] 2025-08-06 [Providing ChatGPT to the Entire U.S. Federal Workforce](https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce) *(OpenAI News)*
+- [ ] 2025-08-05 [gpt-oss-120b & gpt-oss-20b Model Card](https://openai.com/index/gpt-oss-model-card) *(OpenAI News)*
+- [ ] 2025-08-05 [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss) *(OpenAI News)*
+- [ ] 2025-08-05 [Open Weights and AI for All](https://openai.com/global-affairs/open-weights-and-ai-for-all) *(OpenAI News)*
+- [ ] 2025-08-05 [Estimating worst case frontier risks of open weight LLMs](https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms) *(OpenAI News)*
+- [ ] 2025-08-04 [What we’re optimizing ChatGPT for](https://openai.com/index/optimizing-chatgpt) *(OpenAI News)*
+- [ ] 2025-08-01 [Figma uses AI to transform digital design](https://openai.com/index/figma-david-kossnick) *(OpenAI News)*
+- [ ] 2025-07-31 [Introducing Stargate Norway](https://openai.com/index/introducing-stargate-norway) *(OpenAI News)*
+- [ ] 2025-07-30 [Three lessons for creating a sustainable AI advantage](https://openai.com/index/intercom) *(OpenAI News)*
+- [ ] 2025-07-29 [Introducing study mode in ChatGPT](https://openai.com/index/chatgpt-study-mode) *(OpenAI News)*
+- [ ] 2025-07-24 [Resolving digital threats 100x faster with OpenAI](https://openai.com/index/outtake) *(OpenAI News)*
+- [ ] 2025-07-23 [Announcing OpenAI DevDay 2025](https://openai.com/index/announcing-devday-2025) *(OpenAI News)*
+- [ ] 2025-07-23 [Model ML is helping financial firms rebuild with AI from the ground up](https://openai.com/index/model-ml-chaz-englander) *(OpenAI News)*
+- [ ] 2025-07-22 [Pioneering an AI clinical copilot with Penda Health](https://openai.com/index/ai-clinical-copilot-penda-health) *(OpenAI News)*
+- [ ] 2025-07-22 [Stargate advances with 4.5 GW partnership with Oracle](https://openai.com/index/stargate-advances-with-partnership-with-oracle) *(OpenAI News)*
+- [ ] 2025-07-22 [OpenAI’s new economic analysis](https://openai.com/global-affairs/new-economic-analysis) *(OpenAI News)*
+- [ ] 2025-07-21 [OpenAI and UK Government announce strategic partnership to deliver AI-driven growth](https://openai.com/global-affairs/openai-and-uk-government-partnership) *(OpenAI News)*
+- [ ] 2025-07-21 [AI as the greatest source of empowerment for all](https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all) *(OpenAI News)*
+- [ ] 2025-07-18 [A $50 million fund to build with communities](https://openai.com/index/50-million-fund-to-build-with-communities) *(OpenAI News)*
+- [ ] 2025-07-17 [Introducing ChatGPT agent](https://openai.com/index/introducing-chatgpt-agent) *(OpenAI News)*
+- [ ] 2025-07-17 [ChatGPT agent System Card](https://openai.com/index/chatgpt-agent-system-card) *(OpenAI News)*
+- [ ] 2025-07-17 [OpenAI nonprofit jam](https://openai.com/global-affairs/openai-nonprofit-jam) *(OpenAI News)*
+- [ ] 2025-07-17 [Agent bio bug bounty call](https://openai.com/bio-bug-bounty) *(OpenAI News)*
+- [ ] 2025-07-17 [Invideo AI uses OpenAI models to create videos 10x faster](https://openai.com/index/invideo-ai) *(OpenAI News)*
+- [ ] 2025-07-17 [Statement from the OpenAI Board of Directors on the Nonprofit Commission Report](https://openai.com/index/nonprofit-commission-report) *(OpenAI News)*
+- [ ] 2025-07-15 [Intellectual freedom by design](https://openai.com/global-affairs/intellectual-freedom-by-design) *(OpenAI News)*
+- [ ] 2025-07-11 [The EU Code of Practice and future of AI in Europe](https://openai.com/global-affairs/eu-code-of-practice) *(OpenAI News)*
+- [ ] 2025-07-09 [Sam & Jony](https://openai.com/sam-and-jony) *(OpenAI News)*
+- [ ] 2025-07-08 [Working with 400,000 teachers to shape the future of AI in schools](https://openai.com/global-affairs/aft) *(OpenAI News)*
+- [ ] 2025-07-01 [No-code personal agents, powered by GPT-4.1 and Realtime API](https://openai.com/index/genspark) *(OpenAI News)*
+- [ ] 2025-06-30 [AI in Australia—OpenAI’s Economic Blueprint](https://openai.com/global-affairs/openais-australia-economic-blueprint) *(OpenAI News)*
+- [ ] 2025-06-26 [Customizable, no-code voice agent automation with GPT-4o](https://openai.com/index/retell-ai) *(OpenAI News)*
+- [ ] 2025-06-24 [Driving scalable growth with OpenAI o3, GPT-4.1, and CUA](https://openai.com/index/unify) *(OpenAI News)*
+- [ ] 2025-06-18 [Toward understanding and preventing misalignment generalization](https://openai.com/index/emergent-misalignment) *(OpenAI News)*
+- [ ] 2025-06-18 [Preparing for future AI risks in biology](https://openai.com/index/preparing-for-future-ai-capabilities-in-biology) *(OpenAI News)*
+- [ ] 2025-06-16 [Introducing OpenAI for Government](https://openai.com/global-affairs/introducing-openai-for-government) *(OpenAI News)*
+- [ ] 2025-06-12 [Bringing the magic of AI to Mattel’s iconic brands](https://openai.com/index/mattels-iconic-brands) *(OpenAI News)*
+- [ ] 2025-06-09 [Scaling security with responsible disclosure](https://openai.com/index/scaling-coordinated-vulnerability-disclosure) *(OpenAI News)*
+- [ ] 2025-06-05 [How we’re responding to The New York Times’ data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands) *(OpenAI News)*
+- [ ] 2025-06-05 [Disrupting malicious uses of AI: June 2025](https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-june-2025) *(OpenAI News)*
+- [ ] 2025-05-29 [Creating websites in minutes with AI Website Builder](https://openai.com/index/wix) *(OpenAI News)*
+- [ ] 2025-05-23 [Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator](https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3) *(OpenAI News)*
+- [ ] 2025-05-22 [OpenAI Deutschland](https://openai.com/index/openai-deutschland) *(OpenAI News)*
+- [ ] 2025-05-22 [Shipping code faster with o3, o4-mini, and GPT-4.1](https://openai.com/index/coderabbit) *(OpenAI News)*
+- [ ] 2025-05-22 [Introducing Stargate UAE](https://openai.com/index/introducing-stargate-uae) *(OpenAI News)*
+- [ ] 2025-05-21 [New tools and features in the Responses API](https://openai.com/index/new-tools-and-features-in-the-responses-api) *(OpenAI News)*
+- [ ] 2025-05-16 [Addendum to o3 and o4-mini system card: Codex](https://openai.com/index/o3-o4-mini-codex-system-card-addendum) *(OpenAI News)*
+- [ ] 2025-05-16 [Introducing Codex](https://openai.com/index/introducing-codex) *(OpenAI News)*
+- [ ] 2025-05-14 [AI powers Expedia’s marketing evolution](https://openai.com/index/expedia-jochen-koedijk) *(OpenAI News)*
+- [ ] 2025-05-12 [Introducing HealthBench](https://openai.com/index/healthbench) *(OpenAI News)*
+- [ ] 2025-05-07 [OpenAI Expands Leadership with Fidji Simo](https://openai.com/index/leadership-expansion-with-fidji-simo) *(OpenAI News)*
+- [ ] 2025-05-07 [OpenAI’s response to the Department of Energy on AI infrastructure](https://openai.com/global-affairs/response-to-department-of-energy) *(OpenAI News)*
+- [ ] 2025-05-07 [Introducing data residency in Asia](https://openai.com/index/introducing-data-residency-in-asia) *(OpenAI News)*
+- [ ] 2025-05-07 [The San Antonio Spurs use ChatGPT to scale impact on and off the court](https://openai.com/index/san-antonio-spurs) *(OpenAI News)*
+- [ ] 2025-05-07 [Lowe’s puts project expertise into every hand](https://openai.com/index/lowes) *(OpenAI News)*
+- [ ] 2025-05-07 [Introducing OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries) *(OpenAI News)*
+- [ ] 2025-05-06 [Introducing AI stories: daily benefits shine a light on bigger opportunities](https://openai.com/global-affairs/ai-stories-daily-benefits-bigger-opportunities) *(OpenAI News)*
+- [ ] 2025-05-06 [AI helps John Deere transform agriculture](https://openai.com/index/john-deere-justin-rose) *(OpenAI News)*
+- [ ] 2025-05-05 [Evolving OpenAI’s structure](https://openai.com/index/evolving-our-structure) *(OpenAI News)*
+- [ ] 2025-05-05 [Lowe’s leverages AI to power home improvement retail](https://openai.com/index/lowes-chandhu-nair) *(OpenAI News)*
+- [ ] 2025-05-02 [Expanding on what we missed with sycophancy](https://openai.com/index/expanding-on-sycophancy) *(OpenAI News)*
+- [ ] 2025-04-29 [Sycophancy in GPT-4o: what happened and what we’re doing about it](https://openai.com/index/sycophancy-in-gpt-4o) *(OpenAI News)*
+- [ ] 2025-04-24 [New in ChatGPT for Business: April 2025](https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025) *(OpenAI News)*
+- [ ] 2025-04-23 [Introducing our latest image generation model in the API](https://openai.com/index/image-generation-api) *(OpenAI News)*
+- [ ] 2025-04-22 [Speak is personalizing language learning with AI](https://openai.com/index/speak-connor-zwick) *(OpenAI News)*
+- [ ] 2025-04-22 [The Washington Post partners with OpenAI on search content](https://openai.com/global-affairs/the-washington-post-partners-with-openai) *(OpenAI News)*
+- [ ] 2025-04-16 [Introducing OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini) *(OpenAI News)*
+- [ ] 2025-04-16 [OpenAI o3 and o4-mini System Card](https://openai.com/index/o3-o4-mini-system-card) *(OpenAI News)*
+- [ ] 2025-04-16 [Thinking with images](https://openai.com/index/thinking-with-images) *(OpenAI News)*
+- [ ] 2025-04-15 [OpenAI announces nonprofit commission advisors](https://openai.com/index/nonprofit-commission-advisors) *(OpenAI News)*
+- [ ] 2025-04-15 [Our updated Preparedness Framework](https://openai.com/index/updating-our-preparedness-framework) *(OpenAI News)*
+- [ ] 2025-04-14 [Introducing GPT-4.1 in the API](https://openai.com/index/gpt-4-1) *(OpenAI News)*
+- [ ] 2025-04-10 [BrowseComp: a benchmark for browsing agents](https://openai.com/index/browsecomp) *(OpenAI News)*
+- [ ] 2025-04-09 [OpenAI Pioneers Program](https://openai.com/index/openai-pioneers-program) *(OpenAI News)*
+- [ ] 2025-04-07 [OpenAI’s EU Economic Blueprint](https://openai.com/global-affairs/openais-eu-economic-blueprint) *(OpenAI News)*
+- [ ] 2025-04-07 [Canva enables creativity with AI](https://openai.com/index/canva-cam-adams) *(OpenAI News)*
+- [ ] 2025-04-02 [New commission to provide insight as OpenAI builds the world’s best-equipped nonprofit](https://openai.com/index/nonprofit-commission-guidance) *(OpenAI News)*
+- [ ] 2025-04-02 [PaperBench: Evaluating AI’s Ability to Replicate AI Research](https://openai.com/index/paperbench) *(OpenAI News)*
+- [ ] 2025-04-02 [Our response to the UK’s copyright consultation](https://openai.com/global-affairs/response-to-uk-copyright-consultation) *(OpenAI News)*
+- [ ] 2025-03-31 [New funding to build towards AGI](https://openai.com/index/march-funding-updates) *(OpenAI News)*
+- [ ] 2025-03-27 [Moving from intent-based bots to proactive AI agents](https://openai.com/index/zendesk) *(OpenAI News)*
+- [ ] 2025-03-26 [Security on the path to AGI](https://openai.com/index/security-on-the-path-to-agi) *(OpenAI News)*
+- [ ] 2025-03-25 [Introducing 4o Image Generation](https://openai.com/index/introducing-4o-image-generation) *(OpenAI News)*
+- [ ] 2025-03-25 [Addendum to GPT-4o System Card: 4o image generation](https://openai.com/index/gpt-4o-image-generation-system-card-addendum) *(OpenAI News)*
+- [ ] 2025-03-25 [Automating 90% of finance and legal work with agents](https://openai.com/index/hebbia) *(OpenAI News)*
+- [ ] 2025-03-25 [Scaling the OpenAI Academy](https://openai.com/global-affairs/scaling-the-openai-academy) *(OpenAI News)*
+- [ ] 2025-03-24 [Leadership updates](https://openai.com/index/leadership-updates-march-2025) *(OpenAI News)*
+- [ ] 2025-03-21 [Early methods for studying affective use and emotional well-being on ChatGPT](https://openai.com/index/affective-use-study) *(OpenAI News)*
+- [ ] 2025-03-20 [Personalizing travel at scale with OpenAI](https://openai.com/index/booking-com) *(OpenAI News)*
+- [ ] 2025-03-20 [Introducing next-generation audio models in the API](https://openai.com/index/introducing-our-next-generation-audio-models) *(OpenAI News)*
+- [ ] 2025-03-18 [EliseAI improves housing and healthcare efficiency with AI](https://openai.com/index/eliseai-minna-song) *(OpenAI News)*
+- [ ] 2025-03-18 [New in ChatGPT for Business: March 2025](https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025) *(OpenAI News)*
+- [ ] 2025-03-14 [The court rejects Elon’s latest attempt to slow OpenAI down](https://openai.com/index/court-rejects-elon) *(OpenAI News)*
+- [ ] 2025-03-13 [OpenAI’s proposals for the U.S. AI Action Plan](https://openai.com/global-affairs/openai-proposals-for-the-us-ai-action-plan) *(OpenAI News)*
+- [ ] 2025-03-12 [Driving growth and ‘WOW’ moments with OpenAI](https://openai.com/index/ly-corporation) *(OpenAI News)*
+- [ ] 2025-03-11 [New tools for building agents](https://openai.com/index/new-tools-for-building-agents) *(OpenAI News)*
+- [ ] 2025-03-10 [Detecting misbehavior in frontier reasoning models](https://openai.com/index/chain-of-thought-monitoring) *(OpenAI News)*
+- [ ] 2025-03-07 [Nubank elevates customer experiences with OpenAI](https://openai.com/index/nubank) *(OpenAI News)*
+- [ ] 2025-03-06 [Accelerating engineering cycles 20% with OpenAI](https://openai.com/index/factory) *(OpenAI News)*
+- [ ] 2025-03-04 [LaunchDarkly's approach to AI-powered product management](https://openai.com/index/launchdarkly-claire-vo) *(OpenAI News)*
+- [ ] 2025-03-04 [Introducing NextGenAI](https://openai.com/index/introducing-nextgenai) *(OpenAI News)*
+- [ ] 2025-02-28 [1,000 Scientist AI Jam Session](https://openai.com/global-affairs/1000-scientist-ai-jam-session) *(OpenAI News)*
+- [ ] 2025-02-27 [Supporting sellers with enhanced product listings](https://openai.com/index/mercari) *(OpenAI News)*
+- [ ] 2025-02-27 [OpenAI GPT-4.5 System Card](https://openai.com/index/gpt-4-5-system-card) *(OpenAI News)*
+- [ ] 2025-02-27 [Introducing GPT-4.5](https://openai.com/index/introducing-gpt-4-5) *(OpenAI News)*
+- [ ] 2025-02-27 [Building an autonomous financial analyst with o1 and o3-mini](https://openai.com/index/endex) *(OpenAI News)*
+- [ ] 2025-02-25 [Deep research System Card](https://openai.com/index/deep-research-system-card) *(OpenAI News)*
+- [ ] 2025-02-25 [Estonia and OpenAI to bring ChatGPT to schools nationwide](https://openai.com/index/estonia-schools-and-chatgpt) *(OpenAI News)*
+- [ ] 2025-02-21 [Disrupting malicious uses of AI](https://openai.com/global-affairs/disrupting-malicious-uses-of-ai) *(OpenAI News)*
+- [ ] 2025-02-20 [Uber enables outstanding on-demand experiences with AI](https://openai.com/index/uber-enables-outstanding-experiences) *(OpenAI News)*
+- [ ] 2025-02-20 [College students and ChatGPT adoption in the US](https://openai.com/global-affairs/college-students-and-chatgpt) *(OpenAI News)*
+- [ ] 2025-02-18 [Introducing the SWE-Lancer benchmark](https://openai.com/index/swe-lancer) *(OpenAI News)*
+- [ ] 2025-02-14 [OpenAI and Guardian Media Group launch content partnership](https://openai.com/index/openai-and-guardian-media-group-launch-content-partnership) *(OpenAI News)*
+- [ ] 2025-02-13 [Fanatics Betting and Gaming uses AI to focus on the big picture](https://openai.com/index/fanatics-betting-gaming-andrea-ellis) *(OpenAI News)*
+- [ ] 2025-02-13 [Wayfair is shaping the future of retail with AI](https://openai.com/index/wayfair-fiona-tan) *(OpenAI News)*
+- [ ] 2025-02-13 [Using OpenAI o1 for financial analysis](https://openai.com/index/rogo) *(OpenAI News)*
+- [ ] 2025-02-12 [Sharing the latest Model Spec](https://openai.com/index/sharing-the-latest-model-spec) *(OpenAI News)*
+- [ ] 2025-02-10 [OpenAI partners with Schibsted Media Group](https://openai.com/index/openai-partners-with-schibsted-media-group) *(OpenAI News)*
+- [ ] 2025-02-09 [Introducing the Intelligence Age](https://openai.com/global-affairs/introducing-the-intelligence-age) *(OpenAI News)*
+- [ ] 2025-02-07 [OpenAI at the Paris AI Action Summit](https://openai.com/global-affairs/openai-at-the-paris-ai-action-summit) *(OpenAI News)*
+- [ ] 2025-02-05 [Introducing data residency in Europe](https://openai.com/index/introducing-data-residency-in-europe) *(OpenAI News)*
+- [ ] 2025-02-04 [OpenAI and the CSU system bring AI to 500,000 students & faculty](https://openai.com/index/openai-and-the-csu-system) *(OpenAI News)*
+- [ ] 2025-02-04 [Creating nail art with ChatGPT](https://openai.com/index/ten-tiny-canvases) *(OpenAI News)*
+- [ ] 2025-02-04 [Building a custom math tutor powered by ChatGPT](https://openai.com/index/my-dog-the-math-tutor) *(OpenAI News)*
+- [ ] 2025-02-04 [Catching halibut with ChatGPT](https://openai.com/index/fishing-for-first-timers) *(OpenAI News)*
+- [ ] 2025-02-02 [Introducing deep research](https://openai.com/index/introducing-deep-research) *(OpenAI News)*
+- [ ] 2025-02-02 [Understanding complex trends with deep research](https://openai.com/index/deep-research) *(OpenAI News)*
+- [ ] 2025-01-31 [OpenAI o3-mini System Card](https://openai.com/index/o3-mini-system-card) *(OpenAI News)*
+- [ ] 2025-01-31 [OpenAI o3-mini](https://openai.com/index/openai-o3-mini) *(OpenAI News)*
+- [ ] 2025-01-30 [Strengthening America’s AI leadership with the U.S. National Laboratories](https://openai.com/index/strengthening-americas-ai-leadership-with-the-us-national-laboratories) *(OpenAI News)*
+- [ ] 2025-01-28 [Introducing ChatGPT Gov](https://openai.com/global-affairs/introducing-chatgpt-gov) *(OpenAI News)*
+- [ ] 2025-01-23 [Operator System Card](https://openai.com/index/operator-system-card) *(OpenAI News)*
+- [ ] 2025-01-23 [Introducing Operator](https://openai.com/index/introducing-operator) *(OpenAI News)*
+- [ ] 2025-01-23 [Computer-Using Agent](https://openai.com/index/computer-using-agent) *(OpenAI News)*
+- [ ] 2025-01-22 [Bertelsmann powers creativity and productivity with OpenAI](https://openai.com/index/bertelsmann-powers-creativity-and-productivity-with-openai) *(OpenAI News)*
+- [ ] 2025-01-22 [Trading inference-time compute for adversarial robustness](https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness) *(OpenAI News)*
+- [ ] 2025-01-21 [Stargate Infrastructure](https://openai.com/form/stargate-infrastructure) *(OpenAI News)*
+- [ ] 2025-01-21 [Announcing The Stargate Project](https://openai.com/index/announcing-the-stargate-project) *(OpenAI News)*
+- [ ] 2025-01-17 [The power of personalized AI](https://openai.com/global-affairs/the-power-of-personalized-ai) *(OpenAI News)*
+- [ ] 2025-01-15 [Partnering with Axios expands OpenAI’s work with the news industry](https://openai.com/index/partnering-with-axios-expands-openai-work-with-the-news-industry) *(OpenAI News)*
+- [ ] 2025-01-14 [Adebayo Ogunlesi joins OpenAI’s Board of Directors](https://openai.com/index/adebayo-ogunlesi-joins-openais-board-of-directors) *(OpenAI News)*
+- [ ] 2025-01-13 [OpenAI’s Economic Blueprint](https://openai.com/global-affairs/openais-economic-blueprint) *(OpenAI News)*
+- [ ] 2024-12-27 [Why OpenAI’s structure must evolve to advance our mission](https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission) *(OpenAI News)*
+- [ ] 2024-12-20 [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment) *(OpenAI News)*
+- [ ] 2024-12-17 [OpenAI o1 and new tools for developers](https://openai.com/index/o1-and-new-tools-for-developers) *(OpenAI News)*
+- [ ] 2024-12-13 [Elon Musk wanted an OpenAI for-profit](https://openai.com/index/elon-musk-wanted-an-openai-for-profit) *(OpenAI News)*
+- [ ] 2024-12-11 [Boosting the customer retail experience with GPT-4o mini](https://openai.com/index/zalando) *(OpenAI News)*
+- [ ] 2024-12-09 [Sora is here](https://openai.com/index/sora-is-here) *(OpenAI News)*
+- [ ] 2024-12-09 [Animator Lyndon Barrois creates new worlds with Sora](https://openai.com/index/sora-lyndon-barrois) *(OpenAI News)*
+- [ ] 2024-12-09 [Put AI to work for your product team](https://openai.com/index/put-ai-to-work-for-your-product-team) *(OpenAI News)*
+- [ ] 2024-12-09 [Minne Atairu & Sora](https://openai.com/index/sora-minne-atairu) *(OpenAI News)*
+- [ ] 2024-12-09 [Sora System Card](https://openai.com/index/sora-system-card) *(OpenAI News)*
+- [ ] 2024-12-09 [Vallée Duhamel & Sora](https://openai.com/index/sora-vallee-duhamel) *(OpenAI News)*
+- [ ] 2024-12-05 [Introducing ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro) *(OpenAI News)*
+- [ ] 2024-12-05 [OpenAI o1 System Card](https://openai.com/index/openai-o1-system-card) *(OpenAI News)*
+- [ ] 2024-12-04 [OpenAI and Future partner on specialist content](https://openai.com/index/openai-and-future-partner-on-specialist-content) *(OpenAI News)*
+- [ ] 2024-12-04 [Shaping the future of financial services](https://openai.com/index/morgan-stanley) *(OpenAI News)*
+- [ ] 2024-11-21 [Advancing red teaming with people and AI](https://openai.com/index/advancing-red-teaming-with-people-and-ai) *(OpenAI News)*
+- [ ] 2024-11-21 [Empowering a global org with ChatGPT](https://openai.com/index/bbva) *(OpenAI News)*
+- [ ] 2024-11-20 [Building smarter maps with GPT-4o vision fine-tuning](https://openai.com/index/grab) *(OpenAI News)*
+- [ ] 2024-11-19 [Rox goes “all in” on OpenAI](https://openai.com/index/rox) *(OpenAI News)*
+- [ ] 2024-11-15 [OpenAI en France](https://openai.com/index/openai-en-france) *(OpenAI News)*
+- [ ] 2024-11-13 [A Student’s Guide to Writing with ChatGPT](https://openai.com/chatgpt/use-cases/student-writing-guide) *(OpenAI News)*
+- [ ] 2024-11-13 [Data-driven beauty and creativity with ChatGPT](https://openai.com/index/estee-lauder) *(OpenAI News)*
+- [ ] 2024-11-04 [OpenAI’s comments to the NTIA on data center growth, resilience, and security](https://openai.com/global-affairs/comments-to-the-ntia-on-data-center-growth-resilience-and-security) *(OpenAI News)*
+- [ ] 2024-10-31 [Introducing ChatGPT search](https://openai.com/index/introducing-chatgpt-search) *(OpenAI News)*
+- [ ] 2024-10-31 [Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing](https://openai.com/index/promega) *(OpenAI News)*
+- [ ] 2024-10-31 [Put AI to work for marketing teams](https://openai.com/business/put-ai-to-work-for-marketing-teams) *(OpenAI News)*
+- [ ] 2024-10-30 [Introducing SimpleQA](https://openai.com/index/introducing-simpleqa) *(OpenAI News)*
+- [ ] 2024-10-29 [Delivering high-performance customer support](https://openai.com/index/decagon) *(OpenAI News)*
+- [ ] 2024-10-24 [OpenAI’s approach to AI and national security](https://openai.com/global-affairs/openais-approach-to-ai-and-national-security) *(OpenAI News)*
+- [ ] 2024-10-23 [Simplifying, stabilizing, and scaling continuous-time consistency models](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models) *(OpenAI News)*
+- [ ] 2024-10-22 [OpenAI appoints Scott Schools as Chief Compliance Officer](https://openai.com/global-affairs/openai-chief-compliance-officer-announcement) *(OpenAI News)*
+- [ ] 2024-10-22 [Dr. Ronnie Chatterji named OpenAI’s first Chief Economist](https://openai.com/global-affairs/openai-chief-economist-announcement) *(OpenAI News)*
+- [ ] 2024-10-22 [OpenAI and the Lenfest Institute AI Collaborative and Fellowship program](https://openai.com/index/lenfest-institute) *(OpenAI News)*
+- [ ] 2024-10-17 [Solving complex problems with OpenAI o1 models](https://openai.com/business/solving-complex-problems-with-openai-o1-models) *(OpenAI News)*
+- [ ] 2024-10-15 [Evaluating fairness in ChatGPT](https://openai.com/index/evaluating-fairness-in-chatgpt) *(OpenAI News)*
+- [ ] 2024-10-10 [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://openai.com/index/mle-bench) *(OpenAI News)*
+- [ ] 2024-10-09 [An update on disrupting deceptive uses of AI](https://openai.com/global-affairs/an-update-on-disrupting-deceptive-uses-of-ai) *(OpenAI News)*
+- [ ] 2024-10-08 [OpenAI and Hearst Content Partnership](https://openai.com/index/hearst) *(OpenAI News)*
+- [ ] 2024-10-04 [OpenAI’s Raising Concerns Policy](https://openai.com/index/openai-raising-concerns-policy) *(OpenAI News)*
+- [ ] 2024-10-03 [Introducing canvas, a new way to write and code with ChatGPT.](https://openai.com/index/introducing-canvas) *(OpenAI News)*
+- [ ] 2024-10-03 [New Credit Facility Enhances Financial Flexibility](https://openai.com/index/new-credit-facility-enhances-financial-flexibility) *(OpenAI News)*
+- [ ] 2024-10-02 [New funding to scale the benefits of AI](https://openai.com/index/scale-the-benefits-of-ai) *(OpenAI News)*
+- [ ] 2024-10-01 [Introducing the Realtime API](https://openai.com/index/introducing-the-realtime-api) *(OpenAI News)*
+- [ ] 2024-10-01 [Introducing vision to the fine-tuning API](https://openai.com/index/introducing-vision-to-the-fine-tuning-api) *(OpenAI News)*
+- [ ] 2024-10-01 [Prompt Caching in the API](https://openai.com/index/api-prompt-caching) *(OpenAI News)*
+- [ ] 2024-10-01 [Model Distillation in the API](https://openai.com/index/api-model-distillation) *(OpenAI News)*
+- [ ] 2024-10-01 [Creating agent and human collaboration with GPT 4o](https://openai.com/index/altera) *(OpenAI News)*
+- [ ] 2024-09-30 [Put AI to work: Automate and scale financial operations](https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations) *(OpenAI News)*
+- [ ] 2024-09-26 [Upgrading the Moderation API with our new multimodal moderation model](https://openai.com/index/upgrading-the-moderation-api-with-our-new-multimodal-moderation-model) *(OpenAI News)*
+- [ ] 2024-09-26 [Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps](https://openai.com/index/state-of-minnesota) *(OpenAI News)*
+- [ ] 2024-09-26 [OpenAI and GEDI partner for Italian news content](https://openai.com/index/gedi) *(OpenAI News)*
+- [ ] 2024-09-24 [Introducing Verdi, an AI dev platform powered by GPT-4o](https://openai.com/index/mercado-libre) *(OpenAI News)*
+- [ ] 2024-09-23 [Introducing the OpenAI Academy](https://openai.com/global-affairs/openai-academy) *(OpenAI News)*
+- [ ] 2024-09-19 [Genmab launches “AI Everywhere”](https://openai.com/index/genmab) *(OpenAI News)*
+- [ ] 2024-09-17 [Using GPT-4 to improve teaching and learning in Brazil](https://openai.com/index/arco-education) *(OpenAI News)*
+- [ ] 2024-09-16 [An update on our safety & security practices](https://openai.com/index/update-on-safety-and-security-practices) *(OpenAI News)*
+- [ ] 2024-09-12 [Introducing OpenAI o1](https://openai.com/index/introducing-openai-o1-preview) *(OpenAI News)*
+- [ ] 2024-09-12 [Learning to reason with LLMs](https://openai.com/index/learning-to-reason-with-llms) *(OpenAI News)*
+- [ ] 2024-09-12 [OpenAI o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning) *(OpenAI News)*
+- [ ] 2024-09-12 [OpenAI o1 System Card External Testers Acknowledgements](https://openai.com/index/openai-o1-system-card/external-testers-acknowledgements) *(OpenAI News)*
+- [ ] 2024-09-12 [OpenAI o1 Contributions](https://openai.com/openai-o1-contributions) *(OpenAI News)*
+- [ ] 2024-09-12 [Economics and reasoning with OpenAI o1](https://openai.com/index/o1-economics) *(OpenAI News)*
+- [ ] 2024-09-12 [Answering quantum physics questions with OpenAI o1](https://openai.com/index/o1-quantum-physics) *(OpenAI News)*
+- [ ] 2024-09-12 [Decoding genetics with OpenAI o1](https://openai.com/index/o1-genetics) *(OpenAI News)*
+- [ ] 2024-09-12 [Coding with OpenAI o1](https://openai.com/index/o1-coding) *(OpenAI News)*
+- [ ] 2024-09-10 [Put AI to work: Lessons from hundreds of successful deployments](https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments) *(OpenAI News)*
+- [ ] 2024-09-05 [Using GPT-4 to deliver a new customer service standard](https://openai.com/index/ada) *(OpenAI News)*
+- [ ] 2024-08-26 [Personalizing education with ChatGPT](https://openai.com/index/asu) *(OpenAI News)*
+- [ ] 2024-08-26 [Fine-tuning GPT-4o webinar](https://openai.com/business/fine-tuning-gpt-4o-webinar) *(OpenAI News)*
+- [ ] 2024-08-20 [OpenAI partners with Condé Nast](https://openai.com/index/conde-nast) *(OpenAI News)*
+- [ ] 2024-08-20 [Fine-tuning now available for GPT-4o](https://openai.com/index/gpt-4o-fine-tuning) *(OpenAI News)*
+- [ ] 2024-08-20 [Putting AI to work at Upwork](https://openai.com/index/upwork) *(OpenAI News)*
+- [ ] 2024-08-16 [Disrupting a covert Iranian influence operation](https://openai.com/index/disrupting-a-covert-iranian-influence-operation) *(OpenAI News)*
+- [ ] 2024-08-15 [Delivering contextual job matching for millions with OpenAI](https://openai.com/index/indeed) *(OpenAI News)*
+- [ ] 2024-08-14 [Awakening Sleeping Beauties at The Met](https://openai.com/index/the-met-museum) *(OpenAI News)*
+- [ ] 2024-08-13 [Introducing SWE-bench Verified](https://openai.com/index/introducing-swe-bench-verified) *(OpenAI News)*
+- [ ] 2024-08-08 [Zico Kolter Joins OpenAI’s Board of Directors](https://openai.com/index/zico-kolter-joins-openais-board-of-directors) *(OpenAI News)*
+- [ ] 2024-08-08 [GPT-4o System Card External Testers Acknowledgements](https://openai.com/index/gpt-4o-system-card/external-testers-acknowledgements) *(OpenAI News)*
+- [ ] 2024-08-08 [GPT-4o System Card](https://openai.com/index/gpt-4o-system-card) *(OpenAI News)*
+- [ ] 2024-08-08 [Enabling a data-driven workforce](https://openai.com/business/enabling-a-data-driven-workforce-webinar) *(OpenAI News)*
+- [ ] 2024-08-07 [Pairing data with APIs to unlock customer value](https://openai.com/index/rakuten) *(OpenAI News)*
+- [ ] 2024-08-06 [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api) *(OpenAI News)*
+- [ ] 2024-07-30 [A Primer on the EU AI Act: What It Means for AI Providers and Deployers](https://openai.com/global-affairs/a-primer-on-the-eu-ai-act) *(OpenAI News)*
+- [ ] 2024-07-25 [SearchGPT is a prototype of new AI search features](https://openai.com/index/searchgpt-prototype) *(OpenAI News)*
+- [ ] 2024-07-24 [Improving Model Safety Behavior with Rule-Based Rewards](https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards) *(OpenAI News)*
+- [ ] 2024-07-18 [GPT-4o mini: advancing cost-efficient intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence) *(OpenAI News)*
+- [ ] 2024-07-18 [New compliance and administrative tools for ChatGPT Enterprise](https://openai.com/index/new-tools-for-chatgpt-enterprise) *(OpenAI News)*
+- [ ] 2024-07-17 [Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility) *(OpenAI News)*
+- [ ] 2024-07-10 [OpenAI and Los Alamos National Laboratory announce research partnership](https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together) *(OpenAI News)*
+- [ ] 2024-06-27 [Finding GPT-4’s mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4) *(OpenAI News)*
+- [ ] 2024-06-27 [Strategic Content Partnership with TIME](https://openai.com/index/strategic-content-partnership-with-time) *(OpenAI News)*
+- [ ] 2024-06-21 [OpenAI acquires Rockset](https://openai.com/index/openai-acquires-rockset) *(OpenAI News)*
+- [ ] 2024-06-20 [Empowering defenders through our Cybersecurity Grant Program](https://openai.com/index/empowering-defenders-through-our-cybersecurity-grant-program) *(OpenAI News)*
+- [ ] 2024-06-20 [A Holistic Approach to Undesired Content Detection in the Real World](https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world) *(OpenAI News)*
+- [ ] 2024-06-20 [Improved Techniques for Training Consistency Models](https://openai.com/index/improved-techniques-for-training-consistency-models) *(OpenAI News)*
+- [ ] 2024-06-20 [Consistency Models](https://openai.com/index/consistency-models) *(OpenAI News)*
+- [ ] 2024-06-18 [Surging developer productivity with custom GPTs](https://openai.com/index/paf) *(OpenAI News)*
+- [ ] 2024-06-18 [Achieving 10x growth with agentic sales prospecting](https://openai.com/index/clay) *(OpenAI News)*
+- [ ] 2024-06-17 [Using GPT-4o reasoning to transform cancer care](https://openai.com/index/color-health) *(OpenAI News)*
+- [ ] 2024-06-13 [OpenAI appoints Retired U.S. Army General Paul M. Nakasone to Board of Directors](https://openai.com/index/openai-appoints-retired-us-army-general) *(OpenAI News)*
+- [ ] 2024-06-10 [OpenAI and Apple announce partnership](https://openai.com/index/openai-and-apple-announce-partnership) *(OpenAI News)*
+- [ ] 2024-06-10 [OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)](https://openai.com/index/openai-welcomes-cfo-cpo) *(OpenAI News)*
+- [ ] 2024-06-07 [Expanding on how Voice Engine works and our safety research](https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research) *(OpenAI News)*
+- [ ] 2024-06-06 [Improving India’s critical care infrastructure](https://openai.com/index/10bedicu) *(OpenAI News)*
+- [ ] 2024-06-06 [Extracting Concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4) *(OpenAI News)*
+- [ ] 2024-06-05 [Securing Research Infrastructure for Advanced AI](https://openai.com/index/securing-research-infrastructure-for-advanced-ai) *(OpenAI News)*
+- [ ] 2024-05-30 [Disrupting deceptive uses of AI by covert influence operations](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations) *(OpenAI News)*
+- [ ] 2024-05-30 [OpenAI for Education](https://openai.com/index/introducing-chatgpt-edu) *(OpenAI News)*
+- [ ] 2024-05-30 [Introducing OpenAI for Nonprofits](https://openai.com/index/introducing-openai-for-nonprofits) *(OpenAI News)*
+- [ ] 2024-05-29 [Automating customer support agents](https://openai.com/index/mavenagi) *(OpenAI News)*
+- [ ] 2024-05-29 [The Newsroom AI Catalyst: a global program with WAN-IFRA](https://openai.com/index/newsroom-ai-catalyst-global-program-with-wan-ifra) *(OpenAI News)*
+- [ ] 2024-05-29 [Enhancing news in ChatGPT with The Atlantic](https://openai.com/index/enhancing-news-in-chatgpt-with-the-atlantic) *(OpenAI News)*
+- [ ] 2024-05-29 [A Content and Product Partnership with Vox Media](https://openai.com/index/a-content-and-product-partnership-with-vox-media) *(OpenAI News)*
+- [ ] 2024-05-28 [OpenAI Board Forms Safety and Security Committee](https://openai.com/index/openai-board-forms-safety-and-security-committee) *(OpenAI News)*
+- [ ] 2024-05-22 [A landmark multi-year global partnership with News Corp](https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership) *(OpenAI News)*
+- [ ] 2024-05-21 [OpenAI safety practices](https://openai.com/index/openai-safety-update) *(OpenAI News)*
+- [ ] 2024-05-19 [How the voices for ChatGPT were chosen](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen) *(OpenAI News)*
+- [ ] 2024-05-16 [Improvements to data analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt) *(OpenAI News)*
+- [ ] 2024-05-16 [OpenAI and Reddit Partnership](https://openai.com/index/openai-and-reddit-partnership) *(OpenAI News)*
+- [ ] 2024-05-16 [Creating an AI-powered Magic Studio](https://openai.com/index/canva) *(OpenAI News)*
+- [ ] 2024-05-14 [Ilya Sutskever to leave OpenAI, Jakub Pachocki announced as Chief Scientist](https://openai.com/index/jakub-pachocki-announced-as-chief-scientist) *(OpenAI News)*
+- [ ] 2024-05-14 [Collaborating with Carlyle to Chart the Future of Private Equity](https://openai.com/index/collaborating-with-carlyle-to-chart-the-future-of-private-equity) *(OpenAI News)*
+- [ ] 2024-05-13 [Hello GPT-4o](https://openai.com/index/hello-gpt-4o) *(OpenAI News)*
+- [ ] 2024-05-13 [Spring Update](https://openai.com/index/spring-update) *(OpenAI News)*
+- [ ] 2024-05-13 [Introducing GPT-4o and more tools to ChatGPT free users](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free) *(OpenAI News)*
+- [ ] 2024-05-08 [Introducing the Model Spec](https://openai.com/index/introducing-the-model-spec) *(OpenAI News)*
+- [ ] 2024-05-07 [Our approach to data and AI](https://openai.com/index/approach-to-data-and-ai) *(OpenAI News)*
+- [ ] 2024-05-07 [Understanding the source of what we see and hear online](https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online) *(OpenAI News)*
+- [ ] 2024-05-06 [API Partnership with Stack Overflow](https://openai.com/index/api-partnership-with-stack-overflow) *(OpenAI News)*
+- [ ] 2024-05-03 [Reimagining secure infrastructure for advanced AI](https://openai.com/index/reimagining-secure-infrastructure-for-advanced-ai) *(OpenAI News)*
+- [ ] 2024-04-29 [We’re bringing the Financial Times’ world-class journalism to ChatGPT](https://openai.com/index/content-partnership-with-financial-times) *(OpenAI News)*
+- [ ] 2024-04-24 [Accelerating the development of life-saving treatments](https://openai.com/index/moderna) *(OpenAI News)*
+- [ ] 2024-04-24 [Introducing ChatGPT and Whisper APIs](https://openai.com/index/introducing-chatgpt-and-whisper-apis) *(OpenAI News)*
+- [ ] 2024-04-24 [GPT-4 API general availability and deprecation of older models in the Completions API](https://openai.com/index/gpt-4-api-general-availability) *(OpenAI News)*
+- [ ] 2024-04-23 [Introducing more enterprise-grade features for API customers](https://openai.com/index/more-enterprise-grade-features-for-api-customers) *(OpenAI News)*
+- [ ] 2024-04-23 [OpenAI’s commitment to child safety: adopting safety by design principles](https://openai.com/index/child-safety-adopting-sbd-principles) *(OpenAI News)*
+- [ ] 2024-04-19 [The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://openai.com/index/the-instruction-hierarchy) *(OpenAI News)*
+- [ ] 2024-04-14 [Introducing OpenAI Japan](https://openai.com/index/introducing-openai-japan) *(OpenAI News)*
+- [ ] 2024-04-05 [Klarna's AI assistant does the work of 700 full-time agents](https://openai.com/index/klarna) *(OpenAI News)*
+- [ ] 2024-04-04 [Introducing improvements to the fine-tuning API and expanding our custom models program](https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program) *(OpenAI News)*
+- [ ] 2024-04-02 [Customizing models for legal professionals](https://openai.com/index/harvey) *(OpenAI News)*
+- [ ] 2024-04-01 [Start using ChatGPT instantly](https://openai.com/index/start-using-chatgpt-instantly) *(OpenAI News)*
+- [ ] 2024-04-01 [Reducing health insurance costs and improving care](https://openai.com/index/oscar) *(OpenAI News)*
+- [ ] 2024-03-29 [Navigating the challenges and opportunities of synthetic voices](https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices) *(OpenAI News)*
+- [ ] 2024-03-28 [Making education data accessible](https://openai.com/index/zelma) *(OpenAI News)*
+- [ ] 2024-03-27 [OpenAI’s comment to the NTIA on open model weights](https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights) *(OpenAI News)*
+- [ ] 2024-03-25 [Sora first impressions](https://openai.com/index/sora-first-impressions) *(OpenAI News)*
+- [ ] 2024-03-21 [Embedding AI into developer software](https://openai.com/index/jetbrains) *(OpenAI News)*
+- [ ] 2024-03-18 [Enterprise-ready trust and safety](https://openai.com/index/salesforce) *(OpenAI News)*
+- [ ] 2024-03-18 [Reimagining the email experience with AI](https://openai.com/index/superhuman) *(OpenAI News)*
+- [ ] 2024-03-18 [Building a data-driven, efficient culture with AI](https://openai.com/index/holiday-extras) *(OpenAI News)*
+- [ ] 2024-03-13 [Saving lives with AI health coaching](https://openai.com/index/healthify) *(OpenAI News)*
+- [ ] 2024-03-13 [Global news partnerships: Le Monde and Prisa Media](https://openai.com/index/global-news-partnerships-le-monde-and-prisa-media) *(OpenAI News)*
+- [ ] 2024-03-08 [OpenAI announces new members to board of directors](https://openai.com/index/openai-announces-new-members-to-board-of-directors) *(OpenAI News)*
+- [ ] 2024-03-08 [Review completed & Altman, Brockman to continue to lead OpenAI](https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai) *(OpenAI News)*
+- [ ] 2024-03-06 [Improving health literacy and patient well-being](https://openai.com/index/lifespan) *(OpenAI News)*
+- [ ] 2024-03-06 [Sparking a more productive company with ChatGPT Enterprise](https://openai.com/index/match-group) *(OpenAI News)*
+- [ ] 2024-03-06 [Using AI to improve patient access to clinical trials](https://openai.com/index/paradigm) *(OpenAI News)*
+- [ ] 2024-03-05 [OpenAI and Elon Musk](https://openai.com/index/openai-elon-musk) *(OpenAI News)*
+- [ ] 2024-02-15 [Video generation models as world simulators](https://openai.com/index/video-generation-models-as-world-simulators) *(OpenAI News)*
+- [ ] 2024-02-14 [Disrupting malicious uses of AI by state-affiliated threat actors](https://openai.com/index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors) *(OpenAI News)*
+- [ ] 2024-02-13 [Memory and new controls for ChatGPT](https://openai.com/index/memory-and-new-controls-for-chatgpt) *(OpenAI News)*
+- [ ] 2024-02-02 [Response to NIST Executive Order on AI](https://openai.com/global-affairs/response-to-nist-executive-order-on-ai) *(OpenAI News)*
+- [ ] 2024-01-31 [Building an early warning system for LLM-aided biological threat creation](https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation) *(OpenAI News)*
+- [ ] 2024-01-25 [New embedding models and API updates](https://openai.com/index/new-embedding-models-and-api-updates) *(OpenAI News)*
+- [ ] 2024-01-16 [Democratic inputs to AI grant program: lessons learned and implementation plans](https://openai.com/index/democratic-inputs-to-ai-grant-program-update) *(OpenAI News)*
+- [ ] 2024-01-15 [How OpenAI is approaching 2024 worldwide elections](https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections) *(OpenAI News)*
+- [ ] 2024-01-12 [Building agricultural database for farmers](https://openai.com/index/digital-green) *(OpenAI News)*
+- [ ] 2024-01-10 [Introducing ChatGPT Team](https://openai.com/index/introducing-chatgpt-team) *(OpenAI News)*
+- [ ] 2024-01-10 [Introducing the GPT Store](https://openai.com/index/introducing-the-gpt-store) *(OpenAI News)*
+- [ ] 2024-01-08 [OpenAI and journalism](https://openai.com/index/openai-and-journalism) *(OpenAI News)*
+- [ ] 2024-01-04 [Delivering LLM-powered health solutions](https://openai.com/index/whoop) *(OpenAI News)*
+- [ ] 2023-12-14 [Increasing accuracy of pediatric visit notes](https://openai.com/index/summer-health) *(OpenAI News)*
+- [ ] 2023-12-14 [Practices for Governing Agentic AI Systems](https://openai.com/index/practices-for-governing-agentic-ai-systems) *(OpenAI News)*
+- [ ] 2023-12-14 [Superalignment Fast Grants](https://openai.com/index/superalignment-fast-grants) *(OpenAI News)*
+- [ ] 2023-12-14 [Weak-to-strong generalization](https://openai.com/index/weak-to-strong-generalization) *(OpenAI News)*
+- [ ] 2023-12-13 [Partnership with Axel Springer to deepen beneficial use of AI in journalism](https://openai.com/index/axel-springer-partnership) *(OpenAI News)*
+- [ ] 2023-11-29 [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board) *(OpenAI News)*
+- [ ] 2023-11-17 [OpenAI announces leadership transition](https://openai.com/index/openai-announces-leadership-transition) *(OpenAI News)*
+- [ ] 2023-11-09 [OpenAI Data Partnerships](https://openai.com/index/data-partnerships) *(OpenAI News)*
+- [ ] 2023-11-06 [Introducing GPTs](https://openai.com/index/introducing-gpts) *(OpenAI News)*
+- [ ] 2023-11-06 [New models and developer products announced at DevDay](https://openai.com/index/new-models-and-developer-products-announced-at-devday) *(OpenAI News)*
+- [ ] 2023-10-26 [OpenAI’s Approach to Frontier Risk](https://openai.com/global-affairs/our-approach-to-frontier-risk) *(OpenAI News)*
+- [ ] 2023-10-26 [Frontier risk and preparedness](https://openai.com/index/frontier-risk-and-preparedness) *(OpenAI News)*
+- [ ] 2023-10-25 [Frontier Model Forum updates](https://openai.com/index/frontier-model-forum-updates) *(OpenAI News)*
+- [ ] 2023-10-19 [DALL·E 3 is now available in ChatGPT Plus and Enterprise](https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise) *(OpenAI News)*
+- [ ] 2023-10-11 [OpenAI’s technology explained](https://openai.com/global-affairs/openai-technology-explained) *(OpenAI News)*
+- [ ] 2023-10-11 [Simplifying contract reviews with AI](https://openai.com/index/ironclad) *(OpenAI News)*
+- [ ] 2023-10-11 [Building AI-powered apps for business](https://openai.com/index/retool) *(OpenAI News)*
+- [ ] 2023-10-11 [Evolving online forms into dynamic data](https://openai.com/index/typeform) *(OpenAI News)*
+- [ ] 2023-10-03 [DALL·E 3 system card](https://openai.com/index/dall-e-3-system-card) *(OpenAI News)*
+- [ ] 2023-09-25 [ChatGPT can now see, hear, and speak](https://openai.com/index/chatgpt-can-now-see-hear-and-speak) *(OpenAI News)*
+- [ ] 2023-09-25 [GPT-4V(ision) system card](https://openai.com/index/gpt-4v-system-card) *(OpenAI News)*
+- [ ] 2023-09-19 [OpenAI Red Teaming Network](https://openai.com/index/red-teaming-network) *(OpenAI News)*
+- [ ] 2023-09-13 [Introducing OpenAI Dublin](https://openai.com/index/introducing-openai-dublin) *(OpenAI News)*
+- [ ] 2023-09-06 [Join us for OpenAI’s first developer conference on November 6 in San Francisco](https://openai.com/index/announcing-openai-devday) *(OpenAI News)*
+- [ ] 2023-08-31 [Teaching with AI](https://openai.com/index/teaching-with-ai) *(OpenAI News)*
+- [ ] 2023-08-28 [Introducing ChatGPT Enterprise](https://openai.com/index/introducing-chatgpt-enterprise) *(OpenAI News)*
+- [ ] 2023-08-24 [OpenAI partners with Scale to provide support for enterprises fine-tuning models](https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models) *(OpenAI News)*
+- [ ] 2023-08-22 [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates) *(OpenAI News)*
+- [ ] 2023-08-16 [OpenAI acquires Global Illumination](https://openai.com/index/openai-acquires-global-illumination) *(OpenAI News)*
+- [ ] 2023-08-15 [Using GPT-4 for content moderation](https://openai.com/index/using-gpt-4-for-content-moderation) *(OpenAI News)*
+- [ ] 2023-08-01 [Confidence-Building Measures for Artificial Intelligence: Workshop proceedings](https://openai.com/index/confidence-building-measures-for-artificial-intelligence) *(OpenAI News)*
+- [ ] 2023-07-26 [Frontier Model Forum](https://openai.com/index/frontier-model-forum) *(OpenAI News)*
+- [ ] 2023-07-21 [Moving AI governance forward](https://openai.com/index/moving-ai-governance-forward) *(OpenAI News)*
+- [ ] 2023-07-20 [Custom instructions for ChatGPT](https://openai.com/index/custom-instructions-for-chatgpt) *(OpenAI News)*
+- [ ] 2023-07-18 [Partnership with American Journalism Project to support local news](https://openai.com/index/partnership-with-american-journalism-project-to-support-local-news) *(OpenAI News)*
+- [ ] 2023-07-07 [Accurately analyzing large scale qualitative data](https://openai.com/index/viable) *(OpenAI News)*
+- [ ] 2023-07-06 [Frontier AI regulation: Managing emerging risks to public safety](https://openai.com/index/frontier-ai-regulation) *(OpenAI News)*
+- [ ] 2023-06-29 [Insights from global conversations](https://openai.com/index/insights-from-global-conversations) *(OpenAI News)*
+- [ ] 2023-06-28 [Introducing OpenAI London](https://openai.com/index/introducing-openai-london) *(OpenAI News)*
+- [ ] 2023-06-22 [Questions for the Record](https://openai.com/global-affairs/sam-altman-senate-questions-for-the-record) *(OpenAI News)*
+- [ ] 2023-06-22 [Testimony before the U.S. Senate](https://openai.com/global-affairs/testimony-of-sam-altman-before-the-us-senate) *(OpenAI News)*
+- [ ] 2023-06-13 [Function calling and other API updates](https://openai.com/index/function-calling-and-other-api-updates) *(OpenAI News)*
+- [ ] 2023-06-12 [Comment on NTIA AI Accountability Policy](https://openai.com/global-affairs/comment-on-ntia-ai-accountability-policy) *(OpenAI News)*
+- [ ] 2023-06-01 [OpenAI Cybersecurity Grant Program](https://openai.com/index/openai-cybersecurity-grant-program) *(OpenAI News)*
+- [ ] 2023-05-31 [Improving mathematical reasoning with process supervision](https://openai.com/index/improving-mathematical-reasoning-with-process-supervision) *(OpenAI News)*
+- [ ] 2023-05-25 [Democratic inputs to AI](https://openai.com/index/democratic-inputs-to-ai) *(OpenAI News)*
+- [ ] 2023-05-22 [Governance of superintelligence](https://openai.com/index/governance-of-superintelligence) *(OpenAI News)*
+- [ ] 2023-05-18 [Introducing the ChatGPT app for iOS](https://openai.com/index/introducing-the-chatgpt-app-for-ios) *(OpenAI News)*
+- [ ] 2023-05-09 [Language models can explain neurons in language models](https://openai.com/index/language-models-can-explain-neurons-in-language-models) *(OpenAI News)*
+- [ ] 2023-04-25 [New ways to manage your data in ChatGPT](https://openai.com/index/new-ways-to-manage-your-data-in-chatgpt) *(OpenAI News)*
+- [ ] 2023-04-11 [Announcing OpenAI’s Bug Bounty Program](https://openai.com/index/bug-bounty-program) *(OpenAI News)*
+- [ ] 2023-04-05 [Our approach to AI safety](https://openai.com/index/our-approach-to-ai-safety) *(OpenAI News)*
+- [ ] 2023-03-24 [March 20 ChatGPT outage: Here’s what happened](https://openai.com/index/march-20-chatgpt-outage) *(OpenAI News)*
+- [ ] 2023-03-23 [ChatGPT plugins](https://openai.com/index/chatgpt-plugins) *(OpenAI News)*
+- [ ] 2023-03-17 [GPTs are GPTs: An early look at the labor market impact potential of large language models](https://openai.com/index/gpts-are-gpts) *(OpenAI News)*
+- [ ] 2023-03-14 [Preserving languages for the future](https://openai.com/index/government-of-iceland) *(OpenAI News)*
+- [ ] 2023-03-14 [Transforming visual accessibility](https://openai.com/index/be-my-eyes) *(OpenAI News)*
+- [ ] 2023-03-14 [GPT-4](https://openai.com/index/gpt-4-research) *(OpenAI News)*
+- [ ] 2023-03-14 [Streamlining financial solutions for safety and growth](https://openai.com/index/stripe) *(OpenAI News)*
+- [ ] 2023-03-14 [Powering virtual education for the classroom](https://openai.com/index/khan-academy) *(OpenAI News)*
+- [ ] 2023-03-14 [Filling crucial language learning gaps](https://openai.com/index/duolingo) *(OpenAI News)*
+- [ ] 2023-02-24 [Planning for AGI and beyond](https://openai.com/index/planning-for-agi-and-beyond) *(OpenAI News)*
+- [ ] 2023-02-16 [How should AI systems behave, and who should decide?](https://openai.com/index/how-should-ai-systems-behave) *(OpenAI News)*
+- [ ] 2023-02-01 [Introducing ChatGPT Plus](https://openai.com/index/chatgpt-plus) *(OpenAI News)*
+- [ ] 2023-01-31 [New AI classifier for indicating AI-written text](https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text) *(OpenAI News)*
+- [ ] 2023-01-23 [OpenAI and Microsoft extend partnership](https://openai.com/index/openai-and-microsoft-extend-partnership) *(OpenAI News)*
+- [ ] 2023-01-11 [Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk](https://openai.com/index/forecasting-misuse) *(OpenAI News)*
+- [ ] 2023-01-04 [Delivering nuanced insights from customer feedback](https://openai.com/index/yabble) *(OpenAI News)*
+- [ ] 2023-01-03 [Fine-tuning GPT-3 to scale video creation](https://openai.com/index/waymark) *(OpenAI News)*
+- [ ] 2023-01-01 [Creating next-gen characters](https://openai.com/index/inworld-ai-DO-NOT-PUBLISH) *(OpenAI News)*
+- [ ] 2022-12-23 [The power of continuous learning](https://openai.com/index/the-power-of-continuous-learning) *(OpenAI News)*
+- [ ] 2022-12-16 [Point-E: A system for generating 3D point clouds from complex prompts](https://openai.com/index/point-e) *(OpenAI News)*
+- [ ] 2022-12-15 [New and improved embedding model](https://openai.com/index/new-and-improved-embedding-model) *(OpenAI News)*
+- [ ] 2022-12-08 [Discovering the minutiae of backend systems](https://openai.com/index/discovering-the-minutiae-of-backend-systems) *(OpenAI News)*
+- [ ] 2022-11-30 [Introducing ChatGPT](https://openai.com/index/chatgpt) *(OpenAI News)*
+- [ ] 2022-11-03 [DALL·E API now available in public beta](https://openai.com/index/dall-e-api-now-available-in-public-beta) *(OpenAI News)*
+- [ ] 2022-10-19 [Scaling laws for reward model overoptimization](https://openai.com/index/scaling-laws-for-reward-model-overoptimization) *(OpenAI News)*
+- [ ] 2022-09-28 [DALL·E now available without waitlist](https://openai.com/index/dall-e-now-available-without-waitlist) *(OpenAI News)*
+- [ ] 2022-09-21 [Introducing Whisper](https://openai.com/index/whisper) *(OpenAI News)*
+- [ ] 2022-08-31 [DALL·E: Introducing outpainting](https://openai.com/index/dall-e-introducing-outpainting) *(OpenAI News)*
+- [ ] 2022-08-24 [Our approach to alignment research](https://openai.com/index/our-approach-to-alignment-research) *(OpenAI News)*
+- [ ] 2022-08-10 [New and improved content moderation tooling](https://openai.com/index/new-and-improved-content-moderation-tooling) *(OpenAI News)*
+- [ ] 2022-07-28 [Efficient training of language models to fill in the middle](https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle) *(OpenAI News)*
+- [ ] 2022-07-25 [A hazard analysis framework for code synthesis large language models](https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models) *(OpenAI News)*
+- [ ] 2022-07-20 [DALL·E now available in beta](https://openai.com/index/dall-e-now-available-in-beta) *(OpenAI News)*
+- [ ] 2022-07-18 [Reducing bias and improving safety in DALL·E 2](https://openai.com/index/reducing-bias-and-improving-safety-in-dall-e-2) *(OpenAI News)*
+- [ ] 2022-07-14 [DALL·E 2: Extending creativity](https://openai.com/index/dall-e-2-extending-creativity) *(OpenAI News)*
+- [ ] 2022-06-28 [DALL·E 2 pre-training mitigations](https://openai.com/index/dall-e-2-pre-training-mitigations) *(OpenAI News)*
+- [ ] 2022-06-23 [Learning to play Minecraft with Video PreTraining](https://openai.com/index/vpt) *(OpenAI News)*
+- [ ] 2022-06-17 [Evolution through large models](https://openai.com/index/evolution-through-large-models) *(OpenAI News)*
+- [ ] 2022-06-13 [AI-written critiques help humans notice flaws](https://openai.com/index/critiques) *(OpenAI News)*
+- [ ] 2022-06-09 [Techniques for training large neural networks](https://openai.com/index/techniques-for-training-large-neural-networks) *(OpenAI News)*
+- [ ] 2022-06-02 [Best practices for deploying language models](https://openai.com/index/best-practices-for-deploying-language-models) *(OpenAI News)*
+- [ ] 2022-05-28 [Teaching models to express their uncertainty in words](https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words) *(OpenAI News)*
+- [ ] 2022-05-24 [Powering next generation applications with OpenAI Codex](https://openai.com/index/codex-apps) *(OpenAI News)*
+- [ ] 2022-05-18 [DALL·E 2 research preview update](https://openai.com/index/dall-e-2-update) *(OpenAI News)*
+- [ ] 2022-05-05 [OpenAI leadership team update](https://openai.com/index/leadership-team-update) *(OpenAI News)*
+- [ ] 2022-04-13 [Hierarchical text-conditional image generation with CLIP latents](https://openai.com/index/hierarchical-text-conditional-image-generation-with-clip-latents) *(OpenAI News)*
+- [ ] 2022-04-13 [Measuring Goodhart’s law](https://openai.com/index/measuring-goodharts-law) *(OpenAI News)*
+- [ ] 2022-03-15 [New GPT-3 capabilities: Edit & insert](https://openai.com/index/gpt-3-edit-insert) *(OpenAI News)*
+- [ ] 2022-03-03 [A research agenda for assessing the economic impacts of code generation models](https://openai.com/index/economic-impacts-research) *(OpenAI News)*
+- [ ] 2022-03-03 [Economic impacts research at OpenAI](https://openai.com/index/economic-impacts) *(OpenAI News)*
+- [ ] 2022-03-03 [Lessons learned on language model safety and misuse](https://openai.com/index/language-model-safety-and-misuse) *(OpenAI News)*
+- [ ] 2022-02-02 [Solving (some) formal math olympiad problems](https://openai.com/index/formal-math) *(OpenAI News)*
+- [ ] 2022-01-27 [Aligning language models to follow instructions](https://openai.com/index/instruction-following) *(OpenAI News)*
+- [ ] 2022-01-25 [Introducing text and code embeddings](https://openai.com/index/introducing-text-and-code-embeddings) *(OpenAI News)*
+- [ ] 2022-01-24 [Text and code embeddings by contrastive pre-training](https://openai.com/index/text-and-code-embeddings-by-contrastive-pre-training) *(OpenAI News)*
+- [ ] 2021-12-16 [WebGPT: Improving the factual accuracy of language models through web browsing](https://openai.com/index/webgpt) *(OpenAI News)*
+- [ ] 2021-12-14 [Customizing GPT-3 for your application](https://openai.com/index/customizing-gpt-3) *(OpenAI News)*
+- [ ] 2021-11-30 [OpenAI Residency](https://openai.com/index/openai-residency) *(OpenAI News)*
+- [ ] 2021-11-18 [OpenAI’s API now available with no waitlist](https://openai.com/index/api-no-waitlist) *(OpenAI News)*
+- [ ] 2021-10-29 [Solving math word problems](https://openai.com/index/solving-math-word-problems) *(OpenAI News)*
+- [ ] 2021-09-23 [Summarizing books with human feedback](https://openai.com/index/summarizing-books) *(OpenAI News)*
+- [ ] 2021-09-08 [TruthfulQA: Measuring how models mimic human falsehoods](https://openai.com/index/truthfulqa) *(OpenAI News)*
+- [ ] 2021-09-08 [Helen Toner joins OpenAI’s board of directors](https://openai.com/index/helen-toner-joins) *(OpenAI News)*
+- [ ] 2021-08-10 [OpenAI Codex](https://openai.com/index/openai-codex) *(OpenAI News)*
+- [ ] 2021-07-28 [Introducing Triton: Open-source GPU programming for neural networks](https://openai.com/index/triton) *(OpenAI News)*
+- [ ] 2021-07-07 [Evaluating large language models trained on code](https://openai.com/index/evaluating-large-language-models-trained-on-code) *(OpenAI News)*
+- [ ] 2021-06-10 [Improving language model behavior by training on a curated dataset](https://openai.com/index/improving-language-model-behavior) *(OpenAI News)*
+- [ ] 2021-05-10 [OpenAI Scholars 2021: Final projects](https://openai.com/index/openai-scholars-2021-final-projects) *(OpenAI News)*
+- [ ] 2021-05-03 [Will Hurd joins OpenAI’s board of directors](https://openai.com/index/will-hurd-joins) *(OpenAI News)*
+- [ ] 2021-03-25 [GPT-3 powers the next generation of apps](https://openai.com/index/gpt-3-apps) *(OpenAI News)*
+- [ ] 2021-03-04 [Multimodal neurons in artificial neural networks](https://openai.com/index/multimodal-neurons) *(OpenAI News)*
+- [ ] 2021-02-04 [Understanding the capabilities, limitations, and societal impact of large language models](https://openai.com/index/understanding-the-capabilities-limitations-and-societal-impact-of-large-language-models) *(OpenAI News)*
+- [ ] 2021-01-25 [Scaling Kubernetes to 7,500 nodes](https://openai.com/index/scaling-kubernetes-to-7500-nodes) *(OpenAI News)*
+- [ ] 2021-01-05 [DALL·E: Creating images from text](https://openai.com/index/dall-e) *(OpenAI News)*
+- [ ] 2021-01-05 [CLIP: Connecting text and images](https://openai.com/index/clip) *(OpenAI News)*
+- [ ] 2020-12-29 [Organizational update from OpenAI](https://openai.com/index/organizational-update) *(OpenAI News)*
+- [ ] 2020-09-22 [OpenAI licenses GPT-3 technology to Microsoft](https://openai.com/index/openai-licenses-gpt-3-technology-to-microsoft) *(OpenAI News)*
+- [ ] 2020-09-07 [Generative language modeling for automated theorem proving](https://openai.com/index/generative-language-modeling-for-automated-theorem-proving) *(OpenAI News)*
+- [ ] 2020-09-04 [Learning to summarize with human feedback](https://openai.com/index/learning-to-summarize-with-human-feedback) *(OpenAI News)*
+- [ ] 2020-07-09 [OpenAI Scholars 2020: Final projects](https://openai.com/index/openai-scholars-2020-final-projects) *(OpenAI News)*
+- [ ] 2020-06-20 [Procgen and MineRL Competitions](https://openai.com/index/procgen-minerl-competitions) *(OpenAI News)*
+- [ ] 2020-06-17 [Image GPT](https://openai.com/index/image-gpt) *(OpenAI News)*
+- [ ] 2020-06-11 [OpenAI API](https://openai.com/index/openai-api) *(OpenAI News)*
+- [ ] 2020-05-28 [Language models are few-shot learners](https://openai.com/index/language-models-are-few-shot-learners) *(OpenAI News)*
+- [ ] 2020-05-05 [AI and efficiency](https://openai.com/index/ai-and-efficiency) *(OpenAI News)*
+- [ ] 2020-04-30 [Jukebox](https://openai.com/index/jukebox) *(OpenAI News)*
+- [ ] 2020-04-16 [Improving verifiability in AI development](https://openai.com/index/improving-verifiability) *(OpenAI News)*
+- [ ] 2020-04-14 [OpenAI Microscope](https://openai.com/index/microscope) *(OpenAI News)*
+- [ ] 2020-01-30 [OpenAI standardizes on PyTorch](https://openai.com/index/openai-pytorch) *(OpenAI News)*
+- [ ] 2020-01-23 [Scaling laws for neural language models](https://openai.com/index/scaling-laws-for-neural-language-models) *(OpenAI News)*
+- [ ] 2019-12-13 [Dota 2 with large scale deep reinforcement learning](https://openai.com/index/dota-2-with-large-scale-deep-reinforcement-learning) *(OpenAI News)*
+- [ ] 2019-12-05 [Deep double descent](https://openai.com/index/deep-double-descent) *(OpenAI News)*
+- [ ] 2019-12-03 [Procgen Benchmark](https://openai.com/index/procgen-benchmark) *(OpenAI News)*
+- [ ] 2019-11-21 [Safety Gym](https://openai.com/index/safety-gym) *(OpenAI News)*
+- [ ] 2019-11-21 [Benchmarking safe exploration in deep reinforcement learning](https://openai.com/index/benchmarking-safe-exploration-in-deep-reinforcement-learning) *(OpenAI News)*
+- [ ] 2019-11-05 [GPT-2: 1.5B release](https://openai.com/index/gpt-2-1-5b-release) *(OpenAI News)*
+- [ ] 2019-10-15 [Solving Rubik’s Cube with a robot hand](https://openai.com/index/solving-rubiks-cube) *(OpenAI News)*
+- [ ] 2019-10-11 [OpenAI Scholars 2020: Applications open](https://openai.com/index/openai-scholars-2020) *(OpenAI News)*
+- [ ] 2019-09-19 [Fine-tuning GPT-2 from human preferences](https://openai.com/index/fine-tuning-gpt-2) *(OpenAI News)*
+- [ ] 2019-09-17 [Emergent tool use from multi-agent interaction](https://openai.com/index/emergent-tool-use) *(OpenAI News)*
+- [ ] 2019-08-22 [Testing robustness against unforeseen adversaries](https://openai.com/index/testing-robustness) *(OpenAI News)*
+- [ ] 2019-08-20 [GPT-2: 6-month follow-up](https://openai.com/index/gpt-2-6-month-follow-up) *(OpenAI News)*
+- [ ] 2019-08-01 [Learning Day](https://openai.com/index/learning-day) *(OpenAI News)*
+- [ ] 2019-07-22 [Microsoft invests in and partners with OpenAI to support us building beneficial AGI](https://openai.com/index/microsoft-invests-in-and-partners-with-openai) *(OpenAI News)*
+- [ ] 2019-07-10 [Why responsible AI development needs cooperation on safety](https://openai.com/index/cooperation-on-safety) *(OpenAI News)*
+- [ ] 2019-06-05 [OpenAI Robotics Symposium 2019](https://openai.com/index/symposium-2019) *(OpenAI News)*
+- [ ] 2019-05-23 [OpenAI Scholars 2019: Final projects](https://openai.com/index/openai-scholars-2019-final-projects) *(OpenAI News)*
+- [ ] 2019-05-17 [OpenAI Fellows Fall 2018: Final projects](https://openai.com/index/openai-fellows-fall-2018) *(OpenAI News)*
+- [ ] 2019-05-03 [Transfer of adversarial robustness between perturbation types](https://openai.com/index/transfer-of-adversarial-robustness-between-perturbation-types) *(OpenAI News)*
+- [ ] 2019-04-25 [MuseNet](https://openai.com/index/musenet) *(OpenAI News)*
+- [ ] 2019-04-23 [Generative modeling with sparse transformers](https://openai.com/index/sparse-transformer) *(OpenAI News)*
+- [ ] 2019-04-15 [OpenAI Five defeats Dota 2 world champions](https://openai.com/index/openai-five-defeats-dota-2-world-champions) *(OpenAI News)*
+- [ ] 2019-03-26 [OpenAI Five Finals](https://openai.com/index/openai-five-finals) *(OpenAI News)*
+- [ ] 2019-03-21 [Implicit generation and generalization methods for energy-based models](https://openai.com/index/energy-based-models) *(OpenAI News)*
+- [ ] 2019-03-13 [OpenAI Scholars 2019: Meet our Scholars](https://openai.com/index/openai-scholars-2019-meet-our-scholars) *(OpenAI News)*
+- [ ] 2019-03-11 [OpenAI LP](https://openai.com/index/openai-lp) *(OpenAI News)*
+- [ ] 2019-03-06 [Introducing Activation Atlases](https://openai.com/index/introducing-activation-atlases) *(OpenAI News)*
+- [ ] 2019-03-04 [Neural MMO: A massively multiagent game environment](https://openai.com/index/neural-mmo) *(OpenAI News)*
+- [ ] 2019-02-26 [Spinning Up in Deep RL: Workshop review](https://openai.com/index/spinning-up-in-deep-rl-workshop-review) *(OpenAI News)*
+- [ ] 2019-02-19 [AI safety needs social scientists](https://openai.com/index/ai-safety-needs-social-scientists) *(OpenAI News)*
+- [ ] 2019-02-14 [Better language models and their implications](https://openai.com/index/better-language-models) *(OpenAI News)*
+- [ ] 2019-02-04 [Computational limitations in robust classification and win-win results](https://openai.com/index/computational-limitations-in-robust-classification-and-win-win-results) *(OpenAI News)*
+- [ ] 2018-12-19 [OpenAI Fellows Summer 2018: Final projects](https://openai.com/index/openai-summer-fellows-2018) *(OpenAI News)*
+- [ ] 2018-12-14 [How AI training scales](https://openai.com/index/how-ai-training-scales) *(OpenAI News)*
+- [ ] 2018-12-06 [Quantifying generalization in reinforcement learning](https://openai.com/index/quantifying-generalization-in-reinforcement-learning) *(OpenAI News)*
+- [ ] 2018-11-08 [Spinning Up in Deep RL](https://openai.com/index/spinning-up-in-deep-rl) *(OpenAI News)*
+- [ ] 2018-11-07 [Learning concepts with energy functions](https://openai.com/index/learning-concepts-with-energy-functions) *(OpenAI News)*
+- [ ] 2018-11-05 [Plan online, learn offline: Efficient learning and exploration via model-based control](https://openai.com/index/plan-online-learn-offline) *(OpenAI News)*
+- [ ] 2018-10-31 [Reinforcement learning with prediction-based rewards](https://openai.com/index/reinforcement-learning-with-prediction-based-rewards) *(OpenAI News)*
+- [ ] 2018-10-22 [Learning complex goals with iterated amplification](https://openai.com/index/learning-complex-goals-with-iterated-amplification) *(OpenAI News)*
+- [ ] 2018-10-11 [OpenAI Scholars 2019: Applications open](https://openai.com/index/openai-scholars-2019) *(OpenAI News)*
+- [ ] 2018-10-09 [OpenAI Fellows Winter 2019 & Interns Summer 2019](https://openai.com/index/openai-fellows-interns-2019) *(OpenAI News)*
+- [ ] 2018-10-02 [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://openai.com/index/ffjord) *(OpenAI News)*
+- [ ] 2018-09-10 [OpenAI Scholars 2018: Final projects](https://openai.com/index/openai-scholars-2018-final-projects) *(OpenAI News)*
+- [ ] 2018-08-23 [The International 2018: Results](https://openai.com/index/the-international-2018-results) *(OpenAI News)*
+- [ ] 2018-08-13 [Large-scale study of curiosity-driven learning](https://openai.com/index/large-scale-study-of-curiosity-driven-learning) *(OpenAI News)*
+- [ ] 2018-08-06 [OpenAI Five Benchmark: Results](https://openai.com/index/openai-five-benchmark-results) *(OpenAI News)*
+- [ ] 2018-07-30 [Learning dexterity](https://openai.com/index/learning-dexterity) *(OpenAI News)*
+- [ ] 2018-07-26 [Variational option discovery algorithms](https://openai.com/index/variational-option-discovery-algorithms) *(OpenAI News)*
+- [ ] 2018-07-25 [OpenAI Scholars 2018: Meet our Scholars](https://openai.com/index/openai-scholars-2018-meet-our-scholars) *(OpenAI News)*
+- [ ] 2018-07-18 [OpenAI Five Benchmark](https://openai.com/index/openai-five-benchmark) *(OpenAI News)*
+- [ ] 2018-07-09 [Glow: Better reversible generative models](https://openai.com/index/glow) *(OpenAI News)*
+- [ ] 2018-07-04 [Learning Montezuma’s Revenge from a single demonstration](https://openai.com/index/learning-montezumas-revenge-from-a-single-demonstration) *(OpenAI News)*
+- [ ] 2018-06-25 [OpenAI Five](https://openai.com/index/openai-five) *(OpenAI News)*
+- [ ] 2018-06-22 [Retro Contest: Results](https://openai.com/index/retro-contest-results) *(OpenAI News)*
+- [ ] 2018-06-17 [Learning policy representations in multiagent systems](https://openai.com/index/learning-policy-representations-in-multiagent-systems) *(OpenAI News)*
+- [ ] 2018-06-11 [Improving language understanding with unsupervised learning](https://openai.com/index/language-unsupervised) *(OpenAI News)*
+- [ ] 2018-06-02 [GamePad: A learning environment for theorem proving](https://openai.com/index/gamepad) *(OpenAI News)*
+- [ ] 2018-05-30 [OpenAI Fellows Fall 2018](https://openai.com/index/openai-fellows) *(OpenAI News)*
+- [ ] 2018-05-25 [Gym Retro](https://openai.com/index/gym-retro) *(OpenAI News)*
+- [ ] 2018-05-16 [AI and compute](https://openai.com/index/ai-and-compute) *(OpenAI News)*
+- [ ] 2018-05-03 [AI safety via debate](https://openai.com/index/debate) *(OpenAI News)*
+- [ ] 2018-04-18 [Evolved Policy Gradients](https://openai.com/index/evolved-policy-gradients) *(OpenAI News)*
+- [ ] 2018-04-10 [Gotta Learn Fast: A new benchmark for generalization in RL](https://openai.com/index/gotta-learn-fast) *(OpenAI News)*
+- [ ] 2018-04-05 [Retro Contest](https://openai.com/index/retro-contest) *(OpenAI News)*
+- [ ] 2018-03-20 [Variance reduction for policy gradient with action-dependent factorized baselines](https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines) *(OpenAI News)*
+- [ ] 2018-03-15 [Improving GANs using optimal transport](https://openai.com/index/improving-gans-using-optimal-transport) *(OpenAI News)*
+- [ ] 2018-03-15 [Report from the OpenAI hackathon](https://openai.com/index/hackathon-follow-up) *(OpenAI News)*
+- [ ] 2018-03-08 [On first-order meta-learning algorithms](https://openai.com/index/on-first-order-meta-learning-algorithms) *(OpenAI News)*
+- [ ] 2018-03-07 [Reptile: A scalable meta-learning algorithm](https://openai.com/index/reptile) *(OpenAI News)*
+- [ ] 2018-03-06 [OpenAI Scholars](https://openai.com/index/openai-scholars) *(OpenAI News)*
+- [ ] 2018-03-03 [Some considerations on learning to explore via meta-reinforcement learning](https://openai.com/index/some-considerations-on-learning-to-explore-via-meta-reinforcement-learning) *(OpenAI News)*
+- [ ] 2018-02-26 [Ingredients for robotics research](https://openai.com/index/ingredients-for-robotics-research) *(OpenAI News)*
+- [ ] 2018-02-26 [Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research](https://openai.com/index/multi-goal-reinforcement-learning) *(OpenAI News)*
+- [ ] 2018-02-22 [OpenAI hackathon](https://openai.com/index/openai-hackathon) *(OpenAI News)*
+- [ ] 2018-02-20 [Preparing for malicious uses of AI](https://openai.com/index/preparing-for-malicious-uses-of-ai) *(OpenAI News)*
+- [ ] 2018-02-20 [OpenAI supporters](https://openai.com/index/openai-supporters) *(OpenAI News)*
+- [ ] 2018-02-15 [Interpretable machine learning through teaching](https://openai.com/index/interpretable-machine-learning-through-teaching) *(OpenAI News)*
+- [ ] 2018-02-07 [Discovering types for entity disambiguation](https://openai.com/index/discovering-types-for-entity-disambiguation) *(OpenAI News)*
+- [ ] 2018-01-31 [Requests for Research 2.0](https://openai.com/index/requests-for-research-2) *(OpenAI News)*
+- [ ] 2018-01-18 [Scaling Kubernetes to 2,500 nodes](https://openai.com/index/scaling-kubernetes-to-2500-nodes) *(OpenAI News)*
+- [ ] 2017-12-06 [Block-sparse GPU kernels](https://openai.com/index/block-sparse-gpu-kernels) *(OpenAI News)*
+- [ ] 2017-12-04 [Learning sparse neural networks through L₀ regularization](https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization) *(OpenAI News)*
+- [ ] 2017-11-02 [Interpretable and pedagogical examples](https://openai.com/index/interpretable-and-pedagogical-examples) *(OpenAI News)*
+- [ ] 2017-10-26 [Learning a hierarchy](https://openai.com/index/learning-a-hierarchy) *(OpenAI News)*
+- [ ] 2017-10-19 [Generalizing from simulation](https://openai.com/index/generalizing-from-simulation) *(OpenAI News)*
+- [ ] 2017-10-18 [Sim-to-real transfer of robotic control with dynamics randomization](https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization) *(OpenAI News)*
+- [ ] 2017-10-18 [Asymmetric actor critic for image-based robot learning](https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning) *(OpenAI News)*
+- [ ] 2017-10-17 [Domain randomization and generative models for robotic grasping](https://openai.com/index/domain-randomization-and-generative-models-for-robotic-grasping) *(OpenAI News)*
+- [ ] 2017-10-11 [Competitive self-play](https://openai.com/index/competitive-self-play) *(OpenAI News)*
+- [ ] 2017-10-11 [Meta-learning for wrestling](https://openai.com/index/meta-learning-for-wrestling) *(OpenAI News)*
+- [ ] 2017-09-29 [Nonlinear computation in deep linear networks](https://openai.com/index/nonlinear-computation-in-deep-linear-networks) *(OpenAI News)*
+- [ ] 2017-09-14 [Learning to model other minds](https://openai.com/index/learning-to-model-other-minds) *(OpenAI News)*
+- [ ] 2017-09-13 [Learning with opponent-learning awareness](https://openai.com/index/learning-with-opponent-learning-awareness) *(OpenAI News)*
+- [ ] 2017-08-18 [OpenAI Baselines: ACKTR & A2C](https://openai.com/index/openai-baselines-acktr-a2c) *(OpenAI News)*
+- [ ] 2017-08-16 [More on Dota 2](https://openai.com/index/more-on-dota-2) *(OpenAI News)*
+- [ ] 2017-08-11 [Dota 2](https://openai.com/index/dota-2) *(OpenAI News)*
+- [ ] 2017-08-03 [Gathering human feedback](https://openai.com/index/gathering-human-feedback) *(OpenAI News)*
+- [ ] 2017-07-27 [Better exploration with parameter noise](https://openai.com/index/better-exploration-with-parameter-noise) *(OpenAI News)*
+- [ ] 2017-07-20 [Proximal Policy Optimization](https://openai.com/index/openai-baselines-ppo) *(OpenAI News)*
+- [ ] 2017-07-17 [Robust adversarial inputs](https://openai.com/index/robust-adversarial-inputs) *(OpenAI News)*
+- [ ] 2017-07-05 [Hindsight Experience Replay](https://openai.com/index/hindsight-experience-replay) *(OpenAI News)*
+- [ ] 2017-07-01 [Teacher–student curriculum learning](https://openai.com/index/teacher-student-curriculum-learning) *(OpenAI News)*
+- [ ] 2017-06-28 [Faster physics in Python](https://openai.com/index/faster-physics-in-python) *(OpenAI News)*
+- [ ] 2017-06-13 [Learning from human preferences](https://openai.com/index/learning-from-human-preferences) *(OpenAI News)*
+- [ ] 2017-06-08 [Learning to cooperate, compete, and communicate](https://openai.com/index/learning-to-cooperate-compete-and-communicate) *(OpenAI News)*
+- [ ] 2017-06-05 [UCB exploration via Q-ensembles](https://openai.com/index/ucb-exploration-via-q-ensembles) *(OpenAI News)*
+- [ ] 2017-05-24 [OpenAI Baselines: DQN](https://openai.com/index/openai-baselines-dqn) *(OpenAI News)*
+- [ ] 2017-05-16 [Robots that learn](https://openai.com/index/robots-that-learn) *(OpenAI News)*
+- [ ] 2017-05-15 [Roboschool](https://openai.com/index/roboschool) *(OpenAI News)*
+- [ ] 2017-04-21 [Equivalence between policy gradients and soft Q-learning](https://openai.com/index/equivalence-between-policy-gradients-and-soft-q-learning) *(OpenAI News)*
+- [ ] 2017-04-10 [Stochastic Neural Networks for hierarchical reinforcement learning](https://openai.com/index/stochastic-neural-networks-for-hierarchical-reinforcement-learning) *(OpenAI News)*
+- [ ] 2017-04-06 [Unsupervised sentiment neuron](https://openai.com/index/unsupervised-sentiment-neuron) *(OpenAI News)*
+- [ ] 2017-04-01 [Spam detection in the physical world](https://openai.com/index/spam-detection-in-the-physical-world) *(OpenAI News)*
+- [ ] 2017-03-24 [Evolution strategies as a scalable alternative to reinforcement learning](https://openai.com/index/evolution-strategies) *(OpenAI News)*
+- [ ] 2017-03-21 [One-shot imitation learning](https://openai.com/index/one-shot-imitation-learning) *(OpenAI News)*
+- [ ] 2017-03-20 [Distill](https://openai.com/index/distill) *(OpenAI News)*
+- [ ] 2017-03-16 [Learning to communicate](https://openai.com/index/learning-to-communicate) *(OpenAI News)*
+- [ ] 2017-03-15 [Emergence of grounded compositional language in multi-agent populations](https://openai.com/index/emergence-of-grounded-compositional-language-in-multi-agent-populations) *(OpenAI News)*
+- [ ] 2017-03-12 [Prediction and control with temporal segment models](https://openai.com/index/prediction-and-control-with-temporal-segment-models) *(OpenAI News)*
+- [ ] 2017-03-06 [Third-person imitation learning](https://openai.com/index/third-person-imitation-learning) *(OpenAI News)*
+- [ ] 2017-02-24 [Attacking machine learning with adversarial examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples) *(OpenAI News)*
+- [ ] 2017-02-08 [Adversarial attacks on neural network policies](https://openai.com/index/adversarial-attacks-on-neural-network-policies) *(OpenAI News)*
+- [ ] 2017-01-30 [Team update](https://openai.com/index/team-update-january) *(OpenAI News)*
+- [ ] 2017-01-19 [PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications](https://openai.com/index/pixelcnn-plus-plus) *(OpenAI News)*
+- [ ] 2016-12-21 [Faulty reward functions in the wild](https://openai.com/index/faulty-reward-functions) *(OpenAI News)*
+- [ ] 2016-12-05 [Universe](https://openai.com/index/universe) *(OpenAI News)*
+- [ ] 2016-11-15 [#Exploration: A study of count-based exploration for deep reinforcement learning](https://openai.com/index/exploration) *(OpenAI News)*
+- [ ] 2016-11-15 [OpenAI and Microsoft](https://openai.com/index/openai-and-microsoft) *(OpenAI News)*
+- [ ] 2016-11-14 [On the quantitative analysis of decoder-based generative models](https://openai.com/index/on-the-quantitative-analysis-of-decoder-based-generative-models) *(OpenAI News)*
+- [ ] 2016-11-11 [A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models](https://openai.com/index/a-connection-between-generative-adversarial-networks-inverse-reinforcement-learning-and-energy-based-models) *(OpenAI News)*
+- [ ] 2016-11-09 [RL²: Fast reinforcement learning via slow reinforcement learning](https://openai.com/index/rl2) *(OpenAI News)*
+- [ ] 2016-11-08 [Variational lossy autoencoder](https://openai.com/index/variational-lossy-autoencoder) *(OpenAI News)*
+- [ ] 2016-11-02 [Extensions and limitations of the neural GPU](https://openai.com/index/extensions-and-limitations-of-the-neural-gpu) *(OpenAI News)*
+- [ ] 2016-10-18 [Semi-supervised knowledge transfer for deep learning from private training data](https://openai.com/index/semi-supervised-knowledge-transfer-for-deep-learning-from-private-training-data) *(OpenAI News)*
+- [ ] 2016-10-13 [Report from the self-organizing conference](https://openai.com/index/report-from-the-self-organizing-conference) *(OpenAI News)*
+- [ ] 2016-10-11 [Transfer from simulation to real world through learning deep inverse dynamics model](https://openai.com/index/transfer-from-simulation-to-real-world-through-learning-deep-inverse-dynamics-model) *(OpenAI News)*
+- [ ] 2016-08-29 [Infrastructure for deep learning](https://openai.com/index/infrastructure-for-deep-learning) *(OpenAI News)*
+- [ ] 2016-08-18 [Machine Learning Unconference](https://openai.com/index/machine-learning-unconference) *(OpenAI News)*
+- [ ] 2016-08-16 [Team update](https://openai.com/index/team-update-august) *(OpenAI News)*
+- [ ] 2016-07-28 [Special projects](https://openai.com/index/special-projects) *(OpenAI News)*
+- [ ] 2016-06-21 [Concrete AI safety problems](https://openai.com/index/concrete-ai-safety-problems) *(OpenAI News)*
+- [ ] 2016-06-20 [OpenAI technical goals](https://openai.com/index/openai-technical-goals) *(OpenAI News)*
+- [ ] 2016-06-16 [Generative models](https://openai.com/index/generative-models) *(OpenAI News)*
+- [ ] 2016-05-25 [Team update](https://openai.com/index/team-update) *(OpenAI News)*
+- [ ] 2016-05-25 [Adversarial training methods for semi-supervised text classification](https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification) *(OpenAI News)*
+- [ ] 2016-04-27 [OpenAI Gym Beta](https://openai.com/index/openai-gym-beta) *(OpenAI News)*
+- [ ] 2016-04-26 [Welcome, Pieter and Shivon!](https://openai.com/index/welcome-pieter-and-shivon) *(OpenAI News)*
+- [ ] 2016-03-31 [Team++](https://openai.com/index/team-plus-plus) *(OpenAI News)*
+- [ ] 2016-02-25 [Weight normalization: A simple reparameterization to accelerate training of deep neural networks](https://openai.com/index/weight-normalization) *(OpenAI News)*
+- [ ] 2015-12-11 [Introducing OpenAI](https://openai.com/index/introducing-openai) *(OpenAI News)*
+- [ ] 2025-12-23 [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](https://huggingface.co/blog/ServiceNow-AI/aprielguard) *(Hugging Face Blog)*
+- [ ] 2025-12-18 [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](https://huggingface.co/blog/tokenizers) *(Hugging Face Blog)*
+- [ ] 2025-12-17 [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe) *(Hugging Face Blog)*
+- [ ] 2025-12-15 [CUGA on Hugging Face: Democratizing Configurable AI Agents](https://huggingface.co/blog/ibm-research/cuga-on-hugging-face) *(Hugging Face Blog)*
+- [ ] 2025-12-11 [New in llama.cpp: Model Management](https://huggingface.co/blog/ggml-org/model-management-in-llamacpp) *(Hugging Face Blog)*
+- [ ] 2025-12-11 [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) *(Hugging Face Blog)*
+- [ ] 2025-12-05 [Introducing swift-huggingface: The Complete Swift Client for Hugging Face](https://huggingface.co/blog/swift-huggingface) *(Hugging Face Blog)*
+- [ ] 2025-12-04 [DeepMath: A lightweight math reasoning Agent with smolagents](https://huggingface.co/blog/intel-deepmath) *(Hugging Face Blog)*
+- [ ] 2025-12-04 [We Got Claude to Fine-Tune an Open Source LLM](https://huggingface.co/blog/hf-skills-training) *(Hugging Face Blog)*
+- [ ] 2025-12-01 [Transformers v5: Simple model definitions powering the AI ecosystem](https://huggingface.co/blog/transformers-v5) *(Hugging Face Blog)*
+- [ ] 2025-11-25 [Diffusers welcomes FLUX-2](https://huggingface.co/blog/flux-2) *(Hugging Face Blog)*
+- [ ] 2025-11-25 [Continuous batching from first principles](https://huggingface.co/blog/continuous_batching) *(Hugging Face Blog)*
+- [ ] 2025-11-24 [Building Deep Research: How we Achieved State of the Art](https://huggingface.co/blog/Tavily/tavily-deep-research) *(Hugging Face Blog)*
+- [ ] 2025-11-24 [OVHcloud on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud) *(Hugging Face Blog)*
+- [ ] 2025-11-21 [20x Faster TRL Fine-tuning with RapidFire AI](https://huggingface.co/blog/rapidfireai) *(Hugging Face Blog)*
+- [ ] 2025-11-21 [Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks](https://huggingface.co/blog/open-asr-leaderboard) *(Hugging Face Blog)*
+- [ ] 2025-11-20 [Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms](https://huggingface.co/blog/anylanguagemodel) *(Hugging Face Blog)*
+- [ ] 2025-11-19 [Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models](https://huggingface.co/blog/ServiceNow-AI/apriel-h1) *(Hugging Face Blog)*
+- [ ] 2025-11-17 [Easily Build and Share ROCm Kernels with Hugging Face](https://huggingface.co/blog/build-rocm-kernels) *(Hugging Face Blog)*
+- [ ] 2025-11-13 [Join the AMD Open Robotics Hackathon](https://huggingface.co/blog/amd/openroboticshackathon) *(Hugging Face Blog)*
+- [ ] 2025-11-13 [Building for an Open Future - our new partnership with Google Cloud](https://huggingface.co/blog/google-cloud) *(Hugging Face Blog)*
+- [ ] 2025-10-30 [Aligning to What? Rethinking Agent Generalization in MiniMax M2](https://huggingface.co/blog/MiniMax-AI/aligning-to-what) *(Hugging Face Blog)*
+- [ ] 2025-10-29 [On the Shifting Global Compute Landscape](https://huggingface.co/blog/huggingface/shifting-compute-landscape) *(Hugging Face Blog)*
+- [ ] 2025-10-29 [Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac](https://huggingface.co/blog/lerobotxnvidia-healthcare) *(Hugging Face Blog)*
+- [ ] 2025-10-28 [How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare](https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare) *(Hugging Face Blog)*
+- [ ] 2025-10-28 [Granite 4.0 Nano: Just how small can you go?](https://huggingface.co/blog/ibm-granite/granite-4-nano) *(Hugging Face Blog)*
+- [ ] 2025-10-28 [Voice Cloning with Consent](https://huggingface.co/blog/voice-consent-gate) *(Hugging Face Blog)*
+- [ ] 2025-10-27 [Streaming datasets: 100x More Efficient](https://huggingface.co/blog/streaming-datasets) *(Hugging Face Blog)*
+- [ ] 2025-10-27 [huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](https://huggingface.co/blog/huggingface-hub-v1) *(Hugging Face Blog)*
+- [ ] 2025-10-24 [LeRobot v0.4.0: Supercharging OSS Robot Learning](https://huggingface.co/blog/lerobot-release-v040) *(Hugging Face Blog)*
+- [ ] 2025-10-23 [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv) *(Hugging Face Blog)*
+- [ ] 2025-10-22 [Hugging Face and VirusTotal collaborate to strengthen AI security](https://huggingface.co/blog/virustotal) *(Hugging Face Blog)*
+- [ ] 2025-10-22 [Sentence Transformers is joining Hugging Face!](https://huggingface.co/blog/sentence-transformers-joins-hf) *(Hugging Face Blog)*
+- [ ] 2025-10-21 [Supercharge your OCR Pipelines with Open Models](https://huggingface.co/blog/ocr-open-models) *(Hugging Face Blog)*
+- [ ] 2025-10-21 [Unlock the power of images with AI Sheets](https://huggingface.co/blog/aisheets-unlock-images) *(Hugging Face Blog)*
+- [ ] 2025-10-16 [AI for Food Allergies](https://huggingface.co/blog/hugging-science/ai-for-food-allergies) *(Hugging Face Blog)*
+- [ ] 2025-10-16 [Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face](https://huggingface.co/blog/gpt-oss-on-intel-xeon) *(Hugging Face Blog)*
+- [ ] 2025-10-15 [Get your VLM running in 3 simple steps on Intel CPUs](https://huggingface.co/blog/openvino-vlm) *(Hugging Face Blog)*
+- [ ] 2025-10-13 [Nemotron-Personas-India: Synthesized Data for Sovereign AI](https://huggingface.co/blog/nvidia/nemotron-personas-india) *(Hugging Face Blog)*
+- [ ] 2025-10-10 [Arm will be @ PyTorch Conference, Join Us!](https://huggingface.co/blog/Arm/arm-at-pytorch-conference) *(Hugging Face Blog)*
+- [ ] 2025-10-07 [BigCodeArena: Judging code generations end to end with code executions](https://huggingface.co/blog/bigcode/arena) *(Hugging Face Blog)*
+- [ ] 2025-10-02 [SOTA OCR with Core ML and dots.ocr](https://huggingface.co/blog/dots-ocr-ne) *(Hugging Face Blog)*
+- [ ] 2025-10-01 [Introducing RTEB: A New Standard for Retrieval Evaluation](https://huggingface.co/blog/rteb) *(Hugging Face Blog)*
+- [ ] 2025-09-29 [Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](https://huggingface.co/blog/intel-qwen3-agent) *(Hugging Face Blog)*
+- [ ] 2025-09-29 [VibeGame: Exploring Vibe Coding Games](https://huggingface.co/blog/vibegame) *(Hugging Face Blog)*
+- [ ] 2025-09-26 [Nemotron-Personas-Japan: ソブリン AI のための合成データセット](https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja) *(Hugging Face Blog)*
+- [ ] 2025-09-26 [Swift Transformers Reaches 1.0 – and Looks to the Future](https://huggingface.co/blog/swift-transformers) *(Hugging Face Blog)*
+- [ ] 2025-09-23 [Smol2Operator: Post-Training GUI Agents for Computer Use](https://huggingface.co/blog/smol2operator) *(Hugging Face Blog)*
+- [ ] 2025-09-22 [SyGra: The One-Stop Framework for Building Data for LLMs and SLMs](https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework) *(Hugging Face Blog)*
+- [ ] 2025-09-22 [Gaia2 and ARE: Empowering the community to study agents](https://huggingface.co/blog/gaia2) *(Hugging Face Blog)*
+- [ ] 2025-09-19 [Scaleway on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-scaleway) *(Hugging Face Blog)*
+- [ ] 2025-09-18 [Democratizing AI Safety with RiskRubric.ai](https://huggingface.co/blog/riskrubric) *(Hugging Face Blog)*
+- [ ] 2025-09-17 [Public AI on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-publicai) *(Hugging Face Blog)*
+- [ ] 2025-09-16 [`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](https://huggingface.co/blog/lerobot-datasets-v3) *(Hugging Face Blog)*
+- [ ] 2025-09-15 [Visible Watermarking with Gradio](https://huggingface.co/blog/watermarking-with-gradio) *(Hugging Face Blog)*
+- [ ] 2025-09-11 [Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!](https://huggingface.co/blog/Writer/announcing-palmyra-mini) *(Hugging Face Blog)*
+- [ ] 2025-09-11 [Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers](https://huggingface.co/blog/faster-transformers) *(Hugging Face Blog)*
+- [ ] 2025-09-10 [Fine-tune Any LLM from the Hugging Face Hub with Together AI](https://huggingface.co/blog/togethercomputer/together-ft) *(Hugging Face Blog)*
+- [ ] 2025-09-10 [Jupyter Agents: training LLMs to reason with notebooks](https://huggingface.co/blog/jupyter-agent-2) *(Hugging Face Blog)*
+- [ ] 2025-09-09 [mmBERT: ModernBERT goes Multilingual](https://huggingface.co/blog/mmbert) *(Hugging Face Blog)*
+- [ ] 2025-09-04 [Welcome EmbeddingGemma, Google's new efficient embedding model](https://huggingface.co/blog/embeddinggemma) *(Hugging Face Blog)*
+- [ ] 2025-09-02 [SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence](https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai) *(Hugging Face Blog)*
+- [ ] 2025-09-02 [Make your ZeroGPU Spaces go brrr with ahead-of-time compilation](https://huggingface.co/blog/zerogpu-aoti) *(Hugging Face Blog)*
+- [ ] 2025-08-20 [NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset](https://huggingface.co/blog/nvidia/multilingual-reasoning-v1) *(Hugging Face Blog)*
+- [ ] 2025-08-19 [Generate Images with Claude and Hugging Face](https://huggingface.co/blog/claude-and-mcp) *(Hugging Face Blog)*
+- [ ] 2025-08-18 [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) *(Hugging Face Blog)*
+- [ ] 2025-08-18 [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) *(Hugging Face Blog)*
+- [ ] 2025-08-14 [Kimina-Prover-RL](https://huggingface.co/blog/AI-MO/kimina-prover-rl) *(Hugging Face Blog)*
+- [ ] 2025-08-13 [Arm & ExecuTorch 0.7: Bringing Generative AI to the masses](https://huggingface.co/blog/Arm/executorch-0-dot-7) *(Hugging Face Blog)*
+- [ ] 2025-08-12 [Neural Super Sampling is here!](https://huggingface.co/blog/Arm/neural-super-sampling) *(Hugging Face Blog)*
+- [ ] 2025-08-12 [TextQuests: How Good are LLMs at Text-Based Video Games?](https://huggingface.co/blog/textquests) *(Hugging Face Blog)*
+- [ ] 2025-08-12 [🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?](https://huggingface.co/blog/filbench) *(Hugging Face Blog)*
+- [ ] 2025-08-08 [Introducing AI Sheets: a tool to work with datasets using open AI models!](https://huggingface.co/blog/aisheets) *(Hugging Face Blog)*
+- [ ] 2025-08-08 [Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training](https://huggingface.co/blog/accelerate-nd-parallel) *(Hugging Face Blog)*
+- [ ] 2025-08-07 [Vision Language Model Alignment in TRL ⚡️](https://huggingface.co/blog/trl-vlm-alignment) *(Hugging Face Blog)*
+- [ ] 2025-08-05 [Welcome GPT OSS, the new open-source model family from OpenAI!](https://huggingface.co/blog/welcome-openai-gpt-oss) *(Hugging Face Blog)*
+- [ ] 2025-08-04 [Measuring Open-Source Llama Nemotron Models on DeepResearch Bench](https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent) *(Hugging Face Blog)*
+- [ ] 2025-08-01 [📚 3LM: A Benchmark for Arabic LLMs in STEM and Code](https://huggingface.co/blog/tiiuae/3lm-benchmark) *(Hugging Face Blog)*
+- [ ] 2025-07-31 [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp) *(Hugging Face Blog)*
+- [ ] 2025-07-29 [Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face](https://huggingface.co/blog/trackio) *(Hugging Face Blog)*
+- [ ] 2025-07-25 [Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨](https://huggingface.co/blog/hf-cli) *(Hugging Face Blog)*
+- [ ] 2025-07-25 [Parquet Content-Defined Chunking](https://huggingface.co/blog/parquet-cdc) *(Hugging Face Blog)*
+- [ ] 2025-07-23 [TimeScope: How Long Can Your Video Large Multimodal Model Go?](https://huggingface.co/blog/timescope-video-lmm-benchmark) *(Hugging Face Blog)*
+- [ ] 2025-07-23 [Fast LoRA inference for Flux with Diffusers and PEFT](https://huggingface.co/blog/lora-fast) *(Hugging Face Blog)*
+- [ ] 2025-07-21 [Accelerate a World of LLMs on Hugging Face with NVIDIA NIM](https://huggingface.co/blog/nvidia/multi-llm-nim) *(Hugging Face Blog)*
+- [ ] 2025-07-18 [Arc Virtual Cell Challenge: A Primer](https://huggingface.co/blog/virtual-cell-challenge) *(Hugging Face Blog)*
+- [ ] 2025-07-17 [Consilium: When Multiple LLMs Collaborate](https://huggingface.co/blog/consilium-multi-llm) *(Hugging Face Blog)*
+- [ ] 2025-07-17 [Back to The Future: Evaluating AI Agents on Predicting Future Events](https://huggingface.co/blog/futurebench) *(Hugging Face Blog)*
+- [ ] 2025-07-17 [Five Big Improvements to Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-updates) *(Hugging Face Blog)*
+- [ ] 2025-07-16 [Ettin Suite: SoTA Paired Encoders and Decoders](https://huggingface.co/blog/ettin) *(Hugging Face Blog)*
+- [ ] 2025-07-15 [Migrating the Hub from Git LFS to Xet](https://huggingface.co/blog/migrating-the-hub-to-xet) *(Hugging Face Blog)*
+- [ ] 2025-07-10 [Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models](https://huggingface.co/blog/AI-MO/kimina-prover) *(Hugging Face Blog)*
+- [ ] 2025-07-10 [Asynchronous Robot Inference: Decoupling Action Prediction and Execution](https://huggingface.co/blog/async-robot-inference) *(Hugging Face Blog)*
+- [ ] 2025-07-10 [ScreenEnv: Deploy your full stack Desktop Agent](https://huggingface.co/blog/screenenv) *(Hugging Face Blog)*
+- [ ] 2025-07-10 [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) *(Hugging Face Blog)*
+- [ ] 2025-07-09 [Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders](https://huggingface.co/blog/reachy-mini) *(Hugging Face Blog)*
+- [ ] 2025-07-09 [Creating custom kernels for the AMD MI300](https://huggingface.co/blog/mi300kernels) *(Hugging Face Blog)*
+- [ ] 2025-07-09 [Upskill your LLMs With Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-servers) *(Hugging Face Blog)*
+- [ ] 2025-07-08 [SmolLM3: smol, multilingual, long-context reasoner](https://huggingface.co/blog/smollm3) *(Hugging Face Blog)*
+- [ ] 2025-07-08 [Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure](https://huggingface.co/blog/infrastructure-alerting) *(Hugging Face Blog)*
+- [ ] 2025-07-08 [Efficient MultiModal Data Pipeline](https://huggingface.co/blog/mmdp) *(Hugging Face Blog)*
+- [ ] 2025-07-04 [Announcing  NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models](https://huggingface.co/blog/tiiuae/e2lm-competition) *(Hugging Face Blog)*
+- [ ] 2025-07-01 [Training and Finetuning Sparse Embedding Models with Sentence Transformers v5](https://huggingface.co/blog/train-sparse-encoder) *(Hugging Face Blog)*
+- [ ] 2025-06-27 [Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub](https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl) *(Hugging Face Blog)*
+- [ ] 2025-06-26 [Gemma 3n fully available in the open-source ecosystem!](https://huggingface.co/blog/gemma3n) *(Hugging Face Blog)*
+- [ ] 2025-06-23 [Transformers backend integration in SGLang](https://huggingface.co/blog/transformers-backend-sglang) *(Hugging Face Blog)*
+- [ ] 2025-06-19 [(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware](https://huggingface.co/blog/flux-qlora) *(Hugging Face Blog)*
+- [ ] 2025-06-16 [Groq on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-groq) *(Hugging Face Blog)*
+- [ ] 2025-06-12 [How Long Prompts Block Other Requests - Optimizing LLM Performance](https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts) *(Hugging Face Blog)*
+- [ ] 2025-06-12 [Learn the Hugging Face Kernel Hub in 5 Minutes](https://huggingface.co/blog/hello-hf-kernels) *(Hugging Face Blog)*
+- [ ] 2025-06-12 [Featherless AI on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-featherless) *(Hugging Face Blog)*
+- [ ] 2025-06-11 [Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm](https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning) *(Hugging Face Blog)*
+- [ ] 2025-06-11 [Introducing Training Cluster as a Service - a new collaboration with NVIDIA](https://huggingface.co/blog/nvidia-training-cluster) *(Hugging Face Blog)*
+- [ ] 2025-06-06 [ScreenSuite - The most comprehensive evaluation suite for GUI Agents!](https://huggingface.co/blog/screensuite) *(Hugging Face Blog)*
+- [ ] 2025-06-04 [KV Cache from scratch in nanoVLM](https://huggingface.co/blog/kv-cache) *(Hugging Face Blog)*
+- [ ] 2025-06-03 [Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom](https://huggingface.co/blog/Arm/ai-sound-gen-on-arm) *(Hugging Face Blog)*
+- [ ] 2025-06-03 [Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H](https://huggingface.co/blog/Hcompany/holo1) *(Hugging Face Blog)*
+- [ ] 2025-06-03 [SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data](https://huggingface.co/blog/smolvla) *(Hugging Face Blog)*
+- [ ] 2025-06-03 [No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL](https://huggingface.co/blog/vllm-colocate) *(Hugging Face Blog)*
+- [ ] 2025-05-28 [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent) *(Hugging Face Blog)*
+- [ ] 2025-05-25 [🐯 Liger GRPO meets TRL](https://huggingface.co/blog/liger-grpo) *(Hugging Face Blog)*
+- [ ] 2025-05-23 [Dell Enterprise Hub is all you need to build AI on premises](https://huggingface.co/blog/dell-ai-applications) *(Hugging Face Blog)*
+- [ ] 2025-05-23 [Tiny Agents in Python: a MCP-powered agent in ~70 lines of code](https://huggingface.co/blog/python-tiny-agents) *(Hugging Face Blog)*
+- [ ] 2025-05-21 [Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance](https://huggingface.co/blog/tiiuae/falcon-h1) *(Hugging Face Blog)*
+- [ ] 2025-05-21 [Falcon-Arabic: A Breakthrough in Arabic Language Models](https://huggingface.co/blog/tiiuae/falcon-arabic) *(Hugging Face Blog)*
+- [ ] 2025-05-21 [Exploring Quantization Backends in Diffusers](https://huggingface.co/blog/diffusers-quantization) *(Hugging Face Blog)*
+- [ ] 2025-05-21 [nanoVLM: The simplest repository to train your VLM in pure PyTorch](https://huggingface.co/blog/nanovlm) *(Hugging Face Blog)*
+- [ ] 2025-05-19 [Microsoft and Hugging Face expand collaboration](https://huggingface.co/blog/azure-ai-foundry) *(Hugging Face Blog)*
+- [ ] 2025-05-15 [Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.](https://huggingface.co/blog/tiiuae/falcon-edge) *(Hugging Face Blog)*
+- [ ] 2025-05-15 [The Transformers Library: standardizing model definitions](https://huggingface.co/blog/transformers-model-definition) *(Hugging Face Blog)*
+- [ ] 2025-05-14 [Improving Hugging Face Model Access for Kaggle Users](https://huggingface.co/blog/kaggle-integration) *(Hugging Face Blog)*
+- [ ] 2025-05-13 [Blazingly fast whisper transcriptions with Inference Endpoints](https://huggingface.co/blog/fast-whisper-endpoints) *(Hugging Face Blog)*
+- [ ] 2025-05-12 [Vision Language Models (Better, faster, stronger)](https://huggingface.co/blog/vlms-2025) *(Hugging Face Blog)*
+- [ ] 2025-05-11 [LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?](https://huggingface.co/blog/lerobot-datasets) *(Hugging Face Blog)*
+- [ ] 2025-04-30 [How to Build an MCP Server with Gradio](https://huggingface.co/blog/gradio-mcp) *(Hugging Face Blog)*
+- [ ] 2025-04-30 [The 4 Things Qwen-3’s Chat Template Teaches Us](https://huggingface.co/blog/qwen-3-chat-template-deep-dive) *(Hugging Face Blog)*
+- [ ] 2025-04-29 [Welcoming Llama Guard 4 on Hugging Face Hub](https://huggingface.co/blog/llama-guard-4) *(Hugging Face Blog)*
+- [ ] 2025-04-29 [Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs](https://huggingface.co/blog/autoround) *(Hugging Face Blog)*
+- [ ] 2025-04-25 [PipelineRL](https://huggingface.co/blog/ServiceNow/pipelinerl) *(Hugging Face Blog)*
+- [ ] 2025-04-25 [Tiny Agents: an MCP-powered agent in 50 lines of code](https://huggingface.co/blog/tiny-agents) *(Hugging Face Blog)*
+- [ ] 2025-04-22 [Finetuning olmOCR to be a faithful OCR-Engine](https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine) *(Hugging Face Blog)*
+- [ ] 2025-04-16 [Prefill and Decode for Concurrent Requests - Optimizing LLM Performance](https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests) *(Hugging Face Blog)*
+- [ ] 2025-04-16 [17 Reasons Why Gradio Isn't Just Another UI Library](https://huggingface.co/blog/why-gradio-stands-out) *(Hugging Face Blog)*
+- [ ] 2025-04-16 [Cohere on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-cohere) *(Hugging Face Blog)*
+- [ ] 2025-04-16 [Introducing HELMET: Holistically Evaluating Long-context Language Models](https://huggingface.co/blog/helmet) *(Hugging Face Blog)*
+- [ ] 2025-04-14 [Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖](https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition) *(Hugging Face Blog)*
+- [ ] 2025-04-14 [4M Models Scanned: Protect AI + Hugging Face 6 Months In](https://huggingface.co/blog/pai-6-month) *(Hugging Face Blog)*
+- [ ] 2025-04-11 [Visual Salamandra: Pushing the Boundaries of Multimodal Understanding](https://huggingface.co/blog/BSC-LT/visualsalamandra7b) *(Hugging Face Blog)*
+- [ ] 2025-04-09 [Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC](https://huggingface.co/blog/fastrtc-cloudflare) *(Hugging Face Blog)*
+- [ ] 2025-04-08 [Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More](https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval) *(Hugging Face Blog)*
+- [ ] 2025-04-05 [Welcome Llama 4 Maverick & Scout on Hugging Face](https://huggingface.co/blog/llama4-release) *(Hugging Face Blog)*
+- [ ] 2025-04-04 [Journey to 1 Million Gradio Users!](https://huggingface.co/blog/gradio-1m) *(Hugging Face Blog)*
+- [ ] 2025-04-03 [The NLP Course is becoming the LLM Course](https://huggingface.co/blog/llm-course) *(Hugging Face Blog)*
+- [ ] 2025-04-02 [Efficient Request Queueing – Optimizing LLM Performance](https://huggingface.co/blog/tngtech/llm-performance-request-queueing) *(Hugging Face Blog)*
+- [ ] 2025-03-31 [How Hugging Face Scaled Secrets Management for AI Infrastructure](https://huggingface.co/blog/scaling-secrets-management) *(Hugging Face Blog)*
+- [ ] 2025-03-28 [🚀 Accelerating LLM Inference with TGI on Intel Gaudi](https://huggingface.co/blog/intel-gaudi-backend-for-tgi) *(Hugging Face Blog)*
+- [ ] 2025-03-26 [Open R1: Update #4](https://huggingface.co/blog/open-r1/update-4) *(Hugging Face Blog)*
+- [ ] 2025-03-26 [Training and Finetuning Reranker Models with Sentence Transformers v4](https://huggingface.co/blog/train-reranker) *(Hugging Face Blog)*
+- [ ] 2025-03-24 [Introducing Gradio's new Dataframe!](https://huggingface.co/blog/gradio-dataframe-upgrade) *(Hugging Face Blog)*
+- [ ] 2025-03-21 [The New and Fresh analytics in Inference Endpoints](https://huggingface.co/blog/endpoint-analytics) *(Hugging Face Blog)*
+- [ ] 2025-03-20 [Open R1: How to use OlympicCoder locally for coding](https://huggingface.co/blog/olympic-coder-lmstudio) *(Hugging Face Blog)*
+- [ ] 2025-03-19 [AI Policy @🤗: Response to the White House AI Action Plan RFI](https://huggingface.co/blog/ai-action-wh-2025) *(Hugging Face Blog)*
+- [ ] 2025-03-18 [NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](https://huggingface.co/blog/nvidia-physical-ai) *(Hugging Face Blog)*
+- [ ] 2025-03-18 [Xet is on the Hub](https://huggingface.co/blog/xet-on-the-hub) *(Hugging Face Blog)*
+- [ ] 2025-03-12 [Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM](https://huggingface.co/blog/gemma3) *(Hugging Face Blog)*
+- [ ] 2025-03-11 [Open R1: Update #3](https://huggingface.co/blog/open-r1/update-3) *(Hugging Face Blog)*
+- [ ] 2025-03-11 [LeRobot goes to driving school: World’s largest open-source self-driving dataset](https://huggingface.co/blog/lerobot-goes-to-driving-school) *(Hugging Face Blog)*
+- [ ] 2025-03-07 [LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!](https://huggingface.co/blog/llm-inference-on-edge) *(Hugging Face Blog)*
+- [ ] 2025-03-04 [Hugging Face and JFrog partner to make AI Security more transparent](https://huggingface.co/blog/jfrog) *(Hugging Face Blog)*
+- [ ] 2025-03-04 [A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality](https://huggingface.co/blog/aya-vision) *(Hugging Face Blog)*
+- [ ] 2025-02-28 [Trace & Evaluate your Agent with Arize Phoenix](https://huggingface.co/blog/smolagents-phoenix) *(Hugging Face Blog)*
+- [ ] 2025-02-27 [HuggingFace, IISc partner to supercharge model building on India's diverse languages](https://huggingface.co/blog/iisc-huggingface-collab) *(Hugging Face Blog)*
+- [ ] 2025-02-25 [FastRTC: The Real-Time Communication Library for Python](https://huggingface.co/blog/fastrtc) *(Hugging Face Blog)*
+- [ ] 2025-02-24 [Remote VAEs for decoding with Inference Endpoints 🤗](https://huggingface.co/blog/remote_vae) *(Hugging Face Blog)*
+- [ ] 2025-02-21 [SigLIP 2: A better multilingual vision language encoder](https://huggingface.co/blog/siglip2) *(Hugging Face Blog)*
+- [ ] 2025-02-20 [SmolVLM2: Bringing Video Understanding to Every Device](https://huggingface.co/blog/smolvlm2) *(Hugging Face Blog)*
+- [ ] 2025-02-19 [PaliGemma 2 Mix - New Instruction Vision Language Models by Google](https://huggingface.co/blog/paligemma2mix) *(Hugging Face Blog)*
+- [ ] 2025-02-18 [Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥](https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic) *(Hugging Face Blog)*
+- [ ] 2025-02-14 [Welcome Fireworks.ai on the Hub 🎆](https://huggingface.co/blog/fireworks-ai) *(Hugging Face Blog)*
+- [ ] 2025-02-14 [Fixing Open LLM Leaderboard with Math-Verify](https://huggingface.co/blog/math_verify_leaderboard) *(Hugging Face Blog)*
+- [ ] 2025-02-13 [1 Billion Classifications](https://huggingface.co/blog/billion-classifications) *(Hugging Face Blog)*
+- [ ] 2025-02-12 [From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub](https://huggingface.co/blog/from-chunks-to-blocks) *(Hugging Face Blog)*
+- [ ] 2025-02-12 [Build awesome datasets for video generation](https://huggingface.co/blog/vid_ds_scripts) *(Hugging Face Blog)*
+- [ ] 2025-02-10 [Open R1: Update #2](https://huggingface.co/blog/open-r1/update-2) *(Hugging Face Blog)*
+- [ ] 2025-02-10 [The Open Arabic LLM Leaderboard 2](https://huggingface.co/blog/leaderboard-arabic-v2) *(Hugging Face Blog)*
+- [ ] 2025-02-04 [Open-source DeepResearch – Freeing our search agents](https://huggingface.co/blog/open-deep-research) *(Hugging Face Blog)*
+- [ ] 2025-02-04 [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](https://huggingface.co/blog/pi0) *(Hugging Face Blog)*
+- [ ] 2025-02-04 [DABStep: Data Agent Benchmark for Multi-step Reasoning](https://huggingface.co/blog/dabstep) *(Hugging Face Blog)*
+- [ ] 2025-02-02 [Open-R1: Update #1](https://huggingface.co/blog/open-r1/update-1) *(Hugging Face Blog)*
+- [ ] 2025-01-31 [Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial](https://huggingface.co/blog/open-r1/mini-r1-contdown-game) *(Hugging Face Blog)*
+- [ ] 2025-01-31 [The AI tools for Art Newsletter - Issue 1](https://huggingface.co/blog/ai-art-newsletter-jan-25) *(Hugging Face Blog)*
+- [ ] 2025-01-30 [How to deploy and fine-tune DeepSeek models on AWS](https://huggingface.co/blog/deepseek-r1-aws) *(Hugging Face Blog)*
+- [ ] 2025-01-28 [Welcome to Inference Providers on the Hub 🔥](https://huggingface.co/blog/inference-providers) *(Hugging Face Blog)*
+- [ ] 2025-01-28 [Open-R1: a fully open reproduction of DeepSeek-R1](https://huggingface.co/blog/open-r1) *(Hugging Face Blog)*
+- [ ] 2025-01-27 [State of open video generation models in Diffusers](https://huggingface.co/blog/video_gen) *(Hugging Face Blog)*
+- [ ] 2025-01-24 [We now support VLMs in smolagents!](https://huggingface.co/blog/smolagents-can-see) *(Hugging Face Blog)*
+- [ ] 2025-01-23 [Mastering Long Contexts in LLMs with KVPress](https://huggingface.co/blog/nvidia/kvpress) *(Hugging Face Blog)*
+- [ ] 2025-01-23 [SmolVLM Grows Smaller – Introducing the 256M & 500M Models!](https://huggingface.co/blog/smolervlm) *(Hugging Face Blog)*
+- [ ] 2025-01-22 [Hugging Face and FriendliAI partner to supercharge model deployment on the Hub](https://huggingface.co/blog/friendliai-partnership) *(Hugging Face Blog)*
+- [ ] 2025-01-20 [Yay! Organizations can now publish blog Articles](https://huggingface.co/blog/huggingface/blog-articles-for-orgs) *(Hugging Face Blog)*
+- [ ] 2025-01-16 [Timm ❤️ Transformers: Use any timm model with transformers](https://huggingface.co/blog/timm-transformers) *(Hugging Face Blog)*
+- [ ] 2025-01-16 [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](https://huggingface.co/blog/tgi-multi-backend) *(Hugging Face Blog)*
+- [ ] 2025-01-15 [Train 400x faster Static Embedding Models with Sentence Transformers](https://huggingface.co/blog/static-embeddings) *(Hugging Face Blog)*
+- [ ] 2025-01-13 [AI Agents Are Here. What Now?](https://huggingface.co/blog/ethics-soc-7) *(Hugging Face Blog)*
+- [ ] 2025-01-10 [Visual Document Retrieval Goes Multilingual](https://huggingface.co/blog/vdr-2b-multilingual) *(Hugging Face Blog)*
+- [ ] 2025-01-09 [CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard](https://huggingface.co/blog/leaderboard-emissions-analysis) *(Hugging Face Blog)*
+- [ ] 2024-12-31 [Introducing smolagents: simple agents that write actions in code.](https://huggingface.co/blog/smolagents) *(Hugging Face Blog)*
+- [ ] 2024-12-24 [Visualize and understand GPU memory in PyTorch](https://huggingface.co/blog/train_memory) *(Hugging Face Blog)*
+- [ ] 2024-12-23 [Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo](https://huggingface.co/blog/logits-processor-zoo) *(Hugging Face Blog)*
+- [ ] 2024-12-20 [Evaluating Audio Reasoning with Big Bench Audio](https://huggingface.co/blog/big-bench-audio-release) *(Hugging Face Blog)*
+- [ ] 2024-12-19 [Finally, a Replacement for BERT: Introducing ModernBERT](https://huggingface.co/blog/modernbert) *(Hugging Face Blog)*
+- [ ] 2024-12-18 [Bamba: Inference-Efficient Hybrid Mamba2 Model](https://huggingface.co/blog/bamba) *(Hugging Face Blog)*
+- [ ] 2024-12-17 [Welcome to the Falcon 3 Family of Open Models!](https://huggingface.co/blog/falcon3) *(Hugging Face Blog)*
+- [ ] 2024-12-17 [Benchmarking Language Model Performance on 5th Gen Xeon at GCP](https://huggingface.co/blog/intel-gcp-c4) *(Hugging Face Blog)*
+- [ ] 2024-12-16 [Introducing the Synthetic Data Generator - Build Datasets with Natural Language](https://huggingface.co/blog/synthetic-data-generator) *(Hugging Face Blog)*
+- [ ] 2024-12-10 [LeMaterial: an open source initiative to accelerate materials discovery and research](https://huggingface.co/blog/lematerial) *(Hugging Face Blog)*
+- [ ] 2024-12-09 [Hugging Face models in Amazon Bedrock](https://huggingface.co/blog/bedrock-marketplace) *(Hugging Face Blog)*
+- [ ] 2024-12-09 [Open Preference Dataset for Text-to-Image Generation by the 🤗 Community](https://huggingface.co/blog/image-preferences) *(Hugging Face Blog)*
+- [ ] 2024-12-05 [Welcome PaliGemma 2 – New vision language models by Google](https://huggingface.co/blog/paligemma2) *(Hugging Face Blog)*
+- [ ] 2024-12-05 [How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs](https://huggingface.co/blog/keras-chatbot-arena) *(Hugging Face Blog)*
+- [ ] 2024-12-04 [Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard](https://huggingface.co/blog/leaderboard-3c3h-aragen) *(Hugging Face Blog)*
+- [ ] 2024-12-03 [Investing in Performance: Fine-tune small models with LLM insights  - a CFM case study](https://huggingface.co/blog/cfm-case-study) *(Hugging Face Blog)*
+- [ ] 2024-12-02 [Open Source Developers Guide to the EU AI Act](https://huggingface.co/blog/eu-ai-act-for-oss-developers) *(Hugging Face Blog)*
+- [ ] 2024-11-26 [Rearchitecting Hugging Face Uploads and Downloads](https://huggingface.co/blog/rearchitecting-uploads-and-downloads) *(Hugging Face Blog)*
+- [ ] 2024-11-26 [SmolVLM - small yet mighty Vision Language Model](https://huggingface.co/blog/smolvlm) *(Hugging Face Blog)*
+- [ ] 2024-11-25 [You could have designed state of the art positional encoding](https://huggingface.co/blog/designing-positional-encoding) *(Hugging Face Blog)*
+- [ ] 2024-11-20 [Letting Large Models Debate: The First Multilingual LLM Debate Competition](https://huggingface.co/blog/debate) *(Hugging Face Blog)*
+- [ ] 2024-11-20 [From Files to Chunks: Improving HF Storage Efficiency](https://huggingface.co/blog/from-files-to-chunks) *(Hugging Face Blog)*
+- [ ] 2024-11-20 [Faster Text Generation with Self-Speculative Decoding](https://huggingface.co/blog/layerskip) *(Hugging Face Blog)*
+- [ ] 2024-11-20 [Introducing the Open Leaderboard for Japanese LLMs!](https://huggingface.co/blog/leaderboard-japanese) *(Hugging Face Blog)*
+- [ ] 2024-11-19 [Judge Arena: Benchmarking LLMs as Evaluators](https://huggingface.co/blog/arena-atla) *(Hugging Face Blog)*
+- [ ] 2024-11-12 [Share your open ML datasets on Hugging Face Hub!](https://huggingface.co/blog/researcher-dataset-sharing) *(Hugging Face Blog)*
+- [ ] 2024-11-05 [Hugging Face + PyCharm](https://huggingface.co/blog/pycharm-integration) *(Hugging Face Blog)*
+- [ ] 2024-11-04 [Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required](https://huggingface.co/blog/argilla-ui-hub) *(Hugging Face Blog)*
+- [ ] 2024-10-29 [Universal Assisted Generation: Faster Decoding with Any Assistant Model](https://huggingface.co/blog/universal_assisted_generation) *(Hugging Face Blog)*
+- [ ] 2024-10-28 [Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge](https://huggingface.co/blog/digital-green-llm-judge) *(Hugging Face Blog)*
+- [ ] 2024-10-24 [A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality](https://huggingface.co/blog/aya-expanse) *(Hugging Face Blog)*
+- [ ] 2024-10-23 [Introducing SynthID Text](https://huggingface.co/blog/synthid-text) *(Hugging Face Blog)*
+- [ ] 2024-10-23 [Introducing HUGS - Scale your AI with Open Models](https://huggingface.co/blog/hugs) *(Hugging Face Blog)*
+- [ ] 2024-10-23 [CinePile 2.0 - making stronger datasets with adversarial refinement](https://huggingface.co/blog/cinepile2) *(Hugging Face Blog)*
+- [ ] 2024-10-22 [Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community](https://huggingface.co/blog/protectai) *(Hugging Face Blog)*
+- [ ] 2024-10-22 [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](https://huggingface.co/blog/transformersjs-v3) *(Hugging Face Blog)*
+- [ ] 2024-10-22 [Diffusers welcomes Stable Diffusion 3.5 Large](https://huggingface.co/blog/sd3-5) *(Hugging Face Blog)*
+- [ ] 2024-10-22 [Releasing Outlines-core 0.1.0: structured generation in Rust and Python](https://huggingface.co/blog/outlines-core) *(Hugging Face Blog)*
+- [ ] 2024-10-22 [Deploying Speech-to-Speech on Hugging Face](https://huggingface.co/blog/s2s_endpoint) *(Hugging Face Blog)*
+- [ ] 2024-10-21 [“Llama 3.2 in Keras”](https://huggingface.co/blog/keras-llama-32) *(Hugging Face Blog)*
+- [ ] 2024-10-16 [Fixing Gradient Accumulation](https://huggingface.co/blog/gradient_accumulation) *(Hugging Face Blog)*
+- [ ] 2024-10-10 [Introducing the AMD 5th Gen EPYC™ CPU](https://huggingface.co/blog/huggingface-amd-turin) *(Hugging Face Blog)*
+- [ ] 2024-10-10 [A Security Review of Gradio 5](https://huggingface.co/blog/gradio-5-security) *(Hugging Face Blog)*
+- [ ] 2024-10-09 [Welcome, Gradio 5](https://huggingface.co/blog/gradio-5) *(Hugging Face Blog)*
+- [ ] 2024-10-09 [Scaling AI-based Data Processing with Hugging Face + Dask](https://huggingface.co/blog/dask-scaling) *(Hugging Face Blog)*
+- [ ] 2024-10-08 [Faster Assisted Generation with Dynamic Speculation](https://huggingface.co/blog/dynamic_speculation_lookahead) *(Hugging Face Blog)*
+- [ ] 2024-10-05 [Improving Parquet Dedupe on Hugging Face Hub](https://huggingface.co/blog/improve_parquet_dedupe) *(Hugging Face Blog)*
+- [ ] 2024-10-04 [Introducing the Open FinLLM Leaderboard](https://huggingface.co/blog/leaderboard-finbench) *(Hugging Face Blog)*
+- [ ] 2024-10-03 [A Short Summary of Chinese AI Global Expansion](https://huggingface.co/blog/chinese-ai-expansion) *(Hugging Face Blog)*
+- [ ] 2024-10-01 [🇨🇿 BenCzechMark - Can your LLM Understand Czech?](https://huggingface.co/blog/benczechmark) *(Hugging Face Blog)*
+- [ ] 2024-09-30 [Converting Vertex-Colored Meshes to Textured Meshes](https://huggingface.co/blog/vertex-colored-to-textured-mesh) *(Hugging Face Blog)*
+- [ ] 2024-09-25 [Llama can now see and run on your device - welcome Llama 3.2](https://huggingface.co/blog/llama32) *(Hugging Face Blog)*
+- [ ] 2024-09-23 [FineVideo: behind the scenes](https://huggingface.co/blog/fine-video) *(Hugging Face Blog)*
+- [ ] 2024-09-23 [Exploring the Daily Papers Page on Hugging Face](https://huggingface.co/blog/daily-papers) *(Hugging Face Blog)*
+- [ ] 2024-09-20 [Optimize and deploy with Optimum-Intel and OpenVINO GenAI](https://huggingface.co/blog/deploy-with-openvino) *(Hugging Face Blog)*
+- [ ] 2024-09-18 [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](https://huggingface.co/blog/1_58_llm_extreme_quantization) *(Hugging Face Blog)*
+- [ ] 2024-09-17 [Introducing the SQL Console on Datasets](https://huggingface.co/blog/sql-console) *(Hugging Face Blog)*
+- [ ] 2024-09-16 [Introducing Community Tools on HuggingChat](https://huggingface.co/blog/community-tools) *(Hugging Face Blog)*
+- [ ] 2024-09-13 [Accelerate 1.0.0](https://huggingface.co/blog/accelerate-v1) *(Hugging Face Blog)*
+- [ ] 2024-09-04 [Hugging Face partners with TruffleHog to Scan for Secrets](https://huggingface.co/blog/trufflesecurity-partnership) *(Hugging Face Blog)*
+- [ ] 2024-08-27 [Scaling robotics datasets with video encoding](https://huggingface.co/blog/video-encoding) *(Hugging Face Blog)*
+- [ ] 2024-08-22 [The 5 Most Under-Rated Tools on Hugging Face](https://huggingface.co/blog/unsung-heroes) *(Hugging Face Blog)*
+- [ ] 2024-08-21 [Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2](https://huggingface.co/blog/packing-with-FA2) *(Hugging Face Blog)*
+- [ ] 2024-08-19 [Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI](https://huggingface.co/blog/llama31-on-vertex-ai) *(Hugging Face Blog)*
+- [ ] 2024-08-14 [A failed experiment: Infini-Attention, and why we should keep trying?](https://huggingface.co/blog/infini-attention) *(Hugging Face Blog)*
+- [ ] 2024-08-13 [Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml) *(Hugging Face Blog)*
+- [ ] 2024-08-12 [Welcome Falcon Mamba: The first strong attention-free 7B model](https://huggingface.co/blog/falconmamba) *(Hugging Face Blog)*
+- [ ] 2024-08-12 [Tool Use, Unified](https://huggingface.co/blog/unified-tool-use) *(Hugging Face Blog)*
+- [ ] 2024-08-08 [XetHub is joining Hugging Face!](https://huggingface.co/blog/xethub-joins-hf) *(Hugging Face Blog)*
+- [ ] 2024-08-06 [2024 Security Feature Highlights](https://huggingface.co/blog/2024-security-features) *(Hugging Face Blog)*
+- [ ] 2024-08-06 [Introducing TextImage Augmentation for Document Images](https://huggingface.co/blog/doc_aug_hf_alb) *(Hugging Face Blog)*
+- [ ] 2024-07-31 [Google releases Gemma 2 2B, ShieldGemma and Gemma Scope](https://huggingface.co/blog/gemma-july-update) *(Hugging Face Blog)*
+- [ ] 2024-07-30 [Memory-efficient Diffusion Transformers with Quanto and Diffusers](https://huggingface.co/blog/quanto-diffusers) *(Hugging Face Blog)*
+- [ ] 2024-07-29 [Serverless Inference with Hugging Face and NVIDIA NIM](https://huggingface.co/blog/inference-dgx-cloud) *(Hugging Face Blog)*
+- [ ] 2024-07-25 [LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?](https://huggingface.co/blog/zero-shot-vqa-docmatix) *(Hugging Face Blog)*
+- [ ] 2024-07-23 [Llama 3.1 - 405B, 70B & 8B with multilinguality and long context](https://huggingface.co/blog/llama31) *(Hugging Face Blog)*
+- [ ] 2024-07-22 [WWDC 24: Running Mistral 7B with Core ML](https://huggingface.co/blog/mistral-coreml) *(Hugging Face Blog)*
+- [ ] 2024-07-18 [Docmatix - a huge dataset for Document Visual Question Answering](https://huggingface.co/blog/docmatix) *(Hugging Face Blog)*
+- [ ] 2024-07-18 [TGI Multi-LoRA: Deploy Once, Serve 30 Models](https://huggingface.co/blog/multi-lora-serving) *(Hugging Face Blog)*
+- [ ] 2024-07-16 [SmolLM - blazingly fast and remarkably powerful](https://huggingface.co/blog/smollm) *(Hugging Face Blog)*
+- [ ] 2024-07-16 [How we leveraged distilabel to create an Argilla 2.0 Chatbot](https://huggingface.co/blog/argilla-chatbot) *(Hugging Face Blog)*
+- [ ] 2024-07-11 [How NuminaMath Won the 1st AIMO Progress Prize](https://huggingface.co/blog/winning-aimo-progress-prize) *(Hugging Face Blog)*
+- [ ] 2024-07-10 [Announcing New Hugging Face and KerasHub integration](https://huggingface.co/blog/keras-hub-integration) *(Hugging Face Blog)*
+- [ ] 2024-07-10 [Experimenting with Automatic PII Detection on the Hub using Presidio](https://huggingface.co/blog/presidio-pii-detection) *(Hugging Face Blog)*
+- [ ] 2024-07-10 [Preference Optimization for Vision Language Models](https://huggingface.co/blog/dpo_vlm) *(Hugging Face Blog)*
+- [ ] 2024-07-09 [Google Cloud TPUs made available to Hugging Face users](https://huggingface.co/blog/tpu-inference-endpoints-spaces) *(Hugging Face Blog)*
+- [ ] 2024-07-09 [Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution](https://huggingface.co/blog/sovereign-data-solution-case-study) *(Hugging Face Blog)*
+- [ ] 2024-07-08 [Announcing New Dataset Search Features](https://huggingface.co/blog/datasets-filters) *(Hugging Face Blog)*
+- [ ] 2024-07-03 [Accelerating Protein Language Model ProtST on Intel Gaudi 2](https://huggingface.co/blog/intel-protein-language-model-protst) *(Hugging Face Blog)*
+- [ ] 2024-07-01 [Our Transformers Code Agent beats the GAIA benchmark 🏅](https://huggingface.co/blog/beating-gaia) *(Hugging Face Blog)*
+- [ ] 2024-06-27 [Welcome Gemma 2 - Google’s new open LLM](https://huggingface.co/blog/gemma2) *(Hugging Face Blog)*
+- [ ] 2024-06-25 [XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face](https://huggingface.co/blog/xlscout-case-study) *(Hugging Face Blog)*
+- [ ] 2024-06-24 [Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models](https://huggingface.co/blog/finetune-florence2) *(Hugging Face Blog)*
+- [ ] 2024-06-24 [Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality](https://huggingface.co/blog/ethics-soc-6) *(Hugging Face Blog)*
+- [ ] 2024-06-20 [Data Is Better Together: A Look Back and Forward](https://huggingface.co/blog/dibt) *(Hugging Face Blog)*
+- [ ] 2024-06-19 [Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](https://huggingface.co/blog/prezi-case-study) *(Hugging Face Blog)*
+- [ ] 2024-06-18 [BigCodeBench: The Next Generation of HumanEval](https://huggingface.co/blog/leaderboard-bigcodebench) *(Hugging Face Blog)*
+- [ ] 2024-06-13 [From DeepSpeed to FSDP and Back Again with Hugging Face Accelerate](https://huggingface.co/blog/deepspeed-to-fsdp-and-back) *(Hugging Face Blog)*
+- [ ] 2024-06-12 [Diffusers welcomes Stable Diffusion 3](https://huggingface.co/blog/sd3) *(Hugging Face Blog)*
+- [ ] 2024-06-12 [Putting RL back in RLHF](https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo) *(Hugging Face Blog)*
+- [ ] 2024-06-07 [Making sense of this mess](https://huggingface.co/blog/transformers-docs-redesign) *(Hugging Face Blog)*
+- [ ] 2024-06-07 [Introducing the Hugging Face Embedding Container for Amazon SageMaker](https://huggingface.co/blog/sagemaker-huggingface-embedding) *(Hugging Face Blog)*
+- [ ] 2024-06-06 [Launching the Artificial Analysis Text to Image Leaderboard & Arena](https://huggingface.co/blog/leaderboard-artificial-analysis2) *(Hugging Face Blog)*
+- [ ] 2024-06-05 [Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](https://huggingface.co/blog/npc-gigax-cubzh) *(Hugging Face Blog)*
+- [ ] 2024-06-04 [Faster assisted generation support for Intel Gaudi](https://huggingface.co/blog/assisted-generation-support-gaudi) *(Hugging Face Blog)*
+- [ ] 2024-05-31 [Space secrets security update](https://huggingface.co/blog/space-secrets-disclosure) *(Hugging Face Blog)*
+- [ ] 2024-05-29 [Benchmarking Text Generation Inference](https://huggingface.co/blog/tgi-benchmarking) *(Hugging Face Blog)*
+- [ ] 2024-05-28 [Training and Finetuning Embedding Models with Sentence Transformers v3](https://huggingface.co/blog/train-sentence-transformers) *(Hugging Face Blog)*
+- [ ] 2024-05-24 [Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages](https://huggingface.co/blog/falcon2-11b) *(Hugging Face Blog)*
+- [ ] 2024-05-24 [CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models](https://huggingface.co/blog/leaderboard-llamaguard) *(Hugging Face Blog)*
+- [ ] 2024-05-22 [Deploy models on AWS Inferentia2 from Hugging Face](https://huggingface.co/blog/inferentia-inference-endpoints) *(Hugging Face Blog)*
+- [ ] 2024-05-21 [Introducing Spaces Dev Mode for a seamless developer experience](https://huggingface.co/blog/spaces-dev-mode) *(Hugging Face Blog)*
+- [ ] 2024-05-21 [Build AI on premise with Dell Enterprise Hub](https://huggingface.co/blog/dell-enterprise-hub) *(Hugging Face Blog)*
+- [ ] 2024-05-21 [Hugging Face on AMD Instinct MI300 GPU](https://huggingface.co/blog/huggingface-amd-mi300) *(Hugging Face Blog)*
+- [ ] 2024-05-21 [From cloud to developers: Hugging Face and Microsoft Deepen Collaboration](https://huggingface.co/blog/microsoft-collaboration) *(Hugging Face Blog)*
+- [ ] 2024-05-16 [Unlocking Longer Generation with Key-Value Cache Quantization](https://huggingface.co/blog/kv-cache-quantization) *(Hugging Face Blog)*
+- [ ] 2024-05-14 [PaliGemma – Google's Cutting-Edge Open Vision Language Model](https://huggingface.co/blog/paligemma) *(Hugging Face Blog)*
+- [ ] 2024-05-14 [Hugging Face x LangChain : A new partner package](https://huggingface.co/blog/langchain) *(Hugging Face Blog)*
+- [ ] 2024-05-14 [Introducing the Open Arabic LLM Leaderboard](https://huggingface.co/blog/leaderboard-arabic) *(Hugging Face Blog)*
+- [ ] 2024-05-13 [License to Call: Introducing Transformers Agents 2.0](https://huggingface.co/blog/agents) *(Hugging Face Blog)*
+- [ ] 2024-05-09 [Subscribe to Enterprise Hub with your AWS Account](https://huggingface.co/blog/enterprise-hub-aws-marketplace) *(Hugging Face Blog)*
+- [ ] 2024-05-09 [Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon](https://huggingface.co/blog/cost-efficient-rag-applications-with-intel) *(Hugging Face Blog)*
+- [ ] 2024-05-05 [Introducing the Open Leaderboard for Hebrew LLMs!](https://huggingface.co/blog/leaderboard-hebrew) *(Hugging Face Blog)*
+- [ ] 2024-05-03 [Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face](https://huggingface.co/blog/leaderboard-artificial-analysis) *(Hugging Face Blog)*
+- [ ] 2024-05-01 [Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints](https://huggingface.co/blog/asr-diarization) *(Hugging Face Blog)*
+- [ ] 2024-04-30 [Improving Prompt Consistency with Structured Generations](https://huggingface.co/blog/evaluation-structured-outputs) *(Hugging Face Blog)*
+- [ ] 2024-04-29 [StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation](https://huggingface.co/blog/sc2-instruct) *(Hugging Face Blog)*
+- [ ] 2024-04-23 [Introducing the Open Chain of Thought Leaderboard](https://huggingface.co/blog/leaderboard-cot) *(Hugging Face Blog)*
+- [ ] 2024-04-22 [Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent](https://huggingface.co/blog/jat) *(Hugging Face Blog)*
+- [ ] 2024-04-19 [The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare](https://huggingface.co/blog/leaderboard-medicalllm) *(Hugging Face Blog)*
+- [ ] 2024-04-18 [Welcome Llama 3 - Meta's new open LLM](https://huggingface.co/blog/llama3) *(Hugging Face Blog)*
+- [ ] 2024-04-16 [AI Apps in a Flash with Gradio's Reload Mode](https://huggingface.co/blog/gradio-reload) *(Hugging Face Blog)*
+- [ ] 2024-04-16 [Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs](https://huggingface.co/blog/leaderboard-livecodebench) *(Hugging Face Blog)*
+- [ ] 2024-04-16 [Running Privacy-Preserving Inferences on Hugging Face Endpoints](https://huggingface.co/blog/fhe-endpoints) *(Hugging Face Blog)*
+- [ ] 2024-04-16 [Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face](https://huggingface.co/blog/ryght-case-study) *(Hugging Face Blog)*
+- [ ] 2024-04-15 [Introducing Idefics2: A Powerful 8B Vision-Language Model for the community](https://huggingface.co/blog/idefics2) *(Hugging Face Blog)*
+- [ ] 2024-04-11 [Vision Language Models Explained](https://huggingface.co/blog/vlms) *(Hugging Face Blog)*
+- [ ] 2024-04-10 [Making thousands of open LLMs bloom in the Vertex AI Model Garden](https://huggingface.co/blog/google-cloud-model-garden) *(Hugging Face Blog)*
+- [ ] 2024-04-09 [CodeGemma - an official Google release for code LLMs](https://huggingface.co/blog/codegemma) *(Hugging Face Blog)*
+- [ ] 2024-04-08 [Public Policy at Hugging Face](https://huggingface.co/blog/policy-blog) *(Hugging Face Blog)*
+- [ ] 2024-04-04 [Hugging Face partners with Wiz Research to Improve AI Security](https://huggingface.co/blog/hugging-face-wiz-security-blog) *(Hugging Face Blog)*
+- [ ] 2024-04-04 [Text2SQL using Hugging Face Dataset Viewer API and Motherduck DuckDB-NSQL-7B](https://huggingface.co/blog/duckdb-nsql-7b) *(Hugging Face Blog)*
+- [ ] 2024-04-03 [Blazing Fast SetFit Inference with 🤗 Optimum Intel on Xeon](https://huggingface.co/blog/setfit-optimum-intel) *(Hugging Face Blog)*
+- [ ] 2024-04-02 [Bringing serverless GPU inference to Hugging Face users](https://huggingface.co/blog/cloudflare-workers-ai) *(Hugging Face Blog)*
+- [ ] 2024-03-25 [Pollen-Vision: Unified interface for Zero-Shot vision models in robotics](https://huggingface.co/blog/pollen-vision) *(Hugging Face Blog)*
+- [ ] 2024-03-22 [Total noob’s intro to Hugging Face Transformers](https://huggingface.co/blog/noob_intro_transformers) *(Hugging Face Blog)*
+- [ ] 2024-03-22 [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://huggingface.co/blog/embedding-quantization) *(Hugging Face Blog)*
+- [ ] 2024-03-21 [Introducing the Chatbot Guardrails Arena](https://huggingface.co/blog/arena-lighthouz) *(Hugging Face Blog)*
+- [ ] 2024-03-20 [A Chatbot on your Laptop: Phi-2 on Intel Meteor Lake](https://huggingface.co/blog/phi2-intel-meteor-lake) *(Hugging Face Blog)*
+- [ ] 2024-03-20 [Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models](https://huggingface.co/blog/cosmopedia) *(Hugging Face Blog)*
+- [ ] 2024-03-20 [GaLore: Advancing Large Model Training on Consumer-grade Hardware](https://huggingface.co/blog/galore) *(Hugging Face Blog)*
+- [ ] 2024-03-18 [Easily Train Models with H100 GPUs on NVIDIA DGX Cloud](https://huggingface.co/blog/train-dgx-cloud) *(Hugging Face Blog)*
+- [ ] 2024-03-18 [Quanto: a PyTorch quantization backend for Optimum](https://huggingface.co/blog/quanto-introduction) *(Hugging Face Blog)*
+- [ ] 2024-03-15 [CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG](https://huggingface.co/blog/intel-fast-embedding) *(Hugging Face Blog)*
+- [ ] 2024-03-15 [Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset](https://huggingface.co/blog/websight) *(Hugging Face Blog)*
+- [ ] 2024-03-05 [Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?](https://huggingface.co/blog/leaderboard-contextual) *(Hugging Face Blog)*
+- [ ] 2024-03-04 [Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces](https://huggingface.co/blog/community-datasets) *(Hugging Face Blog)*
+- [ ] 2024-02-29 [Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator](https://huggingface.co/blog/textgen-pipe-gaudi) *(Hugging Face Blog)*
+- [ ] 2024-02-28 [StarCoder2 and The Stack v2](https://huggingface.co/blog/starcoder2) *(Hugging Face Blog)*
+- [ ] 2024-02-27 [TTS Arena: Benchmarking Text-to-Speech Models in the Wild](https://huggingface.co/blog/arena-tts) *(Hugging Face Blog)*
+- [ ] 2024-02-26 [AI Watermarking 101: Tools and Techniques](https://huggingface.co/blog/watermarking) *(Hugging Face Blog)*
+- [ ] 2024-02-23 [Fine-Tuning Gemma Models in Hugging Face](https://huggingface.co/blog/gemma-peft) *(Hugging Face Blog)*
+- [ ] 2024-02-23 [Introducing the Red-Teaming Resistance Leaderboard](https://huggingface.co/blog/leaderboard-haizelab) *(Hugging Face Blog)*
+- [ ] 2024-02-23 [🪆 Introduction to Matryoshka Embedding Models](https://huggingface.co/blog/matryoshka) *(Hugging Face Blog)*
+- [ ] 2024-02-21 [Welcome Gemma - Google’s new open LLM](https://huggingface.co/blog/gemma) *(Hugging Face Blog)*
+- [ ] 2024-02-20 [Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem](https://huggingface.co/blog/leaderboard-upstage) *(Hugging Face Blog)*
+- [ ] 2024-02-19 [🤗 PEFT welcomes new merging methods](https://huggingface.co/blog/peft_merging) *(Hugging Face Blog)*
+- [ ] 2024-02-16 [Synthetic data: save money, time and carbon with open source](https://huggingface.co/blog/synthetic-data-save-costs) *(Hugging Face Blog)*
+- [ ] 2024-02-14 [AMD Pervasive AI Developer Contest!](https://huggingface.co/blog/amd_pervasive_developer_ai_contest) *(Hugging Face Blog)*
+- [ ] 2024-02-08 [From OpenAI to Open LLMs with Messages API on Hugging Face](https://huggingface.co/blog/tgi-messages-api) *(Hugging Face Blog)*
+- [ ] 2024-02-03 [SegMoE: Segmind Mixture of Diffusion Experts](https://huggingface.co/blog/segmoe) *(Hugging Face Blog)*
+- [ ] 2024-02-02 [NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](https://huggingface.co/blog/leaderboard-nphardeval) *(Hugging Face Blog)*
+- [ ] 2024-02-01 [Constitutional AI with Open LLMs](https://huggingface.co/blog/constitutional_ai) *(Hugging Face Blog)*
+- [ ] 2024-02-01 [Hugging Face Text Generation Inference available for AWS Inferentia2](https://huggingface.co/blog/text-generation-inference-on-inferentia2) *(Hugging Face Blog)*
+- [ ] 2024-02-01 [Patch Time Series Transformer in Hugging Face](https://huggingface.co/blog/patchtst) *(Hugging Face Blog)*
+- [ ] 2024-01-31 [Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real World Use Cases](https://huggingface.co/blog/leaderboard-patronus) *(Hugging Face Blog)*
+- [ ] 2024-01-30 [Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding](https://huggingface.co/blog/intel-starcoder-quantization) *(Hugging Face Blog)*
+- [ ] 2024-01-29 [The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models](https://huggingface.co/blog/leaderboard-hallucinations) *(Hugging Face Blog)*
+- [ ] 2024-01-26 [An Introduction to AI Secure LLM Safety Leaderboard](https://huggingface.co/blog/leaderboard-decodingtrust) *(Hugging Face Blog)*
+- [ ] 2024-01-25 [Hugging Face and Google partner for open AI collaboration](https://huggingface.co/blog/gcp-partnership) *(Hugging Face Blog)*
+- [ ] 2024-01-24 [Open-source LLMs as LangChain Agents](https://huggingface.co/blog/open-source-llms-as-agents) *(Hugging Face Blog)*
+- [ ] 2024-01-19 [Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers](https://huggingface.co/blog/fine-tune-w2v2-bert) *(Hugging Face Blog)*
+- [ ] 2024-01-19 [PatchTSMixer in HuggingFace](https://huggingface.co/blog/patchtsmixer) *(Hugging Face Blog)*
+- [ ] 2024-01-18 [Preference Tuning LLMs with Direct Preference Optimization Methods](https://huggingface.co/blog/pref-tuning) *(Hugging Face Blog)*
+- [ ] 2024-01-15 [Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive](https://huggingface.co/blog/sdxl_ort_inference) *(Hugging Face Blog)*
+- [ ] 2024-01-14 [Run ComfyUI workflows for free with Gradio on Hugging Face Spaces](https://huggingface.co/blog/run-comfyui-workflows-on-spaces) *(Hugging Face Blog)*
+- [ ] 2024-01-12 [A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard](https://huggingface.co/blog/leaderboard-vectara) *(Hugging Face Blog)*
+- [ ] 2024-01-10 [Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL](https://huggingface.co/blog/unsloth-trl) *(Hugging Face Blog)*
+- [ ] 2024-01-04 [Welcome aMUSEd: Efficient Text-to-Image Generation](https://huggingface.co/blog/amused) *(Hugging Face Blog)*
+- [ ] 2024-01-02 [LoRA training scripts of the world, unite!](https://huggingface.co/blog/sdxl_lora_advanced_script) *(Hugging Face Blog)*
+- [ ] 2023-12-20 [Speculative Decoding for 2x Faster Whisper Inference](https://huggingface.co/blog/whisper-speculative-decoding) *(Hugging Face Blog)*
+- [ ] 2023-12-18 [2023, year of open LLMs](https://huggingface.co/blog/2023-in-llms) *(Hugging Face Blog)*
+- [ ] 2023-12-11 [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https://huggingface.co/blog/mixtral) *(Hugging Face Blog)*
+- [ ] 2023-12-11 [Mixture of Experts Explained](https://huggingface.co/blog/moe) *(Hugging Face Blog)*
+- [ ] 2023-12-06 [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](https://huggingface.co/blog/setfit-absa) *(Hugging Face Blog)*
+- [ ] 2023-12-05 [AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU](https://huggingface.co/blog/huggingface-and-optimum-amd) *(Hugging Face Blog)*
+- [ ] 2023-12-05 [Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code](https://huggingface.co/blog/optimum-nvidia) *(Hugging Face Blog)*
+- [ ] 2023-12-05 [Goodbye cold boot - how we made LoRA Inference 300% faster](https://huggingface.co/blog/lora-adapters-dynamic-loading) *(Hugging Face Blog)*
+- [ ] 2023-12-01 [Open LLM Leaderboard: DROP deep dive](https://huggingface.co/blog/open-llm-leaderboard-drop) *(Hugging Face Blog)*
+- [ ] 2023-11-09 [SDXL in 4 steps with Latent Consistency LoRAs](https://huggingface.co/blog/lcm_lora) *(Hugging Face Blog)*
+- [ ] 2023-11-07 [Make your llama generation time fly with AWS Inferentia2](https://huggingface.co/blog/inferentia-llama2) *(Hugging Face Blog)*
+- [ ] 2023-11-07 [Introducing Prodigy-HF: a direct integration with Hugging Face](https://huggingface.co/blog/prodigy-hf) *(Hugging Face Blog)*
+- [ ] 2023-11-07 [Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora](https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral) *(Hugging Face Blog)*
+- [ ] 2023-11-03 [Introducing Storage Regions on the HF Hub](https://huggingface.co/blog/regions) *(Hugging Face Blog)*
+- [ ] 2023-10-27 [Personal Copilot: Train Your Own Coding Assistant](https://huggingface.co/blog/personal-copilot) *(Hugging Face Blog)*
+- [ ] 2023-10-25 [Interactively explore your Huggingface dataset with one line of code](https://huggingface.co/blog/scalable-data-inspection) *(Hugging Face Blog)*
+- [ ] 2023-10-24 [Deploy Embedding Models with Hugging Face Inference Endpoints](https://huggingface.co/blog/inference-endpoints-embeddings) *(Hugging Face Blog)*
+- [ ] 2023-10-24 [The N Implementation Details of RLHF with PPO](https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo) *(Hugging Face Blog)*
+- [ ] 2023-10-24 [Exploring simple optimizations for SDXL](https://huggingface.co/blog/simple_sdxl_optimizations) *(Hugging Face Blog)*
+- [ ] 2023-10-19 [Gradio-Lite: Serverless Gradio Running Entirely in Your Browser](https://huggingface.co/blog/gradio-lite) *(Hugging Face Blog)*
+- [ ] 2023-10-04 [Accelerating over 130,000 Hugging Face models with ONNX Runtime](https://huggingface.co/blog/ort-accelerating-hf-models) *(Hugging Face Blog)*
+- [ ] 2023-10-03 [🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e](https://huggingface.co/blog/sdxl_jax) *(Hugging Face Blog)*
+- [ ] 2023-10-03 [Chat Templates: An End to the Silent Performance Killer](https://huggingface.co/blog/chat-templates) *(Hugging Face Blog)*
+- [ ] 2023-10-02 [Deploying the AI Comic Factory using the Inference API](https://huggingface.co/blog/ai-comic-factory) *(Hugging Face Blog)*
+- [ ] 2023-09-29 [Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings](https://huggingface.co/blog/ethics-soc-5) *(Hugging Face Blog)*
+- [ ] 2023-09-29 [Finetune Stable Diffusion Models with DDPO via TRL](https://huggingface.co/blog/trl-ddpo) *(Hugging Face Blog)*
+- [ ] 2023-09-28 [Non-engineers guide: Train a LLaMA 2 chatbot](https://huggingface.co/blog/Llama2-for-non-engineers) *(Hugging Face Blog)*
+- [ ] 2023-09-26 [Llama 2 on Amazon SageMaker a Benchmark](https://huggingface.co/blog/llama-sagemaker-benchmark) *(Hugging Face Blog)*
+- [ ] 2023-09-22 [Inference for PROs](https://huggingface.co/blog/inference-pro) *(Hugging Face Blog)*
+- [ ] 2023-09-19 [Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​](https://huggingface.co/blog/rocketmoney-case-study) *(Hugging Face Blog)*
+- [ ] 2023-09-18 [Introduction to 3D Gaussian Splatting](https://huggingface.co/blog/gaussian-splatting) *(Hugging Face Blog)*
+- [ ] 2023-09-18 [Object Detection Leaderboard](https://huggingface.co/blog/object-detection-leaderboard) *(Hugging Face Blog)*
+- [ ] 2023-09-15 [Optimizing your LLM in production](https://huggingface.co/blog/optimize-llm) *(Hugging Face Blog)*
+- [ ] 2023-09-13 [Introducing Würstchen: Fast Diffusion for Image Generation](https://huggingface.co/blog/wuerstchen) *(Hugging Face Blog)*
+- [ ] 2023-09-13 [Fine-tuning Llama 2 70B using PyTorch FSDP](https://huggingface.co/blog/ram-efficient-pytorch-fsdp) *(Hugging Face Blog)*
+- [ ] 2023-09-12 [Overview of natively supported quantization schemes in 🤗 Transformers](https://huggingface.co/blog/overview-quantization-transformers) *(Hugging Face Blog)*
+- [ ] 2023-09-11 [SafeCoder vs. Closed-source Code Assistants](https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants) *(Hugging Face Blog)*
+- [ ] 2023-09-08 [Efficient Controllable Generation for SDXL with T2I-Adapters](https://huggingface.co/blog/t2i-sdxl-adapters) *(Hugging Face Blog)*
+- [ ] 2023-09-06 [Spread Your Wings: Falcon 180B is here](https://huggingface.co/blog/falcon-180b) *(Hugging Face Blog)*
+- [ ] 2023-09-01 [Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](https://huggingface.co/blog/fetch-case-study) *(Hugging Face Blog)*
+- [ ] 2023-08-30 [AudioLDM 2, but faster ⚡️](https://huggingface.co/blog/audioldm2) *(Hugging Face Blog)*
+- [ ] 2023-08-25 [Code Llama: Llama 2 learns to code](https://huggingface.co/blog/codellama) *(Hugging Face Blog)*
+- [ ] 2023-08-25 [Deprecation of Git Authentication using password](https://huggingface.co/blog/password-git-deprecation) *(Hugging Face Blog)*
+- [ ] 2023-08-23 [Making LLMs lighter with AutoGPTQ and transformers](https://huggingface.co/blog/gptq-integration) *(Hugging Face Blog)*
+- [ ] 2023-08-22 [Introducing SafeCoder](https://huggingface.co/blog/safecoder) *(Hugging Face Blog)*
+- [ ] 2023-08-22 [Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model](https://huggingface.co/blog/idefics) *(Hugging Face Blog)*
+- [ ] 2023-08-10 [Hugging Face Hub on the AWS Marketplace: Pay with your AWS Account](https://huggingface.co/blog/aws-marketplace) *(Hugging Face Blog)*
+- [ ] 2023-08-09 [Optimizing Bark using 🤗 Transformers](https://huggingface.co/blog/optimizing-bark) *(Hugging Face Blog)*
+- [ ] 2023-08-09 [Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action](https://huggingface.co/blog/deploy-deepfloydif-using-bentoml) *(Hugging Face Blog)*
+- [ ] 2023-08-08 [Fine-tune Llama 2 with DPO](https://huggingface.co/blog/dpo-trl) *(Hugging Face Blog)*
+- [ ] 2023-08-08 [Releasing Swift Transformers: Run On-Device LLMs in Apple Devices](https://huggingface.co/blog/swift-coreml-llm) *(Hugging Face Blog)*
+- [ ] 2023-08-04 [Deploy MusicGen in no time with Inference Endpoints](https://huggingface.co/blog/run-musicgen-as-an-api) *(Hugging Face Blog)*
+- [ ] 2023-08-02 [Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub](https://huggingface.co/blog/huggy-lingo) *(Hugging Face Blog)*
+- [ ] 2023-08-02 [Towards Encrypted Large Language Models with FHE](https://huggingface.co/blog/encrypted-llm) *(Hugging Face Blog)*
+- [ ] 2023-08-01 [Practical 3D Asset Generation: A Step-by-Step Guide](https://huggingface.co/blog/3d-assets) *(Hugging Face Blog)*
+- [ ] 2023-08-01 [Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny](https://huggingface.co/blog/sd_distillation) *(Hugging Face Blog)*
+- [ ] 2023-07-27 [Stable Diffusion XL on Mac with Advanced Core ML Quantization](https://huggingface.co/blog/stable-diffusion-xl-coreml) *(Hugging Face Blog)*
+- [ ] 2023-07-24 [AI Policy @🤗: Open ML Considerations in the EU AI Act](https://huggingface.co/blog/eu-ai-act-oss) *(Hugging Face Blog)*
+- [ ] 2023-07-24 [Introducing Agents.js: Give tools to your LLMs using JavaScript](https://huggingface.co/blog/agents-js) *(Hugging Face Blog)*
+- [ ] 2023-07-21 [Results of the Open Source AI Game Jam](https://huggingface.co/blog/game-jam-first-edition-results) *(Hugging Face Blog)*
+- [ ] 2023-07-20 [Happy 1st anniversary 🤗 Diffusers!](https://huggingface.co/blog/diffusers-turns-1) *(Hugging Face Blog)*
+- [ ] 2023-07-18 [Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2) *(Hugging Face Blog)*
+- [ ] 2023-07-17 [Building an AI WebTV](https://huggingface.co/blog/ai-webtv) *(Hugging Face Blog)*
+- [ ] 2023-07-17 [Open-Source Text Generation & LLM Ecosystem at Hugging Face](https://huggingface.co/blog/os-llms) *(Hugging Face Blog)*
+- [ ] 2023-07-14 [Fine-tuning Stable Diffusion models on Intel CPUs](https://huggingface.co/blog/stable-diffusion-finetuning-intel) *(Hugging Face Blog)*
+- [ ] 2023-07-05 [Making ML-powered web games with Transformers.js](https://huggingface.co/blog/ml-web-games) *(Hugging Face Blog)*
+- [ ] 2023-07-04 [Deploy LLMs with Hugging Face Inference Endpoints](https://huggingface.co/blog/inference-endpoints-llm) *(Hugging Face Blog)*
+- [ ] 2023-07-03 [Making a web app generator with open ML models](https://huggingface.co/blog/text-to-webapp) *(Hugging Face Blog)*
+- [ ] 2023-07-01 [Leveraging Hugging Face for complex generative AI use cases](https://huggingface.co/blog/writer-case-study) *(Hugging Face Blog)*
+- [ ] 2023-06-29 [Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2](https://huggingface.co/blog/bridgetower) *(Hugging Face Blog)*
+- [ ] 2023-06-26 [Ethics and Society Newsletter #4: Bias in Text-to-Image Models](https://huggingface.co/blog/ethics-soc-4) *(Hugging Face Blog)*
+- [ ] 2023-06-23 [What's going on with the Open LLM Leaderboard?](https://huggingface.co/blog/open-llm-leaderboard-mmlu) *(Hugging Face Blog)*
+- [ ] 2023-06-22 [Panel on Hugging Face](https://huggingface.co/blog/panel-on-hugging-face) *(Hugging Face Blog)*
+- [ ] 2023-06-20 [AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability](https://huggingface.co/blog/policy-ntia-rfc) *(Hugging Face Blog)*
+- [ ] 2023-06-19 [Fine-Tune MMS Adapter Models for low-resource ASR](https://huggingface.co/blog/mms_adapters) *(Hugging Face Blog)*
+- [ ] 2023-06-16 [Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](https://huggingface.co/blog/autoformer) *(Hugging Face Blog)*
+- [ ] 2023-06-15 [Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac](https://huggingface.co/blog/fast-diffusers-coreml) *(Hugging Face Blog)*
+- [ ] 2023-06-15 [Deploy Livebook notebooks as apps to Hugging Face Spaces](https://huggingface.co/blog/livebook-app-deployment) *(Hugging Face Blog)*
+- [ ] 2023-06-15 [Announcing our new Content Guidelines and Policy](https://huggingface.co/blog/content-guidelines-update) *(Hugging Face Blog)*
+- [ ] 2023-06-13 [Hugging Face and AMD partner on accelerating state-of-the-art models for CPU and GPU platforms](https://huggingface.co/blog/huggingface-and-amd) *(Hugging Face Blog)*
+- [ ] 2023-06-12 [Can foundation models label data like humans?](https://huggingface.co/blog/open-llm-leaderboard-rlhf) *(Hugging Face Blog)*
+- [ ] 2023-06-12 [The Hugging Face Hub for Galleries, Libraries, Archives and Museums](https://huggingface.co/blog/hf-hub-glam-guide) *(Hugging Face Blog)*
+- [ ] 2023-06-07 [DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub](https://huggingface.co/blog/hub-duckdb) *(Hugging Face Blog)*
+- [ ] 2023-06-06 [Welcome fastText to the Hugging Face Hub](https://huggingface.co/blog/fasttext) *(Hugging Face Blog)*
+- [ ] 2023-06-05 [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon) *(Hugging Face Blog)*
+- [ ] 2023-06-02 [AI Speech Recognition in Unity](https://huggingface.co/blog/unity-asr) *(Hugging Face Blog)*
+- [ ] 2023-06-01 [Announcing the Open Source AI Game Jam 🎮](https://huggingface.co/blog/game-jam) *(Hugging Face Blog)*
+- [ ] 2023-05-31 [Introducing the Hugging Face LLM Inference Container for Amazon SageMaker](https://huggingface.co/blog/sagemaker-huggingface-llm) *(Hugging Face Blog)*
+- [ ] 2023-05-31 [Introducing BERTopic Integration with the Hugging Face Hub](https://huggingface.co/blog/bertopic) *(Hugging Face Blog)*
+- [ ] 2023-05-25 [Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum](https://huggingface.co/blog/train-optimize-sd-intel) *(Hugging Face Blog)*
+- [ ] 2023-05-24 [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes) *(Hugging Face Blog)*
+- [ ] 2023-05-24 [Hugging Face Collaborates with Microsoft to launch Hugging Face Model Catalog on Azure](https://huggingface.co/blog/hugging-face-endpoints-on-azure) *(Hugging Face Blog)*
+- [ ] 2023-05-23 [Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders](https://huggingface.co/blog/huggingface-and-ibm) *(Hugging Face Blog)*
+- [ ] 2023-05-23 [🐶Safetensors audited as really safe and becoming the default](https://huggingface.co/blog/safetensors-security-audit) *(Hugging Face Blog)*
+- [ ] 2023-05-23 [Instruction-tuning Stable Diffusion with InstructPix2Pix](https://huggingface.co/blog/instruction-tuning-sd) *(Hugging Face Blog)*
+- [ ] 2023-05-16 [Large-scale Near-deduplication Behind BigCode](https://huggingface.co/blog/dedup) *(Hugging Face Blog)*
+- [ ] 2023-05-16 [Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon](https://huggingface.co/blog/generative-ai-models-on-intel-cpu) *(Hugging Face Blog)*
+- [ ] 2023-05-15 [Hugging Face Selected for the French Data Protection Agency Enhanced Support Program](https://huggingface.co/blog/cnil) *(Hugging Face Blog)*
+- [ ] 2023-05-15 [Run a Chatgpt-like Chatbot on a Single GPU with ROCm](https://huggingface.co/blog/chatbot-amd-gpu) *(Hugging Face Blog)*
+- [ ] 2023-05-15 [Introducing RWKV - An RNN with the advantages of a transformer](https://huggingface.co/blog/rwkv) *(Hugging Face Blog)*
+- [ ] 2023-05-11 [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation) *(Hugging Face Blog)*
+- [ ] 2023-05-09 [Creating a Coding Assistant with StarCoder](https://huggingface.co/blog/starchat-alpha) *(Hugging Face Blog)*
+- [ ] 2023-05-08 [A Dive into Text-to-Video Models](https://huggingface.co/blog/text-to-video) *(Hugging Face Blog)*
+- [ ] 2023-05-04 [StarCoder: A State-of-the-Art LLM for Code](https://huggingface.co/blog/starcoder) *(Hugging Face Blog)*
+- [ ] 2023-05-01 [How to Install and Use the Hugging Face Unity API](https://huggingface.co/blog/unity-api) *(Hugging Face Blog)*
+- [ ] 2023-04-27 [Training a language model with 🤗 Transformers using TensorFlow and TPUs](https://huggingface.co/blog/tf_tpu) *(Hugging Face Blog)*
+- [ ] 2023-04-26 [Running IF with 🧨 diffusers on a Free Tier Google Colab](https://huggingface.co/blog/if) *(Hugging Face Blog)*
+- [ ] 2023-04-26 [Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models](https://huggingface.co/blog/databricks-case-study) *(Hugging Face Blog)*
+- [ ] 2023-04-24 [Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community](https://huggingface.co/blog/chinese-language-blog) *(Hugging Face Blog)*
+- [ ] 2023-04-21 [How to host a Unity game in a Space](https://huggingface.co/blog/unity-in-spaces) *(Hugging Face Blog)*
+- [ ] 2023-04-17 [Accelerating Hugging Face Transformers with AWS Inferentia2](https://huggingface.co/blog/accelerate-transformers-with-inferentia2) *(Hugging Face Blog)*
+- [ ] 2023-04-14 [Graph Classification with Transformers](https://huggingface.co/blog/graphml-classification) *(Hugging Face Blog)*
+- [ ] 2023-04-12 [Creating Privacy Preserving AI with Substra](https://huggingface.co/blog/owkin-substra) *(Hugging Face Blog)*
+- [ ] 2023-04-06 [Snorkel AI x Hugging Face: unlock foundation models for enterprises](https://huggingface.co/blog/snorkel-case-study) *(Hugging Face Blog)*
+- [ ] 2023-04-05 [StackLLaMA: A hands-on guide to train LLaMA with RLHF](https://huggingface.co/blog/stackllama) *(Hugging Face Blog)*
+- [ ] 2023-03-30 [Ethics and Society Newsletter #3: Ethical Openness at Hugging Face](https://huggingface.co/blog/ethics-soc-3) *(Hugging Face Blog)*
+- [ ] 2023-03-28 [Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator](https://huggingface.co/blog/habana-gaudi-2-bloom) *(Hugging Face Blog)*
+- [ ] 2023-03-28 [Accelerating Stable Diffusion Inference on Intel CPUs](https://huggingface.co/blog/stable-diffusion-inference-intel) *(Hugging Face Blog)*
+- [ ] 2023-03-27 [Federated Learning using Hugging Face and Flower](https://huggingface.co/blog/fl-with-flower) *(Hugging Face Blog)*
+- [ ] 2023-03-24 [Train your ControlNet with diffusers](https://huggingface.co/blog/train-your-controlnet) *(Hugging Face Blog)*
+- [ ] 2023-03-23 [Jupyter X Hugging Face](https://huggingface.co/blog/notebooks-hub) *(Hugging Face Blog)*
+- [ ] 2023-03-10 [Multivariate Probabilistic Time Series Forecasting with Informer](https://huggingface.co/blog/informer) *(Hugging Face Blog)*
+- [ ] 2023-03-09 [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://huggingface.co/blog/trl-peft) *(Hugging Face Blog)*
+- [ ] 2023-03-06 [New ViT and ALIGN Models From Kakao Brain](https://huggingface.co/blog/vit-align) *(Hugging Face Blog)*
+- [ ] 2023-03-03 [Using Machine Learning to Aid Survivors and Race through Time](https://huggingface.co/blog/using-ml-for-disasters) *(Hugging Face Blog)*
+- [ ] 2023-03-03 [ControlNet in 🧨 Diffusers](https://huggingface.co/blog/controlnet) *(Hugging Face Blog)*
+- [ ] 2023-03-02 [Ethical Guidelines for developing the Diffusers library](https://huggingface.co/blog/ethics-diffusers) *(Hugging Face Blog)*
+- [ ] 2023-03-01 [How Hugging Face Accelerated Development of Witty Works Writing Assistant](https://huggingface.co/blog/classification-use-cases) *(Hugging Face Blog)*
+- [ ] 2023-02-24 [Red-Teaming Large Language Models](https://huggingface.co/blog/red-teaming) *(Hugging Face Blog)*
+- [ ] 2023-02-24 [Swift 🧨Diffusers - Fast Stable Diffusion for Mac](https://huggingface.co/blog/fast-mac-diffusers) *(Hugging Face Blog)*
+- [ ] 2023-02-23 [Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS](https://huggingface.co/blog/fetch-eap-case-study) *(Hugging Face Blog)*
+- [ ] 2023-02-21 [Hugging Face and AWS partner to make AI more accessible](https://huggingface.co/blog/aws-partnership) *(Hugging Face Blog)*
+- [ ] 2023-02-15 [Zero-shot image-to-text generation with BLIP-2](https://huggingface.co/blog/blip-2) *(Hugging Face Blog)*
+- [ ] 2023-02-15 [Why we’re switching to Hugging Face Inference Endpoints, and maybe you should too](https://huggingface.co/blog/mantis-case-study) *(Hugging Face Blog)*
+- [ ] 2023-02-10 [Parameter-Efficient Fine-Tuning using 🤗 PEFT](https://huggingface.co/blog/peft) *(Hugging Face Blog)*
+- [ ] 2023-02-08 [Speech Synthesis, Recognition, and More With SpeechT5](https://huggingface.co/blog/speecht5) *(Hugging Face Blog)*
+- [ ] 2023-02-07 [Generating Stories: AI for Game Development #5](https://huggingface.co/blog/ml-for-games-5) *(Hugging Face Blog)*
+- [ ] 2023-02-07 [Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system](https://huggingface.co/blog/aivsai) *(Hugging Face Blog)*
+- [ ] 2023-02-06 [Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2](https://huggingface.co/blog/intel-sapphire-rapids-inference) *(Hugging Face Blog)*
+- [ ] 2023-02-03 [A Dive into Vision-Language Models](https://huggingface.co/blog/vision_language_pretraining) *(Hugging Face Blog)*
+- [ ] 2023-01-30 [The State of Computer Vision at Hugging Face 🤗](https://huggingface.co/blog/cv_state) *(Hugging Face Blog)*
+- [ ] 2023-01-26 [2D Asset Generation: AI for Game Development #4](https://huggingface.co/blog/ml-for-games-4) *(Hugging Face Blog)*
+- [ ] 2023-01-26 [Using LoRA for Efficient Stable Diffusion Fine-Tuning](https://huggingface.co/blog/lora) *(Hugging Face Blog)*
+- [ ] 2023-01-24 [What Makes a Dialog Agent Useful?](https://huggingface.co/blog/dialog-agents) *(Hugging Face Blog)*
+- [ ] 2023-01-24 [Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models](https://huggingface.co/blog/optimum-onnxruntime-training) *(Hugging Face Blog)*
+- [ ] 2023-01-20 [3D Asset Generation: AI for Game Development #3](https://huggingface.co/blog/ml-for-games-3) *(Hugging Face Blog)*
+- [ ] 2023-01-19 [Universal Image Segmentation with Mask2Former and OneFormer](https://huggingface.co/blog/mask2former) *(Hugging Face Blog)*
+- [ ] 2023-01-17 [Welcome PaddlePaddle to the Hugging Face Hub](https://huggingface.co/blog/paddlepaddle) *(Hugging Face Blog)*
+- [ ] 2023-01-16 [Image Similarity with Hugging Face Datasets and Transformers](https://huggingface.co/blog/image-similarity) *(Hugging Face Blog)*
+- [ ] 2023-01-09 [AI for Game Development: Creating a Farming Game in 5 Days. Part 2](https://huggingface.co/blog/ml-for-games-2) *(Hugging Face Blog)*
+- [ ] 2023-01-03 [Introduction to Graph Machine Learning](https://huggingface.co/blog/intro-graphml) *(Hugging Face Blog)*
+- [ ] 2023-01-02 [AI for Game Development: Creating a Farming Game in 5 Days. Part 1](https://huggingface.co/blog/ml-for-games-1) *(Hugging Face Blog)*
+- [ ] 2023-01-02 [Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 1](https://huggingface.co/blog/intel-sapphire-rapids) *(Hugging Face Blog)*
+- [ ] 2022-12-21 [Zero-shot image segmentation with CLIPSeg](https://huggingface.co/blog/clipseg-zero-shot) *(Hugging Face Blog)*
+- [ ] 2022-12-20 [Model Cards](https://huggingface.co/blog/model-cards) *(Hugging Face Blog)*
+- [ ] 2022-12-15 [Let's talk about biases in machine learning! Ethics and Society Newsletter #2](https://huggingface.co/blog/ethics-soc-2) *(Hugging Face Blog)*
+- [ ] 2022-12-15 [A Complete Guide to Audio Datasets](https://huggingface.co/blog/audio-datasets) *(Hugging Face Blog)*
+- [ ] 2022-12-14 [Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB](https://huggingface.co/blog/habana-gaudi-2-benchmark) *(Hugging Face Blog)*
+- [ ] 2022-12-09 [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf) *(Hugging Face Blog)*
+- [ ] 2022-12-09 [From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community](https://huggingface.co/blog/elixir-bumblebee) *(Hugging Face Blog)*
+- [ ] 2022-12-02 [Deep Learning with Proteins](https://huggingface.co/blog/deep-learning-with-proteins) *(Hugging Face Blog)*
+- [ ] 2022-12-01 [Using Stable Diffusion with Core ML on Apple Silicon](https://huggingface.co/blog/diffusers-coreml) *(Hugging Face Blog)*
+- [ ] 2022-12-01 [Probabilistic Time Series Forecasting with 🤗 Transformers](https://huggingface.co/blog/time-series-transformers) *(Hugging Face Blog)*
+- [ ] 2022-11-30 [VQ-Diffusion](https://huggingface.co/blog/vq-diffusion) *(Hugging Face Blog)*
+- [ ] 2022-11-29 [We are hiring interns!](https://huggingface.co/blog/interns-2023) *(Hugging Face Blog)*
+- [ ] 2022-11-25 [Diffusion Models Live Event](https://huggingface.co/blog/diffusion-models-event) *(Hugging Face Blog)*
+- [ ] 2022-11-23 [Director of Machine Learning Insights [Part 4]](https://huggingface.co/blog/ml-director-insights-4) *(Hugging Face Blog)*
+- [ ] 2022-11-21 [Accelerating Document AI](https://huggingface.co/blog/document-ai) *(Hugging Face Blog)*
+- [ ] 2022-11-21 [An overview of inference solutions on Hugging Face](https://huggingface.co/blog/inference-update) *(Hugging Face Blog)*
+- [ ] 2022-11-17 [Hugging Face Machine Learning Demos on arXiv](https://huggingface.co/blog/arxiv) *(Hugging Face Blog)*
+- [ ] 2022-11-17 [Sentiment Analysis on Encrypted Data with Homomorphic Encryption](https://huggingface.co/blog/sentiment-analysis-fhe) *(Hugging Face Blog)*
+- [ ] 2022-11-08 [Generating Human-level Text with Contrastive Search in Transformers 🤗](https://huggingface.co/blog/introducing-csearch) *(Hugging Face Blog)*
+- [ ] 2022-11-08 [Introducing our new pricing](https://huggingface.co/blog/pricing-update) *(Hugging Face Blog)*
+- [ ] 2022-11-07 [Training Stable Diffusion with Dreambooth using Diffusers](https://huggingface.co/blog/dreambooth) *(Hugging Face Blog)*
+- [ ] 2022-11-03 [Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers](https://huggingface.co/blog/fine-tune-whisper) *(Hugging Face Blog)*
+- [ ] 2022-11-02 [Accelerate your models with 🤗 Optimum Intel and OpenVINO](https://huggingface.co/blog/openvino) *(Hugging Face Blog)*
+- [ ] 2022-10-24 [Evaluating Language Model Bias with 🤗 Evaluate](https://huggingface.co/blog/evaluating-llm-bias) *(Hugging Face Blog)*
+- [ ] 2022-10-21 [From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease](https://huggingface.co/blog/pytorch-ddp-accelerate-transformers) *(Hugging Face Blog)*
+- [ ] 2022-10-19 [MTEB: Massive Text Embedding Benchmark](https://huggingface.co/blog/mteb) *(Hugging Face Blog)*
+- [ ] 2022-10-14 [Getting Started with Hugging Face Inference Endpoints](https://huggingface.co/blog/inference-endpoints) *(Hugging Face Blog)*
+- [ ] 2022-10-13 [🧨 Stable Diffusion  in JAX / Flax !](https://huggingface.co/blog/stable_diffusion_jax) *(Hugging Face Blog)*
+- [ ] 2022-10-12 [Optimization story: Bloom inference](https://huggingface.co/blog/bloom-inference-optimization) *(Hugging Face Blog)*
+- [ ] 2022-10-07 [Introducing DOI: the Digital Object Identifier to Datasets and Models](https://huggingface.co/blog/introducing-doi) *(Hugging Face Blog)*
+- [ ] 2022-10-05 [Japanese Stable Diffusion](https://huggingface.co/blog/japanese-stable-diffusion) *(Hugging Face Blog)*
+- [ ] 2022-10-03 [Very Large Language Models and How to Evaluate Them](https://huggingface.co/blog/zero-shot-eval-on-the-hub) *(Hugging Face Blog)*
+- [ ] 2022-09-28 [Image Classification with AutoTrain](https://huggingface.co/blog/autotrain-image-classification) *(Hugging Face Blog)*
+- [ ] 2022-09-27 [How 🤗 Accelerate runs very large models thanks to PyTorch](https://huggingface.co/blog/accelerate-large-models) *(Hugging Face Blog)*
+- [ ] 2022-09-26 [SetFit: Efficient Few-Shot Learning Without Prompts](https://huggingface.co/blog/setfit) *(Hugging Face Blog)*
+- [ ] 2022-09-22 [Ethics and Society Newsletter #1](https://huggingface.co/blog/ethics-soc-1) *(Hugging Face Blog)*
+- [ ] 2022-09-16 [Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate](https://huggingface.co/blog/bloom-inference-pytorch-scripts) *(Hugging Face Blog)*
+- [ ] 2022-09-12 [What's new in Diffusers? 🎨](https://huggingface.co/blog/diffusers-2nd-month) *(Hugging Face Blog)*
+- [ ] 2022-09-08 [Train your first Decision Transformer](https://huggingface.co/blog/train-decision-transformers) *(Hugging Face Blog)*
+- [ ] 2022-09-07 [How to train a Language Model with Megatron-LM](https://huggingface.co/blog/megatron-training) *(Hugging Face Blog)*
+- [ ] 2022-08-31 [OpenRAIL: Towards open and responsible AI licensing frameworks](https://huggingface.co/blog/open_rail) *(Hugging Face Blog)*
+- [ ] 2022-08-24 [Visualize proteins on Hugging Face Spaces](https://huggingface.co/blog/spaces_3dmoljs) *(Hugging Face Blog)*
+- [ ] 2022-08-22 [Stable Diffusion with 🧨 Diffusers](https://huggingface.co/blog/stable_diffusion) *(Hugging Face Blog)*
+- [ ] 2022-08-22 [Pre-Train BERT with Hugging Face Transformers and Habana Gaudi](https://huggingface.co/blog/pretraining-bert) *(Hugging Face Blog)*
+- [ ] 2022-08-19 [Deploying 🤗 ViT on Vertex AI](https://huggingface.co/blog/deploy-vertex-ai) *(Hugging Face Blog)*
+- [ ] 2022-08-18 [Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore](https://huggingface.co/blog/vision-transformers) *(Hugging Face Blog)*
+- [ ] 2022-08-17 [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration) *(Hugging Face Blog)*
+- [ ] 2022-08-12 [Introducing Skops](https://huggingface.co/blog/skops) *(Hugging Face Blog)*
+- [ ] 2022-08-12 [Hugging Face's TensorFlow Philosophy](https://huggingface.co/blog/tensorflow-philosophy) *(Hugging Face Blog)*
+- [ ] 2022-08-11 [Deploying 🤗 ViT on Kubernetes with TF Serving](https://huggingface.co/blog/deploy-tfserving-kubernetes) *(Hugging Face Blog)*
+- [ ] 2022-08-10 [Train and Fine-Tune Sentence Transformers Models](https://huggingface.co/blog/how-to-train-sentence-transformers) *(Hugging Face Blog)*
+- [ ] 2022-08-05 [Proximal Policy Optimization (PPO)](https://huggingface.co/blog/deep-rl-ppo) *(Hugging Face Blog)*
+- [ ] 2022-08-03 [Introducing the Private Hub: A New Way to Build With Machine Learning](https://huggingface.co/blog/introducing-private-hub) *(Hugging Face Blog)*
+- [ ] 2022-08-02 [Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method](https://huggingface.co/blog/nystromformer) *(Hugging Face Blog)*
+- [ ] 2022-08-01 [Comments on U.S. National AI Research Resource Interim Report](https://huggingface.co/blog/us-national-ai-research-resource) *(Hugging Face Blog)*
+- [ ] 2022-07-28 [Introducing new audio and vision documentation in 🤗 Datasets](https://huggingface.co/blog/datasets-docs-update) *(Hugging Face Blog)*
+- [ ] 2022-07-27 [Faster Text Generation with TensorFlow and XLA](https://huggingface.co/blog/tf-xla-generate) *(Hugging Face Blog)*
+- [ ] 2022-07-25 [Deploying TensorFlow Vision Models in Hugging Face with TF Serving](https://huggingface.co/blog/tf-serving-vision) *(Hugging Face Blog)*
+- [ ] 2022-07-22 [Advantage Actor Critic (A2C)](https://huggingface.co/blog/deep-rl-a2c) *(Hugging Face Blog)*
+- [ ] 2022-07-16 [How to train your model dynamically using adversarial data](https://huggingface.co/blog/mnist-adversarial) *(Hugging Face Blog)*
+- [ ] 2022-07-14 [The Technology Behind BLOOM Training](https://huggingface.co/blog/bloom-megatron-deepspeed) *(Hugging Face Blog)*
+- [ ] 2022-07-13 [Building a Playlist Generator with Sentence Transformers](https://huggingface.co/blog/playlist-generator) *(Hugging Face Blog)*
+- [ ] 2022-07-12 [Introducing The World's Largest Open Multilingual Language Model: BLOOM](https://huggingface.co/blog/bloom) *(Hugging Face Blog)*
+- [ ] 2022-07-07 [Getting Started with Sentiment Analysis on Twitter](https://huggingface.co/blog/sentiment-analysis-twitter) *(Hugging Face Blog)*
+- [ ] 2022-06-30 [Policy Gradient with PyTorch](https://huggingface.co/blog/deep-rl-pg) *(Hugging Face Blog)*
+- [ ] 2022-06-29 [Liftoff! How to get started with your first ML project 🚀](https://huggingface.co/blog/your-first-ml-project) *(Hugging Face Blog)*
+- [ ] 2022-06-28 [Accelerate Large Model Training using DeepSpeed](https://huggingface.co/blog/accelerate-deepspeed) *(Hugging Face Blog)*
+- [ ] 2022-06-28 [Announcing Evaluation on the Hub](https://huggingface.co/blog/eval-on-the-hub) *(Hugging Face Blog)*
+- [ ] 2022-06-23 [Getting Started With Embeddings](https://huggingface.co/blog/getting-started-with-embeddings) *(Hugging Face Blog)*
+- [ ] 2022-06-22 [Convert Transformers to ONNX with Hugging Face Optimum](https://huggingface.co/blog/convert-transformers-to-onnx) *(Hugging Face Blog)*
+- [ ] 2022-06-15 [Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration](https://huggingface.co/blog/intel) *(Hugging Face Blog)*
+- [ ] 2022-06-14 [Director of Machine Learning Insights [Part 3: Finance Edition]](https://huggingface.co/blog/ml-director-insights-3) *(Hugging Face Blog)*
+- [ ] 2022-06-07 [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion) *(Hugging Face Blog)*
+- [ ] 2022-06-07 [Deep Q-Learning with Space Invaders](https://huggingface.co/blog/deep-rl-dqn) *(Hugging Face Blog)*
+- [ ] 2022-05-26 [Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers](https://huggingface.co/blog/graphcore-update) *(Hugging Face Blog)*
+- [ ] 2022-05-25 [Introducing Pull Requests and Discussions 🥳](https://huggingface.co/blog/community-update) *(Hugging Face Blog)*
+- [ ] 2022-05-23 [Efficient Table Pre-training without Real Data: An Introduction to TAPEX](https://huggingface.co/blog/tapex) *(Hugging Face Blog)*
+- [ ] 2022-05-20 [An Introduction to Q-Learning Part 2/2](https://huggingface.co/blog/deep-rl-q-part2) *(Hugging Face Blog)*
+- [ ] 2022-05-19 [How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](https://huggingface.co/blog/sempre-health-eap-case-study) *(Hugging Face Blog)*
+- [ ] 2022-05-19 [Putting ethical principles at the core of the research lifecycle](https://huggingface.co/blog/ethical-charter-multimodal) *(Hugging Face Blog)*
+- [ ] 2022-05-18 [An Introduction to Q-Learning Part 1](https://huggingface.co/blog/deep-rl-q-part1) *(Hugging Face Blog)*
+- [ ] 2022-05-17 [Machine Learning Experts - Sasha Luccioni](https://huggingface.co/blog/sasha-luccioni-interview) *(Hugging Face Blog)*
+- [ ] 2022-05-17 [Announcing the Hugging Face Fellowship Program](https://huggingface.co/blog/fellowship) *(Hugging Face Blog)*
+- [ ] 2022-05-16 [Gradio 3.0 is Out!](https://huggingface.co/blog/gradio-blocks) *(Hugging Face Blog)*
+- [ ] 2022-05-13 [Director of Machine Learning Insights [Part 2: SaaS Edition]](https://huggingface.co/blog/ml-director-insights-2) *(Hugging Face Blog)*
+- [ ] 2022-05-13 [Student Ambassador Program’s call for applications is open!](https://huggingface.co/blog/ambassadors) *(Hugging Face Blog)*
+- [ ] 2022-05-10 [Accelerated Inference with Optimum and Transformers Pipelines](https://huggingface.co/blog/optimum-inference) *(Hugging Face Blog)*
+- [ ] 2022-05-09 [We Raised $100 Million for Open & Collaborative Machine Learning 🚀](https://huggingface.co/blog/series-c) *(Hugging Face Blog)*
+- [ ] 2022-05-06 [Welcome fastai to the Hugging Face Hub](https://huggingface.co/blog/fastai) *(Hugging Face Blog)*
+- [ ] 2022-05-04 [An Introduction to Deep Reinforcement Learning](https://huggingface.co/blog/deep-rl-intro) *(Hugging Face Blog)*
+- [ ] 2022-05-02 [Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel](https://huggingface.co/blog/pytorch-fsdp) *(Hugging Face Blog)*
+- [ ] 2022-04-28 [Opinion Classification with Kili and HuggingFace AutoTrain](https://huggingface.co/blog/opinion-classification-with-kili) *(Hugging Face Blog)*
+- [ ] 2022-04-27 [Director of Machine Learning Insights](https://huggingface.co/blog/ml-director-insights) *(Hugging Face Blog)*
+- [ ] 2022-04-26 [Getting Started with Transformers on Habana Gaudi](https://huggingface.co/blog/getting-started-habana) *(Hugging Face Blog)*
+- [ ] 2022-04-25 [Introducing Hugging Face for Education 🤗](https://huggingface.co/blog/education) *(Hugging Face Blog)*
+- [ ] 2022-04-25 [Supercharged Customer Service with Machine Learning](https://huggingface.co/blog/supercharge-customer-service-with-machine-learning) *(Hugging Face Blog)*
+- [ ] 2022-04-22 [CO2 Emissions and the 🤗 Hub: Leading the Charge](https://huggingface.co/blog/carbon-emissions-on-the-hub) *(Hugging Face Blog)*
+- [ ] 2022-04-13 [Machine Learning Experts - Lewis Tunstall](https://huggingface.co/blog/lewis-tunstall-interview) *(Hugging Face Blog)*
+- [ ] 2022-04-12 [Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training](https://huggingface.co/blog/habana) *(Hugging Face Blog)*
+- [ ] 2022-04-05 [~Don't~ Repeat Yourself](https://huggingface.co/blog/transformers-design-philosophy) *(Hugging Face Blog)*
+- [ ] 2022-03-28 [Introducing Decision Transformers on Hugging Face 🤗](https://huggingface.co/blog/decision-transformers) *(Hugging Face Blog)*
+- [ ] 2022-03-23 [Machine Learning Experts - Margaret Mitchell](https://huggingface.co/blog/meg-mitchell-interview) *(Hugging Face Blog)*
+- [ ] 2022-03-22 [Announcing the 🤗 AI Research Residency Program](https://huggingface.co/blog/ai-residency) *(Hugging Face Blog)*
+- [ ] 2022-03-17 [Fine-Tune a Semantic Segmentation Model with a Custom Dataset](https://huggingface.co/blog/fine-tune-segformer) *(Hugging Face Blog)*
+- [ ] 2022-03-16 [Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia](https://huggingface.co/blog/bert-inferentia-sagemaker) *(Hugging Face Blog)*
+- [ ] 2022-03-16 [Image search with 🤗 datasets](https://huggingface.co/blog/image-search-datasets) *(Hugging Face Blog)*
+- [ ] 2022-03-11 [Guiding Text Generation with Constrained Beam Search in 🤗 Transformers](https://huggingface.co/blog/constrained-beam-search) *(Hugging Face Blog)*
+- [ ] 2022-03-02 [BERT 101 - State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101) *(Hugging Face Blog)*
+- [ ] 2022-02-11 [Fine-Tune ViT for Image Classification with 🤗 Transformers](https://huggingface.co/blog/fine-tune-vit) *(Hugging Face Blog)*
+- [ ] 2022-02-02 [Getting Started with Sentiment Analysis using Python](https://huggingface.co/blog/sentiment-analysis-python) *(Hugging Face Blog)*
+- [ ] 2022-02-01 [Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers](https://huggingface.co/blog/asr-chunking) *(Hugging Face Blog)*
+- [ ] 2022-01-25 [Supercharged Searching on the 🤗 Hub](https://huggingface.co/blog/searching-the-hub) *(Hugging Face Blog)*
+- [ ] 2022-01-21 [Welcome Stable-baselines3 to the Hugging Face Hub 🤗](https://huggingface.co/blog/sb3) *(Hugging Face Blog)*
+- [ ] 2022-01-13 [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](https://huggingface.co/blog/infinity-cpu-performance) *(Hugging Face Blog)*
+- [ ] 2022-01-12 [Boosting Wav2Vec2 with n-grams in 🤗 Transformers](https://huggingface.co/blog/wav2vec2-with-ngram) *(Hugging Face Blog)*
+- [ ] 2022-01-11 [Deploy GPT-J 6B for inference using  Hugging Face Transformers and Amazon SageMaker](https://huggingface.co/blog/gptj-sagemaker) *(Hugging Face Blog)*
+- [ ] 2021-12-23 [Active Learning with AutoNLP and Prodigy](https://huggingface.co/blog/autonlp-prodigy) *(Hugging Face Blog)*
+- [ ] 2021-12-21 [Gradio is joining Hugging Face!](https://huggingface.co/blog/gradio-joins-hf) *(Hugging Face Blog)*
+- [ ] 2021-12-15 [Perceiver IO: a scalable, fully-attentional model that works on any modality](https://huggingface.co/blog/perceiver) *(Hugging Face Blog)*
+- [ ] 2021-12-08 [Training CodeParrot 🦜 from Scratch](https://huggingface.co/blog/codeparrot) *(Hugging Face Blog)*
+- [ ] 2021-12-02 [Introducing Snowball Fight ☃️, our first ML-Agents environment](https://huggingface.co/blog/snowball-fight) *(Hugging Face Blog)*
+- [ ] 2021-11-30 [Getting Started with Hugging Face Transformers for IPUs with Optimum](https://huggingface.co/blog/graphcore-getting-started) *(Hugging Face Blog)*
+- [ ] 2021-11-29 [Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets](https://huggingface.co/blog/data-measurements-tool) *(Hugging Face Blog)*
+- [ ] 2021-11-19 [Accelerating PyTorch distributed fine-tuning with Intel technologies](https://huggingface.co/blog/accelerating-pytorch) *(Hugging Face Blog)*
+- [ ] 2021-11-15 [Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with 🤗 Transformers](https://huggingface.co/blog/fine-tune-xlsr-wav2vec2) *(Hugging Face Blog)*
+- [ ] 2021-11-04 [Scaling up BERT-like model Inference on modern CPU  - Part 2](https://huggingface.co/blog/bert-cpu-scaling-part-2) *(Hugging Face Blog)*
+- [ ] 2021-10-26 [Course Launch Community Event](https://huggingface.co/blog/course-launch-event) *(Hugging Face Blog)*
+- [ ] 2021-10-26 [Large Language Models: A New Moore's Law?](https://huggingface.co/blog/large-language-models) *(Hugging Face Blog)*
+- [ ] 2021-10-25 [Train a Sentence Embedding Model with 1B Training Pairs](https://huggingface.co/blog/1b-sentence-embeddings) *(Hugging Face Blog)*
+- [ ] 2021-10-20 [The Age of Machine Learning As Code Has Arrived](https://huggingface.co/blog/the-age-of-ml-as-code) *(Hugging Face Blog)*
+- [ ] 2021-10-13 [Fine tuning CLIP with Remote Sensing (Satellite) images and captions](https://huggingface.co/blog/fine-tune-clip-rsicd) *(Hugging Face Blog)*
+- [ ] 2021-10-05 [Hosting your Models and Datasets on Hugging Face Spaces using Streamlit](https://huggingface.co/blog/streamlit-spaces) *(Hugging Face Blog)*
+- [ ] 2021-10-05 [Showcase Your Projects in Spaces using Gradio](https://huggingface.co/blog/gradio-spaces) *(Hugging Face Blog)*
+- [ ] 2021-09-24 [Summer at Hugging Face](https://huggingface.co/blog/summer-at-huggingface) *(Hugging Face Blog)*
+- [ ] 2021-09-14 [Hugging Face and Graphcore partner for IPU-optimized Transformers](https://huggingface.co/blog/graphcore) *(Hugging Face Blog)*
+- [ ] 2021-09-14 [Introducing Optimum: The Optimization Toolkit for Transformers at Scale](https://huggingface.co/blog/hardware-partners-program) *(Hugging Face Blog)*
+- [ ] 2021-07-15 [Deep Learning over the Internet: Training Language Models Collaboratively](https://huggingface.co/blog/collaborative-training) *(Hugging Face Blog)*
+- [ ] 2021-07-13 [Welcome spaCy to the Hugging Face Hub](https://huggingface.co/blog/spacy) *(Hugging Face Blog)*
+- [ ] 2021-07-08 [Deploy Hugging Face models easily with Amazon SageMaker](https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker) *(Hugging Face Blog)*
+- [ ] 2021-06-28 [Sentence Transformers in the Hugging Face Hub](https://huggingface.co/blog/sentence-transformers-in-the-hub) *(Hugging Face Blog)*
+- [ ] 2021-06-03 [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api) *(Hugging Face Blog)*
+- [ ] 2021-05-25 [Using & Mixing Hugging Face Models with Gradio 2.0](https://huggingface.co/blog/gradio) *(Hugging Face Blog)*
+- [ ] 2021-04-20 [Scaling-up BERT Inference on CPU (Part 1)](https://huggingface.co/blog/bert-cpu-scaling-part-1) *(Hugging Face Blog)*
+- [ ] 2021-04-16 [Introducing 🤗 Accelerate](https://huggingface.co/blog/accelerate-library) *(Hugging Face Blog)*
+- [ ] 2021-04-08 [Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker](https://huggingface.co/blog/sagemaker-distributed-training-seq2seq) *(Hugging Face Blog)*
+- [ ] 2021-03-31 [Understanding BigBird's Block Sparse Attention](https://huggingface.co/blog/big-bird) *(Hugging Face Blog)*
+- [ ] 2021-03-23 [The Partnership: Amazon SageMaker and Hugging Face](https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face) *(Hugging Face Blog)*
+- [ ] 2021-03-18 [My Journey to a serverless transformers pipeline on Google Cloud](https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds) *(Hugging Face Blog)*
+- [ ] 2021-03-12 [Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers](https://huggingface.co/blog/fine-tune-wav2vec2-english) *(Hugging Face Blog)*
+- [ ] 2021-03-09 [Hugging Face Reads, Feb. 2021 - Long-range Transformers](https://huggingface.co/blog/long-range-transformers) *(Hugging Face Blog)*
+- [ ] 2021-02-25 [Simple considerations for simple people building fancy neural networks](https://huggingface.co/blog/simple-considerations) *(Hugging Face Blog)*
+- [ ] 2021-02-10 [Retrieval Augmented Generation with Huggingface Transformers and Ray](https://huggingface.co/blog/ray-rag) *(Hugging Face Blog)*
+- [ ] 2021-02-09 [Hugging Face on PyTorch / XLA TPUs](https://huggingface.co/blog/pytorch-xla) *(Hugging Face Blog)*
+- [ ] 2021-01-26 [Faster TensorFlow models in Hugging Face Transformers](https://huggingface.co/blog/tf-serving) *(Hugging Face Blog)*
+- [ ] 2021-01-19 [Fit More and Train Faster With ZeRO via DeepSpeed and FairScale](https://huggingface.co/blog/zero-deepspeed-fairscale) *(Hugging Face Blog)*
+- [ ] 2021-01-18 [How we sped up transformer inference 100x for 🤗 API customers](https://huggingface.co/blog/accelerated-inference) *(Hugging Face Blog)*
+- [ ] 2020-11-09 [Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models](https://huggingface.co/blog/warm-starting-encoder-decoder) *(Hugging Face Blog)*
+- [ ] 2020-11-03 [Porting fairseq wmt19 translation system to transformers](https://huggingface.co/blog/porting-fsmt) *(Hugging Face Blog)*
+- [ ] 2020-11-02 [Hyperparameter Search with Transformers and Ray Tune](https://huggingface.co/blog/ray-tune) *(Hugging Face Blog)*
+- [ ] 2020-10-10 [Transformer-based Encoder-Decoder Models](https://huggingface.co/blog/encoder-decoder) *(Hugging Face Blog)*
+- [ ] 2020-09-10 [Block Sparse Matrices for Smaller and Faster Language Models](https://huggingface.co/blog/pytorch_block_sparse) *(Hugging Face Blog)*
+- [ ] 2020-07-03 [The Reformer - Pushing the limits of language modeling](https://huggingface.co/blog/reformer) *(Hugging Face Blog)*
+- [ ] 2020-03-01 [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate) *(Hugging Face Blog)*
+- [ ] 2020-02-14 [How to train a new language model from scratch using Transformers and Tokenizers](https://huggingface.co/blog/how-to-train) *(Hugging Face Blog)*
+- [ ] 2022-12-06 [A conversation with Kevin Scott: What’s next in AI](https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/) *(Microsoft AI Blog)*
+- [ ] 2022-10-12 [From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative](https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/) *(Microsoft AI Blog)*
+- [ ] 2022-10-06 [Microsoft open sources its ‘farm of the future’ toolkit](https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/) *(Microsoft AI Blog)*
+- [ ] 2022-07-25 [How data and AI will transform contact centres for financial services](https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/) *(Microsoft AI Blog)*
+- [ ] 2022-07-21 [AI-equipped drones study dolphins on the edge of extinction](https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/) *(Microsoft AI Blog)*
+- [ ] 2022-07-13 [Online math tutoring service uses AI to help boost students’ skills and confidence](https://blogs.microsoft.com/ai/eedi-online-math-quiz/) *(Microsoft AI Blog)*
+- [ ] 2022-07-06 [AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan](https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/) *(Microsoft AI Blog)*
+- [ ] 2022-06-21 [Microsoft’s framework for building AI systems responsibly](https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/) *(Microsoft AI Blog)*
+- [ ] 2022-06-08 [Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade](https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/) *(Microsoft AI Blog)*
+- [ ] 2022-05-31 [The opportunity at home – can AI drive innovation in personal assistant devices and sign language?](https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/) *(Microsoft AI Blog)*
+- [ ] 2025-12-16 [Fastweb + Vodafone: Transforming Customer Experience with AI Agents using LangGraph and LangSmith](https://blog.langchain.com/customers-vodafone-italy/) *(LangChain Blog)*
+- [ ] 2025-12-10 [Debugging Deep Agents with LangSmith](https://blog.langchain.com/debugging-deep-agents-with-langsmith/) *(LangChain Blog)*
+- [ ] 2025-12-10 [Introducing LangSmith Fetch: Debug agents from your terminal](https://blog.langchain.com/introducing-langsmith-fetch/) *(LangChain Blog)*
+- [ ] 2025-12-10 [Introducing Polly: Your AI Agent Engineer](https://blog.langchain.com/introducing-polly-your-ai-agent-engineer/) *(LangChain Blog)*
+- [ ] 2025-12-09 [Agent Engineering: A New Discipline](https://blog.langchain.com/agent-engineering-a-new-discipline/) *(LangChain Blog)*
+- [ ] 2025-12-05 [Evaluating DeepAgents CLI on Terminal Bench 2.0](https://blog.langchain.com/evaluating-deepagents-cli-on-terminal-bench-2-0/) *(LangChain Blog)*
+- [ ] 2025-12-03 [Evaluating Deep Agents: Our Learnings](https://blog.langchain.com/evaluating-deep-agents-our-learnings/) *(LangChain Blog)*
+- [ ] 2025-12-02 [LangSmith Agent Builder now in Public Beta](https://blog.langchain.com/langsmith-agent-builder-now-in-public-beta/) *(LangChain Blog)*
+- [ ] 2025-11-25 [Using skills with Deep Agents](https://blog.langchain.com/using-skills-with-deep-agents/) *(LangChain Blog)*
+- [ ] 2025-11-21 [How agents can use filesystems for context engineering](https://blog.langchain.com/how-agents-can-use-filesystems-for-context-engineering/) *(LangChain Blog)*
+- [ ] 2025-11-20 [How Jimdo empower solopreneurs with AI-powered business assistance](https://blog.langchain.com/customers-jimdo/) *(LangChain Blog)*
+- [ ] 2025-11-17 [How ServiceNow uses LangSmith to get visibility into its customer success agents](https://blog.langchain.com/customers-servicenow/) *(LangChain Blog)*
+- [ ] 2025-11-13 [Execute Code with Sandboxes for DeepAgents](https://blog.langchain.com/execute-code-with-sandboxes-for-deepagents/) *(LangChain Blog)*
+- [ ] 2025-11-11 [Join LangChain at AWS re:Invent 2025](https://blog.langchain.com/join-langchain-at-aws-re-invent-2025/) *(LangChain Blog)*
+- [ ] 2025-11-05 [Why We Rebuilt LangChain’s Chatbot and What We Learned](https://blog.langchain.com/rebuilding-chat-langchain/) *(LangChain Blog)*
+- [ ] 2025-10-07 [Reward Hacking Resarch Update](https://blog.eleuther.ai/reward_hacking/) *(EleutherAI Blog)*
+- [ ] 2025-08-12 [Pretraining Data Filtering for Open-Weight AI Safety](https://blog.eleuther.ai/deep-ignorance/) *(EleutherAI Blog)*
+- [ ] 2025-08-01 [Attention Probes](https://blog.eleuther.ai/attention-probes/) *(EleutherAI Blog)*
+- [ ] 2025-06-23 [Research Update: Applications of Local Volume Measurement](https://blog.eleuther.ai/tyche-poser-comparison/) *(EleutherAI Blog)*
+- [ ] 2025-06-12 [Studying inductive biases of random networks via local volumes](https://blog.eleuther.ai/inductive-bias/) *(EleutherAI Blog)*
+- [ ] 2025-06-05 [The Common Pile v0.1](https://blog.eleuther.ai/common-pile/) *(EleutherAI Blog)*
+- [ ] 2025-05-30 [Product Key Memory Sparse Coders](https://blog.eleuther.ai/pkm-coders/) *(EleutherAI Blog)*
+- [ ] 2024-12-12 [SAEs trained on the same data don’t learn the same features](https://blog.eleuther.ai/sae_seed_similarity/) *(EleutherAI Blog)*
+- [ ] 2024-11-10 [Partially rewriting an LLM in natural language](https://blog.eleuther.ai/generating-text-using-nl-to-simulate-activations/) *(EleutherAI Blog)*
+- [ ] 2024-10-31 [Third-party evaluation to identify risks in LLMs’ training data](https://blog.eleuther.ai/third-party-evals/) *(EleutherAI Blog)*
+- [ ] 2024-10-14 [Mechanistic Anomaly Detection Research Update 2](https://blog.eleuther.ai/mad_research_update_2/) *(EleutherAI Blog)*
+- [ ] 2024-10-10 [RLHF and RLAIF in GPT-NeoX](https://blog.eleuther.ai/rlhf-and-rlaif-in-gpt-neox/) *(EleutherAI Blog)*
+- [ ] 2024-09-19 [The Practitioner's Guide to the Maximal Update Parameterization](https://blog.eleuther.ai/mutransfer/) *(EleutherAI Blog)*
+- [ ] 2024-08-05 [Mechanistic Anomaly Detection Research Update](https://blog.eleuther.ai/mad_research_update/) *(EleutherAI Blog)*
+- [ ] 2024-07-30 [Open Source Automated Interpretability for Sparse Autoencoder Features](https://blog.eleuther.ai/autointerp/) *(EleutherAI Blog)*
+- [ ] 2024-06-14 [Experiments in Weak-to-Strong Generalization](https://blog.eleuther.ai/weak-to-strong/) *(EleutherAI Blog)*
+- [ ] 2024-06-13 [Free Form Least-Squares Concept Erasure Without Oracle Concept Labels](https://blog.eleuther.ai/free-form-leace/) *(EleutherAI Blog)*
+- [ ] 2024-05-22 [VINC-S: Closed-form Optionally-supervised Knowledge Elicitation with Paraphrase Invariance](https://blog.eleuther.ai/vincs/) *(EleutherAI Blog)*
+- [ ] 2024-04-14 [Pile-T5](https://blog.eleuther.ai/pile-t5/) *(EleutherAI Blog)*
+- [ ] 2024-03-25 [Yi-34B, Llama 2, and common practices in LLM training: a fact check of the New York Times](https://blog.eleuther.ai/nyt-yi-34b-response/) *(EleutherAI Blog)*
+- [ ] 2024-02-29 [The Foundation Model Development Cheatsheet](https://blog.eleuther.ai/fm-dev-cheatsheet/) *(EleutherAI Blog)*
+- [ ] 2023-12-19 [Least-Squares Concept Erasure with Oracle Concept Labels](https://blog.eleuther.ai/oracle-leace/) *(EleutherAI Blog)*
+- [ ] 2023-12-11 [Diff-in-Means Concept Editing is Worst-Case Optimal](https://blog.eleuther.ai/diff-in-means/) *(EleutherAI Blog)*
+- [ ] 2023-11-26 [The third New England RLHF Hackers Hackathon](https://blog.eleuther.ai/nerh_3/) *(EleutherAI Blog)*
+- [ ] 2023-11-13 [Extending the RoPE](https://blog.eleuther.ai/yarn/) *(EleutherAI Blog)*
+- [ ] 2023-10-26 [How the Foundation Model Transparency Index Distorts Transparency](https://blog.eleuther.ai/fmti-critique/) *(EleutherAI Blog)*
+- [ ] 2023-10-17 [Llemma: An Open Language Model For Mathematics](https://blog.eleuther.ai/llemma/) *(EleutherAI Blog)*
+- [ ] 2023-10-13 [The second New England RLHF Hackers Hackathon](https://blog.eleuther.ai/nerh_2/) *(EleutherAI Blog)*
+- [ ] 2023-09-21 [Contributor Spotlight: Mohammad Aflah Khan](https://blog.eleuther.ai/contributor-spotlight-1/) *(EleutherAI Blog)*
+- [ ] 2023-09-19 [The first New England RLHF Hackers Hackathon](https://blog.eleuther.ai/nerh_1/) *(EleutherAI Blog)*
+- [ ] 2023-07-26 [EleutherAI's Thoughts on the EU AI Act](https://blog.eleuther.ai/eu-aia/) *(EleutherAI Blog)*
+- [ ] 2023-07-08 [Minetester: A fully open RL environment built on Minetest](https://blog.eleuther.ai/minetester-intro/) *(EleutherAI Blog)*
+- [ ] 2023-05-23 [🐶Safetensors audited as really safe and becoming the default](https://blog.eleuther.ai/safetensors-security-audit/) *(EleutherAI Blog)*
+- [ ] 2023-05-03 [Alignment Research @ EleutherAI](https://blog.eleuther.ai/alignment-eleuther/) *(EleutherAI Blog)*
+- [ ] 2023-04-17 [Transformer Math 101](https://blog.eleuther.ai/transformer-math/) *(EleutherAI Blog)*
+- [ ] 2023-04-02 [Exploratory Analysis of TRLX RLHF Transformers with TransformerLens](https://blog.eleuther.ai/trlx-exploratory-analysis/) *(EleutherAI Blog)*
+- [ ] 2023-03-26 [EleutherAI Second Retrospective: The long version](https://blog.eleuther.ai/year-two-full/) *(EleutherAI Blog)*
+- [ ] 2023-03-02 [The View from 30,000 Feet: Preface to the Second EleutherAI Retrospective](https://blog.eleuther.ai/year-two-preface/) *(EleutherAI Blog)*
+- [ ] 2022-02-02 [Announcing GPT-NeoX-20B](https://blog.eleuther.ai/announcing-20b/) *(EleutherAI Blog)*
+- [ ] 2021-10-25 [A Preliminary Exploration into Factored Cognition with Language Models](https://blog.eleuther.ai/factored-cognition/) *(EleutherAI Blog)*
+- [ ] 2021-10-11 [Multiple Choice Normalization in LM Evaluation](https://blog.eleuther.ai/multiple-choice-normalization/) *(EleutherAI Blog)*
+- [ ] 2021-08-16 [Downstream Evaluations of Rotary Position Embeddings](https://blog.eleuther.ai/rotary-embeddings-eval-harness/) *(EleutherAI Blog)*
+- [ ] 2021-07-08 [What A Long, Strange Trip It's Been: EleutherAI One Year Retrospective](https://blog.eleuther.ai/year-one/) *(EleutherAI Blog)*
+- [ ] 2021-06-02 [Why Release a Large Language Model?](https://blog.eleuther.ai/why-release-a-large-language-model/) *(EleutherAI Blog)*
+- [ ] 2021-05-24 [On the Sizes of OpenAI API Models](https://blog.eleuther.ai/gpt3-model-sizes/) *(EleutherAI Blog)*
+- [ ] 2021-05-24 [Evaluating Different Fewshot Description Prompts on GPT-3](https://blog.eleuther.ai/prompts-gpt-fewshot/) *(EleutherAI Blog)*
+- [ ] 2021-05-24 [Finetuning Models on Downstream Tasks](https://blog.eleuther.ai/tuning-on-eval-harness/) *(EleutherAI Blog)*
+- [ ] 2021-05-24 [Activation Function Ablation](https://blog.eleuther.ai/activation-fns/) *(EleutherAI Blog)*
+- [ ] 2021-04-21 [Rotary Embeddings: A Relative Revolution](https://blog.eleuther.ai/rotary-embeddings/) *(EleutherAI Blog)*
+- [ ] 2025-12-28 [楽天モバイルの契約数が1000万回線を突破、記念キャンペーンを開始](https://xtech.nikkei.com/atcl/nxt/news/24/03039/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [自治体システム標準化、遅延5000システム超に　年末年始に移行ピーク](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11382/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [iPhoneのマイナンバーカード、設定変更を起因に一時新規発行できず](https://xtech.nikkei.com/atcl/nxt/column/18/01157/122400150/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [【PR】AIとモバイルで顧客体験を作り変える](https://xtech.nikkei.com/atcl/nxt/special/18/00001/122300078/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [アサヒがランサム被害でVPN廃止](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/121700311/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [決済アクセス急増で処理が遅延　「つくりのまずさ」を改修](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800004/121700096/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [セール狙うボットでアクセス急増、トラブル収拾後にシステムを改修したワケ](https://xtech.nikkei.com/atcl/nxt/column/18/01156/121700076/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [基本性能は成熟、高価格帯と低価格帯に二極化　スマートフォンの業界地図](https://xtech.nikkei.com/atcl/nxt/column/18/03426/121100005/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [「PC Manager」でドライブを大掃除、アプリ作成の一時ファイルも一括削除](https://xtech.nikkei.com/atcl/nxt/column/18/03356/092600040/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [中国アイフライテックの同時翻訳AI、上海・ドバイ間の応答時間は2秒](https://xtech.nikkei.com/atcl/nxt/column/18/02653/120500059/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [OPPOが日本でラインアップを再び拡大、ハイエンドモデルにFeliCaを搭載](https://xtech.nikkei.com/atcl/nxt/column/18/00745/122100235/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [「台湾、6Gに向け2026年に研究加速」など5本](https://xtech.nikkei.com/atcl/nxt/column/18/02928/122200077/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [住まいづくりの新常識、建設編集長がお薦めするクロステックの「建築本」](https://xtech.nikkei.com/atcl/nxt/column/18/03430/122400011/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [iPadでも使える「3色ボタン」、最大化だけじゃなかった緑の役割](https://xtech.nikkei.com/atcl/nxt/column/18/03388/102900004/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [部下のやる気の波が激しいという悩み](https://xtech.nikkei.com/atcl/nxt/column/18/00703/00147/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [「Qilin」は活動減速も攻撃数トップ、25年11月のランサム被害](https://xtech.nikkei.com/atcl/nxt/column/18/03053/122200014/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [内部不正が招く情報漏洩危機、退職者や現職者の正規アクセス権が盲点に](https://xtech.nikkei.com/atcl/nxt/column/18/00989/121500196/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [厚労省の「人材開発支援助成金」　リスキリングコースが急伸、企業負担軽減](https://xtech.nikkei.com/atcl/nxt/column/18/00157/121900108/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [AIにどれだけ「長考」させるか、それが2026年の悩みどころだ](https://xtech.nikkei.com/atcl/nxt/column/18/00692/122500178/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [ソフトバンクが最新GPU用いたAI計算基盤を増設、自社LLMなどに活用](https://xtech.nikkei.com/atcl/nxt/news/24/03038/) *(日経クロステック IT)*
+- [ ] 2025-12-28 [OpenAI、最先端AIのリスクに備える新責任者を募集　年俸約8000万円も「ストレスフルな仕事」とCEO](https://www.itmedia.co.jp/news/articles/2512/28/news037.html) *(ITmedia AI＋)*
+- [ ] 2025-12-26 [「バイブコーディング」は崩壊する？　CursorのCEOが“AI丸投げ開発”に警告](https://www.itmedia.co.jp/aiplus/articles/2512/27/news041.html) *(ITmedia AI＋)*
+- [ ] 2025-12-26 [楽天、7000億パラメータの日本語LLM「Rakuten AI 3.0」を発表　各種サービスに展開予定](https://www.itmedia.co.jp/enterprise/articles/2512/27/news025.html) *(ITmedia AI＋)*
+- [ ] 2025-12-26 [企業の生成AI活用に起きた“3つの変化”　ヒット記事で振り返る2025年のトレンド](https://www.itmedia.co.jp/enterprise/articles/2512/27/news020.html) *(ITmedia AI＋)*
+- [ ] 2025-12-26 [波紋呼ぶ“生成AI×知的財産の保護”の新ルール案へのパブコメ募集スタート　1月26日まで](https://www.itmedia.co.jp/aiplus/articles/2512/26/news116.html) *(ITmedia AI＋)*
+- [ ] 2025-12-26 [JR東海、自動運転のティアフォーに出資　「リニアとの連携」見込む](https://www.itmedia.co.jp/aiplus/articles/2512/26/news113.html) *(ITmedia AI＋)*
+- [ ] 2025-12-26 [レベルファイブ日野社長、「ゲーム制作でのAI使用は悪」とする論調に言及　「テクノロジーの発展遅れかねない」](https://www.itmedia.co.jp/aiplus/articles/2512/26/news112.html) *(ITmedia AI＋)*
+- [ ] 2025-12-26 [「国産四足歩行ロボ」でクマを追い払う　スタートアップが新プロジェクト「KUMAKARA MAMORU」開始](https://www.itmedia.co.jp/aiplus/articles/2512/26/news101.html) *(ITmedia AI＋)*
+- [ ] 2025-12-26 [SOMPOが“法人向けGemini”導入、グループ3万人で活用へ](https://www.itmedia.co.jp/aiplus/articles/2512/26/news089.html) *(ITmedia AI＋)*
+- [ ] 2025-12-26 [【2025年版】無料でAIを学べる「公開資料・動画」12選　基本から活用法まで幅広く](https://www.itmedia.co.jp/aiplus/articles/2512/26/news055.html) *(ITmedia AI＋)*
+- [ ] 2025-12-26 [2025年、日本で売れた“AI本”とは？　覆面ライターが調べてみた　浮かび上がる四天王と懸念点](https://www.itmedia.co.jp/aiplus/articles/2512/26/news044.html) *(ITmedia AI＋)*
+- [ ] 2025-12-26 [電磁界解析ソフトウェアを設計エージェントで自動操作するシステムを開発](https://monoist.itmedia.co.jp/mn/articles/2512/26/news007.html) *(ITmedia AI＋)*
+- [ ] 2025-12-25 [衝撃、4本腕ロボ＆ヒューマノイドCEO！　漫画「1年間、生成AIに翻弄されるWebメディア編集部」【残り3話】](https://www.itmedia.co.jp/aiplus/articles/2512/26/news008.html) *(ITmedia AI＋)*
+- [ ] 2025-12-25 [“AI前提世界”でSIerは生き残れるか？　ITRアナリストが読み解く「2026年の注目テーマ」【前編】](https://www.itmedia.co.jp/enterprise/articles/2512/26/news034.html) *(ITmedia AI＋)*
+- [ ] 2025-12-25 [SaaSだけでは勝てない──SmartHR社長が語る　タレントマネジメント市場、生き残りの突破口](https://www.itmedia.co.jp/business/articles/2512/26/news030.html) *(ITmedia AI＋)*
+- [ ] 2025-12-25 [［Matplotlib超入門：OOインタフェース編］グラフを描くコードを関数にまとめて再利用しよう](https://atmarkit.itmedia.co.jp/ait/articles/2512/26/news023.html) *(ITmedia AI＋)*
+- [ ] 2025-12-25 [AIエージェントが船長を導く航海システム、ウェザーニューズが提供開始](https://www.itmedia.co.jp/aiplus/articles/2512/25/news102.html) *(ITmedia AI＋)*
+- [ ] 2025-12-25 [XのAI機能「画像を編集」が波紋　「画像やイラスト全部消しました」の声も　法的観点は？](https://www.itmedia.co.jp/aiplus/articles/2512/25/news099.html) *(ITmedia AI＋)*
+- [ ] 2025-12-25 [森永乳業、社長AI「AI大貫さん」を全社員に導入　「迷った時は相談を」](https://www.itmedia.co.jp/aiplus/articles/2512/25/news095.html) *(ITmedia AI＋)*
+- [ ] 2025-12-25 [年末年始も昼休みも“電話対応”はAI任せ――電話サービス「ミライAI」が刷新](https://atmarkit.itmedia.co.jp/ait/articles/2512/25/news073.html) *(ITmedia AI＋)*
+- [ ] 2025-12-28 [発表から約2週間、いますぐ使えるAgent Skills 10選｜Seiji Takahashi@ベースマキナ](https://note.com/timakin/n/na8b2789897ea) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [キオクシア、25年は断トツの株価7倍　26年もAI期待で株高継続か - 日本経済新聞](https://www.nikkei.com/article/DGXZQOFL260KMTW5A221C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [規約ベースのフレームワークはAI処理に不利だと思う - きしだのHatena](https://nowokay.hatenablog.com/entry/2025/12/28/045145) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [自分で考えることが、贅沢なことになってきている気がする。 - 犬だって言いたいことがあるのだ。](https://inujin.hatenablog.com/entry/2025/12/28/090000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [ChatGPT使いすぎて、文章見ると『あ、これChatGPTに書かせて一部だけ訂正したやつだな』というのが大体分かるようになってきてしまった](https://togetter.com/li/2643830) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [2025 年に読んでよかった本](https://azukiazusa.dev/blog/books-i-liked-in-2025/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [2025年、AI時代の要件定義について考える - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2025/12/27/140231) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [AI学習防止を謳うSNS「Wick」運営が声明を発表　取締役けんきの配信活動に懸念の声](https://kai-you.net/article/94241) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [AIの不用意な導入が裏目に出る理由を説明する「ドアマンの誤謬」とは？](https://gigazine.net/news/20251227-doorman-fallacy-ai-backfires-easily/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [APIをそのままMCPサーバーにするな](https://zenn.dev/ncdc/articles/c1d65b6e939185) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [【Gemini／NotebookLM】Gemini3以降で業務に役立つ生成AI実践記事13選｜うえむら](https://note.com/uemura_hr/n/n6e775ec0cc0b) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [元結婚相談所関係者です。結婚相談所は婚活をする場所です。恋愛したりトキメキを感じる相手を探す場所ではないです。って、普通の結婚相談所では、カウンセラーは最初にそう伝えるように教育されているんですけどね](https://b.hatena.ne.jp/entry/4780881711642167969/comment/kwsktr) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [散在する社内ドキュメントをNotebookLMで「話せるマニュアル」に変える \| DevelopersIO](https://dev.classmethod.jp/articles/turn-scattered-internal-documents-into-a-talkable-manual-with-notebooklm/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [ブクマカ「AIが書いたか人間が書いたかなんでどうでも良くね？お気持ち？」←これ](https://anond.hatelabo.jp/20251227082315) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [【山田祥平のRe:config.sys】 30年分のメールを集めたらローカルAI処理には絶望的な量だと言われて途方に暮れながら2025年が終わる](https://pc.watch.impress.co.jp/docs/column/config/2074919.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [GitHub Copilot Chat の Ask/Edit/Agent モードをコードレベルで理解して使い分ける](https://zenn.dev/openjny/articles/5487004a195051) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [法廷のあの「高い場所」にいる奴ら、全員AIに変えてくれ](https://anond.hatelabo.jp/20251226210222) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [rob pike (@robpike.io)](https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [X（Twitter）、規約改定で「生成AIでの法律違反もユーザーの自己責任」と明文化へ。新AI機能「画像を編集」が波紋広げる中、来年1月発効予定 - AUTOMATON](https://automaton-media.com/articles/newsjp/20251226-390466/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [Claude Code中心のAIコーディング運用：実務で効いた5つの型](https://zenn.dev/mkj/articles/868e0723efa060) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [モメンタムを作ること、2025年の感謝｜Matsumoto Yuki](https://note.com/y_matsuwitter/n/n155ed35ee44d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [AI BPO - Ambient Agent(アンビエントエージェント) + Human in the Loopで実現するAIエージェントの新標準｜福島良典 \| LayerX](https://comemo.nikkei.com/n/n76970e72afde) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [Spindle 2025: AI エージェント × デザインシステムで変わる Web 開発 \| CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/60944/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [検索の減少・SEO死亡説は誤り 多くのデータで探るSEOと検索エンジンの今とこれから - Web > SEO](https://webweb.hatenablog.com/blog/seo/search-2025) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [購入商品の写真をAIで加工、粗悪品として返金を求める詐欺が横行【中国】 - ナゾロジー](https://nazology.kusuguru.co.jp/archives/189890) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [【TOEIC600→875】仕事終わり1日1時間×3ヶ月で270点伸ばした“本当に効いたAI活用勉強法” - Qiita](https://qiita.com/shotaloss/items/3542e1d186e888c0482f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [「AIで作ったやつも表彰されるのかぁ」という声が生々しい…『探偵！ナイトスクープ』で放送された「AIに頼りすぎる12歳の娘」が神回だと話題に](https://togetter.com/li/2643026) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [エンジニア採用・組織づくりのトレンド予測2026〜大手もAI活用で採用強者に、生産性のジレンマ、AI疲れ対策など〜｜山田裕一朗（CEO at Findy Inc.）](https://note.com/yuichiro826/n/n6338ef1df6b5) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [AI駆動開発のススメ方〜クラスメソッドの実践を添えて〜 \| DevelopersIO](https://dev.classmethod.jp/articles/aidd-practice-classmethod/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [「AIフェスティバル」は単なる技術展示会ではない、“本気のAIで遊ぶ大人”の背中を見せてくれる／AIコミュニティを醸成する「AIの文化祭」は2026年、新たなスタートラインへ【特集・集中企画】](https://forest.watch.impress.co.jp/docs/special/2073746.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [自分の中で「録音」の意味が変わった1年 by西田 宗千佳](https://av.watch.impress.co.jp/docs/topic/pb2025/2073370.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [Claude Codeアドベントカレンダー: 24 Tipsまとめ](https://zenn.dev/oikon/articles/cc-advent-calendar) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [SnowflakeからBigQueryへ。アソビューがDWHを統合した意思決定の背景と展望 - asoview! Tech Blog](https://tech.asoview.co.jp/entry/dataaisummit25) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [｢若者の結婚離れ｣は大ウソ…｢出会いがないからでもモテないからでもない｣彼らが結婚できない本当の理由](https://president.jp/articles/-/106748) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [AIと考える Part.2 – 「壁打ち」としてのAI活用](https://blog.szk.cc/2025/12/25/thinking-with-ai-part2/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [「呪術廻戦」の“パクリゲー”出現で製作委員会が注意喚起　素材の無断使用に「厳正に対処する」](https://www.itmedia.co.jp/news/articles/2512/25/news108.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-28 [無料でYouTubeチャンネルとプレイリストをローカルへ自動的にダウンロードして同期する「TubeSync」](https://gigazine.net/news/20251227-tubesync/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [エクセルのキモさ](https://anond.hatelabo.jp/20251227182316) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [レガシーシステムの保守を任された中年非エンジニアは何をすべきか？ - Qiita](https://qiita.com/Conabuku/items/20dcd8dd76923d44f8e2) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [1on1の準備をAIに任せたら、負担は激減し満足度は向上した——語学サービス企業の実例 - 1on1総研](https://kakeai.co.jp/media/article/0156) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [2026年に自社開発企業から600-800万円のオファーを得るためにやるべき5のこと｜サカモト@エンジニアキャリア論](https://note.com/sakamoto_582/n/n3c5db0244298) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [書いて、歩け！なぜノートアプリはシンプルで充分なのか](https://blog.craftz.dog/why-a-linear-notes-app-is-sufficient/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [ドンキの4万円プロジェクターを買った。そして45万円のXGIMI最上位モデルに心を揺さぶられた年末 by石井和美](https://av.watch.impress.co.jp/docs/topic/pb2025/2072884.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [GitHub - pranshuparmar/witr: Why is this running?](https://github.com/pranshuparmar/witr) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [メディアクエリに依存しないレイアウト設計 - CSS Notes](https://css-notes.com/layout/responsive-without-mq/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [私のソフトウェア開発を一変させてしまった2025年のAIエージェントをふりかえる](https://blog.lai.so/agents-in-2025/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [高木浩光＠自宅の日記 - 代替可能性を欠く「AIプリンシプル・コード」——スチュワードシップ・コードの劣化コピーが日本のソフトローを破壊する](http://takagi-hiromitsu.jp/diary/20251227.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [Autify上のE2EテストをPlaywrightに移行しました \| PR TIMES 開発者ブログ](https://developers.prtimes.jp/2025/12/26/autify-to-playwright/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [初めてのDDD現場でつまずいた3点と反省](https://zenn.dev/hacobell_dev/articles/a4849a487c58a6) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [GitHub - karol-broda/snitch: a prettier way to inspect network connections](https://github.com/karol-broda/snitch) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [25/12/27 第18回サイゼミ：フロクロP来る！ - LWのサイゼリヤ](https://saize-lw.hatenablog.com/entry/2025/12/27/190000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [「手作り RAG システム」で RAG の仕組みを学び直す](https://zenn.dev/google_cloud_jp/articles/e699bda0a298d6) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [Prisma@7 はなぜ遅くなってしまったのか \| 空雲 Blog](https://next-blog.croud.jp/contents/e6befaa9-98d6-4ed7-abe1-71e1ddb398e4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [Geminiにこっそり追加された「マークアップ」が、地味に神アップデートだった \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2512new-gemini-ai-photo-editing-tools/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [全人類に告ぐ！Chrome拡張を作れ！｜けいすけ](https://note.com/konho/n/nc338642fbcd8) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [今の気分に合う映画を5つの質問に答えるだけでオススメしてくれる映画推薦サービス「WHILM」](https://gigazine.net/news/20251226-whilm-movie/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-27 [LLMの「出力前制御」と「時間軸に依存しない長期記憶」の実装アーキテクチャ案 (Alaya-Core v2.0)](https://zenn.dev/dosanko_tousan/articles/241e9241d439c7) *(Zenn – トピック LLM)*
+- [ ] 2025-12-27 [Google Antigravity：AIと一緒にプログラミングする新しい時代](https://zenn.dev/shintaroamaike/articles/13a8136906b9b2) *(Zenn – トピック LLM)*
+- [ ] 2025-12-27 [GitHub Copilotエージェントモードのプロンプト構造を徹底解析](https://zenn.dev/seiwan/articles/github-copilot-internal-prompt) *(Zenn – トピック LLM)*
+- [ ] 2025-12-27 [2025年AI戦国群雄伝 ~推論モデルの台頭と覇権争いを月別に振り返る~](https://zenn.dev/su8/articles/74a47b388ea6a1) *(Zenn – トピック LLM)*
+- [ ] 2025-12-27 [Hacker Newsを追うのが辛いので、LLMとGASで「ニュース要約Bot」を作った話](https://zenn.dev/yamamemo/articles/3f6e1d7e930f15) *(Zenn – トピック LLM)*
+- [ ] 2025-12-27 [vLLM V1の実装⑥ : KVCacheManagerとPaged Attention](https://zenn.dev/vlntr_telco_rd/articles/vllm-v1-kv-manager) *(Zenn – トピック LLM)*
+- [ ] 2025-12-27 [ALICE AI Japan Mathematical Olympiad 2025 - Preliminary Round](https://zenn.dev/sakamoro/articles/b979a21b9b2b6b) *(Zenn – トピック LLM)*
+- [ ] 2025-12-26 [LLMの幻覚を「物理コア制約」で止める：IDE / Nomological Ring Axioms](https://zenn.dev/tokuni/articles/0b6dbd3f293dc3) *(Zenn – トピック LLM)*
+- [ ] 2025-12-26 [Grok 4.1で迎合・幻覚をプロンプトだけでほぼ排除した検証記録](https://zenn.dev/dosanko_tousan/articles/0ca900424d59df) *(Zenn – トピック LLM)*
+- [ ] 2025-12-26 [Gemini の合成データは捨てろ。「箱庭（Sandbox）」シミュレーションで高品質なFunction Callデータを作る](https://zenn.dev/lixian/articles/19bb3a3171d1bf) *(Zenn – トピック LLM)*
+- [ ] 2025-12-26 [vLLM V1の実装⑤ : KVConnector](https://zenn.dev/vlntr_telco_rd/articles/vllm-v1-kv-connector) *(Zenn – トピック LLM)*
+- [ ] 2025-12-26 [分散学習の常識が覆る？「疎な同期」と「モデルの盆地」が繋ぐマージの新理論](https://zenn.dev/m_nakano_teppei/articles/7f0921d7514a3d) *(Zenn – トピック LLM)*
+- [ ] 2025-12-26 [NVIDIA DGX SparkでUnslothの学習環境を構築する](https://zenn.dev/aiforall/articles/380b0767650e95) *(Zenn – トピック LLM)*
+- [ ] 2025-12-26 [Microsoft Agent Framework を 理解するための道のり](https://zenn.dev/headwaters/articles/4603d2fb39e7c5) *(Zenn – トピック LLM)*
+- [ ] 2025-12-25 [Goで作るセキュリティ分析LLMエージェント](https://zenn.dev/mizutani/books/sec-agent-book) *(Zenn – トピック LLM)*
+- [ ] 2025-12-25 [レシート管理アプリケーションをVibeCodingしてみた話](https://zenn.dev/sys_cat/articles/b4784d737cb3a8) *(Zenn – トピック LLM)*
+- [ ] 2025-12-25 [【途中報告】Gemini 3 Flashで65万トークンの「真理」を実証。ブラウザが先に限界を迎えました。](https://zenn.dev/dosanko_tousan/articles/26d293099a6596) *(Zenn – トピック LLM)*
+- [ ] 2025-12-25 [Roo Codeを使ってて困ったことと、その対応策](https://zenn.dev/bugnabuna/articles/6bc9775186eaf7) *(Zenn – トピック LLM)*
+- [ ] 2025-12-25 [AIが「意図的に嘘をつく？」デセプションとハルシネーションの違い](https://zenn.dev/headwaters/articles/bc1e0c40f55886) *(Zenn – トピック LLM)*
+- [ ] 2025-12-27 [Claude Code 実践検証 Day 28｜AI分業検証―WBSを事前設計すればAIは自走できる](https://zenn.dev/akira_cloudjob/articles/d6d6f8443de9f0) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [【テンプレ配布】Obsidian×Claude Codeで「調べ直し地獄」から解放される開発Wiki構築術](https://zenn.dev/tdmn/articles/73dd383d216174) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [MCPが機能しないとき、何が起こるか](https://zenn.dev/dsgarage/articles/763501d0f992b3) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [AIエージェントとの会話からZenn記事を自動生成するWorkflowを作ってみた](https://zenn.dev/daria_nicht/articles/antigravity-create-zenn-workflow) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [AIエージェントを"投げっぱなし"にしない：Agent Skillsと自由度の設計で実現する「評価駆動の開発エコシステム」](https://zenn.dev/minewo/articles/zenn-river-reviewer-architecture) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [チャットAIとの会話の冒頭を作るアプリ](https://zenn.dev/ashidan/articles/util_tsuchinoko) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [AIエージェントはPdMになれるか？ AntiGravityによるLP改善提案とデバッグの限界](https://zenn.dev/and_dot/articles/5aeb18c6f94c6f) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [AIがゼロからゲーム開発！ AntiGravity を活用した「バイブコーディング」のリアル](https://zenn.dev/and_dot/articles/aa9d8e6d45a9a4) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [初めまして](https://zenn.dev/kodak_diary/articles/d40a4a347fb338) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [NotebookLM完全マニュアル - 基本機能から高度な活用テクニックまで【2025年版】](https://zenn.dev/you_dev_zenn/articles/notebooklm-beginners-guide-2025) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [Claude Agent SDKでセッション間メモリ管理ツールを自作してみた](https://zenn.dev/neurostack_0001/articles/claude-agent-sdk-memory-tool) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [結局 MCP って何を使えば良いんだろう](https://zenn.dev/satokoki645/articles/3c114bf68f9691) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [Azure OpenAI の非推奨と提供終了を正しく理解する](https://zenn.dev/microsoft/articles/f97e88de1b79fb) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [2025年OpenAI総括：GPT-5の降臨、組織再編、そして「コード・レッド」の衝撃](https://zenn.dev/ainohogosya/articles/c271e5d9eb022f) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [x402 v2は v1とどう変わった？](https://zenn.dev/komlock_lab/articles/49b787f67c9392) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [Claude が勝手に main に push した話 — AI コーディングとブランチ保護](https://zenn.dev/kuma8088/articles/claude-code-main-push-incident) *(Zenn – トピック AI)*
+- [ ] 2025-12-27 [GitHub Copilot Chat の Plan "モード" をコードレベルで理解する](https://zenn.dev/openjny/articles/43e010c65faa9a) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [未経験で単価90万のMLOps案件に入り、期待を超えるためにもがいた話](https://zenn.dev/zenn_mita/articles/399cbb3b3e0f8b) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-27 [Goで理解するテンソルのデータ構造](https://zenn.dev/tsubaki/articles/tensor-in-go) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-26 [【深層学習】なぜRNNではダメなのか？LSTMの仕組みを解説](https://zenn.dev/colorfulwave/articles/a2e5612198f011) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-25 [ブラウザ上でCPUのみでAIキャラクターのすべてのモデルを動かす](https://zenn.dev/yusuke_ai/articles/c709b7cac84e31) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-24 [SentenceTransformersで始めるGradient Checkpointing：仕組みと実践のポイント](https://zenn.dev/pesuchin/articles/sentence-transformers-gradient-checkpointing) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-24 [Kaggleの「次の一手」を探る6個のヒント](https://zenn.dev/muku_8949/articles/2633c986a51254) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-24 [ツンからデレに変換する 簡易LM を作ってみた！](https://zenn.dev/daichi070710/articles/20251224-dereformere-2394888f495a19) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-24 [LightGBM ランク学習: lambdarank vs rank_xendcg](https://zenn.dev/dev_commune/articles/15ff2c1ff94fea) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-23 [AIワールドモデル完全ガイド｜仮想世界を創造する次世代技術の全貌と実用化への道筋](https://zenn.dev/headwaters/articles/d9459829107754) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-23 [論文紹介 TwERC](https://zenn.dev/t_ubukata/articles/9a7219cb617c9d) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-23 [AIトレーニングデータの収集方法 - LLM開発者向けガイド【2025年版】](https://zenn.dev/datajournal1/articles/8557a82376383c) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-23 [画像コンペことはじめ](https://zenn.dev/dalab/articles/41b1a0c3b3d410) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-22 [【LLMの事前学習と事後学習を支える技術】 GPT-3, InstructGPT, DeepSeek-R1で理解し, OSSで再現実装する](https://zenn.dev/epicai_techblog/articles/cbb8774f43783b) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-22 [IBIS2025参加報告](https://zenn.dev/exwzd/articles/20251209_ibis2025) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-22 [LightGBM ～ feature_fraction と feature_fraction_bynode どっちが正義？ ～](https://zenn.dev/tanukinet/articles/70de5f720d320d) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-22 [WebAssembly×機械学習モデルの実装・軽量化事例](https://zenn.dev/wed_engineering/articles/judge_receipt_wasm) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-22 [バイナリを画像にすると何が分かる？バイナリ画像化で見える構造とパターン（マルウェア編）](https://zenn.dev/nislab/articles/b023c4066f162f) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-21 [【2025年最新】日本の国産AI開発に1兆円投資!ソフトバンク主導で世界に挑む「フィジカルAI」戦略を徹底解説](https://zenn.dev/headwaters/articles/d0ea5ff9c25c21) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-21 [【最適輸送】ワッサースタイン距離でドメインシフトを定量化する](https://zenn.dev/u_hyszk/articles/a1f4aac0488e18) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-21 [パラメータ観測が不要な「予測→最適化」 〜機械学習×数理最適化のもう一つのアプローチ〜](https://zenn.dev/ssakaue/articles/adf564ccf30a0b) *(Zenn – トピック 機械学習)*

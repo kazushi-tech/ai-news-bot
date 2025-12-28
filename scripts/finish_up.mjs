@@ -12,11 +12,11 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const NEWS_ROOT =
-  process.env.NEWS_ROOT ||
-  path.resolve(__dirname, "..", "ai-news");
+  path.resolve(__dirname, "..", "..");
 
-function runStep(label, scriptPath) {
-  console.log(`[finish_up] ▶ node ${scriptPath}`);
+function runStep(label, scriptName) {
+  const scriptPath = path.join(__dirname, scriptName);
+  console.log(`[finish_up] ▶ node ${scriptName}`);
   const result = spawnSync("node", [scriptPath], {
     stdio: "inherit",
     env: { 
@@ -36,17 +36,19 @@ function runStep(label, scriptPath) {
 
 console.log("[finish_up] NEWS_ROOT =", NEWS_ROOT);
 
+// スクリプト名は basename のみ記述し、runStep 内で __dirname と結合する
 const steps = [
-  ["cssclass", "scripts/doctor_cssclass_ai_news_article.mjs"],
-  ["callouts", "scripts/doctor_callouts_sections.mjs"],
-  ["layout", "scripts/doctor_layout_articles.mjs"],
-  ["title-header", "scripts/doctor_title_header.mjs"],
-  ["tldr-from-overview", "scripts/doctor_generate_tldr_from_overview.mjs"],
-  ["build-daily", "scripts/build_index_daily.mjs"],
-  ["build-weekly", "scripts/build_index_weekly.mjs"],
-  ["build-home", "scripts/build_home.mjs"],
+  ["cssclass", "doctor_cssclass_ai_news_article.mjs"],
+  ["callouts", "doctor_callouts_sections.mjs"],
+  ["layout", "doctor_layout_articles.mjs"],
+  ["title-header", "doctor_title_header.mjs"],
+  ["tldr-from-overview", "doctor_generate_tldr_from_overview.mjs"],
+  ["build-daily", "build_index_daily.mjs"],
+  ["build-index", "build_index.mjs"],  // INDEX.md生成
+  ["build-weekly", "build_index_weekly.mjs"],
+  ["build-home", "build_home.mjs"],
   // ★ここで Discord に新規記事をポスト
-  ["discord-post", "scripts/discord_post_new_articles.mjs"],
+  ["discord-post", "discord_post_new_articles.mjs"],
 ];
 
 for (const [label, script] of steps) {

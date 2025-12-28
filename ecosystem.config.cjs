@@ -11,7 +11,7 @@ module.exports = {
       script: "scripts/discord_queue_bot.mjs",
       node_args: "--env-file=.env",
       env: {
-        NEWS_ROOT: "../ai-news",
+        NEWS_ROOT: "..",
       },
       autorestart: true,
     },
@@ -20,23 +20,23 @@ module.exports = {
       script: "scripts/queue_worker.mjs",
       node_args: "--env-file=.env",
       env: {
-        NEWS_ROOT: "../ai-news",
+        NEWS_ROOT: "..",
       },
       // 10分ごとに1回キューを掃除して要約する
       cron_restart: "*/10 * * * *",
       autorestart: false, // 1回終わったら終了。cronで再起動。
     },
-    {
-      name: "ai-news-feeds",
-      script: "scripts/fetch_feeds_to_queue.mjs",
-      node_args: "--env-file=.env",
-      env: {
-        NEWS_ROOT: "../ai-news",
-      },
-      // 例：30分ごとにRSS巡回
-      cron_restart: "*/30 * * * *",
-
-      autorestart: false,
-    },
+    // {
+    //   name: "ai-news-feeds",
+    //   script: "scripts/fetch_feeds_to_queue.mjs",
+    //   node_args: "--env-file=.env",
+    //   env: {
+    //     NEWS_ROOT: "../ai-news",
+    //   },
+    //   // 例：30分ごとにRSS巡回
+    //   cron_restart: "*/30 * * * *",
+    //
+    //   autorestart: false,
+    // },
   ],
 };
