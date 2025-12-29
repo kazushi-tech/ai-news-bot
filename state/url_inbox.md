@@ -2125,3 +2125,79 @@
 - [ ] 2025-12-21 [【2025年最新】日本の国産AI開発に1兆円投資!ソフトバンク主導で世界に挑む「フィジカルAI」戦略を徹底解説](https://zenn.dev/headwaters/articles/d0ea5ff9c25c21) *(Zenn – トピック 機械学習)*
 - [ ] 2025-12-21 [【最適輸送】ワッサースタイン距離でドメインシフトを定量化する](https://zenn.dev/u_hyszk/articles/a1f4aac0488e18) *(Zenn – トピック 機械学習)*
 - [ ] 2025-12-21 [パラメータ観測が不要な「予測→最適化」 〜機械学習×数理最適化のもう一つのアプローチ〜](https://zenn.dev/ssakaue/articles/adf564ccf30a0b) *(Zenn – トピック 機械学習)*
+
+## Collected on 2025-12-29T00:50:55.854Z
+- [ ] 2025-12-28 [AI being used to help cut A&E waiting times in England this winter](https://www.theguardian.com/society/2025/dec/28/ai-forecasting-tool-a-and-e-waiting-times-england-winter-nhs) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-28 [Bernie Sanders criticizes AI as ‘the most consequential technology in humanity’](https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-28 [From that bird guy to ‘bus aunty’: the real social media personalities rising above AI slop](https://www.theguardian.com/media/2025/dec/28/from-that-bird-guy-to-bus-aunty-the-real-social-media-personalities-rising-above-ai-slop) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-28 [AI is coming for young people’s office jobs. That’s good news for the construction industry \| Gene Marks](https://www.theguardian.com/business/2025/dec/28/ai-young-workers-office-jobs-construction) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-28 [Nvidia insists it isn’t Enron, but its AI deals are testing investor faith](https://www.theguardian.com/technology/2025/dec/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are-testing-investor-faith) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-28 [Could AI relationships actually be good for us?](https://www.theguardian.com/books/2025/dec/28/could-ai-relationships-actually-be-good-for-us) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-28 [Labour must learn lessons from history as automation hits jobs market \| Richard Partington](https://www.theguardian.com/business/2025/dec/28/labour-must-learn-lessons-from-history-as-automation-hits-jobs-market) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-28 [Billion-Dollar Data Centers Are Taking Over the World](https://www.wired.com/story/expired-tired-wired-data-centers/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-28 [Musician Cancelled as AI Falsely Accuses Him of Horrific Crimes](https://futurism.com/artificial-intelligence/musician-ai-canada-google) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-28 [The 11 Big Trades of 2025: Bubbles, Cockroaches and a 367% Jump](https://www.bloomberg.com/news/features/2025-12-28/ai-bubbles-jamie-dimon-cockroaches-gold-11-big-trades-of-2025) *(Bloomberg Technology)*
+- [ ] 2025-12-28 [Americans Are Watching Fewer New Shows, More Free TV](https://www.bloomberg.com/news/newsletters/2025-12-28/americans-are-watching-fewer-new-shows-more-free-tv) *(Bloomberg Technology)*
+- [ ] 2025-12-28 [Former EU Official Hit With US Visa Ban Urges Bloc to Fight Back](https://www.bloomberg.com/news/articles/2025-12-28/former-eu-official-hit-with-us-visa-ban-urges-eu-to-fight-back) *(Bloomberg Technology)*
+- [ ] 2025-12-28 [Louis Gerstner, CEO Credited With Turning Around IBM, Dies at 83](https://www.bloomberg.com/news/articles/2025-12-28/louis-gerstner-ceo-credited-with-turning-around-ibm-dies-at-83) *(Bloomberg Technology)*
+- [ ] 2025-12-28 [Iran Says It Launched Three Satellites Into Space From Russia](https://www.bloomberg.com/news/articles/2025-12-28/iran-says-it-launched-three-satellites-into-space-from-russia) *(Bloomberg Technology)*
+- [ ] 2025-12-28 [The ‘Stranger Things’ Brothers on Resolving Relationships and Character Closure](https://gizmodo.com/the-stranger-things-brothers-talk-resolving-relationships-2000703801) *(Gizmodo – Technology)*
+- [ ] 2025-12-28 [Attackers Caused So Much Havoc Inside Rainbow Six Siege, Ubisoft Shut Down the Whole Game](https://gizmodo.com/attackers-caused-so-much-havoc-inside-rainbow-six-siege-ubisoft-shut-down-the-whole-game-2000703805) *(Gizmodo – Technology)*
+- [ ] 2025-12-28 [Prime Video May Expand ‘Fallout’ With a Reality Show Spinoff](https://gizmodo.com/prime-video-may-expand-fallout-with-a-reality-show-spinoff-2000703777) *(Gizmodo – Technology)*
+- [ ] 2025-12-28 [We Now Know What You’ll Be Charged if You Puke in a Tesla Robotaxi](https://gizmodo.com/we-now-know-what-youll-be-charged-if-you-puke-in-a-tesla-robotaxi-2000703779) *(Gizmodo – Technology)*
+- [ ] 2025-12-28 [‘Dune 3’ May Fight ‘Avengers: Doomsday’ For Your Holiday Time](https://gizmodo.com/dune-3-may-fight-avengers-doomsday-for-your-holiday-time-2000703770) *(Gizmodo – Technology)*
+- [ ] 2025-12-28 [The Absolute Universe Gave DC a Great Comics Year](https://gizmodo.com/the-absolute-universe-gave-dc-a-great-comics-year-2000703732) *(Gizmodo – Technology)*
+- [ ] 2025-12-28 [Draft Chinese AI Rules Outline ‘Core Socialist Values’ for AI Human Personality Simulators](https://gizmodo.com/draft-chinese-ai-rules-outline-core-socialist-values-for-ai-human-personality-simulators-2000703772) *(Gizmodo – Technology)*
+- [ ] 2025-12-28 [Apple escalates its appeal of a $2 billion fine from a UK antitrust lawsuit](https://www.engadget.com/big-tech/apple-escalates-its-appeal-of-a-2-billion-fine-from-a-uk-antitrust-lawsuit-201922558.html?src=rss) *(Engadget)*
+- [ ] 2025-12-28 [Ubisoft is rolling back Rainbow Six Siege servers after being forced to shut them down](https://www.engadget.com/gaming/ubisoft-is-rolling-back-rainbow-six-siege-servers-after-being-forced-to-shut-them-down-191049440.html?src=rss) *(Engadget)*
+- [ ] 2025-12-28 [Ayaneo's latest Game Boy remake will have an early bird starting price of $269](https://www.engadget.com/gaming/ayaneos-latest-game-boy-remake-will-have-an-early-bird-starting-price-of-269-174553644.html?src=rss) *(Engadget)*
+- [ ] 2025-12-29 [アスクルのランサム被害詳細](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/121700309/) *(日経クロステック IT)*
+- [ ] 2025-12-29 [危ない「AIボット」](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800013/121700098/) *(日経クロステック IT)*
+- [ ] 2025-12-29 [動画生成AIが物議に……漫画「1年間、生成AIに翻弄されるWebメディア編集部」【残り2話】](https://www.itmedia.co.jp/aiplus/articles/2512/29/news019.html) *(ITmedia AI＋)*
+- [ ] 2025-12-28 [生成AI活用のKPI、何にした？　調査で分かったAIで得する企業／損する企業の特徴](https://www.itmedia.co.jp/enterprise/articles/2512/26/news072.html) *(ITmedia AI＋)*
+- [ ] 2025-12-28 [IT部門は“AI前提世界”で何を担うのか？　ITRアナリストが読む「2026年の注目テーマ」【後編】](https://www.itmedia.co.jp/enterprise/articles/2512/29/news015.html) *(ITmedia AI＋)*
+- [ ] 2025-12-29 [2025-12-27 Claude CodeでPRレビュー対応を効率化する@機械学習社会実装勉強会第54回](https://speakerdeck.com/nakamasato/2025-12-27-claude-codedeprrebiyudui-ying-woxiao-lu-hua-suru-at-ji-jie-xue-xi-she-hui-shi-zhuang-mian-qiang-hui-di-54hui) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-29 [Claude Codeを使った情報整理術](https://speakerdeck.com/knishioka/claude-codewoshi-tutaqing-bao-zheng-li-shu) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-29 [なぜ、コードは速く書けるのに開発は遅くなったのか ―AI時代の「理解負債」との向き合い方](https://zenn.dev/coconala/articles/f8e4b637f64f9a) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-29 [MarkdownでPDF資料をつくる&便利Tips](https://zenn.dev/zenzoe/articles/eaa49c7a630aaa) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-29 [How Rob Pike got spammed with an AI slop “act of kindness”](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-29 [LLMの「内部表現」を可視化する：Gemma Scope 2を用いたアニメ・漫画領域での安全性メカニズム検証｜CyberAgent AI事業本部公式note](https://note.com/cyberagent_ai/n/n111eaa3b772c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-29 [【Google Antigravity】実践ガイド Part 2 - ワークフロー自動化とカスタムツールの作成](https://zenn.dev/shineos/articles/google-antigravity-workflow-automation) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [サイバー攻撃に関する最終報告 兼 安全宣言](https://www.mino-in.co.jp/archives/news/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%9C%80%E7%B5%82%E5%A0%B1%E5%91%8A-%E5%85%BC-%E5%AE%89%E5%85%A8%E5%AE%A3%E8%A8%80) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [このAI時代に、私がもう一度文系・未経験からセキュリティ業界に入るなら - Qiita](https://qiita.com/yamada_sec/items/1b5b9a9f4cc375c79c32) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [Arch Linuxしか使わなくなった話](https://zenn.dev/molyashi/articles/9423a75b55b08b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [2025年 俺が愛した本たち 非技術書編 - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2025/12/28/115033) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [GitHub - tw93/Mole: 🐹 Deep clean and optimize your Mac.](https://github.com/tw93/Mole) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [This free mind-mapping tool is so good I stopped sketching on paper](https://www.makeuseof.com/free-mind-mapping-tool-so-good-stopped-sketching-paper/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [フロントエンドエンジニアに伝えたいアクセシビリティの基本 \| 株式会社ヌーラボ(Nulab inc.)](https://nulab.com/ja/blog/nulab/accessibility-basics-for-frontend-engineers/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [phoenix - A modern X server written from scratch](https://git.dec05eba.com/phoenix/about/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [Agentultra - Using Haskell in Production](https://agentultra.com/blog/using-haskell-in-production/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [GitHub - valdanylchuk/xcc700: mini C compiler for esp32](https://github.com/valdanylchuk/xcc700) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [I replaced Chrome with DuckDuckGo on Windows and didn’t expect this outcome](https://www.makeuseof.com/replaced-chrome-with-duckduckgo-windows-didnt-expect-outcome/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-28 [Zettelkasten でモノレポのドキュメント管理方針を設計](https://zenn.dev/marux/articles/0fa715a3815010) *(Zenn – トピック LLM)*
+- [ ] 2025-12-28 [社内 Agent Skills リポジトリのススメ](https://zenn.dev/airtanker/articles/a56d155cbd61ed) *(Zenn – トピック LLM)*
+- [ ] 2025-12-28 [VRAMの限界を突破する？次世代技術「vLLM」の衝撃](https://zenn.dev/colorfulwave/articles/08183fab280d37) *(Zenn – トピック LLM)*
+- [ ] 2025-12-28 [Palantir の「オントロジー」を Python で再現してみた](https://zenn.dev/channnnsm/articles/e0be25fadca0df) *(Zenn – トピック LLM)*
+- [ ] 2025-12-28 [Zenn問答第12回「LLM」](https://zenn.dev/okaponta/articles/a28bca9e87a88a) *(Zenn – トピック LLM)*
+- [ ] 2025-12-28 [LLMを思い通りに使いこなすステップ](https://zenn.dev/makotan/articles/4b65724fe5c131) *(Zenn – トピック LLM)*
+- [ ] 2025-12-28 [vLLM V1の実装⑦ : GPUModelRunnerと推論実行の内部構造](https://zenn.dev/vlntr_telco_rd/articles/vllm-v1-model-runner) *(Zenn – トピック LLM)*
+- [ ] 2025-12-28 [LoRAモデルをファインチューニングして「関西弁で返すLLM」を作り、Hugging Faceに公開してみた](https://zenn.dev/knbzyh/articles/b7876298a36836) *(Zenn – トピック LLM)*
+- [ ] 2025-12-28 [Nano Bananaの基本知識と活用Tipsまとめ](https://zenn.dev/machamu/articles/nano-banana-usage-guide) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [スマホだけで開発完結！Claudeアプリで年越しアプリを作った話](https://zenn.dev/miz_1123/articles/20a31e5189f300) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [認証と認可](https://zenn.dev/mfujimoto/books/e34673596f2c9d) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [ClaudeCode向けおすすめMCPサーバーの比較と特徴](https://zenn.dev/machamu/articles/claudecode-mcp-servers) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [【Claude Code】SubAgentとSkillsで長時間セッションを実現する ― 具体的な使い方から設計思想まで](https://zenn.dev/yamato_snow/articles/07830c4f8b7156) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [週刊AI駆動開発 - 2025年12月28日](https://zenn.dev/pppp303/articles/weekly_ai_20251228) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [AIの自律宣言：Accenture Technology Vision 2025から読み解く未来の設計図](https://zenn.dev/tmtk/articles/33581c7bc78cae) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [ChatGPT AtlasはデータPrepに使えるか？検証したらダッシュボードの未来が垣間見えた話](https://zenn.dev/laiken/articles/30aef04e46b3dd) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [Mastra: TypeScriptベースのAIエージェント開発フレームワーク](https://zenn.dev/machamu/articles/mastra-ai-agent-framework) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [Local k8s環境構築を自動化するClaude Pluginを作った](https://zenn.dev/takitake/articles/6745eb3de34337) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [[自立型Agent・全コード公開] （1）Planの解説](https://zenn.dev/toshio/articles/54b0c51742b05b) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [【前編】Geminiスライド生成の理想と現実。直面した「デザイン」の課題](https://zenn.dev/and_dot/articles/858489295811f3) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [AI時代のコードレビュー ― 何を見るべきか、何は見なくてよくなったか](https://zenn.dev/pivotmedia/articles/ai-era-code-review) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [Tesla T4でMNIST推論 2,780万枚/秒を出すための最適化技術](https://zenn.dev/holy_fox/articles/4beceb7624d67b) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [Codexの指摘を30分議論して結局無視した話](https://zenn.dev/kuma8088/articles/ai-review-is-not-gospel) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [Tokyo AI HackathonとRaycast Meetup Japan #2の現場ではなにが起きていたか？](https://zenn.dev/raycast_jp/articles/419f447b6b98a2) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [Google Gemini 2.5とCloudflare Workersで堅牢なカオス生成APIを作った話](https://zenn.dev/murphy/articles/f9e63b5b7b64d8) *(Zenn – トピック AI)*
+- [ ] 2025-12-28 [AI推論プロセス（CoT）のチェックリスト（仮）](https://zenn.dev/masajiro/articles/213ab8413c2a66) *(Zenn – トピック AI)*
