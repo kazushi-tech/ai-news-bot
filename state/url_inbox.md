@@ -3481,3 +3481,34 @@
 - [ ] 2025-12-29 [マネーフォワード×生成AI（ClaudeCode）で家計管理を捗らせる](https://zenn.dev/zatsucat/articles/c7be3a166c3b8f) *(Zenn – トピック AI)*
 - [ ] 2025-12-29 [OSS AIアプリビルダー Giselle の裏側で動く PostgreSQL + pgvector RAG システム](https://zenn.dev/route06/articles/40e51675ce3f1c) *(Zenn – トピック AI)*
 - [ ] 2025-12-29 [Claude Code 実践検証 Day 30｜Windows環境変数とパス形式―Git Bashでも環境変数は継承される](https://zenn.dev/akira_cloudjob/articles/9cfff12ad04913) *(Zenn – トピック AI)*
+
+## Collected on 2025-12-30T12:18:51.462Z
+- [ ] 2025-12-30 [‘Move fast, break stuff’: how tech bros became Hollywood’s go-to baddie in 2025](https://www.theguardian.com/film/2025/dec/30/move-fast-break-stuff-how-tech-bros-became-hollywoods-go-to-baddie-in-2025) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-30 [Tuesday briefing: A surreal year in news gives our cartoonists endless material](https://www.theguardian.com/world/2025/dec/30/first-edition-political-cartoons-of-2025) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-30 [The Great Big Power Play](https://www.wired.com/story/expired-tired-wired-nuclear-plants/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-30 [Nintendo Has Everything to Prove Again in 2026](https://www.bloomberg.com/news/newsletters/2025-12-30/nintendo-has-everything-to-prove-again-in-2026) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [Alibaba, Abu Dhabi Set to Invest in MiniMax’s $600 Million IPO](https://www.bloomberg.com/news/articles/2025-12-30/alibaba-abu-dhabi-set-to-invest-in-minimax-s-600-million-ipo) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [AI Trade’s Next Leg Is All About Tech’s ‘Pick-and-Shovel’ Stocks](https://www.bloomberg.com/news/articles/2025-12-30/ai-trade-s-next-leg-is-all-about-tech-s-pick-and-shovel-stocks) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [Ocado Ends Exclusivity Terms After Setbacks to Kroger Deal](https://www.bloomberg.com/news/articles/2025-12-30/ocado-ends-exclusivity-terms-after-setbacks-to-kroger-deal) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [Gizmodo’s Guide to the Coolest Space Missions of 2026](https://gizmodo.com/gizmodos-guide-to-the-coolest-space-missions-of-2026-2000702992) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [Departing NYC Mayor Adams Next Wants to Fix Education, Violence, and Antisemitism with Crypto](https://gizmodo.com/departing-nyc-mayor-adams-next-wants-to-fix-education-violence-and-antisemitism-with-crypto-2000704160) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [J.D. Vance Reportedly Schemed for Months to Get Trump and Musk Back Together](https://gizmodo.com/trump-musk-vance-back-together-project-2000703817) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [The Morning After: What to expect at CES 2026](https://www.engadget.com/general/the-morning-after-engadget-newsletter-121511445.html?src=rss) *(Engadget)*
+- [ ] 2025-12-30 [The best iPad cases for 2026](https://www.engadget.com/computing/accessories/best-ipad-cases-to-protect-your-tablet-130033533.html?src=rss) *(Engadget)*
+- [ ] 2025-12-30 [「こんな複雑なことをしないといけないのはおかしい」というソフトウェアエンジニアの勘 - valid,invalid](https://ohbarye.hatenablog.jp/entry/2025/12/30/155950) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [Microsoft 365 Copilotを活かすためにMicrosoft 365をきちんと使おう - Qiita](https://qiita.com/Oyu3m/items/1ef0b1846fc98b2c595d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [AIを擬人化して「画策」「告白」などと表現するのは即刻やめるべきだ](https://japan.cnet.com/article/35241698/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [ターミナルで攻略するAWS Tips集](https://zenn.dev/mozumasu/articles/mozumasu-aws-tips) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [【特集】 21年前の電動ハンドガン(1.2万円)と、最新最高級カスタムモデル(9万円)の戦闘力を比較してみた](https://pc.watch.impress.co.jp/docs/topic/feature/2075068.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [Node.jsのSingle Executable Applications (SEA) で作る、配布しやすいNode.js アプリ](https://zenn.dev/yamachu/articles/abaad71eaa30fe) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [Claude Code のツール検索ツールを有効にして MCP のトークン使用量を削減する](https://azukiazusa.dev/blog/enable-claude-code-tool-search-to-reduce-mcp-token-usage/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [TTFB doesn't mean what you think it means](https://calendar.perfplanet.com/2025/ttfb-doesnt-mean-what-you-think-it-means/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [AI時代を見据えたGoのコードカバレッジ計測ツールを作った - Route54](https://goccy54.hatenablog.com/entry/2025/12/29/224557) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [2025-12-30のJS: Next.js 16.1、Vue 3.6.0 beta 1、CSS Wrapped 2025](https://jser.info/2025/12/30/next.js-16.1-vue-3.6.0-beta-1-css-wrapped-2025/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [[Kaiki Subs] Ultra Seven Episode 12 HD : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/kaiki-subs-ultra-seven-episode-12) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [【RLHF】LLM-as-a-Judge全盛期に、なぜ我々はまだ「Reward Model」を訓練するのか？](https://zenn.dev/lixian/articles/cb59b19c9f99e1) *(Zenn – トピック LLM)*
+- [ ] 2025-12-30 [AIと私 2025](https://zenn.dev/tshpaper/articles/1504c8cb012d81) *(Zenn – トピック LLM)*
+- [ ] 2025-12-30 [クラウドに依存しないミニAIチャットを作ってみた](https://zenn.dev/shota_web305/articles/336f27a5ff5785) *(Zenn – トピック LLM)*
+- [ ] 2025-12-30 [2025年　年越し開発　MoDT](https://zenn.dev/masafuro/articles/65fe8b7f443f65) *(Zenn – トピック LLM)*
+- [ ] 2025-12-30 [【最終報告】Polaris-Next v5.3 (Frozen)：プロンプト制御の限界点と「カーネル実装」への提言](https://zenn.dev/dosanko_tousan/articles/f09ac560e598f2) *(Zenn – トピック LLM)*
+- [ ] 2025-12-30 [機械学習モデルのファイル形式と、ComfyUIでの利用可能性](https://zenn.dev/omine_me/articles/ai-model-filetypes-comparison) *(Zenn – トピック 機械学習)*
