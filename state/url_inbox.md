@@ -3512,3 +3512,61 @@
 - [ ] 2025-12-30 [2025年　年越し開発　MoDT](https://zenn.dev/masafuro/articles/65fe8b7f443f65) *(Zenn – トピック LLM)*
 - [ ] 2025-12-30 [【最終報告】Polaris-Next v5.3 (Frozen)：プロンプト制御の限界点と「カーネル実装」への提言](https://zenn.dev/dosanko_tousan/articles/f09ac560e598f2) *(Zenn – トピック LLM)*
 - [ ] 2025-12-30 [機械学習モデルのファイル形式と、ComfyUIでの利用可能性](https://zenn.dev/omine_me/articles/ai-model-filetypes-comparison) *(Zenn – トピック 機械学習)*
+
+## Collected on 2025-12-30T18:15:04.776Z
+- [ ] 2025-12-30 [AI showing signs of self-preservation and humans should be ready to pull plug, says pioneer](https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-30 [The office block where AI ‘doomers’ gather to predict the apocalypse](https://www.theguardian.com/technology/ng-interactive/2025/dec/30/the-office-block-where-ai-doomers-gather-to-predict-the-apocalypse) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-30 [Five charts that explain the global economic outlook for 2026](https://www.theguardian.com/business/2025/dec/30/five-charts-that-explain-the-global-economic-outlook-for-2026) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-30 [‘Data is control’: what we learned from a year investigating the Israeli military’s ties to big tech](https://www.theguardian.com/world/2025/dec/30/israeli-military-big-tech) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-30 [OpenAI Reportedly Planning to Make ChatGPT “Prioritize” Advertisers in Conversation](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-30 [Doctors Say AI Use Is Almost Certainly Linked to Developing Psychosis](https://futurism.com/artificial-intelligence/doctors-link-ai-psychosis) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-30 [Nvidia Licenses Groq AI Inference Technology in $20B Deal](https://www.techrepublic.com/article/news-nvidia-licenses-groq-ai-inference-technology-in-20b-deal/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-30 [Google’s Nano Banana Renews AI Privacy Concerns for 1.5 Billion People](https://www.techrepublic.com/article/news-google-nano-banana-ai-privacy-concerns-1-5-billion/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-30 [7 High Paying Side Hustles for Students](https://www.kdnuggets.com/7-high-paying-side-hustles-for-students) *(KDnuggets)*
+- [ ] 2025-12-30 [Inside AI’s Pick-and-Shovel Boom](https://www.bloomberg.com/news/videos/2025-12-30/inside-ai-s-pick-and-shovel-boom-video) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [Walmart Customers Report Outage for Mobile and Web Services](https://www.bloomberg.com/news/articles/2025-12-30/walmart-customers-report-outage-for-mobile-and-web-services) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [Samsung’s First Trifold Phone Is Expensive and Half-Baked](https://www.bloomberg.com/news/features/2025-12-30/galaxy-z-trifold-review-samsung-s-new-phone-has-price-usability-issues) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [Tesla Analysts Brace for a Decline in Vehicle Sales](https://www.bloomberg.com/news/videos/2025-12-30/tesla-analysts-brace-for-a-decline-in-vehicle-sales-video) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [How Bots, Banking and Stablecoins Will Dominate Fintech in 2026](https://www.bloomberg.com/news/articles/2025-12-30/how-bots-banking-and-stablecoins-will-dominate-fintech-in-2026) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [Singapore Study Links Heavy Infant Screen Time to Teen Anxiety](https://www.bloomberg.com/news/articles/2025-12-30/singapore-study-links-heavy-infant-screen-time-to-teen-anxiety) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [Artist Behind Viral ‘Beast Jesus’ Restoration Dies at 94](https://gizmodo.com/artist-behind-viral-beast-jesus-restoration-dies-at-94-2000704351) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [NASA’s New Chief Finds Loophole for Texas Shuttle Switcheroo](https://gizmodo.com/nasas-new-chief-finds-loophole-for-texas-shuttle-switcheroo-2000704289) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [io9’s Top 100 Stories of 2025](https://gizmodo.com/io9-top-stories-2025-star-wars-marvel-2000704022) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [Meta Buys AI Agent Startup for $2 Billion, Says It Will Cut All Ties With China](https://gizmodo.com/meta-buys-ai-agent-startup-for-2-billion-says-it-will-cut-all-ties-with-china-2000704284) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [As Measles Cases Top 2,000, the U.S. Is on Brink of Losing Its Elimination Status](https://gizmodo.com/as-measles-cases-top-2000-the-u-s-is-on-brink-of-losing-its-elimination-status-2000704258) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [‘Predator: Badlands’ Is Coming Home Next Week](https://gizmodo.com/predator-badlands-home-release-date-blu-ray-digital-streaming-2000704279) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [Some Genius Made Spotify on Cassette a Real Thing](https://gizmodo.com/some-genius-made-spotify-on-cassette-a-real-thing-2000704257) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [Everybody’s Getting In on the Canvas TV Craze](https://gizmodo.com/everybodys-getting-in-on-the-canvas-tv-craze-2000704259) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [Ryan Coogler Drops More Hints About His ‘X-Files’ Reboot](https://gizmodo.com/ryan-coogler-x-files-reboot-gillian-anderson-david-duchovny-2000704103) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [The ‘Stranger Things’ Finale Trailer Goes to Eleven](https://gizmodo.com/the-stranger-things-finale-trailer-goes-to-eleven-2000704153) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [TCL’s New Paper-Like Tablet Has a Bunch of AI in It](https://gizmodo.com/tcls-new-paper-like-tablet-has-a-bunch-of-ai-in-it-2000703992) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [Thor Dreads Loss in the Latest ‘Avengers: Doomsday’ Trailer](https://gizmodo.com/avengers-doomsday-trailer-thor-marvel-studios-2000703069) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [Netflix has released a trailer for the Stranger Things finale](https://www.engadget.com/entertainment/streaming/netflix-has-released-a-trailer-for-the-stranger-things-finale-171204480.html?src=rss) *(Engadget)*
+- [ ] 2025-12-30 [1Password deal: Last chance to save 50 percent on our favorite password manager](https://www.engadget.com/deals/1password-deal-last-chance-to-save-50-percent-on-our-favorite-password-manager-162844256.html?src=rss) *(Engadget)*
+- [ ] 2025-12-30 [Meta buys startup known for its AI task automation agents](https://www.engadget.com/ai/meta-buys-startup-known-for-its-ai-task-automation-agents-140045275.html?src=rss) *(Engadget)*
+- [ ] 2025-12-30 [TCL introduces its own take on a color Kindle Scribe](https://www.engadget.com/mobile/tablets/tcl-introduces-its-own-take-on-a-color-kindle-scribe-140000207.html?src=rss) *(Engadget)*
+- [ ] 2025-12-30 [How to watch the NVIDIA CES 2026 presentation live](https://www.engadget.com/computing/how-to-watch-the-nvidia-ces-2026-presentation-live-130028065.html?src=rss) *(Engadget)*
+- [ ] 2025-12-30 [画像をプロンプトにして、さらに画像にする](https://zenn.dev/beef_and_rice/articles/7d061e2b95a062) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [NotebookLM×Geminiで編集可能スライドを作成！現場DX時短術【初心者向け】｜尾辻和孝](https://note.com/kazu_note_1987/n/n414c851a183d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [ChatGPTで『GPTを作るGPT』の作り方！GPTを量産してAIをさらに活用](https://zenn.dev/safubuki/articles/turtle-20251224-gpt2gpt) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [意外と知られていない「Amazonの優良業者が守っているルール」が話題に→他にもパチモンを扱っているような業者を見抜くポイントやツールの情報が集まる](https://togetter.com/li/2645143) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [シニアソフトウェアエンジニアになるためには](https://speakerdeck.com/kworkdev/to_be_a_senior_software_engineer) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [GitHub - ghmagazine/python_anomaly_detection_book](https://github.com/ghmagazine/python_anomaly_detection_book) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [2025年のAIエージェント開発の到達点はClaude Code on Bedrock AgentCoreかもしれない - Qiita](https://qiita.com/moritalous/items/bd4e1cdfadb80b04065a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [実践ウェブパフォーマンス改善 #1 CSS セレクタ \| grip on minds](https://griponminds.jp/blog/web-performance-improvement-01/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [中国製リチウム電池需要、来年初めに失速へ　乗用車協会幹部が見通し](https://jp.reuters.com/markets/commodities/RZVPLXGIWVKJRE6K34XECYWQ7I-2025-12-29/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [セキュリティ初心者向けFAQ完全ガイド｜70個の重要キーワードを体系的に解説 - Qiita](https://qiita.com/dave-kiara-inc/items/74a38146249b5207ed48) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [やはりお前らのSkillsの解釈はまちがっている。](https://zenn.dev/nuits_jp/articles/2025-12-30-interpretation-of-agent-skills) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [技術大好きだけのエンジニアは終焉の時代😱 AI駆動開発によってどう変わり、どう対処すべきか](https://zenn.dev/norihashimo/articles/99b7b630420407) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [[AI・社内活用]監視設計書×自動判別で運用負荷を劇的に下げた話](https://zenn.dev/kira_n/articles/8ff17b8caee6b1) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [ChatGPTの「記憶喪失」に絶望した私が、Gemini 1.5 Proで「メタ認知するAI参謀」を構築した話](https://zenn.dev/osamuhuba/articles/d76562b4d4d707) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [boatrace-openapi-skillsで始めるボートレース予想：データを絞って速く・安く回す](https://zenn.dev/mahiguch/articles/c41b200fe8938b) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [dbt入門（第5弾 前編）: Claude Code×dbt基礎編 - ステージング〜マートモデルの自動生成](https://zenn.dev/yujmatsu/articles/20251231_sf_dbt_claude_code_part1) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [非エンジニアがAIで立ち上げたプロダクトの技術的負債を返済した話](https://zenn.dev/shigerufukada/articles/20e68965cfd583) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [分散型LLMプロバイダーに関するアイディア(適当)](https://zenn.dev/nekorobi/articles/68c8d0d7ee79ba) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [実環境RAGシステムにおける間接的プロンプトインジェクションの検証](https://zenn.dev/acntechjp/articles/f1104700302479) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [一度AI駆動開発から離れよう。異動してAI時代の「コピペエンジニア」に堕ちた恐怖。](https://zenn.dev/mikiojp/articles/619fabf490919a) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [Claude Code 実践検証 Day 31｜30日間の総まとめ―Windows環境で本当に必要だったのは処理系の境界理解だった](https://zenn.dev/akira_cloudjob/articles/d4f6ffe32d8b2a) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [RSSと生成AIでニュースをスマートに！AWSで日次ニュース要約＆音声配信システムを作ってみた](https://zenn.dev/miz_1123/articles/a4971856550753) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [なぜ、AI時代の業務引き継ぎではHowは重要じゃないのか？](https://zenn.dev/pdfractal/articles/cf8455fd3b81d2) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [自作AI用アーカイブ](https://zenn.dev/daichi070710/articles/20251230-ai-learn-archive-399ec1c7d997b6) *(Zenn – トピック AI)*
