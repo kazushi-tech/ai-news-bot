@@ -2605,3 +2605,97 @@
 - [ ] 2025-12-29 [OpenAI Agents SDKで問い合わせ振り分けbotを作ってみた｜Handoff機能が想像以上に便利だった話](https://zenn.dev/neurostack_0001/articles/openai-agents-sdk-support-bot) *(Zenn – トピック AI)*
 - [ ] 2025-12-28 [学部1年生が国際学会で参加したときに気づいたこと(IIAI AAI WINTER 2025)](https://zenn.dev/transmedia_blog/articles/d3264fcb4e4d0f) *(Zenn – トピック AI)*
 - [ ] 2025-12-28 [Claude Code 実践検証 Day 29｜Windows環境のsqlcmd文字化け対策―PowerShell経由は不要だった](https://zenn.dev/akira_cloudjob/articles/d4f97842bb8343) *(Zenn – トピック AI)*
+
+## Collected on 2025-12-30T00:45:11.685Z
+- [ ] 2025-12-29 [We must take control of AI now, before it’s too late \| Letters](https://www.theguardian.com/technology/2025/dec/29/we-must-take-control-of-ai-now-before-its-too-late) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-29 [The Guardian view on antibiotics: recent breakthroughs are great news, but humanity is losing the bigger race \| Editorial](https://www.theguardian.com/commentisfree/2025/dec/29/the-guardian-view-on-antibiotics-recent-breakthroughs-are-great-news-but-humanity-is-losing-the-bigger-race) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-29 [SoftBank to acquire DigitalBridge for $4bn in move to deepen ties to AI](https://www.theguardian.com/technology/2025/dec/29/softbank-digitalbridge-deal-artificial-intelligence) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-29 [‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI](https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-29 [ChatGPT, cooking and Christopher Walken: how parents got their kids to love reading in 2025](https://www.theguardian.com/lifeandstyle/2025/dec/29/children-reading-books-parents-tips) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-29 [UK accounting body to halt remote exams amid AI cheating](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-29 [3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade](https://www.wired.com/story/3-tricks-google-gemini-live-latest-major-upgrade/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-29 [Public Rejoices as Porsche Releases Beautiful Ad Not Made Using AI](https://futurism.com/artificial-intelligence/porsche-ad-without-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-29 [AI agents arrived in 2025 – here’s what happened and the challenges ahead in 2026](https://theconversation.com/ai-agents-arrived-in-2025-heres-what-happened-and-the-challenges-ahead-in-2026-272325) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-29 [What Jeff Bezos Still Looks for in Hires, Even as AI Reshapes Work](https://www.techrepublic.com/article/news-jeff-bezos-andy-jassy-hiring-red-flags/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-29 [APAC’s Quiet AI Reckoning: When Generative AI Starts to Act](https://www.techrepublic.com/article/news-tr-apac-generative-ai-enterprise-accountability/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-29 [The Best Agentic AI Browsers to Look For in 2026](https://www.kdnuggets.com/the-best-agentic-ai-browsers-to-look-for-in-2026) *(KDnuggets)*
+- [ ] 2025-12-29 [Meta to Acquire Startup Manus, Adding Agents to Bolster AI Bet](https://www.bloomberg.com/news/articles/2025-12-29/meta-acquires-startup-manus-to-bolster-ai-business) *(Bloomberg Technology)*
+- [ ] 2025-12-29 [Chinese Stocks on Track for Best Year Since 2017 as Rally Widens](https://www.bloomberg.com/news/articles/2025-12-29/chinese-stocks-on-track-for-best-year-since-2017-as-rally-widens) *(Bloomberg Technology)*
+- [ ] 2025-12-29 [China’s Reawakening Puts Asia M&amp;A on Confident Course for 2026](https://www.bloomberg.com/news/articles/2025-12-29/china-s-reawakening-puts-asia-m-a-on-confident-course-for-2026) *(Bloomberg Technology)*
+- [ ] 2025-12-29 [AI, Defense and Chip Stocks Fuel Korea’s Record-Breaking Year](https://www.bloomberg.com/news/articles/2025-12-29/ai-defense-and-chip-stocks-fuel-korea-s-record-breaking-year) *(Bloomberg Technology)*
+- [ ] 2025-12-29 [The Year Ahead in AI: Ads, IPOs and Moving Beyond LLMs](https://www.bloomberg.com/news/newsletters/2025-12-29/the-year-ahead-in-ai-ads-ipos-and-moving-beyond-llms) *(Bloomberg Technology)*
+- [ ] 2025-12-29 [AI Has Fueled $70 Billion in Data Center M&amp;A Talks This Year](https://www.bloomberg.com/news/articles/2025-12-29/ai-has-fueled-70-billion-in-data-center-m-a-talks-this-year) *(Bloomberg Technology)*
+- [ ] 2025-12-29 [SoftBank to Buy Data Center Firm DigitalBridge for $3 Billion](https://www.bloomberg.com/news/articles/2025-12-29/softbank-to-buy-data-center-firm-digitalbridge-for-4-billion) *(Bloomberg Technology)*
+- [ ] 2025-12-29 [Nvidia, Lenovo and Samsung to Test Consumer Appetite for AI at CES](https://www.bloomberg.com/news/articles/2025-12-29/nvidia-samsung-and-lenovo-test-consumer-demand-for-ai-gadgets-at-ces) *(Bloomberg Technology)*
+- [ ] 2025-12-29 [Demand at Unheralded Chipmakers Key to AI’s Long-Term Future](https://www.bloomberg.com/news/newsletters/2025-12-29/demand-at-unheralded-chipmakers-key-to-ai-s-long-term-future) *(Bloomberg Technology)*
+- [ ] 2025-12-29 [Samsung’s New Wi-Fi Speaker Has Big Monolith Energy](https://gizmodo.com/samsungs-new-wi-fi-speaker-has-big-monolith-energy-2000703920) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [Ryan Coogler’s Original Plan for Chadwick Boseman in ‘Black Panther 2’ Was So Good](https://gizmodo.com/black-panther-2-chadwick-boseman-ryan-coogler-2000704043) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [Trump’s Crusade Against ‘Woke’ Climate Research Threatens Solar Science](https://gizmodo.com/trumps-crusade-against-woke-climate-research-threatens-solar-science-2000704041) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [No Avian Will Escape This 360-Camera Bird Feeder](https://gizmodo.com/no-avian-will-escape-this-360-camera-bird-feeder-2000704031) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [‘The Last of Us’ Season 3 Is Recasting an ‘Avengers’ Actor](https://gizmodo.com/the-last-of-us-season-3-danny-ramirez-2000704121) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [Elizabeth Warren Finally Used ChatGPT](https://gizmodo.com/elizabeth-warren-finally-used-chatgpt-2000704050) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [2025 Was the Year the Vibes Were Off](https://gizmodo.com/2025-was-the-year-the-vibes-were-off-2000702368) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [CD Projekt Co-Founder Buys Steam Rival GOG](https://gizmodo.com/cd-projekt-co-founder-buys-steam-rival-gog-2000704077) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [Opioid Abuse in Pregnancy Surged in Recent Decades, Study Finds](https://gizmodo.com/opioid-abuse-in-pregnancy-surged-in-recent-decades-study-finds-2000704027) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [Your Beloved Hockey Homosexuals Are Dipping Their Toes Into Romantasy](https://gizmodo.com/heated-rivalry-connor-storrie-hudson-williams-quinn-romantasy-2000704024) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [James Cameron Is Also Mad About the Opening of ‘Alien 3’](https://gizmodo.com/james-cameron-alien-3-reaction-2000703999) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [Legendary Dev Loses His Mind Over AI Agent’s Unsolicited ‘Act of Kindness’](https://gizmodo.com/legendary-dev-loses-his-mind-over-ai-agents-unsolicited-act-of-kindness-2000704001) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [15 Things We Liked, and 5 We Didn’t, About ‘Stranger Things’ Season 5, Volume 2](https://gizmodo.com/15-things-we-liked-and-5-we-didnt-about-stranger-things-season-5-volume-2-2000703631) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [China’s Trying to Give the Digital Yuan a Boost in 2026](https://gizmodo.com/chinas-trying-to-give-the-digital-yuan-a-boost-in-2026-2000704009) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [A Solution to Satellite Pollution? Make Them Indestructible](https://gizmodo.com/the-solution-to-satellite-pollution-make-them-indestructible-2000703923) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [2025 Was the Year Ninja Games Made a Comeback](https://gizmodo.com/2025-was-the-year-ninja-games-made-a-comeback-2000696867) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [This Desktop Doohickey Will Bring Your Physical SNES Games to Your PC](https://gizmodo.com/this-desktop-doohickey-will-bring-your-physical-snes-games-to-your-pc-2000703925) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [The Duffer Brothers Promise the ‘Stranger Things’ Finale Won’t Massacre Your Faves](https://gizmodo.com/stranger-things-last-episode-deaths-netflix-2000703965) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [Bombogenesis! Eastern U.S. Braces for Blizzard Conditions](https://gizmodo.com/bombogenesis-eastern-u-s-braces-for-blizzard-conditions-2000703935) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [A Deadly Mad Cow-Like Disease Is Spreading Among North American Deer](https://gizmodo.com/a-deadly-mad-cow-like-disease-is-spreading-among-north-american-deer-2000703926) *(Gizmodo – Technology)*
+- [ ] 2025-12-29 [Apple AirTag four-packs are on sale for $65 right now](https://www.engadget.com/deals/apple-airtag-four-packs-are-on-sale-for-65-right-now-202333053.html?src=rss) *(Engadget)*
+- [ ] 2025-12-29 [NASA finally has a leader, but its future is no more certain](https://www.engadget.com/science/space/nasa-finally-has-a-leader-but-its-future-is-no-more-certain-201109072.html?src=rss) *(Engadget)*
+- [ ] 2025-12-29 [How to watch the LG CES 2026 press conference](https://www.engadget.com/home/how-to-watch-the-lg-ces-2026-press-conference-190159378.html?src=rss) *(Engadget)*
+- [ ] 2025-12-29 [Co-founder of CD Projekt Michał Kiciński has acquired GOG, the company's game storefront](https://www.engadget.com/gaming/pc/co-founder-of-cd-projekt-micha%C5%82-kicinski-has-acquired-gog-the-companys-game-storefront-174853415.html?src=rss) *(Engadget)*
+- [ ] 2025-12-29 [1Password deal: Get 50 percent off plans for the holiday season](https://www.engadget.com/deals/1password-deal-get-50-percent-off-plans-for-the-holiday-season-162844584.html?src=rss) *(Engadget)*
+- [ ] 2025-12-29 [CES 2026: What to expect from tech’s biggest conference in January](https://www.engadget.com/big-tech/ces-2026-what-to-expect-from-techs-biggest-conference-in-january-120000369.html?src=rss) *(Engadget)*
+- [ ] 2025-12-29 [Rainbow Six Siege servers are back online after shutting down in response to Marketplace hacks](https://www.engadget.com/gaming/rainbow-six-siege-servers-are-back-online-after-shutting-down-in-response-to-marketplace-hacks-191049079.html?src=rss) *(Engadget)*
+- [ ] 2025-12-29 [Samsung plans to integrate Google Photos into its TVs](https://www.engadget.com/home/samsung-plans-to-integrate-google-photos-into-its-tvs-132739713.html?src=rss) *(Engadget)*
+- [ ] 2025-12-29 [How to watch the Sony Afeela CES 2026 press conference](https://www.engadget.com/transportation/evs/how-to-watch-the-sony-afeela-ces-2026-press-conference-130048921.html?src=rss) *(Engadget)*
+- [ ] 2025-12-29 [The best iPhone accessories for 2026](https://www.engadget.com/computing/accessories/best-iphone-accessories-140022449.html?src=rss) *(Engadget)*
+- [ ] 2025-12-29 [The best wireless chargers for 2026](https://www.engadget.com/computing/accessories/best-wireless-charger-140036359.html?src=rss) *(Engadget)*
+- [ ] 2025-12-30 [生成AIとの「秘密の会話」が漏洩](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/121700310/) *(日経クロステック IT)*
+- [ ] 2025-12-30 [2026年の注目ネットワーク技術](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/121700236/121700001/) *(日経クロステック IT)*
+- [ ] 2025-12-29 [バブル崩壊の足音がしたり、“インターネットが壊れた”り　漫画「1年間、生成AIに翻弄されるWebメディア編集部」【残り1話】](https://www.itmedia.co.jp/aiplus/articles/2512/30/news015.html) *(ITmedia AI＋)*
+- [ ] 2025-12-29 [ソフトバンクG、DigitalBridgeを40億ドルで買収　人工超知能（ASI）ビジョン加速へ](https://www.itmedia.co.jp/news/articles/2512/30/news032.html) *(ITmedia AI＋)*
+- [ ] 2025-12-29 [Tachyon生成AIが最先端7モデルを搭載、LLM出力の比較で業務選択肢広げる](https://kn.itmedia.co.jp/kn/articles/2512/30/news018.html) *(ITmedia AI＋)*
+- [ ] 2025-12-30 [【最新】Claude Code実装→Codexレビュー→修正…の往復を自動化する方法｜makaneko](https://note.com/makaneko_ai/n/n3cefcec49e2d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [ChatGPTの力で｢片付ける気すら起きないほど荒れた部屋｣ が楽に綺麗になった話](https://www.gizmodo.jp/2025/12/clean-my-scattered-room-using-chatgpt-loi.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [業務効率化の難しさや悩みを解決した「AI活用108選」をまとめました｜SmartBank](https://note.com/smartbankinc/n/n72958033f46e) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [「エージェントを作るエージェント」を作る](https://zenn.dev/churadata/articles/0015498168c49f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [AI駆動開発を全力で試して得られた、10の実践テクニックと知見について](https://zenn.dev/sunagaku/articles/ai-development-best-practices-2025) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [GitHub - breaking-brake/cc-wf-studio: ClaudeCode Workflow Studio](https://github.com/breaking-brake/cc-wf-studio) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [【年末年始まとめ読み】2025年の「年間総合はてなブログランキング」トップ100と「はてな匿名ダイアリー」トップ50を一挙公開！ - 週刊はてなブログ](https://blog.hatenablog.com/entry/2025-ranking) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [生成AIで○○だけする人が見えていない「思考力がグングン高まる人」との大きな違い - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習](https://studyhacker.net/ai-thinking) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [2025年に使い始めて良かったツール10選 - Qiita](https://qiita.com/takumi3488/items/3e398ae230e94144a20e) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-30 [外見はロレックス、裏返すとApple Watch--異色の時計バンドが登場　富裕層に訴求](https://japan.cnet.com/article/35242165/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [中国では”無痛登山”が大ブーム ロボットが登山をアシストしてくれるため高齢者でも軽々登れる一方、楽して良いのかという声も](https://togetter.com/li/2644594) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [おい、論理で人が動くと思ってるのか - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2025/12/29/160746) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [2025年にブックマークしたページでよかったもの集めた - Really Saying Something](https://toya.hatenablog.com/entry/2025/12/30/005511) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [人間の思考プロセスを模倣してSQLを生成する：Text2SQLエージェントの実践アプローチ｜Japan Digital Design, Inc.](https://note.com/japan_d2/n/n99308aaee0a1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [格安VPS GreenCloud ミニレビュー](https://portablecode.info/2025/12/27/vps-greencloud-review/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [年末年始は「Gmail」の見直しを ～他サーバーのメールをPOPで取り込む機能が終了／自動転送やメールクライアントへのアカウント追加で対処可能](https://forest.watch.impress.co.jp/docs/news/2073959.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [Google Translation API v2 が【サービス終了】したらしい](https://zenn.dev/tomoakinagahara/scraps/780a24e446e2a1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [日本語変換を間違っちゃったよ～ってときは［Windows］＋［/］キーで再変換【脱初心者！すぐに役立つショートカットキー】](https://forest.watch.impress.co.jp/docs/shseri/usefulkeys/2074743.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [飲食店でチップを払う選択肢がある決済システムがちょっと嫌「チップ0を押すのも…」「従業員からすると定着して欲しい」](https://togetter.com/li/2644566) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [USBケーブル1本で接続できる世界最軽量14インチディスプレイ「VAIO Vision+ 14」レビュー](https://gigazine.net/news/20251229-vaio-vision-14/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [GoのMySQLドライバは、なぜパラメータ数が増えるとPrepared Statementが急激に遅くなるのか？](https://zenn.dev/pksha/articles/b86b224dfbe224) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [推しキャラ駆動開発のススメ](https://zenn.dev/yosugi/articles/character-driven-development) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [OSS の脆弱性対応の舞台裏](https://www.utam0k.jp/blog/2025/12/29/oss-vuln-response/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [増田で2025年を振り返る](https://anond.hatelabo.jp/20251229191342) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [AI普及でデータセンター市場急拡大、バリューチェーン367社分類 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC195J50Z11C25A2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [2025年のdotfiles](https://zenn.dev/momeemt/articles/dotfiles2025) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-29 [Agentic Coding(Vibe Coding)をやってみたが。。。](https://zenn.dev/hojooneum/articles/4f3e7aa0c5ec9e) *(Zenn – トピック LLM)*
+- [ ] 2025-12-29 [AI Development Ecosystem Map 2025](https://zenn.dev/storehero/articles/b82a9eb1585e34) *(Zenn – トピック LLM)*
+- [ ] 2025-12-29 [公式ブログを開設しました：Agentic AI × ビジネス発信スタート](https://zenn.dev/agenticai_flow/articles/agentic-ai-flow-official-blog-launch) *(Zenn – トピック LLM)*
+- [ ] 2025-12-29 [Claude Code等をE2Bサンドボックスで動かすレポジトリを調べてみた](https://zenn.dev/deskrex/articles/f794ab7f7278d6) *(Zenn – トピック LLM)*
+- [ ] 2025-12-29 [GitHub Copilot Agent Mode完全ガイド：VS Codeで変わる開発体験](https://zenn.dev/agenticai_flow/articles/github-copilot-agent-mode-vscode-guide) *(Zenn – トピック AI)*
+- [ ] 2025-12-29 [フルVibe Codingでも仕事が進むようになってきた2025年](https://zenn.dev/kazuph/articles/full-vibe-coding-2025) *(Zenn – トピック AI)*
+- [ ] 2025-12-29 [【登壇レポート】「時間がない」を言い訳にしない。PdMがAIとテキストで人間の限界を突破する方法](https://zenn.dev/sam8helloworld/articles/5c2b9404f8f269) *(Zenn – トピック AI)*
+- [ ] 2025-12-29 [人間とAIにおける共生成（Co-Genesis）現象の観測的記述](https://zenn.dev/khrt/articles/7b63b110c75d27) *(Zenn – トピック AI)*
+- [ ] 2025-12-29 [【Seq2Seq】入力文を「反転」させるとなぜ翻訳精度が劇的に向上するのか？](https://zenn.dev/colorfulwave/articles/5d299055e857d7) *(Zenn – トピック 機械学習)*
