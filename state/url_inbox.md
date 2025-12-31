@@ -3570,3 +3570,73 @@
 - [ ] 2025-12-30 [RSSと生成AIでニュースをスマートに！AWSで日次ニュース要約＆音声配信システムを作ってみた](https://zenn.dev/miz_1123/articles/a4971856550753) *(Zenn – トピック AI)*
 - [ ] 2025-12-30 [なぜ、AI時代の業務引き継ぎではHowは重要じゃないのか？](https://zenn.dev/pdfractal/articles/cf8455fd3b81d2) *(Zenn – トピック AI)*
 - [ ] 2025-12-30 [自作AI用アーカイブ](https://zenn.dev/daichi070710/articles/20251230-ai-learn-archive-399ec1c7d997b6) *(Zenn – トピック AI)*
+
+## Collected on 2025-12-31T06:16:10.581Z
+- [ ] 2025-12-30 [Five tech trends we’ll be watching in 2026](https://www.theguardian.com/global/2025/dec/30/five-tech-trends-well-be-watching-in-2026) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-30 [Musk’s xAI Buys Building to Expand ‘Colossus’ Data Center](https://www.bloomberg.com/news/articles/2025-12-30/musk-s-xai-to-expand-colossus-data-center-information-reports) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [China’s 2025 Wrapped: From Tariff Turmoil to Tech Triumph](https://www.bloomberg.com/news/articles/2025-12-30/from-tariff-woes-to-ai-triumphs-how-china-defied-the-odds-in-2025) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [Warner Bros. Plans to Reject Paramount Offer](https://www.bloomberg.com/news/videos/2025-12-30/warner-bros-plans-to-reject-paramount-offer-video) *(Bloomberg Technology)*
+- [ ] 2025-12-30 [Lady Loki Might Be the Most Impressive ‘Marvel Rivals’ Skin Yet](https://gizmodo.com/marvel-rivals-lady-loki-skin-price-release-date-2000704548) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [Disney to Pay $10 Million After Feds Say It Broke Kids’ Privacy Rules on YouTube](https://gizmodo.com/disney-to-pay-10-million-after-feds-say-it-broke-kids-privacy-rules-on-youtube-2000704462) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [After ‘Pluribus’, Revisit Rhea Seehorn’s Next Best Genre Role: ‘Magic: The Gathering’ Tutorial Sorceress](https://gizmodo.com/after-pluribus-revisit-rhea-seehorns-next-best-genre-role-magic-the-gathering-tutorial-sorceress-2000704456) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [DOGE Cuts and Borked Code Delay Important Energy Report](https://gizmodo.com/doge-cuts-and-borked-code-delay-important-energy-report-2000704413) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [A Deadly, Drug-Resistant Fungus Threatens People Around the World, Scientists Warn](https://gizmodo.com/a-deadly-super-fungus-is-on-the-rise-scientists-warn-2000704305) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [George Clooney Would Like You to Remember ‘Batman Has Nipples, Dude’](https://gizmodo.com/george-clooney-batman-and-robin-nipples-2000704408) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [Nepal Is Throwing Out Its Decade-Old Scheme to Clean Mount Everest](https://gizmodo.com/nepal-is-throwing-out-its-decade-long-scheme-to-clean-mount-everest-2000704407) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [Right-Wing Influencers Rejoice: Trump Admin Gives a Visa to Accused Russian Propagandist](https://gizmodo.com/right-wing-influencers-rejoice-trump-admin-gives-a-visa-to-accused-russian-propagandist-2000704325) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [You’ll Be Able to Not Stream ‘Tron: Ares’ From the Comfort of Your Own Home Next Week](https://gizmodo.com/tron-ares-streaming-disney-plus-release-date-2000704353) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [AI Ruined Job Applications, So People Are Resorting to Dating Apps to Find Work](https://gizmodo.com/ai-ruined-job-applications-so-people-are-resorting-to-dating-apps-to-find-work-2000704287) *(Gizmodo – Technology)*
+- [ ] 2025-12-30 [‘Stranger Things’ Couples, Ranked by How Much Chemistry They Actually Have](https://gizmodo.com/stranger-things-couples-ranked-netflix-2000704328) *(Gizmodo – Technology)*
+- [ ] 2025-12-31 [LG announces new line of xboom speakers ahead of CES](https://www.engadget.com/audio/speakers/lg-announces-new-line-of-xboom-speakers-ahead-of-ces-010052598.html?src=rss) *(Engadget)*
+- [ ] 2025-12-30 [The OneXSugar Wallet is an upcoming retro handheld with a 4:3 foldable screen](https://www.engadget.com/gaming/the-onexsugar-wallet-is-an-upcoming-retro-handheld-with-a-43-foldable-screen-215528433.html?src=rss) *(Engadget)*
+- [ ] 2025-12-30 [IDC warns of major PC market downturn due to memory crunch](https://www.engadget.com/computing/idc-warns-of-major-pc-market-downturn-due-to-memory-crunch-214510197.html?src=rss) *(Engadget)*
+- [ ] 2025-12-30 [How to watch the Hisense CES 2026 presentation live](https://www.engadget.com/home/how-to-watch-the-hisense-ces-2026-presentation-live-190040090.html?src=rss) *(Engadget)*
+- [ ] 2025-12-30 [Samsung unveils its new $200 Galaxy A17 5G smartphone, arriving in January](https://www.engadget.com/mobile/smartphones/samsung-unveils-its-new-200-galaxy-a17-5g-smartphone-arriving-in-january-184846560.html?src=rss) *(Engadget)*
+- [ ] 2025-12-31 [継続派は覚悟を固め防御策を見直す　移行の候補はIPsecやZTNA](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/121700235/121700004/) *(日経クロステック IT)*
+- [ ] 2025-12-31 [複数プロトコルを組み合わせて実現　NAT越えの設定に注意](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/121700235/121700003/) *(日経クロステック IT)*
+- [ ] 2025-12-31 [ブラウザーだけでも接続できる　現在の主流はエージェント型](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/121700235/121700002/) *(日経クロステック IT)*
+- [ ] 2025-12-31 [2025年10月のランサム被害は今年最多　新顔の犯罪集団「SLSH」に注意](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600214/121700011/) *(日経クロステック IT)*
+- [ ] 2025-12-31 [パズル好きが高じてセキュリティーの道へ　製品開発で多くの人に安全届ける](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600215/121700009/) *(日経クロステック IT)*
+- [ ] 2025-12-31 [リモートアクセス見直しの時　まずはVPNの基本を確認](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/121700235/121700001/) *(日経クロステック IT)*
+- [ ] 2025-12-30 [「AIに奪われない仕事」を選ぶ若者たち　配管工・電気工事士に新たな脚光](https://www.itmedia.co.jp/business/articles/2512/31/news009.html) *(ITmedia AI＋)*
+- [ ] 2025-12-31 [Claude Codeの全てのCHANGELOGを追ってきて](https://zenn.dev/oikon/articles/claude-code-2025) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-31 [DifyのRAG検索を廃止して独自検索APIを構築した話](https://zenn.dev/lnkiai/articles/8670759333075f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-31 [創業138年の老舗菓子店4代目が独立した店でクリスマスケーキを頼んだら→AIのようなサンプル写真、スプーンが突き刺さりグチャグチャ、グルーポンのおせち事件を思い出す](https://togetter.com/li/2645201) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-31 [学会・講演で使えるAIスライド【実践編】（コピペできるプロンプトあり）｜genkAIjokyo\|ChatGPT/Claudeで論文作成と科研費申請](https://note.com/genkaijokyo/n/n656e47760043) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-31 [【3社比較の最終回】2025年Google AI総まとめ｜OpenAI・Anthropicとの違いは「全方位展開」？ - uepon日々の備忘録](https://uepon.hatenadiary.com/entry/2025/12/29/234207) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2025-12-31 [製造業の異常検知を体系的に学ぶ「まるごと学べる異常検知の実践知」 \| DevelopersIO](https://dev.classmethod.jp/articles/book-anomaly-detection/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [【特集】 新年は広いシステムドライブでゆったりと過ごそう！無料ソフト「Clonezilla」を使ったSSDの引っ越し手順](https://pc.watch.impress.co.jp/docs/topic/feature/2075000.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [インターネットだった - Letter from Kyoto](https://lfk.hatenablog.com/entry/2025/12/30/230726) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [【備忘録】Windows11をオフライン環境でセットアップするときのおまじない - Qiita](https://qiita.com/Blaster36/items/baa5f2eb92bffa735c55) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [exe.dev - AI時代のVM Hostingサービス](https://www.deeeet.com/writing/exe-dev) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [性能が微妙な中古PCを販売するくらいなら中高生にくれてやれ - Qiita](https://qiita.com/kameda05/items/13e04907217b6c2c873e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [ジョージア工科大学のコンピュータサイエンス修士課程を修了しました](https://zenn.dev/magurotuna/articles/reflect-on-my-journey-with-omscs) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [無料でGmailなどのメールをアーカイブして保存後に自動削除して空き容量を増やすことができる「Mail-Archiver」](https://gigazine.net/news/20251230-mail-archiver/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [α世代1000人のリアル　未来は明るい？AI信頼する？　中学生1123人に聞いた《ビジュアル解説》 - 日本経済新聞](https://www.nikkei.com/telling/DGXZTS00018350U5A111C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [現役情シスの2025年ベストバイ　外付けGPUボックスで脱・デスクトップ、そして“ZUNDAルーター”](https://www.itmedia.co.jp/pcuser/articles/2512/30/news030.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [2025年の振り返り](https://sosukesuzuki.dev/posts/2025/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [参考になるWebデザインが見つかる【ストックデザイン(stock design)】](https://altbase.co.jp/stock/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [【今年一番の衝撃】VRで初めて"身体"を得たAI VTuberが、創造主に言った。「私は本物になりたい…」｜テツメモ｜tetumemo｜Newsletter](https://note.com/tetumemo/n/n4c5b77cdedc8) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [【後編】NotebookLMでスライド作成が劇的に進化。最新のスライド作成とは？](https://zenn.dev/and_dot/articles/291429d8647ad7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [loss32: let's build a Win32/Linux](https://loss32.org/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [Charm Ruby - Glamorous Terminal Libraries for Ruby](https://charm-ruby.dev/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-30 [さくっと Slack を Markdown にエクスポートしてAIに投げる](https://zenn.dev/naruya/articles/bf9b4418ed3235) *(Zenn – トピック LLM)*
+- [ ] 2025-12-30 [RAGの精度が73%から100%に向上した話 ─ チャンキング戦略の比較検証](https://zenn.dev/oharu121/articles/efd3d038afc6da) *(Zenn – トピック LLM)*
+- [ ] 2025-12-30 [RAGの精度評価をRagasで自動化してみた 〜 いつまで「目視確認」で消耗してるの？](https://zenn.dev/duo3/articles/6516058c60385b) *(Zenn – トピック LLM)*
+- [ ] 2025-12-31 [State of AI 2025（Web開発AI調査）の要点：普及と詰まりどころ](https://zenn.dev/yhay81/articles/202512-stateofai) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [【28MB/ローカル動作】巨大LLMに頼らず、MacBook Air上の自作AIだけで「原子炉」「除染技術」「火星電池」をガチ設計させてみた](https://zenn.dev/sakamoro/articles/7298052e03c1ec) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [【2025年のAI発展・重要マイルストーン総まとめ】設計・運用・セキュリティ・インフラの転換点と2026年予測](https://zenn.dev/japan/articles/d98e50653bf1a5) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [AIツール利用状況と体感 2025年末版](https://zenn.dev/beagle/articles/_0018_2025_12_my_subscriptions_to_ai_tools) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [[論文解説] SAM-Audio：あらゆる音を分離するMetaの統一モデル](https://zenn.dev/serada/articles/20251231-sam-audio-intro) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [スタートアップに転職して1年、正直どうだったか](https://zenn.dev/kiva/articles/56061d24bd2b08) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [G検定ってどんな資格？](https://zenn.dev/pdfractal/articles/0555b057a5b83d) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [ゴミPRと生成AI - 共有リソースが再び生む緊張関係](https://zenn.dev/yoshiyoshifujii/articles/3709100af71c08) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [Pydantic AIで日報から感情分析するエージェントを作ってみた｜型安全の安心感がすごい](https://zenn.dev/neurostack_0001/articles/pydantic-ai-data-extraction-agent) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [Cursorがチーム開発でのベストツールだと判断した理由](https://zenn.dev/zatsucat/articles/95586f24c4216a) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [Context Management 2025 - 05. 統合実装例](https://zenn.dev/singularity/articles/context-2025-05) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [Context Management 2025 - 04. ベストプラクティス](https://zenn.dev/singularity/articles/context-2025-04) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [Context Management 2025 - 03. 実装パターン集](https://zenn.dev/singularity/articles/context-2025-03) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [Context Management 2025 - 02. モダンなContext Managementアーキテクチャ](https://zenn.dev/singularity/articles/context-2025-02) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [Context Management 2025 - 01. Context Management の進化](https://zenn.dev/singularity/articles/context-2025-01) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [Claude Codeのようなコーディングエージェントの承認疲れをAIで解決した](https://zenn.dev/kbwok/articles/d9d1b14a0dc55a) *(Zenn – トピック AI)*
+- [ ] 2025-12-30 [CUDAはなぜ"決定論的"でないのか](https://zenn.dev/ogiek0628/articles/d563e60c8170d5) *(Zenn – トピック 機械学習)*
