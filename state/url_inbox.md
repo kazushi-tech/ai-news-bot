@@ -3640,3 +3640,102 @@
 - [ ] 2025-12-30 [Context Management 2025 - 01. Context Management の進化](https://zenn.dev/singularity/articles/context-2025-01) *(Zenn – トピック AI)*
 - [ ] 2025-12-30 [Claude Codeのようなコーディングエージェントの承認疲れをAIで解決した](https://zenn.dev/kbwok/articles/d9d1b14a0dc55a) *(Zenn – トピック AI)*
 - [ ] 2025-12-30 [CUDAはなぜ"決定論的"でないのか](https://zenn.dev/ogiek0628/articles/d563e60c8170d5) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-01T00:52:45.390Z
+- [ ] 2025-12-31 [Tell us: have you trained your AI job replacement?](https://www.theguardian.com/technology/2025/dec/31/tell-us-have-you-trained-your-ai-job-replacement) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-31 [Sticky inflation, metal prices and the AI bubble risk: key trends to watch in the Australian economy in 2026](https://www.theguardian.com/australia-news/2026/jan/01/australian-economy-forecast-2026-interest-rates-inflation-crypto-ai-gold-silver) *(The Guardian – Artificial Intelligence)*
+- [ ] 2025-12-31 [AI-Powered Dating Is All Hype. IRL Cruising Is the Future](https://www.wired.com/story/expired-tired-wired-ai-powered-dating/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2025-12-31 [China Planning Crackdown on AI That Harms Mental Health of Users](https://futurism.com/artificial-intelligence/china-regulation-ai-chatbots) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-31 [Godfather of AI Warns That It Will Replace Many More Jobs This Year](https://futurism.com/artificial-intelligence/godfather-ai-jobs-year) *(Futurism – Artificial Intelligence)*
+- [ ] 2025-12-31 [Elon Musk Is Turning ‘Colossus’ Data Center Into a 2-Gigawatt AI Behemoth](https://www.techrepublic.com/article/news-elon-musk-colossus-expansion/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-31 [Inside Microsoft’s Plan to Embed AI Agents Deep Into Windows](https://www.techrepublic.com/article/news-microsoft-plan-ai-agents-windows/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2025-12-31 [The Top 6 AI Stories of 2025](https://spectrum.ieee.org/ai-2025) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2025-12-31 [10 Lesser-Known Python Libraries Every Data Scientist Should Be Using in 2026](https://www.kdnuggets.com/10-lesser-known-python-libraries-every-data-scientist-should-be-using-in-2026) *(KDnuggets)*
+- [ ] 2025-12-31 [Europe’s Space Agency Says Cyber Incident May Have Hit Servers](https://www.bloomberg.com/news/articles/2025-12-31/europe-s-space-agency-says-cyber-incident-may-have-hit-servers) *(Bloomberg Technology)*
+- [ ] 2025-12-31 [US Lifts Sanctions on Trio Accused of Work on ‘Predator’ Spyware](https://www.bloomberg.com/news/articles/2025-12-31/us-lifts-sanctions-on-trio-accused-of-work-on-predator-spyware) *(Bloomberg Technology)*
+- [ ] 2025-12-31 [Apollo to Sell Coinstar to Alaska Buyer, Bonds Set to Be Repaid](https://www.bloomberg.com/news/articles/2025-12-31/apollo-s-coinstar-repaying-debt-in-surprise-sale-to-alaska-buyer) *(Bloomberg Technology)*
+- [ ] 2025-12-31 [Margie Patel Doesn’t Expect the Stock Market to Broaden Out in 2026](https://www.bloomberg.com/news/videos/2025-12-31/margie-patel-doesn-t-see-stocks-broadening-out-in-2026-video) *(Bloomberg Technology)*
+- [ ] 2025-12-31 [Xi Touts China’s AI, Chip Wins In Triumphant New Year’s Speech](https://www.bloomberg.com/news/articles/2025-12-31/xi-touts-china-s-ai-chip-wins-in-triumphant-new-year-s-speech) *(Bloomberg Technology)*
+- [ ] 2025-12-31 [Meta’s Manus Deal Validates Belief in Chinese Innovation](https://www.bloomberg.com/news/newsletters/2025-12-31/meta-s-manus-deal-validates-belief-in-chinese-innovation) *(Bloomberg Technology)*
+- [ ] 2025-12-31 [‘Jujutsu Kaisen Modulo’ Is Better Than the OG Manga Series](https://gizmodo.com/jujutsu-kaisen-modulo-jjk-gege-akutami-yuji-iwasaki-manga-sequel-culling-game-shonen-jump-2000704291) *(Gizmodo – Technology)*
+- [ ] 2025-12-31 [Our 10 Most Anticipated Movies of Early 2026](https://gizmodo.com/our-10-most-anticipated-movies-of-early-2026-2000702768) *(Gizmodo – Technology)*
+- [ ] 2025-12-31 [All of io9’s Best of 2025 Posts, in One Handy Place](https://gizmodo.com/year-in-review-2025-best-movies-tv-2000704337) *(Gizmodo – Technology)*
+- [ ] 2025-12-31 [NASA Needs A Drone Detector At Kennedy Space Center](https://gizmodo.com/nasa-needs-a-drone-detector-at-kennedy-space-center-2000704323) *(Gizmodo – Technology)*
+- [ ] 2025-12-31 [The Best Gadgets of December 2025](https://gizmodo.com/the-best-gadgets-of-december-2025-2000704366) *(Gizmodo – Technology)*
+- [ ] 2025-12-31 [Behold ‘Dracula’s Chivito,’ the Largest Planet Nursery Astronomers Have Ever Seen](https://gizmodo.com/behold-draculas-chivito-the-largest-planet-nursery-astronomers-have-ever-seen-2000704065) *(Gizmodo – Technology)*
+- [ ] 2025-12-31 [2025 Was the Year AI Slopified All Our Gadgets](https://gizmodo.com/2025-was-the-year-ai-slopified-all-our-gadgets-2000704461) *(Gizmodo – Technology)*
+- [ ] 2025-12-31 [Instagram chief: AI is so ubiquitous 'it will be more practical to fingerprint real media than fake media'](https://www.engadget.com/social-media/instagram-chief-ai-is-so-ubiquitous-it-will-be-more-practical-to-fingerprint-real-media-than-fake-media-202620080.html?src=rss) *(Engadget)*
+- [ ] 2025-12-31 [How to watch Samsung's "First Look" CES 2026 presentation](https://www.engadget.com/mobile/how-to-watch-samsungs-first-look-ces-2026-presentation-190027604.html?src=rss) *(Engadget)*
+- [ ] 2025-12-31 [How to watch the Sony Honda Afeela CES 2026 press conference](https://www.engadget.com/transportation/evs/how-to-watch-the-sony-honda-afeela-ces-2026-press-conference-130048622.html?src=rss) *(Engadget)*
+- [ ] 2025-12-31 [January's PS Plus Monthly Games include Need for Speed Unbound and Disney Epic Mickey: Rebrushed](https://www.engadget.com/gaming/playstation/januarys-ps-plus-monthly-games-include-need-for-speed-unbound-and-disney-epic-mickey-rebrushed-182335673.html?src=rss) *(Engadget)*
+- [ ] 2025-12-31 [How to watch the LG press conference at CES 2026](https://www.engadget.com/home/how-to-watch-the-lg-press-conference-at-ces-2026-190159474.html?src=rss) *(Engadget)*
+- [ ] 2025-12-31 [CES 2026: What to expect when tech's biggest conference starts on January 4](https://www.engadget.com/big-tech/ces-2026-what-to-expect-when-techs-biggest-conference-starts-on-january-4-120000189.html?src=rss) *(Engadget)*
+- [ ] 2025-12-31 [How to use a VPN](https://www.engadget.com/cybersecurity/vpn/how-to-use-a-vpn-140000564.html?src=rss) *(Engadget)*
+- [ ] 2025-12-31 [The best winter tech for 2026 to get you through the coldest months](https://www.engadget.com/home/smart-home/the-best-winter-tech-to-get-you-through-the-coldest-months-130009205.html?src=rss) *(Engadget)*
+- [ ] 2025-12-31 [How to watch the first-ever Lego CES 2026 press conference live](https://www.engadget.com/gaming/how-to-watch-the-first-ever-lego-ces-2026-press-conference-live-130005307.html?src=rss) *(Engadget)*
+- [ ] 2025-12-31 [From 'Dick Clark's New Year's Rockin' Eve' to 'Nashville's Big Bash,' here's how to watch this year's biggest New Year's Eve TV specials](https://www.engadget.com/entertainment/streaming/from-dick-clarks-new-years-rockin-eve-to-nashvilles-big-bash-heres-how-to-watch-this-years-biggest-new-years-eve-tv-specials-120016871.html?src=rss) *(Engadget)*
+- [ ] 2025-12-31 [The best cameras for 2026](https://www.engadget.com/cameras/best-cameras-151524327.html?src=rss) *(Engadget)*
+- [ ] 2026-01-01 [2026年こそ改革を始める　そのために必須の型と心構え](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020900021/121800207/) *(日経クロステック IT)*
+- [ ] 2026-01-01 [遅れるAIエージェントの本番化　現場に起きる3つの典型的な問題](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/121800523/121800001/) *(日経クロステック IT)*
+- [ ] 2026-01-01 [ゼロトラスト](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900172/121700028/) *(日経クロステック IT)*
+- [ ] 2026-01-01 [ポート番号は何のためにあるの？](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800014/121700103/) *(日経クロステック IT)*
+- [ ] 2026-01-01 [通信が集まるデータセンターを学ぶ](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/071500225/121700006/) *(日経クロステック IT)*
+- [ ] 2026-01-01 [生成AI活用してデータの民主化　セマンティック層で支えるLooker](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/100300449/121800017/) *(日経クロステック IT)*
+- [ ] 2025-12-31 [OpenAI公式チートシートが注目　プロンプト作成は「構造化エンジニアリング」に](https://atmarkit.itmedia.co.jp/ait/articles/2601/01/news012.html) *(ITmedia AI＋)*
+- [ ] 2025-12-31 [AIが仕事をする時代、人間に「論理的思考トレーニング」は必要か？](https://www.itmedia.co.jp/business/articles/2601/01/news004.html) *(ITmedia AI＋)*
+- [ ] 2025-12-31 [AIブームを「銀の弾丸」に変えらえるか　2026年、企業ITが直面する課題](https://www.itmedia.co.jp/enterprise/articles/2601/01/news014.html) *(ITmedia AI＋)*
+- [ ] 2025-12-31 [知らんのか、メモリがなくなると……漫画「1年間、生成AIに翻弄されるWebメディア編集部」【最終話】](https://www.itmedia.co.jp/aiplus/articles/2512/31/news010.html) *(ITmedia AI＋)*
+- [ ] 2026-01-01 [2025年 Amazon Bedrock AgentCoreまとめ](https://speakerdeck.com/yuu551/2025nian-amazon-bedrock-agentcorematome) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-01 [生成AIがシステム丸ごと開発　NTTデータ、IT人材不足に抜本策 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC254OB0V21C25A2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-01 [異なるAIたちが全て同じ「真理」に辿り着いた：MITが解明した科学モデルの驚くべき収束と、その先に待つ“物理的現実”の発見 \| XenoSpectrum](https://xenospectrum.com/mit-study-scientific-ai-convergence-universal-matter-representation/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-01 [“人型ロボット”で世界を目指す中国の野望 「日本が笑っていられるのも今だけ」との声も（2025年12月30日掲載）｜日テレNEWS NNN](https://news.ntv.co.jp/category/international/841462ccc5434e888f2e40d323064b1f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-01 [心とは何か ― Neuro-samaが問いかけるもの - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing](https://kaz-ataka.hatenablog.com/entry/2025/12/31/142803) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-01 [「DGX Spark」は現代の「Apple II」である](https://ascii.jp/elem/000/004/363/4363744/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-01 [ソフトバンクG孫正義氏「AIに総賭け」の1年　売買代金48兆円の大商い - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC12ABZ0S5A211C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-01 [「LLM Compressor」を試す](https://zenn.dev/kun432/scraps/684a4538655341) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-01 [GitHub - timescale/pg-aiguide: MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.](https://github.com/timescale/pg-aiguide) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-01 [Google、画像生成「Nano Banana」で試したい13の活用事例とプロンプトを紹介 \| HelenTech](https://helentech.jp/news-80142/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-01 [1on1で「まずこれを読んで！」と布教し続けるそーだいさんの言語化集 - そーだいなる Advent Calendar 2025 20日目｜mkitahara / きたはら](https://note.com/mkitahara/n/n0060fdb3e369) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [S3を正しく理解するための内部構造の読解](https://speakerdeck.com/nrinetcom/s3wozheng-sikuli-jie-surutamenonei-bu-gou-zao-nodu-jie) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [MacのJISキーボードで¥が\に化けない問題を、今度こそ忘れないために書く - 理系学生日記](https://kiririmode.hatenablog.jp/entry/20251230/17179246901338412328) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [Gmail転送の落とし穴：2026年のPOP廃止で何が起きるか(管理者へDMARCでp=reject　は　指定してはいけない!　gmailに転送できなくなる。) - Qiita](https://qiita.com/asakawaya/items/5cfcf024cdd3919cc01f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [【完全版】Dockerを使うエンジニアのためのLinux基礎マスター](https://zenn.dev/yamato_snow/articles/7ff2f3d4dd7055) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [Pythonパッケージ管理ツール「uv」はなぜこれほど爆速なのか？](https://zenn.dev/acrosstudioblog/articles/8efb31681b46f3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [Claude Codeで開発するならWSL2ファイルシステムに資材を置きたい - 理系学生日記](https://kiririmode.hatenablog.jp/entry/20251230/17179246901338514059) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [プレイングマネージャーを「努力」から「構造」の問題に戻す── SaaS組織で起きた意思決定の話──｜本多 将大](https://note.com/mosh5678/n/nbe9ab8a60451) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [[個人的]データベースゆく年くる年 2025](https://zenn.dev/tzkoba/articles/tzkoba-endof-202512) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [低予算の個人開発でMongoDBをRDBの代わりに使うのは割とあり](https://zenn.dev/nexryai/articles/e7906805e025e4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [『NewSQL徹底入門』 - Don't Repeat Yourself](https://blog-dry.com/entry/2025/12/30/234300) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [uvのキャッシュがアグレッシブすぎる - Qiita](https://qiita.com/jmatsuzawa/items/a2b3407df8b93e0309d4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [2025年のはてなスタッフのアウトプットまとめ - Hatena Developer Blog](https://developer.hatenastaff.com/entry/2025/12/31/235900) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [2025年はカメラマン業スタート - ytake blog](https://blog.ytake.jp.net/entry/2025/12/31/233843) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [【2025年版】 Amazon Bedrock AgentCoreまとめ資料を公開します！ \| DevelopersIO](https://dev.classmethod.jp/articles/amazon-bedrock-agentcore-2025-summary/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [実践Claude Code入門に出てくるスペック駆動開発を整理してみた。](https://zenn.dev/idapan/articles/660420a0733a87) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [INTERNET Watch編集部が選ぶ、2025年の印象的だったニュース30選](https://internet.watch.impress.co.jp/docs/special/2074057.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [「あのPdMは怖い」と言われたら読む記事。正論でチームを壊さない、D・カーネギー流「人を動かす」リーダーシップ - PM x LLM STUDIO](https://pm-ai-insights.com/fear/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [GoとOpenTelemetryで実装するWide Event入門](https://zenn.dev/ispec_inc/articles/4e1bf62718652f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [なぜNHKは日本IBMを訴えたのか　2025年ランキングで浮かび上がる「レガシー刷新をめぐる根深い問題」](https://www.itmedia.co.jp/enterprise/articles/2512/31/news017.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [AIエージェントにSOLID原則を叩き込んでやろうじゃないか - KAYAC Engineers' Blog](https://techblog.kayac.com/2025/12/24/100000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-01 [GitHub - muratcankoylan/Agent-Skills-for-Context-Engineering: A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that requi](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2025-12-31 [RWKV hxa07D アーキテクチャ解説（hxa079 からの進化ポイント）](https://zenn.dev/openmose/articles/610b67f295c9ce) *(Zenn – トピック LLM)*
+- [ ] 2025-12-31 [LLMアプリ開発を現場担当者が外注する前に、必ず知っておくべき失敗事例](https://zenn.dev/parfait/articles/5449ddfa85362d) *(Zenn – トピック LLM)*
+- [ ] 2025-12-31 [阿頼耶識システム v3.0：単体LLMの決定論的整合性制御と減算的アライメント（Phase 1）](https://zenn.dev/dosanko_tousan/articles/374389c9743a67) *(Zenn – トピック LLM)*
+- [ ] 2025-12-31 [【個人開発？】調子に乗って今度は「予想ツール」をAIと作ってみた話](https://zenn.dev/kt_ten/articles/ec7cfe5b308a55) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [ペルソナからスキル・エージェントへ：AIコーディング運用の標準化を決めた理由](https://zenn.dev/tomhonzawa/articles/2c4c5bee90f1ec) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [dbt入門第5弾後編：Claude Code応用 - description生成・最適化・プロンプト集](https://zenn.dev/yujmatsu/articles/20260101_sf_dbt_claude_code_part2) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [Flutter未経験から6ヶ月で戦力化し、日商250万円、アクティブユーザー4500人に成長させるまでにやったこと](https://zenn.dev/jambo_dev/articles/365b8ad2fc10e9) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [家族LINEで使えるタスク管理BotをAIコーディング前提で作ってみた](https://zenn.dev/ytaga/articles/e767a7bea0de0c) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [2025年の振り返り](https://zenn.dev/nomhiro/articles/summary-2025) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [【2025年】AIコーディングの仕方とか感じたことをつらつら書く](https://zenn.dev/daijinload/articles/4ccc374818ad4d) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [【Excel】グラフ作成の効率化テクニック](https://zenn.dev/bj_9/articles/e3859d1422dbf1) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [AIと共に4200草。 デザインとコードの境界を溶かし、設計を握った2025年](https://zenn.dev/assa012/articles/bbe8ba3dae9426) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [AI禁止令という名の「管理の敗北」：1000行の差分をAIのせいにする欺瞞について](https://zenn.dev/sevenforest/articles/e3534bf625e796) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [【予言】2026年は論理ゲート式ニューラルネットワークが爆発的に進化する](https://zenn.dev/teba_eleven/articles/68955053ed75be) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [【2025年AI予測】清華大・唐傑教授 vs Andrej Karpathy。AGI時代の「アプリ開発の第一原理」とは？](https://zenn.dev/lixian/articles/7d46395091815f) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [【Github Copilot】読み取り専用カスタムエージェントの作成](https://zenn.dev/peishim/articles/d6e44076d3fa0b) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [個人開発としての音楽制作：技術的負債を減らし「コンテキストスイッチ」を最小化するワークフロー](https://zenn.dev/vincent_gay/articles/0d0803ce88785a) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [VPN不要！Cloudflare TunnelでMacへのリモートSSH環境を構築する](https://zenn.dev/ao_4_ma/articles/6c7fcab54334bc) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [「何か違う」の正体、熟練者がAIとすれ違う理由](https://zenn.dev/k_sangaku/articles/what-ai-cannot-see) *(Zenn – トピック AI)*
+- [ ] 2025-12-31 [小データの予測から意思決定へ：転職を機に研究仮説を総括する](https://zenn.dev/akira_t/articles/from-prediction-to-decision) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-31 [Stable Diffusionからの概念消去㉗: EraseFlow（論文）](https://zenn.dev/fmuuly/articles/1ee9243b65db65) *(Zenn – トピック 機械学習)*
+- [ ] 2025-12-29 [[翻訳] 量子化ベクトル検索におけるランダム回転の利点](https://zenn.dev/opensearch/articles/opensearch-random-rotation-quantized-vector-search) *(Zenn – トピック 機械学習)*
