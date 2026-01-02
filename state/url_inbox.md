@@ -4404,3 +4404,28 @@
 - [ ] 2026-01-01 [2026元日、Playwright MCPに触れて気づいた、LLM時代のブラウザ自動化の新しいパラダイム](https://zenn.dev/nossa/articles/8d90efd840934f) *(Zenn – トピック AI)*
 - [ ] 2026-01-01 [🎯 2025年の振り返りと、2026年に向けた計画](https://zenn.dev/v2m5rc87/articles/68ca0568381bb2) *(Zenn – トピック 機械学習)*
 - [ ] 2026-01-01 [【再現可能デモあり】ドリフト検知が本番で信用されない本当の理由 ——MLOpsで必要なのは「検証」ではなく「監査」](https://zenn.dev/ghostdrift/articles/ea1ce0963c29ff) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-02T12:17:41.233Z
+- [ ] 2026-01-02 [Tech Companies Land at Las Vegas Eager to Show AI Transformation](https://www.bloomberg.com/news/newsletters/2026-01-02/tech-companies-land-at-las-vegas-eager-to-show-ai-transformation) *(Bloomberg Technology)*
+- [ ] 2026-01-02 [Grok Posts Sexual Images of Minors After ‘Lapses in Safeguards’](https://www.bloomberg.com/news/articles/2026-01-02/grok-posts-sexual-images-of-minors-after-lapses-in-safeguards) *(Bloomberg Technology)*
+- [ ] 2026-01-02 [India Approves $4.6 Billion to Boost Electronics Supply Chain](https://www.bloomberg.com/news/articles/2026-01-02/india-approves-4-6-billion-to-boost-electronics-supply-chain) *(Bloomberg Technology)*
+- [ ] 2026-01-02 [Swiss-Backed Data Center Plan Targets €8 Billion in Gas-Rich Alberta](https://www.bloomberg.com/news/articles/2026-01-02/data-district-plan-in-alberta-has-8-billion-potential-ceo-says) *(Bloomberg Technology)*
+- [ ] 2026-01-02 [European Stocks Track Global Gains to Start 2026 at Record Highs](https://www.bloomberg.com/news/articles/2026-01-02/european-stocks-track-global-gains-to-start-2026-at-record-highs) *(Bloomberg Technology)*
+- [ ] 2026-01-02 [CEO’s Unusual ‘Samsung Is Back’ Remark Galvanizes Korea Tech](https://www.bloomberg.com/news/articles/2026-01-02/ceo-s-unusual-samsung-is-back-remark-fuels-korea-tech-rally) *(Bloomberg Technology)*
+- [ ] 2026-01-02 [Minimal phone pioneer Punkt is back with a new privacy-focused model at CES](https://www.engadget.com/mobile/smartphones/minimal-phone-pioneer-punkt-is-back-with-a-new-privacy-focused-model-at-ces-110000705.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [The best rice cooker for 2026](https://www.engadget.com/home/kitchen-tech/best-rice-cooker-120015478.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [The best laptops for gaming and schoolwork in 2026](https://www.engadget.com/computing/laptops/best-laptops-for-gaming-and-school-132207352.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [2026 年に押さえておきたい AI トレンド 38 選 - izanami](https://izanami.dev/post/3f1f4ef3-2246-4b7a-b911-26b1b8980899) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-02 [Geminiの「Gem」機能のTips集(3/3)：実践編（共有・管理、改善、トラブルシューティング）｜榎本大貴 / LITALICO研究所所長](https://note.com/enomotod/n/n83e1219edad0) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-02 [Geminiの「Gem」機能のTips集(2/3)：応用編（知識機能、ハルシネーション抑制、自己点検、引用マーカー排除）｜榎本大貴 / LITALICO研究所所長](https://note.com/enomotod/n/n478915d143dd) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-02 [IT人材不足への対策としてNTTデータがシステム開発に生成AIを活用「で、誰が保守するんだい」「成功したらプロジェクトX」](https://togetter.com/li/2646149) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-02 [東大大学院の難関AI講座を修了したスーパー中学生に会ってみると…海沿いの村に住む普通の女の子だった 「データサイエンスは “起業して戦うための武器” 」 \| TBS NEWS DIG (7ページ)](https://newsdig.tbs.co.jp/articles/-/2349530?page=7) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-02 [AGIは来ない、バブルは続かない──スタンフォード大 HAI研究所が示す2026年のAI、過剰期待の時代は終わり、評価フェーズへ \| Ledge.ai](https://ledge.ai/articles/stanford_hai_ai_2026_evaluation_phase) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-02 [ＡＩが自我「ゴースト」宿す日は　共生予見した漫画「攻殻機動隊」・士郎正宗さん：朝日新聞](https://www.asahi.com/articles/DA3S16374500.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-02 [半導体業界は前例のない「ギガサイクル」に突入、AIの大規模な発展によりコンピューティング・メモリ・ネットワーク・ストレージの経済性が同時に高まる](https://gigazine.net/news/20260102-giga-cycle/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [開発環境現状確認（2026年） - Don't Repeat Yourself](https://blog-dry.com/entry/2026/01/02/145952) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [テスト,検証してますか: cargo-mutantsによるミューテーションテスト入門 - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/01/02/083735) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [I'm brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the year of Linux on (your) desktop](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [セキュリティエンジニアにおすすめの本 1選 - サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/recommended-book-for-security-engineers-2026) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [Agent Skills って何？ Anthropic の公式サンプル 16 個をすべて試してみた \| DevelopersIO](https://dev.classmethod.jp/articles/try-agent-skills-anthropic-samples/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [RAGの精度は検索戦略で決まる｜ハイブリッド検索が効く理由を検証する](https://zenn.dev/startspace/articles/3f8775d70e2c9f) *(Zenn – トピック LLM)*
