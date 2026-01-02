@@ -4429,3 +4429,49 @@
 - [ ] 2026-01-02 [セキュリティエンジニアにおすすめの本 1選 - サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/recommended-book-for-security-engineers-2026) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-02 [Agent Skills って何？ Anthropic の公式サンプル 16 個をすべて試してみた \| DevelopersIO](https://dev.classmethod.jp/articles/try-agent-skills-anthropic-samples/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-02 [RAGの精度は検索戦略で決まる｜ハイブリッド検索が効く理由を検証する](https://zenn.dev/startspace/articles/3f8775d70e2c9f) *(Zenn – トピック LLM)*
+
+## Collected on 2026-01-02T18:14:29.060Z
+- [ ] 2026-01-02 [Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-02 [Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-02 [How will future generations view our use of AI? \| Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2026/jan/02/how-will-future-generations-view-our-use-of-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-02 [Grok Is Being Used to Depict Horrific Violence Against Real Women](https://futurism.com/future-society/grok-violence-women) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-02 [Cops Forced to Explain Why AI Generated Police Report Claimed Officer Transformed Into Frog](https://futurism.com/artificial-intelligence/ai-police-report-frog) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-02 [Understanding how AI and big data transform digital marketing](https://www.artificialintelligence-news.com/news/understanding-how-ai-and-big-data-transform-digital-marketing/) *(Artificial Intelligence News)*
+- [ ] 2026-01-02 [Solana’s high-speed AI gains and malware losses](https://www.artificialintelligence-news.com/news/solanas-high-speed-ai-gains-and-malware-losses/) *(Artificial Intelligence News)*
+- [ ] 2026-01-02 [Shark Tank’s Mr. Wonderful Promised the World’s Largest AI Data Center — Is It Even Happening?](https://www.techrepublic.com/article/news-ai-data-center-update-shark-tank-kevin-oleary-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-02 [Crypto Thieves Move Offline to Terrorize Investors at Home](https://www.bloomberg.com/features/2026-crypto-thieves-kidnappers/) *(Bloomberg Technology)*
+- [ ] 2026-01-02 [Tech Stocks to Climb 20%-25% in 2026, Says Dan Ives](https://www.bloomberg.com/news/videos/2026-01-02/dan-ives-expects-tech-stocks-to-climb-20-25-in-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-02 [The ‘Super Flu’ Is Hitting Kids Hard—and Some Aren’t Surviving](https://gizmodo.com/the-super-flu-is-hitting-kids-hard-and-some-arent-surviving-2000704822) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Live Updates From CES 2026 in Las Vegas 🔴](https://gizmodo.com/live-updates-from-ces-2026-in-las-vegas-2000697509) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [SpaceX Will Move Thousands of Starlinks Closer to Earth in 2026. Here’s Why](https://gizmodo.com/spacex-will-move-thousands-of-starlinks-closer-to-earth-in-2026-heres-why-2000704872) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Disney World Employee Injured by Runaway ‘Indiana Jones’ Boulder](https://gizmodo.com/disney-world-indiana-jones-boulder-accident-video-2000704890) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Meta’s New Privacy Policy Opens Up AI Chats for Targeted Ads](https://gizmodo.com/metas-new-privacy-policy-opens-up-ai-chats-for-targeted-ads-2000704852) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Scientists Solved the Mystery of the Shark That Bites Perfect Circles](https://gizmodo.com/scientists-finally-figured-out-the-shark-that-bites-perfect-circles-2000704853) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Startup Satellite Hits 1,800 Degrees, Cooks Up Plasma in Orbit for the First Time](https://gizmodo.com/startup-satellite-hits-1800-degrees-cooks-plasma-in-orbit-for-the-first-time-2000704796) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [The ‘Stranger Things’ Finale Already Told Us What the Spinoff Will Be About](https://gizmodo.com/stranger-things-finale-rock-vecna-spinoff-netflix-2000704824) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [The Clicks BlackBerry-Like Phone Keyboard Finally Makes Sense](https://gizmodo.com/the-clicks-blackberry-like-phone-keyboard-finally-makes-sense-2000704812) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [2026 Is Poised to Be the Year of the Tech IPO. Will It Also Be the Year the AI Bubble Bursts?](https://gizmodo.com/2026-is-poised-to-be-the-year-of-the-tech-ipo-will-it-also-be-the-year-the-ai-bubble-bursts-2000704395) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [This Beetle Is in a Toxic Relationship With a Tree. Luckily, They Know a Fungi](https://gizmodo.com/this-beetle-is-in-a-toxic-relationship-with-a-tree-luckily-they-know-a-fungi-2000704295) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Icon Meets Icon in the New Trailer for ‘The Muppet Show’ Revival](https://gizmodo.com/the-muppet-show-50th-anniversary-trailer-sabrina-carpenter-2000704814) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Updates From ‘Avengers: Doomsday’, and More](https://gizmodo.com/james-gunn-man-of-tomorrow-wonder-woman-rumor-2000704415) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [How to watch Awesome Games Done Quick 2026](https://www.engadget.com/gaming/how-to-watch-awesome-games-done-quick-2026-174938687.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [How to watch the first-ever Lego CES 2026 press conference live](https://www.engadget.com/gaming/how-to-watch-the-first-ever-lego-ces-2026-press-conference-live-monday-130005336.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [LG made up a new word for its next ultralight Gram laptops: 'Aerominum'](https://www.engadget.com/computing/laptops/lg-made-up-a-new-word-for-its-next-ultralight-gram-laptops-aerominum-172323577.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [How to watch the NVIDIA CES 2026 presentation live](https://www.engadget.com/computing/how-to-watch-the-nvidia-ces-2026-press-conference-live-jan-5-130028279.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [How to watch the Sony Honda Afeela CES 2026 press conference](https://www.engadget.com/transportation/evs/how-to-watch-the-sony-honda-afeela-ces-2026-press-conference-monday-130048051.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [Pebble brings its round-faced smartwatch back from the dead](https://www.engadget.com/wearables/pebble-brings-its-round-faced-smartwatch-back-from-the-dead-150000172.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [Engadget Podcast: Everything we expect at CES 2026](https://www.engadget.com/social-media/engadget-podcast-everything-we-expect-at-ces-2026-144657955.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [Elon Musk's Grok AI posted CSAM image following safeguard 'lapses'](https://www.engadget.com/ai/elon-musks-grok-ai-posted-csam-image-following-safeguard-lapses-140521454.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [Fender Audio will introduce a new line of Bluetooth speakers and headphones at CES](https://www.engadget.com/audio/speakers/fender-audio-will-introduce-a-new-line-of-bluetooth-speakers-and-headphones-at-ces-130041696.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [How to watch Lenovo's Tech World event at CES 2026](https://www.engadget.com/computing/how-to-watch-lenovos-tech-world-event-at-ces-2026-130004053.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [The Morning After: Instagram boss says ‘more practical to fingerprint real media than fake media’](https://www.engadget.com/general/the-morning-after-engadget-newsletter-121544371.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [ヨーロッパの銀行がAI導入で20万人の雇用削減を計画](https://gigazine.net/news/20260102-ai-forecast-200000-european-banking-jobs/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-02 [Instagram責任者、AI生成画像の氾濫に対し「撮影されたメディアに透かしを入れるほうが現実的」と語る \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/01/02/4806.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-02 [2026年版：JavaScript/TypeScriptのロギング入門](https://zenn.dev/hongminhee/articles/e0d19ae2c4e042) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [LLMのための強化学習手法 2025 -PPO・DPO・GRPO・DAPO一気に理解する-｜olachinkei](https://note.com/olachin/n/n9706c13c8678) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [新人エンジニアのための今度こそ理解するSSL/TLS超入門](https://zenn.dev/collabostyle/articles/ec7604c7468b84) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [NotebookLM をソースとした Gemini の Gem で問題定義サポーターというツールを作った - Tbpgr Blog](https://tbpgr.hatenablog.com/entry/2026/01/02/151033) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [怒涛の24ユースケース紹介｜今話題のAgent Skillsを一挙に実践紹介 - Qiita](https://qiita.com/masayan1126/items/168fb1f8550265cc42aa) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [2025年の振り返り｜haya14busa](https://sizu.me/haya14busa/posts/s2i2si37z9cz) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [RAGとは？全体像について、簡単に把握をしてみようかと](https://zenn.dev/rrr068/articles/9be9b11b64d6a1) *(Zenn – トピック LLM)*
+- [ ] 2026-01-02 [# M4 Mac mini (16GB) で Dify × ローカルLLM 環境を構築する](https://zenn.dev/dadu/articles/8d2a725b0a5131) *(Zenn – トピック LLM)*
