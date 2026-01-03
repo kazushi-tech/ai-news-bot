@@ -4535,3 +4535,49 @@
 - [ ] 2026-01-02 [UI/UX PRO MAX クイックスタートガイド](https://zenn.dev/ait/articles/ui-ux-pro-max-quickstart) *(Zenn – トピック AI)*
 - [ ] 2026-01-02 [データ抽出から可視化まで担う AI 分析アシスタントの試作](https://zenn.dev/dr666m1/articles/dad2b78a18c7dd) *(Zenn – トピック AI)*
 - [ ] 2026-01-02 [PyTorch Tabularを使ってみる](https://zenn.dev/hiroki_k21/articles/6218996903bbd5) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-03T18:13:21.515Z
+- [ ] 2026-01-03 [‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-03 [The US Invaded Venezuela and Captured Nicolás Maduro. ChatGPT Disagrees](https://www.wired.com/story/us-invaded-venezuela-and-captured-nicolas-maduro-chatgpt-disagrees/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-03 [Your Jaw Will Hit the Floor When You Find Out How Much the Average OpenAI Worker Makes](https://futurism.com/artificial-intelligence/openai-compensation) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-03 [BYD Topples Tesla as EV King](https://www.bloomberg.com/news/videos/2026-01-03/byd-topples-tesla-as-ev-king-video) *(Bloomberg Technology)*
+- [ ] 2026-01-03 [Xiaomi Rides EV Success With Ambitious Delivery Target for 2026](https://www.bloomberg.com/news/articles/2026-01-03/xiaomi-rides-ev-success-with-ambitious-delivery-target-for-2026) *(Bloomberg Technology)*
+- [ ] 2026-01-03 [‘Wonder Man’ Really Wants You to Know Hollywood Hates Superpowers](https://gizmodo.com/wonder-man-really-wants-you-to-know-hollywood-hates-superpowers-2000705000) *(Gizmodo – Technology)*
+- [ ] 2026-01-03 [Even ‘Stranger Things’ Hasn’t Changed Netflix’s Mind on Theaters](https://gizmodo.com/even-stranger-things-hasnt-changed-netflixs-mind-on-theaters-2000705085) *(Gizmodo – Technology)*
+- [ ] 2026-01-03 [EV Makers Could Struggle in 2026, but Jeff Bezos Might Have a Great 2027](https://gizmodo.com/ev-makers-could-struggle-in-2026-but-jeff-bezos-might-have-a-great-2027-2000705007) *(Gizmodo – Technology)*
+- [ ] 2026-01-03 [California introduces a one-stop shop to delete your online data footprint](https://www.engadget.com/cybersecurity/california-introduces-a-one-stop-shop-to-delete-your-online-data-footprint-173102064.html?src=rss) *(Engadget)*
+- [ ] 2026-01-03 [CES 2026: What to expect from tech's big January conference](https://www.engadget.com/big-tech/ces-2026-what-to-expect-from-techs-big-january-conference-120000956.html?src=rss) *(Engadget)*
+- [ ] 2026-01-03 [How to watch the Bosch CES 2026 press conference live on Monday](https://www.engadget.com/ai/how-to-watch-the-bosch-ces-2026-press-conference-live-on-monday-130020396.html?src=rss) *(Engadget)*
+- [ ] 2026-01-03 [Agent Skillsを業務プロダクトに導入してはいけない](https://zenn.dev/ncdc/articles/206fbad44d1dba) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-03 [PythonでGPU計算やってみた話 ― 沼にハマった記録](https://zenn.dev/ryo369/articles/2d1d24d7d24c16) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-03 [生成AI「Grok」に苦情殺到、子どもの服を脱がすこともできる画像編集機能めぐり](https://www.afpbb.com/articles/-/3616554) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-03 [Banana X プロンプトパターン集](https://furoku.github.io/bananaX/projects/infographic-evaluation/index.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-03 [パソコンの値上げ問題(2026)。みんな買い替える？](https://anond.hatelabo.jp/20260103131035) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [2026年 ITエンジニア生き残り戦略 - Qiita](https://qiita.com/op_yamaguchi/items/00790c15556f26c6e549) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [Reactを根本から理解する：Hooksの仕組みを実装して学ぶ](https://zenn.dev/fitness_densuke/articles/2026-01-01-react-hooks-fundamental) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [日本語しか読めないあなた（と私）が、現代哲学に分け入り英語論文を読む方法 - 天に跼り地に蹐す](https://yudukikun5120.hatenadiary.jp/entry/2026/01/02/024559) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [jotaiによるReact再入門](https://zenn.dev/uhyo/books/learn-react-with-jotai) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [opencode](https://opencode.ai/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [マスク氏のAI「Grok」に服をデジタルで消された……「人間性を奪われた」と被害女性 - BBCニュース](https://www.bbc.com/japanese/articles/c74v8lrdzg3o) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [「脱VPN」がいよいよ加速？　ランサムウェア感染、“SSL VPN廃止”の動きも](https://atmarkit.itmedia.co.jp/ait/articles/2601/03/news011.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [筆者が「楽天モバイル＋日本通信＋povo2.0」を併用しているワケ　あえて複数回線を契約してお得に運用](https://www.itmedia.co.jp/mobile/articles/2601/03/news021.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [問題処理入門](https://zenn.dev/tbpgr/books/b956473925c315) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [Claude Codeで「細かいコンテクストアクセス制御」をしたらだいたい狙い通りのもの作れるようになった話を2025年の間にしたい｜みずくん](https://note.com/mizkun/n/nc4dbb6ed60c1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [「AIが学習しやすいナレッジ基盤」メルカリが全社で導入したNotion Architecture ver1.0 \| メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/20251224-mercariadventcalendar/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [Figma MCP でデザインシステムを提供して AI コーディングエージェントに一貫したフロントエンドコードを書かせる](https://azukiazusa.dev/blog/using-figma-mcp-to-provide-design-system-for-ai-coding-agents/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [ExpressVPN・NordVPN・Surfsharkの所有者は本当は誰なのか？というのがわかるVPN関係図](https://gigazine.net/news/20260103-vpn-industry-relationship-map/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [The AI Scientist v2 HPCの開発](https://zenn.dev/katalab/articles/4b7bc3ffdd646b) *(Zenn – トピック LLM)*
+- [ ] 2026-01-03 [生成AIが近々創作者に取って代わると考える人はどういう人なのか？](https://zenn.dev/pdfractal/articles/80e9c9790446a6) *(Zenn – トピック LLM)*
+- [ ] 2026-01-03 [Cloudflareのエッジ環境からGroq APIにアクセスできない問題](https://zenn.dev/nossa/articles/c3ab4a9f5beb79) *(Zenn – トピック LLM)*
+- [ ] 2026-01-03 [【AITL】Envelope Control と Design Recovery Control ― 制御ではなく「境界」と「前提」を扱う](https://zenn.dev/samizo_aitl/articles/019_envelope_design-recovery) *(Zenn – トピック LLM)*
+- [ ] 2026-01-03 [Claude Code 開発者自身の活用法をまとめてみた](https://zenn.dev/akino/articles/62e25d7c1b37d6) *(Zenn – トピック LLM)*
+- [ ] 2026-01-03 [Agent Skills の論点整理](https://zenn.dev/shirounagi/articles/ac62d0abcb1563) *(Zenn – トピック LLM)*
+- [ ] 2026-01-03 [阿頼耶識システム v3.0：自律的整合性監査（Autonomous Integrity）による属人性からの解脱 (Phase 4)](https://zenn.dev/dosanko_tousan/articles/0d49ea52f03010) *(Zenn – トピック LLM)*
+- [ ] 2026-01-02 [Macでの検証](https://zenn.dev/iwa103/articles/20260102_tusbuyaki) *(Zenn – トピック LLM)*
+- [ ] 2026-01-03 [Claude CodeのSkillsを確実に発動させる方法を色々試してみた](https://zenn.dev/ka888aa/articles/b7fcb48a3b3fa9) *(Zenn – トピック AI)*
+- [ ] 2026-01-03 [バイブコーダーがgitを卒業してjujutsuに乗り換えた話](https://zenn.dev/kok1eeeee/articles/claude-jujutsu-workflow) *(Zenn – トピック AI)*
+- [ ] 2026-01-03 [「お腹が空いた人には盗む権利があるか？」COMPAS事件から考えるAI倫理](https://zenn.dev/r_data/articles/ffe3aaa209f771) *(Zenn – トピック AI)*
+- [ ] 2026-01-03 [AI時代だからこそ磨きたいコードリーディングスキル](https://zenn.dev/danimal141/articles/10da2f4434df8a) *(Zenn – トピック AI)*
+- [ ] 2026-01-03 [書いたコードではなく、消した未来を語れ](https://zenn.dev/k_mt/articles/817c713027c1fb) *(Zenn – トピック AI)*
+- [ ] 2026-01-03 [バイブコーディングの虚無感は、Xのタイムラインを眺めている時の虚無感に似ている](https://zenn.dev/kashiwa855/articles/228030440d2ff9) *(Zenn – トピック AI)*
+- [ ] 2026-01-03 [PHOTON: 階層的自己回帰モデルによる高速処理とメモリ効率化](https://zenn.dev/yoshi12/articles/4d91acd780e095) *(Zenn – トピック 機械学習)*
