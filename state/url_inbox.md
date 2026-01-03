@@ -4475,3 +4475,63 @@
 - [ ] 2026-01-02 [2025年の振り返り｜haya14busa](https://sizu.me/haya14busa/posts/s2i2si37z9cz) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-02 [RAGとは？全体像について、簡単に把握をしてみようかと](https://zenn.dev/rrr068/articles/9be9b11b64d6a1) *(Zenn – トピック LLM)*
 - [ ] 2026-01-02 [# M4 Mac mini (16GB) で Dify × ローカルLLM 環境を構築する](https://zenn.dev/dadu/articles/8d2a725b0a5131) *(Zenn – トピック LLM)*
+
+## Collected on 2026-01-03T06:14:45.113Z
+- [ ] 2026-01-02 [New Parents Mocked for Letting ChatGPT Name Their Baby](https://futurism.com/artificial-intelligence/parents-named-baby-chatgpt) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-02 [How Investors Will Be Using AI in 2026](https://www.bloomberg.com/news/videos/2026-01-02/how-investors-will-be-using-ai-in-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-02 [Wall Street Shifts Focus to AI as Key Growth Driver](https://www.bloomberg.com/news/videos/2026-01-02/for-review-wall-street-shifts-focus-to-ai-as-key-driver-of-economic-and-market-growth-in-2026) *(Bloomberg Technology)*
+- [ ] 2026-01-02 [Hackers Allegedly Steal Access Tokens, Confidential Documents From European Space Agency](https://gizmodo.com/hackers-allegedly-steal-access-tokens-confidential-documents-from-european-space-agency-2000704986) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Tech Companies Show Feet as They Try to Appeal to Gen Z](https://gizmodo.com/tech-companies-show-feet-as-they-try-to-appeal-to-gen-z-2000705009) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [James Gunn Doesn’t Care If He’s Not Nominated for Best Director](https://gizmodo.com/james-gunn-dc-movies-prestige-awards-2000705028) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Drake Accused of Manipulating Streaming Play Counts With Bots in New Lawsuit](https://gizmodo.com/drake-accused-of-manipulating-streaming-play-counts-with-bots-in-new-lawsuit-2000705004) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Raw Oysters Behind Salmonella Outbreak Sweeping Across the US, CDC Warns](https://gizmodo.com/raw-oysters-behind-salmonella-outbreak-sweeping-across-the-us-cdc-warns-2000704972) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Physicists Turn Quantum Chaos Into Something Surprisingly Useful](https://gizmodo.com/physicists-turn-quantum-chaos-into-something-surprisingly-useful-2000704962) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [‘Andor’ Season 2’s Opening Remains One of Its Best Moments](https://gizmodo.com/andor-season-2-opening-scene-star-wars-2000704967) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Alleged PS5 Jailbreak Method Spikes Prices for Old Star Wars Game on eBay](https://gizmodo.com/alleged-ps5-jailbreak-method-spikes-prices-for-old-star-wars-game-on-ebay-2000704980) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Scientists Scanned 3I/ATLAS for Alien Signals. Here’s What They Found](https://gizmodo.com/scientists-scanned-3i-atlas-for-alien-signals-heres-what-they-found-2000704975) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [People Spent the Holidays Asking Grok to Generate Sexual Images of Children](https://gizmodo.com/people-spent-the-holidays-asking-grok-to-generate-sexual-images-of-children-2000704919) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [The Duffer Brothers Took Inspiration From ‘Lord of the Rings’ for the ‘Stranger Things’ End Credits](https://gizmodo.com/stranger-things-season-5-finale-end-credits-dnd-lord-of-the-rings-2000704937) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Pebble Revives and Revamps Its Short-Lived Circular Smartwatch](https://gizmodo.com/pebble-revives-and-revamps-its-short-lived-circular-smartwatch-2000704903) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [The ‘Stranger Things’ Finale Really Tried to Be Everything for Everyone](https://gizmodo.com/the-stranger-things-finale-really-tried-to-be-everything-for-everyone-2000704739) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Tesla Sales Skid Even With Cheaper Models and Deep Discounts](https://gizmodo.com/tesla-sales-skid-even-with-cheaper-models-and-deep-discounts-2000704887) *(Gizmodo – Technology)*
+- [ ] 2026-01-02 [Prices for an old Star Wars game have ballooned because of its role in a PS5 jailbreak](https://www.engadget.com/gaming/playstation/prices-for-an-old-star-wars-game-have-ballooned-because-of-its-role-in-a-ps5-jailbreak-230604276.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [How to watch Samsung's 'First Look' CES 2026 presentation on Sunday](https://www.engadget.com/mobile/how-to-watch-samsungs-first-look-ces-2026-presentation-on-sunday-190027889.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [Where are Engadget's CES 2025 winners now?](https://www.engadget.com/big-tech/where-are-engadgets-ces-2025-winners-now-194500216.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [GE's new Smart Refrigerator automates grocery shopping with a barcode scanner and Instacart](https://www.engadget.com/home/kitchen-tech/ges-new-smart-refrigerator-automates-grocery-shopping-with-a-barcode-scanner-and-instacart-194326610.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [How to watch the LG press conference at CES 2026](https://www.engadget.com/home/how-to-watch-the-lg-press-conference-at-ces-2026-monday-190159561.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [How to watch the AMD CES 2026 keynote live](https://www.engadget.com/computing/how-to-watch-the-amd-ces-2026-keynote-live-190012078.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [Amazon's base Kindle is $20 off right now](https://www.engadget.com/deals/amazons-base-kindle-is-20-off-right-now-183302484.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [Clicks is bringing its first smartphone and a new keyboard to CES 2026](https://www.engadget.com/mobile/smartphones/clicks-is-bringing-its-first-smartphone-and-a-new-keyboard-to-ces-2026-182239003.html?src=rss) *(Engadget)*
+- [ ] 2026-01-02 [How to watch the Hisense CES 2026 presentation live](https://www.engadget.com/home/how-to-watch-the-hisense-ces-2026-presentation-live-jan-5-190040858.html?src=rss) *(Engadget)*
+- [ ] 2026-01-03 [コードレビューはAIを挟め！ユーザー属性に応じたAIレビューの介在でスムーズなレビューを - Qiita](https://qiita.com/Tyamamoto1007/items/9a1844b9a0a51a0e882e) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-03 [2026年1月時点でのClaude Code と Codex と Devin の使い分け、個人開発編 - くうと徒然なるままに](https://kuxumarin.hatenablog.com/entry/2026/01/02/231412) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-03 [AIっぽくない実写風画像を作れる画像生成AI「Qwen-Image-2512」が登場、無料で使えて日本語での指示も可能](https://gigazine.net/news/20260102-qwen-image-2512/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-03 [「AI駆動PM」と「SDD（仕様駆動開発）」で要件定義書・設計書の精度を劇的に向上させる方法｜MAKE A CHANGE, inc](https://note.com/make_a_change/n/ncd3791d6a01d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-03 [コマンドラインからさようなら！Claude Codeの視覚的なワークフロー編集器が人気：ノードをドラッグ＆ドロップするだけでAI自動化ツールを構築](https://news.aibase.com/ja/news/24128) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-03 [ロボットが女性である必然性ってある？　とは思ってる。 コメントには男性..](https://anond.hatelabo.jp/20260102211010) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [アルバイト未経験エンジニア４３歳、タイミーさんになる①～タイミーアプリの正しい使い方～ - honeylab's blog](https://honeylab.hatenablog.jp/entry/2026/01/01/135619) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [Gemini の参照ファイルに NotebookLM を指定する - Tbpgr Blog](https://tbpgr.hatenablog.com/entry/2025/12/20/025353) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [ベランダに飛来するハトを水鉄砲で自動迎撃する自作システムを構築](https://gigazine.net/news/20260103-overengineered-solution-pigeons/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [月を利用して世界中と通信できるオープンソースなフェーズドアレイアンテナ「open.space」](https://gigazine.net/news/20260102-open-space/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [ロボットに乳房つけて男性は喜ぶのか](https://anond.hatelabo.jp/20260102201119) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [統計検定1級取得後に読んだ 数理統計・データサイエンスのおすすめ書籍ガイド - jiku log](https://stern-bow.hatenablog.com/entry/2026/01/02/120000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [国家サイバー統括室 サイバーセキュリティ関連法令Q&A Ver2.0 HTML版 (2025.12.24) - まるちゃんの情報セキュリティ気まぐれ日記](http://maruyama-mitsuhiko.cocolog-nifty.com/security/2025/12/post-a19098.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [GitHubリポジトリのCIステータスやIssues、PRなどをメニューバーから素早く確認できるMacアプリ「RepoBar」がリリース。](https://applech2.com/archives/20260102-repobar-for-mac-show-github-repos-status-in-menubar.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [AI発ネットミームを大人は知らない　創作は「工業化」されゆくのか：朝日新聞](https://www.asahi.com/articles/ASTDV4J2LTDVUCVL00XM.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [PS5のセキュリティを司るBootROM鍵が流出、ソニーによるパッチ対応は不可能か](https://gigazine.net/news/20260103-ps5-bootrom-key-leaked/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [iPhone16eでmacOS Sequoia 15.6が動作〜M4向けドライバ移植 - iPhone Mania](https://iphone-mania.jp/ios-599561/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-03 [フォン・ノイマンの壁を破るか？：NVIDIA牙城に挑む日本の革新Lenzoと「Cellの教訓」戦略｜tagtag](https://note.com/tagtag/n/nd53677bc1567) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-02 [Mac mini + Ollama で動く軽量ローカルLLM比較検証](https://zenn.dev/dadu/articles/35e7f82e770f83) *(Zenn – トピック LLM)*
+- [ ] 2026-01-03 [AIエージェント時代、未来はディストピア](https://zenn.dev/manimoto/articles/1c3b1379cc5ef0) *(Zenn – トピック AI)*
+- [ ] 2026-01-03 [【RAG不要論】ChatGPTでRAG構築に疲れた私が、Gemini Proの「脳筋ロングコンテキスト」に完全移行した理由](https://zenn.dev/osamuhuba/articles/32a71eb23bfb26) *(Zenn – トピック AI)*
+- [ ] 2026-01-03 [Metaが「Manus」を買収した真の狙いとは？──AIエージェント戦争の覇権を握るための「ラストピース」](https://zenn.dev/ainohogosya/articles/c7df430995c08b) *(Zenn – トピック AI)*
+- [ ] 2026-01-02 [ずっと欲しかったPDFリーダーを個人開発している話](https://zenn.dev/togatoga/articles/e1e1e316491003) *(Zenn – トピック AI)*
+- [ ] 2026-01-02 [AIで作る業務動画 Day 3｜Gemini TTSのボイスとスタイル制御を検証する](https://zenn.dev/akira_cloudjob/articles/20260103-gemini-tts-voice-style) *(Zenn – トピック AI)*
+- [ ] 2026-01-02 [【Google AI Studio】デモ②「テキスト読み上げで音声ファイル」作成](https://zenn.dev/sesamy_jp/articles/ccc4f5381d9ec3) *(Zenn – トピック AI)*
+- [ ] 2026-01-02 [コーディングエージェントを実務でフル活用してみた所感まとめ](https://zenn.dev/mori_za66/articles/7c8721f67c1c4a) *(Zenn – トピック AI)*
+- [ ] 2026-01-02 [Cloudflare Workers AI × Hono × htmx で作るAIチャット【サンプルあり】](https://zenn.dev/ao_4_ma/articles/7974e1fbe5ac4b) *(Zenn – トピック AI)*
+- [ ] 2026-01-02 [バイブコーディングとは何か](https://zenn.dev/dsgarage/articles/vibe-coding-what-is-it) *(Zenn – トピック AI)*
+- [ ] 2026-01-02 [NotebookLMで基本情報技術者試験の学習コンテンツを自動生成したら、YouTubeライクなライブラリができた話](https://zenn.dev/kewa8579/articles/eaf17ab43a97c7) *(Zenn – トピック AI)*
+- [ ] 2026-01-02 [UI/UX PRO MAX クイックスタートガイド](https://zenn.dev/ait/articles/ui-ux-pro-max-quickstart) *(Zenn – トピック AI)*
+- [ ] 2026-01-02 [データ抽出から可視化まで担う AI 分析アシスタントの試作](https://zenn.dev/dr666m1/articles/dad2b78a18c7dd) *(Zenn – トピック AI)*
+- [ ] 2026-01-02 [PyTorch Tabularを使ってみる](https://zenn.dev/hiroki_k21/articles/6218996903bbd5) *(Zenn – トピック 機械学習)*
