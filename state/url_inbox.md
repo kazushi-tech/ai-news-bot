@@ -5162,3 +5162,108 @@
 - [ ] 2026-01-05 [AIが書いた記事でもいい。その1行に「本番コード」と同じ責任を持てるなら](https://zenn.dev/assa012/articles/ea6e607ee22f51) *(Zenn – トピック AI)*
 - [ ] 2026-01-05 [AIエージェント導入で変わるビジネスの未来 - 2025年、導入企業35%の衝撃と成功事例](https://zenn.dev/agenticai_flow/articles/ai-agent-business-adoption-2025) *(Zenn – トピック AI)*
 - [ ] 2026-01-05 [LightGBM のランク学習における正規化の効果](https://zenn.dev/suk1yak1/articles/0ef5d77b84ac80) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-05T18:15:58.824Z
+- [ ] 2026-01-05 [Mother of one of Elon Musk’s sons ‘horrified’ at use of Grok to create fake sexualised images of her](https://www.theguardian.com/technology/2026/jan/05/elon-musk-ashley-st-clair-grok-fake-sexualised-images) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-05 [Generation AI: fears of ‘social divide’ unless all children learn computing skills](https://www.theguardian.com/education/2026/jan/05/generation-ai-fears-of-social-divide-unless-all-children-learn-computing-skills) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-05 [Elon Musk After His Grok AI Did Disgusting Things to Literal Children: “Way Funnier”](https://futurism.com/artificial-intelligence/elon-comment-grok-children) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-05 [Tech Giants Pushing AI Into Schools Is a Huge, Ethically Bankrupt Experiment on Innocent Children That Will Likely End in Disaster](https://futurism.com/artificial-intelligence/tech-giants-pushing-ai-schools) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-05 [Work With – Not Against – Shadow AI](https://aibusiness.com/responsible-ai/work-with-not-against-shadow-ai) *(AI Business)*
+- [ ] 2026-01-05 [Generative AI in Financial Services: Innovation, Risk, and Customer Experience](https://www.techrepublic.com/article/generative-ai-financial-services/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-05 [Nvidia Just Made a $5B Bet on Intel. Here’s Why It Matters](https://www.techrepublic.com/article/news-nvidia-5b-bet-on-intel/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-05 [Morgan Stanley Warns AI Could Eliminate 200,000 Banking Jobs in Europe](https://www.techrepublic.com/article/news-morgan-stanley-200k-ai-jobs-lost-europe-2030/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-05 [Palo Alto Networks Eyes $400M Acquisition of Koi Security](https://www.techrepublic.com/article/news-palo-alto-koi-security-deal/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-05 [The Data Center Boom Is Concentrated in the U.S.](https://spectrum.ieee.org/data-center-growth) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-01-05 [Context Engineering Explained in 3 Levels of Difficulty](https://www.kdnuggets.com/context-engineering-explained-in-3-levels-of-difficulty) *(KDnuggets)*
+- [ ] 2026-01-05 [6 Docker Tricks to Simplify Your Data Science Reproducibility](https://www.kdnuggets.com/6-docker-tricks-to-simplify-your-data-science-reproducibility) *(KDnuggets)*
+- [ ] 2026-01-05 [Qualcomm Unveils New Cheaper Version of X2 Laptop Processor](https://www.bloomberg.com/news/articles/2026-01-05/qualcomm-unveils-new-cheaper-version-of-x2-laptop-processor) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [EU Condemns Musk’s Grok for Illegal Sexualized Images of Kids](https://www.bloomberg.com/news/articles/2026-01-05/eu-condemns-musk-s-grok-for-illegal-sexualized-images-of-kids) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Finger-Prick Blood Test Could Offer Easier Way to Detect Alzheimer’s, Researchers Say](https://www.bloomberg.com/news/articles/2026-01-05/alzheimer-s-detection-may-get-easier-with-simple-finger-prick-blood-test) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Amazon Joins Artwork-Style TV Trend With $899 ‘Ember Artline’](https://www.bloomberg.com/news/articles/2026-01-05/amazon-jumps-on-artwork-style-tv-trend-with-899-ember-artline) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [S&P 500 on Path to 10,000 by End of Decade, Ed Yardeni Says](https://www.bloomberg.com/news/videos/2026-01-05/s-p-500-on-path-to-10-000-by-end-of-decade-ed-yardeni-video) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Smart Rings Poised to Go Mainstream After a Blockbuster 2025](https://www.bloomberg.com/news/articles/2026-01-05/smart-rings-poised-for-2026-growth-oura-set-to-lead) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [AI Regulation Battle Looms in California Despite Trump Threats](https://www.bloomberg.com/news/articles/2026-01-05/ai-faces-threat-of-new-regulations-in-california-despite-trump) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Solomon Partners Hires Raymond James’ Ian O’Neal for Tech Deals](https://www.bloomberg.com/news/articles/2026-01-05/solomon-partners-hires-raymond-james-ian-o-neal-for-tech-deals) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Elon Musk Boasts of Dinner With Jeffrey Epstein’s ‘Best Friend’](https://gizmodo.com/elon-musk-boasts-of-dinner-with-jeffrey-epsteins-best-friend-2000705534) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [The Final ‘Greenland 2: Migration’ Trailer Promises Gerard Butler Will Save You](https://gizmodo.com/greenland-2-final-trailer-gerard-butler-morena-baccarin-2000705552) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Hundreds of Earthquakes Are Rocking One of Earth’s Most Dangerous Glaciers](https://gizmodo.com/hundreds-of-earthquakes-are-rocking-one-of-earths-most-dangerous-glaciers-2000705493) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Qualcomm’s Next PC Chip Promises Even Better Battery Life Than Before](https://gizmodo.com/qualcomms-next-pc-chip-promises-even-better-battery-life-than-before-2000704445) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [This Pocket-Sized Lab Might Prevent You From Going Into Anaphylactic Shock](https://gizmodo.com/this-pocket-sized-lab-might-prevent-you-from-going-into-anaphylactic-shock-2000705496) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Check In for the First Trailer for ‘They Will Kill You’](https://gizmodo.com/they-will-kill-you-trailer-zazie-beetz-2000699567) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Starlink Is About to Enter a New Conflict Zone](https://gizmodo.com/starlink-is-about-to-enter-a-new-conflict-zone-2000705523) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Lucid Air, Gravity EVs Get a Much-Needed Map Update](https://gizmodo.com/lucid-air-gravity-evs-get-a-much-needed-map-update-2000705467) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Soundcore Is Trying to Fix the Worst Problem With Open Wireless Earbuds](https://gizmodo.com/soundcore-is-trying-to-fix-the-worst-problem-with-open-wireless-earbuds-2000705179) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Covid-19 Is Still Killing a Disturbing Number of Americans, Study Finds](https://gizmodo.com/covid-19-is-still-killing-a-disturbing-number-of-americans-study-finds-2000705483) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Of Course ‘Avatar: Fire and Ash’ Has Made a Billion Dollars Already](https://gizmodo.com/avatar-fire-and-ash-box-off-2000705494) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Anker Teases a New Whole Home Hybrid Battery Backup System](https://gizmodo.com/anker-teases-a-new-whole-home-hybrid-battery-backup-system-2000705254) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [J.J. Abrams’ Mysterious Next Movie May Have Found Its Title](https://gizmodo.com/jj-abrams-new-movie-great-beyond-2000705331) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [A ‘Stranger Things’ Making-of Doc Hits Netflix Next Week](https://gizmodo.com/a-stranger-things-making-of-doc-hits-netflix-next-week-2000705046) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Mitsubishi Makes Dashcams a Dealership Add-On](https://gizmodo.com/mitsubishi-makes-dashcams-a-dealership-add-on-2000705268) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [GE Appliances' new Smart Refrigerator automates grocery shopping with a barcode scanner and Instacart](https://www.engadget.com/home/kitchen-tech/ge-appliances-new-smart-refrigerator-automates-grocery-shopping-with-a-barcode-scanner-and-instacart-194326073.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [A Stranger Things making-of documentary hits Netflix next week](https://www.engadget.com/entertainment/tv-movies/a-stranger-things-making-of-documentary-hits-netflix-next-week-175539720.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [This Tamagotchi clone is designed to help you keep your plants alive](https://www.engadget.com/home/smart-home/this-tamagotchi-clone-is-designed-to-help-you-keep-your-plants-alive-172000982.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Vocci's AI note-taking ring aims to do much more](https://www.engadget.com/wearables/voccis-ai-note-taking-ring-aims-to-do-much-more-170536442.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Audeze has unveiled the Maxwell 2 gaming headset at CES 2026](https://www.engadget.com/audio/headphones/audeze-has-unveiled-the-maxwell-2-gaming-headset-at-ces-2026-170056068.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [XGIMI's Titan Noir Max 4K projector has a dynamic IRIS for increased contrast](https://www.engadget.com/home/home-theater/xgimis-titan-noir-max-4k-projector-has-a-dynamic-iris-for-increased-contrast-170044625.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Brisk It brings its AI cooking tech to an indoor oven at CES 2026](https://www.engadget.com/home/kitchen-tech/brisk-it-brings-its-ai-cooking-tech-to-an-indoor-oven-at-ces-2026-170000705.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [The HP Omnibook Ultra 14 at CES 2026: Super sleek and surprisingly durable](https://www.engadget.com/computing/laptops/the-hp-omnibook-ultra-14-at-ces-2026-super-sleek-and-surprisingly-durable-170000330.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Qualcomm unveils Snapdragon X2 Plus chip at CES](https://www.engadget.com/computing/qualcomm-unveils-snapdragon-x2-plus-chip-at-ces-170000392.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [XGIMI, best known for projectors, launches its own smart glasses](https://www.engadget.com/wearables/xgimi-best-known-for-projectors-launches-its-own-smart-glasses-170000968.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Everything announced at CES 2026](https://www.engadget.com/general/everything-announced-at-ces-2026-130124802.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Anker's new 45W charger from CES is already $10 off](https://www.engadget.com/deals/ankers-new-45w-charger-from-ces-is-already-10-off-160707324.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Anker's Soundcore Work AI voice recorder offers transcription in an ultra-compact form factor](https://www.engadget.com/ai/ankers-soundcore-work-ai-voice-recorder-offers-transcription-in-an-ultra-compact-form-factor-160030844.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Anker unveils a new lineup of chargers and docks at CES 2026](https://www.engadget.com/computing/accessories/anker-unveils-a-new-lineup-of-chargers-and-docks-at-ces-2026-160021195.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Eufy just revealed a tech-heavy baby bottle washer at CES](https://www.engadget.com/home/eufy-just-revealed-a-tech-heavy-baby-bottle-washer-at-ces-160021666.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Soundcore's Nebula P1i portable projector launches in early 2026 for $369](https://www.engadget.com/home/home-theater/soundcores-nebula-p1i-portable-projector-launches-in-early-2026-for-369-160020321.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Anker's new AeroFit 2 earbuds can switch between open-ear and ANC form factors](https://www.engadget.com/audio/headphones/ankers-new-aerofit-2-earbuds-can-switch-between-open-ear-and-anc-form-factors-160014977.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [8BitDo's Ultimate 3E gamepad for Xbox offers swappable button modules and joysticks](https://www.engadget.com/gaming/8bitdos-ultimate-3e-gamepad-for-xbox-offers-swappable-button-modules-and-joysticks-160011248.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Anker's CES smart home lineup includes a $1,600 Eufy robovac](https://www.engadget.com/home/smart-home/ankers-ces-smart-home-lineup-includes-a-1600-eufy-robovac-160000133.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [JLab expands its gaming lineup at CES with keyboards, mice and headsets](https://www.engadget.com/gaming/jlab-expands-its-gaming-lineup-at-ces-with-keyboards-mice-and-headsets-160000419.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [JLab adds ANC to its tiny wireless  earbuds for CES 2026](https://www.engadget.com/audio/headphones/jlab-adds-anc-to-its-tiny-wireless-earbuds-for-ces-2026-160000342.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [The Apple Watch Series 11 is at the lowest price we've ever seen](https://www.engadget.com/wearables/the-apple-watch-series-11-is-at-the-lowest-price-weve-ever-seen-154609747.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [How to watch today's Bosch CES 2026 press conference live](https://www.engadget.com/ai/how-to-watch-todays-bosch-ces-2026-press-conference-live-130020554.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Amazon is rolling out Alexa+ for the web so you can use its assistant without a dedicated device](https://www.engadget.com/ai/amazon-is-rolling-out-alexa-for-the-web-so-you-can-use-its-assistant-without-a-dedicated-device-150053826.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Bee has been busy since its acquisition by Amazon last year](https://www.engadget.com/wearables/bee-has-been-busy-since-its-acquisition-by-amazon-last-year-150025311.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Ember Artline is Amazon's answer to Samsung's The Frame](https://www.engadget.com/home/home-theater/ember-artline-is-amazons-answer-to-samsungs-the-frame-150015104.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Amazon is redesigning its Fire TV UI for streaming sticks and TVs](https://www.engadget.com/home/home-theater/amazon-is-redesigning-its-fire-tv-ui-for-streaming-sticks-and-tvs-150000622.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Pick up Amazon's latest Kindle on sale for $20 off](https://www.engadget.com/deals/pick-up-amazons-latest-kindle-on-sale-for-20-off-183302556.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [CES 2026 opening night recap: All the early news you missed from Samsung and LG](https://www.engadget.com/home/home-theater/ces-2026-opening-night-recap-all-the-early-news-you-missed-from-samsung-and-lg-142611832.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Apple's latest MagSafe charger is on sale for only $30](https://www.engadget.com/mobile/apples-latest-magsafe-charger-is-on-sale-for-only-30-141707602.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Google TV is getting Gemini-powered photo editing at CES](https://www.engadget.com/home/home-theater/google-tv-is-getting-gemini-powered-photo-editing-at-ces-140000172.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [8BitDo is unveiling a new mobile gaming pad at CES](https://www.engadget.com/gaming/8bitdo-is-unveiling-a-new-mobile-gaming-pad-at-ces-134555603.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [AirTag deal: Get a four-pack of the Bluetooth trackers for only $65](https://www.engadget.com/deals/airtag-deal-get-a-four-pack-of-the-bluetooth-trackers-for-only-65-202333050.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [JBL just announced a bunch of new earbuds at CES](https://www.engadget.com/audio/headphones/jbl-just-announced-a-bunch-of-new-earbuds-at-ces-130044239.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [JBL launches a trio of gaming headsets for CES](https://www.engadget.com/audio/headphones/jbl-launches-a-trio-of-gaming-headsets-for-ces-130000929.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](https://huggingface.co/blog/tiiuae/falcon-h1-arabic) *(Hugging Face Blog)*
+- [ ] 2026-01-05 [ウクライナはGoogleの元CEOであるエリック・シュミット率いるベンチャー企業が提供するAIドローンの実弾射撃試験場となりロシア政府関係者は警戒を強めている](https://gigazine.net/news/20260105-ukraine-ai-drone/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [これからのAI時代、企業はnoteに何を投稿すべきか？｜深津 貴之 (fladdict)](https://note.com/fladdict/n/n445f34e6a714) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [楽天市場アプリに「Rakuten AI」搭載](https://k-tai.watch.impress.co.jp/docs/news/2075590.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [着衣女性が水着姿に…、Xの「性的改変」新機能が物議　AI加工、投稿主の法的問題は？ - 弁護士ドットコムニュース](https://www.bengo4.com/c_23/n_19844/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [RAGについて勉強した結果をまとめてみた - Qiita](https://qiita.com/nAotO01_03/items/cfc2013f38ca95578652) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [【建築士×ChatGPT】「読み方も分からない技術」で、野良DXFを3秒で解析する爆速ツールをHTML1枚で作った話【2025年法改正】 - Qiita](https://qiita.com/architectJapan/items/ee437f6a3cd0ac99a1d4) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [～ 誓いの淵ドキュメント及びデータ解析評価](https://docs.google.com/document/d/1YXqfOSZ8Jt_hCrtHKPOxYUjCgsIdEjUmPxJPA-iyeZs/mobilebasic) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [[スタパ齋藤の「スタパトロニクスMobile」] ディスプレイに合体するUSBハブ「MH5PC」が想像以上に「正解」だった](https://k-tai.watch.impress.co.jp/docs/column/stapa/2074814.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [5年振りのメジャーバージョンアップとなるRuby 4.0正式リリース、クラスの定義などを隔離するRuby Box、新JITコンパイラ「ZJIT」搭載など](https://www.publickey1.jp/blog/26/5ruby_40ruby_boxjitzjit.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [GitHub - ykdojo/claude-code-tips: 40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself](https://github.com/ykdojo/claude-code-tips) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [「ゲーマーのIntel離れ」がSteamでも顕著に現れる、わずか5年でIntel製CPUのシェアは81％から55.6％まで急落](https://gigazine.net/news/20260105-gamers-desert-intel-steam-share/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [AIエディタ「Antigravity」とペアプロして、学習RPG「Study Rogue」のMVPを爆速で作ってみた【開発日誌 Vol.1】](https://zenn.dev/tomeito713/articles/5699feaab48e42) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [短時間のLLM対話で見る思考の癖](https://zenn.dev/chiyuria/articles/6d61bfbecd3430) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [[翻訳+検証] SGLangでDiffusion LLMをサポート：LLaDA 2.0のDay-0実装](https://zenn.dev/tosshi/articles/067d4c912c98d6) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [Slack から Claude Code を発火させてチーム開発を加速する](https://zenn.dev/katsuhisa_/articles/claude-code-slack-integration) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [Cursorとfnmを併用した環境でMCPの設定がうまくいかない問題と解決方法](https://zenn.dev/arumako_m/articles/a8d453ad828cf3) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [Claude Code + Claude Code Routerを触ってみた](https://zenn.dev/seto_t/articles/bfff145e8ca505) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [AI に納得感のあるテストケース作らせるの難しい](https://zenn.dev/cazzenn/articles/b38cc80296d129) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [2025年年末個人AIエージェントハッカソンで学んだ Claude Code ノウハウ](https://zenn.dev/r0227n/articles/ai-agent-hackathon-2026-new-year-holiday-season) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [Googleが開発した次世代AIエージェントIDE「Antigravity」がやばすぎる](https://zenn.dev/mitsuo119/articles/5e6cbda8ada83d) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [既存コードをAIの居住可能惑星へ改造する「Terraformer」という実験](https://zenn.dev/longbow/articles/20260105_terraformer) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [【バグ調査】AIでバグを特定する精度を上げる7つの条件を見つけた](https://zenn.dev/zatsucat/articles/06df2e463ee583) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [2025年に触った技術の振り返り](https://zenn.dev/kotap15/articles/look_back_tech_2025) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [Grokにポエムを殴ってもらった](https://zenn.dev/k_mt/articles/9a02cf23e38be2) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [Supabase for Platformsって何？通常版との違いを整理してみた](https://zenn.dev/spacemarket/articles/7286c61d767c2b) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [今年の目標を実現するため、AIで自分の思考設計をリファクタリングしてみた](https://zenn.dev/recurrenthub/articles/c15c8dcee56d88) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [8割AIドリブン開発の環境紹介](https://zenn.dev/kh37/articles/da30ebc8efc452) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [VSCodeでPlaywright MCPを触ってみる](https://zenn.dev/whshido/articles/bf3974f8ecb544) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [Agent Skills で Claude を専門家に変える](https://zenn.dev/katsuhisa_/articles/claude-skills-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [ghub-deskによるGitHub組織の収集・再開・参照](https://zenn.dev/takihito/articles/de25e83109a020) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [AGENT.md で AI エージェントと効率的に開発する](https://zenn.dev/katsuhisa_/articles/agent-md-introduction) *(Zenn – トピック AI)*
