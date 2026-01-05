@@ -4667,3 +4667,79 @@
 - [ ] 2026-01-03 [Claude Code の ENABLE_TOOL_SEARCH=1 の挙動を理解する 2026/01](https://zenn.dev/him0/articles/8b6c82e592e30b) *(Zenn – トピック AI)*
 - [ ] 2026-01-03 [Google Antigravityで開発生産性を3倍にする10の実践テクニック](https://zenn.dev/t_kanazawa/articles/antigravity-technic) *(Zenn – トピック AI)*
 - [ ] 2026-01-04 [浮動小数点演算は信用できない](https://zenn.dev/ogiek0628/articles/bf031d1d539822) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-05T00:51:57.190Z
+- [ ] 2026-01-04 [From Baidu Unit to Jio, Asia’s IPO Boom Shows No Sign of Slowing](https://www.bloomberg.com/news/articles/2026-01-04/from-baidu-unit-to-jio-asia-s-ipo-boom-shows-no-sign-of-slowing) *(Bloomberg Technology)*
+- [ ] 2026-01-04 [Alibaba Brings Visual AI Into Food Fight with China’s Meituan](https://www.bloomberg.com/news/articles/2026-01-04/alibaba-brings-visual-ai-into-food-fight-with-china-s-meituan) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Lockin’s New Smart Locks Never Need Recharging Thanks to Infrared Light](https://gizmodo.com/lockins-new-smart-locks-never-need-recharging-thanks-to-laser-beams-2000704701) *(Gizmodo – Technology)*
+- [ ] 2026-01-04 [A Week Later, Rainbow Six Siege Is Apparently Under Attack Again, This Time with Brainrot](https://gizmodo.com/a-week-later-rainbow-six-siege-is-apparently-under-attack-again-this-time-with-brainrot-2000705226) *(Gizmodo – Technology)*
+- [ ] 2026-01-04 [Govee’s New Smart Ceiling Light Gives You AI Art to Look Up To](https://gizmodo.com/govees-new-smart-ceiling-light-gives-you-ai-art-to-look-up-to-2000704713) *(Gizmodo – Technology)*
+- [ ] 2026-01-04 [Samsung Galaxy Z Trifold Hands-On: Way Better Than I Expected](https://gizmodo.com/samsung-galaxy-z-trifold-hands-on-way-better-than-i-expected-2000705200) *(Gizmodo – Technology)*
+- [ ] 2026-01-04 [Xreal’s Cheapest AR Glasses Just Got Better (and Cheaper)](https://gizmodo.com/xreals-cheapest-ar-glasses-just-got-better-and-cheaper-2000705194) *(Gizmodo – Technology)*
+- [ ] 2026-01-04 [‘Dispatch’ Stats Show Millions of Players Put the Work In](https://gizmodo.com/dispatch-stats-show-millions-of-players-put-the-work-in-2000705126) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Narwal's first mattress vacuum heats, taps, UV-blasts and sucks up all the ick living in your bed](https://www.engadget.com/home/smart-home/narwals-first-mattress-vacuum-heats-taps-uv-blasts-and-sucks-up-all-the-ick-living-in-your-bed-004929304.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [At CES, Belkin launches a new charging case for the Switch 2 with a screen for checking battery life](https://www.engadget.com/gaming/nintendo/belkin-charging-case-for-the-switch-2-ces-2026-screen-for-checking-battery-life-170029146.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Yukai Engineering's latest gadget at CES is a fan for babies](https://www.engadget.com/mobile/yukai-engineerings-latest-gadget-at-ces-is-a-fan-for-babies-000000172.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [The Subtle Voicebuds use AI to transcribe your words below a whisper, or in very loud spaces (like the CES show floor)](https://www.engadget.com/audio/headphones/the-subtle-voicebuds-use-ai-to-transcribe-your-words-below-a-whisper-or-in-very-loud-spaces-like-the-ces-show-floor-000000019.html?src=rss) *(Engadget)*
+- [ ] 2026-01-04 [How to watch the AMD CES 2026 keynote with CEO Lisa Su live](https://www.engadget.com/computing/how-to-watch-the-amd-ces-2026-keynote-with-ceo-lisa-su-live-190012438.html?src=rss) *(Engadget)*
+- [ ] 2026-01-04 [Belkin announces a wireless HDMI dongle that doesn't need Wi-Fi access](https://www.engadget.com/computing/accessories/belkin-announces-a-wireless-hdmi-dongle-that-doesnt-need-wi-fi-access-215513179.html?src=rss) *(Engadget)*
+- [ ] 2026-01-04 [LG reveals its laundry-folding robot at CES 2026](https://www.engadget.com/home/smart-home/lg-reveals-its-laundry-folding-robot-at-ces-2026-215121021.html?src=rss) *(Engadget)*
+- [ ] 2026-01-04 [How to watch the Sony Honda Afeela CES 2026 presentation](https://www.engadget.com/transportation/evs/how-to-watch-the-sony-honda-afeela-ces-2026-presentation-130048804.html?src=rss) *(Engadget)*
+- [ ] 2026-01-04 [How to watch the NVIDIA CES 2026 press conference with Jensen Huang live](https://www.engadget.com/computing/how-to-watch-the-nvidia-ces-2026-press-conference-with-jensen-huang-live-130028602.html?src=rss) *(Engadget)*
+- [ ] 2026-01-04 [LG's 'Aerominum' Gram Pro laptops feel impossibly light and strong](https://www.engadget.com/computing/laptops/lgs-aerominum-gram-pro-laptops-feel-impossibly-light-and-strong-200317743.html?src=rss) *(Engadget)*
+- [ ] 2026-01-04 [How to watch the Lego CES 2026 press conference live](https://www.engadget.com/gaming/how-to-watch-the-lego-ces-2026-press-conference-live-130005019.html?src=rss) *(Engadget)*
+- [ ] 2026-01-04 [How to watch the Hisense CES 2026 press conference live](https://www.engadget.com/home/how-to-watch-the-hisense-ces-2026-press-conference-live-190040504.html?src=rss) *(Engadget)*
+- [ ] 2026-01-04 [How to watch the Lenovo Tech World event at CES 2026](https://www.engadget.com/computing/how-to-watch-the-lenovo-tech-world-event-at-ces-2026-130004983.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [2026年、日本企業に迫る危機　AIを導入しても「真のDX」は困難](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600007/121800207/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [フィジカルAI（Physical AI）](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/122200212/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [ワンタイムPWは限界　今知るべき弱点と対策](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600014/122200219/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [iPhoneのマイナンバーカード　設定変更を起因に一時新規発行できず](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600011/122400197/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [イーロン・マスク氏が仕掛ける無労働社会、半導体確保がカギ](https://xtech.nikkei.com/atcl/nxt/column/18/03431/121600004/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [仮想現実SNSの「VRChat」が日本でイベント開催、市場開拓に力を注ぐ理由](https://xtech.nikkei.com/atcl/nxt/column/18/00086/00383/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [「フィジカルAI元年」にAIエージェントは実践期へ、バブル崩壊に備えを](https://xtech.nikkei.com/atcl/nxt/column/18/03431/121600003/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [iPadのファイル管理がパソコンライクに、種類ごとに開くアプリを指定する](https://xtech.nikkei.com/atcl/nxt/column/18/03388/120500005/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [行政機関が利用する「ガバメントAI」、都庁は生産性と都民サービスの向上に](https://xtech.nikkei.com/atcl/nxt/column/18/01679/112700256/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [モダナイ成熟化を指摘する日本IBM山口社長、経済同友会代表幹事の重責も](https://xtech.nikkei.com/atcl/nxt/column/18/03454/122400001/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [情報処理技術者試験の大幅刷新案、応用・高度試験を再編　2027年度から](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11378/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [認知度高まるが、米中には遅れ　eスポーツの業界地図](https://xtech.nikkei.com/atcl/nxt/column/18/03426/122200017/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [ITライターが独断で選ぶ、2025年スマホ業界10大ニュース](https://xtech.nikkei.com/atcl/nxt/column/18/02980/122500033/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [システム開発で1億円超の損失、5年で70社以上　累計1200億円に](https://xtech.nikkei.com/atcl/nxt/column/18/03386/122500004/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [老朽化した基幹システムを放置せよ、刷新プロジェクトはもはや無理だ](https://xtech.nikkei.com/atcl/nxt/column/18/00148/122500415/) *(日経クロステック IT)*
+- [ ] 2026-01-04 [AIエージェントと設計者との共創の“始まり”を感じさせる2026年](https://monoist.itmedia.co.jp/mn/articles/2601/05/news023.html) *(ITmedia AI＋)*
+- [ ] 2026-01-05 [ベネズエラ関連でAIによる動画とか画像が当然のごとく拡散していたりした - 電脳塵芥](https://nou-yunyun.hatenablog.com/entry/2026/01/05/020000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [LLMは「同じ質問を2回」入力すると精度が上がる──Google研究者ら、プロンプト反復の効果を短報で報告 \| Ledge.ai](https://ledge.ai/articles/prompt_repetition_improves_llm_accuracy) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [結婚した。そしてパーティーを開いた - kondoyukoの踊る編集室](https://blog.kondoyuko.com/entry/yukorinfes2025) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [AI「Grok」による性的ディープフェイク、世界中で被害確認 \| 毎日新聞](https://mainichi.jp/articles/20260104/k00/00m/030/081000c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [「コードを書く」から「意図を説明する」へ　AIエージェントが変えたソフトウェア開発](https://atmarkit.itmedia.co.jp/ait/articles/2601/04/news010.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [Apple、単一画像から高品質な3DGSを生成する技術「SHARP」公開！ 一般的GPU環境で高速3Dシーン構築可能](https://cgworld.jp/flashnews/01-202601-SHARP.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [Claude Code Workflow Studio完全ガイド｜ビジュアルでAIワークフローを構築する新時代｜アイドリ \| AI-Driven Lab](https://note.com/ai_driven/n/nce437c34242f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [Open AIが開発中のハードウェアはペン型デバイス〜発売時期や大きさも判明か - iPhone Mania](https://iphone-mania.jp/apple-599566/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [「google」を「gogle」と打つだけで終了。アクセスした瞬間にデータが抜かれる仕組みが怖い \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2601parked-urls-malware-risk/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [PublickeyのIT業界予想2026。メモリ高騰による消極的なクラウド選択、AIエージェントを前提とした開発方法論、Rust採用の広がりなど](https://www.publickey1.jp/blog/26/publickeyit2026airust.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [エクセルで「ダッシュボード」を5分で作る技！ 売り上げの分析結果を見栄えよく表示【再掲】【今すぐ読みたい！人気記事】](https://forest.watch.impress.co.jp/docs/shseri/readitnow/2074287.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [Claude Codeの開発者によるClaude Code活用術がめちゃくちゃ有用そう](https://zenn.dev/explaza/articles/a387d2bf1cb448) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [JavaScript engines zoo](https://zoo.js.org/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [Findyの爆速開発を支えるAI×チェックリスト型セルフレビュー - Findy Tech Blog](https://tech.findy.co.jp/entry/2026/01/05/070000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [iPhoneのホームボタン、死のブルースクリーン... 2025年に消えたテクノロジー10選](https://japan.cnet.com/article/35242243/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [AIプロンプトライティング](https://zenn.dev/sue738/books/ai-prompt-writing) *(Zenn – トピック LLM)*
+- [ ] 2026-01-05 [2025年衝撃のLLMの最新研究](https://zenn.dev/sue738/books/llm-research-2025) *(Zenn – トピック LLM)*
+- [ ] 2026-01-04 [Claude Codeがすこし賢くなる設定（ツール検索）](https://zenn.dev/cawa102/articles/d8002461961ddf) *(Zenn – トピック LLM)*
+- [ ] 2026-01-04 [GPU不要！Amazon Nova Multimodal Embeddingsが告げる動画・音声分析の夜明け](https://zenn.dev/exwzd/articles/20251225_nova_multimodal_embeddings) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [AI学習は無駄？2026年中には陳腐化しない「3つの本質的スキル」](https://zenn.dev/zatsucat/articles/83f285796ecee2) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [Playwright MCPでCSSの修正が楽になった](https://zenn.dev/silverbirder/articles/5bba8251cea74a) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [AI時代の人材戦略:生産性を40%向上させる組織づくりの完全ガイド](https://zenn.dev/headwaters/articles/545fe94fb1a095) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [AIで作る業務動画 Day 5｜音声生成スクリプト完成とPhase 1振り返り](https://zenn.dev/akira_cloudjob/articles/20260105-gemini-tts-script) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [AWS DevOps Agent × OWASP Juice Shop：セキュリティインシデントをAIで調査するみたいなのやってみたい！](https://zenn.dev/c_scotch_m/articles/851532f347d0b3) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [Claude API + GitHub Actions で毎朝AIニュースを自動生成する【月500円】](https://zenn.dev/keylang_kt/articles/9ca493ad5bf3b0) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [会話する同僚AIを作ったら、人格が暴走してGTAのNPCになった話](https://zenn.dev/kiriai/articles/9493dcd8f457a5) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [実務特化型会議式システム案「円卓の(現代の)騎士」に関しての設計書。](https://zenn.dev/north_uw/articles/2efe775f9e2ab0) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [【資料公開】SESエンジニアが「現場」で生成AIを安全に使い倒すためのセキュリティ生存戦略](https://zenn.dev/longbow/articles/ai-security-for-ses) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [Flow Development Program の提唱](https://zenn.dev/ux_xu/articles/86b32a4eb275c9) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [週刊AI駆動開発 - 2026年01月04日](https://zenn.dev/pppp303/articles/weekly_ai_20260104) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [MCPサーバー実践ガイド：ゼロからの構築、テスト、デプロイ](https://zenn.dev/snow504/articles/10d682b2038d82) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [MCPサーバーアーキテクチャと動作原理：プロトコルから実行フローまで](https://zenn.dev/snow504/articles/ad147362a9db53) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [MCPサーバーの包括的分析：AIエージェント時代のコンテキストとツール通信ハブ](https://zenn.dev/snow504/articles/5e9c106654640a) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [AIエージェント導入で失敗しないための5つの戦略 - MIT調査が明かす95%失敗の真実](https://zenn.dev/agenticai_flow/articles/ai-agent-adoption-failure-success-strategies) *(Zenn – トピック AI)*
+- [ ] 2026-01-04 [【数式解説】scVI の仕組み](https://zenn.dev/qoo/articles/19a035e4e89b3d) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-04 [【論文紹介】「なぜその予測なのか説明せよ」とGMに詰められた私が、線形回帰とDeep Learningの狭間で "RBP" に救われた話](https://zenn.dev/sunyeul89/articles/ec3a3dd63a64ce) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-04 [3次元Navier-Stokes方程式の有限時間爆発を数値的に捕捉したかもしれない話 ― 特異学習理論の視点から](https://zenn.dev/mery_3/articles/7bf9270be3ef01) *(Zenn – トピック 機械学習)*
