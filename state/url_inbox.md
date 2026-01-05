@@ -5119,3 +5119,46 @@
 - [ ] 2026-01-05 [【技術提案】機密は守り、智慧は共有する。「Dual-Layer Alaya」アーキテクチャによる連合学習の再定義](https://zenn.dev/dosanko_tousan/articles/2bfda492d3bb8b) *(Zenn – トピック LLM)*
 - [ ] 2026-01-05 [Agent Skills 記述ガイド](https://zenn.dev/shinpr_p/articles/01c78476232285) *(Zenn – トピック LLM)*
 - [ ] 2026-01-05 [RAGの取りこぼしを減らすには？ — Corrective RAG で検索ミスを“後から直す”](https://zenn.dev/lluminai_tech/articles/28ef63e8a91f5e) *(Zenn – トピック LLM)*
+
+## Collected on 2026-01-05T12:19:34.907Z
+- [ ] 2026-01-05 [The chatbot will see you now: how AI is being trained to spot mental health issues in any language](https://www.theguardian.com/global-development/2026/jan/05/chatbot-ai-therapy-mental-health-clinic-uganda-algorithm) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-05 [I’m watching myself on YouTube saying things I would never say. This is the deepfake menace we must confront \| Yanis Varoufakis](https://www.theguardian.com/commentisfree/2026/jan/05/deepfakes-youtube-menace-yanis-varoufakis) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-05 [AI Deepfakes Are Impersonating Pastors to Try to Scam Their Congregations](https://www.wired.com/story/ai-deepfakes-are-impersonating-pastors-to-try-and-scam-their-congregations/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-05 [At CES 2026, Everything Is AI. What Matters Is How You Use It](https://www.wired.com/story/ces-2026-what-to-expect/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-05 [L’Oréal brings AI into everyday digital advertising production](https://www.artificialintelligence-news.com/news/loreal-brings-ai-into-everyday-digital-advertising-production/) *(Artificial Intelligence News)*
+- [ ] 2026-01-05 [Australia’s Social Media Ban on Kids Is Likely an Outlier](https://www.bloomberg.com/news/newsletters/2026-01-05/australia-s-social-media-ban-on-kids-is-likely-an-outlier) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [This Is Where the Smart Green Tech Money Is Heading in 2026](https://www.bloomberg.com/news/features/2026-01-05/green-investing-in-2026-where-the-smart-climate-tech-money-is-going) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Latvia Says Suspected Ship Likely Not Linked to Cable Damage](https://www.bloomberg.com/news/articles/2026-01-05/latvia-says-suspected-ship-likely-not-linked-to-cable-damage) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [China’s Longi to Replace Silver in Solar Panels to Reduce Costs](https://www.bloomberg.com/news/articles/2026-01-05/china-s-longi-to-replace-silver-in-solar-panels-to-reduce-costs) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Is Rwanda Becoming Africa's Innovation Hub?](https://www.bloomberg.com/news/videos/2026-01-05/is-rwanda-becoming-africa-s-innovation-hub-video) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Indonesia Tries Ex-Minister Makarim in Chromebook Graft Case](https://www.bloomberg.com/news/articles/2026-01-05/indonesia-tries-ex-minister-makarim-in-chromebook-graft-case) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [US to Drive Equities in 2026 With 10%-Plus Gain: Sheets](https://www.bloomberg.com/news/videos/2026-01-05/us-to-drive-equities-in-2026-with-10-plus-gain-sheets-video) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Nvidia Partner Hon Hai’s Sales Beat Estimates in an AI Boom](https://www.bloomberg.com/news/articles/2026-01-05/nvidia-partner-hon-hai-s-sales-beat-estimates-in-an-ai-boom) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Silicon Valley Is Flirting with a Very Stupid New Way to Die](https://gizmodo.com/silicon-valley-is-flirting-with-a-very-stupid-new-way-to-die-2000705108) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Fraimic is an E Ink display that turns your ideas into AI art](https://www.engadget.com/home/smart-home/fraimic-is-an-e-ink-display-that-turns-your-ideas-into-ai-art-120000454.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Starlink offers free internet access in Venezuela following Maduro raid](https://www.engadget.com/big-tech/starlink-offers-free-internet-access-in-venezuela-following-maduro-raid-102705135.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [The 5 best meditation apps for 2026](https://www.engadget.com/apps/best-meditation-app-140047993.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [L'Oréal’s CES 2026 beauty devices include a skin-like flexible LED mask](https://www.engadget.com/science/loreals-ces-2026-beauty-devices-include-a-skin-like-flexible-led-mask-070000576.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Introducing Falcon H1R 7B](https://huggingface.co/blog/tiiuae/falcon-h1r-7b) *(Hugging Face Blog)*
+- [ ] 2026-01-05 [「メンバーのAI画像・動画を削除して」――AKB48グループ「STU48」が注意喚起　“炎上元”の漫画家は謝罪](https://www.itmedia.co.jp/aiplus/articles/2601/05/news106.html) *(ITmedia AI＋)*
+- [ ] 2026-01-05 [楽天市場アプリ、AIチャットで商品検索できるように　「Rakuten AI」搭載](https://www.itmedia.co.jp/aiplus/articles/2601/05/news095.html) *(ITmedia AI＋)*
+- [ ] 2026-01-05 [洗濯物をたたむ家庭用ロボ「CLOiD」、LGから　CESで一般公開](https://www.itmedia.co.jp/aiplus/articles/2601/05/news092.html) *(ITmedia AI＋)*
+- [ ] 2026-01-05 [米国のベネズエラ攻撃巡り“AI偽動画”が拡散　ファクトチェック団体が注意喚起](https://www.itmedia.co.jp/aiplus/articles/2601/05/news087.html) *(ITmedia AI＋)*
+- [ ] 2026-01-05 [JEITAが予測したデータセンター動向から探る　「AIによる産業革命」の課題](https://www.itmedia.co.jp/enterprise/articles/2601/05/news083.html) *(ITmedia AI＋)*
+- [ ] 2026-01-05 [「首にマフラーを巻いて、ビキニを着せて」プロ漫画家がSTU48に“AIセクハラ”→メンバーから削除要請で物議 - ライブドアニュース](https://news.livedoor.com/article/detail/30318591/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [Google、AIブラウザ「Disco」発表　「Gemini 3」がタブ上でユーザーのためのオリジナルWebアプリを自動生成](https://atmarkit.itmedia.co.jp/ait/articles/2601/05/news029.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [スマホ自動操作AI「MAI-UI」が登場、Gemini 3 Proより上手にスマホを操作可能](https://gigazine.net/news/20260105-mai-ui-mobile-intelligent-assistance/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [Claude Codeで記憶領域を持つための独自のAgent Skillsを使っている](https://zenn.dev/yamadashy/articles/claude-code-agent-skills-agent-memory) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [富士通が「3年刻みの中期経営計画」をやめる理由。時田社長が語るAI時代のポートフォリオ改革 \| Business Insider Japan](https://www.businessinsider.jp/article/2601-fujitsu-scraps-three-year-plan/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [maguro.devを支える技術 \| maguro.dev](https://maguro.dev/blog/magurodev-tech-stack/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-05 [【重要】EmEditor ホームページに関する不正リンク（マルウェア）について（続報） – EmEditor (テキストエディタ)](https://jp.emeditor.com/general/%E3%80%90%E9%87%8D%E8%A6%81%E3%80%91emeditor-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%B8%8D%E6%AD%A3%E3%83%AA%E3%83%B3%E3%82%AF%EF%BC%88%E3%83%9E/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [Xでも使える生成AI「Grok」の画像編集機能で子どもや女性の性的画像が生成可能な問題を受けインド・フランス・マレーシアの当局が調査を開始](https://gigazine.net/news/20260105-authorities-investigating-grok-generating-deepfakes/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [フルスタックDartからRustバックエンドへ - 10X Product Blog](https://product.10x.co.jp/entry/2026/01/05/141233) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [【特集】 スマートフォンのマイナカード対応、AndroidとiPhoneで何が違う？](https://pc.watch.impress.co.jp/docs/topic/feature/2074455.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [韓国軍のPCで「ソフトウェアレンダリング」してみた](https://zenn.dev/shika_gfx/articles/shika-soft-rend) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [2025 JavaScript Rising Stars](https://risingstars.js.org/2025/en) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [MCP結構使えるかも．．．](https://zenn.dev/iwa103/articles/20260105_tsubuyaki) *(Zenn – トピック LLM)*
+- [ ] 2026-01-05 [「AI と MIDI でラップ制作が一気にラクになった話」](https://zenn.dev/sophie_belle/articles/6ee54cd9fd9ddf) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [AIが書いた記事でもいい。その1行に「本番コード」と同じ責任を持てるなら](https://zenn.dev/assa012/articles/ea6e607ee22f51) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [AIエージェント導入で変わるビジネスの未来 - 2025年、導入企業35%の衝撃と成功事例](https://zenn.dev/agenticai_flow/articles/ai-agent-business-adoption-2025) *(Zenn – トピック AI)*
+- [ ] 2026-01-05 [LightGBM のランク学習における正規化の効果](https://zenn.dev/suk1yak1/articles/0ef5d77b84ac80) *(Zenn – トピック 機械学習)*
