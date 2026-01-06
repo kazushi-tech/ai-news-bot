@@ -5267,3 +5267,130 @@
 - [ ] 2026-01-05 [Agent Skills で Claude を専門家に変える](https://zenn.dev/katsuhisa_/articles/claude-skills-guide) *(Zenn – トピック AI)*
 - [ ] 2026-01-05 [ghub-deskによるGitHub組織の収集・再開・参照](https://zenn.dev/takihito/articles/de25e83109a020) *(Zenn – トピック AI)*
 - [ ] 2026-01-05 [AGENT.md で AI エージェントと効率的に開発する](https://zenn.dev/katsuhisa_/articles/agent-md-introduction) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-06T00:46:17.194Z
+- [ ] 2026-01-06 [AI images of Maduro capture reap millions of views on social media](https://www.theguardian.com/technology/2026/jan/05/maduro-venezuela-ai-images) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-05 [Grok AI still being used to digitally undress women and children despite suspension pledge](https://www.theguardian.com/technology/2026/jan/05/elon-musk-grok-ai-digitally-undress-images-of-women-children) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-05 [Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’](https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-05 [Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-05 [That Video of Happy Crying Venezuelans After Maduro’s Kidnapping? It’s AI Slop](https://futurism.com/artificial-intelligence/venezuela-maduro-ai-misinformation) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-05 [Google’s AI Overviews Caught Giving Dangerous “Health” Advice](https://futurism.com/artificial-intelligence/google-ai-overviews-dangerous-health-advice) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-05 [The creator of Claude Code just revealed his workflow, and developers are losing their minds](https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are) *(VentureBeat – AI)*
+- [ ] 2026-01-05 [Nvidia intros six new AI chips and new open models](https://aibusiness.com/generative-ai/nvidia-intros-new-ai-chips-and-open-models) *(AI Business)*
+- [ ] 2026-01-05 [10 AI Predictions for 2026](https://aibusiness.com/generative-ai/10-ai-predictions-2026) *(AI Business)*
+- [ ] 2026-01-05 [When AI-Powered Humanoid Robots Make Bad Choices](https://aibusiness.com/robotics/when-humanoid-robots-make-bad-choices) *(AI Business)*
+- [ ] 2026-01-05 [CES 2026 Live Updates: AI Everywhere, New Devices, and the Tech That Matters](https://www.techrepublic.com/article/news-ces-2026-live-updates/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-05 [5 Google Predictions for 2026, From Gemini to Pixel](https://www.techrepublic.com/article/news-5-google-predictions-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-05 [I Asked ChatGPT, Claude and DeepSeek to Build Tetris](https://www.kdnuggets.com/i-asked-gpt-claude-and-deepseek-to-build-tetris) *(KDnuggets)*
+- [ ] 2026-01-06 [Nvidia Sees Strong Chinese Demand for H200, Has Enough Supply](https://www.bloomberg.com/news/articles/2026-01-06/nvidia-sees-strong-chinese-demand-for-h200-has-enough-supply) *(Bloomberg Technology)*
+- [ ] 2026-01-06 [British CFOs Grow More Optimistic That AI Will Boost Their Firms](https://www.bloomberg.com/news/articles/2026-01-06/british-cfos-grow-more-optimistic-that-ai-will-boost-their-firms) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Intel Shows Off New Computers That Are Central to Comeback Bid](https://www.bloomberg.com/news/articles/2026-01-05/intel-shows-off-new-computers-that-are-central-to-comeback-bid) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Data Centers Added $6.5 Billion to Big US Grid’s Power Cost](https://www.bloomberg.com/news/articles/2026-01-05/data-centers-added-6-5-billion-to-secure-power-for-big-us-grid) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Columbia's Tim Wu on Monopoly Concerns ‘Outside Tech'](https://www.bloomberg.com/news/videos/2026-01-05/columbia-s-tim-wu-on-monopoly-concerns-outside-tech-video) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Kodiak AI CEO on Driverless Truck Partnership With Bosch](https://www.bloomberg.com/news/videos/2026-01-05/kodiak-ai-ceo-on-driverless-truck-partnership-with-bosch-video) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Nvidia CEO Huang Says New Vera Rubin Design Is in Full Production](https://www.bloomberg.com/news/videos/2026-01-05/nvidia-ceo-huang-says-vera-rubin-is-in-full-production-video) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Dell Brings Back XPS Laptops As Top Executive Says PC Unit Got ‘Off Course’](https://www.bloomberg.com/news/articles/2026-01-05/dell-brings-back-xps-laptops-as-top-executive-says-pc-business-got-off-course) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [AI Video Generation Leads China’s Kuaishou to 84% Stock Surge](https://www.bloomberg.com/news/articles/2026-01-05/ai-video-generation-leads-china-s-kuaishou-to-84-stock-surge) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Nvidia CEO Huang Announces New AI Tools for Autonomous Vehicles](https://www.bloomberg.com/news/videos/2026-01-05/nvidia-ceo-huang-debuts-ai-tools-for-autonomous-vehicles-video) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Vistra Buying US Gas-Power Fleet for $4 Billion to Deepen AI Bet](https://www.bloomberg.com/news/articles/2026-01-05/vistra-to-buy-big-us-gas-powered-fleet-for-4-billion) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Nvidia CEO Says New Rubin Chips Are on Track, Helping Speed AI](https://www.bloomberg.com/news/articles/2026-01-05/nvidia-ceo-says-new-rubin-chips-are-on-track-helping-speed-ai) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Nvidia Debuts New AI Tools for Autonomous Vehicles, Robots](https://www.bloomberg.com/news/articles/2026-01-05/nvidia-announces-first-reasoning-ai-for-autonomous-vehicles) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Tech Traders Shrug Off Maduro Ouster \| Bloomberg Tech 1/5/2026](https://www.bloomberg.com/news/videos/2026-01-05/bloomberg-tech-1-5-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [AI Buildout Bottlenecks for 2026](https://www.bloomberg.com/news/videos/2026-01-05/ai-buildout-bottlenecks-for-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [The Outlook for AI Regulation in 2026](https://www.bloomberg.com/news/videos/2026-01-05/the-outlook-for-ai-regulation-in-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Investors Hunting for Something New in AI: Anna Rathbun](https://www.bloomberg.com/news/videos/2026-01-05/investors-hunting-for-something-new-in-ai-anna-rathbun-video) *(Bloomberg Technology)*
+- [ ] 2026-01-05 [Amazon Says ‘Thursday Night Football’ Season Was Most Watched Ever](https://www.bloomberg.com/news/articles/2026-01-05/-thursday-night-football-season-was-most-watched-ever-amazon) *(Bloomberg Technology)*
+- [ ] 2026-01-06 [MSI Wants to Prove It Can Do Business Laptops, Too](https://gizmodo.com/msi-wants-to-prove-it-can-do-business-laptops-too-2000705195) *(Gizmodo – Technology)*
+- [ ] 2026-01-06 [Intel’s New Chips Promise Power and Battery Life in Equal Measure](https://gizmodo.com/intels-new-chips-promise-power-and-battery-life-in-equal-measure-2000705890) *(Gizmodo – Technology)*
+- [ ] 2026-01-06 [Asus’ Latest Gaming Laptop Is Twice the Machine With Twice the Screen](https://gizmodo.com/asus-latest-gaming-laptop-is-twice-the-machine-with-twice-the-screen-2000704080) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Mercedes-Benz Chases After Tesla’s FSD With MB.Drive Assist Pro](https://gizmodo.com/mercedes-benz-chases-after-teslas-fsd-with-mb-drive-assist-pro-2000705309) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Uber’s Not Done With Self-Driving Cars Just Yet. It’s Designing a New Robotaxi With Lucid and Nuro](https://gizmodo.com/ubers-not-done-with-self-driving-cars-just-yet-its-designing-a-new-robotaxi-with-lucid-and-nuro-2000705643) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Dell Admits It Made a Huge Mistake When It Abandoned XPS](https://gizmodo.com/dell-admits-it-made-a-huge-mistake-when-it-abandoned-xps-2000705053) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Watch the Jim Henson Company Bring ‘Magic: The Gathering’ to Life](https://gizmodo.com/magic-the-gathering-lorwyn-eclipsed-jim-henson-trailer-2000705747) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Nonprofit Behind NPR and PBS Votes to Shut Down After Trump Killed Funding](https://gizmodo.com/nonprofit-behind-npr-and-pbs-votes-to-shut-down-after-trump-killed-funding-2000705671) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [All of HP’s Gaming Laptops Are Now Under the HyperX Umbrella](https://gizmodo.com/hp-maxes-out-its-max-gaming-laptop-now-with-more-hyperx-2000704515) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Nvidia New Rubin Platform Shows Memory Is No Longer ‘Afterthought’ in AI](https://gizmodo.com/nvidia-new-rubin-platform-shows-memory-is-no-longer-afterthought-in-ai-2000705639) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Samsung’s Most Powerful Galaxy Book 6 Ultra Shoves Nvidia RTX 5070 and 5060 GPUs Inside](https://gizmodo.com/samsung-galaxy-book-6-hands-on-features-2000705653) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Qualcomm Shows Off AI-Powered Maps, a New Feature to Level Up Self-Driving Cars](https://gizmodo.com/qualcomm-shows-off-ai-powered-maps-a-new-feature-to-level-up-self-driving-cars-2000705695) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Hacker Dressed as the Pink Ranger Takes Down White Supremacist Websites Live Onstage](https://gizmodo.com/hacker-dressed-as-the-pink-ranger-takes-down-white-supremacist-websites-live-onstage-2000705690) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [The Company That Just Buys Bitcoin Booked $17 Billion in Q4 Losses](https://gizmodo.com/the-company-that-just-buys-bitcoin-booked-17-billion-in-q4-losses-2000705317) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [US Awards Peter Thiel–Backed Nuclear Startup $900 Million](https://gizmodo.com/us-awards-peter-thiel-backed-nuclear-startup-900-million-2000705701) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Lego’s New ‘Star Wars’ Smart Brick Sets Look Like a Big Risk](https://gizmodo.com/lego-smart-bricks-star-wars-price-release-date-ces-2026-2000705664) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [Trump, RFK Jr. Are Officially Tearing Down the Childhood Vaccine Schedule](https://gizmodo.com/trump-rfk-jr-are-officially-tearing-down-the-childhood-vaccine-schedule-2000705661) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [New NASA Chief Pushes Back on Claims Agency Is Trashing Its History](https://gizmodo.com/new-nasa-chief-pushes-back-on-claims-agency-is-trashing-its-history-2000705698) *(Gizmodo – Technology)*
+- [ ] 2026-01-05 [The Biggest Debate in ‘Stranger Things 5’: Were There 3 Waterfalls?](https://gizmodo.com/stranger-things-5-ending-eleven-waterfalls-2000705082) *(Gizmodo – Technology)*
+- [ ] 2026-01-06 [Dell revives its XPS laptops after a boneheaded rebranding](https://www.engadget.com/computing/laptops/dell-revives-its-xps-laptops-after-a-boneheaded-rebranding-001028029.html?src=rss) *(Engadget)*
+- [ ] 2026-01-06 [CES 2026: Intel hopes its Core Ultra Series 3 chips are the start of a comeback](https://www.engadget.com/computing/ces-2026-intel-hopes-its-core-ultra-series-3-chips-are-the-start-of-a-comeback-000155611.html?src=rss) *(Engadget)*
+- [ ] 2026-01-06 [CES: ASUS made a special Hideo Kojima version of the ROG Flow Z13](https://www.engadget.com/gaming/pc/ces-asus-made-a-special-hideo-kojima-version-of-the-rog-flow-z13-000000768.html?src=rss) *(Engadget)*
+- [ ] 2026-01-06 [The ASUS ROG Zephyrus Duo is big, weird and kind of awesome](https://www.engadget.com/computing/laptops/the-asus-rog-zephyrus-duo-is-big-weird-and-kind-of-awesome-000000156.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Boston Dynamics announces production-ready version of Atlas robot at CES 2026](https://www.engadget.com/big-tech/boston-dynamics-announces-production-ready-version-of-atlas-robot-at-ces-2026-234047772.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [It took guts for Dell to admit its mistake, here's how XPS will make its big comeback](https://www.engadget.com/computing/laptops/it-took-guts-for-dell-to-admit-its-mistake-heres-how-xps-will-make-its-big-comeback-233248173.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [AMD at CES 2026: Live updates from CEO Lisa Su's keynote presentation](https://www.engadget.com/computing/amd-at-ces-2026-live-updates-from-ceo-lisa-sus-keynote-presentation-190012370.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Uber reveals the design of its robotaxi at CES 2026](https://www.engadget.com/transportation/uber-reveals-the-design-of-its-robotaxi-at-ces-2026-230056302.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Acer's Predator Helios Neo 16S AI laptop can be outfitted with Intel's new Core Ultra 9 386H CPU](https://www.engadget.com/computing/laptops/acers-predator-helios-neo-16s-ai-laptop-can-be-outfitted-with-intels-new-core-ultra-9-386h-cpu-230048825.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Samsung’s Galaxy Book 6 series launches at CES with Intel’s newest chips and a refined design](https://www.engadget.com/computing/laptops/samsungs-galaxy-book-6-series-ces-2026-intel-panther-lake-230010324.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [MSI unveils new gaming and Prestige business laptops at CES 2026](https://www.engadget.com/computing/laptops/msi-unveils-new-gaming-and-prestige-business-laptops-at-ces-2026-230000027.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Acer goes big on the haptic trackpad for CES with the Swift 16 AI laptop](https://www.engadget.com/computing/laptops/acer-goes-big-on-the-haptic-trackpad-for-ces-with-the-swift-16-ai-laptop-230000750.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [CES 2026: HP says the HyperX Omen Max 16 is the most powerful 16-inch gaming laptop in the world](https://www.engadget.com/computing/laptops/ces-2026-hp-says-the-hyperx-omen-max-16-is-the-most-powerful-16-inch-gaming-laptop-in-the-world-230000272.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Everything NVIDIA announced at CES 2026](https://www.engadget.com/ai/everything-nvidia-announced-at-ces-2026-225653684.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Samsung Galaxy Z TriFold hands-on: Flexing is believing at CES 2026](https://www.engadget.com/mobile/smartphones/samsung-galaxy-z-trifold-hands-on-flexing-is-believing-at-ces-2026-224343480.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Google TV's new Gemini features range from useful to unnecessary](https://www.engadget.com/home/home-theater/google-tvs-new-gemini-features-range-from-useful-to-unnecessary-222900001.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Viral Reddit post critical of food delivery apps may have been AI-generated](https://www.engadget.com/apps/viral-reddit-post-critical-of-food-delivery-apps-may-have-been-ai-generated-210558754.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [TCL unveils its X11L SQD-Mini LED TVs at CES 2026](https://www.engadget.com/home/home-theater/tcl-unveils-its-x11l-sqd-mini-led-tvs-at-ces-2026-205532386.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [How to watch the Hyundai CES 2026 press conference live](https://www.engadget.com/transportation/how-to-watch-the-hyundai-ces-2026-press-conference-live-190051823.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Paris court finds 10 people guilty of cyberbullying Brigitte Macron](https://www.engadget.com/social-media/paris-court-finds-10-people-guilty-of-cyberbullying-brigitte-macron-195500994.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [NVIDIA is reportedly bringing back 2021's RTX 3060 GPU because AI is eating all of the newer cards](https://www.engadget.com/ai/nvidia-is-reportedly-bringing-back-2021s-rtx-3060-gpu-because-ai-is-eating-all-of-the-newer-cards-194241706.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [LG Sound Suite hands-on at CES 2026: Home theater powered by Dolby Atmos FlexConnect](https://www.engadget.com/home/home-theater/lg-sound-suite-hands-on-at-ces-2026-home-theater-powered-by-dolby-atmos-flexconnect-192709499.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [The biggest TV announcements at CES 2026](https://www.engadget.com/home/home-theater/the-biggest-tv-announcements-at-ces-2026-190929976.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [Lego unveils a technology-packed Smart Brick at CES 2026](https://www.engadget.com/entertainment/lego-unveils-a-technology-packed-smart-brick-at-ces-2026-190000511.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [What are Micro RGB TVs and why are they everywhere at CES 2026?](https://www.engadget.com/home/home-theater/what-are-micro-rgb-tvs-and-why-are-they-everywhere-at-ces-2026-182441543.html?src=rss) *(Engadget)*
+- [ ] 2026-01-05 [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning) *(Hugging Face Blog)*
+- [ ] 2026-01-05 [NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini) *(Hugging Face Blog)*
+- [ ] 2026-01-06 [社内外の「デジタルパートナー」に　全社のLumada事業をけん引](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/122400526/122400005/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [地に足の付いた海外戦略を再構築　信頼醸成へ従業員との対話集会続ける](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/122400526/122400004/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [モデルケースは高専　産官学挙げて育成を](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/122300525/122300004/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [社食にAI考案ランチ　興味喚起へ知恵絞る](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/122300525/122300003/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [Uvance核に変革は順調　顧客と共に成長し選ばれる企業に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/122400526/122400003/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [NTTグループとの連携で顧客を拡大へ　稼ぎ頭として成長をけん引](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/122400526/122400002/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [DeNA会長の大号令　全社員をAI人材に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/122300525/122300002/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [「全員参加型」のDX推進　AIで現場作業を自動化](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600003/122400101/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [モダナイとAI活用に風向きの変化　魔法の杖なし、正しいことを愚直に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/122400526/122400001/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [AI五輪で高校生が金　活用人材の底上げを](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/122300525/122300001/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [約25年前の会計システムを刷新　S/4HANAで経営高度化狙う](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600004/122400199/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [「量子×AI」がデータセンターで開花、溶けるディープテックの境界線](https://xtech.nikkei.com/atcl/nxt/column/18/03431/121600006/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [米Microsoft、トポロジカル量子ビットの開発加速へ北欧拠点を拡張](https://xtech.nikkei.com/atcl/nxt/column/18/03098/121500050/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [廉価版のXR端末で利用者拡大なるか、メタバースの業界地図](https://xtech.nikkei.com/atcl/nxt/column/18/03426/122200016/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [ホンダ、26年刷新の電子基盤に仮想化技術　次世代OSにAGL・ゼファー検討](https://xtech.nikkei.com/atcl/nxt/column/18/03197/122300012/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [NTTグループとの連携強化を目指すNTTデータ鈴木社長、顧客拡大へ](https://xtech.nikkei.com/atcl/nxt/column/18/03454/122400002/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [オープンハウス系が施工管理DX　手戻り費用8割減、工期も13％短縮](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11380/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [怖いパソコンの「突然死」、予兆を見逃すな](https://xtech.nikkei.com/atcl/nxt/column/18/03436/121200001/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [ファイル操作が改善されたiPad、外付けストレージが使いやすく](https://xtech.nikkei.com/atcl/nxt/column/18/03388/120500006/) *(日経クロステック IT)*
+- [ ] 2026-01-06 [70年前にサステナブル経営とパーパス経営を説いたドラッカー](https://xtech.nikkei.com/atcl/nxt/column/18/03449/122300001/) *(日経クロステック IT)*
+- [ ] 2026-01-05 [Boston Dynamicsのヒト型ロボット「Atlas」に「Gemini Robotics」搭載　Hyundaiが自動車工場に配備へ](https://www.itmedia.co.jp/news/articles/2601/06/news056.html) *(ITmedia AI＋)*
+- [ ] 2026-01-05 [NVIDIAがフィジカルAIのオープン展開を加速、自動運転向けで「Alpamayo」を公開](https://monoist.itmedia.co.jp/mn/articles/2601/06/news051.html) *(ITmedia AI＋)*
+- [ ] 2026-01-05 [Amazon、AIアシスタント「Alexa+」のWeb版を米国で公開　デバイス間の同期に対応](https://www.itmedia.co.jp/news/articles/2601/06/news055.html) *(ITmedia AI＋)*
+- [ ] 2026-01-05 [AIがコードを書く時代、IT／AIエンジニアはどうなる？　2026年に求められる4つの役割とは](https://atmarkit.itmedia.co.jp/ait/articles/2601/06/news007.html) *(ITmedia AI＋)*
+- [ ] 2026-01-06 [漫画家・田辺洋一郎氏、AIの不適切使用で謝罪　アイドルの写真をビキニ姿に加工で物議](https://encount.press/archives/920628/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-06 [48時間以内にAI生成ポルノ画像を削除しろ──秋元康さんプロデュースのアイドルグループが異例の“公開警告”](https://www.itmedia.co.jp/news/articles/2601/05/news104.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-06 [自分で自分の首を絞めはじめたマイクロソフト…、Copilot+ PCは大丈夫そ？](https://www.gizmodo.jp/2026/01/microsofts-push-for-copilot-plus-pcs-could-stall-laptop-sales.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-06 [NotebookLM×Gemini【Gem】でデザイン性のある編集可能スライドを作る！｜尾辻和孝](https://note.com/kazu_note_1987/n/n40b80ba85ace) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-06 [Claude × Nano Banana Pro で料理漫画を自動生成するパイプラインを作った - Qiita](https://qiita.com/yongyong/items/cabcfb8c91b857cc164f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-06 [AI Readyなデータ分析フローの構築 - ZOZO TECH BLOG](https://techblog.zozo.com/entry/ai-ready-data-analysis-flow) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-06 [「AIに肯定的な人」はソーシャルメディアに多くの時間を費やす傾向があるとの研究結果](https://gigazine.net/news/20260104-positive-attitudes-ai-problematic-sns/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-06 [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-06 [ただNext.jsを使う - カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/entry/2026/01/06/just-use-next) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-06 [GmailでPOP3によるメールの集約機能が終了、対策としてFastmailを採用。さくらインターネットのドメイン設定を変更など](https://www.publickey1.jp/blog/26/gmailpop3fastmail.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-06 [自分の作ったVSCode拡張をOpen VSXにリリースした - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/01/05/113000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-06 [赤ちゃん寝かしつけ時の“背中スイッチ”回避を支援するデバイス、タカラトミーとユカイ工学がCESで披露](https://www.itmedia.co.jp/news/articles/2601/05/news093.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-06 [Biome と Git/GitHub を活用したJSバンドル差分表示ツールの開発 - Techtouch Developers Blog](https://tech.techtouch.jp/entry/js-bundle-diff-biome-git) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-06 [いかにして「Active Directory」が侵害されるのか、Microsoftがまとめた攻撃パターン](https://atmarkit.itmedia.co.jp/ait/articles/2601/05/news039.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-06 [Claude Code On-The-Go](https://granda.org/en/2026/01/02/claude-code-on-the-go/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-06 [JNSA、「2025セキュリティ十大ニュース」を発表～1位はアサヒGHDやアスクルの大規模障害](https://internet.watch.impress.co.jp/docs/news/2075495.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-06 [未知なる存在「第5の力」とは何か？　星の冷え具合から探索する研究、独チームが発表　過去最高精度の絞り込みに成功](https://www.itmedia.co.jp/news/articles/2601/06/news013.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-06 [アスクルのランサムウェア被害、原因は凡ミス？　ダークWebに潜り真相に迫る](https://www.itmedia.co.jp/enterprise/articles/2512/27/news039.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-06 [React Compound Componentパターンの使いどころ](https://zenn.dev/fitness_densuke/articles/2026-01-02-react-compound-component-pattern) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-06 [めちゃくちゃ頑張って 22 年前の化石ルーターを令和最新ファームにした - Zopfcode](https://www.zopfco.de/entry/openwrt-on-22yrs-old-router) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-05 [vLLMにおける低並列での推論性能向上の試行](https://zenn.dev/anjn/articles/e84f76de7422d2) *(Zenn – トピック LLM)*
+- [ ] 2026-01-05 [Rejection samplingについてわかりやすく](https://zenn.dev/asap/articles/ebaf32c96b4f09) *(Zenn – トピック LLM)*
+- [ ] 2026-01-05 [機械学習エンジニアが解説するSpectral Signaturesによる数学的推論の検証方法とその実践効果](https://zenn.dev/yunisuta/articles/20260105-article-093618) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-05 [【数式解説】変分推論における ELBO の導出と直感的理解](https://zenn.dev/qoo/articles/f4558e3124a8ce) *(Zenn – トピック 機械学習)*
