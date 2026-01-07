@@ -6984,3 +6984,85 @@
 - [ ] 2026-01-07 [画像データセット収集の完全ガイド - Computer Vision開発者のための実践的手法](https://zenn.dev/datajournal1/articles/37d30a8b54769a) *(Zenn – トピック 機械学習)*
 - [ ] 2026-01-07 [AWS Neuron SDK 2.27.0 アップデート解説](https://zenn.dev/tosshi/articles/3dd527624f18bd) *(Zenn – トピック 機械学習)*
 - [ ] 2026-01-06 [世の中にある材料表面テクスチャデータのまとめ](https://zenn.dev/nakanishi1337/articles/d901bbb28bcf13) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-07T18:15:40.235Z
+- [ ] 2026-01-07 [Commons women and equalities committee to stop using X amid AI-altered images row](https://www.theguardian.com/technology/2026/jan/07/commons-women-equalities-committee-stop-using-x-ai-altered-grok-images) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-07 [Terrified Investors Are Bracing for an AI Bubble “Reckoning”](https://futurism.com/artificial-intelligence/investors-bracing-ai-bubble-reckoning) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-07 [“Microslop”: Infuriating Video Sums Up How Microsoft Is Ruining Windows With AI](https://futurism.com/artificial-intelligence/video-microsoft-ruining-windows-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-07 [Agentic AI scaling requires new memory architecture](https://www.artificialintelligence-news.com/news/agentic-ai-scaling-requires-new-memory-architecture/) *(Artificial Intelligence News)*
+- [ ] 2026-01-07 [Optimism for AI-powered productivity: Deloitte](https://www.artificialintelligence-news.com/news/deloitte-survey-takes-cfo-and-it-temperature-around-technology-and-ai/) *(Artificial Intelligence News)*
+- [ ] 2026-01-07 [Another $20B in Funding for Musk's xAI, Despite Grok Controversy](https://aibusiness.com/data-centers/xai-new-funding-round-despite-grok-controversy) *(AI Business)*
+- [ ] 2026-01-07 [How facial recognition for bears can help ecologists manage wildlife](https://theconversation.com/how-facial-recognition-for-bears-can-help-ecologists-manage-wildlife-271371) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-07 [Singapore’s DayOne Raises $2B Funding for AI Infrastructure Ambitions](https://www.techrepublic.com/article/news-dayone-ai-funding/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-07 [Build Practical Cyber Defense Skills with This 5-Course Bundle](https://www.techrepublic.com/article/advanced-cybersecurity-master-class/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-07 [Vibe Code Reality Check: What You Can Actually Build with Only AI](https://www.kdnuggets.com/vibe-code-reality-check-what-you-can-actually-build-with-only-ai) *(KDnuggets)*
+- [ ] 2026-01-07 [Data Scientist vs AI Engineer: Which Career Should You Choose in 2026?](https://www.kdnuggets.com/data-scientist-vs-ai-engineer-which-career-should-you-choose-in-2026) *(KDnuggets)*
+- [ ] 2026-01-07 [Top 7 n8n Workflow Templates for Data Science](https://www.kdnuggets.com/top-7-n8n-workflow-templates-for-data-science) *(KDnuggets)*
+- [ ] 2026-01-07 [Discord Is Said to File Confidentially for IPO](https://www.bloomberg.com/news/videos/2026-01-07/discord-is-said-to-file-confidentially-for-ipo-video) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [AI21 Co-Founder Says Firm Held Early Talks With Nvidia, Others](https://www.bloomberg.com/news/articles/2026-01-07/ai21-co-founder-says-firm-held-early-talks-with-nvidia-others) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Cyber ‘Effects’ in Maduro Abduction Highlight Growing Part of US Arsenal](https://www.bloomberg.com/news/newsletters/2026-01-07/cyber-effects-in-maduro-abduction-highlight-growing-part-of-us-arsenal) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Humanoid Robots Pour Coffee, Fold Laundry at CES. Painfully Slowly](https://www.bloomberg.com/news/articles/2026-01-07/best-humanoid-robots-at-ces-2026) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Mobileye CEO on $900 Million Robot Startup Purchase](https://www.bloomberg.com/news/videos/2026-01-07/mobileye-ceo-on-900-million-robot-startup-purchase-video) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Samsung’s Rolling Ballie Robot Indefinitely Shelved After Delays](https://www.bloomberg.com/news/articles/2026-01-07/samsung-s-rolling-ballie-robot-indefinitely-shelved-after-delays) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Intel’s Comeback Bid Centers on New Processor Design](https://www.bloomberg.com/news/videos/2026-01-07/intel-s-comeback-bid-centers-on-new-processor-design-video) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Fintech Payhawk Seeks $2 Billion Valuation in Funding Round](https://www.bloomberg.com/news/articles/2026-01-07/fintech-payhawk-seeks-2-billion-valuation-in-new-funding-round) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Trump’s Greenland Bid Faces Long Odds in Prediction Markets](https://www.bloomberg.com/news/articles/2026-01-07/trump-s-greenland-bid-faces-long-odds-in-prediction-markets) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Bose Extends Support for Speakers After Customer Backlash](https://www.bloomberg.com/news/articles/2026-01-07/bose-extends-soundtouch-speaker-support-after-backlash) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [JPMorgan Replaces Proxy Advisers With AI for Voting US Shares](https://www.bloomberg.com/news/articles/2026-01-07/jpmorgan-replaces-proxy-advisers-with-ai-for-voting-us-shares) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Some ‘Stranger Things’ Fans Have Built an Elaborate Delusion Around a Secret ‘True’ Finale](https://gizmodo.com/stranger-things-5-conformity-gate-finale-2000706857) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [RFK Jr’s Food Pyramid Announcement Interrupted by His Quacking Ringtone](https://gizmodo.com/rfk-jrs-food-pyramid-announcement-interrupted-by-his-quacking-ringtone-2000706856) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Xgimi’s New AI-First Smart Glasses Will Come in Three Tiers](https://gizmodo.com/xgimis-new-ai-first-smart-glasses-will-come-in-three-tiers-2000706628) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Elon Musk’s xAI Just Raised $20 Billion While Grok Churns Out Sexual Deepfakes](https://gizmodo.com/elon-musks-xai-just-raised-20-billion-while-grok-churns-out-sexual-deepfakes-2000706818) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Do I Have the ‘Super Flu’? Here’s What You Need to Know](https://gizmodo.com/do-i-have-the-super-flu-heres-what-you-need-to-know-2000706754) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Jack Dorsey’s Bitchat Sees Downloads Spike in Uganda Over Internet Shutdown Worries](https://gizmodo.com/jack-dorseys-bitchat-sees-downloads-spike-in-uganda-over-internet-shutdown-worries-2000706828) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [The ‘Heated Rivalry’ Mystique Reference Is More Than Just a Movie Gag](https://gizmodo.com/heated-rivalry-rose-mystique-reference-xmen-lgbtq-2000706335) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Researchers Just Sampled 1.4-Billion-Year-Old Air—and It’s Not What They Expected](https://gizmodo.com/researchers-just-sampled-1-4-billion-year-old-air-and-its-not-what-they-expected-2000706812) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Sony Honda Mobility Still Needs to Deliver Its Game-Filled Afeela 1 EV, but Here’s a New Concept Car](https://gizmodo.com/sony-honda-mobility-still-needs-to-deliver-its-game-filled-afeela-1-ev-but-heres-a-new-concept-car-2000706776) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Authorities Investigating Gruesome Death of Whale Found on a Ship in New Jersey](https://gizmodo.com/authorities-investigating-gruesome-death-of-whale-found-on-a-ship-in-new-jersey-2000706750) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Climate Models Don’t Account for This Surprising Shift in the North Pacific Storm Track](https://gizmodo.com/climate-models-dont-account-for-this-surprising-shift-in-the-north-pacific-storm-track-2000706724) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [773,000-Year-Old Fossils Add a New Twist to Humanity’s Deep Origins](https://gizmodo.com/773000-year-old-fossils-add-a-new-twist-to-humanitys-deep-origins-2000705094) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Jack Black’s Biggest Regret in Life Is Turning Down Playing Syndrome in ‘The Incredibles’](https://gizmodo.com/the-incredibles-jack-black-syndrome-brad-bird-turned-down-role-2000706774) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Utah Becomes First State to Let AI Prescribe Medication](https://gizmodo.com/utah-becomes-first-state-to-let-ai-prescribe-medication-2000706729) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Xthings Is Making a Narc Pole](https://gizmodo.com/xthings-is-making-a-narc-pole-2000705769) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [The Year Ahead in Movies](https://gizmodo.com/the-year-ahead-in-movies-2026-2000705746) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Xthings’ New Ultraloq Smart Lock Doesn’t Care What Your Phone Brand Is](https://gizmodo.com/xthings-new-ultraloq-smart-lock-doesnt-care-what-your-phone-brand-is-2000705751) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Belkin Now Has an Even Better Switch 2 Charging Case](https://gizmodo.com/belkin-now-has-an-even-better-switch-2-charging-case-2000706639) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Another Familiar Face Might Take the Long Away Round to ‘Avengers: Doomsday’](https://gizmodo.com/chris-pratt-avengers-doomsday-vision-quest-star-lord-2000706396) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [These robotic sneakers gave me a surprising boost at CES](https://www.engadget.com/wearables/these-robotic-sneakers-gave-me-a-surprising-boost-at-ces-174500005.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Spotify now lets you share what you’re listening to in real time via chat](https://www.engadget.com/entertainment/music/spotify-now-lets-you-share-what-youre-listening-to-in-real-time-via-chat-173749120.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [IKEA's first CES appearance included a $6 Matter smart bulb](https://www.engadget.com/home/smart-home/ikeas-first-ces-appearance-included-a-6-matter-smart-bulb-172623474.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Samsung says RAM costs will likely lead to price hikes soon](https://www.engadget.com/ai/samsung-says-ram-costs-will-likely-lead-to-price-hikes-soon-170653524.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Nosh is an AI cooking robot for the meal prep crowd](https://www.engadget.com/home/kitchen-tech/nosh-is-an-ai-cooking-robot-for-the-meal-prep-crowd-170000610.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [17 CES gadgets you can buy right now](https://www.engadget.com/17-ces-gadgets-you-can-buy-right-now-164325644.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Anker unveils a new lineup of chargers, docks and accessories at CES 2026](https://www.engadget.com/computing/accessories/anker-unveils-a-new-lineup-of-chargers-docks-and-accessories-at-ces-2026-160021025.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [At CES 2026, Sony Honda Mobility's latest Afeela 1 still feels woefully out of date](https://www.engadget.com/transportation/evs/at-ces-2026-sony-honda-mobilitys-latest-afeela-1-still-feels-woefully-out-of-date-163513001.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Roblox now requires age verification to use in-game chat](https://www.engadget.com/gaming/roblox-now-requires-age-verification-to-use-in-game-chat-163213512.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [WhatsApp upgrades group chats with member tags and text stickers](https://www.engadget.com/apps/whatsapp-upgrades-group-chats-with-member-tags-and-text-stickers-161420141.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Eyebot promises an accurate vision test in a couple of minutes](https://www.engadget.com/general/eyebot-promises-an-accurate-vision-test-in-a-couple-of-minutes-160000184.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Switchbot came to CES with a laundry robot you might actually be able to buy](https://www.engadget.com/home/smart-home/switchbot-came-to-ces-with-a-laundry-robot-you-might-actually-be-able-to-buy-153000025.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Lego Smart Play hands-on: Using Smart Brick technology to get kids to play together](https://www.engadget.com/entertainment/lego-smart-play-hands-on-using-smart-brick-technology-to-get-kids-to-play-together-133000740.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Throne, from the co-founder of Whoop, uses computer vision to study your poop](https://www.engadget.com/home/smart-home/throne-from-the-co-founder-of-whoop-uses-computer-vision-to-study-your-poop-150000606.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Boston Dynamics unveils production-ready version of Atlas robot at CES 2026](https://www.engadget.com/big-tech/boston-dynamics-unveils-production-ready-version-of-atlas-robot-at-ces-2026-234047882.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Apple's latest 25W MagSafe charger drops to only $30](https://www.engadget.com/deals/apples-latest-25w-magsafe-charger-drops-to-only-30-141707024.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [CES 2026 Day 1: The biggest tech news and gadgets you missed from the first official day of the show](https://www.engadget.com/big-tech/ces-2026-day-1-the-biggest-tech-news-and-gadgets-you-missed-from-the-first-official-day-of-the-show-144040174.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [WheelMove gives manual wheelchairs the power and height to handle rough terrain](https://www.engadget.com/transportation/wheelmove-gives-manual-wheelchairs-the-power-and-height-to-handle-rough-terrain-143000560.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Get a four-pack of AirTags for only $65 right now](https://www.engadget.com/deals/get-a-four-pack-of-airtags-for-only-65-right-now-202333162.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Warners Bros. Discovery board urges shareholders to reject amended Paramount bid](https://www.engadget.com/entertainment/streaming/warners-bros-discovery-board-urges-shareholders-to-reject-amended-paramount-bid-141513357.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Clear Drop is trying to do something about all those plastic bags under your sink](https://www.engadget.com/home/smart-home/clear-drop-is-trying-to-do-something-about-all-those-plastic-bags-under-your-sink-140000254.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [The base Kindle is on sale for $20 off right now](https://www.engadget.com/deals/the-base-kindle-is-on-sale-for-20-off-right-now-183302578.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Anker's new 45W Nano charger with smart display from CES is already $10 off](https://www.engadget.com/deals/ankers-new-45w-nano-charger-with-smart-display-from-ces-is-already-10-off-160707191.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Pick up the Apple Watch Series 11 while it's $100 off](https://www.engadget.com/deals/pick-up-the-apple-watch-series-11-while-its-100-off-154609513.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Klipsch Atlas HP-1 hands-on: A return to hi-fi headphones at CES 2026](https://www.engadget.com/audio/headphones/klipsch-atlas-hp-1-hands-on-a-return-to-hi-fi-headphones-at-ces-2026-130000415.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [How Tolan builds voice-first AI with GPT-5.1](https://openai.com/index/tolan) *(OpenAI News)*
+- [ ] 2026-01-07 [中国の病院でAlibabaのAIツール「PANDA」を使い18万枚のCTスキャン画像を再検査し医師が見落とした約24件の膵臓がんを発見](https://gigazine.net/news/20260107-alibaba-ai-panda-scan-cancer/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-07 [VSCodeとローカルLLM（gpt-oss120b）で和訳・RAGする - Qiita](https://qiita.com/segfo/items/ed8343e036a9f973c77d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-07 [Macでロジクール製品に問題発生。Logi Options+とG HUBの障害でカスタマイズ機能が全停止](https://pc.watch.impress.co.jp/docs/news/2076330.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [【資料公開】デイリースクラム Deep Dive](https://www.ryuzee.com/contents/blog/14608) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [楽天ペイ、「楽天キャッシュ」払いのポイント還元率を引き下げ](https://www.watch.impress.co.jp/docs/news/2076290.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [次世代核融合炉「SPARC」のAIデジタルツインを構築し商業化への取り組みが加速、Commonwealth Fusion SystemsがNVIDIA・シーメンスと提携へ](https://gigazine.net/news/20260107-cfs-nvidia-siemens-sparc/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [Windows 11、インストール画面はこれまでの3倍以上で広告だらけ](https://news.mynavi.jp/techplus/article/20260106-3926897/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [例の赤ぽっちがないThinkPad、新型が登場したぞ！](https://pc.watch.impress.co.jp/docs/news/event/2075879.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [Stream Deck内蔵ゲーミングキーボード、8,000Hzポーリングで性能も十分](https://pc.watch.impress.co.jp/docs/news/2076194.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [『Mac Fan』メディア新体制への移行のお知らせ](https://macfan.book.mynavi.jp/news/85836/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [Lenovo、ミニサイズの"おひつPC"「Yoga Mini i」](https://pc.watch.impress.co.jp/docs/news/event/2076054.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [ワンバンクアプリのLiquid Glass対応 - inSmartBank](https://blog.smartbank.co.jp/entry/liquid-glass) *(はてなブックマーク – IT 人気エントリ)*
