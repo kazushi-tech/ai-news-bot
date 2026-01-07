@@ -6928,3 +6928,59 @@
 - [ ] 2026-01-06 [内部アクセスと外部観察が出会うとき ―― 内省的認識と「三層恒常構造」をめぐるメモ](https://zenn.dev/tsumugiiori/articles/2fdd7ec54bf56d) *(Zenn – トピック LLM)*
 - [ ] 2026-01-06 [# コード書けない自分がAIでChrome拡張を6つ作った開発フロー](https://zenn.dev/ktg/articles/132441dc79fc17) *(Zenn – トピック AI)*
 - [ ] 2026-01-06 [活用と探索を実現するにはシンプルな推薦スコア設計をしよう](https://zenn.dev/samansa/articles/5f9fb64872bd30) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-07T12:19:42.266Z
+- [ ] 2026-01-07 [Grab brings robotics in-house to manage delivery costs](https://www.artificialintelligence-news.com/news/grab-brings-robotics-in-house-to-manage-delivery-costs/) *(Artificial Intelligence News)*
+- [ ] 2026-01-07 [We’re talking about AI all wrong. Here’s how we can fix the narrative](https://theconversation.com/were-talking-about-ai-all-wrong-heres-how-we-can-fix-the-narrative-272752) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-07 [Samsung Rises to New Highs With No End in Sight for Memory Crunch](https://www.bloomberg.com/news/newsletters/2026-01-07/samsung-rises-to-new-highs-with-no-end-in-sight-for-memory-crunch) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Lux Capital Raises $1.5 billion for Fund Focused on New Science, Defense](https://www.bloomberg.com/news/articles/2026-01-07/lux-capital-raises-1-5-billion-for-fund-focused-on-new-science-defense) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Musk’s Grok AI Generated Thousands of Undressed Images Per Hour on X](https://www.bloomberg.com/news/articles/2026-01-07/musk-s-grok-ai-generated-thousands-of-undressed-images-per-hour-on-x) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [China Reviews Meta’s $2 Billion Deal to Buy AI Startup Manus](https://www.bloomberg.com/news/articles/2026-01-07/china-reviews-meta-s-2-billion-deal-to-buy-ai-startup-manus) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Hedge Fund Enko Flags Africa Risks for 2026 After Dollar-Linked Boom Year](https://www.bloomberg.com/news/articles/2026-01-07/hedge-fund-enko-flags-africa-risks-for-2026-after-dollar-linked-boom-year) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Revolut in Talks to Buy Digital Bank FUPS for Turkey Debut](https://www.bloomberg.com/news/articles/2026-01-07/revolut-said-in-talks-to-buy-digital-bank-fups-for-turkey-debut) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Trump's Venezuela Oil Play; Saudi Opens Up Stock Market \| Horizons Middle East & Africa 1/7/2026](https://www.bloomberg.com/news/videos/2026-01-07/horizons-middle-east-and-africa-1-7-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [China Starts Anti-Dumping Probe Into Japan Chipmaking Material](https://www.bloomberg.com/news/articles/2026-01-07/china-starts-anti-dumping-probe-into-japan-chipmaking-material) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Bloomberg Tech: Asia CES Special 1/7/26](https://www.bloomberg.com/news/videos/2026-01-07/bloomberg-tech-asia-ces-special-1-7-26-video) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Futurum's Newman on CES and AI Tech Trends](https://www.bloomberg.com/news/videos/2026-01-07/futurum-s-newman-on-ces-and-ai-tech-trends-video) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Emma Stone Is Indignant You Would Think She Dared to Play Miss Piggy in the New ‘Muppets’ Movie](https://gizmodo.com/emma-stone-miss-piggy-movie-casting-jennifer-lawrence-muppets-2000706421) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Tesla May Be Prevented from Using the Name ‘Cybercab’](https://gizmodo.com/tesla-may-be-prevented-from-using-the-name-cybercab-2000706545) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Crypto Hardware Wallet Maker Ledger Impacted by Third-Party Data Breach](https://gizmodo.com/crypto-hardware-wallet-maker-ledger-impacted-by-third-party-data-breach-2000706407) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Philips Hue Will Soon Let Your Lights Work Together for Scenes](https://gizmodo.com/philips-hue-will-soon-let-your-lights-work-together-for-scenes-2000706444) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [MTV Rewind is a developer's tribute to 24/7 music video channels](https://www.engadget.com/entertainment/music/mtv-rewind-is-a-developers-tribute-to-247-music-video-channels-120000424.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Philips Hue 'SpatialAware' feature harmonizes all the lights in a room](https://www.engadget.com/home/smart-home/philips-hue-spatialaware-feature-harmonizes-all-the-lights-in-a-room-101843600.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [The best budgeting apps for 2025](https://www.engadget.com/apps/best-budgeting-apps-120036303.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [ホロライブ、カードゲームPVに「不適切な映像制作手法」　動画が非公開に　“AI利用疑惑”受け発覚](https://www.itmedia.co.jp/aiplus/articles/2601/07/news101.html) *(ITmedia AI＋)*
+- [ ] 2026-01-07 [AI時代を生き抜くための確かな情報の見極め方・探し方（60個の情報源付き）](https://tomoyukiarasuna.com/accuracy-of-info/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-07 [Gemini Nanoで変わるWebアプリ開発〜オンデバイスAIで実現した「プライバシー保護型リーンキャンバス支援ツール」｜Tably](https://note.com/tably/n/nd1b87eed618d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-07 [会社の登記変更書類をChatGPTにお願いして作ってもらって楽だなぁと思っていたが、提出したら法務局から「何もかも違うので作り直してください」と怒られた](https://togetter.com/li/2648757) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-07 [「SaaSのゴッドファーザー」、営業チームの大部分をAIエージェントに置き換えたと語る。「人間を採用するのはもう終わりだ」 \| Business Insider Japan](https://www.businessinsider.jp/article/2601godfather-of-saas-jason-lemkin-replace-humans-ai-agents-sales/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-07 [AIがバイナリを直接吐くようにはならない - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/01/07/111410) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-07 [一般的な大型トラックを自動運転車に変えるシステムの開発でKodiak AIが自動車部品メーカーのボッシュと協力](https://gigazine.net/news/20260106-kodiak-bosch-self-driving-truck/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-07 [Mac 環境構築2026](https://zenn.dev/mizchi/scraps/8b1f2789a94c43) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [京都でiPhoneが盗まれる→位置情報を確認したら、その後東京へ大移動… 最悪の事態を想定して警察署に行ったがどうしようもできず海外に持ち逃げされた話](https://togetter.com/li/2648779) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [東京都、中小企業向けにサイバーセキュリティ対策をまとめたガイドブックの最新版を無料配布中](https://internet.watch.impress.co.jp/docs/news/2076139.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [AI を使って優れた SQL を作成する: Text-to-SQL 手法の説明 \| Google Cloud 公式ブログ](https://cloud.google.com/blog/ja/products/databases/techniques-for-improving-text-to-sql) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [無料で高機能なデスクトップ録画ツールが公開 ～バンドルアプリや広告なし／「MiniTool Screen Recorder」](https://forest.watch.impress.co.jp/docs/news/2075702.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [ネコの腎臓病新薬、早ければ年内にも実用化へ　治験終了、4月には国に承認申請](https://www.itmedia.co.jp/news/articles/2601/07/news125.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [「とほほのWWW入門」作者・杜甫々さん “10年先を見据えた”プロジェクト管理術を語る (2/2)](https://ascii.jp/elem/000/004/364/4364476/2/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [Banana X プロンプトパターン集](https://furoku.github.io/bananaX/projects/infographic-evaluation/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [シヤチハタ、感熱紙の文字をなぞって消せるペン「ラべケシ」](https://www.watch.impress.co.jp/docs/news/2075634.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [【2026年1月版】Difyローカル版インストール方法](https://zenn.dev/ryjesse/articles/51b5ab69f603f9) *(Zenn – トピック LLM)*
+- [ ] 2026-01-07 [Gemini API キー取得 & 課金設定ガイド](https://zenn.dev/singularity/articles/2026-01-07-mulmocast-gemini-api) *(Zenn – トピック LLM)*
+- [ ] 2026-01-07 [Cursor vs VS Code vs Antigravity 結局どのエディタがいいの？](https://zenn.dev/mitsuo119/articles/90c5c99eb64bd9) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [【ターミネーター】生成AIはもう人間を支配しているのでは？](https://zenn.dev/zatsucat/articles/ff7e4b3ce3d977) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [3-①[AI][Kaggle][python]Kaggle入門(地理空間データ分析 1.最初の地図)](https://zenn.dev/rg687076/articles/4028c3853f6ebf) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [[サンプル社内資料Q&A AI] RAGの検索精度を上げるチャンク分割を実装してみた！](https://zenn.dev/tukiyubi/articles/a3360a39a546d4) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [有馬記念2025でAI予想は当たったのか？ - 競馬AI予想サービスの精度検証](https://zenn.dev/nomuraya/articles/arima-kinen-2025-ai-prediction-analysis) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [AIを『野放し』にしない！Antigravityを最強の相棒に変える『グローバルルール』設定術](https://zenn.dev/qinritukou/articles/antigravity-rule-example) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [Odoo開発を爆速化する「AI草案 × 人レビュー」実践パターン](https://zenn.dev/kazu_watanabe/articles/2707f5cd251d6c) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [Rust製軽量エディタZedでDev Containers + GitHub Copilot + Claude Code生活はじめました](https://zenn.dev/dyoshikawa/articles/zed-devcontainers-copilot-claudecode) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [AIを専門家パートナーに変える対話型プロンプト設計の完全ガイド](https://zenn.dev/nahisaho/books/d61dfe1245b09b) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [ソフトウェアエンジニアリングの終焉？ ── Anthropic社員が語る「AIとの共進化」の本質](https://zenn.dev/kibe/articles/b6626764a98363) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [最強??AI IDE Google Antigravity紹介](https://zenn.dev/sumasate_tec/articles/google-antigravity-usage) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [GeminiのGemと遊ぼう](https://zenn.dev/agent_grow/articles/29b96b5753da85) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [AI時代のリファクタリング──可読性の基準が変わり始めている](https://zenn.dev/y_takashi/articles/79366a2558228c) *(Zenn – トピック AI)*
+- [ ] 2026-01-06 [「何となくAIに投げる」を卒業しよう。ひとり社長が18人のAI組織図を作り、開発プロセスを構造化した話](https://zenn.dev/yunisuta/articles/20260105-211221) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [画像データセット収集の完全ガイド - Computer Vision開発者のための実践的手法](https://zenn.dev/datajournal1/articles/37d30a8b54769a) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-07 [AWS Neuron SDK 2.27.0 アップデート解説](https://zenn.dev/tosshi/articles/3dd527624f18bd) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-06 [世の中にある材料表面テクスチャデータのまとめ](https://zenn.dev/nakanishi1337/articles/d901bbb28bcf13) *(Zenn – トピック 機械学習)*
