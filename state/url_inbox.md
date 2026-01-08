@@ -7748,3 +7748,73 @@
 - [ ] 2026-01-08 [VS CodeにおけるGitHub Copilotカスタマイズ](https://zenn.dev/sloth255/articles/62cb0d57c7e96f) *(Zenn – トピック AI)*
 - [ ] 2026-01-08 [BorisがXのレス内で語ったClaude Codeの使い方](https://zenn.dev/beagle/articles/_0019_keypoints_from_responses_of_boris) *(Zenn – トピック AI)*
 - [ ] 2026-01-08 [不動産データスクレイピング活用事例 - SUUMO/HOME'S分析の実践ガイド](https://zenn.dev/datajournal1/articles/9fc679f9b20e77) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-08T18:14:01.021Z
+- [ ] 2026-01-08 [Officials piloting software to tackle deepfakes ahead of Scottish and Welsh elections](https://www.theguardian.com/technology/2026/jan/08/pilot-software-tackle-deepfakes-scottish-welsh-elections) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-08 [A rare joy at police station in Huyton  \| Brief letters](https://www.theguardian.com/society/2026/jan/08/a-rare-joy-at-police-station-in-huyton) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-08 [Hundreds of nonconsensual AI images being created by Grok on X, data shows](https://www.theguardian.com/technology/2026/jan/08/grok-x-nonconsensual-images) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-08 [People Are Using AI to Falsely Identify the Federal Agent Who Shot Renee Good](https://www.wired.com/story/people-are-using-ai-to-falsely-identify-the-federal-agent-who-shot-renee-good/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-08 [Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails](https://www.wired.com/story/google-ai-inbox-gmail/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-08 [“Dr AI, am I healthy?” 59% of Brits rely on AI for self-diagnosis](https://www.artificialintelligence-news.com/news/dr-ai-am-i-healthy-59-of-brits-rely-on-ai-for-self-diagnosis/) *(Artificial Intelligence News)*
+- [ ] 2026-01-08 [2026 to be the year of the agentic AI intern](https://www.artificialintelligence-news.com/news/agent-ai-as-the-intern-in-2026-prediction-by-nexos-ai/) *(Artificial Intelligence News)*
+- [ ] 2026-01-08 [Hyundai Reveals AI Robotics Roadmap at CES](https://aibusiness.com/intelligent-automation/hyundai-reveals-ai-robotics-roadmap-ces) *(AI Business)*
+- [ ] 2026-01-08 [Grok produces sexualized photos of women and minors for users on X – a legal scholar explains why it’s happening and what can be done](https://theconversation.com/grok-produces-sexualized-photos-of-women-and-minors-for-users-on-x-a-legal-scholar-explains-why-its-happening-and-what-can-be-done-272861) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-08 [Chemistry is stuck in the dark ages – ‘chemputation’ can bring it into the digital world](https://theconversation.com/chemistry-is-stuck-in-the-dark-ages-chemputation-can-bring-it-into-the-digital-world-272610) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2025-12-17 [Are we in an AI bubble? Ponzi schemes and financial bubbles: lessons from history](https://theconversation.com/are-we-in-an-ai-bubble-ponzi-schemes-and-financial-bubbles-lessons-from-history-272188) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-08 [Boltz Bags $28M Funding and Pfizer Partnership for Biomolecular AI Boost](https://www.techrepublic.com/article/news-boltz-pfizer-ai-deal/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-08 [Windows 11 26H1 to Debut This Spring, Exclusive to Snapdragon X2 PCs](https://www.techrepublic.com/article/news-windows-11-26h1-debut-snapdragon-x2/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-08 [Gmail Enters the Gemini Era With AI-Powered Inbox Overhaul](https://www.techrepublic.com/article/news-gmail-gemini-era/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-08 [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-01-08 [AI Will Not Deliver Enterprise Value Until We Let It Act](https://insideainews.com/2026/01/08/ai-will-not-deliver-enterprise-value-until-we-let-it-act/) *(insideBIGDATA)*
+- [ ] 2026-01-08 [Powerful Local AI Automations with n8n, MCP and Ollama](https://www.kdnuggets.com/powerful-local-ai-automations-with-n8n-mcp-and-ollama) *(KDnuggets)*
+- [ ] 2026-01-08 [10 Most Popular GitHub Repositories for Learning AI](https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai) *(KDnuggets)*
+- [ ] 2026-01-08 [Find Savings to Fund UK’s Digital ID Plan, Ministers Told](https://www.bloomberg.com/news/articles/2026-01-08/uk-government-asks-departments-to-make-savings-to-fund-id-plan) *(Bloomberg Technology)*
+- [ ] 2026-01-08 [Illegal Images Allegedly Made by Musk’s Grok, Watchdog Says](https://www.bloomberg.com/news/articles/2026-01-08/illegal-images-allegedly-made-by-musk-s-grok-watchdog-says) *(Bloomberg Technology)*
+- [ ] 2026-01-08 [China’s Humanoid Bots Were Everywhere at America’s Top Tech Show](https://www.bloomberg.com/news/articles/2026-01-08/china-s-humanoid-bots-were-everywhere-at-america-s-top-tech-show) *(Bloomberg Technology)*
+- [ ] 2026-01-08 [Why Are Cyberattacks on the Rise? What Can Be Done?](https://www.bloomberg.com/news/articles/2026-01-08/cyberattacks-how-china-and-russia-are-involved-and-how-ai-is-raising-threat) *(Bloomberg Technology)*
+- [ ] 2026-01-08 [UK’s Starmer Threatens Musk’s X With Action Over Child Images](https://www.bloomberg.com/news/articles/2026-01-08/uk-s-starmer-threatens-musk-s-x-with-action-over-child-images) *(Bloomberg Technology)*
+- [ ] 2026-01-08 [Alphabet Overtakes Apple, Becoming Second to Nvidia in Size](https://www.bloomberg.com/news/articles/2026-01-08/alphabet-overtakes-apple-becoming-second-to-nvidia-in-size) *(Bloomberg Technology)*
+- [ ] 2026-01-08 [AI Still Has a Lot of Questions to Answer](https://www.bloomberg.com/news/videos/2026-01-08/opinion-ai-still-has-a-lot-of-questions-to-answer-video) *(Bloomberg Technology)*
+- [ ] 2026-01-08 [China to Approve Nvidia H200 Purchases, Trump's Defense Spending Push \| The Opening Trade 1/8/2026](https://www.bloomberg.com/news/videos/2026-01-08/the-opening-trade-1-8-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-08 [Website Plays the Lottery Every Second, Puts the Pitiless Nature of Probability on Full Display](https://gizmodo.com/website-plays-the-lottery-every-second-winning-numbers-powerball-eurojackpot-2000707631) *(Gizmodo – Technology)*
+- [ ] 2026-01-08 [‘Freddy’s Dead’ Originally Ended With a New Freddy Krueger Emerging](https://gizmodo.com/freddys-dead-originally-ended-with-a-new-freddy-krueger-emerging-2000707594) *(Gizmodo – Technology)*
+- [ ] 2026-01-08 [Antarctica’s Oldest, Largest Iceberg Is Turning an Ominous Blue Color](https://gizmodo.com/antarcticas-oldest-largest-iceberg-is-turning-an-ominous-blue-color-2000707527) *(Gizmodo – Technology)*
+- [ ] 2026-01-08 [2026 Movie Anniversaries: All the Biggest Genre Movies Celebrating Milestones This Year](https://gizmodo.com/2026-movie-anniversaries-all-the-biggest-genre-movies-celebrating-milestones-this-year-2000705632) *(Gizmodo – Technology)*
+- [ ] 2026-01-08 [Google Just Stuffed a Bunch of New AI Into Your Gmail](https://gizmodo.com/google-just-stuffed-a-bunch-of-new-ai-into-your-gmail-2000707529) *(Gizmodo – Technology)*
+- [ ] 2026-01-08 [Tom Cruise Helped Shoot a Lightsaber Duel for ‘Star Wars: Starfighter’](https://gizmodo.com/star-wars-starfighter-tom-cruise-lightsaber-duel-2000707547) *(Gizmodo – Technology)*
+- [ ] 2026-01-08 [Ozempic Quitters Pay a Heavy Price, Research Shows](https://gizmodo.com/ozempic-quitters-pay-a-heavy-price-research-shows-2000707510) *(Gizmodo – Technology)*
+- [ ] 2026-01-08 [The New ‘Good Luck, Have Fun, Don’t Die’ Trailer Teases a Wacky Tech Apocalypse](https://gizmodo.com/good-luck-have-fun-dont-die-trailer-sam-rockwell-gore-verbinski-2000707525) *(Gizmodo – Technology)*
+- [ ] 2026-01-08 [Astronomers Discover Unusual Asteroid Spinning Faster Than Anything Its Size](https://gizmodo.com/astronomers-discover-unusual-asteroid-spinning-faster-than-anything-its-size-2000707371) *(Gizmodo – Technology)*
+- [ ] 2026-01-08 [NASA Postpones ISS Spacewalk Over Medical Issue, Considers Early Crew Return](https://gizmodo.com/nasa-postpones-iss-spacewalk-over-medical-issue-considers-early-crew-return-2000707453) *(Gizmodo – Technology)*
+- [ ] 2026-01-08 [Jessica Jones’ Return Could Lead to Her Own TV Show Again](https://gizmodo.com/jessica-jones-tv-show-daredevil-born-again-marvel-2000707052) *(Gizmodo – Technology)*
+- [ ] 2026-01-08 [On Friday the 13th This Year, Even Your Podcasts Can Kill You](https://gizmodo.com/undertone-movie-trailer-podcast-a24-2000707148) *(Gizmodo – Technology)*
+- [ ] 2026-01-08 [I can't get over this goofy, long-necked 'cyber pet' robot at CES](https://www.engadget.com/home/smart-home/i-cant-get-over-this-goofy-long-necked-cyber-pet-robot-at-ces-175900062.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [You can get a four-pack of Samsung SmartTag 2 trackers for just $45](https://www.engadget.com/deals/you-can-get-a-four-pack-of-samsung-smarttag-2-trackers-for-just-45-173936230.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [The GE Profile Smart Fridge stops you from buying too much kale](https://www.engadget.com/home/kitchen-tech/the-ge-profile-smart-fridge-stops-you-from-buying-too-much-kale-172433059.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [NASA delays spacewalk due to a 'medical concern' with a crew member](https://www.engadget.com/science/space/nasa-delays-spacewalk-due-to-a-medical-concern-with-a-crew-member-171900024.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [It took guts for Dell to admit its mistake, here's how XPS will make its big comeback in 2026](https://www.engadget.com/computing/laptops/it-took-guts-for-dell-to-admit-its-mistake-heres-how-xps-will-make-its-big-comeback-in-2026-233248065.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [Star Trek: Starfleet Academy deftly balances teen drama with intergalactic intrigue](https://www.engadget.com/entertainment/star-trek-starfleet-academy-deftly-balances-teen-drama-with-intergalactic-intrigue-170253808.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [Bose made the consumer friendly move to open source its SoundTouch speakers](https://www.engadget.com/audio/speakers/bose-made-the-consumer-friendly-move-to-open-source-its-soundtouch-speakers-163459024.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [All the tech and gadgets announced at CES 2026](https://www.engadget.com/general/all-the-tech-and-gadgets-announced-at-ces-2026-130124023.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [Dell unveils a massive 52-inch 6K ultrawide curved monitor at CES 2026](https://www.engadget.com/computing/dell-unveils-a-massive-52-inch-6k-ultrawide-curved-monitor-at-ces-2026-140024842.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [The gaming monitors that caught our eye at CES 2026](https://www.engadget.com/computing/accessories/the-gaming-monitors-that-caught-our-eye-at-ces-2026-130000433.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [The next Xbox Developer Direct showcase is on January 22](https://www.engadget.com/gaming/xbox/the-next-xbox-developer-direct-showcase-is-on-january-22-154444166.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [Nintendo reveals its first Switch 2 Joy-Con color variant](https://www.engadget.com/gaming/nintendo/nintendo-reveals-its-first-switch-2-joy-con-color-variant-142725414.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [Google's Pixel Buds Pro 2 earbuds are on sale for $165](https://www.engadget.com/deals/googles-pixel-buds-pro-2-earbuds-are-on-sale-for-165-193444985.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [19 CES gadgets you can buy right now](https://www.engadget.com/19-ces-gadgets-you-can-buy-right-now-164325541.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [Apple AirPods Pro 3 are back on sale at a record low price](https://www.engadget.com/deals/apple-airpods-pro-3-are-back-on-sale-at-a-record-low-price-140752004.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [CES 2026 Day 2: All of the coolest tech we saw on the show floor during the second day](https://www.engadget.com/big-tech/ces-2026-day-2-all-of-the-coolest-tech-we-saw-on-the-show-floor-during-the-second-day-134608348.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [ElevationLabs' 10-year extended battery case for AirTags is 30 percent off](https://www.engadget.com/deals/elevationlabs-10-year-extended-battery-case-for-airtags-is-30-percent-off-162308110.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [The weirdest tech we've seen at CES 2026 so far](https://www.engadget.com/the-weirdest-tech-weve-seen-at-ces-2026-so-far-134056504.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [Volvo's EX60 electric crossover promises 400 miles of EPA range](https://www.engadget.com/transportation/evs/volvos-ex60-electric-crossover-promises-400-miles-of-epa-range-130008964.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [Gmail is getting a Gemini AI overhaul](https://www.engadget.com/ai/gmail-is-getting-a-gemini-ai-overhaul-130000422.html?src=rss) *(Engadget)*
+- [ ] 2026-01-08 [ロボット研究仕切り直し、競争激化のヒューマノイド開発に一本化…日本の活路はどこか ニュースイッチ by 日刊工業新聞社](https://newswitch.jp/p/47997) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-08 [Opus 4.5 is going to change everything](https://burkeholland.github.io/posts/opus-4-5-change-everything/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-08 [Next.jsを採用するのをやめた理由・背景](https://zenn.dev/anatoo/articles/64c18865fc971c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [『Balatro』も採用したシンプルな2Dゲームフレームワーク「LÖVE」とは。エンジニア目線で魅力を解説｜ゲームメーカーズ](https://gamemakers.jp/article/2026_01_08_112338/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [アイ・オー、外付けHDDに録画したTV番組を保存できる「BDレコ」](https://av.watch.impress.co.jp/docs/news/2076676.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [iPhoneの日付変更で空き容量を確保する裏技は“厳禁”　実行してしまった場合の対処法は？](https://www.itmedia.co.jp/mobile/articles/2601/08/news101.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [【Windows裏ワザ解説】要件を満たさない古いPCでも最新バージョン「25H2」にアップグレード！ \| イチオシ \| ichioshi](https://ichioshi.smt.docomo.ne.jp/articles/limited/35447) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [“貼り付け禁止”を突破するアイデアアプリ「Typaste」／クリップボードのテキストをユーザーに代わり手入力、複雑なパスワードもお手の物【レビュー】](https://forest.watch.impress.co.jp/docs/review/2075557.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [NotebookLMは嘘の図しか描けないことが判明！ - 空飛ぶ教授のエコロジー日記](https://tet-yahara.hatenablog.com/entry/2026/01/04/232251) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [Stack Overflowの質問数が2025年12月時点で前年比78％減少、開発者がAIツールに切り替えた影響か](https://gigazine.net/news/20260108-stack-overflow-questions-drop/) *(はてなブックマーク – IT 人気エントリ)*
