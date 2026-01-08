@@ -7066,3 +7066,115 @@
 - [ ] 2026-01-07 [『Mac Fan』メディア新体制への移行のお知らせ](https://macfan.book.mynavi.jp/news/85836/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-07 [Lenovo、ミニサイズの"おひつPC"「Yoga Mini i」](https://pc.watch.impress.co.jp/docs/news/event/2076054.html) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-07 [ワンバンクアプリのLiquid Glass対応 - inSmartBank](https://blog.smartbank.co.jp/entry/liquid-glass) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-08T00:46:17.707Z
+- [ ] 2026-01-07 [AI chatbot maker Anthropic plans to raise $10bn to reach $350bn valuation](https://www.theguardian.com/technology/2026/jan/07/ai-anthropic-funding-valuation) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-07 [The Guardian view on granting legal rights to AI: humans should not give house-room to an ill-advised debate \| Editorial](https://www.theguardian.com/commentisfree/2026/jan/07/the-guardian-view-on-granting-legal-rights-to-ai-humans-should-not-give-house-room-to-an-ill-advised-debate) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-07 [Grok Is Generating Sexual Content Far More Graphic Than What's on X](https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-07 [AI Models Are Starting to Learn by Asking Themselves Questions](https://www.wired.com/story/ai-models-keep-learning-after-training-research/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-07 [National Weather Service Uses AI to Generate Forecasts, Accidentally Hallucinates Town With Dirty Joke Name](https://futurism.com/artificial-intelligence/national-weather-service-ai-hallucinates-town) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-07 [Dell Admits That Customers Are Disgusted by PCs Stuffed With AI Features](https://futurism.com/artificial-intelligence/dell-admits-customers-disgusted-pcs-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-07 [Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment](https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in) *(VentureBeat – AI)*
+- [ ] 2026-01-07 [Boston Dynamics Unveils Humanoid Robot Atlas at CES](https://aibusiness.com/robotics/boston-dynamics-unveils-humanoid-robot-atlas) *(AI Business)*
+- [ ] 2026-01-07 [Mobileye to Acquire Mentee Robotics in $900M Deal](https://aibusiness.com/intelligent-automation/mobileye-acquires-mentee-robotics) *(AI Business)*
+- [ ] 2026-01-07 [Inside China’s $10B Plan to Accelerate 50+ AI and Tech Initiatives](https://www.techrepublic.com/article/news-china-10b-plan-tech-initiatives-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-07 [900,000 Users Hit as Malicious Chrome Extensions Steal ChatGPT, DeepSeek Chats](https://www.techrepublic.com/article/news-900k-users-chrome-extensions-steal-chatgpt-deepseek-chats/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-07 [China’s OpenAI Rival Zhipu Debuts in HK After $558 Million IPO](https://www.bloomberg.com/news/articles/2026-01-07/china-s-openai-rival-zhipu-debuts-in-hk-after-558-million-ipo) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Samsung’s Profit Triples on Supercharged AI Memory Market](https://www.bloomberg.com/news/articles/2026-01-07/samsung-posts-record-profit-after-ai-supercharges-memory-market) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Traders and Refiners Eye Venezuelan Oil as US Plans Take Shape](https://www.bloomberg.com/news/articles/2026-01-07/traders-and-refiners-eye-venezuelan-oil-as-us-plans-take-shape) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Anduril Founder Says He Doesn't Oppose Defense Pay Caps](https://www.bloomberg.com/news/articles/2026-01-07/anduril-s-luckey-on-pay-caps-i-pay-myself-100-000-a-year) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Bloomberg Tech at CES \| Bloomberg Tech 1/7/2026](https://www.bloomberg.com/news/videos/2026-01-07/bloomberg-tech-1-7-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Inside Singapore’s AI Bootcamp to Retrain 35,000 Bankers](https://www.bloomberg.com/news/articles/2026-01-07/inside-singapore-s-ai-bootcamp-to-retrain-35-000-bankers) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Anthropic Raising $10 Billion at $350 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-07/anthropic-raising-10-billion-at-350-billion-value-wsj-says) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [AI Performance Relying More on Power Flow: Infineon CEO](https://www.bloomberg.com/news/videos/2026-01-07/ai-performance-relying-more-on-power-flow-infineon-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Warner Bros. Rejects Latest Paramount Bid](https://www.bloomberg.com/news/videos/2026-01-07/warner-bros-rejects-latest-paramount-bid-video-mk4erei4) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [OpenAI Unveils ChatGPT Health to Review Test Results, Diets](https://www.bloomberg.com/news/articles/2026-01-07/openai-unveils-chatgpt-health-to-review-test-results-diets) *(Bloomberg Technology)*
+- [ ] 2026-01-07 [Meet Your New Favorite ‘Game of Thrones’ Character in This ‘Knight of the Seven Kingdoms’ Featurette](https://gizmodo.com/meet-your-new-favorite-game-of-thrones-character-in-this-knight-of-the-seven-kingdoms-featurette-2000707042) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [OpenAI Launches ChatGPT Health, Wants Access to Your Medical Records](https://gizmodo.com/openai-launches-chatgpt-health-wants-access-to-your-medical-records-2000707024) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Disney’s Live-Action ‘Tangled’ Has Found Its Leads](https://gizmodo.com/disney-live-action-tangled-casting-rapunzel-2000707051) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Only 7% of Americans Want Their Next Car to Be Electric, Survey Finds](https://gizmodo.com/only-7-of-americans-want-their-next-car-to-be-electric-survey-finds-2000707031) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Stunning 25-Year Timelapse Shows a Supernova Tearing Through Deep Space](https://gizmodo.com/stunning-25-year-timelapse-shows-a-supernova-tearing-through-deep-space-2000706993) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Will 2026 Be the Year That the AI Industry Stops Crowing About ‘AGI’?](https://gizmodo.com/will-2026-be-the-year-that-the-ai-industry-stops-crowing-about-agi-2000707012) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [‘Frankenstein’ and ‘Sinners’ Get Screen Actors Guild Awards Love—’Andor,’ Not So Much](https://gizmodo.com/frankenstein-and-sinners-get-screen-actors-guild-awards-love-andor-not-so-much-2000706975) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Watch Live as NASA Astronauts Conduct Spacewalk to Prep the ISS for its Demise](https://gizmodo.com/watch-live-as-nasa-astronauts-conduct-spacewalk-to-prep-the-iss-for-its-demise-2000706341) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [MTV Is Officially Dead. It’s Time for Zombie MTV to Live in Your Browser](https://gizmodo.com/mtv-is-officially-dead-its-time-for-zombie-mtv-to-live-in-your-browser-2000706831) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [The Vision of 2026 in ‘Metropolis’ Is Spot On](https://gizmodo.com/the-vision-of-2026-in-metropolis-is-spot-on-2000706759) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [NASA Rockets Toward Artemis 2 Launch With Possible SLS Rollout Next Week](https://gizmodo.com/nasa-rockets-toward-artemis-2-launch-with-possible-sls-rollout-next-week-2000706996) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [NWS AI-Generated Weather Predictions Are Making Up New Towns](https://gizmodo.com/nws-ai-generated-weather-predictions-are-making-up-new-towns-2000706926) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Smart Glasses With ‘Pet Translation’ Smell Like Total BS](https://gizmodo.com/smart-glasses-with-pet-translation-smell-like-total-bs-2000706899) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Poison-Laced Arrows Date Back Tens of Thousands of Years Earlier Than Expected](https://gizmodo.com/poison-laced-arrows-date-back-tens-of-thousands-of-years-earlier-than-expected-2000706691) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [Our Latest Look at ‘The Mandalorian and Grogu’ Sure Is a Picture of the Mandalorian and Grogu](https://gizmodo.com/star-wars-mandalorian-and-grogu-image-at-at-2000706951) *(Gizmodo – Technology)*
+- [ ] 2026-01-07 [CES 2026: The Tone Outdoors T1 solved the biggest problem with leaf blowers](https://www.engadget.com/home/ces-2026-the-tone-outdoors-t1-solved-the-biggest-problem-with-leaf-blowers-234309500.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [JPMorgan Chase is taking over the Apple Card](https://www.engadget.com/big-tech/jpmorgan-chase-is-taking-over-the-apple-card-232711979.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Bluetti's Charger 2 uses solar and engine power to charge your portable battery](https://www.engadget.com/general/bluettis-charger-2-uses-solar-and-engine-power-to-charge-your-portable-battery-230000270.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Engadget Podcast: CES 2026 and the rocky year ahead for the PC industry](https://www.engadget.com/computing/engadget-podcast-ces-2026-and-the-rocky-year-ahead-for-the-pc-industry-221500019.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Samsung Display at CES 2026: Playful demos and mysterious prototypes](https://www.engadget.com/home/home-theater/samsung-display-ces-2026-playful-demos-and-mysterious-prototypes-220407696.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [This haptic wristband pairs with Meta smart glasses to decode facial expressions](https://www.engadget.com/wearables/this-haptic-wristband-pairs-with-meta-smart-glasses-to-decode-facial-expressions-214305431.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [ChatGPT is launching a new dedicated Health portal](https://www.engadget.com/ai/chatgpt-is-launching-a-new-dedicated-health-portal-210150083.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [How to use a VPN on iPhone](https://www.engadget.com/cybersecurity/vpn/how-to-use-a-vpn-on-iphone-201743118.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Character.AI and Google settle with families in teen suicide and self-harm lawsuits](https://www.engadget.com/ai/characterai-and-google-settle-with-families-in-teen-suicide-and-self-harm-lawsuits-201059912.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Fujifilm's latest Instax camera looks like a vintage Super 8](https://www.engadget.com/cameras/fujifilms-latest-instax-camera-looks-like-a-vintage-super-8-194537863.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [HP's new EliteBoard made me believe in keyboard computers again](https://www.engadget.com/computing/hps-new-eliteboard-made-me-believe-in-keyboard-computers-again-033000022.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [The Shine 2.0 is a compact wind turbine for your next camping trip](https://www.engadget.com/home/smart-home/the-shine-20-is-a-compact-wind-turbine-for-your-next-camping-trip-191000940.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [ASUS and XREAL teamed up at CES to make gaming smartglasses with two important upgrades](https://www.engadget.com/gaming/pc/asus-and-xreal-teamed-up-at-ces-to-make-gaming-smartglasses-with-two-important-upgrades-190500897.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Brunswick's latest boats at CES 2026 feature edge AI, self-docking capabilities and solar power](https://www.engadget.com/transportation/brunswicks-latest-boats-at-ces-2026-feature-edge-ai-self-docking-capabilities-and-solar-power-185500213.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Niko is a robotic lift for people with limited mobility that doesn't require a caregiver's help](https://www.engadget.com/transportation/niko-is-a-robotic-lift-for-people-with-limited-mobility-that-doesnt-require-a-caregivers-help-184500703.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Ubisoft is shutting down a studio 16 days after it unionized](https://www.engadget.com/gaming/ubisoft-is-shutting-down-a-studio-16-days-after-it-unionized-183000983.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [LG's CLOiD robot can fold laundry and serve food… very slowly](https://www.engadget.com/home/smart-home/lgs-cloid-robot-can-fold-laundry-and-serve-food-very-slowly-181902306.html?src=rss) *(Engadget)*
+- [ ] 2026-01-07 [Introducing ChatGPT Health](https://openai.com/index/introducing-chatgpt-health) *(OpenAI News)*
+- [ ] 2026-01-08 [アスクル、2カ月で物流システム再開　展開される2種類の攻撃検知できず](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/122401369/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [アンソロピックがMCPを寄贈　オープンAIらとAI新団体を設立](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/122401374/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [「AIに強いセキュリティー人材」が不足　日本はAIツールの導入遅く](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/122401372/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [EUが「デジタルオムニバス」　案複数の関連法を包括的に見直し](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/122401370/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [製品の劣化を高精度に推定　三菱電機がフィジカルAIの新技術](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/122401371/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [NECと住友ゴムが材料開発で協業　AIエージェントが探索期間を7割削減](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/122401373/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [伴走型セキュリティーサービス続々　「顧問」として企業を支える](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/122401375/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [ロボットの頭脳、フィジカルAIは「模倣学習＋強化学習」へ](https://xtech.nikkei.com/atcl/nxt/column/18/03431/121600010/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [黎明期から実用化前夜へ、開発競争が加熱　量子コンピューターの業界地図](https://xtech.nikkei.com/atcl/nxt/column/18/03426/122200012/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [自分と「似た属性の人が読んでいる記事」を知りたい](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00017/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [中国電力、火力発電所の運用をAIが支援　石炭混合比約4000通りから最適解](https://xtech.nikkei.com/atcl/nxt/column/18/00678/121700171/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [「真面目すぎる」日本企業、AI活用で後手を引きビジネスを潰さないか](https://xtech.nikkei.com/atcl/nxt/column/18/00849/00177/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [自分の「興味関心に沿った最新記事」を知りたい](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00014/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [興味のある分野をトップページに優先表示「パーソナライズ」](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00007/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [公開予定の特集記事を紹介「今後の注目特集」](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00008/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [注目された「重要な記事をキャッチアップ」したい](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00015/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [「雑誌のデジタル版」を読みたい](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00018/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [移動中や「すきま時間に情報収集」したい](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00016/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [改正建設業法や取適法施行、「適正な支払い」が建設業界を変える](https://xtech.nikkei.com/atcl/nxt/column/18/03431/121600009/) *(日経クロステック IT)*
+- [ ] 2026-01-08 [海外戦略の再構築を進めるNEC森田社長、従業員との対話集会続ける](https://xtech.nikkei.com/atcl/nxt/column/18/03454/122400004/) *(日経クロステック IT)*
+- [ ] 2026-01-07 [東京都港区、行政の電話窓口を“AI化”　効率化に向けて実証実験](https://www.itmedia.co.jp/enterprise/articles/2601/08/news039.html) *(ITmedia AI＋)*
+- [ ] 2026-01-07 [“管理しない店長”で最高年収2000万円!?　丸亀製麺「心的資本経営」の正体](https://www.itmedia.co.jp/business/articles/2601/08/news025.html) *(ITmedia AI＋)*
+- [ ] 2026-01-07 [日本企業のAI活用、経営層と現場で大きなギャップ　解決策は「導入前」にあり](https://www.itmedia.co.jp/business/articles/2601/08/news015.html) *(ITmedia AI＋)*
+- [ ] 2026-01-07 [OpenAI、健康支援機能「ChatGPT Health」発表　Apple「ヘルスケア」などと連携](https://www.itmedia.co.jp/aiplus/articles/2601/08/news052.html) *(ITmedia AI＋)*
+- [ ] 2026-01-07 [“音声入力は使えない”派が認めた「Aqua Voice」とは？　2026年、プログラミングの常識が変わる](https://atmarkit.itmedia.co.jp/ait/articles/2601/08/news009.html) *(ITmedia AI＋)*
+- [ ] 2026-01-08 [ChatGPTに絶対に共有してはいけない5つの情報を、専門家が警告。すでにしてしまった場合の対処法も紹介](https://www.huffingtonpost.jp/entry/story_jp_693fbd8ee4b0775c5077e079) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-08 [「カクヨム甲子園2025」受賞辞退のご報告 - カクヨムからのお知らせ](https://kakuyomu.jp/info/entry/koshien2025_jitai) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-08 [日本語特化の小型AIモデル「LFM2.5-1.2B-JP」を含むオンデバイス重視のオープンモデル「LFM2.5」シリーズが登場](https://gigazine.net/news/20260107-lfm2-5-on-device-ai/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-08 [動画生成AI「LTX-2」登場、ローカル動作するオープンモデルでNVIDIAによる「4K動画生成パイプライン」もあり](https://gigazine.net/news/20260107-ltx-2/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-08 [都営バスに「AI翻訳透明ディスプレイ」搭載実験　外国人客多い浅草で](https://www.itmedia.co.jp/news/articles/2601/07/news094.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-08 [AMD製グラボでの画像生成AIが爆速になるComfyUIアップデートが配信、ROCm統合で生成速度が5.4倍に](https://gigazine.net/news/20260107-amd-comfyui-rocm/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-08 [VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ](https://news.mynavi.jp/techplus/article/20260107-3931954/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [⌘英かな - Apple Silicon版](https://eikana.dominion525.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [雑誌「Mac Fan」定期刊行を終了へ　1993年の創刊から32年、「新しい形」に](https://www.itmedia.co.jp/news/articles/2601/07/news133.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [【危険】iPhone容量が一気に空く「2030年」小技が話題に！文鎮化リスクあり、絶対やめろ - すまほん!!](https://smhn.info/202601-iphone-tips) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [GLM-4.7で自宅コーディングエージェントが現実的に。日本語力も高く幅広く使える。 - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/01/06/235844) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [Qwen-Imageに日本語を書かせる - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/01/05/110344) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [「動画広告は最大5秒でスキップできるようにすること」をベトナムが義務化](https://gigazine.net/news/20260107-unskippable-ads-ban-in-vietnam/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [なぜクリーンアーキテクチャはドメインを守るのか](https://zenn.dev/okuda0715tech/articles/8fdbf699db0a7e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-08 [世界中のMacでロジクール製品に不具合　原因はアプリの“証明書の期限切れ” 　近日中に修正へ（更新あり）](https://www.itmedia.co.jp/pcuser/articles/2601/07/news135.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-07 [寝ている間にAIがコードを書いてくれるralph loopを簡単に試せるようにした](https://zenn.dev/syuya2036/articles/ralph-agent-loop) *(Zenn – トピック LLM)*
+- [ ] 2026-01-07 [Python×Rustで爆速・高機能なTTS Discord Botを作った話 (A.I.VOICE / VOICEVOX / LLM連携)](https://zenn.dev/shise/articles/f0ea41cb465280) *(Zenn – トピック LLM)*
+- [ ] 2026-01-07 [ソニー・ホンダ「アフィーラ」完全解説｜感情理解AIと次世代モビリティの全貌【2026年最新】](https://zenn.dev/headwaters/articles/e566e250e92c59) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [AIで作る業務動画 Day 8｜口パクデータの構造を理解してRemotionに組み込む](https://zenn.dev/akira_cloudjob/articles/20260108-mouth-cues-mapping) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [AI時代に「変わらなかった」エンジニアの話](https://zenn.dev/tan_go238/articles/7f8a4bf0da7355) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [【スーパー主観】農学部の大学生による2025年にテック界隈で 流行ってた気がするものTier](https://zenn.dev/hirose_suguru/articles/e7f12e90ca4331) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [# n8nでGitHub Release → 複数SNS自動投稿を構築した](https://zenn.dev/ktg/articles/38a2a9876aa3d4) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [【Laravel】Gemini API (1.5 Flash) でレシートを爆速OCRしてJSON化する方法](https://zenn.dev/nekologytm/articles/56a1a02444de8b) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [【Claude Code】Skills に入れるもの、入れないもの。判断基準を徹底解説](https://zenn.dev/tmasuyama1114/articles/cc_which_skills_docs) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [RunPod で Network volume に手早くモデルをダウンロードする](https://zenn.dev/mtsmfm/articles/ffbe5d2c14d384) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [Google Antigravity（第1回）: WSL勢が気になる「VS Code置き換え可否」と、まずはインストール](https://zenn.dev/yujmatsu/articles/20260107_google_antigravity) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [【毒舌注意】UIで全てが台無しになってるアプリを忖度0で鬼レビュー&リメイクしてみた【ものぐさ家計簿】](https://zenn.dev/yukapero/articles/a8220a1978d976) *(Zenn – トピック AI)*
+- [ ] 2026-01-07 [機械学習エンジニアが実践するLLMの数理的推論検証法と精度向上の効果](https://zenn.dev/yunisuta/articles/20260105-article-193904) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-07 [機械学習エンジニアがLLMの数学的推論能力を検証する方法と実際の効果](https://zenn.dev/yunisuta/articles/20260105-article-193355) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-07 [【データサイエンス】シグモイド（ロジスティック曲線）ってなに？](https://zenn.dev/nemdy/articles/e0b53c6298ce17) *(Zenn – トピック 機械学習)*
