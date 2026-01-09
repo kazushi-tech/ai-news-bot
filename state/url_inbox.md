@@ -8452,3 +8452,61 @@
 - [ ] 2026-01-09 [ゲーム開発者間で「このゲームエンジンでこんなゲームを作っている」紹介が大賑わい。Godot製ゲームも意外と多め、ゲームの見た目ショーケース続々 - AUTOMATON](https://automaton-media.com/articles/newsjp/20260109-401719/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-09 [SmartHR CRE が目指すところは "RevOps" にあり？ —— 『RevOpsの教科書』を読みました - SmartHR Tech Blog](https://tech.smarthr.jp/entry/2026/01/09/104046) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-09 [Markdownを単一ソースにしたタスク管理ツールをVite + React + Monacoで作ってみた](https://zenn.dev/dokusy/articles/deb24cfc1a9bd6) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-09T12:19:23.570Z
+- [ ] 2026-01-09 [X response to Grok sexualised images scandal ‘insulting’ to victims of misogyny, says No 10 – UK politics live](https://www.theguardian.com/politics/live/2026/jan/09/labour-pubs-disability-benefits-assisted-dying-defence-spending-farage-reform-latest-news-updates) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-09 [UK ministers considering leaving X amid concern over AI tool images](https://www.theguardian.com/technology/2026/jan/09/uk-ministers-anna-turley-considering-leaving-x-grok-sexualised-ai-images) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-09 [Grok turns off image generator for most users after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-09 [‘Physical AI’ Is Coming for Your Car](https://www.wired.com/story/physical-ai-is-coming-for-your-car/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-09 [Fake UK Council Posts Show the Power of AI Misinformation](https://www.techrepublic.com/article/news-uk-council-ai-misinformation/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-09 [Grok’s Image Generator Turns X Into a Deepfake Nudity Factory](https://www.bloomberg.com/news/newsletters/2026-01-09/grok-s-image-generator-turns-x-into-a-deepfake-nudity-factory) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Netflix Stock Is Pricey Even After Warner Bros.-Induced Selloff](https://www.bloomberg.com/news/articles/2026-01-09/netflix-stock-is-pricey-even-after-warner-bros-induced-selloff) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Meta Signs Multi-Gigawatt Nuclear Deals for AI Data Centers](https://www.bloomberg.com/news/articles/2026-01-09/meta-signs-multi-gigawatt-nuclear-deals-to-power-ai-data-centers) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [How AI Is Changing the Music Industry \| Bloomberg Tech: Europe 1/9/2026](https://www.bloomberg.com/news/videos/2026-01-09/ai-and-the-music-industry-bloomberg-tech-europe-video) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Defense Firm Vincorion Said to Eye IPO Soon as This Quarter](https://www.bloomberg.com/news/articles/2026-01-09/defense-firm-vincorion-said-to-eye-ipo-soon-as-the-first-quarter) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [The Startup Making Human Embryos With AI-Assisted Robots](https://www.bloomberg.com/news/features/2026-01-09/conceivable-wants-embryo-making-robots-to-transform-ivf-industry) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [will.i.am on AI, Music, Creative 'Renaissance'](https://www.bloomberg.com/news/videos/2026-01-09/will-i-am-on-ai-music-creative-renaissance) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [will.i.am: AI Heralds New 'Renaissance' for Creatives](https://www.bloomberg.com/news/videos/2026-01-09/will-i-am-ai-heralds-new-renaissance-for-creatives) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [EU AI Act is Toothless: ECSA President](https://www.bloomberg.com/news/videos/2026-01-09/eu-ai-act-is-toothless-ecsa-president-video) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [French Oil-Services Firm Viridien Mulls Selling Sensor Unit to Cut Debt](https://www.bloomberg.com/news/articles/2026-01-09/french-oil-services-firm-viridien-mulls-selling-sensor-unit-to-cut-debt) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Musk’s Grok Limits Image Generation to Paid Users on X](https://www.bloomberg.com/news/articles/2026-01-09/musk-s-grok-limits-image-generation-to-paid-users-on-x) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Music Problems Amplified by AI: AudioShake CEO](https://www.bloomberg.com/news/videos/2026-01-09/music-problems-amplified-by-ai-audioshake-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Chinese Robot Maker Inovance Is Said to Weigh Hong Kong Listing](https://www.bloomberg.com/news/articles/2026-01-09/chinese-robot-maker-inovance-is-said-to-weigh-hong-kong-listing) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Beatbot Announces Two New Smart Pool Cleaners and a Major Rebrand at CES 2026](https://gizmodo.com/beatbot-announces-two-new-smart-pool-cleaners-and-a-major-rebrand-at-ces-2026-2000704799) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [The Duffer Brothers Were Worried ‘Stranger Things’ Fans Had ‘Demogorgon Fatigue’ Before the Finale](https://gizmodo.com/the-duffer-brothers-were-worried-stranger-things-fans-had-demogorgon-fatigue-before-the-finale-2000707850) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Xbox is bringing Avowed to PS5](https://www.engadget.com/gaming/playstation/xbox-is-bringing-avowed-to-ps5-120000035.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [The 7 best cordless vacuums for 2026](https://www.engadget.com/home/smart-home/best-cordless-vacuum-130007125.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [デロイト、AIサービスに関連する規制を自動調査できるエージェントを開発](https://xtech.nikkei.com/atcl/nxt/news/24/03045/) *(日経クロステック IT)*
+- [ ] 2026-01-09 [ウェイモ、カメラ半減の新型自動運転車　車両は中国・吉利傘下「Zeekr」](https://xtech.nikkei.com/atcl/nxt/column/18/03455/010800012/) *(日経クロステック IT)*
+- [ ] 2026-01-09 [NVIDIA、ファンCEO「人間並みに賢いロボットが今年登場」　CES記者会見一問一答](https://xtech.nikkei.com/atcl/nxt/column/18/03455/010900016/) *(日経クロステック IT)*
+- [ ] 2026-01-09 [「Grok、この女性をビキニにして」無料ユーザーは不可能に　X、AI画像編集を一部有料化](https://www.itmedia.co.jp/aiplus/articles/2601/09/news105.html) *(ITmedia AI＋)*
+- [ ] 2026-01-09 [Cygames、画像生成AIのスペシャリストを募集　「サイゲのゲームをやりこんだ人物」など歓迎](https://www.itmedia.co.jp/aiplus/articles/2601/09/news101.html) *(ITmedia AI＋)*
+- [ ] 2026-01-09 [Attention再入門 is all you need](https://zenn.dev/mkj/articles/re-entry-attention_20251209) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-09 [しょうもない動画がSNSに投稿されるたびゲーマー達が「こんなゴミを作るために俺らはPCを買えなくなっている」と嘆いている](https://togetter.com/li/2649680) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-09 [生成AIがバイナリを書く未来は、来ないとは思うが、今も普通にできる](https://anond.hatelabo.jp/20260109125514) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-09 [動画生成AI「Wan」の公式スマホアプリが登場、無料でフルHDの動画を生成可能なので使ってみた](https://gigazine.net/news/20260109-wan-video-ai-ios-android/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-09 [ChatGPTは我が家の「食客」になった - シロクマの屑籠](https://p-shirokuma.hatenadiary.com/entry/20260109/1767926234) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-09 [中学生とのわいせつ動画AV制作し販売容疑　芸能会社長を逮捕：朝日新聞](https://www.asahi.com/articles/ASV183WN5V18UTIL01CM.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-09 [コードを書く仕事がなくなる｜gaijineers](https://note.com/gaijineers/n/n35e55d97aeb8) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-09 [「毎秒3万回振動する包丁」でトマトを切ってみた　普通の包丁との違いは？](https://japan.cnet.com/article/35242499/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [ミソジニーって本当に湧いてるの？AIに聞いてみました。](https://anond.hatelabo.jp/20260109184703) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [スマレジ、外部アプリベンダーから会員情報漏えい](https://www.itmedia.co.jp/news/articles/2601/09/news095.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [テックブログのネタ探し入門](https://zenn.dev/kakakakakku/books/tech-blog-ideas) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [Claude Code on the Webでghコマンドを使う](https://zenn.dev/oikon/articles/claude-code-web-gh-cli) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [Intelの新CPU「Core Ultra Series 3」の「Xe3 GPU」は，なぜ理論性能値を覆すほど高性能なのか？　実機でもRadeon 890Mを上回る](https://www.4gamer.net/games/912/G091273/20260109066/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [電子契約システム「契約大臣」のMCPサーバーを公開しました](https://zenn.dev/teradox_blog/articles/b15d7f30d239aa) *(Zenn – トピック LLM)*
+- [ ] 2026-01-09 [Polaris-Next v5.3   ― 迎合と幻覚を「減算」で排除するAI設計と最小検証モデル ―](https://zenn.dev/dosanko_tousan/articles/83e162cd000a4b) *(Zenn – トピック LLM)*
+- [ ] 2026-01-09 [【実務向け】AI（LLM）をWeb開発に安全かつ本気で組み込む設計・実装・運用のベストプラクティス](https://zenn.dev/michiotooi/articles/b00fc8ca6ae4c6) *(Zenn – トピック LLM)*
+- [ ] 2026-01-09 [プロンプト途中で賢く検索するテクニック — Active RAG手法 FLARE の実践イメージ](https://zenn.dev/lluminai_tech/articles/f408b63083e09f) *(Zenn – トピック LLM)*
+- [ ] 2026-01-09 [AIによるプログラマ大量失業の個人的理解](https://zenn.dev/quesera2/articles/38e470faa32de0) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [AIトレーニングデータプロバイダー7社徹底比較 - 機械学習プロジェクトに最適なサービスの選び方](https://zenn.dev/datajournal1/articles/3093be48002f2d) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [CES 2026で語られたCosmos - Physical AIプラットフォーム](https://zenn.dev/oggata/articles/262990b2969776) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [落とし物検索システム研究ログ](https://zenn.dev/ten0728/articles/otoshimonokensakushisutemu) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [Google Deepmind発の次世代AIコーディングアシスタント「Antigravity」とは](https://zenn.dev/oasys/articles/7272b985291426) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [アーキテクチャConferenceに行ってきました](https://zenn.dev/oasys/articles/c18f3bdd4ec3a7) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [Cursorルールをカリカリにチューニング！爆速コーディング環境の作り方](https://zenn.dev/jabo_sack/articles/cursor-rules-optimization) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [「論理は静止画ではない、ベクトルである」——圏論的思考OS "Vector-Topos-Protocol" の提案](https://zenn.dev/vector_topos/articles/5f60c93e80cdc2) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [AI時代のソフトウェアエンジニア生存戦略：2026年に求められる「π型スキルセット」とは](https://zenn.dev/agenticai_flow/articles/ai-era-software-engineer-survival-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [AI Agent Computer Use徹底解説 - GUI操作による自動化の次世代](https://zenn.dev/agenticai_flow/articles/ai-agent-computer-use-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [バイブコーディングで「動くけど理解できない」問題にぶつかった話と、自分なりの解決策](https://zenn.dev/wb_shmuel/articles/0f5ebae143bf46) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [ROC/PR曲線の前に：混同行列と評価指標をざっくり整理（第1回）](https://zenn.dev/okun/articles/5fa3ebc5ce9110) *(Zenn – トピック 機械学習)*
