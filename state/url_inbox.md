@@ -8510,3 +8510,74 @@
 - [ ] 2026-01-09 [AI Agent Computer Use徹底解説 - GUI操作による自動化の次世代](https://zenn.dev/agenticai_flow/articles/ai-agent-computer-use-guide) *(Zenn – トピック AI)*
 - [ ] 2026-01-09 [バイブコーディングで「動くけど理解できない」問題にぶつかった話と、自分なりの解決策](https://zenn.dev/wb_shmuel/articles/0f5ebae143bf46) *(Zenn – トピック AI)*
 - [ ] 2026-01-09 [ROC/PR曲線の前に：混同行列と評価指標をざっくり整理（第1回）](https://zenn.dev/okun/articles/5fa3ebc5ce9110) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-09T18:15:19.594Z
+- [ ] 2026-01-09 [What fashion trends will follow us into 2026? \| Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2026/jan/10/what-fashion-trends-will-follow-us-into-2026) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-09 [No 10 condemns ‘insulting’ move by X to restrict Grok AI image tool](https://www.theguardian.com/technology/2026/jan/09/no-10-condemns-move-by-x-to-restrict-grok-ai-image-creation-tool-as-insulting) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-09 [Grok is undressing women and children. Don’t expect the US to take action \| Moira Donegan](https://www.theguardian.com/commentisfree/2026/jan/09/grok-undressing-women-children-us-action) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-09 [Stanford’s AI spots hidden disease warnings that show up while you sleep](https://www.sciencedaily.com/releases/2026/01/260109023114.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-01-09 [X Didn’t Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-09 [OpenAI Launches ChatGPT Health, Which Ingests Your Entire Medical Records, But Warns Not to Use It for “Diagnosis or Treatment”](https://futurism.com/artificial-intelligence/chatgpt-health-medical-records-diagnosis) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-09 [New AI Device Pours Alcohol Directly Into the Void Where Your Soul Should Be](https://futurism.com/artificial-intelligence/cocktail-machine-ai-ces) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-09 [Datadog: How AI code reviews slash incident risk](https://www.artificialintelligence-news.com/news/datadog-how-ai-code-reviews-slash-incident-risk/) *(Artificial Intelligence News)*
+- [ ] 2026-01-09 [The future of personal injury law: AI and legal tech in Philadelphia](https://www.artificialintelligence-news.com/news/the-future-of-personal-injury-law-ai-and-legal-tech-in-philadelphia/) *(Artificial Intelligence News)*
+- [ ] 2026-01-09 [Autonomy without accountability: The real AI risk](https://www.artificialintelligence-news.com/news/autonomy-without-accountability-the-real-ai-risk/) *(Artificial Intelligence News)*
+- [ ] 2026-01-09 [From cloud to factory – humanoid robots coming to workplaces](https://www.artificialintelligence-news.com/news/from-cloud-to-factory-humanoid-robots-coming-to-workplaces/) *(Artificial Intelligence News)*
+- [ ] 2026-01-09 [Siemens Unveils Tech Pipeline to Accelerate Industrial AI](https://aibusiness.com/industrial-manufacturing/siemens-unveils-tech-pipeline-for-industrial-ai) *(AI Business)*
+- [ ] 2026-01-09 [Humanoid robots or human connection? What Elon Musk’s Optimus reveals about our AI ambitions](https://theconversation.com/humanoid-robots-or-human-connection-what-elon-musks-optimus-reveals-about-our-ai-ambitions-269757) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-09 [Mistral AI Wins French Military Deal](https://www.techrepublic.com/article/news-mistral-french-military-ai-deal/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-09 [Fiserv Taps Microsoft for AI-Fueled Fintech Innovation](https://www.techrepublic.com/article/news-fiserv-microsoft-ai-fintech-deal/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-09 [Snowflake to Acquire AI-Powered Observability Outfit Observe](https://www.techrepublic.com/article/news-snowflake-buys-observe/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-08 [How AI Accelerates PMUT Design for Biomedical Ultrasonic Applications](https://content.knowledgehub.wiley.com/quanscient-multiphysicsai-for-pmut-design/) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-01-09 [5 Useful Python Scripts to Automate Data Cleaning](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-data-cleaning) *(KDnuggets)*
+- [ ] 2026-01-09 [Take-Two Falls on ‘Grand Theft Auto VI’ Delay Misinformation](https://www.bloomberg.com/news/newsletters/2026-01-09/take-two-falls-on-grand-theft-auto-vi-delay-misinformation) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Apple Shares on Pace to Match Longest Losing Streak Since 1991](https://www.bloomberg.com/news/articles/2026-01-09/apple-shares-on-pace-to-match-longest-losing-streak-since-1991) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Oklo and Vistra Shares Surge as Meta Turns to Nuclear Power for AI](https://www.bloomberg.com/news/articles/2026-01-09/oklo-vistra-shares-surge-as-meta-turns-to-nuclear-power-for-ai) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Health-Tracking Toothbrushes, Mouth Guards Lure Consumers With Audacious Claims](https://www.bloomberg.com/news/articles/2026-01-09/health-tracking-toothbrushes-mouth-guards-made-audacious-claims-at-ces-2026) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Meta Signs Multi-Gigawatt Nuclear Deals to Power AI Data Centers](https://www.bloomberg.com/news/videos/2026-01-09/meta-signs-series-of-nuclear-deals-for-ai-data-centers-video) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Andreessen Horowitz Raises $15 Billion in Its Largest-Ever Funding](https://www.bloomberg.com/news/articles/2026-01-09/andreessen-horowitz-raises-15-billion-in-its-largest-ever-funding) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [European Sectors to Watch Ahead of Supreme Court Tariff Ruling](https://www.bloomberg.com/news/articles/2026-01-09/european-sectors-to-watch-ahead-of-supreme-court-tariff-ruling) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Traders Watch for US Tariff Supreme Court Ruling & Payrolls Report \| The Opening Trade 1/9/2026](https://www.bloomberg.com/news/videos/2026-01-09/the-opening-trade-1-9-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [This Ludicrously Light Headset Restored My Passion for VR](https://gizmodo.com/this-ludicrously-light-headset-restored-my-passion-for-vr-2000708053) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Why Are Federal Agents Using GoPros, Smart Glasses, and Phones to Record Us?](https://gizmodo.com/why-are-federal-agents-using-gopros-smart-glasses-and-phones-to-record-us-2000707835) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Iconic Hubble Telescope Could Be Dead in 3 Years](https://gizmodo.com/iconic-hubble-telescope-could-be-dead-in-3-years-2000708044) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [‘Black Mirror’ Will Bring More Dystopia to Our Dystopia With Season 8](https://gizmodo.com/black-mirror-will-bring-more-dystopia-to-our-dystopia-with-season-8-2000708106) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [NASA Orders ISS Medical Evacuation—but Here’s the Real Surprise](https://gizmodo.com/nasa-orders-iss-medical-evacuation-but-heres-the-real-surprise-2000708096) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Elon Musk Moves to Monetize Grok Deepfake Abuse, UK Calls It Insulting](https://gizmodo.com/elon-musk-moves-to-monetize-grok-deepfake-abuse-uk-calls-it-insulting-2000708064) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Woman Visits the Galápagos and All She Got Was This Exotic Eye Parasite](https://gizmodo.com/woman-visits-the-galapagos-and-all-she-got-was-this-exotic-eye-parasite-2000708043) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [The Year Ahead in Horror](https://gizmodo.com/horror-movies-tv-shows-2026-preview-2000705076) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Illicit Crypto Flows Climbed to $154 Billion in 2025 as Nation States Evade Sanctions, Report Finds](https://gizmodo.com/illicit-crypto-flows-climbed-to-154-billion-in-2025-as-nation-states-evade-sanctions-report-finds-2000708055) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Discovery of Oldest Known Cremation in Africa Sparks Archaeological Mystery](https://gizmodo.com/discovery-of-oldest-known-cremation-in-africa-sparks-archaeological-mystery-2000708054) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [New Documentary ‘Starman’ Asks the Big Question: Are We Alone in the Universe? (Exclusive)](https://gizmodo.com/new-documentary-starman-asks-the-big-question-are-we-alone-in-the-universe-exclusive-2000707667) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [There’s Even More Rumors About Sebastian Stan’s ‘The Batman, Part II’ Role](https://gizmodo.com/batman-part-ii-sebastian-stan-two-face-dc-2000707847) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [‘Tangled’ Casts Its Villain, and It Was Agatha All Along](https://gizmodo.com/tangled-casts-its-villain-and-it-was-agatha-all-along-2000707887) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [ExpressVPN two-year plans are up to 78 percent off right now](https://www.engadget.com/deals/expressvpn-two-year-plans-are-up-to-78-percent-off-right-now-180602025.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [CES: So very big, so little sustainability tech](https://www.engadget.com/science/ces-so-very-big-so-little-sustainability-tech-180000648.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [CES 2026 proved the PC industry is hosed this year](https://www.engadget.com/computing/ces-2026-proved-the-pc-industry-is-hosed-this-year-174500314.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [The Clicks co-founder explains who its tiny Communicator phone is for](https://www.engadget.com/mobile/the-clicks-co-founder-explains-who-its-tiny-communicator-phone-is-for-170000501.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [Meta announces a slew of nuclear energy agreements](https://www.engadget.com/ai/meta-announces-a-slew-of-nuclear-energy-agreements-165337159.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [CES 2026 offered a lonely vision of the future](https://www.engadget.com/ces-2026-offered-a-lonely-vision-of-the-future-160000993.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [This Apple 25W MagSafe charger is on sale for only $30](https://www.engadget.com/deals/this-apple-25w-magsafe-charger-is-on-sale-for-only-30-141707593.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [Sharpa's ping-pong playing, blackjack dealing humanoid is working overtime at CES 2026](https://www.engadget.com/ai/sharpas-ping-pong-playing-blackjack-dealing-humanoid-is-working-overtime-at-ces-2026-150000488.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [The new Anker 45W Nano charger with smart display from CES is $10 off already](https://www.engadget.com/deals/the-new-anker-45w-nano-charger-with-smart-display-from-ces-is-10-off-already-160707620.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [AirTag deal: Get four of the Bluetooth trackers for only $65](https://www.engadget.com/deals/airtag-deal-get-four-of-the-bluetooth-trackers-for-only-65-202333516.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [NASA is ending Crew-11 astronauts' mission a month early](https://www.engadget.com/science/space/nasa-is-ending-crew-11-astronauts-mission-a-month-early-140000750.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [Dolby Vision 2 is coming this year, here’s what you need to know](https://www.engadget.com/home/home-theater/dolby-vision-2-is-coming-this-year-heres-what-you-need-to-know-140000034.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [Amazon's Kindle is $20 off right now](https://www.engadget.com/deals/amazons-kindle-is-20-off-right-now-183302861.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [CES 2026 Day 3: The most interesting tech that's still on the show floor](https://www.engadget.com/big-tech/ces-2026-day-3-the-most-interesting-tech-thats-still-on-the-show-floor-134724231.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [The Apple Watch Series 11 is on sale for a record-low price](https://www.engadget.com/deals/the-apple-watch-series-11-is-on-sale-for-a-record-low-price-154609244.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [Kia's budget EV2 arrives with up to 240 miles of range](https://www.engadget.com/transportation/evs/kias-budget-ev2-arrives-with-up-to-240-miles-of-range-130038144.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [Spotify is no longer running ads for ICE](https://www.engadget.com/entertainment/streaming/spotify-is-no-longer-running-ads-for-ice-130000672.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [Lego is trying to make tech invisible with Smart Play](https://www.engadget.com/entertainment/lego-is-trying-to-make-tech-invisible-with-smart-play-130000979.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [Datadog uses Codex for system-level code review](https://openai.com/index/datadog) *(OpenAI News)*
+- [ ] 2026-01-09 [ソフトバンク「エッジAI」高速通信網、26年から整備　基地局にエヌビディアGPUで自動運転・ロボット普及に道 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC084BI0Y5A700C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-09 [エージェントスキルに対応した「Visual Studio Code」v1.108が公開 ～2025年12月更新／追加すれば汎用AIモデルが専門家に、内蔵ターミナルはカスタムグリフ対応を拡充](https://forest.watch.impress.co.jp/docs/news/2076969.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-09 [AI社会を風刺する“ほぼ生成AI”製のMVが急上昇　影ぼうの楽曲「開拓者」に注目](https://kai-you.net/article/94314) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-09 [レグザブルーレイ全製品の生産完了。今後は「市場の状況を鑑み判断」](https://av.watch.impress.co.jp/docs/news/2077050.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [都会のたぬきは人間がいるとき、うんちを我慢しているかもしれない　東京農工大](https://www.itmedia.co.jp/news/articles/2601/09/news106.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [Bose、サポート終了のスマートスピーカーで神対応。オープンソース化で継続利用が可能に【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2076772.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [Linus、「AIツールはただのツール」とあらためて強調 \| gihyo.jp](https://gihyo.jp/article/2026/01/daily-linux-260109) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [コーディングを手伝ってくれるネコが欲しい人のためのプログラミング言語「PURRTRAN」が登場、ちゃんと世話しないと死んでしまうアシスタントキャットと一緒にコーディング](https://gigazine.net/news/20260109-purrtran/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [ありとあらゆる方法で予定を柔軟に表示し自分に最適な使い方ができるスケジュール・タスク管理アプリ「ScheduleNote」実際に使ってみたよレビュー、写真・画像・ボイスメモも日付へ簡単に紐付け可能](https://gigazine.net/news/20260109-schedulenote/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [VPNを廃止しても「サイバー攻撃被害がなくならない」本当の理由 \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/87454) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [スマホ型カラーE Ink端末「BOOX Palma 2 Pro」の表示性能は一般的なスマホとどう違う？【山口真弘のおすすめ読書タブレット比較】](https://forest.watch.impress.co.jp/docs/bookwatch/tabletrecom/2076336.html) *(はてなブックマーク – IT 人気エントリ)*
