@@ -8652,3 +8652,46 @@
 - [ ] 2026-01-09 [Claude Code サブエージェントで開発を加速する：基礎から実践まで](https://zenn.dev/katsuhisa_/articles/claude-code-subagents-guide) *(Zenn – トピック AI)*
 - [ ] 2026-01-09 [[2026年1月9日] AGIに至るコーディングエージェント、そして (週刊AI)](https://zenn.dev/carenet/articles/aa7c8289296968) *(Zenn – トピック AI)*
 - [ ] 2026-01-09 [年間500万円以上のコスト削減を実現したのに、どこかむなしいのはなぜか](https://zenn.dev/zenn_mita/articles/bd54d81c4dab31) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-10T12:16:17.742Z
+- [ ] 2026-01-10 [AI bubble: five things you need to know to shield your finances from a crash](https://www.theguardian.com/money/2026/jan/10/ai-bubble-finances-crash-tech-meltdown-savings-pensions) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-10 [OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents](https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-10 [Elon Musk’s Grok AI Blocked in Indonesia Over Sexualized Content](https://www.bloomberg.com/news/articles/2026-01-10/elon-musk-s-grok-ai-blocked-in-indonesia-over-sexualized-content) *(Bloomberg Technology)*
+- [ ] 2026-01-10 [China Tightens Oversight of Personal Data Gathering on Internet](https://www.bloomberg.com/news/articles/2026-01-10/china-tightens-oversight-of-personal-data-gathering-on-internet) *(Bloomberg Technology)*
+- [ ] 2026-01-10 [Roborock’s Iconic Wet and Dry Vacuums at Nearly 40% Off to Start Year Right](https://gizmodo.com/roborocks-iconic-wet-and-dry-vacuums-at-nearly-40-off-to-start-year-right-2000706304) *(Gizmodo – Technology)*
+- [ ] 2026-01-10 [Burikaigi 2026で「チームで安全にClaude Codeを利用するためのプラクティス」というタイトルで登壇しました！ #burikaigi \| DevelopersIO](https://dev.classmethod.jp/articles/burikaigi-2026-claude-code-practice/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-10 [ChatGPT履歴をMarkdown化して知識資産とする方法](https://zenn.dev/pwrengineer/articles/export_chatgpt_to_md) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-10 [「Microsoft Agent 365」の衝撃、人事も情シスも驚愕…AIを「人並み」に管理する革命](https://www.sbbit.jp/article/cont1/177586) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-10 [名古屋工業大学、全教職員500人対象に生成AI導入へ　「ChatGPT Edu」講義や研究、業務改善に：中日新聞Web](https://www.chunichi.co.jp/article/1190429) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-10 [新卒エンジニアよ。コードは書かなくていいかもしれない。でも理解だけはやめないでほしい](https://zenn.dev/tokium_dev/articles/vibe-coding-understanding-matters) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-10 [そのPC、もっと使いやすく進化する。Windowsを最強の仕事道具に変える10コツ \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2601-best-hacks-for-windows-power-users/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [『CSV++』フォーマットの提案仕様について - ASnoKaze blog](https://asnokaze.hatenablog.com/entry/2026/01/09/000152) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [Claude Codeとの会話を自動でObsidianに記録する仕組みを作った](https://zenn.dev/pepabo/articles/ffb79b5279f6ee) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [Facebookはマジで中高年しかやってない… 若い人がやってたら、留学など海外経験があるのかな？と思うレベル「実名が無理」「毎日同じ味気ない生活してると書くことが無い」](https://togetter.com/li/2650002) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [いじめって、叩かれ過ぎじゃないかと思う。 もちろん「いじめは良くない」..](https://anond.hatelabo.jp/20260109185658) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [3Dプリンタを購入して使い始めて初めて知ったこと](https://anond.hatelabo.jp/20260110155822) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [GitHub Actions のシークレットは簡単に見れる](https://zenn.dev/enjapan/articles/github-actions-secrets) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [“日本最後の秘境”に密着したNHKスペシャル、1月18日夜](https://av.watch.impress.co.jp/docs/news/2076802.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [「ロボット幼稚園」でAI搭載ロボットを進化させる](https://gigazine.net/news/20260110-preschool-for-robots/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [【地図】数理最適化の全体像と分類](https://zenn.dev/tsubasa_ryuto/articles/e39b474862bfc3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [Breakingviews - コラム：グロックのディープフェイク問題で問われる投資家の道徳心](https://jp.reuters.com/opinion/breakingviews/QEXCH5OSNBPGRC4QIZAE53SBZU-2026-01-09/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [React 19でつくる「気持ちいいUI」- 楽観的UIのすすめ](https://speakerdeck.com/himorishige/react-19detukuru-qi-chi-tiiiui-le-guan-de-uinosusume) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [【Ubuntu日和】 【第84回】Steamだけじゃない! Ubuntuでもっともっとゲームを楽しむ方法](https://pc.watch.impress.co.jp/docs/column/ubuntu/2076427.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [月数百円で修理代50万円まで無料。東京電力の住宅設備・家電修理サービスは正直コスパが異常だった - Smart Watch Life｜日本初のスマートウォッチ専門メディア](https://www.smartwatchlife.jp/61924/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [生成AIノートアプリ「Titanium」誕生！Mix機能で新しいアイデアを生む - 未来世紀アラカワ](https://k5trismegistus.me/entry/2025/12/31/084034) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [GitHub - dockur/macos: macOS inside a Docker container.](https://github.com/dockur/macos) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [AIに「ありがとう」と言うだけで数千万円の損失が…!? OpenAI代表サム・アルトマンも危惧するChatGPTの“恐るべき電気代”の真相 \| 文春オンライン](https://bunshun.jp/articles/-/84696) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [ADHDにとってのAIの恩恵は強い](https://anond.hatelabo.jp/20260109180913) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [「38万円」は高くない?　三つ折りスマホ「Galaxy Z TriFold」を買いにソウルへ行く](https://www.watch.impress.co.jp/docs/topic/2076479.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [そーだいさんは怒っていない。 - #あすみかんの上にあすみかん](https://asumikam.com/entry/2026/01/09/233004) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [APIコスト85%減を実現した「AIルーター」の実装と、その先にある問い](https://zenn.dev/daisosha/articles/338e0a6ca99ce0) *(Zenn – トピック LLM)*
+- [ ] 2026-01-10 [Clojureが最もトークン効率的な言語であるらしい](https://zenn.dev/shinseitaro/articles/clojure-token-efficiency) *(Zenn – トピック LLM)*
+- [ ] 2026-01-10 [GPTはなぜ「読んでいない」と言えなかったのか —— Polaris-Next v5.3 実運用ログと Absolute Stop-Firs](https://zenn.dev/dosanko_tousan/articles/b5e11aad6db929) *(Zenn – トピック LLM)*
+- [ ] 2026-01-10 [仕様駆動開発が生む価値 ──AI 時代になぜ仕様を書くのか](https://zenn.dev/takurooper/articles/f7e57116ed5a66) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [1日100枚増える嫁との写真を自動仕分け！画像認識モデルを自作し超効率化した話。](https://zenn.dev/rakushaking/articles/7321018289bc77) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [多くの日本企業は輸出やローカライズやモダンの導入を考えないので儲からない](https://zenn.dev/46kami_yu/articles/729d5470458e3d) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [Windows + Antigravity + WSL2 + DevContainerで個人開発環境を作る](https://zenn.dev/yydevelop/articles/ba10fae0b65902) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [3-③[AI][Kaggle][python]Kaggle入門(地理空間データ分析 3.相互作用Maps)](https://zenn.dev/rg687076/articles/08cccf9d0895a4) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [【AITL】制御アーキテクチャにおける設計責任と信頼性境界の明文化](https://zenn.dev/samizo_aitl/articles/023_aitl_controller_reliability_boundary) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [AIで作る業務動画 Day 10｜Remotionプロジェクトを作成してプレビューを起動する](https://zenn.dev/akira_cloudjob/articles/20260110-remotion-project-setup) *(Zenn – トピック AI)*
