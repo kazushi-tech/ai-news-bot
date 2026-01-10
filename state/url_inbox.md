@@ -8581,3 +8581,74 @@
 - [ ] 2026-01-09 [ありとあらゆる方法で予定を柔軟に表示し自分に最適な使い方ができるスケジュール・タスク管理アプリ「ScheduleNote」実際に使ってみたよレビュー、写真・画像・ボイスメモも日付へ簡単に紐付け可能](https://gigazine.net/news/20260109-schedulenote/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-09 [VPNを廃止しても「サイバー攻撃被害がなくならない」本当の理由 \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/87454) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-09 [スマホ型カラーE Ink端末「BOOX Palma 2 Pro」の表示性能は一般的なスマホとどう違う？【山口真弘のおすすめ読書タブレット比較】](https://forest.watch.impress.co.jp/docs/bookwatch/tabletrecom/2076336.html) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-10T00:45:09.946Z
+- [ ] 2026-01-09 [Elon Musk’s X threatened with UK ban over wave of indecent AI images](https://www.theguardian.com/technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-10 [Grok Is Being Used to Mock and Strip Women in Hijabs and Sarees](https://www.wired.com/story/grok-is-being-used-to-mock-and-strip-women-in-hijabs-and-sarees/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-09 [Google Settles With Families Who Say It Killed Their Teen Children](https://futurism.com/artificial-intelligence/google-settlement-lawsuit-teen) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-09 [Meta Signs Deals With Nuclear Energy Companies](https://aibusiness.com/data-centers/meta-signs-deals-with-nuclear-companies) *(AI Business)*
+- [ ] 2026-01-09 [Infosys, AWS Partner on Enterprise AI](https://aibusiness.com/agentic-ai/infosys-aws-partner-enterprise-ai) *(AI Business)*
+- [ ] 2026-01-09 [Want AI Skills Without the Big Price Tag? These 2026 Certifications Deliver Value](https://www.techrepublic.com/article/news-free-low-cost-ai-certifications-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-09 [Daily Tech Insider Explores the New Era of Physical Intelligence](https://www.techrepublic.com/article/news-best-of-dti-jan-5-9-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-09 [Rumor: Apple’s iOS 27 to Focus on Performance, AI, and Foldable iPhone Support](https://www.techrepublic.com/article/news-apple-ios-27-rumors-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-09 [Data Center Electrical Equipment Maker Forgent Files for US IPO](https://www.bloomberg.com/news/articles/2026-01-09/data-center-electrical-equipment-maker-forgent-files-for-us-ipo) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Supreme Court to Weigh FCC Power to Fine in New Regulatory Clash](https://www.bloomberg.com/news/articles/2026-01-09/supreme-court-to-weigh-fcc-power-to-fine-in-new-regulatory-clash) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Meta to Become the Biggest Nuclear Buyer Among Hyperscalers \| Bloomberg Tech 1/9/2026](https://www.bloomberg.com/news/videos/2026-01-09/bloomberg-tech-1-9-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Walmart-Backed ‘Super App’ OnePay Hits $4 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-09/walmart-backed-super-app-onepay-hits-4-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Amazon Has Big Hopes for Wearable AI &mdash; Starting With This $50 Gadget](https://www.bloomberg.com/news/articles/2026-01-09/amazon-has-big-hopes-for-wearable-ai-starting-with-this-50-gadget) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Netflix Stock Is Pricey Even After Warner Bros.-Induced Selloff](https://www.bloomberg.com/news/videos/2026-01-09/netflix-pricey-even-after-warner-bros-induced-selloff-video) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Amazon Is Planning Walmart-Style Big Box Store Near Chicago](https://www.bloomberg.com/news/articles/2026-01-09/amazon-is-planning-walmart-style-big-box-store-near-chicago) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Meta Turns to Multi-Gigawatt Nuclear Deals for AI Data Centers](https://www.bloomberg.com/news/videos/2026-01-09/meta-turns-to-nuclear-deals-for-ai-data-centers-video) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [OpenAI, SoftBank Invest $1 Billion in Stargate Partner SB Energy](https://www.bloomberg.com/news/articles/2026-01-09/openai-softbank-invest-1-billion-in-stargate-partner-sb-energy) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Warner Bros. Discovery Rebuffs Paramount Again](https://www.bloomberg.com/news/videos/2026-01-09/shorttok-test-video-interview-of-matthew-dolgin-on-warner-bros-discovery-bids-and-streaming-future) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [Snowflake to Buy App Monitoring Program Observe](https://www.bloomberg.com/news/videos/2026-01-09/test-video-interview-of-sridhar-ramaswamy-on-snowflake-s-observe-acquisition-and-ai-strategy) *(Bloomberg Technology)*
+- [ ] 2026-01-09 [AI Build-Out Forces Analysts to Cover Entire Supply Chain](https://www.bloomberg.com/news/videos/2026-01-09/ai-build-out-forces-analysts-to-cover-supply-chain-video) *(Bloomberg Technology)*
+- [ ] 2026-01-10 [The Best Smart Home Tech at CES 2026](https://gizmodo.com/the-best-smart-home-tech-at-ces-2026-2000708333) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Reddit Played a Part in Nailing Jesse Plemons’ Suspicious ‘Bugonia’ Character](https://gizmodo.com/bugonia-jesse-plemons-reddit-2000708365) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [The Best Automotive Tech at CES 2026](https://gizmodo.com/best-automotive-tech-ces-2026-2000708326) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [The Legacy of the ‘Stranger Things’ Ending Debate Goes Back to ‘Mass Effect’](https://gizmodo.com/stranger-things-conformity-gate-mass-effect-indoctrination-theory-2000708251) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Alamo Drafthouse Moves to Mobile Food Ordering in the Movie Theater](https://gizmodo.com/alamo-drafthouse-moves-to-mobile-food-ordering-in-the-movie-theater-2000708311) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Golden Globes Bets Its Credibility on New Polymarket Partnership](https://gizmodo.com/golden-globes-bets-its-credibility-on-new-polymarket-partnership-2000708316) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [If You Love ‘Cloud Atlas,’ You’ve Got to See This New Documentary](https://gizmodo.com/cloud-atlas-4k-documentary-tom-hanks-halle-berry-2000707632) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Weight Loss Drugs Like Zepbound Could Help Treat Arthritis, Trial Shows](https://gizmodo.com/weight-loss-drugs-like-zepbound-could-help-treat-arthritis-trial-shows-2000708246) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Versions of ‘Golden’ Will Continue Until Morale Improves](https://gizmodo.com/kpop-demon-hunters-golden-new-remix-netflix-2000708253) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [World’s Richest Man Says Don’t Bother Saving for Retirement](https://gizmodo.com/worlds-richest-man-says-dont-bother-saving-for-retirement-2000708250) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [ICE Agent’s Cellphone Video of Renee Good’s Killing Leaks to Right-Wing Outlet](https://gizmodo.com/ice-agents-cellphone-video-of-renee-goods-killing-leaks-to-right-wing-outlet-2000708248) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Ikea Smartened Up Some of Its Artsy-Fartsy Lights](https://gizmodo.com/ikea-smartened-up-some-of-its-artsy-fartsy-lights-2000708087) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [‘Primal’ Is Back From the Dead and as Gnarly as Ever](https://gizmodo.com/primal-season-3-review-adult-swim-2000707843) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [WikiFlix Helps You Catch Up on Films That Just Entered the Public Domain](https://gizmodo.com/wikiflix-helps-you-catch-up-on-films-that-just-entered-the-public-domain-2000708070) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [Andy Serkis Talks About the Impossible Task of ‘The Hunt for Gollum’](https://gizmodo.com/andy-serkis-hunt-for-gollum-lord-of-the-rings-2000708167) *(Gizmodo – Technology)*
+- [ ] 2026-01-09 [It's time for Apple to reinstate ICEBlock](https://www.engadget.com/big-tech/its-time-for-apple-to-reinstate-iceblock-220802356.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [Amazon is apparently planning a big box store in the Chicago suburbs](https://www.engadget.com/big-tech/amazon-is-apparently-planning-a-big-box-store-in-the-chicago-suburbs-213451978.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [Monarch Money's budgeting app is 50 percent off for new users](https://www.engadget.com/apps/monarch-moneys-budgeting-app-is-50-percent-off-for-new-users-204507740.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [The Morning After: The best of CES 2026](https://www.engadget.com/general/the-morning-after-engadget-newsletter-193045065.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [WhatsApp might soon be subject to stricter scrutiny under the EU's Digital Services Act](https://www.engadget.com/social-media/whatsapp-might-soon-be-subject-to-stricter-scrutiny-under-the-eus-digital-services-act-191000354.html?src=rss) *(Engadget)*
+- [ ] 2026-01-09 [OpenAI and SoftBank Group partner with SB Energy](https://openai.com/index/stargate-sb-energy-partnership) *(OpenAI News)*
+- [ ] 2026-01-09 [データ活用「全社で成果」はわずか2.4％　Gartnerが明かす日本企業の現実](https://www.itmedia.co.jp/enterprise/articles/2601/10/news010.html) *(ITmedia AI＋)*
+- [ ] 2026-01-10 [「タイパとコスパ重視の生活をしてるから映画とかも3倍速で観てたんだ」から始まる小話にタイパやコスパについての考えが寄せられる「体験と情報の違いがわかる話だった」](https://togetter.com/li/2649826) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-10 [AIをそのまま信用できないので、実際に「明確にミソジニー的な表現を含む」..](https://anond.hatelabo.jp/20260109214921) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-10 [The agentic organization: Contours of the next paradigm for the AI era](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-agentic-organization-contours-of-the-next-paradigm-for-the-ai-era) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-10 [Emacs 設定を公開した話と AI 雑感 - 山下泰平の趣味の方法](https://cocolog-nifty.hatenablog.com/entry/2026/01/09/102400) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-10 [歴史から学ぶ、Goのメモリ管理基礎](https://speakerdeck.com/logica0419/fundamentals-of-memory-management-in-go-jp) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [Obsidian の個人的に便利だと思う使い方 - Qiita](https://qiita.com/CookieBox26/items/82c606539cc4fe31e2b9) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [AI時代にORMなんて必要なんですかね？](https://zenn.dev/terurou/articles/55ffe7c6e5c96e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [2025年のWebフロントエンドのふりかえりと2026年 \| ドクセル](https://www.docswell.com/s/sakito/ZEY2P7-burikaigi2026) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [【速報】Xの生成AI、利用を有料会員に限定](https://www.47news.jp/13703576.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [AI コーディングエージェントでデザイン再現精度を上げる 7 つのテクニック - izanami](https://izanami.dev/post/bb9d5d5b-0b1d-4d39-a2ba-2a770e116c3d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [｢日本はAIで完敗｣は大間違い…エヌビディアもテスラもマネできない日本だけが持っている"最強の資産"](https://president.jp/articles/-/107459) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [記事の英語版生成の実験的な提供を開始します（Beta） \| What's New in Zenn](https://info.zenn.dev/2026-01-09-translate-articles) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [AI時代のアジャイルチームを目指して ー スクラムというコンフォートゾーンからの脱却 ー / Toward Agile Teams in the Age of AI](https://speakerdeck.com/takaking22/toward-agile-teams-in-the-age-of-ai) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-09 [【LLM基礎#3】出力の“揺らぎ”を操る：Temperature / Top-p / Top-k / 反復ペナルティの検証](https://zenn.dev/enegori6160/articles/b20a8f8c772830) *(Zenn – トピック LLM)*
+- [ ] 2026-01-09 [「知識のnpm」を作りたい - ナレッジパッケージで拡張するパーソナルAIコンシェルジュ構想](https://zenn.dev/glitch/articles/0007630afe6060) *(Zenn – トピック LLM)*
+- [ ] 2026-01-09 [【LLM開発】SFTはどこまでやるべきか？強化学習(RL)へ移行する「判断基準」と「タイミング」](https://zenn.dev/lixian/articles/25a1174e4b103a) *(Zenn – トピック LLM)*
+- [ ] 2026-01-09 [2026年 AI・クラウド市場動向に関する個人的考察レポート](https://zenn.dev/nyanko_super/articles/c97008fb2b09ab) *(Zenn – トピック LLM)*
+- [ ] 2026-01-09 [Faissによるベクトル検索の検証とその先の選択肢（SQLite / DuckDB / RDB / BigQuery）](https://zenn.dev/mima_ita/articles/860681ad19ea2d) *(Zenn – トピック LLM)*
+- [ ] 2026-01-09 [Excelを閉じてAntigravityを開く。WebディレクターがAIコードエディタを業務基盤にする理由。](https://zenn.dev/mediaid/articles/f49e302d8f7d34) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [Snowflake Intelligence入門: Cortex Analyst/Search/アクションで話せるデータを作る](https://zenn.dev/dataheroes/articles/20260109_sf_intelligence_start) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [Copilot×Excel SI業務の管理を便利にする使い方](https://zenn.dev/syoshida07/articles/541f2502f4dfa6) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [Claude Code 2.1、80以上の変更点から本当に使えるものだけ抜粋した](https://zenn.dev/hjpotter1/articles/ed8b4fd01c43a3) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [30代になったらスキルよりヘルスに投資せよ。学習曲線で見る成長戦略](https://zenn.dev/zatsucat/articles/a6559550624f1d) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [GitHub Copilot と MCP 統合で開発体験を変革する](https://zenn.dev/katsuhisa_/articles/github-copilot-mcp-integration) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [Claude Code サブエージェントで開発を加速する：基礎から実践まで](https://zenn.dev/katsuhisa_/articles/claude-code-subagents-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [[2026年1月9日] AGIに至るコーディングエージェント、そして (週刊AI)](https://zenn.dev/carenet/articles/aa7c8289296968) *(Zenn – トピック AI)*
+- [ ] 2026-01-09 [年間500万円以上のコスト削減を実現したのに、どこかむなしいのはなぜか](https://zenn.dev/zenn_mita/articles/bd54d81c4dab31) *(Zenn – トピック 機械学習)*
