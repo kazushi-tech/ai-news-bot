@@ -8695,3 +8695,39 @@
 - [ ] 2026-01-10 [3-③[AI][Kaggle][python]Kaggle入門(地理空間データ分析 3.相互作用Maps)](https://zenn.dev/rg687076/articles/08cccf9d0895a4) *(Zenn – トピック AI)*
 - [ ] 2026-01-09 [【AITL】制御アーキテクチャにおける設計責任と信頼性境界の明文化](https://zenn.dev/samizo_aitl/articles/023_aitl_controller_reliability_boundary) *(Zenn – トピック AI)*
 - [ ] 2026-01-09 [AIで作る業務動画 Day 10｜Remotionプロジェクトを作成してプレビューを起動する](https://zenn.dev/akira_cloudjob/articles/20260110-remotion-project-setup) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-10T18:13:40.233Z
+- [ ] 2026-01-10 [Elon Musk says UK wants to suppress free speech as X faces possible ban](https://www.theguardian.com/technology/2026/jan/10/elon-musk-uk-free-speech-x-ban-grok-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-10 [Furious AI Users Say Their Prompts Are Being Plagiarized](https://futurism.com/artificial-intelligence/ai-prompt-plagiarism-art) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-10 [Musk Calls UK ‘Fascist’ as Row Over Grok AI Images Escalates](https://www.bloomberg.com/news/articles/2026-01-10/musk-calls-uk-fascist-as-row-over-x-s-grok-ai-images-escalates) *(Bloomberg Technology)*
+- [ ] 2026-01-10 [Nvidia and Tesla Chase Same Self-Driving Goal Via Varying Paths](https://www.bloomberg.com/news/articles/2026-01-10/nvidia-and-tesla-chase-same-self-driving-goal-via-varying-paths) *(Bloomberg Technology)*
+- [ ] 2026-01-10 [China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://www.bloomberg.com/news/articles/2026-01-10/china-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week) *(Bloomberg Technology)*
+- [ ] 2026-01-10 [Marvel Has Its Best-Selling Comic in Years Thanks to Robert Downey Jr.](https://gizmodo.com/marvel-has-its-best-selling-comic-in-years-thanks-to-robert-downey-jr-2000708440) *(Gizmodo – Technology)*
+- [ ] 2026-01-10 [French Tax Agent Allegedly Sold Personal Data of Crypto Users to Criminals](https://gizmodo.com/french-tax-agent-allegedly-sold-personal-data-of-crypto-users-to-criminals-2000707279) *(Gizmodo – Technology)*
+- [ ] 2026-01-10 [‘Godzilla Minus Zero’ Stomps Into Theaters This November](https://gizmodo.com/godzilla-minus-zero-stomps-into-theaters-this-november-2000708463) *(Gizmodo – Technology)*
+- [ ] 2026-01-10 [The World’s Oceans Soaked Up Record-Breaking Heat for the 9th Straight Year](https://gizmodo.com/the-worlds-oceans-soaked-up-record-breaking-heat-for-the-9th-straight-year-2000708348) *(Gizmodo – Technology)*
+- [ ] 2026-01-10 [Don’t count on Baldur’s Gate 3 coming to Switch 2, as least for now](https://www.engadget.com/gaming/nintendo/dont-count-on-baldurs-gate-3-coming-to-switch-2-as-least-for-now-180538969.html?src=rss) *(Engadget)*
+- [ ] 2026-01-10 [SpaceX can deploy 7,500 more Starlink Gen2 satellites with FCC approval](https://www.engadget.com/science/space/spacex-can-deploy-7500-more-starlink-gen2-satellites-with-fcc-approval-180000843.html?src=rss) *(Engadget)*
+- [ ] 2026-01-10 [The CES companies hoping your brain is the next big thing in computing](https://www.engadget.com/wearables/the-ces-companies-hoping-your-brain-is-the-next-big-thing-in-computing-175048601.html?src=rss) *(Engadget)*
+- [ ] 2026-01-10 [Engadget Podcast: Best of CES 2026 and a chat with Pebble's founder](https://www.engadget.com/computing/engadget-podcast-best-of-ces-2026-and-a-chat-with-pebbles-founder-160000762.html?src=rss) *(Engadget)*
+- [ ] 2026-01-10 [The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html?src=rss) *(Engadget)*
+- [ ] 2026-01-10 [NASA makes final preparations for its first crewed moon mission in over 50 years](https://www.engadget.com/science/space/nasa-makes-final-preparations-for-its-first-crewed-moon-mission-in-over-50-years-150000825.html?src=rss) *(Engadget)*
+- [ ] 2026-01-10 [How to change location with a VPN](https://www.engadget.com/cybersecurity/vpn/how-to-change-location-with-a-vpn-140000339.html?src=rss) *(Engadget)*
+- [ ] 2026-01-10 [In software, the code documents the app. In AI, the traces do.](https://blog.langchain.com/in-software-the-code-documents-the-app-in-ai-the-traces-do/) *(LangChain Blog)*
+- [ ] 2026-01-10 [「よぉし強姦も不起訴になったし一杯やるか！」で炎上したアトム法律事務所、今度はCoinhive事件を「最高裁で有罪確定、弁護士に相談を！」と大嘘記事を垂れ流す→「AIに書かせてファクトチェックしなかった？」](https://posfie.com/@petaritape/p/g2QOVbj) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-10 [「Googleでの14年間で学んだ21の教訓」を 個人的な解釈でまとめてみた - Qiita](https://qiita.com/Sakai_path/items/8ae1e34e012a53aa8d1b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [形式手法特論：コンパイラの「正しさ」は証明できるか？ #burikaigi / BuriKaigi 2026](https://speakerdeck.com/ytaka23/burikaigi-2026) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [焼肉屋で若い男の子が「タイミーです」とやって来た→その後店長が何でも出来ちゃうその子をベタ褒めしていた「タイミーは時々超シゴデキの人が来る」](https://togetter.com/li/2650154) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [わずか10KBのRAMで動く組み込みシステム向けにJavaScriptプログラムをコンパイルして実行できる「MicroQuickJS」](https://gigazine.net/news/20260110-mquickjs/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [Claude Code のステータスラインを TUI でカスタマイズできる ccstatusline](https://azukiazusa.dev/blog/claude-code-ccstatusline/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [受験合格の“必須アイテム”にAI? 正しい使い方は \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015022901000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [ディオゲネースのセキュリティ事故大予言 ～2026年は確実に多分こうなる～ - ラック・セキュリティごった煮ブログ](https://devblog.lac.co.jp/entry/20260108) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [本家に学ぶ Claude Code Action のサブエージェント並列レビュー](https://zenn.dev/genda_jp/articles/70aa9a74ac1e62) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [GitHub - bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [GitHub - ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows](https://github.com/ComposioHQ/awesome-claude-skills) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [Firefoxからフォークした「Waterfox」開発元がMozillaのAI方針に対して批判を展開](https://gigazine.net/news/20260109-waterfox-criticize-mozilla/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [tiny-llm - 1週間でLLMサービングを学ぶ](https://zenn.dev/tosshi/books/tiny-llm-jp-course) *(Zenn – トピック LLM)*
+- [ ] 2026-01-10 [TypeScriptで始めるClaude Agent SDK入門 - Claude Codeの機能を使いAIエージェントでバグを自動修正する](https://zenn.dev/karamage/articles/21e55b0f9336d2) *(Zenn – トピック LLM)*
+- [ ] 2026-01-10 [2027年にエンジニアは不要になるのか - 生成AIでオートメーション化するソフトウェア開発とその先](https://zenn.dev/ichi_h/articles/9b66a6af67c697) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [ObsidianのMorning Pagesプラグインを改造して、最高の執筆体験を実現した話](https://zenn.dev/ryuseiueda/articles/797602d0c4604b) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [AIエージェントについてちょっとだけ理解を深める](https://zenn.dev/michawo/articles/20acf54c009d95) *(Zenn – トピック AI)*
