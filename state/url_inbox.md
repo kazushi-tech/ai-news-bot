@@ -8792,3 +8792,26 @@
 - [ ] 2026-01-11 [AI時代のバージョン管理、Jujutsuとは何か？](https://zenn.dev/dorarep/articles/ee8a7f495f195c) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-11 [CSSグリッドレーン(Grid Lanes)とは何なのかをWebKit公式が解説](https://gigazine.net/news/20260110-css-grid-lanes/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-11 [Introducing LFM2.5: The Next Generation of On-Device AI \| Liquid AI](https://www.liquid.ai/blog/introducing-lfm2-5-the-next-generation-of-on-device-ai) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-11T12:16:49.738Z
+- [ ] 2026-01-11 [‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-11 [Geminiの勢いが止まらない。ChatGPTが圧倒されるのも仕方ない](https://www.gizmodo.jp/2026/01/similarweb_global_ai_tracker_2026_jan_1_gemini_got_share.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-11 [なぜ誰も手を付けなかったのか？ ― Vibeコーディングが解いた15年の沈黙 \| DevelopersIO](https://dev.classmethod.jp/articles/mp3gain-resuscitation-mp3rgain/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-11 [AIのせいでAIの学習データがなくなってきている - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/01/10/174213) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-11 [GhosttyをVSCodeみたいにしよう！｜Naoki \|電電猫猫](https://note.com/electrical_cat/n/n7a3b634a2b51) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [15周年を迎えるいまいち萌えない娘さんが、grokに「自分を萌えるように描き直して」とお願いしてみることに](https://togetter.com/li/2647994) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [単体テストを全通り書くんじゃない！](https://zenn.dev/silverbirder/articles/d1729deeba4a59) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [Jujutsu（jj）完全ガイド：Gitを超える次世代バージョン管理システムの実践活用法](https://zenn.dev/kimkiyong/articles/1806beccb74a88) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [TFS／ReFS／FAT／FAT32／exFAT／UDF、Windows 11で扱えるファイルシステムを整理する](https://ascii.jp/elem/000/004/365/4365374/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [#RSGT2026 に参加し、いろんな人から刺激をもらってきた - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/01/11/114059) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [外出先のiPhoneから自宅MacのClaude Codeを操作する方法｜Tailscale × NeoServer × tmux](https://zenn.dev/rsakao/articles/75d6524fc9bf20) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [Claude Agent SDK の輪郭 ― 何であり、何でないか](https://zenn.dev/storehero/articles/8922e8cb7f1282) *(Zenn – トピック LLM)*
+- [ ] 2026-01-11 [ケーススタディ：`Polaris-Next v5.3` とレガシー人間OSにおけるプロトコル不一致の観測記録](https://zenn.dev/dosanko_tousan/articles/cc6bb4b8466277) *(Zenn – トピック LLM)*
+- [ ] 2026-01-10 [超小型日本語LLM LFM 2.5-JPと会話してみた](https://zenn.dev/kok1eeeee/articles/lfm25-local-llm-trial) *(Zenn – トピック LLM)*
+- [ ] 2026-01-11 [AIの設計論 —— 知能・意志・責任のエンジニアリング](https://zenn.dev/k_mt/articles/51ba7bd6ef1b57) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [AI生成キャラクターは誰のものか？Firebaseで「キャラクターの権利」を管理するサービスを作ってみた](https://zenn.dev/charahub/articles/acbedcbd1fc546) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [🤖 Day2 Microsoft Foundryについて](https://zenn.dev/kentaishii/articles/4f4edf99b332ca) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [ミューテーションテストでAI生成テストの品質を上げる](https://zenn.dev/nossa/articles/21e4ee7556a6ba) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [Claude Code の AskUserQuestion で対話型開発を実現する](https://zenn.dev/katsuhisa_/articles/claude-code-askuserquestion-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [AIで作る業務動画 Day 11｜CompositionとSequenceで最初の動画を作る](https://zenn.dev/akira_cloudjob/articles/20260111-remotion-composition-sequence) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [CLAUDE.mdに図解指示を追加してAIとの対話をスムーズにする](https://zenn.dev/uma002/articles/claude-md-diagram-tips) *(Zenn – トピック AI)*
