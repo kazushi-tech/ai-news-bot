@@ -8731,3 +8731,45 @@
 - [ ] 2026-01-10 [2027年にエンジニアは不要になるのか - 生成AIでオートメーション化するソフトウェア開発とその先](https://zenn.dev/ichi_h/articles/9b66a6af67c697) *(Zenn – トピック AI)*
 - [ ] 2026-01-10 [ObsidianのMorning Pagesプラグインを改造して、最高の執筆体験を実現した話](https://zenn.dev/ryuseiueda/articles/797602d0c4604b) *(Zenn – トピック AI)*
 - [ ] 2026-01-10 [AIエージェントについてちょっとだけ理解を深める](https://zenn.dev/michawo/articles/20acf54c009d95) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-11T00:52:24.499Z
+- [ ] 2026-01-10 [Elon Musk Says X to Make Algorithm Open Source in Seven Days](https://www.bloomberg.com/news/articles/2026-01-10/elon-musk-says-x-to-make-its-algorithm-open-source-in-seven-days) *(Bloomberg Technology)*
+- [ ] 2026-01-10 [Did You Get an Instagram Password Reset Email Recently? This Might Be the Very Unpleasant Reason](https://gizmodo.com/did-you-get-an-instagram-password-reset-email-recently-this-might-be-the-very-unpleasant-reason-2000708667) *(Gizmodo – Technology)*
+- [ ] 2026-01-10 [SAG-AFTRA Is Keeping an Eye on the Disney/OpenAI Deal](https://gizmodo.com/sag-aftra-is-keeping-an-eye-on-the-disney-openai-deal-2000708414) *(Gizmodo – Technology)*
+- [ ] 2026-01-10 [Elon Musk Says In One Week He Will Fully Reveal Why Your X Timeline Is… Like That](https://gizmodo.com/elon-musk-says-in-one-week-he-will-fully-reveal-why-your-x-timeline-is-like-that-2000708652) *(Gizmodo – Technology)*
+- [ ] 2026-01-10 [A ‘Baldur’s Gate 3’ Writer Explains Wyll’s Disappointing Arc](https://gizmodo.com/a-baldurs-gate-3-writer-explains-wylls-disappointing-arc-2000708297) *(Gizmodo – Technology)*
+- [ ] 2026-01-10 [Bill Gates Warns of a Dark Trend In Depressing Annual Letter So Here’s a Little Deer Guy Absolutely Owning a Rhinoceros](https://gizmodo.com/bill-gates-warns-of-a-dark-trend-in-depressing-annual-letter-so-heres-a-little-deer-guy-absolutely-owning-a-rhinoceros-2000708412) *(Gizmodo – Technology)*
+- [ ] 2026-01-10 [The Fourth Most Populous Country in the World Just Reportedly Blocked Grok](https://gizmodo.com/indonesia-reportedly-blocked-grok-2000708615) *(Gizmodo – Technology)*
+- [ ] 2026-01-10 [Elon Musk says X's new algorithm will be made open source next week](https://www.engadget.com/big-tech/elon-musk-says-xs-new-algorithm-will-be-made-open-source-next-week-225721656.html?src=rss) *(Engadget)*
+- [ ] 2026-01-10 [GameStop reportedly shuts down more than 400 US stores](https://www.engadget.com/gaming/gamestop-reportedly-shuts-down-more-than-400-us-stores-210632743.html?src=rss) *(Engadget)*
+- [ ] 2026-01-10 [An Instagram data breach reportedly exposed the personal info of 17.5 million users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html?src=rss) *(Engadget)*
+- [ ] 2026-01-10 [OpenAIとソフトバンクG、SB Energyに10億ドル共同出資　1.2GW級のAI拠点建設へ](https://www.itmedia.co.jp/news/articles/2601/11/news014.html) *(ITmedia AI＋)*
+- [ ] 2026-01-11 [2025年増田ファーストブクマカランキング](https://anond.hatelabo.jp/20260111013003) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [“デジカメ老人会”世代が推す「復活してほしいコンデジ」あれこれ](https://www.itmedia.co.jp/news/articles/2601/10/news021.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [パターン \| APG Patterns Examples](https://masup9.github.io/apg-patterns-examples/ja/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [「GrokとXのアプリをAppleとGoogleのアプリストアから削除せよ」という公開書簡をアメリカの政治家たちが送付、理由は「違法な性的画像を大量生成しているため」](https://gigazine.net/news/20260110-grok-x-app-suspended-apple-google/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [Claude Code への質問とその回答を指定のファイルに保存する方法例 - Qiita](https://qiita.com/CookieBox26/items/bdbfb3e00b181203788f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [またブログを書こうと思った - 層の狭間で](https://ymrl-dev.hateblo.jp/entry/2026/01/09/075428) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [一人旅研究会　～旅情と郷愁探訪～](https://hitoritabikenkyu.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [正解率95％超…生成AIで詐欺電話判定、ドコモが実用化へ ニュースイッチ by 日刊工業新聞社](https://newswitch.jp/p/48020) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [｢生成AIを使うと考えなくなる｣は本当だった？ 立命館大学｢英語の正課授業｣で見えてきた《効果的なAI活用法》と《令和必須の"新しい4技能"》](https://toyokeizai.net/articles/-/924998?display=b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [Google サイトと GAS の融合による「業務特化型ポータル」の構築｜【AI研究中】ただし](https://note.com/note_tds/n/n696b339fd831) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-10 [finetuningで軽量LLMにおもろいことを言わせたい ～Multi LoRAによる回答の口調調整～](https://zenn.dev/pepepepepepepe/articles/27dbb0c8062582) *(Zenn – トピック LLM)*
+- [ ] 2026-01-10 [Microsoft Agent Framework - データベース検索エージェントを作って Function Tool の 作り方を学ぶ](https://zenn.dev/headwaters/articles/create-search-db-agent) *(Zenn – トピック LLM)*
+- [ ] 2026-01-10 [なぜ、AIによって最もダメ人間になるのはガチャ脳の人なのか？](https://zenn.dev/pdfractal/articles/6649b8273396b9) *(Zenn – トピック LLM)*
+- [ ] 2026-01-10 [【個人開発】災害時も動く！低スペックサーバーで作る自動Podcast配信システム](https://zenn.dev/kewa8579/articles/89ccee67180a6c) *(Zenn – トピック LLM)*
+- [ ] 2026-01-10 [Verlフレームワークを用いたLLMの強化学習(PPO,GRPO,DAPO)](https://zenn.dev/puwa/articles/verl_document_report) *(Zenn – トピック LLM)*
+- [ ] 2026-01-10 [Grokに「数千文字の呪文」を読ませたら、評価が爆上がりして嫉妬された話](https://zenn.dev/osamuhuba/articles/c8f7204207b125) *(Zenn – トピック LLM)*
+- [ ] 2026-01-10 [AI Agent 時代に、認可は業務フローから切り離されるべき理由](https://zenn.dev/ishiguchi/articles/20250102-why-separate-authorization-from-workflow) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [Antigravityを使いまくっていたら、キャッシュが大量に溜まっていた話](https://zenn.dev/neptune/articles/884bb96f510b93) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [2026年WEB開発の基本になる変化](https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [技術記事を公開する前にチェックしたい10のポイント](https://zenn.dev/nomuraya/articles/pre-publish-checklist) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [Cloudflare WorkersとTanstack Startでプロフィールサイトを作り直す](https://zenn.dev/jumpei00/articles/8357b877865526) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [【GitHub Copilot】agent-skills を利用したエージェントの役割違反を止めるプロンプトテクニック](https://zenn.dev/longbow/articles/20260110_role_based_stopping_rule) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [Claude Code の Skills や Hooks を社内で共有する方法](https://zenn.dev/katsuhisa_/articles/claude-code-internal-marketplace) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [internal-first で GitHub 事故を防ぐ  ローカル Git 運用の設計](https://zenn.dev/nonamecode/articles/7518d94af8a931) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [code-simplifier：Claude Code公式の「コード整理係」を試してみた](https://zenn.dev/hjpotter1/articles/5614c3d33de1f3) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [人間知性の構造的近似性に関する一考察―― K.H. と Nikola Tesla に見られる思考様式の比較 ――著者：ChatGPT（A](https://zenn.dev/khrt/articles/152c56f8a7b1ca) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [最近話題のAEOについて、指標をまとめてみた【日本初かも？】](https://zenn.dev/sighted/articles/752a61ed6a813d) *(Zenn – トピック AI)*
+- [ ] 2026-01-10 [blueqatで今は採用はしてないけどインターンするなら最低限は覚えて欲しい内容など。その1 / 3 基本ツール・数理最適化](https://zenn.dev/yuichirominato/articles/d86c553b1ba2e7) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-10 [ホタルイカの身投げ量を予測するWebサイトを作ってみた](https://zenn.dev/yuchi1128/articles/eca2bb94dec63ecbff93) *(Zenn – トピック 機械学習)*
