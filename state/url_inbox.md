@@ -8815,3 +8815,28 @@
 - [ ] 2026-01-11 [Claude Code の AskUserQuestion で対話型開発を実現する](https://zenn.dev/katsuhisa_/articles/claude-code-askuserquestion-guide) *(Zenn – トピック AI)*
 - [ ] 2026-01-10 [AIで作る業務動画 Day 11｜CompositionとSequenceで最初の動画を作る](https://zenn.dev/akira_cloudjob/articles/20260111-remotion-composition-sequence) *(Zenn – トピック AI)*
 - [ ] 2026-01-10 [CLAUDE.mdに図解指示を追加してAIとの対話をスムーズにする](https://zenn.dev/uma002/articles/claude-md-diagram-tips) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-11T18:13:44.867Z
+- [ ] 2026-01-11 [Elon’s xAI Is Losing Staggering Amounts of Money](https://futurism.com/artificial-intelligence/elon-musk-xai-money) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-11 [I used AI chatbots as a source of news for a month, and they were unreliable and erroneous](https://theconversation.com/i-used-ai-chatbots-as-a-source-of-news-for-a-month-and-they-were-unreliable-and-erroneous-268251) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-11 [Security Startup Torq Raises Cash at $1.2 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-11/security-startup-torq-raises-cash-at-1-2-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-01-11 [Walmart Teams With Alphabet for AI-Assisted Shopping on Gemini](https://www.bloomberg.com/news/articles/2026-01-11/walmart-teams-with-alphabet-for-ai-assisted-shopping-on-gemini) *(Bloomberg Technology)*
+- [ ] 2026-01-11 [Magnificent 7’s Stock Market Dominance Shows Signs of Cracking](https://www.bloomberg.com/news/articles/2026-01-11/magnificent-7-s-stock-market-dominance-shows-signs-of-cracking) *(Bloomberg Technology)*
+- [ ] 2026-01-11 [Musk’s Grok AI Blocked in Indonesia, Malaysia Over Sexual Images](https://www.bloomberg.com/news/articles/2026-01-11/musk-s-grok-ai-blocked-in-indonesia-malaysia-over-sexual-images) *(Bloomberg Technology)*
+- [ ] 2026-01-11 [Waymo, Zoox, Tesla: Who Wins the Robotaxi Race?](https://www.bloomberg.com/news/videos/2026-01-11/waymo-zoox-tesla-who-wins-the-robotaxi-race-video) *(Bloomberg Technology)*
+- [ ] 2026-01-11 [Games Workshop’s Warhammer World Hits the U.S. Next Year](https://gizmodo.com/games-workshops-warhammer-world-hits-the-u-s-next-year-2000708676) *(Gizmodo – Technology)*
+- [ ] 2026-01-11 [‘Star Wars’ Fans Haven’t Given Up on Ben Solo’s Cinematic Return](https://gizmodo.com/star-wars-fans-havent-given-up-on-ben-solos-cinematic-return-2000708689) *(Gizmodo – Technology)*
+- [ ] 2026-01-11 [Wing's drone deliveries are coming to 150 more Walmarts](https://www.engadget.com/transportation/wings-drone-deliveries-are-coming-to-150-more-walmarts-180708189.html?src=rss) *(Engadget)*
+- [ ] 2026-01-11 [Instagram says accounts 'are secure' after wave of suspicious password reset requests](https://www.engadget.com/cybersecurity/instagram-says-accounts-are-secure-after-wave-of-suspicious-password-reset-requests-192105188.html?src=rss) *(Engadget)*
+- [ ] 2026-01-11 [生成AI（Gemini CLI）を専属アナリストにする。中小型割安株スクリーニングとAI評価のハイブリッド投資術｜はら](https://note.com/hara_stock/n/nd246546847b4) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-11 [インドネシア、Grokへのアクセス一時遮断　性的加工「人権侵害」 \| 毎日新聞](https://mainichi.jp/articles/20260110/k00/00m/020/152000c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-11 [アメリカでITエンジニアからテロリストになった兄の話　追記](https://anond.hatelabo.jp/20260111205201) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [アメリカでITエンジニアからテロリストになった兄の話　追記2](https://anond.hatelabo.jp/20260111231612) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [Let’s Encryptを支えるオープンで自動化されたプロトコル「ACME」の歴史を振り返る](https://gigazine.net/news/20260111-acme-history/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [それ、本当に安全？ ファイルアップロードで見落としがちなセキュリティリスクと対策](https://speakerdeck.com/penpeen/sore-ben-dang-nian-quan-huairuatupurododejian-luo-tosigatinasekiyuriteirisukutodui-ce) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [単体テストコードのお作法](https://zenn.dev/silverbirder/articles/e62ad1be9cdb40) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [【α世代】オードリー・タン氏、政治の分極化「逆転できる」　市民AIで格差縮小 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN060HL0W6A100C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai/information) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [生成AI搭載「Alexa+」を社内テストしたアマゾン従業員の自宅で水槽の魚が死んだ。機能改善に疑問の声 \| Business Insider Japan](https://www.businessinsider.jp/article/alexa-killed-my-fish-tales-from-amazon-employee-beta-testers-2026-1/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [Against Railway-Oriented Programming \| F# for fun and profit](https://fsharpforfunandprofit.com/posts/against-railway-oriented-programming/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [[AI Agent Jump Start：応用編#8] Langflow](https://zenn.dev/dxclab/articles/08cbdf218e46d8) *(Zenn – トピック AI)*
