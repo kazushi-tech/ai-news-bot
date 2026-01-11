@@ -8773,3 +8773,22 @@
 - [ ] 2026-01-10 [最近話題のAEOについて、指標をまとめてみた【日本初かも？】](https://zenn.dev/sighted/articles/752a61ed6a813d) *(Zenn – トピック AI)*
 - [ ] 2026-01-10 [blueqatで今は採用はしてないけどインターンするなら最低限は覚えて欲しい内容など。その1 / 3 基本ツール・数理最適化](https://zenn.dev/yuichirominato/articles/d86c553b1ba2e7) *(Zenn – トピック 機械学習)*
 - [ ] 2026-01-10 [ホタルイカの身投げ量を予測するWebサイトを作ってみた](https://zenn.dev/yuchi1128/articles/eca2bb94dec63ecbff93) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-11T06:15:08.023Z
+- [ ] 2026-01-11 [Lamar wants to have children with his girlfriend. The problem? She’s entirely AI](https://www.theguardian.com/technology/2026/jan/11/lamar-wants-to-have-children-with-his-girlfriend-the-problem-shes-entirely-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-11 [‘Add blood, forced smile’: how Grok’s nudification tool went viral](https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-11 [Is AI-Made Music Taking Over?](https://www.bloomberg.com/news/videos/2026-01-11/is-ai-made-music-taking-over) *(Bloomberg Technology)*
+- [ ] 2026-01-11 [アメリカでITエンジニアからテロリストになった兄の話](https://anond.hatelabo.jp/20260111115301) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-11 [MCPでやる必要のない業務をSkillsに置き換えてトークンと時間の消費を爆減してみた](https://zenn.dev/moneyforward/articles/c43cc7eff468a7) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-11 [ウワサの“机に乗る”AIスパコン「NVIDIA DGX Spark」が、編集部に届きました。 (1/3)](https://ascii.jp/elem/000/004/357/4357005/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-11 [株式会社Cygames、AIを活用したサービスやツールの開発・提供を行う子会社「株式会社Cygames AI Studio」を設立 \| お知らせ \| 株式会社Cygames（サイゲームス）](https://www.cygames.co.jp/news/id-24704/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-11 [例外処理とどう使い分ける？Result型を使ったエラー設計 #burikaigi](https://speakerdeck.com/kajitack/exception-or-result-type) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [Cursor agent best practices](https://cursor.com/blog/agent-best-practices) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [「Ｘ」が生成AIで画像加工する機能を有料会員に限定 \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015023951000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [ahamoからpovo2.0に乗り換えた｜yuta_takahashi](https://sizu.me/yuta_takahashi/posts/w79t4ar06459) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [OpenCodeにおける一部のサードパーティプロバイダーは治安が悪すぎる](https://zenn.dev/nuits_jp/articles/2026-01-11-opencode-third-party-provider) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [2025年どこのサイトが最もはてブのホットエントリに入ったか](https://anond.hatelabo.jp/20260111000102) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [写真が勝手に性的に加工される……Xの「Grok」巡る騒動にSNSをあまりしないマンガ家も抱いた素朴な疑問　「これ、予想できたよね？」](https://www.itmedia.co.jp/news/articles/2601/11/news008.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [AI時代のバージョン管理、Jujutsuとは何か？](https://zenn.dev/dorarep/articles/ee8a7f495f195c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [CSSグリッドレーン(Grid Lanes)とは何なのかをWebKit公式が解説](https://gigazine.net/news/20260110-css-grid-lanes/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-11 [Introducing LFM2.5: The Next Generation of On-Device AI \| Liquid AI](https://www.liquid.ai/blog/introducing-lfm2-5-the-next-generation-of-on-device-ai) *(はてなブックマーク – IT 人気エントリ)*
