@@ -9290,3 +9290,61 @@
 - [ ] 2026-01-12 [SwiftからiPhone内蔵のAIと対話してみる](https://zenn.dev/jinjer_techblog/articles/9127adb374685a) *(Zenn – トピック AI)*
 - [ ] 2026-01-12 [CursorとOllamaでローカルLLM](https://zenn.dev/umitempa/articles/3f32ea6ad88656) *(Zenn – トピック AI)*
 - [ ] 2026-01-12 [spec-kitは"ただのInstruction集"だった：既存リポジトリへ後付け導入してドキュメントも書かせる実例](https://zenn.dev/suusanex/articles/a1327d809e2e19) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-12T18:15:34.440Z
+- [ ] 2026-01-12 [Google parent Alphabet hits $4tn valuation after AI deal with Apple](https://www.theguardian.com/technology/2026/jan/12/google-gemini-alphabet-4-trillion-value) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-12 [To anybody still using X: sexual abuse content is the final straw, it’s time to leave \| Marie Le Conte](https://www.theguardian.com/commentisfree/2026/jan/12/x-sexual-abuse-time-to-leave-elon-musk-grok-imagery-women-children) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-12 [X rated: Ofcom investigates Grok – podcast](https://www.theguardian.com/politics/audio/2026/jan/12/x-rated-ofcom-investigates-grok-podcast) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-12 [Leaked Windows 11 Feature Shows Copilot Moving Into File Explorer](https://www.techrepublic.com/article/news-leaked-windows-11-feature-copilot-file-explorer/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-12 [Israeli Cybersecurity Startup Torq Gets $140M Funding to Hit $1.2B Valuation](https://www.techrepublic.com/article/news-torq-funding/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-12 [Machine Learning System Monitors Patient Pain During Surgery](https://spectrum.ieee.org/machine-learning-measure-pain-surgery) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-01-12 [We Tried 5 Missing Data Imputation Methods: The Simplest Method Won (Sort Of)](https://www.kdnuggets.com/we-tried-5-missing-data-imputation-methods-the-simplest-method-won-sort-of) *(KDnuggets)*
+- [ ] 2026-01-12 [How to Self-Host n8n on Docker in 5 Simple Steps](https://www.kdnuggets.com/how-to-self-host-n8n-on-docker-in-5-simple-steps) *(KDnuggets)*
+- [ ] 2026-01-12 [7 Must-Have Tools for Your Coding Workflow](https://www.kdnuggets.com/7-must-have-tools-for-your-coding-workflow) *(KDnuggets)*
+- [ ] 2026-01-12 [Paramount Launches Warner Bros. Proxy Fight, Files Suit](https://www.bloomberg.com/news/articles/2026-01-12/paramount-sues-warner-bros-aims-to-nominate-directors-to-board) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Meta Taps Powell McCormick, Executive Group to Drive AI Buildout](https://www.bloomberg.com/news/articles/2026-01-12/meta-taps-former-trump-advisor-for-new-role-driving-ai-buildout) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Apple, Google Confirm Multiyear Deal for AI Technology, Siri](https://www.bloomberg.com/news/articles/2026-01-12/google-confirms-multiyear-ai-deal-to-power-apple-models-siri) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [How Discord’s IPO Will Test App’s Freewheeling Culture](https://www.bloomberg.com/news/articles/2026-01-12/discord-s-ipo-will-test-whether-its-freewheeling-culture-can-survive-wall-street) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Apple Picks Gemini to Run AI-Powered Siri: Report](https://www.bloomberg.com/news/videos/2026-01-12/apple-picks-gemini-to-run-ai-powered-siri-report-video) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Alphabet’s Rise to $4 Trillion Cements Status as AI Trade Winner](https://www.bloomberg.com/news/articles/2026-01-12/alphabet-s-rise-to-4-trillion-cements-status-as-ai-trade-winner) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Nvidia Partners With Eli Lilly on AI Drug Laboratory](https://www.bloomberg.com/news/videos/2026-01-12/nvidia-partners-with-eli-lilly-on-ai-drug-laboratory-video) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Why Paramount Is Suing Warner Bros.](https://www.bloomberg.com/news/videos/2026-01-12/why-paramount-is-suing-warner-bros-video) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [SocGen Turns to Microsoft’s Copilot After Scrapping Own AI Tool](https://www.bloomberg.com/news/articles/2026-01-12/socgen-turns-to-microsoft-s-copilot-after-scrapping-own-ai-tool) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Nvidia to Invest $1 Billion in AI Drug Laboratory With Eli Lilly](https://www.bloomberg.com/news/articles/2026-01-12/nvidia-to-invest-1-billion-in-ai-drug-laboratory-with-eli-lilly) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [ElevenLabs: $330M Crossed in ARR](https://www.bloomberg.com/news/videos/2026-01-12/elevenlabs-330m-crossed-in-arr-video) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Apple Taps Google Gemini to Give Siri an AI Glow-Up](https://gizmodo.com/apple-taps-google-gemini-to-give-siri-an-ai-glow-up-2000709013) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [11 Things We Learned From the ‘Stranger Things’ Finale Documentary](https://gizmodo.com/stranger-things-season-5-documentary-one-last-adventure-netflix-spoilers-2000708670) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Scientists Think They’ve Cracked One of IVF’s Biggest Problems](https://gizmodo.com/scientists-think-theyve-cracked-one-of-ivfs-biggest-problems-2000709102) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Can a Brain-Sensing Gaming Headset Finally Make Me a Pro Player?](https://gizmodo.com/neurable-hyperx-brain-sensing-gaming-headset-make-me-a-pro-player-2000709099) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [‘Lee Cronin’s The Mummy’ Takes the Monster Franchise In a Creepy New Direction](https://gizmodo.com/lee-cronin-mummy-trailer-2000709135) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Just Days From SLS Rollout, Here’s the Latest Update for NASA’s Artemis 2 Mission](https://gizmodo.com/just-days-from-sls-rollout-heres-the-latest-update-for-nasas-artemis-2-mission-2000709107) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [This Documentary Takes You Inside the Very Real World of Competitive Lightsaber Duels (Exclusive)](https://gizmodo.com/saber-documentary-star-wars-lightsabers-2000707812) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [The New ‘One Piece’ Trailer Introduces Some Baroque Baddies](https://gizmodo.com/one-piece-netflix-season-2-baroques-trailer-2000708840) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Lego’s First ‘Pokémon’ Sets Are Here, and Sorry, They Cost How Much?](https://gizmodo.com/lego-pokemon-sets-price-release-date-2000709017) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [The Weirdest Gadgets We Saw at CES 2026](https://gizmodo.com/the-weirdest-gadgets-we-saw-at-ces-2026-2000708217) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Another ‘Stranger Things’ Star Could Be Joining the MCU](https://gizmodo.com/joe-keery-mcu-casting-rumors-cyclops-nova-2000708859) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [The Golden Globes Belonged to ‘KPop Demon Hunters’ and ‘Sinners’](https://gizmodo.com/the-golden-globes-belonged-to-kpop-demon-hunters-and-sinners-2000708843) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Boost Mobile Offers $10/Month for 3 Months, Then Locks You In at $25 Forever for One of the Cheapest Unlimited Plans](https://gizmodo.com/boost-mobile-offers-10-month-for-3-months-then-locks-you-in-at-25-forever-for-one-of-the-cheapest-unlimited-plans-2000708478) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Paramount won't quit, files suit against Warner Bros. Discovery over rejected bid](https://www.engadget.com/entertainment/paramount-wont-quit-files-suit-against-warner-bros-discovery-over-rejected-bid-175317166.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Apple's Siri AI will be powered by Gemini](https://www.engadget.com/ai/apples-siri-ai-will-be-powered-by-gemini-153636649.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [ExpressVPN deal: Two-year plans are up to 78 percent off](https://www.engadget.com/deals/expressvpn-deal-two-year-plans-are-up-to-78-percent-off-180602243.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [India is proposing another far-reaching security rule for smartphones](https://www.engadget.com/cybersecurity/india-is-proposing-another-far-reaching-security-rule-for-smartphones-155204829.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Monarch Money is offering 50 percent off its budgeting app for new users](https://www.engadget.com/apps/monarch-money-is-offering-50-percent-off-its-budgeting-app-for-new-users-204507767.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Meta appoints ex-Trump and Bush official as its new president and vice chairman](https://www.engadget.com/big-tech/meta-appoints-ex-trump-and-bush-official-as-its-new-president-and-vice-chairman-151048263.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Audible deal: Get three months of access for only $3](https://www.engadget.com/deals/audible-deal-get-three-months-of-access-for-only-3-193859213.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Apple's Mac mini M4 is back on sale for $499](https://www.engadget.com/deals/apples-mac-mini-m4-is-back-on-sale-for-499-141615231.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Netflix won seven awards at the Golden Globes with Adolescence and KPop Demon Hunters](https://www.engadget.com/entertainment/streaming/netflix-won-seven-awards-at-the-golden-globes-with-adolescence-and-kpop-demon-hunters-140006510.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Get Apple's 25W MagSafe charger for only $30 right now](https://www.engadget.com/deals/get-apples-25w-magsafe-charger-for-only-30-right-now-141707104.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [This ElevationLabs 10-year extended battery case for AirTags is on sale for only $16](https://www.engadget.com/deals/this-elevationlabs-10-year-extended-battery-case-for-airtags-is-on-sale-for-only-16-162308983.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Meta closes 550,000 accounts to comply with Australia's kids social media ban](https://www.engadget.com/social-media/meta-closes-550000-accounts-to-comply-with-australias-kids-social-media-ban-130041356.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [UK regulator Ofcom opens a formal investigation into X over CSAM scandal](https://www.engadget.com/big-tech/uk-regulator-ofcom-opens-a-formal-investigation-into-x-over-csam-scandal-120000312.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [ChatGPTとの会話を丸ごと盗むChrome拡張機能、90万人以上がダウンロードする大規模被害（生成AIクローズアップ） \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/01/12/4814.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-12 [Nano Banana Pro Prompts - 高品質AIプロンプトと画像生成 - YouMind](https://youmind.com/ja-JP/nano-banana-pro-prompts) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [ECSをALBなしでお得に使いたいやん？](https://mu7889yoon.github.io/posts/alb-less-ecs/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [Anthropic、医療・創薬特化のClaude発表　新技術「Agent Skills」を投入（ITmedia NEWS） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/19e19d7b86515ead3adb753f7d65f1e440d6fc71) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [Dockerの難解なコマンドをサポートしてくれるCUIツール「lazydocker」](https://gigazine.net/news/20260104-lazydocker/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [作業効率を最大化する「デスク環境」と「AIツール｣の最適解｜genkAIjokyo\|ChatGPT/Claudeで論文作成と科研費申請](https://note.com/genkaijokyo/n/ne5321de166c3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser.](https://iczelia.net/posts/snake-polyglot/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [GitHub - kantord/headson: head/tail for structured data - summarize/preview JSON/YAML and source code](https://github.com/kantord/headson) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [VAIOが「注意書き」を書かない理由--安曇野工場の独自試験を見た](https://japan.cnet.com/article/35242162/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [The struggle of resizing windows on macOS Tahoe – no.heger](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/) *(はてなブックマーク – IT 人気エントリ)*
