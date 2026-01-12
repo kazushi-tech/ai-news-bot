@@ -9235,3 +9235,58 @@
 - [ ] 2026-01-12 [YouTubeショートで収益停止報告相次ぐ　生成AIで「まとめ」系動画を大量投稿→粗製濫造判定か \| オタク総研](https://0115765.com/archives/166519) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-12 [OAuth2認証をE2Eテストしたら、5つのバグが出てきた話 - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/01/11/064311) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-12 [Don't fall into the anti-AI hype - <antirez>](https://antirez.com/news/158) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-12T12:20:11.285Z
+- [ ] 2026-01-12 [Malaysia blocks Elon Musk’s Grok AI over fake, sexualised images](https://www.theguardian.com/technology/2026/jan/12/malaysia-blocks-elon-musk-grok-ai-fake-sexualised-images-indonesia-x-chatbot) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-12 [Ofcom investigating Elon Musk’s X after outcry over sexualised AI images](https://www.theguardian.com/technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-12 [UK threatens action against X over sexualised AI images of women and children](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-12 [Monday briefing: How Elon Musk’s Grok is being used as a tool for digital sexual abuse](https://www.theguardian.com/world/2026/jan/12/monday-briefing-how-elon-musks-grok-is-being-used-as-a-tool-for-digital-sexual-abuse) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-12 [How Shopify is bringing agentic AI to enterprise commerce](https://www.artificialintelligence-news.com/news/how-shopify-bringing-agentic-ai-enterprise-commerce/) *(Artificial Intelligence News)*
+- [ ] 2026-01-12 [Retailers like Kroger and Lowe’s test AI agents without handing control to Google](https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/) *(Artificial Intelligence News)*
+- [ ] 2026-01-12 [The Meta-Manus review: What enterprise AI buyers need to know about cross-border compliance risk](https://www.artificialintelligence-news.com/news/meta-manus-ai-vendor-compliance-risk/) *(Artificial Intelligence News)*
+- [ ] 2026-01-12 [China’s Top Paid App Is a Tool to Help Grandma Check In](https://www.bloomberg.com/news/newsletters/2026-01-12/china-s-top-paid-app-is-a-tool-to-help-grandma-check-in) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [TCS Profit Misses Estimates on Slow Tech Spending, Costs](https://www.bloomberg.com/news/articles/2026-01-12/tcs-profit-misses-estimates-in-sign-tech-spending-yet-to-pick-up) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Musk’s X Under Formal Probe by UK’s Ofcom After Grok Outcry](https://www.bloomberg.com/news/articles/2026-01-12/musk-s-x-under-formal-probe-by-uk-s-ofcom-after-grok-outcry) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [NBA Europe Pitches Investors With $1 Billion Price Tags](https://www.bloomberg.com/news/articles/2026-01-12/nba-europe-pitches-investors-with-1-billion-price-tag-per-team) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Data Centers Will Need $3 Trillion Through 2030, Moody’s Says](https://www.bloomberg.com/news/articles/2026-01-12/data-centers-will-need-3-trillion-through-2030-moody-s-says) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Wallace: Crypto Volumes Not Large in DIFC But Growing](https://www.bloomberg.com/news/videos/2026-01-12/wallace-crypto-volumes-not-large-in-difc-but-growing-video) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [BE Semiconductor Shares Soar as Fourth Quarter Bookings Double](https://www.bloomberg.com/news/articles/2026-01-12/be-semiconductor-shares-soar-as-fourth-quarter-bookings-double) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Dassault Invests In French Dronemaker at $1.4 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-12/dassault-invests-in-french-dronemaker-at-1-4-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Palantir Co-Founder Lonsdale to Invest in Nigerian Drone Maker](https://www.bloomberg.com/news/articles/2026-01-12/palantir-co-founder-lonsdale-to-invest-in-nigerian-drone-maker) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [India Space Agency Rocket Fails to Launch Second Time in A Year](https://www.bloomberg.com/news/articles/2026-01-12/india-space-agency-rocket-fails-to-launch-second-time-in-a-year) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Grok Sparks Global Alarm on Deepfakes: Helen Toner on AI Risks](https://www.bloomberg.com/news/videos/2026-01-12/grok-sparks-deepfake-alarm-video) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Xpeng Is Said to Hire Banks for Flying Car Unit IPO in Hong Kong](https://www.bloomberg.com/news/articles/2026-01-12/xpeng-is-said-to-hire-banks-for-flying-car-unit-ipo-in-hong-kong) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Chinese Startup Making Tech to Rival Neuralink Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-01-12/-hangzhou-six-tech-startup-brainco-is-said-to-file-for-hong-kong-ipo) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Mideast Venture Capital Hits Record Amid International Flows](https://www.bloomberg.com/news/articles/2026-01-12/mideast-venture-capital-hits-record-amid-international-flows) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [‘Avatar: Fire and Ash’ Fends Off ‘Primate’ At the Box Office](https://gizmodo.com/avatar-fire-and-ash-fends-off-primate-at-the-box-office-2000708835) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [This Dead Star With a Glowing Shock Wave Shouldn’t Exist](https://gizmodo.com/this-dead-star-with-a-glowing-shock-wave-shouldnt-exist-2000708244) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Malaysia and Indonesia are the first to block Grok following CSAM scandal](https://www.engadget.com/big-tech/malaysia-and-indonesia-are-the-first-to-block-grok-following-csam-scandal-120000534.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [The best laptop power banks for 2026](https://www.engadget.com/computing/accessories/best-laptop-power-bank-120040388.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Anthropic、医療・創薬特化のClaude発表　新技術「Agent Skills」を投入](https://www.itmedia.co.jp/aiplus/articles/2601/12/news022.html) *(ITmedia AI＋)*
+- [ ] 2026-01-12 [noteのおすすめページ一覧が情報商材や副業系ばかりになったことについて嘆くツイートが話題になる](https://togetter.com/li/2650739) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-12 [AIフェイクはここまで来た　自分の顔で試して分かった“違和感”と恐怖 (1/5)](https://ascii.jp/elem/000/004/365/4365434/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-12 [インターネット広告 苦情が過去最多 性的な広告の苦情 大幅増 \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015024301000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-12 [私たちが完全に理解している最も複雑なAIモデルとは何か？](https://gigazine.net/news/20260112-most-complex-ai-model/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-12 [お名前.comの罠にハマった私が、AIを「超絶クレーマー」に改造した話 - Qiita](https://qiita.com/momo22222/items/b6019ae2702c58f98bea) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-12 [Cloudflare入れたのに75%素通りだった話 ー 攻撃者も学習する](https://zenn.dev/dhc4aki/articles/af82b70c904faa) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [イラン、史上初の衛星インターネット遮断、スターリンクに「キルスイッチ」発動 \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/89252) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [おい、辞めないなら頑張れ - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/01/12/003013) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [現代ネット社会は評論家など中間的な知的権威を認めず、ガチ専門家だけを尊重しがちだが、「専門性を素人は判断できない」ので彼らの与太話を信じてしまう脆弱性がある](https://togetter.com/li/2650932) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [通信速度がやけに遅いので色々調べた上でLANケーブルを新しくしたら爆速になった話「見落としがちなので要確認」「カテゴリはケーブルに印字されてる」](https://togetter.com/li/2650946) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [2026 is the Year of Self-hosting](https://fulghum.io/self-hosting) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [コーディングエージェントにやさしい環境は、人間にも優しかった ghq × gwq × fzf のススメ](https://zenn.dev/shunk031/articles/ghq-gwq-fzf-worktree) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [GitHub - VibiumDev/vibium: Browser automation for AI agents and humans](https://github.com/VibiumDev/vibium) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [AI エージェントのために CLI でブラウザを操作する agent-browser](https://azukiazusa.dev/blog/agent-browser-for-ai-agents/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [プロジェクトマネジメントで活用する「7つの習慣」｜すぅ \| AI駆動PM](https://note.com/suh_sunaneko/n/n3527bc431b84) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [Claude Code Usage Monitor (ccm) 導入ガイド](https://zenn.dev/d3com/articles/406ca6eba52e3c) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [2026年最新！小型LLM日本語ガチランキング【Qwen3 vs Gemma3 vs TinyLlama】Ollamaで爆速カスタム術も](https://zenn.dev/kewa8579/articles/2996512cafaec4) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [LLMの中身を覗いてみたら、Transformerは「回路」を形成していた](https://zenn.dev/50s_zerotohero/articles/a6189c891fbd71) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [RAGの評価とハルシネーション対策 — RGBとRAGTruthから考える](https://zenn.dev/lluminai_tech/articles/26504e8bfcbdc6) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [ADKでPlaywright MCPと連携したエージェントを作ってみる](https://zenn.dev/whshido/articles/81d6538ecd087e) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [Claude Codeスキルで実現する仕様駆動開発](https://zenn.dev/sakamotchi8/articles/ai-spec-driven-development) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [Claude Codeのplan modeをデフォルトにする](https://zenn.dev/ukanamo/articles/claude-code-plan-mode-default) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [AIコーディングエージェントでドラッグ&ドロップSQL構築アプリを作った](https://zenn.dev/sakamotchi8/articles/sql-query-builder-introduction) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [Claude Codeから OpenCode + GLM-4.7 へ移行：コストを1/7に削減する方法](https://zenn.dev/aileron/articles/migrate-claude-code-to-glm-opencode) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [SwiftからiPhone内蔵のAIと対話してみる](https://zenn.dev/jinjer_techblog/articles/9127adb374685a) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [CursorとOllamaでローカルLLM](https://zenn.dev/umitempa/articles/3f32ea6ad88656) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [spec-kitは"ただのInstruction集"だった：既存リポジトリへ後付け導入してドキュメントも書かせる実例](https://zenn.dev/suusanex/articles/a1327d809e2e19) *(Zenn – トピック AI)*
