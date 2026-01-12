@@ -8840,3 +8840,44 @@
 - [ ] 2026-01-11 [生成AI搭載「Alexa+」を社内テストしたアマゾン従業員の自宅で水槽の魚が死んだ。機能改善に疑問の声 \| Business Insider Japan](https://www.businessinsider.jp/article/alexa-killed-my-fish-tales-from-amazon-employee-beta-testers-2026-1/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-11 [Against Railway-Oriented Programming \| F# for fun and profit](https://fsharpforfunandprofit.com/posts/against-railway-oriented-programming/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-11 [[AI Agent Jump Start：応用編#8] Langflow](https://zenn.dev/dxclab/articles/08cbdf218e46d8) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-12T00:50:14.131Z
+- [ ] 2026-01-11 [NZ’s low productivity is often blamed on businesses staying small. That could be a strength in 2026](https://theconversation.com/nzs-low-productivity-is-often-blamed-on-businesses-staying-small-that-could-be-a-strength-in-2026-271177) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-11 [Netflix Begins Its Grand Podcast Experiment](https://www.bloomberg.com/news/newsletters/2026-01-11/netflix-begins-its-grand-podcast-experiment-with-bill-simmons) *(Bloomberg Technology)*
+- [ ] 2026-01-11 [Meta Shuts 550,000 Accounts on Australia’s Kids Social Media Ban](https://www.bloomberg.com/news/articles/2026-01-11/meta-shuts-550-000-accounts-on-australia-s-kids-social-media-ban) *(Bloomberg Technology)*
+- [ ] 2026-01-11 [Macquarie’s Latest Data Center Bet is a Tiny German Startup](https://www.bloomberg.com/news/articles/2026-01-11/macquarie-loans-117-million-to-polarise-for-data-center-fit-outs) *(Bloomberg Technology)*
+- [ ] 2026-01-11 [China’s PE Trailblazer Fang Faces Doubts on Returns, Succession](https://www.bloomberg.com/news/articles/2026-01-11/china-s-pe-trailblazer-hopu-faces-doubts-on-returns-succession) *(Bloomberg Technology)*
+- [ ] 2026-01-11 [Anthropic Adds Features for Doctors, Patients in Health Care Push](https://www.bloomberg.com/news/articles/2026-01-11/anthropic-adds-features-for-doctors-patients-in-health-care-push) *(Bloomberg Technology)*
+- [ ] 2026-01-11 [The 2026 Golden Globes Are Tonight. Here’s Everything You Need To Know](https://gizmodo.com/the-2026-golden-globes-are-tonight-heres-everything-you-need-to-know-2000708820) *(Gizmodo – Technology)*
+- [ ] 2026-01-11 [Trump Administration Wants to Achieve ‘Pax Silica’ Through AI. Here’s What That Means](https://gizmodo.com/trump-administration-wants-to-achieve-pax-silica-through-ai-heres-what-that-means-2000708775) *(Gizmodo – Technology)*
+- [ ] 2026-01-11 [DC’s Tournament Arc Comic Adds ‘Mortal Kombat’ and Annabelle, Cuz Why Not](https://gizmodo.com/dcs-tournament-arc-comic-adds-mortal-kombat-and-annabelle-cuz-why-not-2000708692) *(Gizmodo – Technology)*
+- [ ] 2026-01-11 [Bitcoin Mining is Being Used to Offset Heating Costs in Greenhouses and Homes](https://gizmodo.com/bitcoin-mining-is-being-used-to-offset-heating-costs-in-greenhouses-and-homes-2000708684) *(Gizmodo – Technology)*
+- [ ] 2026-01-11 [RIP Guy Moon, Composer of ‘Fairly Oddparents,’ ‘Danny Phantom,’ and More](https://gizmodo.com/rip-guy-moon-composer-of-fairly-oddparents-danny-phantom-and-more-2000708777) *(Gizmodo – Technology)*
+- [ ] 2026-01-11 [Google's new commerce framework cranks up the heat on 'agentic shopping'](https://www.engadget.com/big-tech/googles-new-commerce-framework-cranks-up-the-heat-on-agentic-shopping-212433122.html?src=rss) *(Engadget)*
+- [ ] 2026-01-11 [California's governor plans to set aside $200 million for state EV tax credits](https://www.engadget.com/transportation/evs/californias-governor-plans-to-set-aside-200-million-for-state-ev-tax-credits-194446449.html?src=rss) *(Engadget)*
+- [ ] 2026-01-11 [ISACA、AI監査資格「Advanced in AI Audit（AAIA）」の日本語提供を開始　学習キットも充実](https://atmarkit.itmedia.co.jp/ait/articles/2601/12/news007.html) *(ITmedia AI＋)*
+- [ ] 2026-01-12 [Blueskyで「よくある勘違い」10選 \| Bam](https://whtwnd.com/boobam.bsky.social/3mc52c5hfyj2z) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [ちなみにpico-banana-appは女性](https://anond.hatelabo.jp/20260111212639) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [数GBのLLMモデルを、LambdaでLinuxシステムコールを駆使して本番水準で動かす - Nealle Developer's Blog](https://nealle-dev.hatenablog.com/entry/2026/01/08/103135) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [驚異の58%オフ、2万円引き。Googleの｢最強AI使いまくりプラン｣がセール中](https://www.gizmodo.jp/2025/12/google_ai_pro_annual_discount_by_58_percent.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [The Frontier Is Now Free](https://ampcode.com/news/amp-free-frontier) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [観測記録：AGIに「見えたもの」と、その正体](https://zenn.dev/dosanko_tousan/articles/d46d59f94b8b6b) *(Zenn – トピック LLM)*
+- [ ] 2026-01-11 [なぜ、人々はAIのハルシネーションには敏感なくせに辞書の間違いに鈍感なのか？](https://zenn.dev/pdfractal/articles/b80801cf2f1a54) *(Zenn – トピック LLM)*
+- [ ] 2026-01-11 [AIの出力、信じちゃダメ！🔍 プロパティベースドテストに学ぶ「検証」のススメ](https://zenn.dev/sumih/articles/ai-verification-property-based-testing) *(Zenn – トピック LLM)*
+- [ ] 2026-01-11 [生成AIが文章を書いてくれる今、0から文章を書く意味があるのだろうか](https://zenn.dev/poyo010/articles/why-human-write) *(Zenn – トピック LLM)*
+- [ ] 2026-01-11 [NeoVimで選択範囲の行情報をコピーしてAIに投げる](https://zenn.dev/yutti/articles/copy-error-in-nvim) *(Zenn – トピック LLM)*
+- [ ] 2026-01-11 [なぜ「巨大コンテキスト」は生成AI開発の本質的解決にならないのか](https://zenn.dev/smatsuda/articles/65d575fb753895) *(Zenn – トピック LLM)*
+- [ ] 2026-01-11 [【2026年最新】xAIの次なる一手「Grok 4.2」のリーク情報まとめ：驚異のコンテキストウィンドウとコーディング能力](https://zenn.dev/ainohogosya/articles/10bfdb74640b27) *(Zenn – トピック LLM)*
+- [ ] 2026-01-11 [AIで作る業務動画 Day 12｜Remotionで音声と字幕を同期させる](https://zenn.dev/akira_cloudjob/articles/20260112-remotion-audio-subtitle) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [エンジニアの仕事が変わる？AIがバグを自動修正する「SWE-Lego」が開発現場を変える](https://zenn.dev/mhamada/articles/0dc0d0100dd31b) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [AIは『翻訳機』ではなく『参謀』である：Appleとの120時間論理戦を支えた、プロンプトを超える対話術](https://zenn.dev/ryuzaburo/articles/f3960421d81709) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [AIに「個性を奪われる」は間違いだった。逆に「自分らしさ」が爆発する理由](https://zenn.dev/rust_start/articles/42272e33613cb0) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [Claude CodeでClauto Develop](https://zenn.dev/ksuzumura/articles/64b643f35da1ff) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [Qiitaアドベントカレンダー3年連続完走から記事作成を支えたAI運用システム設計を考えた](https://zenn.dev/nomuraya/articles/qiita-advent-calendar-2025-ai-system) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [なぜAIは自律的に動けないのか？ ― 人間との比較から見える4つの欠落と対策](https://zenn.dev/tshpaper/articles/b849add53f7226) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [チャットで買い物が完結？MicrosoftのAIが変える「会話型ショッピング」の衝撃](https://zenn.dev/mhamada/articles/898da50701c2f2) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [【無料】AIコーディングモデル4種を実戦比較！React Toast実装で見えた実力差](https://zenn.dev/cbot/articles/3a32b256ab7845) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [週刊AI駆動開発 - 2026年01月11日](https://zenn.dev/pppp303/articles/weekly_ai_20260111) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [Google AI 3兄弟の使い分けガイド：Gemini / Google AI Studio / Gemini Code Assist](https://zenn.dev/sesamy_jp/articles/d9cc7cde1d9974) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [SIerが本気で使い分ける「AIノート」3選](https://zenn.dev/syoshida07/articles/0f1936ca27b7c6) *(Zenn – トピック AI)*
+- [ ] 2026-01-11 [毎日の散歩でAIデトックスしよう！伸ばせ、健康寿命とエンジニア寿命。](https://zenn.dev/longbow/articles/20260111_ai-detox) *(Zenn – トピック AI)*
