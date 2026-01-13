@@ -10287,3 +10287,58 @@
 - [ ] 2026-01-13 [写真を手がかりにたった30秒で盗難車の居場所を見つけるAIシステムとは？](https://gigazine.net/news/20260113-locating-photo-vehicle-geospy/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-13 [ObsidianでPDFを利用する−プラグイン「PDF++」−](https://www.abetaka.jp/post/obsidian%E3%81%A7pdf%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B-%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%80%8Cpdf-%E3%80%8D) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-13 [ゲームエフェクトってどうやってできてるの？](https://zenn.dev/kurie/articles/771d62b9790416) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-13T12:19:53.615Z
+- [ ] 2026-01-13 [Love Machines by James Muldoon review – inside the uncanny world of AI relationships](https://www.theguardian.com/books/2026/jan/13/love-machines-by-james-muldoon-review-the-risks-and-rewards-of-getting-intimate-with-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-13 [After the Bondi attack, a deepfaked Guardian video went viral. It won't be the last – video](https://www.theguardian.com/australia-news/video/2026/jan/13/bondi-attack-deepfake-guardian-ai-viral-video-ntwnfb) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-13 [Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration](https://www.wired.com/story/the-big-interview-podcast-reid-hoffman/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-13 [The latency trap: Smart warehouses abandon cloud for edge](https://www.artificialintelligence-news.com/news/the-latency-trap-smart-warehouses-abandon-cloud-for-edge/) *(Artificial Intelligence News)*
+- [ ] 2026-01-13 [Why Apple chose Google over OpenAI: What enterprise AI buyers can learn from the Gemini deal](https://www.artificialintelligence-news.com/news/apple-gemini-siri-enterprise-foundation-models/) *(Artificial Intelligence News)*
+- [ ] 2026-01-13 [Investors Want a Broader AI Trade, But It’s Volatile Out There](https://www.bloomberg.com/news/articles/2026-01-13/investors-want-a-broader-ai-trade-but-it-s-volatile-out-there) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Japan’s Chatty New Robot Is Fluffy, Lovable and Dorky](https://www.bloomberg.com/news/newsletters/2026-01-13/sharp-poketomo-review-fluffy-lovable-pricey-and-dorky) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Proxima Raises $80 Million for AI Drug Discovery From DCVA, Nvidia](https://www.bloomberg.com/news/articles/2026-01-13/proxima-raises-80-million-for-ai-drug-discovery-from-dcva-nvidia) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [UK Altnet Firm G.Network Put Into Administration Ahead of Sale](https://www.bloomberg.com/news/articles/2026-01-13/uk-altnet-firm-g-network-put-into-administration-ahead-of-sale) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [UK Recruiters Face Dire Year With Tough Jobs Market, AI Risk](https://www.bloomberg.com/news/articles/2026-01-13/uk-recruiters-face-dire-year-with-tough-jobs-market-ai-threat) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Musk’s X Faces Malaysia Legal Action Over Grok Sexual Images](https://www.bloomberg.com/news/articles/2026-01-13/musk-s-x-faces-legal-action-by-malaysia-over-grok-sexual-images) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Spotify’s New CEOs Are Battling Algo Fatigue and Angry Artists](https://www.bloomberg.com/news/features/2026-01-13/spotify-s-new-ceos-are-battling-angry-artists-and-algo-fatigue) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Bitcoins als Kreditabsicherung](https://www.bloomberg.com/news/videos/2026-01-13/bitcoins-als-kreditabsicherung-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [TCS CEO on India’s IT Outlook and AI Strategy](https://www.bloomberg.com/news/videos/2026-01-13/tcs-ceo-on-india-s-it-outlook-and-ai-strategy-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [HCLTech CEO on AI Strategy, Mega Deals & Growth Outlook](https://www.bloomberg.com/news/videos/2026-01-13/hcltech-ceo-on-ai-strategy-mega-deals-growth-outlook-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Peter Capaldi Thinks ‘Doctor Who’ Has to Become Less Important to Survive](https://gizmodo.com/peter-capaldi-doctor-who-disney-budget-2000709395) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [The Morning After: Apple will use Gemini to power Siri AI](https://www.engadget.com/general/the-morning-after-engadget-newsletter-151521620.html?src=rss) *(Engadget)*
+- [ ] 2026-01-13 [Proton's Lumo AI chatbot now has an encrypted space for your projects](https://www.engadget.com/ai/protons-lumo-ai-chatbot-now-has-an-encrypted-space-for-your-projects-110000298.html?src=rss) *(Engadget)*
+- [ ] 2026-01-13 [The best streaming devices for 2026](https://www.engadget.com/entertainment/streaming/best-streaming-devices-media-players-123021395.html?src=rss) *(Engadget)*
+- [ ] 2026-01-13 [OpenAI、医療系スタートアップ買収　「ChatGPT ヘルスケア」強化へ](https://www.itmedia.co.jp/aiplus/articles/2601/13/news109.html) *(ITmedia AI＋)*
+- [ ] 2026-01-13 [ファミマ、AIで売り場を採点　品ぞろえ最適化へ実証実験](https://www.itmedia.co.jp/aiplus/articles/2601/13/news107.html) *(ITmedia AI＋)*
+- [ ] 2026-01-13 [2026年のIT動向は？　Dellらが発表した「5つのキーワード」から考察](https://www.itmedia.co.jp/enterprise/articles/2601/13/news089.html) *(ITmedia AI＋)*
+- [ ] 2026-01-13 [運転席もハンドルもない「ロボタクシー」に乗ってみた　Amazon傘下「Zoox」の実力は？](https://www.itmedia.co.jp/news/articles/2601/13/news082.html) *(ITmedia AI＋)*
+- [ ] 2026-01-13 [すかいらーくグループ3000店舗で進む生成AI活用　店舗オペレーションとデータ活用を効率化](https://www.itmedia.co.jp/enterprise/articles/2601/13/news075.html) *(ITmedia AI＋)*
+- [ ] 2026-01-13 [MANGA-WHO \| 無料で漫画風の画像加工を快適に](https://amix-design.com/tl/tool-d-manga/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-13 [「手ごろさ」論争の落とし穴（The Economist） - 日本経済新聞](https://www.nikkei.com/article/DGXZQOCB060420W6A100C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-13 [野球の解説を生成AIにしてもらう時代がもうすぐやってくる - メジャーリーガーを探す・評価するAI Agentを作ってみた - Lean Baseball](https://shinyorke.hatenablog.com/entry/ai-agent-for-baseballsavant) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-13 [マッキンゼーが「人間がAIに勝てる」3つのスキルを特定。「若手が磨くべき分野」はこれだ \| Business Insider Japan](https://www.businessinsider.jp/article/2601-mckinsey-boss-shares-human-skills-ai-models-cant-do/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-13 [Introducing Cowork \| Claude](https://claude.com/blog/cowork-research-preview) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-13 [JCB、新ポイント「J-POINT」開始　Amazonやマクドナルドなどで最大10％還元](https://k-tai.watch.impress.co.jp/docs/news/2077290.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [独身の人が孤独死していないかどうかを知らせるアプリ「死了么(死んだ？)」が中国のApp Storeで有料アプリのトップにランクイン](https://gigazine.net/news/20260113-are-you-dead-china-app/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [仕様が変わった？ Windows Media Playerやメディアプレーヤー、CDの楽曲情報取得が不可能に【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2077272.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [タスクバーでネコが飼えるCPUメーター「RunCat 365」、ネットワーク速度も確認可能に／v3.2.0がリリース](https://forest.watch.impress.co.jp/docs/news/2077212.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [料金改定で「mineo」はどれだけお得になった？　「1Mbps／3Mbps使い放題」の実測値やお得な裏技も紹介](https://www.itmedia.co.jp/mobile/articles/2601/13/news090.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [UseCaseレイヤーって要るの？](https://zenn.dev/timelab/articles/354615e675ae9a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [iptables入れたのにまだ27%直接アクセスされてた ー IPv6を忘れていた](https://zenn.dev/dhc4aki/articles/955d4fcbea3196) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [AppleがGoogleのGeminiを使う複数年契約を締結、イーロン・マスクは「不当な権利の集中」と非難](https://gigazine.net/news/20260113-apple-intelligence-google-gemini/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [Grokがマレーシアでも利用不可能に、X(旧Twitter)での合意のない性的コンテンツ生成が原因](https://gigazine.net/news/20260113-grok-blocked-malaysia/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [「史上初の事態」、インターネット遮断のイランが、Starlinkの通信も妨害か【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2077254.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [RAGの精度は運用で決まる｜Langfuseで回す改善サイクルの現実解](https://zenn.dev/startspace/articles/3762aa83421568) *(Zenn – トピック LLM)*
+- [ ] 2026-01-13 [ローカルドキュメント探しの工数を、CLI一発に圧縮した話](https://zenn.dev/ryu_techgeek/articles/341f5ae51f20e2) *(Zenn – トピック LLM)*
+- [ ] 2026-01-13 [LLMは一発のプロンプトでは安定しない](https://zenn.dev/dosanko_tousan/articles/d3d60e38dc3e46) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [【PyTorch/FastAPI】LLMの隠れ層にリアルタイムで介入するAITuber配信システムの実装 (WSL2 + Windows)](https://zenn.dev/toki_mwc/articles/bc80993a530f33) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [エンジニア転職へ繋がった技術ブログをFigma Make x Cursorを使って2日でフルリプレイスした。](https://zenn.dev/unemployed/articles/nextjs-build-techblog-v2) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [AI時代だからこそ輝くUSDM式で要求を正しく仕様化する](https://zenn.dev/noda_k/articles/96fdc0ea2abf46) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [AI証人尋問シミュレーターとは？弁護士の尋問準備を革新する法廷AI技術を完全解説](https://zenn.dev/headwaters/articles/f0931998867034) *(Zenn – トピック LLM)*
+- [ ] 2026-01-13 [2026年、AIは『同僚』になる - エージェントAIとの協働で変わる働き方と必須スキル](https://zenn.dev/agenticai_flow/articles/ai-as-a-colleague-2026) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [Cowork徹底解説：AIエージェントがあなたの仕事をどう変えるのか](https://zenn.dev/ryu_techgeek/articles/9ea5dafea19434) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [「LSP」によるAI Agentのトークン削減とコード理解精度向上](https://zenn.dev/hongbod/articles/18244ed3630bb1) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [【新たなAI活用の選択肢？】Liquid AIが新しいモデル、LFM2.5をリリース【On-device／Edge AI】](https://zenn.dev/mochan_tk/articles/fdad65758e4709) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 ["AIエージェント時代、正直しんどい話" に対する処方箋](https://zenn.dev/hand_dot/articles/93089ca5b6de7f) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [AIで作る業務動画 Day 13｜Remotionでキャラクター表示コンポーネントを作る](https://zenn.dev/akira_cloudjob/articles/20260113-remotion-character-component) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [【13日目】MLflow で実験管理を始めよう 〜 モデル開発の「試行錯誤」を正しく記録する仕組み 〜](https://zenn.dev/churadata/articles/961bc10fd19ef6) *(Zenn – トピック 機械学習)*
