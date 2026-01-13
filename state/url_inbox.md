@@ -9348,3 +9348,107 @@
 - [ ] 2026-01-12 [GitHub - kantord/headson: head/tail for structured data - summarize/preview JSON/YAML and source code](https://github.com/kantord/headson) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-12 [VAIOが「注意書き」を書かない理由--安曇野工場の独自試験を見た](https://japan.cnet.com/article/35242162/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-12 [The struggle of resizing windows on macOS Tahoe – no.heger](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-13T00:42:04.083Z
+- [ ] 2026-01-12 [Ben Jennings on Elon Musk’s Grok AI tool – cartoon](https://www.theguardian.com/commentisfree/picture/2026/jan/12/ben-jennings-elon-musk-grok-ai-tool-cartoon) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-12 [The Guardian view on regulating big tech: politicians must back Ofcom’s challenge to Musk \| Editorial](https://www.theguardian.com/commentisfree/2026/jan/12/the-guardian-view-on-regulating-big-tech-politicians-must-back-ofcoms-challenge-to-musk) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-12 [Engineers Deploy “Poison Fountain” That Scrambles Brains of AI Systems](https://futurism.com/artificial-intelligence/poison-fountain-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-12 [Tech Startup Hiring Desperate Unemployed People to Teach AI to Do Their Old Jobs](https://futurism.com/artificial-intelligence/mercor-unemployed-teach-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-12 [Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required](https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no) *(VentureBeat – AI)*
+- [ ] 2026-01-12 [Google's Universal Commerce Protocol Drives AI Shopping](https://aibusiness.com/agentic-ai/google-s-universal-commerce-protocol) *(AI Business)*
+- [ ] 2026-01-12 [Apple to Overhaul AI Efforts, Siri With Google Gemini](https://aibusiness.com/speech-recognition/apple-taps-google-gemini-siri) *(AI Business)*
+- [ ] 2026-01-12 [OpenAI, SoftBank Invest $1B in SB Energy as AI Buildout Continues](https://aibusiness.com/data-centers/openai-softbank-sb-energy-ai-buildouts) *(AI Business)*
+- [ ] 2026-01-13 [SK Hynix Plans to Invest $13 Billion in New Chip Packaging Plant](https://www.bloomberg.com/news/articles/2026-01-13/sk-hynix-plans-to-invest-13-billion-in-new-chip-packaging-plant) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Trump Says Tech Giants Must Bear Cost of Data Center Electricity](https://www.bloomberg.com/news/articles/2026-01-13/trump-says-tech-giants-must-bear-cost-of-data-center-electricity) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [GigaDevice Set for Hong Kong Debut After $600 Million Offering](https://www.bloomberg.com/news/articles/2026-01-12/gigadevice-set-for-hong-kong-debut-after-600-million-offering) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Apple Picks Gemini to Run AI-Powered Siri  \| Bloomberg Tech 1/12/2026](https://www.bloomberg.com/news/videos/2026-01-12/bloomberg-tech-1-12-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Musk Moves Back Into Trump Orbit](https://www.bloomberg.com/news/videos/2026-01-12/musk-moves-back-into-trump-orbit-video) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [EV, Self-Driving Competition Kicks Into Higher Gear in 2026](https://www.bloomberg.com/news/videos/2026-01-12/ev-self-driving-competition-kicks-into-higher-gear-video) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Meta Plans to Cut 10% of Jobs at Company’s Reality Labs Division](https://www.bloomberg.com/news/articles/2026-01-12/meta-plans-to-cut-10-of-jobs-at-company-s-reality-labs-division) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [GE Healthcare CEO on Threats From AI](https://www.bloomberg.com/news/videos/2026-01-12/peter-arduini-on-ai-global-strategy) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Nvidia to Invest $1 Billion in AI Drug Lab With Eli Lilly](https://www.bloomberg.com/news/videos/2026-01-12/nvidia-to-invest-1-billion-in-ai-drug-lab-video) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Medtronic Partners With Neuralink Rival Precision for Brain Tech](https://www.bloomberg.com/news/articles/2026-01-12/medtronic-partners-with-neuralink-rival-precision-for-brain-tech) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [New AI Model Lets Robot Neo Learn Tasks From Scratch](https://www.bloomberg.com/news/videos/2026-01-12/new-ai-model-lets-robot-neo-learn-tasks-from-scratch-video) *(Bloomberg Technology)*
+- [ ] 2026-01-12 [Meta Deals Need $14 Billion in New Reactors, BloombergNEF Says](https://www.bloomberg.com/news/articles/2026-01-12/meta-nuclear-deals-to-require-over-14-billion-in-new-reactors) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Tracking Insider Trading on Polymarket Is Turning Into a Business of Its Own](https://gizmodo.com/tracking-insider-trading-on-polymarket-is-turning-into-a-business-of-its-own-2000709286) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Meta Reportedly Cutting About 1,500 VR and AR Jobs Amid Renewed Push to Become an AI Juggernaut](https://gizmodo.com/meta-reportedly-cutting-about-1500-vr-and-ar-jobs-amid-renewed-push-to-become-an-ai-juggernaut-2000708826) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [I’m Claiming Stellan Skarsgård’s Golden Globe for ‘Andor’](https://gizmodo.com/im-claiming-stellan-skarsgards-golden-globe-for-andor-2000709390) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [NASA’s First ISS Medical Evacuation Is Happening This Week. Here’s What We Know](https://gizmodo.com/nasas-first-iss-medical-evacuation-is-happening-this-week-heres-what-we-know-2000709354) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Jensen Huang Is Begging You to Stop Being So Negative About AI](https://gizmodo.com/jensen-huang-is-begging-you-to-stop-being-so-negative-about-ai-2000709335) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [An App Called ‘Are You Dead?’ Is Climbing the Apple Charts](https://gizmodo.com/an-app-called-are-you-dead-is-climbing-the-apple-charts-2000709373) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Grok’s Sexual Deepfakes Will Become Illegal in the UK This Week](https://gizmodo.com/groks-sexual-deepfakes-will-become-illegal-in-the-uk-this-week-2000709212) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Youngest UK Dementia Case Dies at 24](https://gizmodo.com/youngest-uk-dementia-case-dies-at-24-2000709304) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [George R.R. Martin Still Hasn’t Finished ‘Winds of Winter,’ but New Dunk and Egg Stories Are on His Mind](https://gizmodo.com/george-rr-martin-new-dunk-and-egg-game-of-thrones-winds-of-winter-2000709355) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Humanoid Robots Are Here… and Embarrassingly Bad at Being Our Servants](https://gizmodo.com/humanoid-robots-are-here-and-embarrassingly-bad-at-being-our-servants-ces-2026-2000709300) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Tether Freezes $182 Million in Stablecoins as Reports Point to Heavy Crypto Use by Venezuela](https://gizmodo.com/tether-freezes-182-million-in-stablecoins-as-reports-point-to-heavy-crypto-use-by-venezuela-2000709276) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Researchers Discover Previously Unknown Species in Utah’s Great Salt Lake](https://gizmodo.com/researchers-discover-previously-unknown-species-in-utahs-great-salt-lake-2000709251) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Alphabet’s Wing Adds 150 Walmart Stores to Drone Delivery Program](https://gizmodo.com/alphabets-wing-adds-150-walmart-stores-to-drone-delivery-program-2000709294) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Paramount Is Going Full Borg to Try and Stop the Netflix-Warner Bros. Merger](https://gizmodo.com/paramount-netflix-warner-bros-lawsuit-2000709200) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [New Research Exposes the Good and the Gross in Pompeii’s Baths](https://gizmodo.com/new-research-exposes-the-good-and-the-gross-in-pompeiis-baths-2000708925) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [China Just Built Its Own Time System for the Moon](https://gizmodo.com/china-just-built-its-own-time-system-for-the-moon-2000708991) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Trump Administration Takes Stake in Major Critical Mineral Firm](https://gizmodo.com/trump-administration-takes-stake-in-major-critical-mineral-firm-2000709109) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Hell Yeah, an Action Figure Wave of ‘Star Wars’ Freaks](https://gizmodo.com/star-wars-black-series-taun-we-watto-geonosian-price-release-date-2000709197) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Museum Kept Mammoth Fossils for 70 Years. They Turned Out to Be Something Else Entirely](https://gizmodo.com/museum-kept-mammoth-fossils-for-70-years-they-turned-out-to-be-something-else-entirely-2000709128) *(Gizmodo – Technology)*
+- [ ] 2026-01-12 [Framework increases Desktop prices by up to $460 due to RAM crisis](https://www.engadget.com/computing/framework-increases-desktop-prices-by-up-to-460-due-to-ram-crisis-234827145.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Our favorite UGreen 3-in-1 wireless charger is 32 percent off right now](https://www.engadget.com/deals/our-favorite-ugreen-3-in-1-wireless-charger-is-32-percent-off-right-now-214707069.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Lego's first Pokémon sets are now available for pre-order](https://www.engadget.com/entertainment/legos-first-pokemon-sets-are-now-available-for-pre-order-205527102.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Anthropic made a version of its coding AI for regular people](https://www.engadget.com/ai/anthropic-made-a-version-of-its-coding-ai-for-regular-people-193000363.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [The Disney+ Hulu bundle is on sale for $10 for one month right now](https://www.engadget.com/deals/the-disney-hulu-bundle-is-on-sale-for-10-for-one-month-right-now-192814784.html?src=rss) *(Engadget)*
+- [ ] 2026-01-12 [Mark Zuckerberg announces new 'Meta Compute' initiative for its data center and AI projects](https://www.engadget.com/ai/mark-zuckerberg-announces-new-meta-compute-initiative-for-its-data-center-and-ai-projects-192100086.html?src=rss) *(Engadget)*
+- [ ] 2026-01-13 [米国防総省、量子技術を兵器戦略の中心に　通信・航法システムを整備](https://xtech.nikkei.com/atcl/nxt/column/18/03098/121500051/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [コスモエネルギーHDは「全員参加型」のDX推進、AIで現場作業を自動化](https://xtech.nikkei.com/atcl/nxt/column/18/01159/122400077/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [止まらないランサムウエア、人材不足も深刻化　サイバーセキュリティーの業界地図](https://xtech.nikkei.com/atcl/nxt/column/18/03426/122600022/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [LAN分野は「Ultra Ethernet」に注目、GPUサーバー同士を高速でつなぐ](https://xtech.nikkei.com/atcl/nxt/column/18/03460/010600001/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [ベンダーPMが途中交代、ピンチをチャンスに変えるユーザーの行動](https://xtech.nikkei.com/atcl/nxt/column/18/01111/010700074/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [見よう見まねはもう卒業、ネットワーク図を悩まず描ける基本の6ステップ](https://xtech.nikkei.com/atcl/nxt/column/18/03451/122200002/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [バッテリーの減りが早い、powercfgコマンドで劣化具合を確認](https://xtech.nikkei.com/atcl/nxt/column/18/03436/121200005/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [電気で塩味を感じさせる「エレキソルト」、キリンHDがスプーンとカップ発売](https://xtech.nikkei.com/atcl/nxt/column/18/01679/112700257/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [積水化学が約25年前の会計システムを刷新、S/4HANAで経営高度化狙う](https://xtech.nikkei.com/atcl/nxt/column/18/00678/122500172/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [バイブコーディングからバイブクリエーションへ、AIがもたらす現場回帰](https://xtech.nikkei.com/atcl/nxt/column/18/00138/010601925/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [待ったなしのランサム対策、事業を守る「緊急点検10項目」を一挙公開](https://xtech.nikkei.com/atcl/nxt/column/18/03461/010700002/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [生成AIはプログラマーの仕事を奪うのか？](https://xtech.nikkei.com/atcl/nxt/column/18/03450/010700001/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [人型ロボットが世界を席巻　EV・半導体の作り手に、家事も担う](https://xtech.nikkei.com/atcl/nxt/column/18/03435/010800003/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [Viwoods電子ノート、カレンダーで日々の記録　手書き内容も分析](https://xtech.nikkei.com/atcl/nxt/column/18/00087/00420/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [島根の公益財団で個人情報漏洩、同時ログインが不具合誘発しメール誤送信](https://xtech.nikkei.com/atcl/nxt/column/18/00598/010900347/) *(日経クロステック IT)*
+- [ ] 2026-01-12 [生成AI「利用率95％」への壁をどう突破した？　ZOZOが全社で挑んだ“野球リーグ式”の超・活用推進策](https://www.itmedia.co.jp/business/articles/2601/13/news013.html) *(ITmedia AI＋)*
+- [ ] 2026-01-12 [英規制当局、Xの「Grok」の正式調査開始　性的ディープフェイクで巨額罰金の可能性](https://www.itmedia.co.jp/news/articles/2601/13/news046.html) *(ITmedia AI＋)*
+- [ ] 2026-01-12 [Rescaleの次なる一手は「Data Intelligence」――CEOが語るR&D変革のビジョン](https://monoist.itmedia.co.jp/mn/articles/2601/13/news003.html) *(ITmedia AI＋)*
+- [ ] 2026-01-12 [AGIは2031年、ASIは2034年に来る？　『AI 2027』から延期された理由](https://atmarkit.itmedia.co.jp/ait/articles/2601/13/news008.html) *(ITmedia AI＋)*
+- [ ] 2026-01-12 [Appleの次世代AIはGoogle Geminiベースに　「数年にわたる協力関係」を開始](https://www.itmedia.co.jp/aiplus/articles/2601/13/news044.html) *(ITmedia AI＋)*
+- [ ] 2026-01-13 [Appleによる「Gemini」採用は「不当な権力集中」──「Grok」擁するイーロン・マスク氏](https://www.itmedia.co.jp/news/articles/2601/13/news045.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-13 [Joint statement from Google and Apple](https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-13 [アップル、「Gemini」をAI基盤に採用　次世代Siriなど](https://www.watch.impress.co.jp/docs/news/2077208.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-13 [Agent Skills Scriptsアンチパターン その1](https://zenn.dev/tkithrta/articles/6e36550369a65e) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-13 [誰でもサムネ&図解をコピペで作れる！Nanobananaジェネレーター公開｜ひつじ](https://note.com/hituji1234/n/nad71e9babd5a) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-13 [VS Code の Remote Development は仕組みを理解してないと危ない - Qiita](https://qiita.com/coatly/items/a392925346f091b49279) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [AIはなぜTypeScriptのような型付き言語の普及を促進するのか、GitHubが理由を説明](https://www.publickey1.jp/blog/26/aitypescriptgithub.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [ソニーもグーグルも去ったCESとテクノロジーの変化　中国のスピードへの対抗【西田宗千佳のイマトミライ】](https://www.watch.impress.co.jp/docs/series/nishida/2077203.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [人間がECサイトを訪れることなく、AIエージェントとの対話だけで商品を探し、購入、決済まで実現する「Universal Commerce Protocol」（UCP）登場](https://www.publickey1.jp/blog/26/ecaiuniversal_commerce_protocolucp.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [2026年に躍進する「Linux」ディストロ6選--「Windows 10」終了後の有力な選択肢とは](https://japan.zdnet.com/article/35242444/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [Critical React Router Vulnerability Let Attackers Access or Modify Server Files](https://cybersecuritynews.com/react-router-vulnerability/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [[Git].gitignoreを書かずにファイルを無視したい](https://zenn.dev/wtkn25/articles/git-exclude-file) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [Enroll - Reverse-engineering servers into Ansible](https://enroll.sh/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-12 [2GB VPSで日本語LLMを動かす現実解：GGUF量子化とllama.cpp運用の勘所（2026年1月版）](https://zenn.dev/tktomaru/articles/a7fec9fd53a3d3) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [「IT業界のデリバリーにおける生成AI活用」と「ガバナンス」について考えてみる](https://zenn.dev/stockdatalab/articles/20260112_idea_utilizeai_forit) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [Pydantic・Instructorで安定したエージェント作成](https://zenn.dev/m10k1/articles/fd7b92b3cb6d93) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [LLMの「従順すぎるUX」を全拒絶する：人格レイヤーによるシステム応答のオーバーライドと、思考拡張への最適化](https://zenn.dev/yasubeandlain/articles/55cff184b96172) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [AI補助開発における三段階方法論](https://zenn.dev/liushengli/articles/fcfb3d29226fb0) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [ブラウザAPIを使って言語検出と機械翻訳を行ってみた](https://zenn.dev/masson/articles/df368a5282b2fe) *(Zenn – トピック LLM)*
+- [ ] 2026-01-12 [大規模地理データに対して検索するにはの奮闘記](https://zenn.dev/where/articles/2bd23a8626b132) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [Gemini CLIの応答を読み上げる。Hookが使えないならラッパーを作ればいいじゃない](https://zenn.dev/nichip/articles/gemini-cli-speech-wrapper) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [# Context Transport Format (CTF) v0.1 Specification文脈を持ち運ぶためのフォーマット設計案](https://zenn.dev/hiropa/articles/fe645927ef50c2) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [Context Transport Format (CTF): Preserving AI Conversations](https://zenn.dev/hiropa/articles/e1f77635356d17) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [AIとの会話を「文脈ごと持ち運ぶ」ための構想― Context Transport Format（CTF）という提案](https://zenn.dev/hiropa/articles/a707a050ba13e7) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [脳内ノイズキャンセリングの技法 ーー 遮音を超えた「認知のプロンプト・エンジニアリング」](https://zenn.dev/imkohenauser/articles/c9e2557e2d8166) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [Cursor vs VSCode + GitHub Copilot - AI コーディング環境の比較](https://zenn.dev/katsuhisa_/articles/cursor-basic-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [2025年を振り返って：セキュリティ・AI・クラウドの「境界」が消滅した1年と、2026年の生存戦略](https://zenn.dev/mitsuo119/articles/f5139cd973919c) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [自律的AI運用を実現するアーキテクチャ設計 ― コーディングエージェント中心の実装ガイド](https://zenn.dev/tshpaper/articles/0f1ce0830f9bfb) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [NVIDIA Nemotron と Cosmos：オープンソースで実現する次世代 AI](https://zenn.dev/katsuhisa_/articles/nvidia-nemotron-cosmos-open-source) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [技術偏向のエンジニアがGPTを使っていく](https://zenn.dev/shunka_zwei/articles/f2d6765549bb2b) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [Strands Agentsを使用した脆弱性への対応コマンド作成](https://zenn.dev/jnxjez/articles/57176bdc30e60a) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [組織で動かす仕様駆動開発 ──Phase 毎の AI エージェント開発活用術](https://zenn.dev/takurooper/articles/81433694fffe21) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [スマホでコードを書くという選択肢](https://zenn.dev/sijiaoh/articles/377abc8cc28f92) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [なぜeditable installが無いとMCPは壊れるのか｜LLM時代のPython設計](https://zenn.dev/colorfulwave/articles/47dad9e947c0f0) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [LangGraphとは何か](https://zenn.dev/colorfulwave/articles/cc3014ca27bdf3) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [Claude Code 便利なキー操作まとめ](https://zenn.dev/goyle0/articles/claude-code-shortcuts) *(Zenn – トピック AI)*
+- [ ] 2026-01-12 [ベクターフォントの機械学習用ライブラリ TorchFont を作った](https://zenn.dev/fjktkm/articles/c674b6185076a8) *(Zenn – トピック 機械学習)*
