@@ -10425,3 +10425,111 @@
 - [ ] 2026-01-13 [Antigravityにエンジニアリングの未来を見た](https://zenn.dev/innovation/articles/ce0f4b638fd86c) *(Zenn – トピック AI)*
 - [ ] 2026-01-13 [AIでショート動画広告を作る、僕が「中の人」を卒業した話](https://zenn.dev/vincent_gay/articles/6685f78c333490) *(Zenn – トピック AI)*
 - [ ] 2026-01-13 [Claude Code を使う中で考えていること](https://zenn.dev/taiki333/articles/claude-code-usage-tips) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-14T00:48:12.590Z
+- [ ] 2026-01-13 [Trump says Microsoft will pay more for its datacenters’ electricity](https://www.theguardian.com/technology/2026/jan/13/trump-microsoft-data-centers-electricity) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-13 [Roblox’s AI-Powered Age Verification Is a Complete Mess](https://www.wired.com/story/robloxs-ai-powered-age-verification-is-a-complete-mess/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-13 [Salesforce Recasts Slackbot as a Personal AI Agent for Work](https://aibusiness.com/agentic-ai/salesforce-updates-slack-for-ai-era) *(AI Business)*
+- [ ] 2026-01-13 [Arm Launches Physical AI Unit](https://aibusiness.com/robotics/arm-launches-physical-ai-unit) *(AI Business)*
+- [ ] 2026-01-13 [Anthropic Introduces Claude Cowork](https://aibusiness.com/agentic-ai/anthropic-introduces-claude-cowork) *(AI Business)*
+- [ ] 2026-01-13 [Meta Launches Meta Compute to Build out AI Architecture](https://aibusiness.com/data-centers/meta-compute-ai-architecture) *(AI Business)*
+- [ ] 2026-01-13 [Trump Warns Microsoft: Don’t Make Americans Pay for AI Electricity](https://www.techrepublic.com/article/news-trump-warns-microsoft-data-center-costs/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-14 [Delegating Without Chaos: Your Business Can’t Grow Until You Let Go (Sponsored)](https://bit.ly/45cyTt4#new_tab) *(KDnuggets)*
+- [ ] 2026-01-14 [Tesla, EEOC Plan Talks to Settle California Factory Racism Suit](https://www.bloomberg.com/news/articles/2026-01-14/tesla-eeoc-plan-talks-to-settle-california-factory-racism-suit) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Cerebras in Discussions to Raise Funds at $22 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-13/cerebras-in-discussions-to-raise-funds-at-22-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Crypto Wallet Firm BitGo, Backers Seek $201 Million in US IPO](https://www.bloomberg.com/news/videos/2026-01-13/crypto-wallet-firm-bitgo-backers-seek-201m-in-us-ipo-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Regulatory Clarity Overall Is Positive: Bitwise's Rasmussen](https://www.bloomberg.com/news/videos/2026-01-13/regulatory-clarity-overall-is-positive-rasmussen-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [US Clears Path for Nvidia to Sell H200s to China Via New Rule](https://www.bloomberg.com/news/articles/2026-01-13/us-clears-path-for-nvidia-to-sell-h200s-to-china-via-new-rule) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Tempus CEO on AI In Healthcare Space](https://www.bloomberg.com/news/videos/2026-01-13/tempus-ceo-on-ai-in-healthcare-space-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Teva's Plans to Pivot to Growth](https://www.bloomberg.com/news/videos/2026-01-13/teva-s-plans-to-pivot-to-growth-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Meta Shifts to AI Devices From Metaverse \| Bloomberg Tech 1/13/2026](https://www.bloomberg.com/news/videos/2026-01-13/bloomberg-tech-1-13-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Netflix May Amend Warner Bros. Bid to Make It All Cash](https://www.bloomberg.com/news/videos/2026-01-13/netflix-may-amend-warner-bros-bid-to-make-it-all-cash-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Musk Offers Free Starlink in Iran as Internet Blackout Persists](https://www.bloomberg.com/news/articles/2026-01-13/musk-offers-free-starlink-in-iran-as-internet-blackout-persists) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [AI Chip Startup Etched Raises $500 Million to Take on Nvidia](https://www.bloomberg.com/news/articles/2026-01-13/ai-chip-startup-etched-raises-500-million-to-take-on-nvidia) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Apple Picks Gemini AI in Win for Google’s Tensor Chip](https://www.bloomberg.com/news/videos/2026-01-13/apple-picks-gemini-ai-in-win-for-google-s-tensor-chip-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 ['Lot of Good' in Market Structure Bill: Coinbase's Calvert](https://www.bloomberg.com/news/videos/2026-01-13/-lot-of-good-in-market-structure-bill-coinbase-s-calvert) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Latest on US Crypto Market Structure Legislation](https://www.bloomberg.com/news/videos/2026-01-13/latest-on-us-crypto-market-structure-legislation-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Investors Eye AI Spending in Bank Earnings](https://www.bloomberg.com/news/videos/2026-01-13/investors-eye-ai-spending-in-bank-earnings-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Meta Should Get Out of Metaverse, Says Laffer Tengler CEO](https://www.bloomberg.com/news/videos/2026-01-13/meta-should-get-out-of-metaverse-laffer-tengler-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Americans 'Ripped Off' By Credit Cards, Says Klarna CEO](https://www.bloomberg.com/news/videos/2026-01-13/americans-ripped-off-by-credit-cards-says-klarna-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [Senate to Vote on Crypto Bill, Traders Overlook Geopolitical Risks \| Bloomberg Crypto 1/13/2025](https://www.bloomberg.com/news/videos/2026-01-13/bloomberg-crypto-1-13-2025-video) *(Bloomberg Technology)*
+- [ ] 2026-01-13 [The ‘Stranger Things’ Documentary Maker Weighs in on That ChatGPT Controversy](https://gizmodo.com/stranger-things-duffer-brothers-chatgpt-netflix-2000709898) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [‘A Knight of the Seven Kingdoms’ Is an Absolute Triumph](https://gizmodo.com/knight-of-the-seven-kingdoms-review-game-of-thrones-2000705180) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [Open-Ear Audio Is Having a Huge Moment Right Now](https://gizmodo.com/open-ear-audio-is-having-a-huge-moment-right-now-2000709804) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [Anker’s Solix E10 Battery Backup System Can Power Your Home for Days](https://gizmodo.com/ankers-solix-e10-battery-backup-system-can-power-your-home-for-days-2000709853) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [Signal’s Founder Turns His Attention to AI’s Privacy Problem](https://gizmodo.com/signals-founder-turns-his-attention-to-ais-privacy-problem-2000709897) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [’28 Years Later: The Bone Temple’ Is Smaller, Gorier, and More Fun Than Its Predecessor](https://gizmodo.com/28-years-later-the-bone-temple-is-smaller-gorier-and-more-fun-than-its-predecessor-2000709678) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [Marc Andreessen to Tech Founders: ‘Raise Prices, Raise Prices, Raise Prices’](https://gizmodo.com/marc-andreessen-to-tech-founders-raise-prices-raise-prices-raise-prices-2000709835) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [Give the Internet an Infinite Word Search and the Internet Will Draw a Dick on It](https://gizmodo.com/give-the-internet-an-infinite-word-search-and-the-internet-will-draw-a-dick-on-it-2000709697) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [Want to Book a Hotel on the Moon? This Startup Is Now Taking $250K Deposits](https://gizmodo.com/want-to-book-a-hotel-on-the-moon-this-startup-is-now-taking-250k-deposits-2000709632) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [Data Center Project Cancellations Quadrupled in 2025 as Locals Fight Back](https://gizmodo.com/data-center-project-cancellations-quadrupled-in-2025-as-locals-fight-back-2000709669) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [No, You Fools, There Is No ‘Lord of the Rings’ Extended Extended Edition](https://gizmodo.com/lord-of-the-rings-extended-editions-new-cuts-rumors-peter-jackson-2000709813) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [‘Star Trek Real’: Hegseth Praises Grok for Allowing Users to Fight Wars](https://gizmodo.com/star-trek-real-hegseth-praises-grok-for-allowing-users-to-fight-wars-2000709787) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [Your Slack Is Infected With an AI Agent Now](https://gizmodo.com/your-slack-is-infected-with-an-ai-agent-now-2000709707) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [Scientists Watched Viruses Attack Bacteria in Space. Things Got Weird](https://gizmodo.com/scientists-watched-viruses-attack-bacteria-in-space-things-got-weird-2000709619) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [‘Marvel Rivals’ Is Making Deadpool Take on All 3 Roles](https://gizmodo.com/marvel-rivals-deadpool-role-gameplay-trailernetease-2000709749) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [Apple Hits Adobe Where It Hurts With an Affordable Creative App Suite](https://gizmodo.com/apple-hits-adobe-where-it-hurts-with-an-affordable-creative-app-suite-2000709741) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [QWERTY Phones Are Really Trying to Make a Comeback This Year](https://gizmodo.com/qwerty-phones-are-really-trying-to-make-a-comeback-this-year-2000709717) *(Gizmodo – Technology)*
+- [ ] 2026-01-13 [Meta has closed three VR studios as part of its metaverse cuts](https://www.engadget.com/ar-vr/meta-has-closed-three-vr-studios-as-part-of-its-metaverse-cuts-202720670.html?src=rss) *(Engadget)*
+- [ ] 2026-01-13 [Roblox's age verification system is reportedly a trainwreck](https://www.engadget.com/gaming/robloxs-age-verification-system-is-reportedly-a-trainwreck-220320016.html?src=rss) *(Engadget)*
+- [ ] 2026-01-13 [Instagram wants you to personalize your Reels algorithm for 2026](https://www.engadget.com/social-media/instagram-wants-you-to-personalize-your-reels-algorithm-for-2026-215252736.html?src=rss) *(Engadget)*
+- [ ] 2026-01-13 [Senate passes Defiance Act for a second time to address Grok deepfakes](https://www.engadget.com/ai/senate-passes-defiance-act-for-a-second-time-to-address-grok-deepfakes-212151712.html?src=rss) *(Engadget)*
+- [ ] 2026-01-13 [Proposed legislation opens the door to robotaxi services in New York](https://www.engadget.com/transportation/proposed-legislation-opens-the-door-to-robotaxi-services-in-new-york-193804671.html?src=rss) *(Engadget)*
+- [ ] 2026-01-13 [Taiwan issues arrest warrant for Pete Lau, CEO of OnePlus](https://www.engadget.com/mobile/smartphones/taiwan-issues-arrest-warrant-for-pete-lau-ceo-of-oneplus-185400997.html?src=rss) *(Engadget)*
+- [ ] 2026-01-13 [Zenken boosts a lean sales team with ChatGPT Enterprise](https://openai.com/index/zenken) *(OpenAI News)*
+- [ ] 2026-01-14 [ヘッダーに書き込まれた「ポート番号」、何のために使う？](https://xtech.nikkei.com/atcl/nxt/column/18/01842/121700100/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [ランサム攻撃者は管理者アカウントを狙う、「最小権限」を点検せよ](https://xtech.nikkei.com/atcl/nxt/column/18/03461/010800003/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [ネットワーク機器分野の注目は「最速でつなぐスイッチ」、強化点は3つ](https://xtech.nikkei.com/atcl/nxt/column/18/03460/010600002/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [ネットワーク図のノードはアイコンにするか箱にするか、情報量で使い分ける](https://xtech.nikkei.com/atcl/nxt/column/18/03451/122200003/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [2位は「接着剤で留める手法が裏目に」経営層の注目トップ10](https://xtech.nikkei.com/atcl/nxt/column/18/02156/010600341/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [AI駆動開発で重要な役割を果たすAIエージェント](https://xtech.nikkei.com/atcl/nxt/column/18/03450/010700002/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [ソフトウエアトラブルの原因、ファイル破損か問題あるソフトのインストール](https://xtech.nikkei.com/atcl/nxt/column/18/03436/121200006/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [ドコモ・楽天中心にスマホ値引き競争再燃か　26年注目の「27条の3」見直し](https://xtech.nikkei.com/atcl/nxt/column/18/03463/011200001/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [もっと働きたいITエンジニア、職場の過度な残業抑制に嫌気　副業を検討](https://xtech.nikkei.com/atcl/nxt/column/18/00084/00404/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [キーサイトが12kW回生型直流電源、データセンターや蓄電装置の試験に](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11388/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [企業の底堅いDX需要を追い風に市場拡大、クラウドサービスの業界地図](https://xtech.nikkei.com/atcl/nxt/column/18/03426/122600025/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [会議予定の詳細画面でCopilotを使用、会議概要と質問案を作る](https://xtech.nikkei.com/atcl/nxt/column/18/01787/010900212/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [E2E自動運転、間もなく大衆車へ　NVIDIAが普及後押し](https://xtech.nikkei.com/atcl/nxt/column/18/03435/010900004/) *(日経クロステック IT)*
+- [ ] 2026-01-13 [「AIがテレワークを終わらせる」は本当か？　現実的なシナリオと生存戦略を考える](https://www.itmedia.co.jp/enterprise/articles/2601/14/news041.html) *(ITmedia AI＋)*
+- [ ] 2026-01-13 [生成AIの"次"になるか？　利用率がわずか3％なのに6割が導入を検討する「あの技術」](https://www.itmedia.co.jp/enterprise/articles/2601/09/news053.html) *(ITmedia AI＋)*
+- [ ] 2026-01-13 [ロボットが“空気”を読む!?　富士通が描く「空間を理解するフィジカルAI」の正体](https://www.itmedia.co.jp/business/articles/2601/14/news022.html) *(ITmedia AI＋)*
+- [ ] 2026-01-13 [VS Codeで「Python仮想環境」を視覚的に管理する、新しい拡張機能「Python Environments」の現状と可能性](https://atmarkit.itmedia.co.jp/ait/articles/2601/14/news019.html) *(ITmedia AI＋)*
+- [ ] 2026-01-13 [【Excelで学ぶデータ分析】年式、走行距離、排気量のどれが中古車の価格予測に役立つのか？（重回帰式の係数の有効性を検定）](https://atmarkit.itmedia.co.jp/ait/articles/2601/14/news014.html) *(ITmedia AI＋)*
+- [ ] 2026-01-14 [グーグル、GmailユーザーにGemini利用のAI機能を「無料」提供開始 \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/89257) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-14 [Claude Code Customization Guide: Rules vs Skills vs Subagents vs MCPs](https://marioottmann.com/articles/claude-code-customization-guide) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-14 [「18～44歳のアメリカ人リスナーの50～60％がAI生成音楽を聴いている」という驚きの調査結果](https://gigazine.net/news/20260113-us-gen-z-millennials-listen-ai-music/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-14 [TEGAKI - 手描きイラスト投稿サイト \| 手描き専用コミュニティ](https://tegaki.art/ja) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-14 [コーディングを楽しめなくなった、あなたへ](https://zenn.dev/coconala/articles/e1ba22510836fc) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [2026年版「基本的なウェブアプリケーションを構築する」のチュートリアル手順作ってみた \| DevelopersIO](https://dev.classmethod.jp/articles/2026-build-web-app-s3-lambda-api-gateway-dynamodb/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [便利Neovimプラグイン紹介：undo-glow.nvim](https://zenn.dev/vim_jp/articles/00e297fcccf949) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [Androidに重大な脆弱性](https://ascii.jp/elem/000/004/365/4365532/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [USB Type-Cの充電ケーブルが発火した原因は水分？eMarkerが入っていないから？→いずれにせよコンセントから外すかスイッチ付き電源タップが安全](https://togetter.com/li/2651212) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [アップル、Final Cut ProやLogicが月1780円の新サブスク「Creator Studio」](https://www.watch.impress.co.jp/docs/news/2077569.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [AIを真のチームメイトにするコンテキストエンジニアリング - KAKEHASHI Tech Blog](https://kakehashi-dev.hatenablog.com/entry/2026/01/06/110000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [新しいプログラミング言語「flux」- Rustの安全性とPythonの柔軟性を両立させる試み](https://zenn.dev/knbzyh/articles/d3644bc4b272d5) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [過激コスチュームが話題、スマホゲー「ブラウンダスト2」　一部デザインの修正を発表→やっぱり撤回　「勇気が足りなかった」](https://www.itmedia.co.jp/news/articles/2601/13/news113.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [富士通、634gの世界最軽量Copilot+ PCをスナドラX搭載で実現](https://pc.watch.impress.co.jp/docs/news/2076937.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [LinuxゲストでのVulkan 1.3やmacOSホストでのOpenGL 4.1をサポートした仮想化ソフトウェア「UTM v5.0.0」のBeta版が公開。](https://applech2.com/archives/20260113-utm-v5-beta-1-support-vulkan-1-3-on-linux-vm-and-opengl-4-1-for-mac.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [【海外記事紹介】React Hooksの生みの親、"AIとの親和性"をウリにしたコンパイラファーストなフレームワーク「Ripple」を公開 — 2026年のフロントエンドを牽引するか](https://techfeed.io/entries/6965d56d9930145c450e6356) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [Appleによる「Gemini」採用は「不当な権力集中」──「Grok」擁するイーロン・マスク氏（ITmedia NEWS） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/e72329beed6defe43cf6262a3b4b71ee2517a57e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [AppleがGemini採用。Siriを含むApple Intelligenceを全面強化へ](https://pc.watch.impress.co.jp/docs/news/2077298.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-13 [GitHub Copilot を極める会](https://zenn.dev/microsoft/articles/github_copilot_advanced) *(Zenn – トピック LLM)*
+- [ ] 2026-01-13 [プログラマのためのLLM実装完全ガイド：NumPyから最新OSS LLMまで](https://zenn.dev/cliff/books/00ae1b1bf167a5) *(Zenn – トピック LLM)*
+- [ ] 2026-01-13 [Azure Foundryで入力データは学習される？本当に安全？（Azure Direct と Foundry 経由 Claude の違い）](https://zenn.dev/zead/articles/azure-foundry-data-security) *(Zenn – トピック LLM)*
+- [ ] 2026-01-13 [Claude Code 拡張機能 (Plugin) 導入まとめ](https://zenn.dev/utsutaka/articles/69bfd1474e2bcc) *(Zenn – トピック LLM)*
+- [ ] 2026-01-13 [2026/1/13 嵐の前の静けさ？ LLM](https://zenn.dev/iwa103/articles/20260113_tsubuyaki) *(Zenn – トピック LLM)*
+- [ ] 2026-01-13 [コーディネイトアプリを作りたい！](https://zenn.dev/kasutera999/articles/2a02cec40db37f) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [【Google AI Studio】デモ③「画像とgifアニメーション」作成](https://zenn.dev/sesamy_jp/articles/b540729c3a72a2) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [分散型ナレッジグラフネットワーク「Intuition」の思想とアーキテクチャ](https://zenn.dev/mashharuki/articles/intuition_web3-1) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [ラピダス提携で話題！Tenstorrentが拓く2nm世代のAI戦略](https://zenn.dev/reijilog/articles/dfa6a031727e4d) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [GitHub Copilotでzennの記事を書いてみるテスト](https://zenn.dev/salmoncode/articles/github-copilot-zenn-article-test) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [AIエージェント開発の見積もりは、なぜこんなに難しいのか](https://zenn.dev/storehero/articles/b008f9f7f39333) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [AIエージェント開発で避けて通れない「プロンプトインジェクション」の話と対策](https://zenn.dev/storehero/articles/8f122ceda7a139) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [3-④[AI][Kaggle][python]Kaggle入門(地理空間データ分析 4.地理空間データの操作)](https://zenn.dev/rg687076/articles/34daf31bc89485) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [スタンフォード大学のAI年次報告書に日本の存在感がない](https://zenn.dev/syoshida07/articles/e8328ac219e958) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [Claude Codeのタスクが完了したら通知を受け取る](https://zenn.dev/hkazuki/articles/6c0da0d5e4448b) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [DBeaver + ChatGPTが面倒だったので、自分専用DBクライアントを3日間で作った](https://zenn.dev/r0nr0n/articles/tablex-tauri-v2-db-client) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [iOS × Termius  × Claude Code環境を構築する](https://zenn.dev/spectech_ai/articles/0359b5ef4ae7b3) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [Vercelのagent-browser - AIのためにCLIからブラウザを操作](https://zenn.dev/thedomainai/articles/cc660c96bf8c0b) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [Codex vs Claude Code：コードレビューでCodexが選ばれる4つの理由](https://zenn.dev/tenormusica/articles/codex-vs-claude-code-review-advantages-2026) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [Claude「Cowork」を試してみた - コーディング不要でClaude Codeの力を使えるようになった](https://zenn.dev/lnest_knowledge/articles/0b763e2ccf1bd8) *(Zenn – トピック AI)*
