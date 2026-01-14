@@ -11002,3 +11002,72 @@
 - [ ] 2026-01-14 [フロントエンド開発の勘所 -複数事業を経験して見えた判断軸の違い-](https://speakerdeck.com/heimusu/hurontoendokai-fa-nokan-suo-fu-shu-shi-ye-wojing-yan-sitejian-etapan-duan-zhou-nowei-i) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-14 [経営者はAIが生産性を向上させると考えているが、実際にはAIは労働者のスキルを蝕んでいる \| Business Insider Japan](https://www.businessinsider.jp/article/2601-ai-tools-are-deskilling-workers-philosophy-professor/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-14 [Excelへの多重入力、終わらない社内業務…　文系元営業社員が“全社員DX人材化”を実現できたワケ [1/2] \| ログミーBusiness](https://logmi.jp/brandtopics/332875) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-14T12:19:22.991Z
+- [ ] 2026-01-14 [Use of AI to harm women has only just begun, experts warn](https://www.theguardian.com/technology/2026/jan/14/use-of-ai-to-harm-women-has-only-just-begun-experts-warn) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-14 [How AI Companies Got Caught Up in US Military Efforts](https://www.wired.com/story/book-excerpt-silicon-empires-nick-srnicek/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-14 [AstraZeneca bets on in-house AI to speed up oncology research](https://www.artificialintelligence-news.com/news/astrazeneca-bets-on-in-house-ai-to-speed-up-oncology-research/) *(Artificial Intelligence News)*
+- [ ] 2026-01-14 [Research shows UK young adults would use AI for financial guidance](https://www.artificialintelligence-news.com/news/financial-advice-ai-powered-uk-fintech-market-possibilities/) *(Artificial Intelligence News)*
+- [ ] 2026-01-14 [Salesforce’s AI Assistant Slackbot Gets General Release](https://www.techrepublic.com/article/news-salesforce-ai-assistant-release/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-14 [Amazon Supersizes Its Brick-and-Mortar Ambitions in Chicago](https://www.bloomberg.com/news/newsletters/2026-01-14/amazon-goes-big-with-big-box-retail-ambitions-in-chicago) *(Bloomberg Technology)*
+- [ ] 2026-01-14 [Honeywell-Backed Quantinuum Is Close to Filing for IPO](https://www.bloomberg.com/news/articles/2026-01-14/honeywell-backed-quantinuum-is-close-to-filing-for-ipo) *(Bloomberg Technology)*
+- [ ] 2026-01-14 [Infosys Lifts Sales Forecast in Sign of Revival in Tech Spending](https://www.bloomberg.com/news/articles/2026-01-14/infosys-lifts-sales-forecast-in-sign-of-revival-in-tech-spending) *(Bloomberg Technology)*
+- [ ] 2026-01-14 [Polymarket Steps Into Legal Gray Area by Hosting Trades on War](https://www.bloomberg.com/news/articles/2026-01-14/polymarket-faces-scrutiny-for-hosting-prediction-markets-on-war-and-conflict) *(Bloomberg Technology)*
+- [ ] 2026-01-14 [Alibaba and JPMorgan Are Said to Invest in Chip Designer Montage’s HK Listing](https://www.bloomberg.com/news/articles/2026-01-14/alibaba-jpmorgan-said-to-invest-in-chip-designer-montage-s-hong-kong-listing) *(Bloomberg Technology)*
+- [ ] 2026-01-14 [China Starts Antitrust Probe of Trip.com Ahead of Travel Peak](https://www.bloomberg.com/news/articles/2026-01-14/china-says-it-s-probing-trip-com-over-alleged-antitrust-conduct) *(Bloomberg Technology)*
+- [ ] 2026-01-14 [Tesla Driver-Assist System FSD Will Switch to Subscription-Only, Musk Says](https://www.bloomberg.com/news/articles/2026-01-14/tesla-driver-assist-system-fsd-will-switch-to-subscription-only-musk-says) *(Bloomberg Technology)*
+- [ ] 2026-01-14 [Baidu Is Said to Explore Upgrading HK Listing to Primary Status](https://www.bloomberg.com/news/articles/2026-01-14/baidu-is-said-to-explore-upgrading-hk-listing-to-primary-status) *(Bloomberg Technology)*
+- [ ] 2026-01-14 [Taiwan’s Richest to See Wealth Growth of 10% a Year, Report Says](https://www.bloomberg.com/news/articles/2026-01-14/taiwan-s-richest-to-see-wealth-growth-of-10-a-year-report-says) *(Bloomberg Technology)*
+- [ ] 2026-01-14 [Palantir Poaching Suit Called ‘Scare’ Tactic by Ex-Employees](https://www.bloomberg.com/news/articles/2026-01-14/palantir-poaching-suit-called-scare-tactic-by-ex-employees) *(Bloomberg Technology)*
+- [ ] 2026-01-14 [Ireland Is Trying to Get Back on the Data Center Bandwagon](https://www.bloomberg.com/news/articles/2026-01-14/ireland-wants-to-get-back-ai-data-centers-and-is) *(Bloomberg Technology)*
+- [ ] 2026-01-14 [5 Ways NASA’s Artemis 2 Mission Will Make Spaceflight History](https://gizmodo.com/5-ways-nasas-artemis-2-mission-will-make-spaceflight-history-2000709895) *(Gizmodo – Technology)*
+- [ ] 2026-01-14 [Dance, Magic Dance Your Way to ‘Labyrinth’ in Concert](https://gizmodo.com/dance-magic-dance-your-way-to-labyrinth-in-concert-2000709966) *(Gizmodo – Technology)*
+- [ ] 2026-01-14 [Tesla's Full Self-Driving is switching to a subscription-only service](https://www.engadget.com/transportation/evs/teslas-full-self-driving-is-switching-to-a-subscription-only-service-120053137.html?src=rss) *(Engadget)*
+- [ ] 2026-01-14 [UK scraps digital ID requirement for workers](https://www.engadget.com/cybersecurity/uk-scraps-digital-id-requirement-for-workers-105740207.html?src=rss) *(Engadget)*
+- [ ] 2026-01-14 [The best USB-C hub for 2026](https://www.engadget.com/computing/accessories/best-usb-c-hub-120051833.html?src=rss) *(Engadget)*
+- [ ] 2026-01-14 [ビッグローブ子会社社員が不適切な取引の疑い、KDDIが特別調査委員会を設置](https://xtech.nikkei.com/atcl/nxt/news/24/03049/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [個人情報保護委員会が法改正方針、課徴金を導入　消費者団体による請求見送り](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11411/) *(日経クロステック IT)*
+- [ ] 2026-01-14 [「AIによるコンテンツの無断利用や改変は禁止」――漫画制作のナンバーナインが注意喚起](https://www.itmedia.co.jp/aiplus/articles/2601/14/news101.html) *(ITmedia AI＋)*
+- [ ] 2026-01-14 [パナソニック、テレビドアホンにAI搭載　不審者検知や自動応対ができるように](https://www.itmedia.co.jp/aiplus/articles/2601/14/news091.html) *(ITmedia AI＋)*
+- [ ] 2026-01-14 [「CES」にあふれる人型ロボ――中国メーカーが数で圧倒するも、Boston Dynamicsが本物と感じたワケ](https://www.itmedia.co.jp/news/articles/2601/14/news079.html) *(ITmedia AI＋)*
+- [ ] 2026-01-14 [「福岡市で生活保護を断られて餓死」という誤情報はAIを使用した動画が元かな - 電脳塵芥](https://nou-yunyun.hatenablog.com/entry/2026/01/14/140000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-14 [バイブコーディングで永遠に動き続ける郵便番号＆デジタルアドレス検索サイトを構築してみた【生成AIストリーム】](https://forest.watch.impress.co.jp/docs/serial/aistream/2077558.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-14 [A Software Library with No Code](https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-14 [SmartHRで活躍中のid:a-knowさんを訪問 \| はてな卒業生訪問企画 [#19] - Hatena Developer Blog](https://developer.hatenastaff.com/entry/2026/01/14/110000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-14 [Linus Torvaldsもついに「バイブコーディング」を始めた：Linuxの父がGoogle Antigravityで描くAIとプログラミングの新たな境界線 \| XenoSpectrum](https://xenospectrum.com/linus-torvalds-vibe-coding-audio-noise-google-antigravity/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-14 [NVIDIA、GeForce環境向けにComfyUIなど最適化。NVFP4 / FP8対応で最大3倍高速に、VRAM使用量も低減](https://news.mynavi.jp/article/20260113-3968511/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-14 [LLMコーディングエージェントの「得意言語」と「苦手言語」 300件検証で見えた、数字の裏にある理由 - AIDB](https://ai-data-base.com/archives/100130) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-14 [Pwning Claude Code in 8 Different Ways](https://flatt.tech/research/posts/pwning-claude-code-in-8-different-ways/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-14 [PCのトラブルシューティングが終わらなくてRedditに救いを求めに行ったら「そんなことある？」みたいな解決策を見つけた→試したら直った](https://togetter.com/li/2651699) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [決済方法を現金のみにしたスーパーの話からキャッシュレスの抱える問題が浮き彫りになった話「残高不足などのエラー対応が減って対応が楽になった」](https://togetter.com/li/2651687) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [25年3月の5G基地局の数、ドコモはau・ソフトバンクの半分――総務省調査](https://k-tai.watch.impress.co.jp/docs/news/2077686.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [【分析】反体制デモの鎮圧手法を急速に高めたイラン　最先端の軍事技術に高度な心理作戦](https://www.cnn.co.jp/world/35242685.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [Adobe潰し!?　アップル、月額1780円のクリエイター向けサブスク「Creator Studio」1月29日提供開始](https://ascii.jp/elem/000/004/365/4365799/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [中国が建設中の「スーパー大使館」には光ファイバーの機密通信ケーブルに沿って隠し部屋が設計されていると判明](https://gigazine.net/news/20260114-uk-london-super-embassy-hidden-chamber/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [Tebikiの動画配信システム vol.1 - tebiki Tech Blog](https://techblog.tebiki.co.jp/2026/01/14/172335) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [開発環境現状確認2026 - 5.1さらうどん](https://giginet.hateblo.jp/entry/2026/01/14/101200) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [キングジム、コピー用紙をノート化・書類もまとまる「ファイリングノート」](https://www.watch.impress.co.jp/docs/news/2076168.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [Amazon Bedrock AgentCore で A2Aマルチエージェントを構成する - Taste of Tech Topics](https://acro-engineer.hatenablog.com/entry/2026/01/14/110000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-14 [AI に指示するのではなく、まずは AI に質問させた方が捗る](https://zenn.dev/hataluck/articles/d347a5011cf71e) *(Zenn – トピック LLM)*
+- [ ] 2026-01-14 [【LLM入門】SFT（Supervised Fine-Tuning）とは？ 面接で聞かれても困らない「超」基礎知識FAQ](https://zenn.dev/lixian/articles/6931c8b598c822) *(Zenn – トピック LLM)*
+- [ ] 2026-01-14 [ChatGPT Health：医療記録と連携するAI健康パートナーの全貌](https://zenn.dev/ainohogosya/articles/5a9e6ee59639c6) *(Zenn – トピック LLM)*
+- [ ] 2026-01-14 [【無料】Gemini × GitHub Actions で実現する大規模PR自動レビュー完全ガイド](https://zenn.dev/itsuki_y/articles/e8f280f231431c) *(Zenn – トピック LLM)*
+- [ ] 2026-01-14 [【LLM自作入門 Vol.1】トークナイザの科学とデータパイプラインの構築の方法について](https://zenn.dev/lluminai_tech/articles/ca54564106414a) *(Zenn – トピック LLM)*
+- [ ] 2026-01-13 [Agentic System をプロトタイプ止まりにしないために ~ 主要ベンダーの Evals 戦略を読み解く](https://zenn.dev/storehero/articles/e971b1b8925dc5) *(Zenn – トピック LLM)*
+- [ ] 2026-01-13 [【2026年1月最新】Grok 5 リーク情報まとめ：6兆パラメータの怪物AIがついに来る？](https://zenn.dev/ainohogosya/articles/6347be1af710cf) *(Zenn – トピック LLM)*
+- [ ] 2026-01-14 [【2026年版】git worktree 完全ガイド - AI駆動開発時代の並列作業術](https://zenn.dev/goyle0/articles/git-worktree-guide-2026) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [【中小EC事業者必見】UCPとは？AIエージェント時代の新しい商取引規格を徹底解説](https://zenn.dev/ryuseiueda/articles/d2564c56a1afd5) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [Claude Codeのプロセス増殖でMacがフリーズした話](https://zenn.dev/nenene01/articles/claude-code-process-overflow) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [Claude Codeサブエージェントでメモリリークを防ぐ設計パターン](https://zenn.dev/nenene01/articles/claude-code-agent-best-practices) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [RAGシステムのためのWebデータ収集：実践ガイド](https://zenn.dev/datajournal1/articles/f3ff93eb054f16) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [AIと一緒に成長していく話 - 自己紹介](https://zenn.dev/akit111/articles/ac7aa32f8085c1) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [cc-sdd × GitHub Copilot実運用ガイド](https://zenn.dev/toji_inoue/articles/5bc2e97a551008) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [AI参謀と挑んだApple Product Security](https://zenn.dev/ryuzaburo/articles/412aa18cff58bc) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [`Prompt` から `Architecture` へ —— `Polaris-Next` が示す決定論的アライメントの実装論](https://zenn.dev/dosanko_tousan/articles/82c63e056cae54) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [突撃！隣のOpenCode！（概要から実践編まで）](https://zenn.dev/koudaiishigame/articles/ffa9c2e4113a3b) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [相次ぐYouTubeショートの収益停止。AI量産から正しくAIを使った良質動画への転換が必要](https://zenn.dev/hanamarufx/articles/f6fcc6b68c8010) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [AIロボティクスで地方創生を実現する!初心者でもわかる労働力不足解消の3つの処方箋](https://zenn.dev/headwaters/articles/8d9f9747f3b2a4) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [AIで作る業務動画 Day 14｜Remotionでキャラクターを喋らせる（口パク連動）](https://zenn.dev/akira_cloudjob/articles/20260114-remotion-lipsync-integration) *(Zenn – トピック AI)*
+- [ ] 2026-01-13 [AIイラスト制作の試行を回す：PixAIで組んだ最小ループの検証ログ](https://zenn.dev/satofun/articles/364432470e4166) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [AWS Neuron Collective Communication の進化](https://zenn.dev/tosshi/articles/e71b12d2e9ba33) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-13 [【14日目】Feature Storeで特徴量管理をはじめよう 〜 機械学習の再現性と精度を支える基盤 〜](https://zenn.dev/churadata/articles/87bdb2e480a7a3) *(Zenn – トピック 機械学習)*
