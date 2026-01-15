@@ -11707,3 +11707,75 @@
 - [ ] 2026-01-15 [キャリアのAndroidスマホが「ストレージ128GB」に固定されがちな理由](https://www.itmedia.co.jp/mobile/articles/2601/15/news061.html) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-15 [WEARのスクラム導入 ── PMOが推進した体制と運用 - ZOZO TECH BLOG](https://techblog.zozo.com/entry/introducing-scrum-to-wear) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-15 [40歳以上はカフェインの“効き”が悪い？　寝る前のコーヒーで睡眠と脳波を調査　Nature系列誌で報告](https://www.itmedia.co.jp/news/articles/2601/15/news029.html) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-15T12:19:15.539Z
+- [ ] 2026-01-15 [Grok scandal highlights how AI industry is ‘too unconstrained’, tech pioneer says](https://www.theguardian.com/technology/2026/jan/15/grok-scandal-ai-industry-too-unconstrained-yoshua-bengio-elon-musk) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-15 [Sadiq Khan to urge ministers to act over ‘colossal’ impact of AI on London jobs](https://www.theguardian.com/politics/2026/jan/15/sadiq-khan-to-urge-ministers-to-act-over-colossal-impact-of-ai-on-london-jobs) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-15 [Livestream: Welcome to the Chinese Century](https://www.wired.com/story/livestream-welcome-to-the-chinese-century/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-15 [The Real AI Talent War Is for Plumbers and Electricians](https://www.wired.com/story/why-there-arent-enough-electricians-and-plumbers-to-build-ai-data-centers/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-15 [Wikipedia’s Existential Threats Feel Greater Than Ever](https://www.wired.com/story/wikipedias-existential-threats-have-never-been-greater/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-15 [McKinsey tests AI chatbot in early stages of graduate recruitment](https://www.artificialintelligence-news.com/news/mckinsey-tests-ai-chatbot-in-early-stages-of-graduate-recruitment/) *(Artificial Intelligence News)*
+- [ ] 2026-01-15 [AI medical diagnostics race intensifies as OpenAI, Google, and Anthropic launch competing healthcare tools](https://www.artificialintelligence-news.com/news/medical-ai-diagnostics-openai-google-anthropic/) *(Artificial Intelligence News)*
+- [ ] 2026-01-15 [OpenAI’s Bengaluru Workshop Helps Nonprofits Scale AI for Social Impact](https://analyticsindiamag.com/ai-news-updates/openais-bengaluru-workshop-attempts-to-help-nonprofits-scale-ai-for-social-impact/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [LTTS Rides $200 Crore Deal Streak to Strong 10% Q3 Growth](https://analyticsindiamag.com/ai-news-updates/ltts-rides-200-crore-deal-streak-to-strong-10-q3-growth/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [Elon Musk Admits Anthropic Has Done ‘Something Special With Coding’ Despite xAI Being Blocked](https://analyticsindiamag.com/ai-news-updates/elon-musk-admits-anthropic-has-done-something-special-with-coding-despite-xai-being-blocked/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [How Indian IT’s AI-led Growth Could Hinge on Regional Data, Talent](https://analyticsindiamag.com/it-services/how-indian-its-ai-led-growth-could-hinge-on-regional-data-talent/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [Ola Electric Extends 4680 Bharat Cell Platform to Indian Startups](https://analyticsindiamag.com/ai-news-updates/ola-electric-extends-4680-bharat-cell-platform-to-indian-startups/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [Google Launches Market Access Programme to Scale Indian AI startups](https://analyticsindiamag.com/ai-news-updates/google-launches-market-access-programme-to-scale-indian-ai-startups/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [85% of Enterprises Now Run or Test Autonomous AI Agents: HCLSoftware](https://analyticsindiamag.com/ai-news-updates/85-of-enterprises-now-run-or-test-autonomous-ai-agents-hclsoftware/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [GrowthPal Announces $2.6 Mn Funding to Enhance its AI-Driven M&A Copilot](https://analyticsindiamag.com/ai-news-updates/growthpal-announces-2-6-mn-funding-to-enhance-its-ai-driven-ma-copilot/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [Vellore Institute of Technology Alumni is Thinking Machines Lab’s New CTO](https://analyticsindiamag.com/ai-news-updates/vellore-institute-of-technology-alumni-is-thinking-machines-labs-new-cto/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [Stellaris Has Fallen Out of Love With AI Demos, and Other VCs May Follow Suit](https://analyticsindiamag.com/ai-startups/stellaris-has-fallen-out-of-love-with-ai-demos-and-other-vcs-may-follow-suit/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [OpenAI’s GPT-5.2 Better Than Claude Opus 4.5 for Long Autonomous Tasks, Says Cursor](https://analyticsindiamag.com/ai-news-updates/openais-gpt-5-2-better-than-claude-opus-4-5-for-long-autonomous-tasks-says-cursor/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [Claude Code Finally Fixes the Huge Issue With MCPs](https://analyticsindiamag.com/ai-news-updates/claude-code-finally-fixes-the-huge-issue-with-mcps/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [Gemini Introduces Personal Intelligence to Connect Gmail, Photos and Other Google Apps](https://analyticsindiamag.com/ai-news-updates/gemini-introduces-personal-intelligence-to-connect-gmail-photos-and-other-google-apps/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [HCLTech Elevates Sandeep Saxena to Drive India-led Growth Push](https://analyticsindiamag.com/ai-news-updates/hcltech-elevates-sandeep-saxena-to-drive-india-led-growth-push/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [Infosys Adds 5,000 Jobs in Q3 While TCS & HCLTech Keep Cutting](https://analyticsindiamag.com/ai-news-updates/infosys-adds-5000-jobs-in-q3-while-tcs-hcltech-keep-cutting/) *(Analytics India Magazine)*
+- [ ] 2026-01-15 [Tesla and xAI Ties Raise Questions About ‘Muskonomy’](https://www.bloomberg.com/news/newsletters/2026-01-15/tesla-s-growing-ties-to-xai-raise-questions-about-musk-s-interlocking-companies) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [Spotify Raises Premium Subscription Prices in US to $13 a Month](https://www.bloomberg.com/news/articles/2026-01-15/spotify-raises-premium-subscription-prices-in-us-to-13-month) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [GenAI Investors Get New Tool Tracking Performance of OpenAI, xAI](https://www.bloomberg.com/news/articles/2026-01-15/genai-investors-get-new-tool-tracking-performance-of-openai-xai) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [Philippines to Join Indonesia, Malaysia in Blocking Grok AI](https://www.bloomberg.com/news/articles/2026-01-15/philippines-to-join-indonesia-malaysia-in-blocking-musk-s-grok) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [ASML Soars Above $500 Billion Value on TSMC’s Upbeat Outlook](https://www.bloomberg.com/news/articles/2026-01-15/asml-soars-beyond-500-billion-value-after-tsmc-s-upbeat-outlook) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [Naver, NCSoft Cut From Korea’s Intense Sovereign AI Contest](https://www.bloomberg.com/news/articles/2026-01-15/korea-cuts-naver-and-ncsoft-units-from-intense-sovereign-ai-race) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [Apple and Tech Hardware Stocks Face ‘Crisis’ as Memory Prices Soar](https://www.bloomberg.com/news/articles/2026-01-15/apple-tech-hardware-stocks-face-crisis-as-memory-prices-soar) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [Oracle Trying to Lure Workers to Nashville for New ‘Global’ HQ](https://www.bloomberg.com/news/articles/2026-01-15/oracle-nashville-hq-trying-to-recruit-cloud-workers) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [Canon Eyes Possible Deals in Medical Devices and Chip Tools](https://www.bloomberg.com/news/articles/2026-01-15/canon-eyes-possible-deals-in-medical-devices-and-chip-tools) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [Ericsson Plans to Cut 1,600 Jobs in Sweden in Cost-Cutting Push](https://www.bloomberg.com/news/articles/2026-01-15/ericsson-plans-to-ax-1-600-jobs-in-sweden-in-cost-cutting-push) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [Thailand Approves New Data Center Projects Worth $3.1 Billion](https://www.bloomberg.com/news/articles/2026-01-15/thailand-approves-new-data-center-projects-worth-3-1-billion) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [UK Weighs Australia-Style Social Media Ban for Children](https://www.bloomberg.com/news/articles/2026-01-15/uk-weighs-australia-style-social-media-ban-for-children) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [Novo Fund to Donate Record $860 Million in New Bioscience Grant](https://www.bloomberg.com/news/articles/2026-01-15/novo-fund-to-donate-record-860-million-in-new-bioscience-grant) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [Revolut Chairman Is Listed as Swiss Resident in Local Filings](https://www.bloomberg.com/news/articles/2026-01-15/revolut-chairman-is-listed-as-swiss-resident-in-local-filings) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [LSEG Starts New Digital Settlement Platform in Blockchain Push](https://www.bloomberg.com/news/articles/2026-01-15/lseg-starts-new-digital-settlement-platform-in-blockchain-push) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [Microsoft Investigated by Swiss Regulator over Licensing Fees](https://www.bloomberg.com/news/articles/2026-01-15/microsoft-investigated-by-swiss-regulator-over-licensing-fees) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [China Gets a Jump on Trying AI Everywhere From Cars to Birdbaths](https://www.bloomberg.com/news/articles/2026-01-15/china-gets-a-jump-on-trying-ai-everywhere-from-cars-to-birdbaths) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [TikTok Blocks Thai Politicians From Paying for Ads Before Poll](https://www.bloomberg.com/news/articles/2026-01-15/tiktok-blocks-thai-politicians-from-paying-for-ads-before-poll) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [TSMC Says Spending to Surge in Strong Signal for AI Boom](https://www.bloomberg.com/news/videos/2026-01-15/tsmc-says-spending-to-surge-in-strong-signal-for-ai-boom-video) *(Bloomberg Technology)*
+- [ ] 2026-01-15 [They Built a Full-Sized Boat for Guillermo del Toro’s ‘Frankenstein’](https://gizmodo.com/they-built-a-full-sized-boat-for-guillermo-del-toros-frankenstein-2000710561) *(Gizmodo – Technology)*
+- [ ] 2026-01-15 [ISS mission splashes down after medical issue](https://www.engadget.com/science/space/iss-mission-splashes-down-after-medical-issue-103000302.html?src=rss) *(Engadget)*
+- [ ] 2026-01-15 [The best cheap fitness trackers for 2026](https://www.engadget.com/wearables/best-cheap-fitness-trackers-140054780.html?src=rss) *(Engadget)*
+- [ ] 2026-01-15 [新語は“Google超え”――Microsoftの「Copilot Keyboard」は、正常進化したAI日本語入力だった](https://www.itmedia.co.jp/news/articles/2601/15/news131.html) *(ITmedia AI＋)*
+- [ ] 2026-01-15 [Google日本法人、侍ジャパン公式パートナーに　「Gemini」を通じて支援](https://www.itmedia.co.jp/aiplus/articles/2601/15/news126.html) *(ITmedia AI＋)*
+- [ ] 2026-01-15 [のみ込む音をセンサーとAIで検知、高齢者の窒息防止へ](https://monoist.itmedia.co.jp/mn/articles/2601/15/news073.html) *(ITmedia AI＋)*
+- [ ] 2026-01-15 [開発環境現状確認 2026 - k0kubun's blog](https://k0kubun.hatenablog.com/entry/development-environment-2026) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-15 [X、Grokでのビキニ画像を技術的に禁止　画像生成は有料プランのみに（ITmedia NEWS） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/d44d0a0176dc3a2022d501a620de08da57a14996) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-15 [ブラックボックスの蓋が開く 「異星人」として扱うことで 見えてきたAIの正体](https://www.technologyreview.jp/s/375765/meet-the-new-biologists-treating-llms-like-aliens/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-15 [「嫌な仕事を始められない」脳回路を解明　“やる気ブレーキ”を発見　京大など](https://www.itmedia.co.jp/news/articles/2601/15/news123.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-15 [タイポグラフィCSS](https://gist.github.com/tak-dcxi/0f8b924d6dd81aaeb58dc2e287f2ab3a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-15 [円周率「π」はポケモンをクリアできるか？　米国の数学者が出した答え](https://www.itmedia.co.jp/news/articles/2601/15/news030.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-15 [Amazonで注文した商品を販売業者が即キャンセル→その後代引きで別物が届く、という詐欺は今も健在「やべぇ気をつけよ」](https://togetter.com/li/2652017) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-15 [MagSafeで通信できたら、スマホからポートは無くなるんじゃないか？](https://www.gizmodo.jp/2026/01/ces_2026_uniqconn.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-15 [LinuxなどでWindowsアプリを動かす「Wine」がメジャーアップデート、ゲーム性能が向上、新しい「WoW64」も完成／「Wine 11.0」、6,300以上の変更と600件以上の不具合修正を反映](https://forest.watch.impress.co.jp/docs/news/2077977.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-15 [ドコモ装う不正アプリ「dアップグレード」に注意　d払いの不正利用やパスワード窃取のおそれ](https://www.itmedia.co.jp/news/articles/2601/15/news116.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-15 [Claude Codeでreact-best-practicesスキルをadd-skillでインストールして使ってみた](https://zenn.dev/tonkotsuboy_com/scraps/01b829b7e7c157) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-15 [女性トイレを男性以上に、国交省　駅や映画館、待ち時間短縮 \| NEWSjp](https://news.jp/i/1384116793365775274?c=39550187727945729) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-15 [OpenCode BlackとAnthropicの攻防 - なぜブロックされたのにClaudeが使えるのか？](https://zenn.dev/kok1eeeee/articles/opencode-black-anthropic-battle) *(Zenn – トピック LLM)*
+- [ ] 2026-01-15 [【実務編】Azure × ローカルLLM構築ログ：Nginx設定からPython接続まで](https://zenn.dev/cahal_inc/articles/2f1566007e87ac) *(Zenn – トピック LLM)*
+- [ ] 2026-01-15 [GeminiのPersonal Intelligenceは「ツール」から「理解するAI」へ](https://zenn.dev/ttks/articles/0be005c54ab8b0) *(Zenn – トピック LLM)*
+- [ ] 2026-01-14 [Claude Codeの並列実行を効率化する管理アプリを作った](https://zenn.dev/akino/articles/4e1b949594b6ca) *(Zenn – トピック LLM)*
+- [ ] 2026-01-15 [Codex CLI × JetBrains MCP — JetBrains MCP サーバーで使えるツールまとめ](https://zenn.dev/nattosystem_jp/articles/7cd9370c83a5cd) *(Zenn – トピック AI)*
+- [ ] 2026-01-15 [対話型AIの「能力」ではなく「配布設計」が生む危険性について](https://zenn.dev/dosanko_tousan/articles/94d9132b75374d) *(Zenn – トピック AI)*
+- [ ] 2026-01-15 [Google Antigravity Skills完全ガイド：エージェントを拡張する新機能を徹底解説](https://zenn.dev/t_kanazawa/articles/antigravity-skills) *(Zenn – トピック AI)*
+- [ ] 2026-01-15 [[書評] 『原論文から解き明かす生成AI』：理論的基礎を知るための一冊](https://zenn.dev/decurret/articles/d7a17a1cc85828) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [「横のガードレール」でAIにアーキテクチャを教えるのをやめた話](https://zenn.dev/hideyuki_toyama/articles/horizontal-guard-rails) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [AIで変わるシステム開発──フロントローディングで「手戻り地獄」を10倍速で解消する方法](https://zenn.dev/headwaters/articles/4eac6b82d7cf50) *(Zenn – トピック AI)*
+- [ ] 2026-01-14 [AIで作る業務動画 Day 15｜Remotionで字幕コンポーネントを実装する](https://zenn.dev/akira_cloudjob/articles/20260115-remotion-subtitle-component) *(Zenn – トピック AI)*
