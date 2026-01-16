@@ -12518,3 +12518,82 @@
 - [ ] 2026-01-15 [【2024年問題に挑む】ニチレイロジの物流DX戦略 ―属人化解消とデータ活用の最前線―](https://zenn.dev/headwaters/articles/992a8a21bfd1a4) *(Zenn – トピック AI)*
 - [ ] 2026-01-15 [Claude Codeを5分で始める方法](https://zenn.dev/gaku1234/articles/getting-started-with-claude-code) *(Zenn – トピック AI)*
 - [ ] 2026-01-15 [AIで作る業務動画 Day 16｜キャラクターと字幕を統合して「番組らしい」動画を完成させる](https://zenn.dev/akira_cloudjob/articles/20260116-remotion-integration) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-16T18:15:40.773Z
+- [ ] 2026-01-16 [Partly AI-generated folk-pop hit barred from Sweden’s official charts](https://www.theguardian.com/technology/2026/jan/16/partly-ai-generated-folk-pop-hit-barred-from-swedens-official-charts) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-16 [Sacked TikTok workers in UK launch legal action over ‘union busting’](https://www.theguardian.com/technology/2026/jan/16/sacked-tiktok-workers-uk-legal-action-union) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-16 [Ads Are Coming to ChatGPT. Here’s How They’ll Work](https://www.wired.com/story/openai-testing-ads-us/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-16 [Furious Protestor Tears AI-Generated Art Off Wall of Exhibit, Chews It Up Into Tiny Shreds Using His Teeth](https://futurism.com/artificial-intelligence/protestor-tears-ai-art-chews-teeth) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-16 [Researchers Just Found Something That Could Shake the AI Industry to Its Core](https://futurism.com/artificial-intelligence/ai-industry-recall-copyright-books) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-16 [Retailers bring conversational AI and analytics closer to the user](https://www.artificialintelligence-news.com/news/retailers-bring-conversational-ai-and-analytics-closer-to-the-user/) *(Artificial Intelligence News)*
+- [ ] 2026-01-16 [Banks operationalise as Plumery AI launches standardised integration](https://www.artificialintelligence-news.com/news/banks-operationalise-ai-as-plumery-ai-launches-standardised-integration/) *(Artificial Intelligence News)*
+- [ ] 2026-01-16 [Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews](https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai) *(VentureBeat – AI)*
+- [ ] 2026-01-16 [iPhone 18 Rumored Features for Pro, Pro Max, and Air 2](https://www.techrepublic.com/article/news-iphone-18-rumored-features-january-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-16 [HSBC Backs $220M WeLab Asian Fintech Deal](https://www.techrepublic.com/article/news-hsbc-backs-welab/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-16 [Amazon Starts Auto-Upgrading Prime Members to Alexa+ Without Warning](https://www.techrepublic.com/article/news-amazon-auto-enables-alexa-plus-prime-members/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-16 [Fujitsu, SC Ventures Unveil Roadmap for Quantum Joint Venture](https://www.techrepublic.com/article/news-fujitsu-sc-ventures-quantum-jv/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-16 [10 Essential Docker Concepts Explained in Under 10 Minutes](https://www.kdnuggets.com/10-essential-docker-concepts-explained-in-under-10-minutes) *(KDnuggets)*
+- [ ] 2026-01-16 [Top 5 Open-Source AI Model API Providers](https://www.kdnuggets.com/top-5-open-source-ai-model-api-providers) *(KDnuggets)*
+- [ ] 2026-01-16 [Tech Mahindra Wants Clients to Pay Separately for Digital Labour](https://analyticsindiamag.com/it-services/tech-mahindra-wants-clients-to-pay-separately-for-digital-labour/) *(Analytics India Magazine)*
+- [ ] 2026-01-16 [BSNL, Viasat to Support Indian Navy Satellite Communications Upgrade](https://analyticsindiamag.com/ai-news-updates/bsnl-viasat-to-support-indian-navy-satellite-communications-upgrade/) *(Analytics India Magazine)*
+- [ ] 2026-01-16 [AI is Forcing the End of Unit Testing. Here’s What It Means for Engineering Talent](https://analyticsindiamag.com/ai-features/ai-is-forcing-the-end-of-unit-testing-heres-what-it-means-for-engineering-talent/) *(Analytics India Magazine)*
+- [ ] 2026-01-16 [S&amp;P 500 Pares Gain as Trump Wavers on Fed Chair Pick](https://www.bloomberg.com/news/articles/2026-01-16/s-p-500-extends-gain-as-big-tech-stocks-push-higher-on-ai-trade) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [OpenAI to Test Targeted Ads in ChatGPT, Stepping Up Revenue Push](https://www.bloomberg.com/news/articles/2026-01-16/openai-to-test-targeted-ads-in-chatgpt-stepping-up-revenue-push-mkh6p4of) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [OpenAI to Test Targeted Ads in ChatGPT, Stepping Up Revenue Push](https://www.bloomberg.com/news/articles/2026-01-16/openai-to-test-targeted-ads-in-chatgpt-stepping-up-revenue-push) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [Making a Great Detective Video Game Is Really Hard](https://www.bloomberg.com/news/newsletters/2026-01-16/-the-seance-of-blake-manor-shows-the-challenge-of-making-a-great-detective-game) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [FTC Will Review Acquihires, Chair Ferguson Says](https://www.bloomberg.com/news/videos/2026-01-16/ftc-will-review-acquihires-chair-ferguson-says-video) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [Zalando Nears First US Client Deal, Sees AI Traffic Growing](https://www.bloomberg.com/news/articles/2026-01-16/zalando-closing-in-on-first-us-client-sees-ai-traffic-growing) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [Musk Slams Ryanair Boss in Escalating Fight of Two Abrasive CEOs](https://www.bloomberg.com/news/articles/2026-01-16/musk-slams-ryanair-boss-in-escalating-fight-of-two-abrasive-ceos) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [Hamm to Halt Drilling in Bakken Shale on Lower Crude Prices](https://www.bloomberg.com/news/articles/2026-01-16/harold-hamm-to-halt-drilling-in-bakken-shale-on-lower-oil-prices) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [ClickHouse Lands $15 Billion Valuation in AI Database Race](https://www.bloomberg.com/news/articles/2026-01-16/clickhouse-lands-15-billion-valuation-in-ai-database-race) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [DoorDash Revenue Chief Lee Brown Departs After Short Stint](https://www.bloomberg.com/news/articles/2026-01-16/doordash-revenue-chief-lee-brown-departs-after-short-stint) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [Trump to Push for Tech Giants to Pay for Power Costs](https://www.bloomberg.com/news/videos/2026-01-16/trump-to-push-for-tech-giants-to-pay-for-power-costs-video) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [Pagaya Sells Unusual Bond Backed by Personal Loans](https://www.bloomberg.com/news/articles/2026-01-16/pagaya-sells-bond-backed-by-personal-loans-in-hybrid-fundraise) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [Top Cerved Executive Exits From Billionaire Pignataro’s ION Unit](https://www.bloomberg.com/news/articles/2026-01-16/top-cerved-executive-exits-from-billionaire-pignataro-s-ion-unit) *(Bloomberg Technology)*
+- [ ] 2026-01-16 [‘A Knight of the Seven Kingdoms’ Creator on Working With George R.R. Martin](https://gizmodo.com/a-knight-of-the-seven-kingdoms-creator-on-working-with-george-r-r-martin-2000710370) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [Oh No, Meta Just Killed Off Working in VR](https://gizmodo.com/oh-no-meta-just-killed-off-working-in-vr-2000711072) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [Democrats Ask SEC to Explain Lack of Enforcement on Trump-Linked Crypto Entities](https://gizmodo.com/democrats-ask-sec-to-explain-lack-of-enforcement-on-trump-linked-crypto-entities-2000711123) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [Let’s Talk About the Ending of ’28 Years Later: The Bone Temple’](https://gizmodo.com/28-years-later-bone-temple-ending-explained-2000709797) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [Man’s Switch to Keto Diet Triggers Bizarre, Rare Rash](https://gizmodo.com/mans-switch-to-keto-diet-triggers-bizarre-rare-rash-2000711067) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [The Richest 1% Blew Their 2026 Carbon Budget in 10 Days. Some Did It in 3](https://gizmodo.com/the-richest-1-blew-their-2026-carbon-budget-in-10-days-some-did-it-in-3-2000711085) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [Elon Musk’s X Suffers Widespread Outage](https://gizmodo.com/elon-musks-x-suffers-widespread-outage-2000711084) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [Lego’s Next ‘Legend of Zelda’ Set Takes Us Back to ‘Ocarina of Time’](https://gizmodo.com/lego-legend-of-zelda-ocarina-of-time-final-battle-set-price-release-date-2000711082) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [Kathleen Kennedy Says Rian Johnson Was ‘Spooked’ From His ‘Star Wars’ Return](https://gizmodo.com/kathleen-kennedy-rian-johnson-last-jedi-star-wars-2000711065) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [China’s Proposed Megaconstellations Would Flood Orbit With 200,000 Satellites](https://gizmodo.com/china-wants-to-launch-200000-satellites-to-earth-orbit-outnumbering-all-other-constellations-2000710704) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [Arizona Man Gets 5 Years in Prison for Setting Fire to Cybertruck](https://gizmodo.com/arizona-man-gets-5-years-in-prison-for-setting-fire-to-cybertruck-2000710896) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [Jon Bernthal Promises a ‘High Octane’ Punisher in ‘Spider-Man: Brand New Day’](https://gizmodo.com/jon-bernthal-spider-man-brand-new-day-punisher-tone-2000710927) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [How ‘A Knight of the Seven Kingdoms’ Reminds Us We Need Ordinary Heroes More Than Ever](https://gizmodo.com/how-a-knight-of-the-seven-kingdoms-reminds-us-we-need-ordinary-heroes-more-than-ever-2000710818) *(Gizmodo – Technology)*
+- [ ] 2026-01-16 [Canada cuts tariffs on Chinese EVs as part of new deal](https://www.engadget.com/transportation/evs/canada-cuts-tariffs-on-chinese-evs-as-part-of-new-deal-174241990.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [X has been down for most of the morning](https://www.engadget.com/social-media/x-has-been-down-for-most-of-the-morning-171843527.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [The latest Legend of Zelda Lego set pays tribute to Ocarina of Time's final battle](https://www.engadget.com/gaming/nintendo/the-latest-legend-of-zelda-lego-set-pays-tribute-to-ocarina-of-times-final-battle-172212137.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [TikTok sued by former workers over alleged union-busting](https://www.engadget.com/big-tech/tiktok-sued-by-former-workers-over-alleged-union-busting-170446921.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [Audible deal: Three months of access is only $3 right now](https://www.engadget.com/deals/audible-deal-three-months-of-access-is-only-3-right-now-193859977.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [Engadget Podcast: Why did Apple choose Gemini for next-gen Siri?](https://www.engadget.com/computing/engadget-podcast-why-did-apple-choose-gemini-for-next-gen-siri-150000993.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [Get $100 off Apple's Mac mini M4 desktop](https://www.engadget.com/deals/get-100-off-apples-mac-mini-m4-desktop-141615926.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [Our favorite 3-in-1 wireless charger is on sale for 32 percent off](https://www.engadget.com/deals/our-favorite-3-in-1-wireless-charger-is-on-sale-for-32-percent-off-214707127.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [Netflix will give WBD movies 45-day theater exclusivity if deal goes through](https://www.engadget.com/entertainment/tv-movies/netflix-will-give-wbd-movies-45-day-theater-exclusivity-if-deal-goes-through-141223786.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [Meta is closing down its VR meeting rooms as part of its wider cull](https://www.engadget.com/big-tech/meta-is-closing-down-its-vr-meeting-rooms-as-part-of-its-wider-cull-140000422.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [Italian regulators are investigating Activision Blizzard's monetization practices](https://www.engadget.com/gaming/italian-regulators-are-investigating-activision-blizzards-monetization-practices-135057481.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [Apple's latest MagSafe charger is on sale for $30](https://www.engadget.com/deals/apples-latest-magsafe-charger-is-on-sale-for-30-141707636.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [XREAL files lawsuit against rival smart glass maker Viture](https://www.engadget.com/wearables/xreal-files-lawsuit-against-rival-smart-glass-maker-viture-133018692.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [Disney+ and Hulu deal: Get the bundle for only $10 for one month](https://www.engadget.com/deals/disney-and-hulu-deal-get-the-bundle-for-only-10-for-one-month-192814913.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [One of our favorite budgeting apps is only $50 for the year for new users](https://www.engadget.com/apps/one-of-our-favorite-budgeting-apps-is-only-50-for-the-year-for-new-users-204507183.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [ASUS changes mind, will continue selling the RTX 5070 Ti after all](https://www.engadget.com/computing/accessories/asus-changes-mind-will-continue-selling-the-rtx-5070-ti-after-all-130934271.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [TikTok tightens age verification across Europe](https://www.engadget.com/social-media/tiktok-tightens-age-verification-across-europe-130000847.html?src=rss) *(Engadget)*
+- [ ] 2026-01-16 [Introducing ChatGPT Go, now available worldwide](https://openai.com/index/introducing-chatgpt-go) *(OpenAI News)*
+- [ ] 2026-01-16 [Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access) *(OpenAI News)*
+- [ ] 2026-01-16 [2026年スウェーデンで大ヒット中の楽曲　音楽チャートから除外される　AI生成楽曲だと判明 - amass](https://amass.jp/187289/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-16 [ローカルAI翻訳モデル「TranslateGemma」を発表 ～2倍規模の「Gemma 3」並みの性能／モバイル・エッジ向けの4B、ノートPCでも動く12B、最高精度の27Bを展開](https://forest.watch.impress.co.jp/docs/news/2077957.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-16 [「高校の同級生やアイドルを裸に」Grokの性的改変で後悔相次ぐ…逮捕に怯え「自首」を検討する人も - 弁護士ドットコムニュース](https://bbs.bengo4.com/topics/c_23/n_19880/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-16 [先日スーパーで流れてたドリカムの曲名が思い出せない…AI検索でもヒットしなかった→AIよりも確実に正解に導いてくださる方が降臨](https://togetter.com/li/2652402) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-16 [GitHub - bolt-foundry/gambit: Agent harness framework for building, running, and verifying LLM workflows](https://github.com/bolt-foundry/gambit) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-16 [玉木雄一郎が名誉棄損で訴える検討をしたyoutubeチャンネルについてのメモ - 電脳塵芥](https://nou-yunyun.hatenablog.com/entry/2026/01/15/190000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-16 [Anchor Positioningが全対応。HTML・CSSだけのポップオーバーが完全体に](https://zenn.dev/ubie_dev/articles/anchor-positioning-popover) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-16 [X、投稿で報酬もらえる「infofi」アプリ禁止　スパム抑制へAPIポリシー改訂　「開発者はThreads、Blueskyに移行を」](https://www.itmedia.co.jp/news/articles/2601/16/news107.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-16 [開発環境現状確認 2026](https://osyoyu.com/blog/2026/01/16/124252) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-16 [The Astro Technology Company joins Cloudflare \| Astro](https://astro.build/blog/joining-cloudflare/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-16 [Agent Skills Marketplace - Claude, Codex & ChatGPT Skills \| SkillsMP](https://skillsmp.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-16 [生成AIで起きたのは「研究の低年齢化」ではない/民主化ではなく、「最初から本質を持っているか」が問われる残酷かつ公平な時代に（東洋経済オンライン） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/8a433d6194f0d5cddf8939f62bb08561646ccb62) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-16 [第857回：ドイツの自動車業界は大丈夫？　エンジニア多田哲哉が、現地再訪で大いにショックを受けたこと 【エディターから一言】 - webCG](https://www.webcg.net/articles/-/53240) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-16 [マウスコンピューター「全モデル販売停止」の真相　軣社長が語った“想定外の受注急増”と“正直な決断”](https://www.itmedia.co.jp/pcuser/articles/2601/16/news082.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-16 [マッキンゼーは次世代の採用テストでAIツール「Lilli」を利用してケーススタディを分析させている](https://gigazine.net/news/20260116-mckinsey-ai-chatbot-recruitment-process/) *(はてなブックマーク – IT 人気エントリ)*
