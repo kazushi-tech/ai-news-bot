@@ -12746,3 +12746,35 @@
 - [ ] 2026-01-16 [なぜAIは「心の器」になったのか― TransformerとAttentionの脳科学的解釈](https://zenn.dev/dosanko_tousan/articles/c9258404064392) *(Zenn – トピック AI)*
 - [ ] 2026-01-16 [AIで作る業務動画 Day 17｜台本フォーマットを設計し、音声生成パイプラインを構築する](https://zenn.dev/akira_cloudjob/articles/20260117-script-format-audio-pipeline) *(Zenn – トピック AI)*
 - [ ] 2026-01-16 [微分方程式解法×微分可能特徴グリッド導入×高速かつ高精度な物理場モデリングの実現](https://zenn.dev/yunisuta/articles/20260116-180606) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-17T18:12:59.132Z
+- [ ] 2026-01-17 [Tech companies’ access to UK ministers dwarfs that of child safety groups](https://www.theguardian.com/politics/2026/jan/17/tech-companies-access-to-uk-ministers-dwarfs-that-of-child-safety-groups) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-17 [Trump’s failed energy bill pledge leaves US households struggling: ‘It’s obscene’](https://www.theguardian.com/us-news/ng-interactive/2026/jan/17/trump-promise-energy-bills-costs) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-17 [New Study Finds AI in Schools Is Undermining Kids’ Social and Intellectual Development](https://futurism.com/artificial-intelligence/ai-schools-kids-study) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-17 [Scientists Now Studying AI as a Novel Biological Organism](https://futurism.com/artificial-intelligence/ai-novel-biological-organism) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-17 [If You Use AI Chatbots to Follow the News, You’re Basically Injecting Severe Poison Directly Into Your Brain](https://futurism.com/artificial-intelligence/chatbot-ai-news-journalism) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-17 [Are There Enough Engineers for the AI Boom?](https://spectrum.ieee.org/ai-data-centers-engineers-jobs) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-01-17 [Musk Says Tesla Almost Done With AI5 Chip Design, Working on AI6](https://www.bloomberg.com/news/articles/2026-01-17/musk-says-tesla-almost-done-with-ai5-chip-design-working-on-ai6) *(Bloomberg Technology)*
+- [ ] 2026-01-17 [The Wacky Musk-OpenAI Legal War Now Involves a Fittingly Insane Amount of Money](https://gizmodo.com/the-wacky-musk-openai-legal-war-now-involves-a-fittingly-insane-amount-of-money-2000709452) *(Gizmodo – Technology)*
+- [ ] 2026-01-17 [We Finally Know Real Things About the Next J.J. Abrams Movie](https://gizmodo.com/we-finally-know-real-things-about-the-next-j-j-abrams-movie-2000711329) *(Gizmodo – Technology)*
+- [ ] 2026-01-17 [The New ‘Exorcist’ and ‘Paranormal Activity’ Will Haunt Your 2027](https://gizmodo.com/the-new-exorcist-and-paranormal-activity-will-haunt-your-2027-2000711416) *(Gizmodo – Technology)*
+- [ ] 2026-01-17 [The Atari Hotel in Las Vegas Isn’t Happening Anymore](https://gizmodo.com/the-atari-hotel-in-las-vegas-isnt-happening-anymore-2000711372) *(Gizmodo – Technology)*
+- [ ] 2026-01-17 [Eufy Robot Vacuum Omni E28 Review: A Good Vacuum That Tries to Do Too Much](https://gizmodo.com/eufy-robot-vacuum-omni-e28-review-a-good-vacuum-that-tries-to-do-too-much-2000699135) *(Gizmodo – Technology)*
+- [ ] 2026-01-17 [Get NBA League Pass for up to 55 percent off right now](https://www.engadget.com/deals/get-nba-league-pass-for-up-to-55-percent-off-right-now-163421800.html?src=rss) *(Engadget)*
+- [ ] 2026-01-17 [Elon Musk is looking for a $134 billion payout from OpenAI and Microsoft](https://www.engadget.com/big-tech/elon-musk-is-looking-for-a-134-billion-payout-from-openai-and-microsoft-171824945.html?src=rss) *(Engadget)*
+- [ ] 2026-01-17 [Grab a four-pack of AirTags on sale for $65](https://www.engadget.com/deals/grab-a-four-pack-of-airtags-on-sale-for-65-202333514.html?src=rss) *(Engadget)*
+- [ ] 2026-01-17 [California AG sends cease and desist to xAI over Grok's explicit deepfakes](https://www.engadget.com/ai/california-ag-sends-cease-and-desist-to-xai-over-groks-explicit-deepfakes-140000574.html?src=rss) *(Engadget)*
+- [ ] 2026-01-17 [How to pair AirPods with any device](https://www.engadget.com/audio/headphones/how-to-pair-airpods-with-any-device-140000234.html?src=rss) *(Engadget)*
+- [ ] 2026-01-17 [How to cancel CyberGhost and get a refund](https://www.engadget.com/cybersecurity/vpn/how-to-cancel-cyberghost-and-get-a-refund-130000311.html?src=rss) *(Engadget)*
+- [ ] 2026-01-17 [Papers Please but with zombies, a farming-based shoot-'em-up and other new indie games worth checking out](https://www.engadget.com/gaming/papers-please-but-with-zombies-a-farming-based-shoot-em-up-and-other-new-indie-games-worth-checking-out-123000437.html?src=rss) *(Engadget)*
+- [ ] 2026-01-17 [ラズパイでLlama3.2などのAIを実行可能な拡張ボード「Raspberry Pi AI HAT+ 2」が登場、実物はこんな感じ](https://gigazine.net/news/20260116-raspberry-pi-ai-hat-plus-2/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-17 [Claude Code スキル自作勢へ！Agent Skills Marketplace に6万超スキル集結 - izanami](https://izanami.dev/post/93b709b5-06ae-48a0-8489-9f1970c20756) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-17 [2026年のCopilotは凄いぞ…「エージェント前提」で日常業務が激変、次の新常識とは？](https://www.sbbit.jp/article/cont1/178334) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-17 [jjを使っていて驚いた「1変更1コミット」という哲学](https://zenn.dev/imudak/articles/jj-gerrit-philosophy) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [インク不要のスマホ向けプリンターが1,800円](https://akiba-pc.watch.impress.co.jp/docs/news/news/2078231.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [禁断のハッキング端末｢Flipper Zero｣、車両盗難に使われまくる](https://www.gizmodo.jp/2026/01/flipper-zero-cars-hacking-ejf.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [なぜshadcn/uiは支持されたのか ― Providerモデル以後のUI設計](https://zenn.dev/sasau/articles/e036281804679c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [だから｢格安スマホ｣は安くて遅い…ユーザーがイライラさせられる1日2回の｢魔の時間帯｣](https://president.jp/articles/-/107522) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [30万の液タブだの1.5万のApple Pencilだの高えモンはあらかた使ったが3,500円の板タブがいちばん描きやすい「絵描きってのは一体何なんだろうな…」](https://togetter.com/li/2652923) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [「Suica」のシステム、徐々に変わってきているの知ってましたか？](https://www.itmedia.co.jp/mobile/articles/2601/17/news034.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [Google、Gemma 3ベース、55言語を網羅したオープンな翻訳モデルTranslateGemmaをリリース \| gihyo.jp](https://gihyo.jp/article/2026/01/translategemma) *(はてなブックマーク – IT 人気エントリ)*
