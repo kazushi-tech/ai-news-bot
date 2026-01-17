@@ -12677,3 +12677,22 @@
 - [ ] 2026-01-16 [Snowflake Cortex AI Functions で Gemini3 がパブリックプレビューとなりました！](https://zenn.dev/snowflakejp/articles/gemini3-on-snowflake) *(Zenn – トピック AI)*
 - [ ] 2026-01-16 [Claude Code / Codex / Gemini のセッションを一覧管理するTUIツールを作った](https://zenn.dev/atani/articles/lazyccg-ai-session-dashboard) *(Zenn – トピック AI)*
 - [ ] 2026-01-16 [WealthNaviから学ぶクオンツ運用の基礎 ― 理論・実装・評価の体系的理解](https://zenn.dev/shizumaru/articles/cba3ad693fca6f) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-17T06:14:33.012Z
+- [ ] 2026-01-17 [Thinking Machines Cofounder’s Office Relationship Preceded His Termination](https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-17 [Why the PSLV Setback Didn’t Ground India’s Space Startups](https://analyticsindiamag.com/deep-tech/why-the-pslv-setback-didnt-ground-indias-space-startups/) *(Analytics India Magazine)*
+- [ ] 2026-01-17 [Musk Seeks Up to $134 Billion Damages From OpenAI, Microsoft](https://www.bloomberg.com/news/articles/2026-01-17/musk-seeks-up-to-134-billion-damages-from-openai-microsoft) *(Bloomberg Technology)*
+- [ ] 2026-01-17 [India to Start Recovery of Taxes From Tiger Global After Verdict](https://www.bloomberg.com/news/articles/2026-01-17/india-to-start-recovery-of-taxes-from-tiger-global-after-verdict) *(Bloomberg Technology)*
+- [ ] 2026-01-17 [Lutnick Warns Some Korean, Taiwanese Firms May Face 100% Chip Tariffs Unless They Invest in US](https://www.bloomberg.com/news/articles/2026-01-17/lutnick-warns-some-korean-taiwanese-firms-may-face-100-chip-tariffs) *(Bloomberg Technology)*
+- [ ] 2026-01-17 [音楽家YOSHIKI氏　このままではアーティストが消える - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN210240R21C25A2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-17 [チャットGPTに広告表示、米国で試験導入　OpenAIが巨額投資回収へ - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN16CAW0W6A110C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-17 [生成AIで起きたのは｢研究の低年齢化｣ではない／民主化ではなく､｢最初から本質を持っているか｣が問われる残酷かつ公平な時代に](https://toyokeizai.net/articles/-/928669?display=b) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-17 [UI Skills](https://www.ui-skills.com/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-17 [GitHub - different-ai/openwork: An open-source alternative to Claude Cowork, powered by OpenCode](https://github.com/different-ai/openwork) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-17 [マチアプ、詐欺集団に狙われてる気がする](https://anond.hatelabo.jp/20260116154036) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [Meta、VR空間に集まって仕事できる「Horizon Workrooms」を終了](https://www.itmedia.co.jp/news/articles/2601/16/news122.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [GitHub、Copilot Memoryをパブリックプレビューで提供開始 ——すべてのGitHub Copilot有料プランで有効可能に \| gihyo.jp](https://gihyo.jp/article/2026/01/copilot-memory-public-preview) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [Astro is joining Cloudflare](https://blog.cloudflare.com/astro-joins-cloudflare/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [イラン抗議デモの偽動画、SNS上で氾濫　生成AI進化で識別難しく - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC16C3Y0W6A110C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [携帯「即解約」にメス。総務省、キャッシュバックの付与方法を変更する可能性 - すまほん!!](https://smhn.info/202601-soumu-cb) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [Just the Browser - Just the Browser](https://justthebrowser.com/) *(はてなブックマーク – IT 人気エントリ)*
