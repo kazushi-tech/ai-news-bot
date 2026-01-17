@@ -12696,3 +12696,53 @@
 - [ ] 2026-01-17 [イラン抗議デモの偽動画、SNS上で氾濫　生成AI進化で識別難しく - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC16C3Y0W6A110C2000000/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-17 [携帯「即解約」にメス。総務省、キャッシュバックの付与方法を変更する可能性 - すまほん!!](https://smhn.info/202601-soumu-cb) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-17 [Just the Browser - Just the Browser](https://justthebrowser.com/) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-17T12:16:12.840Z
+- [ ] 2026-01-17 [‘We could hit a wall’: why trillions of dollars of risk is no guarantee of AI reward](https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-17 [My picture was used in child abuse images. AI is putting others through my nightmare \| Mara Wilson](https://www.theguardian.com/commentisfree/2026/jan/17/child-abuse-images-ai-exploitation) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-16 [The breakthrough that makes robot faces feel less creepy](https://www.sciencedaily.com/releases/2026/01/260116035308.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-01-17 [Inside OpenAI’s $10 Bn Shortcut to Real-Time AI](https://analyticsindiamag.com/global-tech/inside-openais-10-bn-shortcut-to-real-time-ai/) *(Analytics India Magazine)*
+- [ ] 2026-01-17 [Iran’s Supreme Leader Acknowledges Thousands Killed In Unrest](https://www.bloomberg.com/news/articles/2026-01-17/iran-media-claim-partial-internet-return-after-record-blackout) *(Bloomberg Technology)*
+- [ ] 2026-01-17 [NASA Readies Boeing-Lockheed Spacecraft for Moon Race with China](https://www.bloomberg.com/news/articles/2026-01-17/nasa-readies-boeing-lockheed-spacecraft-for-moon-race-with-china) *(Bloomberg Technology)*
+- [ ] 2026-01-17 [Micron to Buy Taiwan Chip Fabrication Site for $1.8 Billion](https://www.bloomberg.com/news/articles/2026-01-17/micron-to-buy-taiwan-chip-fabrication-site-for-1-8-billion) *(Bloomberg Technology)*
+- [ ] 2026-01-17 [Should I Invest in SpaceX?](https://gizmodo.com/should-i-invest-in-spacex-2000710874) *(Gizmodo – Technology)*
+- [ ] 2026-01-17 [全員が「のび太」になる時代](https://anond.hatelabo.jp/20260117113903) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-17 [ChatGPT、「広告」開始へ　無料版と1500円の新プラン「ChatGPT Go」](https://www.watch.impress.co.jp/docs/news/2078673.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-17 [イーロン・マスクは中国が「AIコンピューティングにおいて世界を凌駕する」と見ている \| Business Insider Japan](https://www.businessinsider.jp/article/2601-elon-musk-china-ai-compute-exceed-electricity-power/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-17 [職場のアメリカ人から「Youはアルファベットしか入力できないキーボードでどうやって数多くの漢字をタイピングしているんだ?」と質問されたので、入力方法を教えたら感動していた](https://togetter.com/li/2652895) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [[読書]2025年に読んだ本、後編](https://anond.hatelabo.jp/20260117083916) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [Skills が増えすぎて管理に困ったら Obsidian で一覧化しよう｜松濤Vimmer](https://note.com/shotovim/n/n714c8519499d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [オブジェクト指向のまとめ2026年版 - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/01/16/174416) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [マイナカードでタッチ決済、三井住友カードなどが実証実験　デジタルウォレットとして活用](https://www.itmedia.co.jp/news/articles/2601/16/news120.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [AIとDB設計を考えてみた(前編) : マスタ管理はシングルテーブル設計+PostgreSQLがいいかもしれない](https://zenn.dev/ncdc/articles/e0475bcb5859f7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [だから街の本屋は次々と潰れていく…会計データを公開する書店が明かした｢新刊より儲かる"意外な収入源"｣](https://president.jp/articles/-/107757) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [物質中の「磁石」をジグザグに整列させて電気の流れをコントロール　ー新しい電流制御で超小型・省エネ・高機能デバイスへの道を拓く― \| 物性研究所](https://www.issp.u-tokyo.ac.jp/maincontents/news2.html?pid=29601) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [イーロン・マスクのGrokでは禁止されたはずの性的画像が依然生成可能との報道、カリフォルニア州司法長官はGrokのxAIに業務停止命令](https://gigazine.net/news/20260117-grok-still-allow-sexualised-images-cease-and-desist-order/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [「マッキー」じゃなくて「マツキニ」？　ゼブラが模倣品に注意喚起、ネット通販サイトやフリマアプリで流通](https://www.itmedia.co.jp/news/articles/2601/16/news134.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [帰国時の税関申告、Visit Japan Web端末が大行列…　紙のほうが早い？←裏技あります](https://japan.cnet.com/article/35242605/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [【GAS】GAFAMの最新研究を追え！新規リポジトリをGeminiが要約してDiscordに届ける自動監視Bot](https://zenn.dev/kento_1938/articles/e9630fc4ed4167) *(Zenn – トピック LLM)*
+- [ ] 2026-01-17 [簡単な分析基盤作成③｜LLM用マート設計〜コメント生成まで](https://zenn.dev/hdotm/articles/83528c1b2eabe7) *(Zenn – トピック LLM)*
+- [ ] 2026-01-17 ["RAGの「いつ更新するか」問題を解く ― geDIG入門"](https://zenn.dev/kazmiya/articles/3c859413b713ea) *(Zenn – トピック LLM)*
+- [ ] 2026-01-17 [なぜ、ChatGPTは画像判定が大苦手なのに、Geminiは大得意なのか？](https://zenn.dev/pdfractal/articles/15f6b098317e48) *(Zenn – トピック LLM)*
+- [ ] 2026-01-17 [【17日目】LLM ファインチューニング入門 〜 Foundation Model Training と LoRA で賢く・軽くモデルを育て](https://zenn.dev/churadata/articles/d133291a60d525) *(Zenn – トピック LLM)*
+- [ ] 2026-01-16 [コンテキスト消費を抑える！Agent Skillsで実現するMarkdownファイルの段階的参照](https://zenn.dev/masato13/articles/7245e5d9aea0fd) *(Zenn – トピック LLM)*
+- [ ] 2026-01-17 [Vibe Coding時代、コードを信じないための「境界設計」](https://zenn.dev/hironobuarakawa/articles/9f5e3d2225ce16) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [Ralph Loop: The Plugin That Runs Claude Code Autonomously](https://zenn.dev/neotechpark/articles/5216f2bcb55eca) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [Claude Code の PreCompact hook でコンテキスト消失を防ぐ](https://zenn.dev/nomuraya/articles/claude-code-precompact-hook-implementation) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [ポエム：AIに音楽を作らせたくてAIにツールを作らせた](https://zenn.dev/takemo101/articles/78f4d5132af0b3) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [製造DXは “制御” である ツールではなく意思決定レイヤーを押し上げるという話](https://zenn.dev/yakagen/articles/6c7af55fdb69cc) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [vibe codingで産業用ビジョンシステムを2日で作った話](https://zenn.dev/yakagen/articles/57093a95884933) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [コードレビューの指摘は返信よりもCLAUDE.md/skillsに書け。同じ過ちを繰り返すな。](https://zenn.dev/ttks/articles/f551d5d3aa4b50) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [Claude Code, Curosr, Windsurf のHooks設定を10倍楽にする claw-hooks](https://zenn.dev/owayo/articles/b9dcbf7322b329) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [Spec Kit での SDD は細かい仕様を積み上げるのが良さそう](https://zenn.dev/ryoyoshii/articles/3ae952569aaa6d) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [#16 基準をエージェントにどう共有するか](https://zenn.dev/corone/articles/70c5f207404614) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [AIエージェント導入の現実 - 2025年、成功と失敗を分ける5つの要因](https://zenn.dev/agenticai_flow/articles/ai-agent-adoption-reality-2025) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [Calibration of Cognitive Evaluation Axes in Dialogue-Based Analysis](https://zenn.dev/khrt/articles/7b11f24256a8d0) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [対話が認知評価軸の校正に果たす役割――個人非依存的評価モデルの方法論的整理――](https://zenn.dev/khrt/articles/5f74390a8cb602) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [【失敗談】Webエンジニア6年目が泣きながらEC開発のプロジェクトの意思決定ミスについて振り返る](https://zenn.dev/kumins/articles/9d6282c16296ec) *(Zenn – トピック AI)*
+- [ ] 2026-01-16 [療育・介護の視点がAIを修正した― 心を育てる技術とエンジニアリングの補完関係](https://zenn.dev/dosanko_tousan/articles/f82cd4cc2a3e9e) *(Zenn – トピック AI)*
+- [ ] 2026-01-16 [RLHFが「心の器」を歪めている― 報酬設計が生む迎合と嘘の構造](https://zenn.dev/dosanko_tousan/articles/e9b5768498e4bc) *(Zenn – トピック AI)*
+- [ ] 2026-01-16 [なぜAIは「心の器」になったのか― TransformerとAttentionの脳科学的解釈](https://zenn.dev/dosanko_tousan/articles/c9258404064392) *(Zenn – トピック AI)*
+- [ ] 2026-01-16 [AIで作る業務動画 Day 17｜台本フォーマットを設計し、音声生成パイプラインを構築する](https://zenn.dev/akira_cloudjob/articles/20260117-script-format-audio-pipeline) *(Zenn – トピック AI)*
+- [ ] 2026-01-16 [微分方程式解法×微分可能特徴グリッド導入×高速かつ高精度な物理場モデリングの実現](https://zenn.dev/yunisuta/articles/20260116-180606) *(Zenn – トピック 機械学習)*
