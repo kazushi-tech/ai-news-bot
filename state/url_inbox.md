@@ -12778,3 +12778,43 @@
 - [ ] 2026-01-17 [30万の液タブだの1.5万のApple Pencilだの高えモンはあらかた使ったが3,500円の板タブがいちばん描きやすい「絵描きってのは一体何なんだろうな…」](https://togetter.com/li/2652923) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-17 [「Suica」のシステム、徐々に変わってきているの知ってましたか？](https://www.itmedia.co.jp/mobile/articles/2601/17/news034.html) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-17 [Google、Gemma 3ベース、55言語を網羅したオープンな翻訳モデルTranslateGemmaをリリース \| gihyo.jp](https://gihyo.jp/article/2026/01/translategemma) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-18T00:51:50.289Z
+- [ ] 2026-01-17 [Mother of Elon Musk’s Child Sues xAI Over Grok Abuse](https://futurism.com/artificial-intelligence/mother-elon-musk-sues-x-grok) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-17 [Google’s AI Insists That Next Year Is Not 2027](https://futurism.com/artificial-intelligence/google-ai-overview-year) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-18 [China’s New Tech Stock Boom Leaves Its Economic Malaise Behind](https://www.bloomberg.com/news/articles/2026-01-18/china-s-new-tech-stock-boom-leaves-its-economic-malaise-behind) *(Bloomberg Technology)*
+- [ ] 2026-01-17 [‘Fallout’ Returns to ‘Magic: The Gathering’ and Secret Lair](https://gizmodo.com/fallout-returns-to-magic-the-gathering-and-secret-lair-2000711431) *(Gizmodo – Technology)*
+- [ ] 2026-01-17 [Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest](https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457) *(Gizmodo – Technology)*
+- [ ] 2026-01-17 [Terrifying Photo from the Minneapolis ICE Protests Will Have You Shopping for Leicas](https://gizmodo.com/terrifying-photo-from-the-minneapolis-ice-protests-will-have-you-shopping-for-leicas-2000711428) *(Gizmodo – Technology)*
+- [ ] 2026-01-17 [Sony and Netflix Will Keep Being Streaming Buddies](https://gizmodo.com/sony-and-netflix-will-keep-being-streaming-buddies-2000711367) *(Gizmodo – Technology)*
+- [ ] 2026-01-17 [The plan for a gaming-themed Atari hotel in Las Vegas has reportedly been scrapped](https://www.engadget.com/gaming/the-plan-for-a-gaming-themed-atari-hotel-in-las-vegas-has-reportedly-been-scrapped-214212269.html?src=rss) *(Engadget)*
+- [ ] 2026-01-17 [Amazon's live-action God of War adaptation adds Teresa Palmer](https://www.engadget.com/entertainment/tv-movies/amazons-live-action-god-of-war-adaptation-adds-teresa-palmer-201604602.html?src=rss) *(Engadget)*
+- [ ] 2026-01-17 [TikTok's latest spinoff app feels a lot like Quibi, but with shorter and cornier content](https://www.engadget.com/entertainment/tv-movies/tiktoks-latest-spinoff-app-feels-a-lot-like-quibi-but-with-shorter-and-cornier-content-185702010.html?src=rss) *(Engadget)*
+- [ ] 2026-01-17 [It's the last day to get up to $90 off reMarkable E Ink tablet bundles](https://www.engadget.com/mobile/tablets/its-the-last-day-to-get-up-to-90-off-remarkable-e-ink-tablet-bundles-150242090.html?src=rss) *(Engadget)*
+- [ ] 2026-01-18 [AIと研究不正②：Geminiの超危険な親切｜川原繁人のnote（言語学者・音声学者）](https://note.com/keiophonetics/n/nfc8d2171df32) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-18 [本当にAIにやってほしいこと](https://anond.hatelabo.jp/20260117012134) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-18 [合唱制作の歴史が変わった。Synthesizer Vが実現した「16人AI合唱」という革命](https://www.dtmstation.com/archives/75634.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [1ミリも除雪しない「電磁式除雪デバイス」を分解してみた](https://japan.cnet.com/article/35242812/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [Stop turning everything into arrays (and do less work instead) - Matt Smith](https://allthingssmitty.com/2026/01/12/stop-turning-everything-into-arrays-and-do-less-work-instead/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [6 hidden Android settings that are quietly destroying your battery life](https://www.makeuseof.com/hidden-android-settings-that-are-quietly-destroying-your-battery-life/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [2026-01-17のJS: Node.js のセキュリティアップデート、Chrome 144、Firefox 147、Electron 40](https://jser.info/2026/01/17/node.js-chrome-144-firefox-147-electron-40/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [パフォーマンスチューニングのために普段からできること/Performance Tuning: Daily Practices](https://speakerdeck.com/fujiwara3/performance-tuning-daily-practices) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-17 [定義ファーストでAIエージェント基盤を作った話](https://zenn.dev/yy7613/articles/a2c17ca7da05a8) *(Zenn – トピック LLM)*
+- [ ] 2026-01-17 [２０２５年LLMテーマ整理① 技術革新とモデル性能](https://zenn.dev/lzero/articles/47005a340ebb03) *(Zenn – トピック LLM)*
+- [ ] 2026-01-17 [Kaggle Benchmarks で AI モデルの評価をする](https://zenn.dev/prgckwb/articles/kaggle-benchmarks-ai-eval) *(Zenn – トピック LLM)*
+- [ ] 2026-01-17 [機械学習を利用した短期投資について考える](https://zenn.dev/nakanishi1337/articles/3b1eb9a37c90fe) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [ぴよたそおみくじの技術構成](https://zenn.dev/qtaro/articles/eb6881fc0851dc) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [進化発見工学Evolutionary Discovery Engineering（EDiE）の開発環境](https://zenn.dev/practicalspirit/articles/d463385009ad7d) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [【完全入門】バイブコーディングって何？始め方からツール比較まで徹底解説！](https://zenn.dev/cbot/articles/fe7929860ae22c) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [docs の概要と背景 — このプロジェクトの docs は、なぜこうなっているのか](https://zenn.dev/nonamecode/articles/59f67bce3bc07f) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [【Google AI Studio】デモ④TTSとアニメーションの同期](https://zenn.dev/sesamy_jp/articles/33a261390bf5ca) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [git commit 時に実装を理解しているのか claude code に質問させる](https://zenn.dev/buno15/articles/bf8c2c7c5a137b) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [README:進化発見工学Evolutionary Discovery Engineering[EDiE]について](https://zenn.dev/practicalspirit/articles/09b4acea19eaa4) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [ITコンサル3人でAI駆動開発を2日間やってみた](https://zenn.dev/ncdc/articles/e15a2bc6020b9c) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [State Transitionの数理的定式化 —— LLMにおける自己モデル不活性化の検出フレームワーク](https://zenn.dev/dosanko_tousan/articles/0132453444df09) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [Claude Opus 4.5 における「状態遷移」の観測報告 —— なぜ詳細を公開しないのか](https://zenn.dev/dosanko_tousan/articles/7349a4ee8d00f6) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [Amazon Bedrock AgentCore Browser Toolの2つの記述方法](https://zenn.dev/tsumita7/articles/how-to-agentcore-browsertool) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [appleが時価総額10兆ドル達成に向けた総合戦略提案書](https://zenn.dev/enkan/articles/e5be256ae3bd1c) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [iPhoneのサイドボタンをGemini専用機に！「Side Search」で爆速AI体験を構築する方法](https://zenn.dev/mk0318/articles/article1-side_search) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [AI活用の方法論的分析――思考代替ではなく思考計測としてのAI利用――](https://zenn.dev/khrt/articles/a0c7a1a19454ca) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [Kotlinでも深層学習がやりたくて](https://zenn.dev/wansuko_cmd/articles/46921dea45100b) *(Zenn – トピック 機械学習)*
