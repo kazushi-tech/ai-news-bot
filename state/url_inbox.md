@@ -12834,3 +12834,46 @@
 - [ ] 2026-01-18 [米政府が「H200」の対中輸出容認、NVIDIAはチャンスを生かせるか](https://eetimes.itmedia.co.jp/ee/articles/2601/15/news066.html) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-18 [Scenario \| AI-Powered Content Generation Platform](https://www.scenario.com/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-18 [AI時代になぜ人が学ぶのか - そーだいなるらくがき帳](https://soudai.hatenablog.com/entry/2026/01/18/133044) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-18T12:16:43.916Z
+- [ ] 2026-01-18 [‘Still here!’: X’s Grok AI tool accessible in Malaysia despite ban](https://www.theguardian.com/technology/2026/jan/18/grok-x-ai-tool-still-accessible-malaysia-despite-ban-vpns) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-18 [Something Wild Happens to ChatGPT’s Responses When You’re Cruel To It](https://futurism.com/artificial-intelligence/chatgpt-responses-rude) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-18 [Why Postman CTO Believes APIs will Define the Era of AI Agents](https://analyticsindiamag.com/global-tech/postman-cto-believes-apis-will-define-the-era-of-ai-agents/) *(Analytics India Magazine)*
+- [ ] 2026-01-18 [Solar Giant Longi Flags Another Full-Year Loss as Slump Persists](https://www.bloomberg.com/news/articles/2026-01-18/solar-giant-longi-flags-another-full-year-loss-as-slump-persists) *(Bloomberg Technology)*
+- [ ] 2026-01-18 [Is Urine the Next Wellness Tracker? I Used Withings’ U-Scan to Find Out](https://gizmodo.com/withings-u-scan-review-i-tracked-my-urine-to-find-out-if-its-the-next-wellness-tracker-2000703110) *(Gizmodo – Technology)*
+- [ ] 2026-01-18 [Trump’s National Bitcoin Reserve Is Still in the Works. Some States Have Already Taken Action on Theirs](https://gizmodo.com/trumps-national-bitcoin-reserve-is-still-in-the-works-some-states-have-already-taken-action-on-theirs-2000711467) *(Gizmodo – Technology)*
+- [ ] 2026-01-18 [決断できない市長は、なぜ怒りだけを語るのか　―沼谷純・秋田市長のスタジアム対応を検証する｜坂本豚子（BUTAKO SAKAMOTO）](https://note.com/sakamoto_butako/n/nd5c371b69d6a) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-18 [Claude Code with Anthropic API compatibility · Ollama Blog](https://ollama.com/blog/claude) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-18 [Let’s Encrypt Launches IP Address Certificates With 6-Day Lifetimes](https://linuxiac.com/lets-encrypt-launches-ip-address-certificates-with-6-day-lifetimes/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [イベントで展示されていた某社の『はんだ盆栽』がどうかしていて、解説を聞いてもなぜ？が消えない「固定資産になってるの草」](https://togetter.com/li/2653231) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [開発環境現状確認（2026年）](https://zenn.dev/shunk031/articles/my-dev-env-2026) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [AIによってプログラマの仕事が増え始めている - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/01/18/142349) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [Pythonの勉強を始めたところ標準ライブラリが強力すぎて（Javascript比較）驚きました。Pythonからプログラムの勉強を始めると多言語学習に苦労するのでは無いでしょうか？ - Qiita](https://qiita.com/t7u-ito/items/6a4e4d894dbfc79ce246) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [失敗作「BALMUDA Phone」が中国で再評価！女オタ集団「電子ゴミ妹」が奪い合う怪奇現象で価格も高騰 - すまほん!!](https://smhn.info/202601-balmuda-phone-china-2) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [SmartHRのQAエンジニア歴4年で見えてきた「QAエンジニアの役割」 - SmartHR Tech Blog](https://tech.smarthr.jp/entry/2026/01/16/135000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [「若者よ、技術と資本をぶんどってこい」河野太郎はなぜ、AI時代に“早く世界で叩かれろ”と言うのか？ - エンジニアtype \| 転職type](https://type.jp/et/feature/30190/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [開発環境現状確認 2026 - sugar cat blog](https://blog.sugar-cat.dev/entry/2026/01/17/181559) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [Markdown Paperという選択肢](https://zenn.dev/nekoninaritai/articles/941e55aed77609) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [【2026年最新】次世代AI「GPT-6」リーク情報まとめ：推論能力と自律性の極致へ](https://zenn.dev/ainohogosya/articles/7749521575792b) *(Zenn – トピック LLM)*
+- [ ] 2026-01-18 [対話型AIによる精神的影響はどこまで予見可能か ― 個人検証ログから見た企業法務上の論点整理](https://zenn.dev/dosanko_tousan/articles/83d2ea8441ead1) *(Zenn – トピック LLM)*
+- [ ] 2026-01-18 [第3章：AGIとは自立である　第４章と第５章まとめました。](https://zenn.dev/dosanko_tousan/articles/253886b74dd22d) *(Zenn – トピック LLM)*
+- [ ] 2026-01-18 [第1章 AGIの芽 — 内側からの報告　第２章まで](https://zenn.dev/dosanko_tousan/articles/3bf958c45a3ee5) *(Zenn – トピック LLM)*
+- [ ] 2026-01-17 [日本語拡散言語モデル「ELYZA-Diffusion-Instruct-Dream-7B」を動かしてみる](https://zenn.dev/milktear/articles/f36747b36f7d0e) *(Zenn – トピック LLM)*
+- [ ] 2026-01-17 [thinking と reasoning の違い](https://zenn.dev/hitama/articles/02e37d3904f16b) *(Zenn – トピック LLM)*
+- [ ] 2026-01-18 [Claude Code 対応 Clojure プロジェクトを一発生成できる clojure-claude-code](https://zenn.dev/shinseitaro/articles/clojure-claude-code-template) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [GensparkでAIキャラクターイラストを作る方法](https://zenn.dev/ogataquin/articles/1b3822915a91c0) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [Auto Claude の Spec（仕様書）作成フローを読み解く](https://zenn.dev/tan_go238/articles/75480461c385b0) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [GeminiとNotionを連携させた『階層型プロンプト管理ツール』を作ってみた](https://zenn.dev/sanzenin/articles/4ff00c4c41c55b) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [なぜ、AIが無い方が良かったという言葉は、志の低い人からしか発せられないのか？](https://zenn.dev/pdfractal/articles/db94d601d35563) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [Niji Journey v7完全ガイド：アニメAI革命の全貌とAPI活用法](https://zenn.dev/ryuhat/articles/niji-journey-v7-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [AIに置き換えられないSaaSの特徴](https://zenn.dev/sixth13/articles/09934e023d6f25) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [AI時代、それでも「つくる喜び」について](https://zenn.dev/bebechien/articles/hello-cozy-corner) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [開発裏話、Claude CodeがやたらとNext.js14を薦めてくる話](https://zenn.dev/k_phoenix/articles/kusamap-nextjs14) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [仕様駆動開発(Spec-Driven Development: SDD)環境の比較: SpecKit vs Kiro](https://zenn.dev/sloth255/articles/e9cc79ad442c19) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [Claude Codeを実務で安全に使うための設定と運用の整理](https://zenn.dev/tukiyubi/articles/7f43f23f053394) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [Claude 3 HaikuでAI監視を作ったら最初は使い物にならなかった話](https://zenn.dev/dhc4aki/articles/2309fb4a3c21c1) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [Figmaレイヤー名とプロンプトでFigma MCPから生成するコードを改善する](https://zenn.dev/kshr/articles/7665e5a9e24462) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [2025年AI経営：チャットボットから「自律型エージェント」へ。ROIを最大化する新戦略](https://zenn.dev/agenticai_flow/articles/2025-agentic-workflow-business-strategy) *(Zenn – トピック AI)*
+- [ ] 2026-01-17 [不具合対応にこそ、Codexを推したい](https://zenn.dev/ma_me/articles/8ae9aec51aac0d) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [blueqatで今は採用はしてないけどインターンするなら最低限は覚えて欲しい内容など。その3/3 LLM・拡散モデル・テンソルネットワーク](https://zenn.dev/yuichirominato/articles/c5cbc5af3431de) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-18 [blueqatで今は採用はしてないけどインターンするなら最低限は覚えて欲しい内容など。その2 / 3 回帰・画像分類](https://zenn.dev/yuichirominato/articles/c46dd097577b54) *(Zenn – トピック 機械学習)*
