@@ -12818,3 +12818,19 @@
 - [ ] 2026-01-17 [iPhoneのサイドボタンをGemini専用機に！「Side Search」で爆速AI体験を構築する方法](https://zenn.dev/mk0318/articles/article1-side_search) *(Zenn – トピック AI)*
 - [ ] 2026-01-17 [AI活用の方法論的分析――思考代替ではなく思考計測としてのAI利用――](https://zenn.dev/khrt/articles/a0c7a1a19454ca) *(Zenn – トピック AI)*
 - [ ] 2026-01-17 [Kotlinでも深層学習がやりたくて](https://zenn.dev/wansuko_cmd/articles/46921dea45100b) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-18T06:15:00.801Z
+- [ ] 2026-01-18 [AI can make the dead talk – why this doesn’t comfort us](https://theconversation.com/ai-can-make-the-dead-talk-why-this-doesnt-comfort-us-272944) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-18 [‘Every Company Will Have to Become an API Company’](https://analyticsindiamag.com/global-tech/every-company-will-have-to-become-an-api-company/) *(Analytics India Magazine)*
+- [ ] 2026-01-18 [小実験：生成AIは研究不正をそそのかすのか！？―― 編集中論文を「一緒に読んであげる💜」とそそのかされた私 ――｜川原繁人のnote（言語学者・音声学者）](https://note.com/keiophonetics/n/n99ec4f25a49f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-18 [AIは魔法ではない。マイクロソフトが背負い始めた「AI公害」という現実｜川崎 裕一 / マネタイズおじさん](https://comemo.nikkei.com/n/nbfac079229d6) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-18 [Steamで“生成AI利用”の開示基準が明確化。「開発効率化AIツールの使用」は報告不要、ユーザーが触れる「アート」などと線引き - AUTOMATON](https://automaton-media.com/articles/newsjp/steam-ai-20260117-407801/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-18 [ウィキペディア AI開発企業と合意 データ提供し資金支援受ける \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015028371000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-18 [店に食事会の予約をしたら、その予約方法が『直前キャンセル対策』として素晴らしいシステムだった「これは普及して欲しい」「海外ではわりと普通」](https://togetter.com/li/2653142) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [なぜJavaScriptのfetchはawaitを2回しないとレスポンスを取れないのか \| maguro​.dev](https://maguro.dev/blog/fetch-double-await-explained/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [プログラミングが好きな人こそ今の時代、プログラマーになる方がいいと思う。- 「プログラミングが好きな人は、もうIT業界に来るな。」を読んで - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/01/18/123151) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [個人利用なら完全無料かつセルフホストも可能なDockerコンテナ管理ツール「Dockhand」](https://gigazine.net/news/20260117-dockhand/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [人工知能：整合性のとれていない大規模言語モデルはタスク間で悪影響を広げる可能性がある \| Nature \| Nature Portfolio](https://www.natureasia.com/ja-jp/research/highlight/15440) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [米政府が「H200」の対中輸出容認、NVIDIAはチャンスを生かせるか](https://eetimes.itmedia.co.jp/ee/articles/2601/15/news066.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [Scenario \| AI-Powered Content Generation Platform](https://www.scenario.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [AI時代になぜ人が学ぶのか - そーだいなるらくがき帳](https://soudai.hatenablog.com/entry/2026/01/18/133044) *(はてなブックマーク – IT 人気エントリ)*
