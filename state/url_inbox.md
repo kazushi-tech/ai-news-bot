@@ -12877,3 +12877,32 @@
 - [ ] 2026-01-17 [不具合対応にこそ、Codexを推したい](https://zenn.dev/ma_me/articles/8ae9aec51aac0d) *(Zenn – トピック AI)*
 - [ ] 2026-01-18 [blueqatで今は採用はしてないけどインターンするなら最低限は覚えて欲しい内容など。その3/3 LLM・拡散モデル・テンソルネットワーク](https://zenn.dev/yuichirominato/articles/c5cbc5af3431de) *(Zenn – トピック 機械学習)*
 - [ ] 2026-01-18 [blueqatで今は採用はしてないけどインターンするなら最低限は覚えて欲しい内容など。その2 / 3 回帰・画像分類](https://zenn.dev/yuichirominato/articles/c46dd097577b54) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-18T18:13:04.185Z
+- [ ] 2026-01-18 [Deactivate your X account – you won’t miss it when it’s gone \| Letter](https://www.theguardian.com/technology/2026/jan/18/deactivate-your-x-account-you-wont-miss-it-when-its-gone) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-18 [AI companies will fail. We can salvage something from the wreckage \| Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-18 [AI Completely Failing to Boost Productivity, Says Top Analyst](https://futurism.com/artificial-intelligence/ai-failing-boost-productivity) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-18 [Man Confused by AI-Generated Reports That He’s Dead](https://futurism.com/artificial-intelligence/ai-generated-dead) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-18 [Media Execs Prepare for AI to Bring End of Journalism Industry](https://futurism.com/artificial-intelligence/media-execs-end-journalism) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-18 [Meta Lays Off Thousands of VR Workers as Zuckerberg’s Vision Fails](https://futurism.com/future-society/meta-reality-vr-layoffs) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-18 [Microsoft’s AI deal promises Canada digital sovereignty, but is that a pledge it can keep?](https://theconversation.com/microsofts-ai-deal-promises-canada-digital-sovereignty-but-is-that-a-pledge-it-can-keep-272890) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-18 [Fintech Tycoon’s Startup Platform Merges With Milan Tech Hubs](https://www.bloomberg.com/news/articles/2026-01-18/fintech-tycoon-s-startup-platform-merges-with-milan-tech-hubs) *(Bloomberg Technology)*
+- [ ] 2026-01-18 [Israel’s Wartime Tech Economy](https://www.bloomberg.com/news/videos/2026-01-18/israel-s-wartime-tech-economy-video) *(Bloomberg Technology)*
+- [ ] 2026-01-18 [Sequoia to Join Funding Round for AI Startup Anthropic, FT Says](https://www.bloomberg.com/news/articles/2026-01-18/sequoia-to-join-funding-round-for-ai-startup-anthropic-ft-says) *(Bloomberg Technology)*
+- [ ] 2026-01-18 [‘Zootopia 2’ Is Hollywood’s Biggest Animated Movie Ever](https://gizmodo.com/zootopia-2-is-the-biggest-animated-movie-ever-2000711544) *(Gizmodo – Technology)*
+- [ ] 2026-01-18 [The Ninth ‘Stranger Things’ Episode Exists…on ‘SNL’](https://gizmodo.com/the-ninth-stranger-things-episode-exists-on-snl-2000711539) *(Gizmodo – Technology)*
+- [ ] 2026-01-18 [The SwitchBot Smart Video Doorbell Is a Smart Home Camera for Almost Nobody](https://gizmodo.com/the-switchbot-smart-video-doorbell-is-a-smart-home-camera-for-almost-nobody-2000710234) *(Gizmodo – Technology)*
+- [ ] 2026-01-18 [Washington is the latest state pursuing an age verification law for porn sites](https://www.engadget.com/cybersecurity/washington-is-the-latest-state-pursuing-an-age-verification-law-for-porn-sites-174423529.html?src=rss) *(Engadget)*
+- [ ] 2026-01-18 [New users can get a year of one of our favorite budgeting apps for only $50](https://www.engadget.com/apps/new-users-can-get-a-year-of-one-of-our-favorite-budgeting-apps-for-only-50-204507576.html?src=rss) *(Engadget)*
+- [ ] 2026-01-18 [Apple's latest 25W MagSafe charger is on sale for $30](https://www.engadget.com/deals/apples-latest-25w-magsafe-charger-is-on-sale-for-30-141707297.html?src=rss) *(Engadget)*
+- [ ] 2026-01-18 [Disney+ and Hulu deal: Get one month of the bundle for only $10](https://www.engadget.com/deals/disney-and-hulu-deal-get-one-month-of-the-bundle-for-only-10-192814033.html?src=rss) *(Engadget)*
+- [ ] 2026-01-17 [A business that scales with the value of intelligence](https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence) *(OpenAI News)*
+- [ ] 2026-01-18 [Claude Codeが私の職場を激変させはじめた - Qiita](https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-18 [⚡製図革命2.0⚡draw.io で図を作る AI スキルを作ってみた🚀 - Qiita](https://qiita.com/aktsmm/items/199869941e2d6a8b46a0) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-18 [Twitter創業者のジャック・ドーシーがインターネットなしで機能する衝撃の新メッセージアプリ『Bitchat』の立ち上げを発表した](https://togetter.com/li/2653333) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [Let's EncryptでIPアドレス証明書を発行できるようになった - ASnoKaze blog](https://asnokaze.hatenablog.com/entry/2026/01/18/153321) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [ほぼ同一のテンプレ説明文を用いてたAIを利用した政治系動画チャンネルについてのメモ - 電脳塵芥](https://nou-yunyun.hatenablog.com/entry/2026/01/18/210000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [TUI を構築するための Typescript ライブラリ OpenTUI](https://azukiazusa.dev/blog/build-tui-with-opentui/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [サイバー攻撃の高度化と、企業に求められるセキュリティ意識 - Qiita](https://qiita.com/ninomono/items/042e1fdb7522289d362f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [プログラミングからソフトウェアエンジニアリングへ - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/01/17/151408) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-18 [アマゾンのデータセンターが、我が家の正面に建設された。騒音・悪臭・光害に日々悩まされ、条例改正を求め地域住民とともに闘っている \| Business Insider Japan](https://www.businessinsider.jp/article/2510-living-next-to-data-centers-terrible-wont-leave-dream-home/) *(はてなブックマーク – IT 人気エントリ)*
