@@ -13317,3 +13317,74 @@
 - [ ] 2026-01-19 [タイミー1強に異変…マクドナルド・すかいらーくが始めた「スキマバイト内製化」の衝撃](https://biz-journal.jp/company/post_393067.html) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-19 [bitchat](https://bitchat.free/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-19 [AIでさえ「AIが書いた文章」を検出するのが難しいのはなぜ？](https://gigazine.net/news/20260118-ai-text-detection-problem/) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-19T12:20:49.330Z
+- [ ] 2026-01-19 [The Race to Build the DeepSeek of Europe Is On](https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-19 [JPMorgan Chase treats AI spending as core infrastructure](https://www.artificialintelligence-news.com/news/jpmorgan-chase-treats-ai-spending-as-core-infrastructure/) *(Artificial Intelligence News)*
+- [ ] 2026-01-19 [Tredence Introduces Agentic Commerce Accelerators for Retailers](https://analyticsindiamag.com/ai-news-updates/tredence-introduces-agentic-commerce-accelerators-for-retailers/) *(Analytics India Magazine)*
+- [ ] 2026-01-19 [Blackstone Confirms Milestone-Linked Investment in Neysa, Values Startup at $300 million: Reports](https://analyticsindiamag.com/ai-news-updates/blackstone-confirms-milestone-linked-investment-in-neysa-values-startup-at-300-million-reports/) *(Analytics India Magazine)*
+- [ ] 2026-01-19 [Employee Union Flags Fresher Onboarding Delays at Wipro, Seeks Labour Ministry Intervention](https://analyticsindiamag.com/ai-news-updates/employee-union-flags-fresher-onboarding-delays-at-wipro-seeks-labour-ministry-intervention/) *(Analytics India Magazine)*
+- [ ] 2026-01-19 [AXISCADES Subsidiary Mistral Wins ₹100 Cr Defence Radar Subsystem Order](https://analyticsindiamag.com/ai-news-updates/axiscades-subsidiary-mistral-wins-%e2%82%b9100-cr-defence-radar-subsystem-order/) *(Analytics India Magazine)*
+- [ ] 2026-01-19 [Baidu’s Apollo Go & AutoGo Launch Fully Autonomous Ride-Hailing in Abu Dhabi](https://analyticsindiamag.com/ai-news-updates/baidus-apollo-go-autogo-launch-fully-autonomous-ride-hailing-in-abu-dhabi/) *(Analytics India Magazine)*
+- [ ] 2026-01-19 [Shunya Labs Unveils AI Model for India’s Code-Mixed Speech](https://analyticsindiamag.com/ai-news-updates/shunya-labs-unveils-ai-model-for-indias-code-mixed-speech/) *(Analytics India Magazine)*
+- [ ] 2026-01-19 [Indian IT Absorbs Labour Codes Costs, But Recurring Expenses May Hit Margins](https://analyticsindiamag.com/it-services/indian-it-absorbs-labour-codes-costs-but-recurring-expenses-may-hit-margins/) *(Analytics India Magazine)*
+- [ ] 2026-01-19 [How Agentic AI is Redesigning Job Roles for Engineers](https://analyticsindiamag.com/ai-features/how-agentic-ai-is-redesigning-job-roles-for-engineers/) *(Analytics India Magazine)*
+- [ ] 2026-01-19 [OpenAI Hits $20 Bn ARR Mark as Compute Capacity Triples: CFO Sarah Friar](https://analyticsindiamag.com/ai-news-updates/openai-hits-20-bn-arr-mark-as-compute-capacity-triples-cfo-sarah-friar/) *(Analytics India Magazine)*
+- [ ] 2026-01-19 [Andreessen Horowitz Makes a $3 Billion Bet Against the AI Bubble](https://www.bloomberg.com/news/features/2026-01-19/andreessen-horowitz-makes-a-3-billion-bet-against-the-ai-bubble) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [Apple Intelligence Built Atop Google Gemini Seems Like Admitting Defeat](https://www.bloomberg.com/news/newsletters/2026-01-19/apple-s-use-of-google-gemini-shows-iphone-s-lack-of-ai-advantage) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [S. Korea, Taiwan Lead EM Asia Stocks Higher, Reversing Greenland Tariff Worries](https://www.bloomberg.com/news/articles/2026-01-19/em-asia-stocks-fx-gain-as-tech-rally-outweighs-tariff-worries) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [HSBC Is On Course for £300 Billion Valuation, Top Executive Says](https://www.bloomberg.com/news/articles/2026-01-19/hsbc-is-on-course-for-300-billion-valuation-top-executive-says) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [Tencent, Fidelity Are Said to Plan Investing in Busy Ming’s IPO](https://www.bloomberg.com/news/articles/2026-01-19/tencent-fidelity-are-said-to-plan-investing-in-busy-ming-s-ipo) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [Franklin CEO: Capping Credit Card Rate Not a Great Move](https://www.bloomberg.com/news/videos/2026-01-19/franklin-ceo-capping-credit-card-rate-not-a-great-move-video) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [IMF Warns AI, Trade Pose Risks to Solid Global Growth Outlook](https://www.bloomberg.com/news/articles/2026-01-19/imf-warns-ai-trade-pose-risks-to-solid-global-growth-outlook) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [ASM Orders Beat Estimates After China Rebound, AI Spending Boom](https://www.bloomberg.com/news/articles/2026-01-19/asm-orders-beat-estimates-after-china-rebound-ai-spending-boom) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [‘Fallout’ Season 2’s Weekly Drops May Not Be Working](https://gizmodo.com/fallout-season-2s-weekly-drops-may-not-be-working-2000711306) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [Hand Off Your Floor Cleaning Chores to Roborock’s Qrevo Curv 2 Flow Robot Vacuum, Now at Its Lowest Price Since Launch](https://gizmodo.com/hand-off-your-floor-cleaning-chores-to-roborocks-qrevo-curv-2-flow-robot-and-save-150-2000706938) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [Which Wild Animals Could Humans Domesticate Into the Next Great Pet?](https://gizmodo.com/which-wild-animals-could-humans-domesticate-into-the-next-great-pet-2000711195) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [NFL-Related Accounts on Facebook Are Posting Some of the Most Shameless AI Slop Yet](https://gizmodo.com/nfl-related-accounts-on-facebook-are-posting-some-of-the-most-shameless-ai-slop-yet-2000711584) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [DOJ Alleges One Venezuelan Used Crypto Stablecoin Tether to Launder $1 Billion for Criminals](https://gizmodo.com/doj-alleges-one-venezuelan-used-crypto-stablecoin-tether-to-launder-1-billion-for-criminals-2000711586) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [The best instant cameras for 2026](https://www.engadget.com/cameras/best-instant-camera-120034778.html?src=rss) *(Engadget)*
+- [ ] 2026-01-19 [「作品のAI学習や加工は禁止」、一迅社のBLレーベルが呼び掛け](https://www.itmedia.co.jp/aiplus/articles/2601/19/news107.html) *(ITmedia AI＋)*
+- [ ] 2026-01-19 [トヨタ、AIと量子技術で車載コンピュータ設計を“20倍”高速化　富士通が支援](https://www.itmedia.co.jp/enterprise/articles/2601/19/news041.html) *(ITmedia AI＋)*
+- [ ] 2026-01-19 [電通のグローバルCMO調査から探る「マーケティングはAIでどう変わるか」](https://www.itmedia.co.jp/enterprise/articles/2601/19/news070.html) *(ITmedia AI＋)*
+- [ ] 2026-01-19 [危機の演出？　それとも本当の“焦り”？　OpenAI「コード・レッド」の内実](https://www.itmedia.co.jp/pcuser/articles/2601/19/news071.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-19 [LINE iOSアプリ開発を高速化するClaude Code基盤の設計思想](https://techblog.lycorp.co.jp/ja/20260119a) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-19 [リコーは「出社」をどう再定義したのか　“集まる意味”を問い直した、これからの働き方（ITmedia ビジネスオンライン） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/a17342028f41f2cd869686b953580363ddc32131) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-19 [OpenAIが月額1500円のより安価な有料プラン「ChatGPT Go」を正式に提供開始、広告を表示するテストもスタート](https://gigazine.net/news/20260119-openai-chatgpt-go/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-19 [日本語を高速生成できる拡散言語モデル「ELYZA-LLM-Diffusion」が登場](https://gigazine.net/news/20260119-elyza-llm-diffusion/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-19 [完璧な仕様は、もう設計できない - Nothing ventured, nothing gained.](https://takoratta.hatenablog.com/entry/product-design-in-ai-native-era) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-19 [AI時代の開発戦略：仕様駆動開発（SDD）の理想と現実、そしてエンジニアとしての向き合い方｜ITエンジニアの戦略ノート](https://note.com/it_eng_strtg_mth/n/nf9875ce1070e) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-19 [放てレールガン！　防衛装備庁が洋上射撃実験の動画を公開](https://www.itmedia.co.jp/news/articles/2601/19/news058.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [ISMSの文書管理をGitHubに移行したお話 - カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/entry/2026/01/19/isms-docs-to-github) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [なぜ私はフロントエンド開発を避けるようになったのか](https://zenn.dev/sijiaoh/articles/9c7edf0ba29def) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [総務省のモールス信号練習サイト　「トントントンツーツーツートントントン」→「はいよろこんで」流れる](https://www.itmedia.co.jp/news/articles/2601/19/news075.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [アスキーアートで絵や3Dモデルをより鮮明に表現する方法とは？](https://gigazine.net/news/20260119-ascii-rendering/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [リカバリーウェア「BAKUNE」を2年間使った感想　回復効果は謎だけど、毎晩着ている理由](https://www.itmedia.co.jp/news/articles/2601/19/news063.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [「Google Workspace」規約改定　日本の公的機関利用時は「日本法準拠」「管轄は東京地裁」明記](https://www.itmedia.co.jp/news/articles/2601/19/news105.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [何百件もの著作権侵害報告を「意図的に無視した」としてMetaが訴えられる](https://gigazine.net/news/20260119-storm-chasers-meta/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [Windows 11一部環境でシャットダウンできない不具合。定例外パッチ緊急配布](https://pc.watch.impress.co.jp/docs/news/2078920.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [入力トークン配置は、どれほど推論の深さを変えるか？](https://zenn.dev/practicalspirit/articles/6c5c82acd67059) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [小さなAI機能 - FormValidator](https://zenn.dev/sizer/articles/724cdea20fd69b) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [skillでClaude Codeのコンテキスト爆発を防ぐ](https://zenn.dev/sato_shogidemo/articles/claude-code-skill-context-management) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [LangSmithは長期RAG運用で使えるか？Langfuseと比較して見えた設計判断の違い](https://zenn.dev/startspace/articles/1d1aec5ffd4c9d) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [AWS Trainium 50 Exercises #4: Training NxD-Ready Models](https://zenn.dev/karakuri_blog/articles/ebb197ca87dfd4) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [AWS Trainium 50 Exercises #3: Building a Compute Cluster](https://zenn.dev/karakuri_blog/articles/a920f05ee1709c) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [AWS Trainium 50 Exercises #2: Fundamentals of Trainium](https://zenn.dev/karakuri_blog/articles/99e5f2850f66f3) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [AWS Trainium 50 Exercises #1: Let’s Get Started with Trainium](https://zenn.dev/karakuri_blog/articles/a9a063ba382ce2) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [AWS Trainium 50 Exercises #0: Introduction](https://zenn.dev/karakuri_blog/articles/5ccedeee1beb08) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [【論文＆実装】Sakana AIの「進化的モデルマージ」をPythonで再現して理解するところまで](https://zenn.dev/lluminai_tech/articles/c1f543b3abf868) *(Zenn – トピック LLM)*
+- [ ] 2026-01-18 [生成AIで変わる不動産業界の未来──導入の鍵は技術よりマインドセット](https://zenn.dev/headwaters/articles/7f6b4e680eb84f) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [AEO研究の到達点と限界、そして「突破点」としての観測ログ](https://zenn.dev/ghostdrift/articles/06db95ccfeedde) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [VimでAIを「対話できるテキストフィルタ」として使う（tgpt）](https://zenn.dev/jianbo/articles/6a76d73fe1c345) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [生成AIと2時間で挑む投資情報Bot開発【週1開発日記 #1】](https://zenn.dev/tanekaki/articles/e7a185b80f4a02) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [v5.3で物理を解く ― なぜ船は浮くのか、教科書が教えない真実](https://zenn.dev/dosanko_tousan/articles/6f2750eb50522e) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [【AITL】(安全設計)　Safety Envelopeとは何か？AI制御で絶対に超えてはいけない境界の設計](https://zenn.dev/samizo_aitl/articles/025_aitl-controller-safety-pakage) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [AIと開発するためのWorktree](https://zenn.dev/sun_asterisk/articles/worktree-with-ai-development) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [AIを使った新機能「ファクトチェック」を実装しました](https://zenn.dev/k_phoenix/articles/kusamap-factcheck) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [#17 基準が変わったとき、エージェントはどう追従するか](https://zenn.dev/corone/articles/fe358aac0de025) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [v5.3を採用したAI活用で動物実験はどこまで減らせるか ― 個人検証が到達し得る制度的・技術的限界の整理](https://zenn.dev/dosanko_tousan/articles/9dce814f2a8698) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [AIが考えた「企業を守るロジック」― 将来の訴訟リスクに対する法務的整理メモ](https://zenn.dev/dosanko_tousan/articles/2e8b484f5429fe) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [LINE AIチャットボットの作り方！LSTEP×MAKE×Difyの連携でノーコード開発！](https://zenn.dev/krap/articles/c0fc24a442a689) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [AIで作る業務動画 Day 19｜パイプライン完成！台本から動画を一気通貫で生成する](https://zenn.dev/akira_cloudjob/articles/20260119-pipeline-completion) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [v5.3で物理を解く ― なぜ飛行機は飛ぶのか、教科書が教えない真実](https://zenn.dev/dosanko_tousan/articles/3c98cbaaed59b9) *(Zenn – トピック AI)*
+- [ ] 2026-01-18 [猫の心理を数式とコードで解明する ― 媚びない知性のモデル化と"みゃーぼ"への道](https://zenn.dev/dosanko_tousan/articles/204024814dd8e0) *(Zenn – トピック AI)*
