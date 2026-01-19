@@ -13388,3 +13388,49 @@
 - [ ] 2026-01-18 [AIで作る業務動画 Day 19｜パイプライン完成！台本から動画を一気通貫で生成する](https://zenn.dev/akira_cloudjob/articles/20260119-pipeline-completion) *(Zenn – トピック AI)*
 - [ ] 2026-01-18 [v5.3で物理を解く ― なぜ飛行機は飛ぶのか、教科書が教えない真実](https://zenn.dev/dosanko_tousan/articles/3c98cbaaed59b9) *(Zenn – トピック AI)*
 - [ ] 2026-01-18 [猫の心理を数式とコードで解明する ― 媚びない知性のモデル化と"みゃーぼ"への道](https://zenn.dev/dosanko_tousan/articles/204024814dd8e0) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-19T18:15:03.205Z
+- [ ] 2026-01-19 [Is this man the future of music – or its executioner? AI evangelist Mikey Shulman says he’s making pop, not slop](https://www.theguardian.com/music/2026/jan/19/ai-music-company-mikey-shulman-suna) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-19 [Dr Bot: can ChatGPT be trusted with your health? – podcast](https://www.theguardian.com/australia-news/audio/2026/jan/19/dr-bot-can-chatgpt-be-trusted-with-your-health-full-story-podcast) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-19 [SAP and Fresenius to build sovereign AI backbone for healthcare](https://www.artificialintelligence-news.com/news/sap-and-fresenius-build-sovereign-ai-backbone-for-healthcare/) *(Artificial Intelligence News)*
+- [ ] 2026-01-19 [Scaling AI value beyond pilot phase purgatory](https://www.artificialintelligence-news.com/news/scaling-ai-value-beyond-pilot-phase-purgatory/) *(Artificial Intelligence News)*
+- [ ] 2026-01-19 [Credit unions, fintech and the AI inflection of financial services](https://www.artificialintelligence-news.com/news/credit-union-ai-in-operational-settings-learnings-from-the-fintech-sector/) *(Artificial Intelligence News)*
+- [ ] 2026-01-19 [The next generation of driverless cars will have to think about what’s on the road, not just see it](https://theconversation.com/the-next-generation-of-driverless-cars-will-have-to-think-about-whats-on-the-road-not-just-see-it-273291) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-19 [Would you use AI to break writer’s block? We asked 5 experts](https://theconversation.com/would-you-use-ai-to-break-writers-block-we-asked-5-experts-271627) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-19 [AI Boosts Research Careers, but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-01-19 [5 Useful DIY Python Functions for JSON Parsing and Processing](https://www.kdnuggets.com/5-useful-diy-python-functions-for-json-parsing-and-processing) *(KDnuggets)*
+- [ ] 2026-01-19 [LTIMindtree Q3 Profit Falls 12% to ₹960 Crore on Labour Code One-Off](https://analyticsindiamag.com/ai-news-updates/ltimindtree-q3-profit-falls-12-to-%e2%82%b9960-crore-on-labour-code-one-off/) *(Analytics India Magazine)*
+- [ ] 2026-01-19 [Yidu Tech Founder Gong Yingying on Scaling AI for Global Healthcare](https://www.bloomberg.com/news/videos/2026-01-19/yidu-tech-founder-on-scaling-ai-for-global-healthcare-video) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [IMF's Georgieva on Trade Tariffs, AI, Venezuela, Ukraine](https://www.bloomberg.com/news/videos/2026-01-19/imf-s-georgieva-on-trade-tariffs-ai-venezuela-ukraine-video) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [Meta Overlooks Ads From Illegal Gambling Sites, Says UK Watchdog](https://www.bloomberg.com/news/articles/2026-01-19/meta-overlooks-ads-from-illegal-gambling-sites-says-uk-watchdog) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [Why the Tech World Is Going Crazy for Claude Code](https://www.bloomberg.com/news/videos/2026-01-19/why-the-tech-world-is-going-crazy-for-claude-code-mklbbiv7) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [AI Chip Startup FuriosaAI Plans $500 Million Round Before IPO](https://www.bloomberg.com/news/articles/2026-01-19/ai-chip-startup-furiosaai-plans-500-million-round-before-ipo) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [BCE’s Data Center Rollout Moving Faster Than Expected, CEO Says](https://www.bloomberg.com/news/articles/2026-01-19/bce-s-data-center-rollout-moving-faster-than-expected-ceo-says) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [Yann LeCun’s AMI Labs Draws Investor Interest from Cathay, Hiro](https://www.bloomberg.com/news/articles/2026-01-19/yann-lecun-s-ami-labs-draws-investor-interest-from-cathay-hiro) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [Revolut Seeks Peru Banking License for Latin America Expansion](https://www.bloomberg.com/news/articles/2026-01-19/revolut-seeks-peru-banking-license-for-latin-america-expansion) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [How Often Is Too Often for New ‘Star Wars’ Movies?](https://gizmodo.com/how-often-is-too-often-for-new-star-wars-movies-2000710894) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [Matt Damon Says What We Already Know About Netflix and Our Liquefied Brains](https://gizmodo.com/matt-damon-says-what-we-already-know-about-netflix-and-our-liquefied-brains-2000711600) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [Valve Might Finally Prove PC Gaming Doesn’t Have to Be a Pain in the Ass](https://gizmodo.com/valve-might-finally-prove-pc-gaming-doesnt-have-to-be-a-pain-in-the-ass-2000711244) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [Sony’s PlayStation Store Removes ~150 Shovelware Titles by a Single Developer](https://gizmodo.com/sonys-playstation-store-removes-over-150-shovelware-titles-by-a-single-developer-2000711247) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [‘A Knight of the Seven Kingdoms’ Kicks Off Its Delightful New ‘Game of Thrones’ Adventure](https://gizmodo.com/a-knight-of-the-seven-kingdoms-kicks-off-its-delightful-new-game-of-thrones-adventure-2000710409) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [’28 Years Later: The Bone Temple’ Runs to Decent Box Office Start](https://gizmodo.com/28-years-later-the-bone-temple-runs-to-decent-box-office-start-2000711607) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [Musk claims Tesla will restart work on its Dojo supercomputer](https://www.engadget.com/ai/musk-claims-tesla-will-restart-work-on-its-dojo-supercomputer-173127863.html?src=rss) *(Engadget)*
+- [ ] 2026-01-19 [NBA League Pass deal: Get access for the rest of the season for up to 55 percent off](https://www.engadget.com/deals/nba-league-pass-deal-get-access-for-the-rest-of-the-season-for-up-to-55-percent-off-163421656.html?src=rss) *(Engadget)*
+- [ ] 2026-01-19 [AirTag deal: Get four of the Bluetooth trackers for $65](https://www.engadget.com/deals/airtag-deal-get-four-of-the-bluetooth-trackers-for-65-202333107.html?src=rss) *(Engadget)*
+- [ ] 2026-01-19 [Threads has more global daily users than X on mobile for the first time](https://www.engadget.com/social-media/threads-has-more-global-daily-users-than-x-on-mobile-for-the-first-time-144936831.html?src=rss) *(Engadget)*
+- [ ] 2026-01-19 [How Remote uses LangChain and LangGraph to onboard thousands of customers with AI](https://www.blog.langchain.com/customers-remote/) *(LangChain Blog)*
+- [ ] 2026-01-19 [note添削用のGemを作りました｜柳川慶太](https://note.com/gimupop/n/nd14f5467170d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-19 [マスク氏、OpenAIとマイクロソフトに最大1340億ドルの損害賠償請求](https://newspicks.com/news/15863517/body/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-19 [自分のはてなブックマークが突然非公開になったが復活した話](https://anond.hatelabo.jp/20260119205035) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [Anthropicハッカソン優勝者のClaude Code設定集「everything-claude-code」を読み解く](https://zenn.dev/ttks/articles/a54c7520f827be) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [IPv6 マルチホーム+マルチルーターは難しいという話 - JANOG57 NOC - segreの日記](https://segre.hatenablog.com/entry/2026/01/18/183203) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [従業員1日の活動履歴を全部AIに投げて働き方を指示してもらう｜ロードバランスすだちくん（仮）](https://note.cloudnative.co.jp/n/nda20cf9d1051) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [Agent Skills 入門 - サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/claude-code-agent-skills-guide) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [シャオミに聞く2026年の展望、製品ラインアップと日本市場への向き合い方](https://k-tai.watch.impress.co.jp/docs/interview/2078605.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [AI Agent Agentic Workflow の可観測性 / Observability of AI Agent Agentic Workflow](https://speakerdeck.com/yuzujoe/observability-of-ai-agent-agentic-workflow) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [RTX5090 2台構成の機械学習用PCを自作する - A Day in the Life](https://secon.dev/entry/2026/01/19/100000-rtx5090x2-pc/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた - Qiita](https://qiita.com/ot12/items/66e7c07c459e3bb7082d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [Snowflake Cortex AIのコストについて考えてみた](https://zenn.dev/kayamamoto/articles/ashisuto202601) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [【2026年最新】DeepSeek v4 リーク情報まとめ](https://zenn.dev/ainohogosya/articles/0add2f4413eddd) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [月当たり$5でClaudeにコードレビューしてもらおう](https://zenn.dev/aprender/articles/f594269be5e838) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [濫立するClaude Codeの機能の使い分け：スキル、サブエージェント、スラッシュコマンド、CLAUDE.md、Hooks](https://zenn.dev/notahotel/articles/a175aa95629d0b) *(Zenn – トピック AI)*
