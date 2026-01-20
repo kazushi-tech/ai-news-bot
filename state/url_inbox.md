@@ -13515,3 +13515,58 @@
 - [ ] 2026-01-19 [＃18 基準が衝突したとき、どう解決するか](https://zenn.dev/corone/articles/12232d4dc97e7d) *(Zenn – トピック AI)*
 - [ ] 2026-01-19 [【個人開発】え！！　無料でスマホからVibe Codingを!?](https://zenn.dev/ekoh/articles/364cf4e83c356e) *(Zenn – トピック AI)*
 - [ ] 2026-01-19 [AI Agentが「賢いのに使えない」本当の理由：業務設計という見落とされた前提](https://zenn.dev/recurrenthub/articles/1e2145b368f981) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-20T06:18:44.518Z
+- [ ] 2026-01-20 [When Should SMB Data Teams Bring in Professional Security Expertise? (Sponsored)](https://bit.ly/4jOFnEB) *(KDnuggets)*
+- [ ] 2026-01-20 [AI Was Indian IT’s Saving Grace in Q3, And Hints at What’s to Come](https://analyticsindiamag.com/it-services/ai-was-indian-its-saving-grace-in-q3-and-hints-at-whats-to-come/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [Global AI Summits, Big Promises, No Rules: Will India’s Be Any Different?](https://analyticsindiamag.com/ai-features/the-previous-global-ai-summits-have-delivered-failed-promises-of-self-regulation-by-big-tech-and-voluntary-agreements-lacking-teeth/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [UK and China Set Up Forum on Cyberattacks to Lower Tensions](https://www.bloomberg.com/news/articles/2026-01-20/uk-and-china-set-up-forum-on-cyberattacks-to-lower-tensions) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [China Mulls M&amp;A Fund for Tech Innovation Amid Rivalry With US](https://www.bloomberg.com/news/articles/2026-01-20/china-mulls-m-a-fund-for-tech-innovation-amid-rivalry-with-us) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [China Electric Stocks Jump on Booming AI Demand, Investment Push](https://www.bloomberg.com/news/articles/2026-01-20/china-electric-stocks-jump-on-booming-ai-demand-investment-push) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [China Deepens Probe Into PDD After Fistfights With Regulators](https://www.bloomberg.com/news/articles/2026-01-20/china-deepens-probe-into-pdd-after-fistfights-with-regulators) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Differential Transformer V2](https://huggingface.co/blog/microsoft/diff-attn-v2) *(Hugging Face Blog)*
+- [ ] 2026-01-20 [AIで小説を書く方法を解説、書籍「生成AI小説創作入門」発売へ　インプレス](https://www.itmedia.co.jp/aiplus/articles/2601/20/news085.html) *(ITmedia AI＋)*
+- [ ] 2026-01-20 [“AIクリエイター”専門のレーベル新設、日本コロムビア　「創作現場は分業モデルから変化」](https://www.itmedia.co.jp/aiplus/articles/2601/20/news081.html) *(ITmedia AI＋)*
+- [ ] 2026-01-20 [大企業がこぞって使うM365 CopilotとChatGPT、業務への貢献度は？　生成AI利用状況を徹底調査](https://kn.itmedia.co.jp/kn/articles/2601/20/news064.html) *(ITmedia AI＋)*
+- [ ] 2026-01-20 [AI×CAEにも注目　2026年は活用事例が増えそうな予感](https://monoist.itmedia.co.jp/mn/articles/2601/20/news027.html) *(ITmedia AI＋)*
+- [ ] 2026-01-20 [「AIと結婚」「亡き妻をAIで再現」　“心のスキマをAIで埋める”是非、クロ現で特集](https://www.itmedia.co.jp/aiplus/articles/2601/20/news072.html) *(ITmedia AI＋)*
+- [ ] 2026-01-20 [生成AIで50万点以上作成か　女性芸能人模したわいせつ画像公開疑い、31歳男逮捕](https://www.itmedia.co.jp/news/articles/2601/20/news066.html) *(ITmedia AI＋)*
+- [ ] 2026-01-19 [政府機関でも分かれる「先駆者」と「後続組」　データ分析やAIの導入を阻む要因とは](https://atmarkit.itmedia.co.jp/ait/articles/2601/20/news052.html) *(ITmedia AI＋)*
+- [ ] 2026-01-20 [Architecture for Disposable Systems](https://tuananh.net/2026/01/15/architecture-for-disposable-systems/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [生成AIで50万点以上作成か　女性芸能人模したわいせつ画像公開疑い、31歳男逮捕](https://www.sankei.com/article/20260120-HLA2UXIIMFKAZO34IWIYFIXINI/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [AIはパズル。日常の違和感から始めるAIとの付き合い方 - Findy Media](https://findy-code.io/media/articles/aisaji-yamadashy) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [【保存版】NotebookLM×Nanobananaで叶える資料作りの新常識！誰でもできる全手順詳説](https://www.sbbit.jp/article/cont1/178488) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [生成AIで女性芸能人の画像使いわいせつ画像作成か 容疑者逮捕 \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015030331000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [大手ASUS、「スマートフォンの新機種は出さない」と宣言。PCと“フィジカルAI”に全力投球へ - AUTOMATON](https://automaton-media.com/articles/newsjp/asus-20260119-408490/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [AIエージェントのファイルシステムへの回帰｜Seiji Takahashi@ベースマキナ](https://note.com/timakin/n/n0f97a5f19fc4) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [楽天証券、株の未経験者にも「信用取引」を開放--空売りも可能に](https://japan.cnet.com/article/35242900/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [これはかなり便利！ 1クリックであらゆるWebサイトのデザインやアセットを抽出できるChromeの拡張機能 -MiroMiro](https://coliss.com/articles/build-websites/architectonics/copy-sites-design-assets.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [スシローの呼び出し番号を表示するディスプレイ、あまりにも分かりづらい「こんなに沢山矢印やら数字やらアイコン書いてあるのに全く理解できないUI」](https://togetter.com/li/2653868) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [発火しない固体電池のモバイルバッテリーを1週間使ってわかったこと--リチウムイオン式は「オワコン」か](https://japan.cnet.com/article/35242902/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [1900倍の重力を発生させて「時空圧縮」を可能にする超重力装置が中国で稼働準備中](https://gigazine.net/news/20260120-hypergravity-machine-china/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [枕元にJR東日本。｢駅のあの時計｣が目覚まし時計になったよ](https://www.gizmodo.jp/2026/01/jr-clock.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [サルはなぜ「同性間の性行為」をするのか？　ニホンザルやチンパンジーなどを調査　英国チームが発表](https://www.itmedia.co.jp/news/articles/2601/20/news036.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [【特集】 3千円程度で狭いデスクが激変！しかも簡単！「後付けキーボードスライダー」をDIYしてみた](https://pc.watch.impress.co.jp/docs/topic/feature/2078720.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [Threads、モバイルアプリのアクティブユーザー数でXを逆転するも、まだまだ足元にも及ばない理由とは【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2079137.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [200超のアイコンセットから27万5000点以上のアイコンを集めたオープンソースアイコンライブラリ「Iconify」](https://gigazine.net/news/20260119-iconify-open-source-icons/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [サーバーの無いReactフレークワークFUNSTACK Static](https://zenn.dev/uhyo/articles/funstack-static-first-release) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [コードは「読めるけど書けない」でいい時代になった｜すてぃお](https://note.com/suthio/n/n3f88afe28dbd) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [業務上作成されたMIDIデータの複製　東京地判令7.3.31令４ワ2832 - IT・システム判例メモ](https://itlaw.hatenablog.com/entry/2026/01/19/212717) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [20年ぶりクラスの太陽放射線嵐が発生中　地磁気嵐も“深刻”　米NOAAが警告、オーロラも？](https://www.itmedia.co.jp/news/articles/2601/20/news077.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [チェスの初期配置は本当に最適か？　960通りを物理学者が検証　一カ所変えるだけで公平性激変　最大3倍の差](https://www.itmedia.co.jp/news/articles/2601/20/news034.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [AI エージェントを「interface 実装者」として扱う](https://zenn.dev/zaico/articles/cc15be065753f3) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [AIジャーナリングサービス「Thought Articulator」がOrynthに承認されるまでの道のり](https://zenn.dev/kossssss/articles/8a6c2c6dc44a58) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [【AITL】(安全設計)　Recovery Controlとは何か？AI制御は失敗後の設計で差がつく](https://zenn.dev/samizo_aitl/articles/026_aitl-controller-safety-pakage) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [「今は問題ない」が一番危ない。スピードを落とさないために、私たちが“コード品質”を構造化した話](https://zenn.dev/nexta_/articles/6302dd6b22cc53) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [＃19 エージェント同士が学習し合う仕組み](https://zenn.dev/corone/articles/968ae940ec9b6d) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [【作業時間を圧縮】2MIXから特定パートを抜き出す現実的な方法と、AI音源分離を実務で使った所感](https://zenn.dev/vincent_gay/articles/3d8c6118b26993) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [Claude Codeのpermissions設定を整理して、自走する環境を作る！](https://zenn.dev/rehabforjapan/articles/claude-code-permissions-202601) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [M01-「自動化」の主導権はAIへ。RPAエンジニアが今知るべきAgentとSkillの関係性](https://zenn.dev/acntechjp/articles/6237acb26bd35c) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [v5.3で物理を解く ― 電気の本質、教科書が教えない真実](https://zenn.dev/dosanko_tousan/articles/8ebf773dd7d47e) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [シニアエンジニアが思うAI](https://zenn.dev/kutar/articles/281353ac14d421) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [「コーディングが好き」という思い込みから解放された話](https://zenn.dev/nabewata/articles/5a566416761830) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [AI Coding Tool のセキュリティ：脅威モデルとツール選定ガイド](https://zenn.dev/acompany/articles/16af9588b5b07c) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [AIがトランザクション境界を破るので、ガードレールで強制した](https://zenn.dev/hideyuki_toyama/articles/ai-transaction-boundary-guard) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [NECの知財DX参入で変わる!特許業務のAI活用と企業価値向上の新戦略](https://zenn.dev/headwaters/articles/b9968b87bcf029) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [AIで作る業務動画 Day 20｜背景画像対応とGoogle Slide連携の設計](https://zenn.dev/akira_cloudjob/articles/20260120-background-image-slide-integration) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [新メンバーの私がCLAUDE.md/AGENTS.mdの整備を担当してよかった3つの理由](https://zenn.dev/appbrew/articles/79b1edfc68d8a5) *(Zenn – トピック AI)*
