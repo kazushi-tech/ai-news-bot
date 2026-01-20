@@ -13570,3 +13570,137 @@
 - [ ] 2026-01-19 [NECの知財DX参入で変わる!特許業務のAI活用と企業価値向上の新戦略](https://zenn.dev/headwaters/articles/b9968b87bcf029) *(Zenn – トピック AI)*
 - [ ] 2026-01-19 [AIで作る業務動画 Day 20｜背景画像対応とGoogle Slide連携の設計](https://zenn.dev/akira_cloudjob/articles/20260120-background-image-slide-integration) *(Zenn – トピック AI)*
 - [ ] 2026-01-19 [新メンバーの私がCLAUDE.md/AGENTS.mdの整備を担当してよかった3つの理由](https://zenn.dev/appbrew/articles/79b1edfc68d8a5) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-20T18:18:25.375Z
+- [ ] 2026-01-20 [Tell us: has a chatbot helped you out of a difficult time in your life?](https://www.theguardian.com/technology/2026/jan/20/tell-us-has-a-chatbot-helped-you-out-of-a-difficult-time-in-your-life) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-20 [Superstates and spheres of influence \| Brief letters](https://www.theguardian.com/books/2026/jan/20/superstates-and-spheres-of-influence) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-20 [Big tech continues to bend the knee to Trump a year after his inauguration](https://www.theguardian.com/technology/2026/jan/20/trump-tech-alliance-datacenters-social-media) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-20 [Donald Trump trashed global economic orthodoxy. A year on, did he leave Australia a winner or loser?](https://www.theguardian.com/business/2026/jan/20/donald-trump-global-economy-impact-on-australia) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-20 [Cosmic Princess Kaguya! review – trippy anime adapted from Japanese folk dives into virtual reality popworld](https://www.theguardian.com/film/2026/jan/20/cosmic-princess-kaguya-review-trippy-anime-adapted-from-japanese-folk-dives-into-virtual-reality-popworld) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-20 [Unbreakable? Researchers warn quantum computers have serious security flaws](https://www.sciencedaily.com/releases/2026/01/260120000330.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-01-20 [China’s AI Boyfriend Business Is Taking On a Life of Its Own](https://www.wired.com/story/china-ai-boyfriends/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-20 [Thousands of Companies Are Driving China’s AI Boom. A Government Registry Tracks Them All](https://www.wired.com/story/china-ai-boom-algorithm-registry/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-20 [Your First Humanoid Robot Coworker Will Probably Be Chinese](https://www.wired.com/story/china-humanoid-robot-coworkers/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-20 [The CEO of Microsoft Suddenly Sounds Extremely Nervous About AI](https://futurism.com/artificial-intelligence/microsoft-ceo-nervous-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-20 [As Microsoft Stuffs Windows With AI, New Update Prevents Users From Turning Off Their PCs](https://futurism.com/artificial-intelligence/microsoft-update-prevent-shutdown) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-20 [Experts Concerned That AI Progress Could Be Speeding Toward a Sudden Wall](https://futurism.com/artificial-intelligence/experts-concerned-ai-progress-wall) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-19 [OpenCog Hyperon and AGI: Beyond large language models](https://www.artificialintelligence-news.com/news/opencog-hyperon-and-agi-beyond-large-language-models/) *(Artificial Intelligence News)*
+- [ ] 2026-01-19 [Claude Code costs up to $200 a month. Goose does the same thing for free.](https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free) *(VentureBeat – AI)*
+- [ ] 2026-01-20 [The EU’s new AI rulebook will affect businesses and consumers in the UK too](https://theconversation.com/the-eus-new-ai-rulebook-will-affect-businesses-and-consumers-in-the-uk-too-272467) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-20 [AI cannot automate science – a philosopher explains the uniquely human aspects of doing research](https://theconversation.com/ai-cannot-automate-science-a-philosopher-explains-the-uniquely-human-aspects-of-doing-research-272477) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-20 [Space Sector Investment Set to Grow in 2026 After Record Year](https://www.techrepublic.com/article/news-space-sector-investment-growth-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-20 [Revolut Joins Google AP2 to Enable AI-Led Checkout Across Europe](https://www.techrepublic.com/article/news-revolut-joins-google-ap2-ai-led-checkout-europe/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-20 [Bandcamp and Sweden Hit Back Against AI-Generated Music](https://www.techrepublic.com/article/news-bandcamp-sweden-ai-music/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-20 [AI Writes Python Code, But Maintaining It Is Still Your Job](https://www.kdnuggets.com/ai-writes-python-code-but-maintaining-it-is-still-your-job) *(KDnuggets)*
+- [ ] 2026-01-20 [We Tuned 4 Classifiers on the Same Dataset: None Actually Improved](https://www.kdnuggets.com/we-tuned-4-classifiers-on-the-same-dataset-none-actually-improved) *(KDnuggets)*
+- [ ] 2026-01-20 [10 GitHub Repositories to Ace Any Tech Interview](https://www.kdnuggets.com/10-github-repositories-to-ace-any-tech-interview) *(KDnuggets)*
+- [ ] 2026-01-20 [OpenAI, ServiceNow Partner to Build AI Agents for Business Workflows](https://analyticsindiamag.com/ai-news-updates/openai-servicenow-partner-to-build-ai-agents-for-business-workflows/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [Why Tamil Nadu Isn’t Waiting for Students to Visit Tech Conferences](https://analyticsindiamag.com/ai-news-updates/why-tamil-nadu-isnt-waiting-for-students-to-visit-tech-conferences/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [Google’s Gemini Signs IPL Sponsorship Deal Worth ₹270 Crore](https://analyticsindiamag.com/ai-news-updates/googles-gemini-signs-ipl-sponsorship-deal-worth-%e2%82%b9270-crore/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [Inside IAIRO, India’s ISRO for AI](https://analyticsindiamag.com/ai-features/inside-iairo-indias-isro-for-ai/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [Persistent Extends Growth Run to 23 Quarters, Profit Slips 7% QoQ](https://analyticsindiamag.com/ai-news-updates/persistent-extends-growth-run-to-23-quarters-profit-slips-7-qoq/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [San Francisco AI Startup Emergent Secures $70 Mn Series B Funding to Grow Its Team](https://analyticsindiamag.com/ai-news-updates/san-francisco-ai-startup-emergent-secures-70-mn-series-b-funding-to-grow-its-team/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [ElevenLabs Appoints Karthik Rajaram as India Country Head](https://analyticsindiamag.com/ai-news-updates/elevenlabs-appoints-karthik-rajaram-as-india-country-head/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [SanchiConnect Partners With Tamil Nadu & iTNT to Support Deep Tech Startups in Tier-2, 3 Cities](https://analyticsindiamag.com/ai-news-updates/sanchiconnect-partners-with-tamil-nadu-itnt-to-support-deep-tech-startups-in-tier-2-3-cities/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [Amazon Worldwide Consumer Ex-CEO Builds Own CRM Tool in 1 Day](https://analyticsindiamag.com/ai-news-updates/amazon-worldwide-consumer-ex-ceo-builds-own-crm-tool-in-1-day/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [Raana Semiconductors Raises $3 Mn Seed Funding for Silicon Ingot Systems](https://analyticsindiamag.com/ai-news-updates/raana-semiconductors-raises-3-mn-seed-funding-for-silicon-ingot-systems/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [For 25 Years, Wikipedia Trained AI. Now it Wants Payback](https://analyticsindiamag.com/ai-features/for-25-years-wikipedia-trained-ai-now-it-wants-payback/) *(Analytics India Magazine)*
+- [ ] 2026-01-20 [Replit Investor Backs Canadian Defense Tech Startup](https://www.bloomberg.com/news/videos/2026-01-20/replit-investor-backs-canadian-defense-tech-startup-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Defense Unicorns Raises $136M Led by Bain](https://www.bloomberg.com/news/videos/2026-01-20/defense-unicorns-raises-136m-led-by-bain-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [DeepMind CEO Says Chinese AI Firms Are 6 Months Behind the West](https://www.bloomberg.com/news/articles/2026-01-20/deepmind-ceo-says-chinese-ai-firms-are-6-months-behind-the-west) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.bloomberg.com/news/videos/2026-01-20/robotics-nearing-physical-ai-breakthrough-deepmind-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Lumen Technologies CEO on Partnership With Palantir, AI](https://www.bloomberg.com/news/videos/2026-01-20/lumen-technologies-ceo-on-partnership-with-palantir-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Elon Musk, Ryanair Spat Enters ‘Should I Buy It’ Phase](https://www.bloomberg.com/news/videos/2026-01-20/musk-ryanair-spat-enters-should-i-buy-it-phase-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [UAE to Get Advanced AI Chips in Couple of Months, G42 Chief Says](https://www.bloomberg.com/news/articles/2026-01-20/nvidia-amd-uae-to-get-advanced-ai-chips-in-couple-of-months-g42-chief-says) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Palantir CEO Says AI to Make Large-Scale Immigration Obsolete](https://www.bloomberg.com/news/articles/2026-01-20/palantir-ceo-says-ai-to-make-large-scale-immigration-obsolete) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Netflix Amends Warner Bros. Bid to Make It All Cash](https://www.bloomberg.com/news/videos/2026-01-20/netflix-amends-warner-bros-bid-to-make-it-all-cash-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [FULL CLEAN ManpowerGroup President Becky Frankiewicz](https://www.bloomberg.com/news/videos/2026-01-20/manpower-ai-may-cause-delay-to-hiring-plans-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [AI Agents ‘Perilous’ to Secure Apps, Signal’s Whittaker Says](https://www.bloomberg.com/news/videos/2026-01-20/digi-meredith-whittaker-on-ai-agents-problem-at-signal-davos-2026) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Ericsson CEO Says Europe’s Tech Sovereignty Push Is ‘Dangerous’](https://www.bloomberg.com/news/articles/2026-01-20/ericsson-ceo-says-europe-s-tech-sovereignty-push-is-dangerous) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Signal's Whittaker on Privacy in the Age of Data and AI](https://www.bloomberg.com/news/videos/2026-01-20/signal-s-meredith-whittaker-speaks-to-btv-at-davos-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Top African Lender Standard Bank Loses Dealmakers to Absa](https://www.bloomberg.com/news/articles/2026-01-20/top-african-lender-standard-bank-loses-more-dealmakers-to-absa) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [AI Agents ‘Perilous’ for Secure Apps Such as Signal, Whittaker Says](https://www.bloomberg.com/news/articles/2026-01-20/ai-agents-perilous-for-secure-apps-such-as-signal-whittaker) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Nvidia, SV Angel Set to Back Humans&amp; at $4.48 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-20/nvidia-sv-angel-set-to-back-humans-at-4-48-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Argentina’s Pomelo Raises $55 Million to Boost Payment Offerings](https://www.bloomberg.com/news/articles/2026-01-20/argentina-s-pomelo-raises-55-million-in-series-c-to-boost-payment-offerings) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Trump Adviser: US Can Meet AI’s Energy Demand](https://www.bloomberg.com/news/videos/2026-01-20/trump-adviser-us-can-meet-ai-s-energy-demand-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Anthropic CEO Says AI Chip Sales to China Like Selling Nukes to North Korea](https://www.bloomberg.com/news/articles/2026-01-20/anthropic-ceo-says-selling-advanced-ai-chips-to-china-is-crazy) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Shipping AI Chips to China Would Be a 'Big Mistake,' Anthropic CEO Says](https://www.bloomberg.com/news/videos/2026-01-20/amodei-shipping-ai-chips-to-china-would-be-a-mistake-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [TikTok Shows Americans in Their ‘Chinese Era’ of Health Habits](https://www.bloomberg.com/news/newsletters/2026-01-20/tiktok-shows-americans-in-their-chinese-era-of-health-habits) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Deutsche Boerse Said to Near €5.3 Billion Deal for Allfunds](https://www.bloomberg.com/news/articles/2026-01-20/deutsche-boerse-is-said-to-near-5-3-billion-deal-for-allfunds) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Europe Must Invest in Open Source AI or Cede to China, Tech Investor Says](https://www.bloomberg.com/news/articles/2026-01-20/europe-must-invest-in-open-source-ai-or-cede-to-china-schmidt) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [G42 CEO Peng Xiao on Chip Imports, AI Developments](https://www.bloomberg.com/news/videos/2026-01-20/g42-ceo-peng-xiao-on-chip-imports-ai-developments-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Microsoft CEO Nadella on How AI Can Change Workflows](https://www.bloomberg.com/news/videos/2026-01-20/microsoft-ceo-nadella-on-how-ai-can-change-workflows-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Sony to Cede Control of Bravia TVs to China’s TCL Electronics](https://www.bloomberg.com/news/articles/2026-01-20/sony-to-cede-control-of-bravia-tvs-to-china-s-tcl-electronics) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Aramco Sees Greater AI-Linked Financial Gains in 2025, CEO Says](https://www.bloomberg.com/news/articles/2026-01-20/aramco-sees-greater-ai-linked-financial-gains-in-2025-ceo-says) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Bloisi: Prosus Has 'At Least' $10 Bln to Keep Investing](https://www.bloomberg.com/news/videos/2026-01-20/bloisi-prosus-has-at-least-10-bln-to-keep-investing-video) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [Earth’s Getting Blasted by the Largest Solar Radiation Storm in Over 20 Years](https://gizmodo.com/earths-getting-blasted-by-the-largest-solar-radiation-storm-in-over-20-years-2000711972) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [Laika’s Next Film Hits Theaters in October, but Not in the Way You’d Expect](https://gizmodo.com/laikas-next-film-hits-theaters-in-october-but-not-in-the-way-youd-expect-2000712001) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [Ozempic Brings Back the ‘Mac vs PC’ Ads for the GLP-1 Era](https://gizmodo.com/ozempic-brings-back-the-mac-vs-pc-ads-for-the-glp-1-era-2000711982) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [Pivoting to Smart Glasses Is Getting Out of Hand](https://gizmodo.com/pivoting-to-smart-glasses-is-getting-out-of-hand-2000711938) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [New Research Debunks Trump and RFK Jr.’s Claims Linking Tylenol to Autism](https://gizmodo.com/new-research-debunks-trump-and-rfk-jr-s-claims-linking-tylenol-to-autism-2000711954) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [Indiana Jones’ Comeback Was Never Going to Be Easy](https://gizmodo.com/indiana-jones-future-lucasfilm-kathleen-kennedy-2000711931) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [No, Earth Won’t Lose Gravity for 7 Seconds on August 12, NASA Says](https://gizmodo.com/no-earth-wont-lose-gravity-for-7-seconds-on-august-12-nasa-says-2000711970) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [Elon Musk Jumps Into the Race to Replace Mitch McConnell](https://gizmodo.com/elon-musk-jumps-into-the-race-to-replace-mitch-mcconnell-2000711915) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [Ads in Xbox Game Pass Were Inevitable](https://gizmodo.com/ads-in-xbox-game-pass-were-inevitable-2000711941) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [Is This Really the iPhone 18 Pro?](https://gizmodo.com/is-this-really-the-iphone-18-pro-2000711918) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [Gaming More Than 10 Hours a Week? You’ll Want to Read This](https://gizmodo.com/gaming-more-than-10-hours-a-week-youll-want-to-read-this-2000711944) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [‘A Knight of the Seven Kingdoms’ Star Daniel Ings on Bringing a Westeros Legend to Life](https://gizmodo.com/knight-of-the-seven-kingdoms-daniel-ings-interview-lyonel-baratheon-2000711139) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [British Sci-Fi Legend ‘Blake’s 7’ Might Get the Reboot Treatment](https://gizmodo.com/blakes-7-reboot-peter-hoar-last-of-us-2000711587) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [Cryptocurrencies Are Dying in Record Numbers, Report Says](https://gizmodo.com/cryptocurrencies-are-dying-in-record-numbers-report-says-2000711765) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [NYSE’s Tokenized Stocks Create More Questions for Crypto’s Relevance](https://gizmodo.com/nyses-tokenized-stocks-create-more-questions-for-cryptos-relevance-2000711752) *(Gizmodo – Technology)*
+- [ ] 2026-01-20 [Earth is having some issues, so let's enjoy the Webb telescope's new nebula image](https://www.engadget.com/science/space/earth-is-having-some-issues-so-lets-enjoy-the-webb-telescopes-new-nebula-image-181049901.html?src=rss) *(Engadget)*
+- [ ] 2026-01-20 [ExpressVPN deal: Two-year plans are up to 78 percent off right now](https://www.engadget.com/deals/expressvpn-deal-two-year-plans-are-up-to-78-percent-off-right-now-180602610.html?src=rss) *(Engadget)*
+- [ ] 2026-01-20 [Roland's Go:Mixer Studio is an affordable but capable mixer for budding recording engineers](https://www.engadget.com/audio/rolands-gomixer-studio-is-an-affordable-but-capable-mixer-for-budding-recording-engineers-163927262.html?src=rss) *(Engadget)*
+- [ ] 2026-01-20 [Rad Power Bikes warehouse catches fire following flammable battery warnings](https://www.engadget.com/transportation/rad-power-bikes-warehouse-catches-fire-following-flammable-battery-warnings-133056542.html?src=rss) *(Engadget)*
+- [ ] 2026-01-20 [Meta's Oversight Board is looking into transparency around disabling accounts](https://www.engadget.com/big-tech/metas-oversight-board-is-looking-into-transparency-around-disabling-accounts-145757717.html?src=rss) *(Engadget)*
+- [ ] 2026-01-20 [This Audible deal ends soon: Get three months of access for only $3](https://www.engadget.com/deals/this-audible-deal-ends-soon-get-three-months-of-access-for-only-3-193859839.html?src=rss) *(Engadget)*
+- [ ] 2026-01-20 [Adobe unveils new AI-powered video editing tools for Premiere](https://www.engadget.com/ai/adobe-unveils-new-ai-powered-video-editing-tools-for-premiere-140000970.html?src=rss) *(Engadget)*
+- [ ] 2026-01-20 [One year of access to Monarch Money's budgeting app is down to $50 right now](https://www.engadget.com/apps/one-year-of-access-to-monarch-moneys-budgeting-app-is-down-to-50-right-now-204507836.html?src=rss) *(Engadget)*
+- [ ] 2026-01-20 [The Disney+ and Hulu bundle is on sale for $10 for one month](https://www.engadget.com/deals/the-disney-and-hulu-bundle-is-on-sale-for-10-for-one-month-192814872.html?src=rss) *(Engadget)*
+- [ ] 2026-01-20 [The UK is mulling an Australia-like social media ban for users under 16](https://www.engadget.com/social-media/the-uk-is-mulling-an-australia-like-social-media-ban-for-users-under-16-130000446.html?src=rss) *(Engadget)*
+- [ ] 2026-01-20 [The Morning After: Elon Musk wants a $134 billion payout from OpenAI and Microsoft](https://www.engadget.com/general/the-morning-after-engadget-newsletter-121509123.html?src=rss) *(Engadget)*
+- [ ] 2026-01-20 [Sony is handing control of its Bravia TV business to China's TCL](https://www.engadget.com/home/home-theater/sony-is-handing-control-of-its-bravia-tv-business-to-chinas-tcl-120957252.html?src=rss) *(Engadget)*
+- [ ] 2026-01-20 [ServiceNow powers actionable enterprise AI with OpenAI](https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai) *(OpenAI News)*
+- [ ] 2026-01-20 [From Traces to Insights: Understanding Agent Behavior at Scale](https://www.blog.langchain.com/from-traces-to-insights-understanding-agent-behavior-at-scale/) *(LangChain Blog)*
+- [ ] 2026-01-20 [デジタル庁が「Gビズポータル体験会」、公開前に意見集め開発に反映へ](https://xtech.nikkei.com/atcl/nxt/news/24/03052/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [半年使って分かった「Surface Pro 12」の身軽さ、打ち合わせに最適](https://xtech.nikkei.com/atcl/nxt/column/18/00087/00421/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [ワークスタイル調査の結果に納得した理由、対面で聞くのが一番早い](https://xtech.nikkei.com/atcl/nxt/column/18/00138/011101931/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [ぐるなび、AIで飲食店を調べる「UMAME!」本格展開　59万店から“あなたに最適な1軒”提案へ](https://www.itmedia.co.jp/aiplus/articles/2601/20/news120.html) *(ITmedia AI＋)*
+- [ ] 2026-01-20 [イラストレーターなど芸術系フリーランスに聞く「生成AIで収入は増えた？　減った？」　調査団体が約2万5000人にアンケート](https://www.itmedia.co.jp/aiplus/articles/2601/20/news111.html) *(ITmedia AI＋)*
+- [ ] 2026-01-20 [死んだペットを“AI化”するサービス開始　「依存させない」設計うたう　月額2980円から](https://www.itmedia.co.jp/aiplus/articles/2601/20/news107.html) *(ITmedia AI＋)*
+- [ ] 2026-01-20 [NVIDIAが海賊版サイト「Anna’s Archive」から500TBのデータ提供を受ける約束をしていたことが判明](https://gigazine.net/news/20260120-nvidia-annas-archive/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [クリエーター生成AI影響調査“この1年で収入など減った”1割余 \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015031141000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [AIブームによってSSD価格が急騰して重量当たりの価格が「金」に匹敵するレベルに](https://gigazine.net/news/20260120-ssd-prices-rival-gold-ai-boom/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [GitHub - dnobori/DN_SuperBook_PDF_Converter: DN_SuperBook_PDF_Converter - スキャン書籍 PDF をデジタル書籍並みに大変クリアに読みやすくする AI PDF 高品質化・各種調整ツール](https://github.com/dnobori/DN_SuperBook_PDF_Converter) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [Cursorが数百のエージェントを協調させ「ゼロからブラウザを構築」させる実験を実施、1週間で1000ファイル・100万行以上のコードを記述](https://gigazine.net/news/20260120-cursor-scaling-agents/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [2026年大学入学共通テスト、ChatGPTが「数学1A」「数学2BC」「化学」「情報I」など9科目で満点を獲得。合計点でもGeminiやClaudeに勝利。国語の小説で感情の機微が理解できないなど弱点も明らかに](https://news.denfaminicogamer.jp/news/260120g) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [「AIがロールプレイに熱中しすぎて有害な返答をしてしまう問題」の解決方法をAnthropicが開発](https://gigazine.net/news/20260120-anthropic-assistant-axis-stabilizing-ai-character/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [AI で nix に移行する、Vibe nix してみた - tokuhirom's blog](https://blog.64p.org/entry/2026/01/18/234336) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [Ecorobotix、農薬95%削減のAI技術で1億5000万ドル調達──個々の植物を識別する「Plant-by-P​​lant™」が拓く農業革命](https://innovatopia.jp/smart-agriculture/smart-agriculture-news/77916/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [3年経っても9割が飽きない「LOVOT」　CESにパチモン登場でも歓迎!?](https://www.watch.impress.co.jp/docs/news/2078933.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [“ニュース風のフェイク動画”注意 政治家に関する偽情報も… \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015030431000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [生成AIサンプリングが切り拓くヒップホップの新展開──LAの実力者が力説「テクノロジーを使って人間の物語を語る」 \| Rolling Stone Japan(ローリングストーン ジャパン）](https://rollingstonejapan.com/articles/detail/44053) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [高階関数ツールを使ったAI Agent検証 - ブラウザ操作自動化タスクで3.4倍高速・コスト1/5を実現 - Spicescode Tech Blog](https://tech-blog.localmet.com/entry/2026/01/19/172305) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [ソニーとTCL、合弁会社で「ソニー」や「ブラビア」TV、オーディオ展開。ホームエンタメ領域で提携](https://av.watch.impress.co.jp/docs/news/2079378.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [「デジタル遺言書」が可能に　手続きもオンラインで完結、民法改正へ：朝日新聞](https://www.asahi.com/articles/ASV1N1PGMV1NUTIL02SM.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [『単体テストの考え方/使い方』が良すぎた - Qiita](https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [「ウクライナ人」名乗りスパイ活動か、在日ロシア通商代表部元職員に出頭要請…精密機械製造会社元社員が機密情報漏えいか](https://www.yomiuri.co.jp/national/20260120-GYT1T00293/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [なぜ、IT業界"にわか"層は「Web系がSIerに比べて技術的に優位」という幻想を抱くのか？](https://zenn.dev/pdfractal/articles/e9f3aa5f0d55f0) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [X、「おすすめ」の投稿アルゴリズムをオープンソース化](https://www.watch.impress.co.jp/docs/news/2079338.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [ソニー、テレビやホームオーディオ事業を分離へ　TCLとの合弁会社へ承継](https://k-tai.watch.impress.co.jp/docs/news/2079395.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [IIJmio:NTTドコモ 3G（FOMA）サービス終了に伴う一部Apple社製端末への影響について](https://www.iijmio.jp/info/iij/1766027735.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [マイクロソフトの新IME「Copilot Keyboard」、辞書ツールやキーカスタマイズも実装へ／月単位で定期的に更新。プライバシー重視で入力内容をAIに知られたりはしない](https://forest.watch.impress.co.jp/docs/news/2079190.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [開発フローの変更しやすい・しにくい部分を理解してから改善を実施すると良い - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/01/20/173000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [ニュースリリース \| ソニーとTCL、ホームエンタテインメント領域における戦略的提携に関する基本合意](https://www.sony.co.jp/news-release/202601/26-0120/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [ソニー、TV事業を新会社に継承。TCLとの合弁](https://pc.watch.impress.co.jp/docs/news/2079403.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [余白を設計しフロントエンド開発を 加速させる](https://speakerdeck.com/tsukuha/yu-bai-woshe-ji-sihurontoendokai-fa-wo-jia-su-saseru) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [[翻訳] Anthropic ハッカソン優勝者による Claude Code 完全ガイド](https://zenn.dev/studypocket/articles/claude-code-complete-guide) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [LLMファインチューニング用データの準備方法 - 品質管理から形式変換まで](https://zenn.dev/datajournal1/articles/4bb3e580ffbeef) *(Zenn – トピック LLM)*
+- [ ] 2026-01-20 [LLMは強化学習で「賢く」なるのか？：制御された実験が明かす推論能力の正体](https://zenn.dev/nakano_teppei/articles/6912934ec19ea3) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [【20日目】Prompt Engineering 入門 〜 LLM の回答品質を最大化する技術 〜](https://zenn.dev/churadata/articles/3d6b0781e0f46e) *(Zenn – トピック LLM)*
+- [ ] 2026-01-20 [Claude Codeで個人開発したら「コードは一瞬、素材で死ぬ」現象に直面した話【Next.js 15】](https://zenn.dev/oliver986/articles/c1dc54686b1769) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [v5.3で物理を解く ― なぜ時間は戻らないのか、エントロピーと情報の物理学](https://zenn.dev/dosanko_tousan/articles/857ef775814698) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [ローカルLLM最新ガイド2026：Llama 4 / DeepSeek-R1をRTX 3070で使い倒す](https://zenn.dev/ryuhat/articles/local-llm-guide-2026) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [未経験エンジニアがバイブコーディングで複数AIを同時に動かそうとして大失敗した話](https://zenn.dev/cosara/articles/61ec4ceb554efa) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [Minecraft実況者必見！長尺動画を「バズるショート動画」に変えるAI活用術](https://zenn.dev/sophie_belle/articles/f9e6866ca5f17e) *(Zenn – トピック AI)*
+- [ ] 2026-01-20 [深層学習が音楽制作にもたらす光と影：音源分離活用で見えた可能性と課題](https://zenn.dev/luong_gehling/articles/cc39ad1f1246d1) *(Zenn – トピック AI)*
