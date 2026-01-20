@@ -13434,3 +13434,84 @@
 - [ ] 2026-01-19 [【2026年最新】DeepSeek v4 リーク情報まとめ](https://zenn.dev/ainohogosya/articles/0add2f4413eddd) *(Zenn – トピック AI)*
 - [ ] 2026-01-19 [月当たり$5でClaudeにコードレビューしてもらおう](https://zenn.dev/aprender/articles/f594269be5e838) *(Zenn – トピック AI)*
 - [ ] 2026-01-19 [濫立するClaude Codeの機能の使い分け：スキル、サブエージェント、スラッシュコマンド、CLAUDE.md、Hooks](https://zenn.dev/notahotel/articles/a175aa95629d0b) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-20T00:45:38.707Z
+- [ ] 2026-01-20 [UK exposed to ‘serious harm’ by failure to tackle AI risks, MPs warn](https://www.theguardian.com/business/2026/jan/20/uk-ai-risks-mps-government-bank-of-england-fca) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-19 [Inventor Building AI-Powered Suicide Chamber](https://futurism.com/artificial-intelligence/ai-powered-suicide-chamber) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-19 [Sexualised deepfakes on X are a sign of things to come. NZ law is already way behind](https://theconversation.com/sexualised-deepfakes-on-x-are-a-sign-of-things-to-come-nz-law-is-already-way-behind-273562) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-19 [3 Hyperparameter Tuning Techniques That Go Beyond Grid Search](https://www.kdnuggets.com/3-hyperparameter-tuning-techniques-that-go-beyond-grid-search) *(KDnuggets)*
+- [ ] 2026-01-20 [UK Lawmakers Call for AI Stress Tests on Banks as Risks Mount](https://www.bloomberg.com/news/articles/2026-01-20/uk-lawmakers-call-for-ai-stress-tests-on-banks-as-risks-mount) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [The Next Major Hollywood Studio Is for Sale](https://www.bloomberg.com/news/newsletters/2026-01-19/-love-is-blind-producer-north-road-holds-sale-talks-with-mediawan) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [Korea Bourse CEO Sees Kospi at 6,000, Vows to Cut ‘Zombie’ Firms](https://www.bloomberg.com/news/articles/2026-01-19/korea-bourse-ceo-sees-kospi-at-6-000-vows-to-cut-zombie-firms) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [Grok’s Sexualized Images Test the Limits of AI Oversight](https://www.bloomberg.com/news/features/2026-01-19/grok-ai-sexualized-images-expose-gaps-in-oversight-enforcement) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [Korea Kicks Off AI Squid Game in Bid to Compete With US, China](https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models) *(Bloomberg Technology)*
+- [ ] 2026-01-19 [Tycoon Drahi Is Said to Near Launch of €9 Billion XpFibre Sale](https://www.bloomberg.com/news/articles/2026-01-19/tycoon-drahi-is-said-to-near-launch-of-9-billion-xpfibre-sale) *(Bloomberg Technology)*
+- [ ] 2026-01-20 [OpenAI Says Its Physical Device Is ‘On Track’ for an Unveiling Later This Year](https://gizmodo.com/openai-says-its-physical-device-is-on-track-for-an-unveiling-later-this-year-2000711755) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [The Fight for Warner Bros. Is Paramount’s Most Embarrassing Moment Yet](https://gizmodo.com/paramount-netflix-warner-bros-david-ellison-2000710809) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [Disney Couldn’t Even Kill the Original ‘Galaxy’s Edge’ Right](https://gizmodo.com/star-wars-galaxys-edge-changes-disney-lucasfilm-2000711222) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [Free Bitcoin Glitch Fixed When ‘Decentralized’ Crypto Exchange Uses Centralized Rollback](https://gizmodo.com/free-bitcoin-glitch-fixed-when-decentralized-crypto-exchange-uses-centralized-rollback-2000711734) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [We Got Anime ‘Among Us’ Before That Stacked Hollywood Cast ‘Among Us’ Cartoon](https://gizmodo.com/we-got-anime-among-us-before-that-stacked-hollywood-cast-among-us-cartoon-2000710855) *(Gizmodo – Technology)*
+- [ ] 2026-01-19 [Dr. Gladys West, whose mathematical models inspired GPS, dies at 95](https://www.engadget.com/science/dr-gladys-west-whose-mathematical-models-inspired-gps-dies-at-95-234605023.html?src=rss) *(Engadget)*
+- [ ] 2026-01-19 [ASUS will not release any new smartphones this year](https://www.engadget.com/mobile/smartphones/asus-will-not-release-any-new-smartphones-this-year-213043832.html?src=rss) *(Engadget)*
+- [ ] 2026-01-19 [UK agency questions Meta's policies for illegal gambling site ads](https://www.engadget.com/social-media/uk-agency-questions-metas-policies-for-illegal-gambling-site-ads-210500714.html?src=rss) *(Engadget)*
+- [ ] 2026-01-19 [TurboTax Deluxe is on sale for $45 ahead of tax season](https://www.engadget.com/deals/turbotax-deluxe-is-on-sale-for-45-ahead-of-tax-season-204848571.html?src=rss) *(Engadget)*
+- [ ] 2026-01-19 [Bungie's Marathon arrives on March 5](https://www.engadget.com/gaming/bungies-marathon-arrives-on-march-5-193808588.html?src=rss) *(Engadget)*
+- [ ] 2026-01-18 [AI for self empowerment](https://openai.com/index/ai-for-self-empowerment) *(OpenAI News)*
+- [ ] 2026-01-20 [NTTをどう評価？　競合各社に聞く](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/011400527/011400005/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [光技術の強みを駆使　まずは「光電融合」](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/011400527/011400004/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [「攻撃的MF」で輝く　AI時代の勝者目指す](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/011400527/011400003/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [データGが成長の柱　AIと光量子に期待](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/011400527/011400002/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [民営化40年で大勝負　ITを核に世界へ挑む](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/011400527/011400001/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [変化を楽しむ組織を創る](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/041700482/011400011/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [AI駆動で開発者とコードの距離縮める　創造的な仕事に集中できる環境を整備](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600001/011400200/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [100超のシステムをクラウド移行　標準仕様を定めて2段階で進化](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600004/011500200/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [構造の核はTransformer、アーキテクチャーの全体像を押さえる](https://xtech.nikkei.com/atcl/nxt/column/18/03438/121600002/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [英国、重要鉱物確保へ「Vision 2035」　量子産業に与える影響](https://xtech.nikkei.com/atcl/nxt/column/18/03098/121500052/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [DX推進の要は変革リーダーの巻き込み力、先進企業が重視する「多能化」](https://xtech.nikkei.com/atcl/nxt/column/18/03453/010900002/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [6位は「双日・日通・三井住友信託……難関の基幹システム刷新、損失100億円超続発」30代の注目トップ10](https://xtech.nikkei.com/atcl/nxt/column/18/02156/010600345/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [「SSDは最適化してはいけない」は誤解、やらなければ書き込みが遅くなる](https://xtech.nikkei.com/atcl/nxt/column/18/03445/121700006/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [解剖・タワマンのネットワーク構成、光でもメタルでも高速通信できるワケ](https://xtech.nikkei.com/atcl/nxt/column/18/03468/011300002/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [突然動かなくなったパソコン、修理の前に確認すべきこと](https://xtech.nikkei.com/atcl/nxt/column/18/03436/121200010/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [AI導入で露わになる「データの問題」、先送りが許されない理由](https://xtech.nikkei.com/atcl/nxt/column/18/03470/011500001/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [AI需要が市場をけん引する、サーバー・ストレージの業界地図](https://xtech.nikkei.com/atcl/nxt/column/18/03426/010900034/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [25年11月の世界半導体売上高、伸び止まらず　7カ月連続で過去最高](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11403/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [アクセンチュアの企業買収、2025年は15億ドル　投資目標を下回る](https://xtech.nikkei.com/atcl/nxt/column/18/00848/00179/) *(日経クロステック IT)*
+- [ ] 2026-01-20 [東京メトロがレール腐食検知AIを導入、年12日ほどの深夜調査を不要に](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11416/) *(日経クロステック IT)*
+- [ ] 2026-01-19 [業務用大型ロボと家庭用小型ロボがオフィスビルで協働、日建設計がRMFを適用](https://monoist.itmedia.co.jp/mn/articles/2601/20/news039.html) *(ITmedia AI＋)*
+- [ ] 2026-01-19 [Python 3.15.0a5がリリースされたので今後のスケジュールや新機能についてまとめてみた](https://atmarkit.itmedia.co.jp/ait/articles/2601/20/news017.html) *(ITmedia AI＋)*
+- [ ] 2026-01-19 [GPT-5.2-Codexが主要ツールで解禁　「Windows最適化」×「長時間エージェント」で実用性が向上](https://atmarkit.itmedia.co.jp/ait/articles/2601/20/news014.html) *(ITmedia AI＋)*
+- [ ] 2026-01-20 [チャットGPT、6科目満点　共通テスト解答、AI学力向上（共同通信） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/ad54fc0d4d971f38e3beda002a8c8b95c99aaae1) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [大学入学共通テスト、OpenAIは9科目満点　得点率97%でGoogleに勝利 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC190LP0Z10C26A1000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [https://www.bloomberg.com/jp/news/articles/2026-01-19/T92C8HT9NJLX00](https://www.bloomberg.com/jp/news/articles/2026-01-19/T92C8HT9NJLX00) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [動かないデバイスもAntigravityがなんとかしてくれた](https://zenn.dev/kacky/articles/30a4aa9c268496) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [https://openai.com/ja-JP/index/our-approach-to-advertising-and-expanding-access/](https://openai.com/ja-JP/index/our-approach-to-advertising-and-expanding-access/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-20 [jQuery 4.0正式版が公開。10年振りのメジャーバージョンアップ。IE10以前がサポート外、XSS防止など](https://www.publickey1.jp/blog/26/jquery_4010ie10xss.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [インターネット接続不要のメッセージアプリ「bitchat」、抗議活動が続くイランなどで利用拡大【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2079035.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [Otonami（おとなみ）｜大人のための非日常体験](https://otonami.jp/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [インターネットアーカイブはどんな設備でどのように運営されているのか？](https://gigazine.net/news/20260119-web-inside-internet-archives/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [セミナー・イベント詳細 - はてなCMS｜ノーコードで誰でもカンタン！](https://www.hatena.ne.jp/cms/seminar/20250128-seminar) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [「AIに働かされる」が正解？ 事業責任者が考える組織図の変化｜柳川慶太](https://note.com/gimupop/n/n5bbdf9720bdb) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-20 [jQuery 4.0.0リリース、約10年ぶりのメジャーバージョンアップでIE10以前のサポートをついに終了](https://gigazine.net/news/20260119-jquery-4-0-0-released/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-19 [LangGraphでDeepResearchを作ってみた](https://zenn.dev/iwatagumi/articles/0fbc75893d54b7) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [ゆるく学ぶ技術理論2〜MoEを萌で理解する〜](https://zenn.dev/sudonotfound/articles/ebe57bcbfad55f) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [なぜ、MCPよりも「ファイルベースで扱うSkills」の方が便利なのか](https://zenn.dev/karamage/articles/db488ca6362eb2) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [Claude Codeなどに非公開のGoogle Spreadsheet/Docsをコンテキストとして楽にいれる](https://zenn.dev/ux_xu/articles/2d171a94f32c60) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [２０２５年LLMテーマ② エージェントとコーディングツール](https://zenn.dev/lzero/articles/1ffdbd2844309e) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [『【数式なし】目で見てわかるLLMの仕組み。Transformer構造からChatGPTの実装までを完全図解するマスター講座』](https://zenn.dev/nekoallergy/books/llm-transformer-mechanism) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [AIとペアプロして「最強のデスクトップマスコット」を爆速で作った話【Electron + Python + Live2D】](https://zenn.dev/zeur/articles/7bfe5936f3b765) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [2026年AIトレンド深掘り：Grok 4.1のXデータパワー vs Claude Opus 4.5のコーディング人気](https://zenn.dev/kewa8579/articles/e4ff1ef673c19a) *(Zenn – トピック LLM)*
+- [ ] 2026-01-19 [AIの「危機管理投資」を成立させる技術要件 —— 「説明」から「責任の工学」へ](https://zenn.dev/ghostdrift/articles/4526a217084e7c) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [# EDiE実験編①：IWR半自動v0を回すまで（失敗だらけの現場ログ）](https://zenn.dev/practicalspirit/articles/e44fdc48dbe245) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [Spec DrivenではなくImplementation Drivenを選ぶ理由](https://zenn.dev/akring/articles/ef2d8d1e95ff86) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [Claude Code Skillsを実運用して分かった設計パターン](https://zenn.dev/nomuraya/articles/claude-code-skills-poc-advanced) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [neovim/iTerm2/tmuxでAIエージェント出力からIDE風にファイルジャンプする](https://zenn.dev/ptpadan/articles/vim-tmux-iterm-ide) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [Claude Codeにお遣いさせて見えてきた、買い物エージェントの一つの解](https://zenn.dev/wmoto_ai/articles/ai-shopping-human-in-the-loop) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [【Gemini】本当に「学習」しているの？「忘れん坊」なAIの裏側にある記憶の仕組み](https://zenn.dev/sesamy_jp/articles/014a513c98b2ee) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [2/4のTech Challenge Party に参加してまいります〜](https://zenn.dev/collabostyle/articles/8ba3c37cdfec17) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [C#でMCP入門（Weather API連携編）- 書籍『MCP入門』のPythonコードを移植する(4)](https://zenn.dev/zead/articles/mcp-learning-4) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [4-①[AI][Kaggle][python]Kaggle入門(中級機械学習 1.初めに)](https://zenn.dev/rg687076/articles/4adfbc1ce1de20) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [生成AI批判を笑いに変える Copilotアンチの誤解を関西風に一刀両断](https://zenn.dev/syoshida07/articles/8288a4cb544bf3) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [Claude Codeのスキルが見えない問題を解決【作業ディレクトリとスコープ】](https://zenn.dev/mjinia/articles/aa1013ab0d9bb1) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [＃18 基準が衝突したとき、どう解決するか](https://zenn.dev/corone/articles/12232d4dc97e7d) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [【個人開発】え！！　無料でスマホからVibe Codingを!?](https://zenn.dev/ekoh/articles/364cf4e83c356e) *(Zenn – トピック AI)*
+- [ ] 2026-01-19 [AI Agentが「賢いのに使えない」本当の理由：業務設計という見落とされた前提](https://zenn.dev/recurrenthub/articles/1e2145b368f981) *(Zenn – トピック AI)*
