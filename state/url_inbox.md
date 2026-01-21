@@ -15053,3 +15053,80 @@
 - [ ] 2026-01-20 [「落とし物クラウド find」で変わる遺失物管理の未来 ー西武鉄道が導入したAI活用の最新システムとは](https://zenn.dev/headwaters/articles/c844d377906e8a) *(Zenn – トピック AI)*
 - [ ] 2026-01-20 [【AI設計】LLMの幻覚と文脈ズレを防ぐ、"認知分類法タグ6層"という構造化プロトコル](https://zenn.dev/hayashaka/articles/04141a844b1edc) *(Zenn – トピック AI)*
 - [ ] 2026-01-20 [AIで作る業務動画 Day 21｜引継ぎ動画を完成させる](https://zenn.dev/akira_cloudjob/articles/20260121-handover-video-production) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-21T12:20:49.933Z
+- [ ] 2026-01-21 [The human brain may work more like AI than anyone expected](https://www.sciencedaily.com/releases/2026/01/260120000308.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-01-21 [Pro-AI Super PACs Are Already All In on the Midterms](https://www.wired.com/story/ai-super-pacs-trying-to-influence-midterms/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-21 [Balancing AI cost efficiency with data sovereignty](https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/) *(Artificial Intelligence News)*
+- [ ] 2026-01-21 [The quiet work behind Citi’s 4,000-person internal AI rollout](https://www.artificialintelligence-news.com/news/the-quiet-work-behind-citi-4000-person-internal-ai-rollout/) *(Artificial Intelligence News)*
+- [ ] 2026-01-21 [Lawmakers Raise Concerns Over Unchecked AI Use in UK Finance](https://www.techrepublic.com/article/news-ai-concern-uk-finance/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-21 [5 Alternatives to Google Colab for Long-Running Tasks](https://www.kdnuggets.com/5-alternatives-to-google-colab-for-long-running-tasks) *(KDnuggets)*
+- [ ] 2026-01-21 [NVIDIA Invests $150 Million in AI Inference Startup Baseten](https://analyticsindiamag.com/ai-news-updates/nvidia-invests-150-million-in-ai-inference-startup-baseten/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [Sunita Williams Retires From NASA After 27-Year Career](https://analyticsindiamag.com/ai-news-updates/sunita-williams-retires-from-nasa-after-27-year-career/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [Eternal’s Deepinder Goyal Resigns, Blinkit CEO Albinder Dhindsa to Take Over](https://analyticsindiamag.com/ai-news-updates/eternals-deepinder-goyal-resigns-blinkit-ceo-albinder-dhindsa-to-take-over/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [AI is Redrawing VC Rules as Investors Hedge Bets Against Rival Startups](https://analyticsindiamag.com/ai-features/ai-is-redrawing-vc-rules-as-investors-hedge-bets-against-rival-startups/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [Unilever Considers GCC in Hyderabad, Cites City’s Growing Global Appeal](https://analyticsindiamag.com/ai-news-updates/unilever-considers-gcc-in-hyderabad-cites-citys-growing-global-appeal/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [India to See Up To $150 Bn AI Infrastructure Investments in 2026: Ashwini Vaishnaw](https://analyticsindiamag.com/ai-news-updates/india-to-see-up-to-150-bn-ai-infrastructure-investments-in-2026-ashwini-vaishnaw/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [Adobe Unveils AI Video Innovations, $10 Million Grants Ahead of Sundance Film Festival](https://analyticsindiamag.com/ai-news-updates/adobe-unveils-ai-video-innovations-10-million-grants-ahead-of-sundance-film-festival/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [RMZ Group to Invest $10 Billion in GCC Park, Data Centre in Andhra Pradesh](https://analyticsindiamag.com/ai-news-updates/rmz-group-to-invest-10-billion-in-gcc-park-data-centre-in-andhra-pradesh/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [Energy Tech Startup Cloover Secures $1.2 Bn to Build AI Operating Systems for Europe](https://analyticsindiamag.com/ai-news-updates/energy-tech-startup-cloover-secures-1-2-bn-to-build-ai-operating-systems-for-europe/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [Telangana Unveils Life Sciences Policy 2026–30 at Davos, Targets $25 Bn Investments](https://analyticsindiamag.com/ai-news-updates/telangana-unveils-life-sciences-policy-2026-30-at-davos-targets-25-bn-investments/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [LTIMindtree and Persistent Found Growth Where Big IT Couldn’t](https://analyticsindiamag.com/it-services/ltimindtree-and-persistent-found-growth-where-big-it-couldnt/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [OpenAI Introduces Age Prediction on ChatGPT to Add Safeguards for Teens](https://analyticsindiamag.com/ai-news-updates/openai-introduces-age-prediction-on-chatgpt-to-add-safeguards-for-teens/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [Big Tech is Running Out of Carbon Credits. Enter Indian Startup Varaha](https://analyticsindiamag.com/global-tech/big-tech-is-running-out-of-carbon-credits-enter-indian-startup-varaha/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [Anthropic CEO Calls Exporting AI Chips to China a National Security Risk](https://analyticsindiamag.com/ai-news-updates/anthropic-ceo-calls-exporting-ai-chips-to-china-a-national-security-risk/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [HCLTech Partners With Carahsoft To Drive IT Efficiencies in US Public Sector](https://analyticsindiamag.com/ai-news-updates/hcltech-partners-with-carahsoft-to-drive-it-efficiencies-in-us-public-sector/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [Nvidia CEO Says Trillions More Needed for AI Buildout](https://www.bloomberg.com/news/videos/2026-01-21/nvidia-ceo-says-trillions-more-needed-for-ai-buildout-video) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [Escalating Valuations, AI Dominance Mark Year Ahead for Tech VCs](https://www.bloomberg.com/news/newsletters/2026-01-21/tech-vcs-chase-ai-investments-as-valuations-go-higher) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [AI Becomes the Tone Police for White-Collar Workers](https://www.bloomberg.com/news/articles/2026-01-21/white-collar-workers-use-ai-to-have-tough-conversations-at-work) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [BlackRock's Hildebrand on Geopolitics, Europe's Role, AI](https://www.bloomberg.com/news/videos/2026-01-21/blackrock-s-hildebrand-on-geopolitics-europe-s-role-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [AI Bubble Issue Is ‘Critical’ to Inflation View, Hildebrand Says](https://www.bloomberg.com/news/articles/2026-01-21/ai-bubble-issue-is-critical-to-inflation-view-hildebrand-says) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [Meta Head of Global Business on EU Regulation, Social Media Ban](https://www.bloomberg.com/news/videos/2026-01-21/meta-s-mendelsohn-on-eu-regulation-social-media-ban-video) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [China AI Firm Zhipu Limits Coding Agent Access as Demand Soars](https://www.bloomberg.com/news/articles/2026-01-21/china-ai-firm-zhipu-limits-coding-agent-access-as-demand-soars) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [Chinese Regulator Fines PDD $14,000 for Missing Tax Deadlines](https://www.bloomberg.com/news/articles/2026-01-21/chinese-regulator-fines-pdd-14-000-for-missing-tax-deadlines) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [Hyundai Motor Value Leaps Past GM’s as Atlas Fuels Robot Fever](https://www.bloomberg.com/news/articles/2026-01-21/hyundai-motor-value-leaps-past-gm-s-as-atlas-fuels-robot-fever) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [Uneasy Calm Grips Markets After Japan Bond Turmoil \| Insight with Haslinda Amin 01/21/2026](https://www.bloomberg.com/news/videos/2026-01-21/insight-with-haslinda-amin-1-21-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [Green Software Startup Secures $1.2 Billion to Expand Solar in EU](https://www.bloomberg.com/news/articles/2026-01-21/berlin-based-cloover-raises-1-2-billion-in-eu-rooftop-solar-push) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [Philippines to Lift Ban on Grok After xAI Vowed Safeguards](https://www.bloomberg.com/news/articles/2026-01-21/philippines-to-lift-ban-on-grok-after-xai-vowed-safeguards) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [Holy Crap, So Many People Watched ‘KPop Demon Hunters’ Last Year](https://gizmodo.com/holy-crap-so-many-people-watched-kpop-demon-hunters-last-year-2000712204) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Document Disclosures Reveal Microsoft’s Influence as OpenAI Became a Revenue-Crazed Behemoth](https://gizmodo.com/document-disclosures-reveal-microsofts-influence-as-openai-became-a-revenue-crazed-behemoth-2000712308) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Trump Family Makes $1.4 Billion Off Crypto in 2025, Offsetting Losses Elsewhere](https://gizmodo.com/trump-family-makes-1-4-billion-off-crypto-in-2025-offsetting-losses-elsewhere-2000711770) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Netflix mobile app redesign will offer 'deeper integration' of vertical video](https://www.engadget.com/entertainment/streaming/netflix-mobile-app-redesign-will-offer-deeper-integration-of-vertical-video-120000820.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [The best robot vacuum for 2026](https://www.engadget.com/home/smart-home/best-robot-vacuums-130010426.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [How countries can end the capability overhang](https://openai.com/index/how-countries-can-end-the-capability-overhang) *(OpenAI News)*
+- [ ] 2026-01-21 [Introducing Edu for Countries](https://openai.com/index/edu-for-countries) *(OpenAI News)*
+- [ ] 2026-01-21 [AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality](https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face) *(Hugging Face Blog)*
+- [ ] 2026-01-21 [日立が三菱電機系との家庭用昇降機の共同事業を解消へ、AI活用型に集中](https://xtech.nikkei.com/atcl/nxt/news/24/03055/) *(日経クロステック IT)*
+- [ ] 2026-01-21 [「日本ブランド」だけど中身は中国製？　日本企業の人型ロボット「cinnamon 1」の狙い](https://www.itmedia.co.jp/aiplus/articles/2601/21/news113.html) *(ITmedia AI＋)*
+- [ ] 2026-01-21 [モスバーガー、「AIドライブスルー」の実証実験　音声対話AIが注文対応　将来的にはアニメキャラも参戦？](https://www.itmedia.co.jp/aiplus/articles/2601/21/news108.html) *(ITmedia AI＋)*
+- [ ] 2026-01-21 [Anthropic、「Claude Code for VS Code」の一般提供を開始／コーディング支援AI「Claude Code」の公式「Visual Studio Code」拡張機能](https://forest.watch.impress.co.jp/docs/news/2079499.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [ドライブスルーはAIで代替できる?　モスバーガーが実証実験](https://www.watch.impress.co.jp/docs/news/2079616.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [ASD（曖昧さが苦手タイプ）は、AIに聞け！](https://anond.hatelabo.jp/20260121142627) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [noteの推しアルゴリズムについて｜深津 貴之 (fladdict)](https://note.com/fladdict/n/n5b78bb223b35) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [Node.js作者の発言「人間がコードを書く時代は終わった」について思うこと \| maguro​.dev](https://maguro.dev/blog/the-era-of-humans-writing-code-is-over/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [「パンダはもう要らない」ＳＮＳで活発な脱パンダ論、Ｘを解析したら→ＡＩは「特定の層が頑張っている」　誘致に浴びせる「媚中」批判が日本人に迫る「踏み絵」【データ・インサイト】　 \| NEWSjp](https://news.jp/i/1381861526849945927?c=39546741839462401) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [農業版「情弱ビジネス」の歩き方｜久松達央](https://note.com/kazedayori/n/n20bcae1b7201) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [ウクライナ、数百万時間におよぶ戦時中のドローン映像や戦闘データを同盟国と共有、軍事用AIモデルの開発を加速 \| XenoSpectrum](https://xenospectrum.com/ukraine-ai-drone-data-fedorov-defense-strategy/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [若者がチャッピーに惑わされないように……「ChatGPT」へ“年齢推定モデル”が展開／18歳以下と判定されれば機能を制限する保護策が適用される](https://forest.watch.impress.co.jp/docs/news/2079445.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [内容のないコミュニケーションを馬鹿にする人は何もわかっていない](https://blog.tinect.jp/?p=90691) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [【海外記事紹介】AIが「闇堕ち」するメカニズム: Anthropicの最新研究が突き止めた「ペルソナ・ドリフト」現象とその防衛策](https://techfeed.io/entries/69700a5a0284084332537548) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [AIがSNSや掲示板で当たり前のように会話して「死んだインターネット理論」が現実になってしまったという嘆き](https://gigazine.net/news/20260120-dead-internet-theory-ai-hacker-news/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [メガネを「スマート化」する超小型ディスプレイ、クラファンで4,800%達成](https://pc.watch.impress.co.jp/docs/news/2079410.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [数千万円だった3Dプリンターは、なぜ「誰でも買える道具」になったのか──民主化40年の歴史 - FabScene（ファブシーン）](https://fabscene.com/new/special/3d-printer-democratization-history-1980-2025/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [「Apple Fitness+」、日本でスタート　月額980円](https://www.watch.impress.co.jp/docs/news/2079491.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [稲城市、新交通システム「Zippar」導入検討で連携協定。よみうりランド周辺の次世代交通 – 多摩ポン](https://tamapon.com/2026/01/20/inagi-zipper/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [【脱・初心者】なぜAWSのプロは「IAMユーザー」を使わないのか？ 9割が知らない「AssumeRole」の正体](https://zenn.dev/miyaco_log/articles/ebec1c1f64c046) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [「スマートロックで死にかけた」──SNSでの訴えにSwitchBotが不備を認め謝罪　サポート体制見直しへ](https://www.itmedia.co.jp/news/articles/2601/21/news114.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [Agent SkillsがVercelに乗っ取られそうになっている件について](https://zenn.dev/tkithrta/articles/b7afbf76e7bb31) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [「Gemini」の読み方は「ジェミニ」です――グーグル日本法人のX投稿](https://k-tai.watch.impress.co.jp/docs/news/2079586.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [2026/1/21 寒い](https://zenn.dev/iwa103/articles/20260121_tsubuyaki) *(Zenn – トピック LLM)*
+- [ ] 2026-01-21 [AWS Trainium 50 Exercises #6: Re-porting Llama 3 to Trainium](https://zenn.dev/karakuri_blog/articles/0db1f7ed01952f) *(Zenn – トピック LLM)*
+- [ ] 2026-01-21 [AWS Trainium 50 Exercises #5: Fundamentals of Distributed Training](https://zenn.dev/karakuri_blog/articles/6f3dac40cce685) *(Zenn – トピック LLM)*
+- [ ] 2026-01-20 [医薬分野のQ&AでローカルLLMを評価する③](https://zenn.dev/eques/articles/29815306719c85) *(Zenn – トピック LLM)*
+- [ ] 2026-01-20 [Google AntigravityのRule設定](https://zenn.dev/deepgen/articles/794e46c802127a) *(Zenn – トピック LLM)*
+- [ ] 2026-01-20 [実務RAGのリスクと信頼性を整理してみる — TrustworthyなRAGを設計するには](https://zenn.dev/lluminai_tech/articles/8286f79cb14d5c) *(Zenn – トピック LLM)*
+- [ ] 2026-01-21 [AI時代にMVCは死んだのか？：BOA（境界指向アーキテクチャ）による再定義](https://zenn.dev/hironobuarakawa/articles/d1b39bdb7a1193) *(Zenn – トピック AI)*
+- [ ] 2026-01-21 [Anthropic ハッカソン優勝者のClaude Codeの設定がすごすぎた](https://zenn.dev/shintaroamaike/articles/6397da70f4a445) *(Zenn – トピック AI)*
+- [ ] 2026-01-21 [Anthropic社内調査が明かすAI時代のエンジニアリング：生産性革命の裏側にある技能喪失・雇用不安・評価法の進化](https://zenn.dev/tenormusica/articles/anthropic-ai-engineering-deep-dive-2026) *(Zenn – トピック AI)*
+- [ ] 2026-01-21 [#20 エージェントの役割が増えたとき、どう統合するか](https://zenn.dev/corone/articles/53a6986257c139) *(Zenn – トピック AI)*
+- [ ] 2026-01-21 [【農学部大学生】お前の記事、価値ないよ。  ―  AI時代に生き残る技術記事について考えてみた](https://zenn.dev/hirose_suguru/articles/7a2c63ae570479) *(Zenn – トピック AI)*
