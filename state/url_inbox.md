@@ -15130,3 +15130,74 @@
 - [ ] 2026-01-21 [Anthropic社内調査が明かすAI時代のエンジニアリング：生産性革命の裏側にある技能喪失・雇用不安・評価法の進化](https://zenn.dev/tenormusica/articles/anthropic-ai-engineering-deep-dive-2026) *(Zenn – トピック AI)*
 - [ ] 2026-01-21 [#20 エージェントの役割が増えたとき、どう統合するか](https://zenn.dev/corone/articles/53a6986257c139) *(Zenn – トピック AI)*
 - [ ] 2026-01-21 [【農学部大学生】お前の記事、価値ないよ。  ―  AI時代に生き残る技術記事について考えてみた](https://zenn.dev/hirose_suguru/articles/7a2c63ae570479) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-21T18:27:46.621Z
+- [ ] 2026-01-21 [Rollout of AI may need to be slowed to ‘save society’, says boss of JP Morgan](https://www.theguardian.com/technology/2026/jan/21/rollout-ai-slowed-save-society-jp-morgan-jamie-dimon-jensen-huang) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-21 [Mercy review – Chris Pratt takes on AI judge Rebecca Ferguson in ingenious sci-fi thriller](https://www.theguardian.com/film/2026/jan/21/mercy-review-chris-pratt-takes-on-ai-judge-rebecca-ferguson-in-ingenious-sci-fi-thriller) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-21 [The IMF’s banal language is sane-washing an economic crisis created by the egomaniacal Donald Trump](https://www.theguardian.com/commentisfree/2026/jan/22/the-imfs-banal-language-is-sane-washing-an-economic-crisis-created-by-the-egomaniacal-donald-trump) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-21 [Micron Megafab Project Faces a New Hurdle as Activists Seek a Benefits Deal](https://www.wired.com/story/micron-chip-fab-community-benefits-agreement/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-21 [Majority of CEOs Alarmed as AI Delivers No Financial Returns](https://futurism.com/artificial-intelligence/ceos-ai-returns) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-21 [OpenAI Targets Monetization, $1.4T Commitments by 2034](https://aibusiness.com/generative-ai/openai-targets-monetization-commitments-2034) *(AI Business)*
+- [ ] 2026-01-21 [Why AI has not led to mass unemployment](https://theconversation.com/why-ai-has-not-led-to-mass-unemployment-273405) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-21 [What should education look like today? 6 essential reads on learning together](https://theconversation.com/what-should-education-look-like-today-6-essential-reads-on-learning-together-273941) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-21 [Despite its steep environmental costs, AI might also help save the planet](https://theconversation.com/despite-its-steep-environmental-costs-ai-might-also-help-save-the-planet-272474) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-21 [Google’s New Update Refreshes Android Voice Search UI](https://www.techrepublic.com/article/news-google-update-android-voice-search-ui/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-21 [Israel Activates National AI Supercomputer](https://www.techrepublic.com/article/news-israel-ai-supercomputer/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-21 [UK Appoints AI Champions to Boost Financial Services](https://www.techrepublic.com/article/news-uk-ai-champions/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-21 [Why AI Keeps Falling for Prompt Injection Attacks](https://spectrum.ieee.org/prompt-injection-attack) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-01-21 [7 Statistical Concepts Every Data Scientist Should Master (and Why)](https://www.kdnuggets.com/7-statistical-concepts-every-data-scientist-should-master-and-why) *(KDnuggets)*
+- [ ] 2026-01-21 [Navigating AI Entrepreneurship: Insights From The Application Layer](https://www.kdnuggets.com/navigating-ai-entrepreneurship-insights-from-the-application-layer) *(KDnuggets)*
+- [ ] 2026-01-21 [DeepSeek’s Rise, Pause, and How Local Competition Took Over](https://analyticsindiamag.com/global-tech/deepseeks-rise-pause-and-how-local-competition-took-over/) *(Analytics India Magazine)*
+- [ ] 2026-01-21 [OpenAI CFO Defends Ads in ChatGPT as ‘Strong Business Model’](https://www.bloomberg.com/news/articles/2026-01-21/openai-cfo-defends-ads-in-chatgpt-as-strong-business-model) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [Sony Unveils $230 Clip-On Earbuds, Joining a Growing Wave](https://www.bloomberg.com/news/articles/2026-01-21/sony-announces-230-linkbuds-clip-earbuds-joining-a-growing-style-trend) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [AI Boom Changing GE Vernova's Customer Mix, CEO Says](https://www.bloomberg.com/news/videos/2026-01-21/ai-boom-changing-ge-vernova-s-customer-mix-ceo-says-video) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [AMSA, IDC Reopens Deal Talks With Non Binding Offer for Mills](https://www.bloomberg.com/news/articles/2026-01-21/amsa-idc-reopens-deal-talks-with-non-binding-offer-for-mills) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [Upscale AI Valuation Tops $1 Billion as Startup Takes on Cisco, Broadcom](https://www.bloomberg.com/news/articles/2026-01-21/upscale-ai-valuation-tops-1-billion-as-startup-takes-on-cisco-broadcom) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [YouTube CEO Says Battling ‘AI Slop’ a Top Priority in 2026](https://www.bloomberg.com/news/articles/2026-01-21/youtube-ceo-says-battling-ai-slop-a-top-priority-in-2026) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [AI Boom Shifts the Mix of GE Vernova’s Customers, CEO Says](https://www.bloomberg.com/news/articles/2026-01-21/ge-vernova-customer-base-shifts-as-tech-companies-boost-backlog) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [Nvidia CEO Says AI Will Create Jobs For Electricians and Plumbers](https://www.bloomberg.com/news/articles/2026-01-21/nvidia-ceo-says-ai-will-create-jobs-for-electricians-and-plumbers) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [India State Considering Australia-Like Social Media Ban for Kids](https://www.bloomberg.com/news/articles/2026-01-21/andhra-pradesh-mulling-australia-like-under-16-social-media-ban-nara-lokesh) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [Preply Nearly Triples Valuation to $1.2 Billion in Latest Round](https://www.bloomberg.com/news/articles/2026-01-21/preply-nearly-triples-valuation-to-1-2-billion-in-latest-round) *(Bloomberg Technology)*
+- [ ] 2026-01-21 [This Adorable Good Boy Just Got Rare, Life-Saving Brain Surgery](https://gizmodo.com/this-adorable-good-boy-just-got-rare-life-saving-brain-surgery-2000712485) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Netflix Just Made All Your James Bond Dreams Come True](https://gizmodo.com/netflix-just-made-all-your-james-bond-dreams-come-true-2000712556) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Volvo’s EX60 Promises 400-mile Range in a More Competitive EV Climate](https://gizmodo.com/volvos-ex60-promises-400-mile-range-in-a-more-competitive-ev-climate-2000712520) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Chris Pratt’s Sci-Fi Movies, Ranked](https://gizmodo.com/chris-pratts-sci-fi-movies-ranked-2000712057) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Nvidia CEO Says the AI Boom Will Lead to More Jobs for Plumbers](https://gizmodo.com/nvidia-ceo-says-the-ai-boom-will-lead-to-more-jobs-for-plumbers-2000712516) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Eastern US Braces for Its Most Extreme Winter Storm of the Season](https://gizmodo.com/eastern-us-braces-for-its-most-extreme-winter-storm-of-the-season-2000712498) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Coinbase CEO: Banking Lobbyists Are Trying to Ban Their Competition](https://gizmodo.com/coinbase-ceo-banking-lobbyists-are-trying-to-ban-their-competition-2000712456) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Incredible Hand Stencil With Claw-Like Fingers Could Be Oldest Known Cave Art](https://gizmodo.com/incredible-hand-stencil-with-claw-like-fingers-could-be-oldest-known-cave-art-2000712490) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Razer Seems Even More Confused About Its ‘AI Waifu’ Than the Rest of Us](https://gizmodo.com/razer-seems-even-more-confused-about-its-ai-waifu-than-the-rest-of-us-2000712483) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Netflix’s Big Plans for Anime Include a Mappa Team-Up](https://gizmodo.com/netflix-mappa-deal-ai-subtitling-2000712454) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Sony’s New Open Earbuds Ditch the Donut Design for a Clip](https://gizmodo.com/sony-linkbuds-clip-ditch-the-donut-design-for-a-clip-2000712461) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [The First Look at ‘For All Mankind’ Season 5 Soars](https://gizmodo.com/for-all-mankind-season-5-release-date-2000712233) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Mike Colter Says Luke Cage Might Be Preparing for a MCU Return](https://gizmodo.com/mike-colter-luke-cage-return-mcu-daredevil-2000712047) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Does It Matter If Dunk Was Really Knighted on ‘A Knight of the Seven Kingdoms’?](https://gizmodo.com/does-it-matter-if-dunk-was-really-knighted-on-a-knight-of-the-seven-kingdoms-2000712266) *(Gizmodo – Technology)*
+- [ ] 2026-01-21 [Amazon is adding AI-powered assistant to One Medical](https://www.engadget.com/ai/amazon-is-adding-ai-powered-assistant-to-one-medical-180803368.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [The Prince of Persia: The Sands of Time remake among six games canceled by Ubisoft](https://www.engadget.com/gaming/the-prince-of-persia-the-sands-of-time-remake-among-six-games-canceled-by-ubisoft-175801132.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [Volvo EX60 SUV preview: 400-mile range, 670 hp and Google Gemini onboard](https://www.engadget.com/transportation/evs/volvo-ex60-suv-preview-400-mile-range-670-hp-and-google-gemini-onboard-173000033.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [Elon Musk is reportedly trying to take SpaceX public](https://www.engadget.com/science/space/elon-musk-is-reportedly-trying-to-take-spacex-public-170337053.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [The best winter tech for 2026 to help get you through the coldest months](https://www.engadget.com/home/smart-home/the-best-winter-tech-for-2026-to-help-get-you-through-the-coldest-months-130009890.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [YouTube CEO promises more AI features in 2026](https://www.engadget.com/entertainment/youtube/youtube-ceo-promises-more-ai-features-in-2026-162409452.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [Sony LinkBuds Clip review: Open-fit benefits aren't enough to stand out](https://www.engadget.com/audio/headphones/sony-linkbuds-clip-review-open-fit-benefits-arent-enough-to-stand-out-160000140.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [Weber's 2026 smart grill lineup includes the company's first Wi-Fi-equipped charcoal grill](https://www.engadget.com/home/kitchen-tech/webers-2026-smart-grill-lineup-includes-the-companys-first-wi-fi-equipped-charcoal-grill-150000097.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [The 512GB Samsung P9 microSD Express card is 33 percent off right now](https://www.engadget.com/deals/the-512gb-samsung-p9-microsd-express-card-is-33-percent-off-right-now-143849000.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [Adobe Acrobat can now generate presentations and audio podcasts from your documents](https://www.engadget.com/ai/adobe-acrobat-can-now-generate-presentations-and-audio-podcasts-from-your-documents-140000146.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [Get NBA League Pass Premium for only $75 for the rest of the season](https://www.engadget.com/deals/get-nba-league-pass-premium-for-only-75-for-the-rest-of-the-season-163421048.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [Xbox Game Pass adds Death Stranding DC, Ninja Gaiden, Talos Principle 2 and more](https://www.engadget.com/gaming/xbox-game-pass-adds-death-stranding-dc-ninja-gaiden-talos-principle-2-and-more-134126315.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [Get TurboTax Deluxe for only $45 ahead of tax season](https://www.engadget.com/deals/get-turbotax-deluxe-for-only-45-ahead-of-tax-season-204848842.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [What to expect at Samsung Galaxy Unpacked 2026](https://www.engadget.com/mobile/smartphones/what-to-expect-at-samsung-galaxy-unpacked-2026-130000003.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [How to check if your VPN is working](https://www.engadget.com/cybersecurity/vpn/how-to-check-if-your-vpn-is-working-130000817.html?src=rss) *(Engadget)*
+- [ ] 2026-01-21 [How Higgsfield turns simple ideas into cinematic social videos](https://openai.com/index/higgsfield) *(OpenAI News)*
+- [ ] 2026-01-21 [Deploy agents instantly with Agent Builder templates](https://www.blog.langchain.com/introducing-agent-builder-template-library/) *(LangChain Blog)*
+- [ ] 2026-01-21 [スマートビルOSって何だろう？](https://xtech.nikkei.com/atcl/nxt/mag/na/18/00270/010900005/) *(日経クロステック IT)*
+- [ ] 2026-01-21 [ChatGPTに対して「これまで私があなたをどう扱ってきたのかを画像にしてください」とプロンプトを投げてみると普段自分がAIをどう扱っているかが明らかに](https://togetter.com/li/2654471) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [nguyen-oiのブックマーク - はてなブックマーク](https://b.hatena.ne.jp/nguyen-oi/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [AIが奪ったのはエンジニアの「仕事」ではなく「情熱」だった](https://atmarkit.itmedia.co.jp/ait/articles/2601/21/news008.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [[みんなのケータイ]グーグルのAI「Gemini」アプリのCanvasで、ゲームやアプリは「作る」ものであり「探す」ものではなくなる](https://k-tai.watch.impress.co.jp/docs/column/minna/2078561.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-21 [Amazon RDS Blue/Green Deployments reduces downtime to under five seconds - AWS](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-blue-green-deployments-reduces-downtime/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [スキャン書籍のPDFファイルを電子書籍並みにクリアで読みやすくするAI・高品質化・各種調整ツール「DN_SuperBook_PDF_Converter」](https://gigazine.net/news/20260121-dn-superbook-pdf-converter/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [偽の携帯電話基地局を見つけるAndroidの設定「ネットワークに関する通知」](https://gigazine.net/news/20260121-android-16-network-notifications/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [ローランド、iPhone/iPadにも好適なオーディオインターフェイス](https://pc.watch.impress.co.jp/docs/news/2079722.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [サンコー、コンポジット信号をHDMI変換できるアダプタ](https://pc.watch.impress.co.jp/docs/news/2079653.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [I Made Zig Compute 33 Million Satellite Positions in 3 Seconds. No GPU Required.](https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-21 [The State of OpenSSL for pyca/cryptography — Cryptography 47.0.0.dev1 documentation](https://cryptography.io/en/latest/statements/state-of-openssl/) *(はてなブックマーク – IT 人気エントリ)*
