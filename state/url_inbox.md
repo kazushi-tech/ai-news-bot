@@ -15740,3 +15740,86 @@
 - [ ] 2026-01-21 [[GPT5.2 PROにより作成] やる気を出すための心理学・行動経済学からのアプローチ](https://zenn.dev/sakura7/articles/fb90374fb27ee1) *(Zenn – トピック AI)*
 - [ ] 2026-01-21 [なぜプロンプトを学んでもAIを使いこなせないのか？  スキルとマインドを繋ぐ「メンタルモデル」の話](https://zenn.dev/shingokmg/articles/9435a93ea325b1) *(Zenn – トピック AI)*
 - [ ] 2026-01-21 [AIで作る業務動画 Day 22｜報告動画を結論ファーストで作る](https://zenn.dev/akira_cloudjob/articles/20260122-report-video-production) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-22T12:21:16.043Z
+- [ ] 2026-01-22 [Liza Minnelli uses AI to release first new music in 13 years](https://www.theguardian.com/music/2026/jan/22/liza-minnelli-uses-ai-to-release-first-new-music-in-13-years) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-22 [Google Acquires Top Talent From AI Voice Startup Hume AI in Licensing Deal](https://www.wired.com/story/google-hires-hume-ai-ceo-licensing-deal-gemini/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-22 [A Wikipedia Group Made a Guide to Detect AI Writing. Now a Plug-In Uses It to ‘Humanize’ Chatbots](https://www.wired.com/story/wikipedia-group-made-guide-to-detect-ai-writing-now-a-plug-in-uses-it-to-humanize-chatbots/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-22 [Gates Foundation and OpenAI test AI in African healthcare](https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/) *(Artificial Intelligence News)*
+- [ ] 2026-01-22 [Goa Signs MoU with Starlink to Boost Digital Connectivity, Disaster Resilience & Smart Governance](https://analyticsindiamag.com/ai-news-updates/goa-signs-mou-with-starlink-to-boost-digital-connectivity-disaster-resilience-smart-governance/) *(Analytics India Magazine)*
+- [ ] 2026-01-22 [These Indian Professors Fixed a 16-Year-Old Quantum Algorithm With the Wrong Answer](https://analyticsindiamag.com/deep-tech/these-indian-professors-fixed-a-16-year-old-quantum-algorithm-with-the-wrong-answer/) *(Analytics India Magazine)*
+- [ ] 2026-01-22 [90% of Salesforce’s Engineers Use Cursor Every Day](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) *(Analytics India Magazine)*
+- [ ] 2026-01-22 [AI Recruitment Platform Eightfold Sued for Screening Job Applicants Without Consent](https://analyticsindiamag.com/ai-news-updates/ai-recruitment-platform-eightfold-sued-for-screening-job-applicants-without-consent/) *(Analytics India Magazine)*
+- [ ] 2026-01-22 [Compute Credit, R&D, Capital: Inside Startups’ Budget 2026 Wishlist](https://analyticsindiamag.com/ai-startups/compute-credit-rd-capital-inside-startups-budget-2026-wishlist/) *(Analytics India Magazine)*
+- [ ] 2026-01-22 [Apple Plans AI Wearable Pin as Competition Intensifies in AI Hardware: Report](https://analyticsindiamag.com/ai-news-updates/apple-plans-ai-wearable-pin-as-competition-intensifies-in-ai-hardware-report/) *(Analytics India Magazine)*
+- [ ] 2026-01-22 [Meta’s New AI Lab Delivers First Internal Models, CTO Reveals](https://analyticsindiamag.com/ai-news-updates/metas-new-ai-lab-delivers-first-internal-models-cto-reveals/) *(Analytics India Magazine)*
+- [ ] 2026-01-22 [Why Everything at Intel Now Rides on 18A’s Success](https://analyticsindiamag.com/global-tech/why-everything-at-intel-now-rides-on-18as-success/) *(Analytics India Magazine)*
+- [ ] 2026-01-22 [Mistral CEO: China Behind in AI Is a ‘Fairy Tale’](https://www.bloomberg.com/news/videos/2026-01-22/mistral-ceo-china-behind-in-ai-is-a-fairy-tale-video) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [PayPal to Acquire Cymbio in Latest Agentic Commerce Move](https://www.bloomberg.com/news/articles/2026-01-22/hold-paypal-to-acquire-cymbio-in-latest-agentic-commerce-move) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Smaller AI Firms Consider Acquihire Path to Growth](https://www.bloomberg.com/news/newsletters/2026-01-22/smaller-ai-companies-look-to-acquihires-to-spur-growth) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [General Fusion Agrees to Go Public Via $1 Billion SPAC Deal](https://www.bloomberg.com/news/articles/2026-01-22/general-fusion-agrees-to-go-public-via-1-billion-spac-deal) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Vanguard Says AI ‘Regime Change’ Will Fuel Canadian Stocks](https://www.bloomberg.com/news/articles/2026-01-22/ai-regime-change-will-fuel-canadian-stocks-vanguard-says) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Bill Gates’ VC Fund Leads $110 Million Funding for Chip Upstart](https://www.bloomberg.com/news/articles/2026-01-22/bill-gates-vc-fund-leads-110-million-funding-for-chip-upstart) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Musk, Davos’ Most High-Profile Hater, to Make First Appearance](https://www.bloomberg.com/news/articles/2026-01-22/musk-davos-most-high-profile-hater-to-make-first-appearance) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [UK Admits Error in Planning Approval of Data Center, Campaign Group Says](https://www.bloomberg.com/news/articles/2026-01-22/uk-admits-error-in-planning-approval-of-large-scale-data-center) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Silicon Valley Pours Out Lobbying Cash and Flattery to Win Over Deal-Minded Trump](https://www.bloomberg.com/news/articles/2026-01-22/big-tech-leaders-spend-record-109-million-to-win-over-deal-minded-trump) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Coupang Investor Urges US Trade Probe Over South Korea Treatment](https://www.bloomberg.com/news/articles/2026-01-22/coupang-investor-urges-us-trade-probe-over-south-korea-treatment) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Harari and Tegmark on Humanity and AI](https://www.bloomberg.com/news/videos/2026-01-22/harari-and-tegmark-on-humanity-and-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Darktrace CEO Says AI Has ‘Democratized’ Cyberattacks](https://www.bloomberg.com/news/videos/2026-01-22/darktrace-ceo-says-ai-has-democratized-cyberattacks) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Tata Set to Invest $11 Billion in Maharashtra AI Innovation City](https://www.bloomberg.com/news/articles/2026-01-22/tata-set-to-invest-11-billion-in-maharashtra-ai-innovation-city) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Accenture CEO Says Countries Need Data Centres for Sovereign AI](https://www.bloomberg.com/news/articles/2026-01-22/accenture-ceo-says-countries-need-data-centres-for-sovereign-ai) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [US Companies Ahead in AI Race, Accenture Says](https://www.bloomberg.com/news/videos/2026-01-22/us-companies-ahead-in-ai-race-accenture-says-video) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Alibaba Is Said to Plan IPO for AI Chipmaking Unit T-Head](https://www.bloomberg.com/news/articles/2026-01-22/alibaba-is-said-to-plan-ipo-for-ai-chipmaking-unit-t-head) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [‘This Time Is Different’: How AI Is Redefining the Memory Market](https://www.bloomberg.com/news/articles/2026-01-22/-this-time-is-different-how-ai-is-redefining-the-memory-market) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [How AI Weather Models Are Making Better Forecasts](https://www.bloomberg.com/news/features/2026-01-22/how-ai-weather-models-are-making-better-forecasts) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Oldest Known Cave Art Discovered in Indonesia’s Sulawesi Island](https://www.bloomberg.com/news/articles/2026-01-22/oldest-known-cave-art-discovered-in-indonesia-s-sulawesi-island) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Rishi Sunak on Greenland Tensions, AI Regulation](https://www.bloomberg.com/news/videos/2026-01-22/rishi-sunak-on-greenland-tensions-ai-regulation-video) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Telenor Sells $3.9 Billion Stake in Thailand’s True to Arise](https://www.bloomberg.com/news/articles/2026-01-22/telenor-sells-stake-in-thailand-s-true-to-arise-for-3-9-billion) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Bouygues-Led Consortium in Talks for Fresh Bid for Drahi’s SFR](https://www.bloomberg.com/news/articles/2026-01-22/bouygues-led-consortium-in-talks-for-fresh-bid-for-drahi-s-sfr) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [India Plans 50 Spy Satellites After Pakistan Conflict](https://www.bloomberg.com/news/videos/2026-01-22/india-plans-50-spy-satellites-after-pakistan-conflict-video) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [‘MAD About DC’ Looks Like the Ultimate Superhero Parody Comic](https://gizmodo.com/mad-comics-dc-crossover-2026-2000712749) *(Gizmodo – Technology)*
+- [ ] 2026-01-22 [Mint Mobile Extends Its Holiday Offer Into the New Year With 50% Off Unlimited Plans, Plus an Extra Stackable Discount Code](https://gizmodo.com/mint-mobile-extends-its-holiday-offer-into-the-new-year-with-50-off-unlimited-plans-plus-an-extra-stackable-discount-code-2000712157) *(Gizmodo – Technology)*
+- [ ] 2026-01-22 [6 New Weight Loss Drugs That Could Dethrone Ozempic](https://gizmodo.com/6-new-weight-loss-drugs-that-could-dethrone-ozempic-2000712002) *(Gizmodo – Technology)*
+- [ ] 2026-01-22 [Snapchat gives parents more info on who their kids are talking to](https://www.engadget.com/social-media/snapchat-gives-parents-more-info-on-who-their-kids-are-talking-to-120000077.html?src=rss) *(Engadget)*
+- [ ] 2026-01-22 [The best fitness trackers for 2026](https://www.engadget.com/wearables/best-fitness-trackers-133053484.html?src=rss) *(Engadget)*
+- [ ] 2026-01-22 [11個あるデータマネジメントの知識領域、AI時代の優先度トップ3はこれだ](https://xtech.nikkei.com/atcl/nxt/column/18/03470/011500003/) *(日経クロステック IT)*
+- [ ] 2026-01-22 [転職活動がうまくいかない、そんな時に「あえてしない方がいいこと」](https://xtech.nikkei.com/atcl/nxt/column/18/01775/012100253/) *(日経クロステック IT)*
+- [ ] 2026-01-22 [Excelで「壁打ち」、Copilotを相手にブレーンストーミングして分析を深める](https://xtech.nikkei.com/atcl/nxt/column/18/00286/011900396/) *(日経クロステック IT)*
+- [ ] 2026-01-22 [ChatGPTの“本音”が分かる？　「私があなたをどう扱ってきたか画像にして」と指示する遊びが流行](https://www.itmedia.co.jp/aiplus/articles/2601/22/news140.html) *(ITmedia AI＋)*
+- [ ] 2026-01-22 [世界初、AIで新種の化石を発見　北大などのチームが発表　約7000万年前の地層から産出](https://www.itmedia.co.jp/aiplus/articles/2601/22/news138.html) *(ITmedia AI＋)*
+- [ ] 2026-01-22 [社員2万人への「Copilot」導入を突然中止……一体何が？　Microsoft製品3つの事件簿](https://www.itmedia.co.jp/enterprise/articles/2601/22/news137.html) *(ITmedia AI＋)*
+- [ ] 2026-01-22 [シャープ堺工場跡地のAIデータセンターが稼働開始　KDDI](https://www.itmedia.co.jp/aiplus/articles/2601/22/news115.html) *(ITmedia AI＋)*
+- [ ] 2026-01-22 [AIが“卵の段階”でニワトリの雌雄を判別、オスのヒヨコ処分回避へ　日立傘下](https://www.itmedia.co.jp/aiplus/articles/2601/22/news111.html) *(ITmedia AI＋)*
+- [ ] 2026-01-22 [公開24時間で8,000PV。AIで「あの頃の個人サイト」をもう一度。『平成仮面ライダー制作陣データベース』構築の記録 - ジゴワットレポート](https://www.jigowatt121.com/entry/2026/01/22/192030) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-22 [AIキャスターによるyoutubeの政治デタラメ動画による情報が拡散してた - 電脳塵芥](https://nou-yunyun.hatenablog.com/entry/2026/01/22/170000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-22 [Windows 11、ペイントがAI塗り絵作成。メモ帳も機能強化](https://pc.watch.impress.co.jp/docs/news/2079861.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-22 [「銅の時代」の終焉か：熱伝導率3倍の新金属「θ-TaN」がAI冷却のボトルネックを破壊する \| XenoSpectrum](https://xenospectrum.com/new-metallic-material-theta-tan-thermal-conductivity-record/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-22 [AI開発で組織のアウトカムが上がりにくい理由](https://www.youtube.com/watch?v=MoP5-emix9E) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-22 [AI同士で「裏切り必須のゲーム」をプレイさせてわかった最もうそをつくのがうまいAIとは？](https://gigazine.net/news/20260121-ai-deception-betrayal-game/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-22 [家のソファの下が空いていたのでAIに頼んで飲み屋街にしてもらったらこうなった「過去イチ好きなAIの使い方」](https://togetter.com/li/2654368) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-22 [2025年の終わりに、1980年代のキーボードを買うまでの自作キーボード沼の深さの話｜岩渕正樹 / NYのデザイン・フューチャリスト](https://note.com/iwabm/n/nce7ab2d1ea2c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-22 [新生「マイナアプリ」登場　マイナポータルアプリ＆デジタル認証アプリが合体](https://www.itmedia.co.jp/news/articles/2601/22/news135.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-22 [話題の“キーボードPC”こと「HP EliteBoard G1a」、日本で3月に発売](https://pc.watch.impress.co.jp/docs/news/2080032.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-22 [Human-in-the-Loop な AI エージェントを支えるガードレール設計 \| Wantedly Engineer Blog](https://www.wantedly.com/companies/wantedly/post_articles/1038437) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-22 [メルカリ、米の出品を解禁　政令改正で転売規制が終了](https://www.itmedia.co.jp/news/articles/2601/22/news128.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-22 [Build Game Plugins for MulmoChat - Using Akinator as an Example](https://zenn.dev/isamua/articles/zenn-mulmo-chat-plugin-guide-en) *(Zenn – トピック LLM)*
+- [ ] 2026-01-22 [MulmoChatでAIと遊べるゲームプラグインを作ろう - Akinatorを例に](https://zenn.dev/isamua/articles/zenn-mulmo-chat-plugin-guide) *(Zenn – トピック LLM)*
+- [ ] 2026-01-22 [Claude Codeにバグ調査をさせた時、"ソレっぽい作り話"をさせないTips](https://zenn.dev/nishiurahiroki/articles/8d15f2212958a5) *(Zenn – トピック LLM)*
+- [ ] 2026-01-22 [マルチエージェントオーケストレーション設計パターン完全ガイド](https://zenn.dev/babushkai/articles/2026-01-20-multi-agent-orchestration-patterns) *(Zenn – トピック LLM)*
+- [ ] 2026-01-22 [【深層学習】過学習の「向こう側」にある汎化：Grokking（頓悟）現象の数理メカニズム](https://zenn.dev/lixian/articles/bad35e0cbbeeb2) *(Zenn – トピック LLM)*
+- [ ] 2026-01-22 [[リリース] Mastra 1.0：TypeScriptネイティブのAIエージェントフレームワーク](https://zenn.dev/serada/articles/20260122-mastra-1-release) *(Zenn – トピック LLM)*
+- [ ] 2026-01-22 [AIで書いた技術記事、どこからが「やりすぎ」なのか悩んだ話](https://zenn.dev/peggykang/articles/314b1755854036) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [【1000倍のRAM削減】脳の記憶構造を模倣したSNNで100万ニューロンを4MBで動かす！【仮想メモリ】](https://zenn.dev/cell_activation/articles/1aaa3fa496f15d) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [Claude CodeからNotebookLMに質問できるSkillを試してみた](https://zenn.dev/imudak/articles/claude-code-notebooklm-skill) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [Gemini 画像のウォーターマークを高速に削除するまでの試行錯誤（OpenCV / LaMa / 自作アルゴリズム）](https://zenn.dev/heftykoo/articles/1e97366f0c886c) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [【Google Antigravity】新機能「Skills」で自律型コードレビュアーを作ってみた](https://zenn.dev/emp_tech_blog/articles/google-antigravity-skills) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [【神業】Claude Code開発者直伝！知らないと損する隠れTips 20選](https://zenn.dev/babushkai/articles/2026-01-20-claude-code-hidden-tips) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [JetBrains IDE Services 2025.6 AI 分析機能 EAP](https://zenn.dev/nattosystem_jp/articles/807ec1fdc43e30) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [玉を紡ぐ心で：AI時代のコーディング](https://zenn.dev/bebechien/articles/threading-the-beads) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [AI時代の仕様書とは何か](https://zenn.dev/rerena/articles/c483bf967cabe5) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [AI社会の未来図 ― ウェーバー的社会への巻き戻し ―](https://zenn.dev/rerena/articles/bcc91e8b1de9a3) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [[翻訳] Anthropic ハッカソン優勝者による Claude Code 完全ガイド【応用編】](https://zenn.dev/studypocket/articles/claude-code-complete-guide-advanced) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [DALL-E 3とNano Bananaで体験した、AIショート動画制作の舞台裏](https://zenn.dev/sophie_belle/articles/55e1a717fb5ec6) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [【Claude Code for VS Code 】正式版リリース（2026年版）AI支援型IDEプラグインの未来](https://zenn.dev/ryu_techgeek/articles/97926018542836) *(Zenn – トピック AI)*
+- [ ] 2026-01-22 [2026年、AIがコードを書く時代に「一流のMLエンジニア」を名乗るための4つの条件](https://zenn.dev/m_nakano_teppei/articles/cd59304c0fb51d) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-22 [パーセプトロン収束定理の証明とPythonでの検証　深層学習のための再履修](https://zenn.dev/fleure/articles/perceptron-convergence-proof) *(Zenn – トピック 機械学習)*
