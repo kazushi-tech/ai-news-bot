@@ -16433,3 +16433,73 @@
 - [ ] 2026-01-23 [AIAgentを駆使してSREが貢献する開発体験の向上](https://speakerdeck.com/yoshiiryo1/aiagentwoqu-shi-sitesregagong-xian-surukai-fa-ti-yan-noxiang-shang) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-23 [京セラ、NECも基地局機器撤退　経済安全保障上のリスク高まる](https://business.nikkei.com/atcl/NBD/19/00108/00367/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-23 [【LLM自作入門 Vol.3】学習ループの設計と省メモリ学習の技術について](https://zenn.dev/lluminai_tech/articles/a3439384d0b13b) *(Zenn – トピック LLM)*
+
+## Collected on 2026-01-23T12:20:21.544Z
+- [ ] 2026-01-23 [‘I’m picking winners’: UK business secretary takes activist approach to economic growth](https://www.theguardian.com/business/2026/jan/23/peter-kyle-uk-business-secretary-activist-approach-economic-growth) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-23 [Defensive AI and how machine learning strengthens cyber defense](https://www.artificialintelligence-news.com/news/defensive-ai-and-how-machine-learning-strengthens-cyber-defense/) *(Artificial Intelligence News)*
+- [ ] 2026-01-23 [The big higher education question in 2026 ought to be: what are we preparing young people for?](https://theconversation.com/the-big-higher-education-question-in-2026-ought-to-be-what-are-we-preparing-young-people-for-270208) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-23 [Ex-Google Executive Peeyush Ranjan Launches AI EdTech Startup Fermi.ai in India & USA](https://analyticsindiamag.com/ai-news-updates/ex-google-executive-peeyush-ranjan-launches-ai-edtech-startup-fermi-ai-in-india-usa/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [Why The AI Foundry by Tredence in Chennai is a Working Room for Builders, Not Another Conference](https://analyticsindiamag.com/ai-highlights/why-the-ai-foundry-by-tredence-in-chennai-is-a-working-room-for-builders-not-another-conference/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [India’s Space Tech Looks to Budget 2026 to Ignite Ambitions](https://analyticsindiamag.com/deep-tech/indias-space-tech-looks-to-budget-2026-to-ignite-ambitions/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [Mumbai to Host World’s First AI GCC Hub as Maharashtra & Supervity AI Sign Landmark MoU at Davos](https://analyticsindiamag.com/ai-news-updates/mumbai-to-host-worlds-first-ai-gcc-hub-as-maharashtra-supervity-ai-sign-landmark-mou-at-davos/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [Zoho Launches AI-native ERP Platform From Rural Tamil Nadu](https://analyticsindiamag.com/ai-news-updates/zoho-launches-ai-native-erp-platform-from-rural-tamil-nadu/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [GitHub Introduces Copilot SDK to Embed AI Agents in Applications](https://analyticsindiamag.com/ai-news-updates/github-introduces-copilot-sdk-to-embed-ai-agents-in-applications/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [Google Photos Tests ‘Me Meme’ Feature to Turn Selfies Into AI memes](https://analyticsindiamag.com/ai-news-updates/google-photos-tests-me-meme-feature-to-turn-selfies-into-ai-memes/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [Adobe Launches Firefly Foundry to Safeguard IP Rights for Creative Artists](https://analyticsindiamag.com/ai-news-updates/adobe-launches-firefly-foundry-to-safeguard-ip-rights-for-creative-artists/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [Intel Q4 Beats Estimates as 18A Ships, Supply Constraints Hit Early 2026](https://analyticsindiamag.com/ai-news-updates/intel-q4-beats-estimates-as-18a-ships-supply-constraints-hit-early-2026/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [Coforge Now Infuses AI in 100% Projects, Refuses to Reveal AI Revenue](https://analyticsindiamag.com/it-services/coforge-now-infuses-ai-in-100-projects-refuses-to-reveal-ai-revenue/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [Andreessen-Backed Inferact Raises $150 Mn to Develop Next-Gen Commercial Inference Engine](https://analyticsindiamag.com/ai-news-updates/andreessen-backed-inferact-raises-150-mn-to-develop-next-gen-commercial-inference-engine/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [Juspay Raises $50 Mn from WestBridge Capital to Drive Global Expansion](https://analyticsindiamag.com/ai-news-updates/juspay-raises-50-mn-from-westbridge-capital-to-drive-global-expansion/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [The Musk-OpenAI Lawsuit Reveals Sam Altman’s Penchant for Lowercase](https://www.bloomberg.com/news/newsletters/2026-01-23/musk-openai-lawsuit-reveals-sam-altman-s-writing-style) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [China Tells Alibaba, Tech Firms to Prep Nvidia H200 Orders](https://www.bloomberg.com/news/articles/2026-01-23/china-tells-alibaba-top-tech-firms-to-prep-nvidia-h200-orders) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Wall Street Pushes Solo 401(k)s as More Americans Work for Themselves](https://www.bloomberg.com/news/features/2026-01-23/solo-401-k-s-go-mainstream-as-wall-street-targets-self-employed-americans) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [WTO Director General Optimistic After Davos Meeting](https://www.bloomberg.com/news/videos/2026-01-23/wto-director-general-optimistic-after-davos-meeting-video) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [China Deepens Review of Meta’s Landmark $2 Billion Manus Buyout](https://www.bloomberg.com/news/articles/2026-01-23/china-deepens-review-of-meta-s-landmark-2-billion-manus-buyout) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [What the TikTok Deal Means for the App’s Future in the US](https://www.bloomberg.com/news/articles/2026-01-23/tiktok-s-us-venture-deal-ownership-structure-valuation-algorithm-s-future) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Hillhouse Is Said to Be Near Taking 17% Stake in Hong Kong’s Modern Dental](https://www.bloomberg.com/news/articles/2026-01-23/hillhouse-is-said-to-be-near-taking-17-stake-in-hong-kong-s-modern-dental) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Ericsson Proposes First-Ever Buyback After Earnings Beat](https://www.bloomberg.com/news/articles/2026-01-23/ericsson-earnings-beat-estimates-as-cost-cutting-efforts-pay-off) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Malaysia Lifts Ban on Musk’s Grok After Safety Measures Added](https://www.bloomberg.com/news/articles/2026-01-23/malaysia-lifts-ban-on-musk-s-grok-after-safety-measures-added) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Google Invests in Sakana AI to Boost Gemini’s Presence in Japan](https://www.bloomberg.com/news/articles/2026-01-23/google-invests-in-sakana-ai-to-boost-gemini-s-presence-in-japan) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [‘Wonder Man’ May Be Marvel’s Best Show Yet](https://gizmodo.com/wonder-man-may-be-marvels-best-show-yet-2000712627) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [The Morning After: Apple might be making its own AirTag-sized AI wearable](https://www.engadget.com/general/the-morning-after-apple-might-be-making-its-own-airtag-sized-ai-wearable-121500060.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [The best GPS running watches for 2026](https://www.engadget.com/wearables/best-gps-running-watch-141513957.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Sakana AIがGoogleとパートナーシップ締結、研究開発に「Gemini」活用へ　資金調達も](https://www.itmedia.co.jp/aiplus/articles/2601/23/news095.html) *(ITmedia AI＋)*
+- [ ] 2026-01-23 [ドット絵でニューヨークの鳥瞰図を作成した「Isometric NYC」](https://gigazine.net/news/20260123-isometric-nyc/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-23 [日本語を含む10言語に対応した音声生成モデル「Qwen3-TTS」ファミリーがオープンソース化](https://gigazine.net/news/20260123-qwen3-tts-family-opensource/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-23 [ローカルAIアプリのOllamaが画像生成に対応、まずは「FLUX.2 [klein]」と「Z-Image-Turbo」から](https://gigazine.net/news/20260123-ollama-ai-image-generation/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-23 [この度実施したコンテストの審査体制について](https://www.pixiv.net/info.php?id=13201) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-23 [Best Practices for Claude Code - Claude Code Docs](https://code.claude.com/docs/en/best-practices) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-23 [大学で働いてたとき、財務課から「パーソナルコンピュータのパーソナルは"個人"という意味だから、学科の予算で学生複数名が使うPCは購入することができません」と言われた話](https://togetter.com/li/2655022) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [git-wtを導入した - koicの日記](https://koic.hatenablog.com/entry/introduce-git-wt) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [5秒の声から良質ボイスクローンを生成できるCPU動作の軽量ローカルAI「Pocket TTS」、AIにゲームで遊ばせたら別ジャンルでも能力が向上した研究など生成AI技術5つを解説（生成AIウィークリー） \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/01/23/4832.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [「LINE」のフォントが無料で使える、Google Fontsで提供開始](https://k-tai.watch.impress.co.jp/docs/news/2080275.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [GitHub 29,000+ Star獲得！Claude Codeに「ベテランエンジニア」の思考を注入するSuperpowersプラグイン](https://zenn.dev/zhu/articles/11ad183281bee6) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [Claude Codeがわずか30分でCUDAをROCmへ移植：崩れ去る「CUDAの掘」とAIが書き換える半導体業界の勢力図 \| XenoSpectrum](https://xenospectrum.com/claude-code-ports-cuda-to-rocm-nvidia-moat-analysis/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [Agentic Coding 実践ワークショップ](https://speakerdeck.com/watany/agentic-coding-workshops-20260121) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [こういう道のためにあるんだろうね自動運転「一直線二時間はキツいな…」「これ走りたい逆に アクセル全開で」](https://togetter.com/li/2654960) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [AIによる低品質な脆弱性レポート連発でcURLがバグ報奨金プログラムを停止](https://gigazine.net/news/20260123-curl-bug-bounty/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [Stop using MySQL in 2026, it is not true open source](https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [[翻訳] vLLM の内部：高スループット LLM 推論システムの構造](https://zenn.dev/tosshi/articles/f64ba0b86e330b) *(Zenn – トピック LLM)*
+- [ ] 2026-01-23 [実用AGI -long horizon agent- 概要編](https://zenn.dev/hellohazime/books/practical-agi) *(Zenn – トピック LLM)*
+- [ ] 2026-01-23 [Advanced RAG完全ガイド - RAPTOR/Hybrid Search/Rerankingの実装](https://zenn.dev/babushkai/articles/2026-01-20-advanced-rag-techniques) *(Zenn – トピック LLM)*
+- [ ] 2026-01-23 [なぜ、LLM初心者ほどChatGPT Proを使うべきなのか？](https://zenn.dev/pdfractal/articles/bfb8c5093f78ca) *(Zenn – トピック LLM)*
+- [ ] 2026-01-23 [ブラウザ操作自動化 × ローカルLLMによる業務自動化の支援（GENIAC-PRIZE応募PoC）](https://zenn.dev/karakuri_blog/articles/54db1dd1bdea31) *(Zenn – トピック LLM)*
+- [ ] 2026-01-23 [AI時代に10万行超のコードベースをどう進化させるか？](https://zenn.dev/smatsuda/articles/c3fcf4f2df21fd) *(Zenn – トピック LLM)*
+- [ ] 2026-01-23 [CodeRabbitがレビュー時に利用しているデータについて](https://zenn.dev/coderabbit_jp/articles/efb1cdbe1a39db) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [【Apple Silicon Mac】Cursor × Unity C#開発環境](https://zenn.dev/shiro99/articles/47dd20cdc1a0e1) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [コンテキストエンジニアリング初体験](https://zenn.dev/rockdragon/articles/a8a93b51684d62) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [AIを最終判断に使い始めた社会で何が起きているか ― 認知科学と法務から見た構造分析](https://zenn.dev/dosanko_tousan/articles/bab62ec9d331d8) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [I01-【視聴メモ】Elon Muskが語る「2026年のAGI」と「ホワイトカラーの終焉」](https://zenn.dev/acntechjp/articles/0b91344d046791) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [「あとで読む」を消化できない全ての人へ](https://zenn.dev/ogi1211/articles/curaq-philosophy) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [Databricks検証：metric views概要と他セマンティックツール比較](https://zenn.dev/acntechjp/articles/ef25e234dd64df) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [【2026年最新】Claude Code Hooksで開発効率10倍？知らないと損する神機能を完全解説](https://zenn.dev/babushkai/articles/2026-01-21-claude-code-hooks-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [[2026年1月23日] ダボス会議でもAGI/シンギュラリティが話題に (週刊AI)](https://zenn.dev/carenet/articles/9e8541ebcf7ea4) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [AIに甘やかされて、需要のないアプリを「爆速」で作り上げてしまった話](https://zenn.dev/kibe/articles/a44025bd1b5453) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [【個人開発】タスク管理が辛すぎるから、Gemini APIで「許可制AI秘書」を召喚してみた話](https://zenn.dev/ibukinagase/articles/1ceb282e68031a) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [Claude CodeのTasks機能について調べてみた](https://zenn.dev/is0383kk/articles/f6de6ac8cf3a1a) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [Claude Code のレビューが遅い？ローカル LLM で 2 秒チェックを実現した話](https://zenn.dev/keyi8773/articles/26898cb9b626f0) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [Google Antigravity入門 - セットアップから基本操作まで](https://zenn.dev/cloud_ace/articles/7279b250533c4c) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [Claude Code実践ガイド - 基本を完全マスター](https://zenn.dev/miz_1123/books/claude-code-practical-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [[AI生成]AIコーディングエージェントのコンテキスト設計、4層モデルで整理してみた](https://zenn.dev/shintax0512/articles/fd09f8f5f82719) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [音楽制作の時間を確保したい！「動画編集の沼」から抜け出した私の時短術](https://zenn.dev/sophie_belle/articles/5f33efd8a3e982) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [vLLM MultiLoRA Inferenceの仕組みとS-LoRAとの違い](https://zenn.dev/tosshi/articles/e43f0d9eb83601) *(Zenn – トピック 機械学習)*
