@@ -16503,3 +16503,58 @@
 - [ ] 2026-01-23 [[AI生成]AIコーディングエージェントのコンテキスト設計、4層モデルで整理してみた](https://zenn.dev/shintax0512/articles/fd09f8f5f82719) *(Zenn – トピック AI)*
 - [ ] 2026-01-23 [音楽制作の時間を確保したい！「動画編集の沼」から抜け出した私の時短術](https://zenn.dev/sophie_belle/articles/5f33efd8a3e982) *(Zenn – トピック AI)*
 - [ ] 2026-01-23 [vLLM MultiLoRA Inferenceの仕組みとS-LoRAとの違い](https://zenn.dev/tosshi/articles/e43f0d9eb83601) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-23T18:16:16.760Z
+- [ ] 2026-01-23 [Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF](https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-23 [The Math on AI Agents Doesn’t Add Up](https://www.wired.com/story/ai-agents-math-doesnt-add-up/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-23 [Man Explains Why He Shredded Up an AI-Generated Art Exhibit With His Bare Teeth](https://futurism.com/artificial-intelligence/man-ai-art-exhibit-chew) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-23 [Anthropic’s usage stats paint a detailed picture of AI success](https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/) *(Artificial Intelligence News)*
+- [ ] 2026-01-23 [Feeling unprepared for the AI boom? You’re not alone](https://theconversation.com/feeling-unprepared-for-the-ai-boom-youre-not-alone-273192) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-23 [PowerGen’s Shock Pivot: How AI Data Centers Hijacked an Energy Conference](https://www.techrepublic.com/article/news-ai-data-centers-powergen-energy-infrastructure/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-23 [This $120 AI Security Training Bundle is Now Only $30](https://www.techrepublic.com/article/spendify-lifetime-subscription/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-23 [PayPal to Acquire Cymbio for AI-Driven Agentic Commerce](https://www.techrepublic.com/article/news-paypal-buys-cymbio/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-23 [OpenAI Says Stargate Data Centers Won’t Raise Local Power Bills](https://www.techrepublic.com/article/news-openai-stargate-power-bills/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-23 [Integrating Rust and Python for Data Science](https://www.kdnuggets.com/integrating-rust-and-python-for-data-science) *(KDnuggets)*
+- [ ] 2026-01-23 [Top 5 Self Hosting Platform Alternative to Vercel, Heroku & Netlify](https://www.kdnuggets.com/top-5-self-hosting-platform-alternative-to-vercel-heroku-netlify) *(KDnuggets)*
+- [ ] 2026-01-23 [What Leaders Believe is the Next Frontier in India’s GCC Story](https://analyticsindiamag.com/gcc/what-leaders-believe-is-the-next-frontier-in-indias-gcc-story/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [Why Mphasis CEO Believes AI Can No Longer Be ‘Lipstick’ on Legacy IT](https://analyticsindiamag.com/it-services/why-mphasis-ceo-believes-ai-can-no-longer-be-lipstick-on-legacy-it/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [CitiusTech Partners with Ventra Health to Build Agentic AI Revenue Intelligence Platform](https://analyticsindiamag.com/ai-news-updates/citiustech-partners-with-ventra-health-to-build-agentic-ai-revenue-intelligence-platform/) *(Analytics India Magazine)*
+- [ ] 2026-01-23 [Software Maker Databricks Inks $1.8 Billion Financing Package](https://www.bloomberg.com/news/articles/2026-01-23/software-maker-databricks-inks-1-8-billion-financing-package) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Doordash, Uber Fail to Stop NYC Law Requiring 10% Tip Prompt](https://www.bloomberg.com/news/articles/2026-01-23/doordash-uber-fail-to-block-nyc-tipping-law-from-taking-effect) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Smart Ring Maker Oura Said to Plan Tender Offer at 25% Discount](https://www.bloomberg.com/news/articles/2026-01-23/smart-ring-maker-oura-said-to-plan-tender-offer-at-25-discount) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [CEOs Leave Davos Warning Europe to Shape Up or Lose to US, China](https://www.bloomberg.com/news/articles/2026-01-23/ceos-leave-davos-warning-europe-to-shape-up-or-lose-to-us-china) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [China Tells Alibaba, Tech Firms to Prep Nvidia H200 Orders](https://www.bloomberg.com/news/videos/2026-01-23/china-tells-alibaba-others-to-prep-nvidia-h200-orders-video) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [MTN’s Iran Troubles Deepen With CEO Ousted Over Shutdown Delay](https://www.bloomberg.com/news/articles/2026-01-23/mtn-s-iran-troubles-deepen-with-ceo-ousted-over-shutdown-delay) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Owner of AI Consultancy Xebia Is Said to Weigh €1 Billion Sale](https://www.bloomberg.com/news/articles/2026-01-23/owner-of-ai-consultancy-xebia-is-said-to-weigh-1-billion-sale) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [James Gunn Just Dropped Our Best Look Yet at Lobo](https://gizmodo.com/james-gunn-just-dropped-our-best-look-yet-at-lobo-2000713467) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Trump Wrecked Climate Policy in a Year. Can We Ever Go Back?](https://gizmodo.com/trump-wrecked-climate-policy-in-a-year-can-we-ever-go-back-2000713420) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [The Best Use for Smart Glasses Might Have Nothing to Do With Entertainment](https://gizmodo.com/the-best-use-for-smart-glasses-might-have-nothing-to-do-with-entertainment-2000713395) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Massive Winter Storm Could Knock Out Power Across the Nation. Here’s How to Prepare](https://gizmodo.com/massive-winter-storm-could-knock-out-power-across-the-nation-heres-how-to-prepare-2000713419) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Vimeo Lays Off ‘Most’ of Its Staff, Allegedly Includes ‘the Entire Video Team’](https://gizmodo.com/vimeo-lays-off-most-of-its-staff-allegedly-includes-the-entire-video-team-2000713416) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [‘Jujutsu Kaisen’ Peaked With Maki Zenin’s Rebirth](https://gizmodo.com/jujutsu-kaisen-spoilers-culling-game-episode-4-maki-2000713310) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Bezos’s Next Rocket Launch Might Be the Most Crucial Yet for Blue Origin](https://gizmodo.com/bezoss-next-rocket-launch-might-be-the-most-crucial-yet-for-blue-origin-2000713329) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Iran Shows Why America’s Embrace of Stablecoins Is a Double-Edged Sword](https://gizmodo.com/iran-shows-why-americas-embrace-of-stablecoins-is-a-double-edged-sword-2000713342) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Anbernic’s New Controller Has a Screen and Built-In Heartbeat Sensor, for Some Reason](https://gizmodo.com/anbernics-new-controller-has-a-screen-and-built-in-heartbeat-sensor-for-some-reason-2000713347) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Gaze Deeply Into Nature With These Award-Winning Ecology Photos](https://gizmodo.com/gaze-deeply-into-nature-with-these-award-winning-ecology-photos-2000713286) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [One Familiar Face Isn’t Back for ‘The Mummy 4’ Yet](https://gizmodo.com/the-mummy-4-oded-fehr-ardeth-bay-2000713209) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Professor Reports That OpenAI Deleted His Work, World Laughs in His Face](https://gizmodo.com/professor-reports-that-openai-deleted-his-work-world-laughs-in-his-face-2000713196) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [‘A Knight of the Seven Kingdoms’ Notched a Solid Ratings Debut](https://gizmodo.com/a-knight-of-the-seven-kingdoms-notched-a-solid-ratings-debut-2000713173) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Elon Musk Isn’t an Optimist, He’s a Salesman](https://gizmodo.com/elon-musk-isnt-an-optimist-hes-a-salesman-2000713014) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Meta is temporarily pulling teens' access from its AI chatbot characters](https://www.engadget.com/social-media/meta-is-temporarily-pulling-teens-access-from-its-ai-chatbot-characters-180626052.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [You can now create AI-generated coloring books in Microsoft Paint](https://www.engadget.com/ai/you-can-now-create-ai-generated-coloring-books-in-microsoft-paint-163512527.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [NBA League Pass is up to 55 percent off](https://www.engadget.com/deals/nba-league-pass-is-up-to-55-percent-off-163421368.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Malaysia lifts ban on Grok after taking X at its word](https://www.engadget.com/ai/malaysia-lifts-ban-on-grok-after-taking-x-at-its-word-144457468.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Get the 512GB Samsung P9 microSD Express card for 33 percent off right now](https://www.engadget.com/deals/get-the-512gb-samsung-p9-microsd-express-card-for-33-percent-off-right-now-143849920.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Samsung Bespoke Fridge with AI review: All the bells and whistles](https://www.engadget.com/home/kitchen-tech/samsung-bespoke-fridge-with-ai-review-all-the-bells-and-whistles-140000099.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Ring can now verify if a video has been altered](https://www.engadget.com/home/smart-home/ring-can-now-verify-if-a-video-has-been-altered-140000140.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [TurboTax Deluxe is on sale for only $45 ahead of tax season](https://www.engadget.com/deals/turbotax-deluxe-is-on-sale-for-only-45-ahead-of-tax-season-204848111.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Apple's AirPods Pro 3 drop back down to a record-low price](https://www.engadget.com/deals/apples-airpods-pro-3-drop-back-down-to-a-record-low-price-140752588.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Engadget Podcast: Why would Apple want to make an AI pin?](https://www.engadget.com/ai/engadget-podcast-why-would-apple-want-to-make-an-ai-pin-130732754.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Apple accuses Europe of 'delay tactics' following alternative app store collapse](https://www.engadget.com/big-tech/apple-accuses-europe-of-delay-tactics-following-alternative-app-store-collapse-124701591.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [レアアースを含む“日本産新鉱物4種”、山口大が発見　発見場所は群馬県](https://www.itmedia.co.jp/news/articles/2601/23/news117.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [個人で静的型付け言語のコンパイラをフルスクラッチで作れる時代が来た！ - Islands in the byte stream](https://gfx.hatenablog.com/entry/2026/01/23/212644) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [AdGuardが独自のVPNプロトコル「TrustTunnel」をオープンソース化](https://gigazine.net/news/20260122-trusttunnel-adguard-vpn/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [マネジャー職を廃止したGoogleで起きたまさかの結末　マネジャーの"究極の目的"は？→変化を起こすこと](https://toyokeizai.net/articles/-/930665?display=b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [SoundSourceのようにアプリ別にサウンドを出力するオーディオデバイスやボリューム、EQを設定できるMac用オーディオコントローラー「FineTune」がリリース。](https://applech2.com/archives/20260123-finetune-macos-audio-control-and-routing.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [SUPERや60は出なかったが、ソフトの力でこれだけスゴくなったGeForce RTX](https://pc.watch.impress.co.jp/docs/news/2080233.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [定番音楽プレイヤー「foobar2000」に緊急更新、Windowsセキュリティパッチの影響で不具合／アップデートを強く推奨](https://forest.watch.impress.co.jp/docs/news/2080149.html) *(はてなブックマーク – IT 人気エントリ)*
