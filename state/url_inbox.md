@@ -16622,3 +16622,23 @@
 - [ ] 2026-01-23 [TUIでPR diffを見ながら裏でAIが勝手に修正&レビューをし続けるRust製tool「octorus」](https://zenn.dev/ushironoko/articles/90d34dd61a1825) *(Zenn – トピック AI)*
 - [ ] 2026-01-23 [GitHub Copilot アンチ層に良さをどう伝えるかの奮闘物語](https://zenn.dev/syoshida07/articles/d4166ba5c39f6e) *(Zenn – トピック AI)*
 - [ ] 2026-01-23 [エンジニア採用をAI投資で補う組織の実装パターンと未来展望](https://zenn.dev/mjinia/articles/d8efd5e04ad687) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-24T06:14:59.200Z
+- [ ] 2026-01-24 [Africa’s Betting Boom: Big Money, Bigger Risks \| Bloomberg Next Africa](https://www.bloomberg.com/news/videos/2026-01-24/africa-s-betting-boom-big-money-bigger-risks-bloomberg-next-africa) *(Bloomberg Technology)*
+- [ ] 2026-01-22 [Inside GPT-5 for Work: How Businesses Use GPT-5](https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work) *(OpenAI News)*
+- [ ] 2026-01-24 [Devin Reviewがレビュー疲れの人を助けてくれるかも](https://zenn.dev/immedio/articles/a88d8ffe75f2b6) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介 \| gihyo.jp](https://gihyo.jp/article/2026/01/github-copilot-sdk) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [Qwen-TTSに自分の声でしゃべらせる - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/01/23/145128) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [Googleの優秀AI「NotebookLM」の限界を突破する方法 \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2601-notebooklm-is-great-but-it-shines-when-you-use-it-like-this/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [全身に反射材をつけたゲーミング雪かき、視認性抜群だと話題に「クソコラみたいな反射の仕方するのなｗ」「テクスチャバグかよ」](https://togetter.com/li/2655307) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [ステルスSSID、百害あって一利なし](https://zenn.dev/digeon/articles/bfe97d0ef09232) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [複雑な要件を1クエリで完結させる、PostgreSQL活用術 - SmartHR Tech Blog](https://tech.smarthr.jp/entry/2026/01/23/083000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [【解決】GPT-5.2 Thinkingが「思考」をサボる問題｜genkAIjokyo\|ChatGPT/Claudeで論文作成と科研費申請](https://note.com/genkaijokyo/n/nce9730370908) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [引き渡しから半月で家中がカビまみれ、独自の基礎断熱と換気方法が裏目に](https://xtech.nikkei.com/atcl/nxt/column/18/03443/121600003/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [Introducing: Postgres Best Practices](https://supabase.com/blog/postgres-best-practices-for-ai-agents) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [1000円でPD 20W対応。ダイソーの最強コスパなモバイルバッテリーを検証 - はやぽんログ！](https://hayaponlog.com/daiso-mobile-battery-pd-20w-review/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [Geminiの「Gem」で自分専用のAWS認定講師を作ってみた \| DevelopersIO](https://dev.classmethod.jp/articles/gemini-gem-aws-certification-instructor/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [オープンソース版Windows「ReactOS」、非同期TCP接続をついに実装 \| ソフトアンテナ](https://softantenna.com/blog/reactos-async-tcp-connection/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [どれだけ知っている？ AndroidベースのOSたち \| gihyo.jp](https://gihyo.jp/article/2026/01/android-weekly-topics-260122) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [はてブのトプコメって何？](https://anond.hatelabo.jp/20260123130456) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [人工知能に空間＆時間の4次元認識能力を与えるためのAI「D4RT」をGoogleが発表、「人間と同じように世界を認識できるAI」の開発に役立つ](https://gigazine.net/news/20260123-google-d4rt-4d-scene-ai/) *(はてなブックマーク – IT 人気エントリ)*
