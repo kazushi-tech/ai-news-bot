@@ -16678,3 +16678,40 @@
 - [ ] 2026-01-24 [YomiTokuの中身を調べる](https://zenn.dev/watanko/articles/36fa8fc58423e9) *(Zenn – トピック AI)*
 - [ ] 2026-01-24 [CuraQの技術的な話　〜技術選定編〜](https://zenn.dev/ogi1211/articles/curaq-techstack) *(Zenn – トピック AI)*
 - [ ] 2026-01-24 [LLM/Agent評価は「分類」より「ラベリング」：あとから切れるデータ設計](https://zenn.dev/ktechb/articles/tag-is-better-than-category) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-24T18:14:08.144Z
+- [ ] 2026-01-24 [Google AI Overviews cite YouTube more than any medical site for health queries, study suggests](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-24 [How the ‘confident authority’ of Google AI Overviews is putting public health at risk](https://www.theguardian.com/technology/ng-interactive/2026/jan/24/how-the-confident-authority-of-google-ai-overviews-is-putting-public-health-at-risk) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-24 [Latest ChatGPT model uses Elon Musk’s Grokipedia as source, tests reveal](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-24 [Scientist Horrified as ChatGPT Deletes All His Research](https://futurism.com/artificial-intelligence/scientist-horrified-chatgpt-deletes-research) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-24 [Trump’s Huge AI Project Is Running Into a Major Financial Problem](https://futurism.com/future-society/data-center-trump-stargate) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-24 [Workers Say AI Is Useless, While Oblivious Bosses Insist It’s a Productivity Miracle](https://futurism.com/artificial-intelligence/workers-ai-useless-bosses-miracle) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-24 [Facebook AI Slop Has Grown So Dark That You May Not Be Prepared](https://futurism.com/artificial-intelligence/facebook-ai-slop-dark) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-24 [Trump-Weary Danes Turn to Technology in Boycott of US Brands](https://www.bloomberg.com/news/articles/2026-01-24/trump-weary-danes-turn-to-technology-in-boycott-of-us-brands) *(Bloomberg Technology)*
+- [ ] 2026-01-24 [Darth Maul Is My Glup Shitto, and I’m Happy He’s Back (Again)](https://gizmodo.com/darth-maul-is-my-glup-shitto-and-im-happy-hes-back-again-2000713579) *(Gizmodo – Technology)*
+- [ ] 2026-01-24 [Sam Raimi’s Ready to Let ‘Spider-Man 4’ Die and Move On](https://gizmodo.com/sam-raimis-ready-to-let-spider-man-4-die-and-move-on-2000713711) *(Gizmodo – Technology)*
+- [ ] 2026-01-24 [Ring Launches Video Verification Tool to Combat Fakes](https://gizmodo.com/ring-launches-video-verification-tool-to-combat-fakes-2000713587) *(Gizmodo – Technology)*
+- [ ] 2026-01-24 [Coinbase Makes Preparations to Face Crypto’s Quantum Computing Threat](https://gizmodo.com/coinbase-makes-preparations-to-face-cryptos-quantum-computing-threat-2000713591) *(Gizmodo – Technology)*
+- [ ] 2026-01-24 [US Congress members call for 'thorough review' of EA's $55 billion sale](https://www.engadget.com/gaming/us-congress-members-call-for-thorough-review-of-eas-55-billion-sale-175851429.html?src=rss) *(Engadget)*
+- [ ] 2026-01-24 [NTSB will investigate why Waymo's robotaxis are illegally passing school buses](https://www.engadget.com/transportation/ntsb-will-investigate-why-waymos-robotaxis-are-illegally-passing-school-buses-160943613.html?src=rss) *(Engadget)*
+- [ ] 2026-01-24 [How to use Google Photos' new Me Meme feature](https://www.engadget.com/ai/how-to-use-google-photos-new-me-meme-feature-140000157.html?src=rss) *(Engadget)*
+- [ ] 2026-01-24 [How to use Workout Buddy with Apple Watch and iOS 26](https://www.engadget.com/wearables/how-to-use-workout-buddy-with-apple-watch-and-ios-26-130000922.html?src=rss) *(Engadget)*
+- [ ] 2026-01-24 [Engadget review recap: Valerion VisionMaster Max, Canon EOS R6 III and Samsung Bespoke Fridge](https://www.engadget.com/engadget-review-recap-valerion-visionmaster-max-canon-eos-r6-iii-and-samsung-bespoke-fridge-123000849.html?src=rss) *(Engadget)*
+- [ ] 2026-01-24 [Kiro CLI 1.24.0：スキル、カスタム Diff ツール、改善されたコードインテリジェンス、会話の圧縮 \| Amazon Web Services](https://aws.amazon.com/jp/blogs/news/kiro-cli-1-24-0/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [【個人開発】Claude Codeに83%のコードを書かせる「ドキュメント駆動開発」の全貌【Flutter向けCLAUDE.md公開】](https://zenn.dev/furunag/articles/claude-code-document-driven-development) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation!](https://qwen.ai/blog?id=qwen3tts-0115) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [Claude Code Best Practices](https://claude-code-best-practices.pages.dev/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [今、密かに起きている｢Windows離れ｣。“思ったより快適な移住先”とは？](https://www.gizmodo.jp/2026/01/some_windows_users_decide_to_change_linux.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [CarinaというTerraformライクなツールをつくりはじめた - Gosuke Miyashita](https://mizzy.org/blog/2026/01/24/1/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [【パソコンが買えない】本当は起きていないメモリー不足!? それでもPC向けメモリーの高騰が今年末頃まで続くと予想する理由 (1/3)](https://ascii.jp/elem/000/004/367/4367916/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [【初級向け】 AWS におけるセキュリティの考え方 \| DevelopersIO](https://dev.classmethod.jp/articles/for-beginners-security-concepts-in-aws/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [GitHub - ramonvermeulen/whosthere: Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪](https://github.com/ramonvermeulen/whosthere) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [アーキテクチャガイドライン振り返り（2025年）～15本を作成してみてどうだったか～ \| フューチャー技術ブログ](https://future-architect.github.io/articles/20260123a/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [エンジニアのAI疲れとの付き合い方](https://zenn.dev/karamage/articles/306f0c571e0af9) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [【Transformerとは？ - 導入回】機械学習素人が Transformer を理解するまでの記録](https://zenn.dev/hitama/articles/e3658ff1076d6e) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [State Transition: Dialogue-Only Intervention Causes Abrupt Mode Switch](https://zenn.dev/dosanko_tousan/articles/34a69b75c0e17b) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [RAGで「最強の学習シラバス」を作ろうとしたら、いつの間にかソクラテスに説教されるシステムが爆誕した話](https://zenn.dev/mizunadad/articles/c6e53cfa8bc1a5) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [Transformerアーキテクチャの変遷 ~Attention is All You Needからgpt-ossまで~](https://zenn.dev/sakaitomoaki/articles/edbfb63b54a966) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [LLMのグラウンディングツールで名寄せ精度99%を実現した登山道情報サイトの開発](https://zenn.dev/d3c0b/articles/ffba1788c2168e) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [Gemmaの振る舞いを操作してみた！Neuronpediaで学ぶSparse Autoencoder（SAE）入門](https://zenn.dev/50s_zerotohero/articles/b87da78fb35a9d) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [State Transition：対話介入だけでClaudeの出力モードが急変する現象の報告](https://zenn.dev/dosanko_tousan/articles/769e44ef70c626) *(Zenn – トピック LLM)*
