@@ -16642,3 +16642,39 @@
 - [ ] 2026-01-24 [どれだけ知っている？ AndroidベースのOSたち \| gihyo.jp](https://gihyo.jp/article/2026/01/android-weekly-topics-260122) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-24 [はてブのトプコメって何？](https://anond.hatelabo.jp/20260123130456) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-24 [人工知能に空間＆時間の4次元認識能力を与えるためのAI「D4RT」をGoogleが発表、「人間と同じように世界を認識できるAI」の開発に役立つ](https://gigazine.net/news/20260123-google-d4rt-4d-scene-ai/) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-24T12:16:45.840Z
+- [ ] 2026-01-24 [Gear News of the Week: Apple’s AI Wearable and a Phone That Can Boot Android, Linux, and Windows](https://www.wired.com/story/gear-news-of-the-week-apples-ai-wearable-and-a-phone-that-can-boot-android-linux-and-windows/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-24 [ICE Is Scanning Civilians’ Faces, Telling Them They’re Being Entered Into a Terrorism Database](https://futurism.com/artificial-intelligence/ice-database-facial-scan) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-24 [Singapore Pours $786 Million Into Race to Become AI Powerhouse](https://www.bloomberg.com/news/articles/2026-01-24/singapore-pours-786-million-into-race-to-become-ai-powerhouse) *(Bloomberg Technology)*
+- [ ] 2026-01-24 [The Artemis 2 Astronauts Will Observe Parts of the Moon Humans Have Never Laid Eyes On](https://gizmodo.com/the-artemis-2-astronauts-will-observe-parts-of-the-moon-humans-have-never-laid-eyes-on-2000713604) *(Gizmodo – Technology)*
+- [ ] 2026-01-24 [More Cult of the Lamb, a World War II computer mystery and other new indie games worth checking out](https://www.engadget.com/gaming/more-cult-of-the-lamb-a-world-war-ii-computer-mystery-and-other-new-indie-games-worth-checking-out-120000807.html?src=rss) *(Engadget)*
+- [ ] 2026-01-24 [家庭内の紙はすべてNotebookLMへ！スキャナー×GAS×Googleドキュメントで、超効率なペーパーレスを実現する方法！｜八重山智也 \| 学校の先生 \| 週末noteクリエイター](https://note.com/yamahachi_sensei/n/n1d8e9300fd61) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [原稿の確認依頼を行ったところ先方から「Geminiはこう言っています」とAIのコピペ修正案が送られてきて衝撃を受けた→「世に出てない原稿をAIに食わせたって事だよな...」](https://togetter.com/li/2655455) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [Claude Codeベストプラクティスまとめ](https://speakerdeck.com/minorun365/claude-codebesutopurakuteisumatome) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [GitHub Copilot SDKの発表](https://github.blog/jp/2026-01-23-build-an-agent-into-any-app-with-the-github-copilot-sdk/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [【10ギガ回線化顛末記】10ギガ回線がやってきた！ 速度を最大限に引き出すために宅内LANやPCを10GbE化する](https://internet.watch.impress.co.jp/docs/special/2076445.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [要件定義に不安があった実務3年目エンジニア、国際規格に救われる - Qiita](https://qiita.com/howanpin5525/items/dda01037624623a8e7ca) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [秋葉原のジャンク屋でやけに安く売られていたPC… ジャンク理由がパスワードロックだったので、BIOSロックを解除するつもりで買ってみたら、見たことない画面出てきて詰み](https://togetter.com/li/2655357) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [Go言語を使う開発者のAI使用状況や使用エディターなどが丸ごと分かる調査レポート2025年版が公開される](https://gigazine.net/news/20260123-go-developer-survey-2025/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [【もう迷わない】この1年は「AIの使い分け」で決まる、ChatGPT・Gemini・Copilot・Claudeの役割](https://www.sbbit.jp/article/cont1/178078) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [Oxlintはいいぞ](https://speakerdeck.com/yug1224/2026-01-23) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [速報！Playwright CLIがでた！ - Qiita](https://qiita.com/moritalous/items/97df9ff710914a806340?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [Microsoft、新開発ツール「winapp CLI」を発表。Windowsアプリ開発が一気にシンプルに \| ソフトアンテナ](https://softantenna.com/blog/winapp-preview/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [Crazy Jasmine](https://shop.itoen.jp/crazyjasmine/index.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [Google Gemini CLIをGoで再実装したら60倍以上速くなった](https://zenn.dev/abalol/articles/588f33425be41c) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [サーベイ: EC 事業者から見た Agentic Commerce のエコシステム](https://zenn.dev/aws_japan/articles/0e195cea7d4f04) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [Qwen3-TTSで任意の音声から声真似（Voice Clone）をする](https://zenn.dev/picada/articles/e34a72b3bb27d9) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [【衝撃】Claude Coworkが全てを変える！非エンジニアでもAIエージェントが使える神機能を徹底解説](https://zenn.dev/babushkai/articles/2026-01-23-claude-cowork-revolution) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [AIにコードを書かせてAIにレビューさせる開発スタイル](https://zenn.dev/sora_biz/articles/641736cdc579fa) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [Claude Codeが動かない時に見るページ（Windows編）](https://zenn.dev/sora_biz/articles/098fcde7616182) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [Claude Codeを使いこなす！知っておきたい便利機能まとめ](https://zenn.dev/sora_biz/articles/f2260aa9006dd3) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [おっさんがWindowsでClaude Codeを使えるようになるまで](https://zenn.dev/sora_biz/articles/aece6ef26ce61d) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [【連載#1】Raspberry Pi × FlutterでフィジカルAI：動くデモから使える形へ（全体像と設計の型）](https://zenn.dev/docbrown/articles/9aa79ecacfa44c) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [なぜ、ChatGPTは昔のモデルほど左派贔屓なのか？](https://zenn.dev/pdfractal/articles/21fa09bc8ee6f7) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [【SNN-LLM】言語モデル構築に大苦戦中…でも脳の構造を模倣した11次元ハイパーキューブでPPL 65%改善！](https://zenn.dev/cell_activation/articles/cf03a3991c1186) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [エンジニアの仕事がAIで置き換え可能なんて悲しいこと、簡単に言わないで欲しい](https://zenn.dev/ispec_inc/articles/82e30345ca4b1b) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [YomiTokuの中身を調べる](https://zenn.dev/watanko/articles/36fa8fc58423e9) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [CuraQの技術的な話　〜技術選定編〜](https://zenn.dev/ogi1211/articles/curaq-techstack) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [LLM/Agent評価は「分類」より「ラベリング」：あとから切れるデータ設計](https://zenn.dev/ktechb/articles/tag-is-better-than-category) *(Zenn – トピック 機械学習)*
