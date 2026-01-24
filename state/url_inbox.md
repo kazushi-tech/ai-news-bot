@@ -16558,3 +16558,67 @@
 - [ ] 2026-01-23 [SoundSourceのようにアプリ別にサウンドを出力するオーディオデバイスやボリューム、EQを設定できるMac用オーディオコントローラー「FineTune」がリリース。](https://applech2.com/archives/20260123-finetune-macos-audio-control-and-routing.html) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-23 [SUPERや60は出なかったが、ソフトの力でこれだけスゴくなったGeForce RTX](https://pc.watch.impress.co.jp/docs/news/2080233.html) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-23 [定番音楽プレイヤー「foobar2000」に緊急更新、Windowsセキュリティパッチの影響で不具合／アップデートを強く推奨](https://forest.watch.impress.co.jp/docs/news/2080149.html) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-24T00:45:31.038Z
+- [ ] 2026-01-23 [‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort](https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-23 [Serve Robotics Acquires Hospital Assistant Robot Company](https://aibusiness.com/robotics/serve-robotics-acquires-hospital-robot-company) *(AI Business)*
+- [ ] 2026-01-23 [Daily Tech Insider Spotlights the Week Silicon Sprouted Legs and Lanyards](https://www.techrepublic.com/article/news-best-of-dti-jan-20-23-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-23 [Nvidia Director Persis Drell Leaves Board for Other Opportunity](https://www.bloomberg.com/news/articles/2026-01-23/nvidia-director-persis-drell-leaves-board-for-other-opportunity) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Tony Fadell on Apple's AI Aims, 'crazy' Tech Talent Wars](https://www.bloomberg.com/news/videos/2026-01-23/tony-fadell-on-apple-s-ai-aims-crazy-tech-talent-wars-video) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Waymo Probed by US Safety Agency Over Austin School Bus Mishaps](https://www.bloomberg.com/news/articles/2026-01-23/waymo-probed-by-us-safety-agency-over-austin-school-bus-mishaps) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Fitch Upgrades Turkey’s Rating Outlook, Moody’s Stays Put](https://www.bloomberg.com/news/articles/2026-01-23/fitch-upgrades-turkey-s-rating-outlook-moody-s-stays-put) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Former TikTok CEO Mayer on US Deal: 'It's About Time'](https://www.bloomberg.com/news/videos/2026-01-23/former-tiktok-ceo-mayer-on-us-deal-it-s-about-time-video) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Texas Seeing Little Wind Power During Massive Winter Storm](https://www.bloomberg.com/news/articles/2026-01-23/texas-seeing-little-wind-power-as-massive-winter-storm-descends) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Intel’s Stock Meltdown Risks Eroding Trump-Endorsed Comeback](https://www.bloomberg.com/news/articles/2026-01-23/intel-s-stock-meltdown-risks-eroding-trump-endorsed-comeback) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [TikTok’s New CEO Brings Hollywood Connections, ByteDance Loyalty](https://www.bloomberg.com/news/articles/2026-01-23/tiktok-s-new-ceo-brings-hollywood-connections-bytedance-loyalty) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Intel Falls as Manufacturing Snags Bedevil Comeback \| Bloomberg Tech 1/23/2026](https://www.bloomberg.com/news/videos/2026-01-23/bloomberg-tech-1-23-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Meta, EssilorLuxottica Sued in Smart Glasses Patent Case](https://www.bloomberg.com/news/articles/2026-01-23/meta-essilorluxottica-sued-in-smart-glasses-patent-case) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [This Ice Storm Will Test the Grid’s New Batteries](https://www.bloomberg.com/news/videos/2026-01-23/opinion-ice-storm-will-test-the-grid-s-batteries-video) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [ByteDance Emerges From TikTok Saga With ‘Major Win’ on US Access](https://www.bloomberg.com/news/articles/2026-01-23/bytedance-emerges-from-tiktok-saga-with-major-win-on-us-access) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Clarity Act Is Good For Crypto Industry: BitGo CEO](https://www.bloomberg.com/news/videos/2026-01-23/clarity-act-is-good-for-crypto-industry-bitgo-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [Star AI Researcher’s New Lab in Talks for $4 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-01-23 [‘Spider-Man’ Director Sam Raimi Would Love to Take on Batman](https://gizmodo.com/spider-man-director-sam-raimi-would-love-to-take-on-batman-2000713581) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Tesla Appears to Have Moved Its Robotaxi Safety Monitors to a More Sneaky Location](https://gizmodo.com/tesla-appears-to-have-moved-its-robotaxi-safety-monitors-to-a-more-sneaky-location-2000713566) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Now That ‘Sinners’ Broke Oscars Records, Warner Bros. Really Wants You to See It in Theaters Again](https://gizmodo.com/sinners-oscars-record-imax-rerelease-2000713578) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Microsoft Reportedly Turned Over BitLocker Encryption Keys to the FBI](https://gizmodo.com/microsoft-reportedly-turned-over-bitlocker-encryption-keys-to-the-fbi-2000713550) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [A Brief History of Fictional ‘Star Trek’ Sports](https://gizmodo.com/star-trek-fake-sports-calica-starfleet-academy-2000713435) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Tesla Kills Standard Autopilot as It Pushes Buyers to Subscription-Based Option](https://gizmodo.com/tesla-kills-standard-autopilot-as-it-pushes-buyers-to-subscription-based-option-2000713524) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [AI Agents Are Poised to Hit a Mathematical Wall, Study Finds](https://gizmodo.com/ai-agents-are-poised-to-hit-a-mathematical-wall-study-finds-2000713493) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [‘A Knight of the Seven Kingdoms’ Is Very Deliberately Told Entirely From Dunk’s POV](https://gizmodo.com/knight-of-the-seven-kingdoms-interview-dunk-2000713458) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [NASA’s Next Moon Rocket Runs on Shuttle Engines—Here’s the Story Behind Each One](https://gizmodo.com/nasas-next-moon-rocket-runs-on-shuttle-engines-heres-the-story-behind-each-one-2000713485) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [This Lamp Visualizes the Perpetual Electromagnetic Storm in Which We Live](https://gizmodo.com/this-lamp-visualizes-the-perpetual-electromagnetic-storm-in-which-we-live-2000713462) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [‘The Muppet Show’ Special Drops a Gently Kinky Full Trailer](https://gizmodo.com/muppet-show-2026-trailer-sabrina-carpenter-miss-piggy-2000713479) *(Gizmodo – Technology)*
+- [ ] 2026-01-23 [Google Photos can now turn you into a meme](https://www.engadget.com/ai/google-photos-can-now-turn-you-into-a-meme-213930935.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [A rival smart glasses company is suing Meta over its Ray-Ban products](https://www.engadget.com/wearables/a-rival-smart-glasses-company-is-suing-meta-over-its-ray-ban-products-205000997.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Retro handheld maker Anbernic has a new gamepad with a screen and heart rate sensor](https://www.engadget.com/gaming/retro-handheld-maker-anbernic-has-a-new-gamepad-with-a-screen-and-heart-rate-sensor-201651899.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Apple will begin showing more App Store ads starting in March](https://www.engadget.com/apps/apple-will-begin-showing-more-app-store-ads-starting-in-march-192031226.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Vimeo lays off most of its staff just months after being bought by private equity firm](https://www.engadget.com/big-tech/vimeo-lays-off-most-of-its-staff-just-months-after-being-bought-by-private-equity-firm-184556023.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Tesla paywalls lane centering on new Model 3 and Model Y purchases](https://www.engadget.com/transportation/evs/tesla-paywalls-lane-centering-on-new-model-3-and-model-y-purchases-184000707.html?src=rss) *(Engadget)*
+- [ ] 2026-01-23 [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop) *(OpenAI News)*
+- [ ] 2026-01-24 [梅干しを作る梅農家だけど社内エンジニアと協力して梅の選別機を自社開発してます→外注するととんでもなく金がかかるので自分たちで作ることにしたらしい](https://togetter.com/li/2655118) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [NVIDIA PersonaPlex: Natural Conversational AI With Any Role and Voice](https://research.nvidia.com/labs/adlr/personaplex/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-24 [『メダリスト』最新14巻のレビューが大荒れ！電子版巻末の別作品試し読み掲載に賛否両論](https://posfie.com/@kndl_fanfun/p/eRqmUD1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [Linuxの創始者トーバルズ氏が語る、AIや開発の“これから”を3分でまとめ（TechTargetジャパン） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/06cf3828ae6d1a5eee03e1595406dd73b8a14e4e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [業界初VIO専用の電動洗浄ブラシ、パナソニック - 家電 Watch](https://kaden.watch.impress.co.jp/docs/news/2080217.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [【GAS×Gemini】UI/UX意識した社内Webアプリを15分で作るプロンプト](https://zenn.dev/akari1106/articles/02d77cce7efae4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [「不正決済に気を付けて」──PayPayが注意喚起　SIMを乗っ取りSMS認証突破](https://www.itmedia.co.jp/mobile/articles/2601/23/news118.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [3つ折りスマホ「Galaxy Z TriFold」を1週間使って感じた“真価”　これは2つ折りの上位互換ではない](https://www.itmedia.co.jp/mobile/articles/2601/23/news081.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [Windows 11を安心・安全・快適に「再構築」する最適化ツール「Sparkle」とは](https://atmarkit.itmedia.co.jp/ait/articles/2601/23/news009.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-23 [WindowsでコピーしたMarkdownテキストをHTMLに変換するスクリプト](https://zenn.dev/abeshunyah/articles/17987efc775266) *(Zenn – トピック LLM)*
+- [ ] 2026-01-23 [LLMアプリにおける「階層型メモリ」の実装パターン (Deep Journal開発事例)](https://zenn.dev/monozuki_club/articles/37a4f74b28f996) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [MetaScript:手書き文字を生成する](https://zenn.dev/milktear/articles/67bdcec5d875ff) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [AIで作る業務動画 Day 24｜制作時間を計測してボトルネックを特定する](https://zenn.dev/akira_cloudjob/articles/20260124-production-time-analysis) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [Qwen3-TTSってなんだ？〜3秒の音声でボイスクローンできる最新AIを日本語版つくってみた〜](https://zenn.dev/rick_lyric/articles/4d0f6411a43249) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [Claude Code hooks × PowerShellで実現するエージェント・スキルの自動バージョン管理](https://zenn.dev/mjinia/articles/fbcf12774dbb75) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [【Claude Code】カスタムスラッシュコマンドがスキルに統合されました](https://zenn.dev/tmasuyama1114/articles/cc_commands_merged_into_skills) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [GitHub Actions自動レビューを構築する過程で気づいたContext Engineeringの本質](https://zenn.dev/smatsuda/articles/c573f7269cfc22) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [チャット上で「こんな機能欲しい」と言ったら自動実装してくれるAIパートナーを作ってみた](https://zenn.dev/sizukutamago/articles/5b954deb415ea4) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [【Google AI Studio】デモ⑤動画の解析](https://zenn.dev/sesamy_jp/articles/c637a1169e1ac7) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [Claude Code公式Best Practices実践ガイド：品質・効率・チーム開発に効く重要10項目](https://zenn.dev/yujmatsu/articles/20260124_claude_code_best_practices) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [【GitHub Copilot】 プロジェクトを「AI Ready」にするためにまずは AGENTS.md を作ろう](https://zenn.dev/longbow/articles/20260123_ai_ready_project) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [【保存版】Claude Codeが「実務で使える」ようになる最強構成：Superpowers × 外部メモリ運用（Affaan方式）](https://zenn.dev/yu8ro/articles/654cfa2405bc56) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [Google推奨の5要素でAIを「最強のメンター」に変えるプロンプト術](https://zenn.dev/ak_yoshimatsu/articles/prompt-programming-20260123) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [4-③[AI][Kaggle][python]Kaggle入門(中級機械学習 2.カテゴリ変数)](https://zenn.dev/rg687076/articles/ca86ff28e6a56f) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [TUIでPR diffを見ながら裏でAIが勝手に修正&レビューをし続けるRust製tool「octorus」](https://zenn.dev/ushironoko/articles/90d34dd61a1825) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [GitHub Copilot アンチ層に良さをどう伝えるかの奮闘物語](https://zenn.dev/syoshida07/articles/d4166ba5c39f6e) *(Zenn – トピック AI)*
+- [ ] 2026-01-23 [エンジニア採用をAI投資で補う組織の実装パターンと未来展望](https://zenn.dev/mjinia/articles/d8efd5e04ad687) *(Zenn – トピック AI)*
