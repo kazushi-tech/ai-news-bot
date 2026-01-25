@@ -16753,3 +16753,30 @@
 - [ ] 2026-01-24 [Google DeepMind CEOとAnthropic CEOが世界経済フォーラムで対談！（気になった点日本語にまとめました）](https://zenn.dev/cawa102/articles/6f16239b6baf5d) *(Zenn – トピック AI)*
 - [ ] 2026-01-24 [【美食×機械学習】究極の「旨い」を演算する：AIが変える食の未来](https://zenn.dev/yuichirominato/articles/4d9aa0dd724f1a) *(Zenn – トピック 機械学習)*
 - [ ] 2026-01-24 [【Colabで動く】Qwen3-TTSを試す：3秒の音声で高品質なVoice Clone（日本語対応）](https://zenn.dev/gakuto_maruyama/articles/bfd77dd4883e1c) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-25T06:15:38.481Z
+- [ ] 2026-01-25 [AI-generated British schoolgirl becomes far-right social media meme](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-25 [Why Super Group Is Betting on Gambling in Africa](https://www.bloomberg.com/news/videos/2026-01-25/why-super-group-is-betting-on-gambling-in-africa) *(Bloomberg Technology)*
+- [ ] 2026-01-25 [Free-Solo Climber Honnold Conquers Taipei 101 Live on Netflix](https://www.bloomberg.com/news/articles/2026-01-25/netflix-s-high-risk-skyscraper-climb-begins-after-24-hour-delay) *(Bloomberg Technology)*
+- [ ] 2026-01-25 [Lawsuit Claims Meta Can See WhatsApp Chats in Breach of Privacy](https://www.bloomberg.com/news/articles/2026-01-25/lawsuit-claims-meta-can-see-whatsapp-chats-in-breach-of-privacy) *(Bloomberg Technology)*
+- [ ] 2026-01-25 [Clawdbotを触ってみよう！｜むなかた AI×Web3エンジニア](https://note.com/munakata_souri/n/n27248643c6d1) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-25 [プロンプトを2回繰り返すだけでAIの正答率が上がるとGoogle Researchが報告](https://gigazine.net/news/20260125-prompt-repetition-improves-non-reasoning-llms/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-25 [これが無料は凄すぎる｜筑波大学教授のPython講義資料が本気で役に立つ - Smart Watch Life｜日本初のスマートウォッチ専門メディア](https://www.smartwatchlife.jp/62763/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-25 [GitHub - nyanko3141592/remotion-voicevox-template: Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）](https://github.com/nyanko3141592/remotion-voicevox-template) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-25 [Web3をロールバックしてWeb2.1ブランチからやり直そう - 太陽がまぶしかったから](https://www.du-soleil.com/entry/web21-zero-nendai-nostalgia) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-25 [How I estimate work as a staff software engineer](https://www.seangoedecke.com/how-i-estimate-work/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [GitHub Copilot CLIは、gpt-5.2-codex xhighに複雑なレビューを依頼しても1回4円](https://zenn.dev/nuits_jp/articles/2026-01-26-cheet-of-copilot) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [VS Code の GitHub Copilot 設定、多すぎて分からない？〜 settings.json 完全ガイド〜 - Qiita](https://qiita.com/aktsmm/items/8096f9d9ccbe4666d85d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [CVEと何が違う？　無償で利用できる新時代の脆弱性共有モデルが登場](https://www.itmedia.co.jp/enterprise/articles/2601/24/news017.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [AIのせいでオープンソースの「tldraw」が外部コントリビューターからのプルリクエストをクローズ](https://gigazine.net/news/20260124-tldraw-pause-ext-contrib/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [Anthropic CEOの「ソフトウェアエンジニアリングは12ヵ月で完全に自動化する」発言は鵜呑みにできない - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/01/23/131828) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [「Appleが放置しているバグ」を集めたウェブサイト](https://gigazine.net/news/20260124-bugs-apple-loves/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [大企業の 66.8 ％がセキュリティ不備を理由に取引停止や契約更新を見送る しかし取引停止された中小企業は景気悪化等が理由と誤認識 \| ScanNetSecurity](https://scan.netsecurity.ne.jp/article/2026/01/23/54460.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [セブン-イレブンで3つある印刷アプリは何が違う？　料金差やメリット・デメリットを整理](https://www.itmedia.co.jp/mobile/articles/2601/25/news021.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [Tailwind CSS × React に cn が必要な理由](https://zenn.dev/rrr068/articles/261589f69dddbe) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [PC値上がりしすぎてタイムスリップ発生か？2023年グレードのノートPCが新発売](https://www.gizmodo.jp/2026/01/new-pc-old-specs.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [Google ColabでフルスクラッチLLMを学習してみた話](https://zenn.dev/shusuke_bridge/articles/f9985f295bed75) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [【Transformerとは？ - 第一回】Transformerとは？（概要）](https://zenn.dev/hitama/articles/f99952bac1a352) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [【25日目】Databricks Advent Calendar 2025 総まとめ 〜Databricksの発展的トピックを添えて〜](https://zenn.dev/churadata/articles/ef25a46d94d73d) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [3DGSを商用利用したい人へ：1000FPS達成した独自ラスタライザを作った話](https://zenn.dev/amabito/articles/hyper-rasterizer-zenn) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-25 [【有料】3DGSラスタライザをCUDAで実装する：1000FPS達成の全技術](https://zenn.dev/amabito/articles/hyper-rasterizer-impl-paid) *(Zenn – トピック 機械学習)*
