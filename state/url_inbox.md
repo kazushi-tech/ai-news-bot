@@ -16780,3 +16780,41 @@
 - [ ] 2026-01-24 [【25日目】Databricks Advent Calendar 2025 総まとめ 〜Databricksの発展的トピックを添えて〜](https://zenn.dev/churadata/articles/ef25a46d94d73d) *(Zenn – トピック AI)*
 - [ ] 2026-01-25 [3DGSを商用利用したい人へ：1000FPS達成した独自ラスタライザを作った話](https://zenn.dev/amabito/articles/hyper-rasterizer-zenn) *(Zenn – トピック 機械学習)*
 - [ ] 2026-01-25 [【有料】3DGSラスタライザをCUDAで実装する：1000FPS達成の全技術](https://zenn.dev/amabito/articles/hyper-rasterizer-impl-paid) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-25T12:18:15.039Z
+- [ ] 2026-01-25 [AI needs to augment rather than replace humans or the workplace is doomed \| Heather Stewart](https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-25 [Asset Manager Warns That OpenAI Is Likely Headed for Financial Disaster](https://futurism.com/artificial-intelligence/asset-manager-openai-financial-disaster) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-25 [Robosen’s $1,400 Soundwave Transformer Is a Sick Robot and Sad Bluetooth Speaker](https://gizmodo.com/robosens-1400-soundwave-transformer-is-a-sick-robot-and-sad-bluetooth-speaker-2000713454) *(Gizmodo – Technology)*
+- [ ] 2026-01-25 [「ヴァイブコーディング」っていう言葉は2026年なくなるんじゃないか。 - Qiita](https://qiita.com/cozyupk/items/bf5637f40d59e18c4d5e) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-25 [フィールズ賞のテレンス・タオ氏、「GPT-5.2 Proが数学の未解決問題をほぼ自律的に解き切った」と評価──エルデシュ問題#728で示されたAIの新たな到達点 \| Ledge.ai](https://ledge.ai/articles/ai_autonomous_solution_erdos_problem_728) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-25 [超音波洗浄機を見る度に『コレに頭突っ込んだら全ての毛穴から皮脂がブゥワァァァって出てきて鼻とか頭皮とかめっちゃスッキリするのでは』と妄想している](https://togetter.com/li/2655784) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [【元経理】実務で本当に使えたExcelの小技５選 - Qiita](https://qiita.com/2000na/items/e41062344f0b86049a68) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [旦那さんからのリクエストで作った “朝食用食券機” が完成度高くてすごい「何この技術力!」「中身どうなってる?」](https://togetter.com/li/2655846) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [『サピエンス全史』のハラリ氏、AIの影響は「200年先」を考えて判断すべきだと警告 \| Business Insider Japan](https://www.businessinsider.jp/article/2601-sapiens-author-ai-timeline-warning-lack-of-concer/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [【考察】React は何故こんなに分かりにくいのか？](https://zenn.dev/ak0047/articles/2026-01-react-difficulty) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [Python でSQL使えること知らなかったので、野球データ分析を書き直してみた - Qiita](https://qiita.com/ussu_ussu_ussu/items/cd2df0697393b7e204ab) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [Microsoftが顧客データの暗号化を解除する回復キーをFBIに引き渡していたことが明らかに](https://gigazine.net/news/20260125-microsoft-bitlocker-encryption-keys-fbi/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [6 Windows 11 features I ignored for years and now use daily](https://www.makeuseof.com/underrated-windows-11-features-worth-using/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [なぜ、別のLLM AIにセカンドオピニオンを求めることでハルシネーションを防ごうという試みは無駄なのか？](https://zenn.dev/pdfractal/articles/f0cbb71910e7cd) *(Zenn – トピック LLM)*
+- [ ] 2026-01-25 [SVD-LLM: SVD（特異値分解）ベースの効率的な重み行列の圧縮手法](https://zenn.dev/yoshi12/articles/967562c15115f5) *(Zenn – トピック LLM)*
+- [ ] 2026-01-25 [llms.txtをAgent skillsにするCLIを作った](https://zenn.dev/akuwano/articles/aa723289f3460e) *(Zenn – トピック LLM)*
+- [ ] 2026-01-25 [Claude Codeが「なぜか動かない」を解決する公式ベストプラクティス](https://zenn.dev/sexygo/articles/bba36f0f9d35a9) *(Zenn – トピック LLM)*
+- [ ] 2026-01-25 [Claude Code中級者を目指す！サブエージェントの作成から実行TIPSまで！](https://zenn.dev/saito3815/articles/claude-code-subagent-tips) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [Claude × 複数MCP で RFC 翻訳ワークフローを自動化してみた](https://zenn.dev/shuji_bonji/articles/eb24061249121e) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [v5.3 ドラッグリポジショニング監査システム　Part 2: 実装編 ― Google Colabで完全再現可能なシステム構築](https://zenn.dev/dosanko_tousan/articles/01bf5fe766da98) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [AIにデバッグを丸投げしていませんか？Claude Codeで「推測の無限連鎖」から抜け出す方法](https://zenn.dev/kuma8088/articles/ai-debugging-systematic-approach) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [Claude Code Skillsで実装からレビューまで全部自動化してみた](https://zenn.dev/neurostack_0001/articles/claude-code-skills-review-automation) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [Vibe Codingで英語学習：音声入力×AIで「ながら勉強」するワークフロー](https://zenn.dev/humuhimi/articles/9e8ed7146eaf6b) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [自動運転が当たり前の未来の交通を考える ~AIエージェント×ステーブルコイン決済~](https://zenn.dev/mameta29/articles/325569b451b2a0) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [個人開発で「何を作るか」に悩んだときの考え方](https://zenn.dev/ktg/articles/e01cba40984d3f) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [Claude Code Proプランで5時間制限に引っかからないための運用術](https://zenn.dev/nenene01/articles/claude-code-rate-limit-tips) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [Agent Skills解説~物語で理解したい人向け~](https://zenn.dev/tonnura/articles/f23742cb674d25) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [【完全版】GAS×Geminiで毎朝"自分専用"ニュースが届く仕組みを作った](https://zenn.dev/noprogllama/articles/3090ca92e267ed) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [【保存版】RalphとClaude Codeで「完全自律開発環境」を構築する完全ガイド](https://zenn.dev/babushkai/articles/2026-01-25-ralph-claude-code-ultimate-setup) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [【完全自動化】寝てる間にAIがコード書いてくれる「Ralph」が革命的すぎる件](https://zenn.dev/babushkai/articles/2026-01-25-ralph-autonomous-ai-agent) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [v5.3 ドラッグリポジショニング監査システム　Part 1: 理論編 ― なぜAIは「効く」と言ってはいけないのか](https://zenn.dev/dosanko_tousan/articles/3db67f831e6d7d) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [WebディレクターがAIにChrome拡張を作ってもらったらコピペが減って自己肯定感が上がった話](https://zenn.dev/mediaid/articles/2b0c90399b8b2c) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [AIで作ったChrome拡張機能をWXTでリプレイスした話](https://zenn.dev/cti1650/articles/wxt_replace_ai_extension) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [GitHub Copilotで選べるOpenAI GPT系モデルの選び方](https://zenn.dev/katsuhisa_/articles/github-copilot-models-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [vllm-neuron を用いた LLM 推論とその測定方法の調査](https://zenn.dev/tosshi/articles/ef61e14fe73399) *(Zenn – トピック 機械学習)*
