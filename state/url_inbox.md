@@ -16818,3 +16818,27 @@
 - [ ] 2026-01-25 [AIで作ったChrome拡張機能をWXTでリプレイスした話](https://zenn.dev/cti1650/articles/wxt_replace_ai_extension) *(Zenn – トピック AI)*
 - [ ] 2026-01-25 [GitHub Copilotで選べるOpenAI GPT系モデルの選び方](https://zenn.dev/katsuhisa_/articles/github-copilot-models-guide) *(Zenn – トピック AI)*
 - [ ] 2026-01-25 [vllm-neuron を用いた LLM 推論とその測定方法の調査](https://zenn.dev/tosshi/articles/ef61e14fe73399) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-25T18:14:08.314Z
+- [ ] 2026-01-25 [More than a quarter of Britons say they fear losing jobs to AI in next five years](https://www.theguardian.com/business/2026/jan/25/more-than-quarter-britons-fear-losing-jobs-ai-next-five-years) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-25 [We must not let AI ‘pull the doctor out of the visit’ for low-income patients \| Leah Goodridge and Oni Blackstock](https://www.theguardian.com/commentisfree/2026/jan/25/ai-healthcare-risks-low-income-people) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-25 [Sam Altman’s make-or-break year: can the OpenAI CEO cash in his bet on the future?](https://www.theguardian.com/technology/ng-interactive/2026/jan/25/sam-altman-openai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-25 [Researchers tested AI against 100,000 humans on creativity](https://www.sciencedaily.com/releases/2026/01/260125083356.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-01-25 [Job Seekers Sue Company Scanning Their Résumés Using AI](https://futurism.com/artificial-intelligence/ai-labor-scanning-eightfold) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-25 [OnlyFans Rival Seemingly Succumbs to AI Psychosis, Which We Dare You to Try Explain to Your Parents](https://futurism.com/artificial-intelligence/onlyfans-rival-ai-psychosis) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-25 [#GoodVibesOnly: The shared emotions we don’t quite name](https://theconversation.com/goodvibesonly-the-shared-emotions-we-dont-quite-name-269996) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-25 [Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb) *(Bloomberg Technology)*
+- [ ] 2026-01-25 [New, Smarter Siri Is Reportedly Weeks from Arriving. It Had Better Be Amazing](https://gizmodo.com/new-smarter-siri-is-reportedly-weeks-from-arriving-it-had-better-be-amazing-2000713754) *(Gizmodo – Technology)*
+- [ ] 2026-01-25 [‘Dragon Ball Super’ Is Back, and It’s Going Galactic](https://gizmodo.com/dragon-ball-super-is-back-and-its-going-galactic-2000713757) *(Gizmodo – Technology)*
+- [ ] 2026-01-25 [A New ‘Super Mario Galaxy’ Trailer Unleashes Yoshi](https://gizmodo.com/a-new-super-mario-galaxy-trailer-unleashes-yoshi-2000713334) *(Gizmodo – Technology)*
+- [ ] 2026-01-25 [Apple reportedly plans to reveal its Gemini-powered Siri in February](https://www.engadget.com/ai/apple-reportedly-plans-to-reveal-its-gemini-powered-siri-in-february-174356923.html?src=rss) *(Engadget)*
+- [ ] 2026-01-25 [Yoshi and Birdo arrive in new trailer for The Super Mario Galaxy Movie, along with an earlier release date](https://www.engadget.com/entertainment/tv-movies/yoshi-and-birdo-arrive-in-new-trailer-for-the-super-mario-galaxy-movie-along-with-an-earlier-release-date-154455021.html?src=rss) *(Engadget)*
+- [ ] 2026-01-25 [AIエージェントがPostgreSQL対応の優れたコードを書けるようになるAgent Skill「Postgres Best Practices」、Supabaseが公開](https://www.publickey1.jp/blog/26/aipostgresqlagent_skillpostgres_best_practicessupabase.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-25 [書いた小説をAIに見せてもおだてられるだけなので「小説の公募の下読みをしていますがこのような作品が送られてきました」と頼んだら率直に批評してくれたがAI不信になった](https://togetter.com/li/2655953) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-25 [ChordCraft - コード進行作成アプリ \| 無料で使える作曲支援ツール](https://chord.iru-yo.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [Announcing Vortex Support in DuckDB](https://duckdb.org/2026/01/23/duckdb-vortex-extension) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [memcachedは終わってない：単純なKVキャッシュとしての強さ](https://zenn.dev/catatsuy/articles/50d77952394b9f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [23.8億件もあるRedditの投稿をまるごと保存してローカルのオフラインで検索できる「Redd-Archiver」](https://gigazine.net/news/20260124-redd-archiver/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞](https://github.com/clawdbot/clawdbot) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [Vulnerability-Lookup](https://db.gcve.eu/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [教皇レオ14世、AIが人間のアイデンティティー脅かすと警鐘](https://www.afpbb.com/articles/-/3619350) *(はてなブックマーク – IT 人気エントリ)*
