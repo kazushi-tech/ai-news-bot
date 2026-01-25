@@ -16715,3 +16715,41 @@
 - [ ] 2026-01-24 [LLMのグラウンディングツールで名寄せ精度99%を実現した登山道情報サイトの開発](https://zenn.dev/d3c0b/articles/ffba1788c2168e) *(Zenn – トピック LLM)*
 - [ ] 2026-01-24 [Gemmaの振る舞いを操作してみた！Neuronpediaで学ぶSparse Autoencoder（SAE）入門](https://zenn.dev/50s_zerotohero/articles/b87da78fb35a9d) *(Zenn – トピック LLM)*
 - [ ] 2026-01-24 [State Transition：対話介入だけでClaudeの出力モードが急変する現象の報告](https://zenn.dev/dosanko_tousan/articles/769e44ef70c626) *(Zenn – トピック LLM)*
+
+## Collected on 2026-01-25T00:52:57.324Z
+- [ ] 2026-01-24 [Australian journalism ‘sidelined’ in AI-generated news summaries on Copilot, research shows](https://www.theguardian.com/media/2026/jan/25/ai-generated-news-summaries-microsoft-copilot-australian-journalism) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-25 [A Tale of Two Economies Is Reshaping China’s Stock Market](https://www.bloomberg.com/news/articles/2026-01-25/a-tale-of-two-economies-is-reshaping-china-s-stock-market) *(Bloomberg Technology)*
+- [ ] 2026-01-24 [OpenAI Partners with Major Government Contractor to ‘Transform Federal Operations’](https://gizmodo.com/openai-partners-with-major-government-contractor-to-transform-federal-operations-2000713751) *(Gizmodo – Technology)*
+- [ ] 2026-01-24 [Hasbro Suit Alleges Overprinted ‘Magic: The Gathering’ Cards](https://gizmodo.com/hasbro-suit-alleges-overprinted-magic-the-gathering-cards-2000713744) *(Gizmodo – Technology)*
+- [ ] 2026-01-24 [Report Says the E.U. Is Gearing Up to Weaponize Europe’s Tech Industry Against the U.S.](https://gizmodo.com/report-says-the-e-u-is-gearing-up-to-weaponize-europes-tech-industry-against-the-u-s-2000712327) *(Gizmodo – Technology)*
+- [ ] 2026-01-24 [Report reveals that OpenAI's GPT-5.2 model cites Grokipedia](https://www.engadget.com/ai/report-reveals-that-openais-gpt-52-model-cites-grokipedia-192532977.html?src=rss) *(Engadget)*
+- [ ] 2026-01-24 [Google says it's working to fix Gmail issue that's led to flooded inboxes and increased spam warnings](https://www.engadget.com/apps/google-says-its-working-to-fix-gmail-issue-thats-led-to-flooded-inboxes-and-increased-spam-warnings-183358654.html?src=rss) *(Engadget)*
+- [ ] 2026-01-25 [Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！ - Qiita](https://qiita.com/degudegu2510/items/eff0f63dac99554e6439) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-25 [新しいデザインツール Pencil を試してみた](https://azukiazusa.dev/blog/new-design-tool-pencil/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-25 [スペック駆動開発 ツール分業が生んだ設計不在という問題 - Qiita](https://qiita.com/mellowlaunch/items/441440ef6ec6c1d31b99) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-25 [再びさよならApple](https://anond.hatelabo.jp/20260124165407) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [スマホの「アプリを探す時間」が減った！ Pixelの画面の端に自分専用の置き場を作ってみた \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2601how-to-get-samsung-galaxy-best-feature-on-your-pixel-or-any-android/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [テスラを出し抜いたボストン・ダイナミクス──人型ロボ「Atlas」が工場の現場を闊歩する \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/90065) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [AWS Lambda の Provisioned Concurrency を平日日中帯のみ有効にする設定を AWS CDK で実装してみた（Application Auto Scaling 使用版） \| DevelopersIO](https://dev.classmethod.jp/articles/aws-lambda-provisioned-concurrency-application-auto-scaling-cdk/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [堀義人のダボス会議2026（7）ダボス会議のまとめ \| GLOBIS学び放題×知見録](https://globis.jp/article/qg5kva2qsp8/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [RatatuiRuby — Terminal UIs in Ruby](https://www.ratatui-ruby.dev/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-24 [Claude Codeを使いこなす！知っておきたい便利機能まとめ](https://zenn.dev/sora_biz/articles/claude-code-tips-and-features) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [AIにコードを書かせてAIにレビューさせる開発スタイル](https://zenn.dev/sora_biz/articles/claude-code-ai-review-workflow) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [OpenAI API 徹底解剖：Part1 Completions API](https://zenn.dev/tasohauska/articles/ce684c6287f078) *(Zenn – トピック LLM)*
+- [ ] 2026-01-24 [AIで作る業務動画 Day 25｜3種類の動画制作から得たベストプラクティス](https://zenn.dev/akira_cloudjob/articles/20260125-best-practices-and-retrospective) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [Claude Codeが動かない時に見るページ（Windows編）](https://zenn.dev/sora_biz/articles/claude-code-windows-troubleshoot) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [非エンジニアがWindowsでClaude Codeを使えるようになるまで](https://zenn.dev/sora_biz/articles/claude-code-windows-install-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [【副業】ITエンジニアならバグバウンティを始めよう—AIで効率化する脆弱性調査](https://zenn.dev/y1uda/articles/d7380854d650ef) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [docs をどう使っているか（運用と循環）](https://zenn.dev/nonamecode/articles/d2897db878319d) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [「誰でも作れる時代」に個人開発をする意味](https://zenn.dev/ktg/articles/598f57c39eb1d9) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [# Google Opal vs n8n 徹底比較レポート](https://zenn.dev/wangsh/articles/7d6d63ea2c6a00) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [AI開発における知識の定着のしづらさと抗い方](https://zenn.dev/hyokokkooko/articles/e5377427a6752f) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [生成AIの限界と可能性 天気予報を題材に考える](https://zenn.dev/syoshida07/articles/43821f94513ee9) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [情報過多の時代を生き抜く『軸』の持ち方：Microsoft Learn という選択肢](https://zenn.dev/longbow/articles/20260124_microsoft_learn) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [「京都、2泊3日で」と伝えるだけ。しおり作成AIアプリ「Journee」](https://zenn.dev/aobaiwaki/articles/8fe4ddf47d2c98) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [HumanbotにならないーーAIハイブリッド時代の「Agency」再構築脳](https://zenn.dev/imkohenauser/articles/ddef96b9fd69e4) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [AIトレンド調査を全自動化！GAS × Gemini API × NotebookLM で構築する最強のナレッジ蓄積術](https://zenn.dev/mk0318/articles/article2-ai_trend_gas) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [AI で一歩踏み込んだ OSS Contribution](https://zenn.dev/shunsuke_suzuki/articles/oss-contribution-using-ai) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [Google DeepMind CEOとAnthropic CEOが世界経済フォーラムで対談！（気になった点日本語にまとめました）](https://zenn.dev/cawa102/articles/6f16239b6baf5d) *(Zenn – トピック AI)*
+- [ ] 2026-01-24 [【美食×機械学習】究極の「旨い」を演算する：AIが変える食の未来](https://zenn.dev/yuichirominato/articles/4d9aa0dd724f1a) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-24 [【Colabで動く】Qwen3-TTSを試す：3秒の音声で高品質なVoice Clone（日本語対応）](https://zenn.dev/gakuto_maruyama/articles/bfd77dd4883e1c) *(Zenn – トピック 機械学習)*
