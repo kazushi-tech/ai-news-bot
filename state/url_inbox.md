@@ -17320,3 +17320,87 @@
 - [ ] 2026-01-26 [【2026年版】3DGSラスタライザ比較：商用OKで最速はどれ？](https://zenn.dev/amabito/articles/3dgs-rasterizer-comparison) *(Zenn – トピック 機械学習)*
 - [ ] 2026-01-26 [【有料】3DGS画像前処理完全ガイド：ブラー除去から露出補正まで](https://zenn.dev/amabito/articles/3dgs-image-preprocessing-paid) *(Zenn – トピック 機械学習)*
 - [ ] 2026-01-25 [動画拡散モデル×効率的なカメラ制御×高精度な動画カメラアライメントの実現](https://zenn.dev/yunisuta/articles/arxiv_20260125-180545) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-26T18:17:55.364Z
+- [ ] 2026-01-26 [Georgia leads push to ban datacenters used to power America’s AI boom](https://www.theguardian.com/technology/2026/jan/26/georgia-datacenters-ai-ban) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-26 [Deepfake ‘Nudify’ Technology Is Getting Darker—and More Dangerous](https://www.wired.com/story/deepfake-nudify-technology-is-getting-darker-and-more-dangerous/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-26 [AI Is Causing Cultural Stagnation, Researchers Find](https://futurism.com/artificial-intelligence/ai-cultural-stagnation) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-26 [AI Agents Are Mathematically Incapable of Doing Functional Work, Paper Finds](https://futurism.com/artificial-intelligence/ai-agents-incapable-math) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-26 [Retailers examine options for on-AI retail](https://www.artificialintelligence-news.com/news/retailers-examine-options-for-on-ai-retail/) *(Artificial Intelligence News)*
+- [ ] 2026-01-26 [Expereo: Enterprise connectivity amid AI surge with ‘visibility at the speed of life’](https://www.artificialintelligence-news.com/news/expereo-enterprise-connectivity-amid-ai-surge-with-visibility-at-the-speed-of-life/) *(Artificial Intelligence News)*
+- [ ] 2026-01-26 [How Formula E uses Google Cloud AI to meet net zero targets](https://www.artificialintelligence-news.com/news/how-formula-e-uses-google-cloud-ai-to-meet-net-zero-targets/) *(Artificial Intelligence News)*
+- [ ] 2026-01-26 [Nvidia Invests $2B in CoreWeave, Expands Partnership](https://aibusiness.com/data-centers/nvidia-invests-2b-in-coreweave-expands-partnership) *(AI Business)*
+- [ ] 2026-01-26 [Meta Pauses Teen Access to its AI Chatbot Characters](https://aibusiness.com/chatbot/meta-pauses-teen-access-to-its-ai-chatbot-characters) *(AI Business)*
+- [ ] 2026-01-26 [Microsoft Launches Vision-Language-Action Model for Robots](https://aibusiness.com/robotics/microsoft-launches-vision-language-action-model-for-robots) *(AI Business)*
+- [ ] 2026-01-26 [Artificial metacognition: Giving an AI the ability to ‘think’ about its ‘thinking’](https://theconversation.com/artificial-metacognition-giving-an-ai-the-ability-to-think-about-its-thinking-270026) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-26 [8 Best LinkedIn AI Courses and Certifications to Take in 2026](https://www.techrepublic.com/article/news-best-linkedin-ai-courses-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-26 [Meta’s Reality Labs Cuts Add to Fears of ‘VR Winter’](https://www.techrepublic.com/article/news-meta-vr-winter/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-23 [This $120 AI Security Training Bundle is Now Only $30](https://www.techrepublic.com/article/ai-security-training-bundle/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-26 [The KDnuggets ComfyUI Crash Course](https://www.kdnuggets.com/the-kdnuggets-comfyui-crash-course) *(KDnuggets)*
+- [ ] 2026-01-26 [5 Useful DIY Python Functions for Parsing Dates and Times](https://www.kdnuggets.com/5-useful-diy-python-functions-for-parsing-dates-and-times) *(KDnuggets)*
+- [ ] 2026-01-26 [Quantum Firm IonQ to Buy Chipmaker SkyWater for $1.8 Billion](https://www.bloomberg.com/news/videos/2026-01-26/quantum-firm-ionq-to-buy-chipmaker-skywater-for-1-8b-video) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Nvidia Invests $2 Billion More in CoreWeave, Offers New Chip](https://www.bloomberg.com/news/videos/2026-01-26/nvidia-invests-2b-more-in-coreweave-offers-new-chip-video) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Microsoft’s Latest AI Chip to Reduce Reliance on Nvidia](https://www.bloomberg.com/news/articles/2026-01-26/microsoft-unveils-latest-ai-chip-to-reduce-reliance-on-nvidia) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Baker Hughes Doubles Data Center Order Target to $3 Billion on AI Power Demand](https://www.bloomberg.com/news/articles/2026-01-26/baker-hughes-doubles-data-center-order-target-to-3-billion-on-ai-power-demand) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Oracle Boosts Data Center Job Forecast After Local Opposition](https://www.bloomberg.com/news/articles/2026-01-26/oracle-boosts-data-center-job-forecast-after-local-opposition) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Ubisoft Set to Cut Up to 200 Headquarters Jobs in Restructuring](https://www.bloomberg.com/news/articles/2026-01-26/ubisoft-set-to-cut-up-to-200-jobs-headquarters-in-restructuring) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Nvidia Invests $2 Billion More in CoreWeave, Offers New Chip](https://www.bloomberg.com/news/articles/2026-01-26/nvidia-invests-another-2-billion-in-coreweave-offers-new-chip) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Apple Announces New AirTag with Longer Range, Louder Speaker](https://www.bloomberg.com/news/articles/2026-01-26/apple-announces-new-airtag-with-longer-range-louder-speaker) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Apple, Meta, Tesla to Report Earnings This Week: What to Watch](https://www.bloomberg.com/news/videos/2026-01-26/apple-meta-tesla-report-earnings-what-to-watch-video) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [WhatsApp ‘Channels’ Fall Under EU Content Law Hated by Trump](https://www.bloomberg.com/news/articles/2026-01-26/whatsapp-channels-fall-under-eu-content-law-hated-by-trump) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Nvidia Launches AI Technologies to Aid Weather Forecasting](https://www.bloomberg.com/news/articles/2026-01-26/nvidia-launches-ai-technologies-to-aid-weather-forecasting) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Nvidia Invests an Additional $2 Billion in CoreWeave](https://www.bloomberg.com/news/videos/2026-01-26/nvidia-invests-an-additional-2-billion-in-coreweave-video) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Analyst Favorite Experian Extends Plunge on ‘AI Loser’ Worries](https://www.bloomberg.com/news/articles/2026-01-26/analyst-favorite-experian-extends-plunge-on-ai-loser-worries) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [‘A Knight of the Seven Kingdoms’ Showrunner Explains That Eye-Popping Nude Scene](https://gizmodo.com/knight-of-the-seven-kingdoms-nude-scene-episode-2-2000714043) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [Elon Musk’s Grok Is Under EU Investigation Over Sexual Deepfakes](https://gizmodo.com/elon-musks-grok-is-under-eu-investigation-over-sexual-deepfakes-2000713956) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [Researchers Have Mapped the Universe’s Dark Matter Like Never Before](https://gizmodo.com/researchers-have-mapped-the-universes-dark-matter-like-never-before-2000713985) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [‘The Handmaid’s Tale’ Sequel ‘The Testaments’ Is Coming Very Soon](https://gizmodo.com/the-testaments-release-date-handmaid-tale-hulu-2000714022) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [JBL’s New Speakers Use AI to Silence Your Favorite Song’s Worst Guitar Solo](https://gizmodo.com/jbls-new-speakers-use-ai-to-silence-your-favorite-songs-worst-guitar-solo-2000713951) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [Does Dreame Want to Be the Next DJI? It Sure Seems Like It](https://gizmodo.com/does-dreame-want-to-be-the-next-dji-it-sure-seems-like-it-2000713977) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [‘Zootopia 2’ Slithers Home Tomorrow](https://gizmodo.com/zootopia-2-home-release-date-streaming-blu-ray-2000713970) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [Government by AI? Trump Admin Plans to Write Regulations Using Artificial Intelligence](https://gizmodo.com/government-by-ai-trump-admin-plans-to-write-regulations-using-artificial-intelligence-2000713978) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [‘A Knight of the Seven Kingdoms’ Sees a Determined Dunk Inch Closer to His Destiny](https://gizmodo.com/knight-fo-the-seven-kingdoms-episode-2-recap-review-baelor-tanselle-2000712252) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [After 5 years, AirTag 2 Arrives With Improved Range and Louder Speaker](https://gizmodo.com/after-5-years-airtag-2-arrives-with-improved-range-and-louder-speaker-2000684744) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [Taika Waititi Teases a New Tone For His ‘Star Wars’ Movie](https://gizmodo.com/taika-waititi-star-wars-movie-update-tone-2000713784) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [Asus Zenbook Duo Review: A Stacked Laptop in More Ways Than One](https://gizmodo.com/asus-zenbook-duo-review-a-stacked-laptop-in-more-ways-than-one-2000713558) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [How to generate AI images using ChatGPT](https://www.engadget.com/ai/how-to-generate-ai-images-using-chatgpt-120000560.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [Claude now offers deeper integrations with apps like Canva and Slack](https://www.engadget.com/ai/claude-now-offers-deeper-integrations-with-apps-like-canva-and-slack-180000604.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [Trump admin reportedly plans to use AI to write federal regulations](https://www.engadget.com/ai/trump-admin-reportedly-plans-to-use-ai-to-write-federal-regulations-175155111.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [Ball x Pit's first update brings an endless mode and much more to the chaos](https://www.engadget.com/gaming/ball-x-pits-first-update-brings-an-endless-mode-and-much-more-to-the-chaos-174306548.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [TikTok says a power outage is causing issues with the app in the US](https://www.engadget.com/social-media/tiktok-says-a-power-outage-is-causing-issues-with-the-app-in-the-us-173426617.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [Winter Olympics: How to watch, schedule of events, and everything else you need to know about the 2026 Milano Cortina games](https://www.engadget.com/entertainment/winter-olympics-how-to-watch-schedule-of-events-and-everything-else-you-need-to-know-about-the-2026-milano-cortina-games-172409424.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [Monarch Money's budgeting app is 50 percent off for new users right now](https://www.engadget.com/apps/monarch-moneys-budgeting-app-is-50-percent-off-for-new-users-right-now-204507443.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [Blizzard lines up WoW, Overwatch, Hearthstone and Diablo showcases](https://www.engadget.com/gaming/blizzard-lines-up-wow-overwatch-hearthstone-and-diablo-showcases-154912932.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [Apple's new AirTag still doesn't have a keyring hole](https://www.engadget.com/wearables/apples-new-airtag-still-doesnt-have-a-keyring-hole-150540254.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [Resident Evil Requiem gives series fans the best of both action and survival horror](https://www.engadget.com/gaming/resident-evil-requiem-preview-150000849.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [This 512GB Samsung P9 microSD Express card is 33 percent off](https://www.engadget.com/deals/this-512gb-samsung-p9-microsd-express-card-is-33-percent-off-143849630.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [The EU is investigating Grok and X over potentially illegal deepfakes](https://www.engadget.com/ai/the-eu-is-investigating-grok-and-x-over-potentially-illegal-deepfakes-134506678.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [TurboTax Deluxe has been discounted to $45 ahead of tax season](https://www.engadget.com/deals/turbotax-deluxe-has-been-discounted-to-45-ahead-of-tax-season-204848732.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [The Disney+ Hulu bundle is down to $10 for one month right now](https://www.engadget.com/deals/the-disney-hulu-bundle-is-down-to-10-for-one-month-right-now-192814643.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [The Bose QuietComfort Ultra headphones are 35 percent off](https://www.engadget.com/deals/the-bose-quietcomfort-ultra-headphones-are-35-percent-off-130020033.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [The best gear to upgrade your home theater setup](https://www.engadget.com/home/home-theater/the-best-gear-to-upgrade-your-home-theater-setup-130000755.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**](https://huggingface.co/blog/nvidia/earth-2-open-models) *(Hugging Face Blog)*
+- [ ] 2026-01-26 [ランサム攻撃者と身代金を交渉すべきか、観点や考え方を客観的に整理する](https://xtech.nikkei.com/atcl/nxt/column/18/02805/012000025/) *(日経クロステック IT)*
+- [ ] 2026-01-26 [AI税](https://youkoseki.substack.com/p/ai-afc) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [Claude Codeで「AI部下10人」を作ったら、勝手にバグ直して「違反は切腹」ルールを追加してきて、オレは適当にしゃべるだけになった](https://zenn.dev/shio_shoppaize/articles/5fee11d03a11a1) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [「Dr.STONE」科学監修くられ氏、ChatGPTのアカウントを停止されたと報告（アスキー） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/ef42485c0b6cb14e65137516035b231caefd556b) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [LLMの能力の「穴」 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ](https://joisino.hatenablog.com/entry/zeh) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [Gemini3を生み出した天才と、3500億ドルAI企業CEOが明かす「AIの進化が早すぎる」危機感（対談全文1万字）【ダボス会議2026】 \| Business Insider Japan](https://www.businessinsider.jp/article/2601-deepmind-and-anthropic-ceos-reveal-their-sense-of-crisis/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [Google Cloud、2026年は「AIエージェント」で企業変革を加速　三上新代表が事業方針を発表](https://cloud.watch.impress.co.jp/docs/news/2080608.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [簿記1級合格水準の経理AI、ファーストAが開発　正答率99.8% - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC2264H0S6A120C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [主要ブラウザに対応してほしい！2026最新Web技術25選 \| gihyo.jp](https://gihyo.jp/article/2026/01/misskey-22) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [Windows 11 KB5074109で起動不可能になる不具合が発生中。修復方法を解説 - ギャズログ \| GAZ:Log](https://gazlog.com/entry/windows-11-kb5074109-cannnot-boot/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [家族が商業施設のトイレにiPhoneを忘れすぐ取りに戻ったが見つからず...自分のiPhoneから位置情報を追跡したらなぜか電源が切られる→一歩間違えば盗まれるところだった話](https://togetter.com/li/2656421) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [Ollama v0.15 で Claude Code をローカル実行できるか試してみた \| DevelopersIO](https://dev.classmethod.jp/articles/claude-code-ollama-local/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [Ruby: 2026年にもなってDateTimeを使うな（ただしユネスコの仕事は除く）（翻訳）｜TechRacho by BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2026_01_26/156142) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [Microsoft Entra エージェント ID を理解したい](https://zenn.dev/microsoft/articles/be9e51acf96cb3) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [Claude Code Python 技能完整目录 - 2,847个顶级开发工具](https://zenn.dev/xiaolige/articles/0f1eb4014f89f6) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [バイブコーディングでWebサイトを公開までしてみた](https://zenn.dev/yorus/articles/d5eadc2dfd8372) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [React開発者Dan Abramov氏の「あらゆるバグを修正するための汎用的な手法」](https://zenn.dev/dragon1208/articles/65d7f9231684e8) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [Stablecoin（JPYC）Innovation Challenge 2025 ファイナルピッチ参加レポート](https://zenn.dev/komlock_lab/articles/34f7b6b5881f9a) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [Azure OpenAI Agent SDKの生ログを取得してAgentの思考過程を追う](https://zenn.dev/epicai_techblog/articles/9d5596ee4f2291) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [# 5分で作れるAI赤ちゃんダンス動画：縦動画(9:16)で崩れないコツ](https://zenn.dev/coderw/articles/90f91401618414) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [Dev Container上でPlaywright MCP Serverを動かす](https://zenn.dev/haru_iida/articles/playwright_on_devcontainer) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [【衝撃】Claude Codeに「隠し機能」が存在した｜npx一発でAIチームが爆誕する裏技を暴露](https://zenn.dev/babushkai/articles/2026-01-25-claude-code-hidden-swarm-mode-unlocked) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [【話題沸騰】Mac Mini + Clawdbotで「自分専用のJarvis」を構築する完全ガイド｜180M tokens消費した結果](https://zenn.dev/babushkai/articles/2026-01-25-clawdbot-mac-mini-revolution) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [AIの「IQ競争」はもう終わった。エンジニアが次に直視すべき「実用性の壁」](https://zenn.dev/ainohogosya/articles/7420ce92014477) *(Zenn – トピック AI)*
