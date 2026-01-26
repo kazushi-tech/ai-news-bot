@@ -17246,3 +17246,77 @@
 - [ ] 2026-01-26 [推論時間 vs モデルサイズ｜Best-of-N実験でわかった推論強化の限界! Best-of-N実験に失敗した話について](https://zenn.dev/lluminai_tech/articles/5ad1b02c0679ab) *(Zenn – トピック LLM)*
 - [ ] 2026-01-25 [大阪ガスの「現場AI」はAzureで再現できる？動画解析 × 生成AIで実現する現場DXアーキテクチャ【2026年版】](https://zenn.dev/headwaters/articles/54910bc109e449) *(Zenn – トピック LLM)*
 - [ ] 2026-01-25 [文化を変えたいなら、まずAIで効率化しよう―ハッカソンでの小さな発見](https://zenn.dev/sumiyoshi/articles/66ad88eb244785) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-26T12:20:53.453Z
+- [ ] 2026-01-26 [UK maker of AI avatars nearly doubles valuation to $4bn after funding round](https://www.theguardian.com/technology/2026/jan/26/uk-ai-startup-synthesia-almost-doubles-valuation-4bn-funding-round-corporate-video-avatars) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-26 [EU launches inquiry into X over sexually explicit images made by Grok AI](https://www.theguardian.com/technology/2026/jan/26/eu-launches-inquiry-into-x-over-sexually-explicit-images-made-by-grok-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-26 [AI is hitting UK harder than other big economies, study finds](https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-26 [People Are Protesting Data Centers—but Embracing the Factories That Supply Them](https://www.wired.com/story/data-center-criticism-factories-supply-us/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-26 [Modernising apps triples the odds of AI returns, Cloudflare says](https://www.artificialintelligence-news.com/news/modernising-apps-triples-the-odds-of-ai-returns-cloudflare-says/) *(Artificial Intelligence News)*
+- [ ] 2026-01-26 [Seed Funding no Longer, Startups Are Raising Coconut Rounds](https://www.bloomberg.com/news/newsletters/2026-01-26/seed-funding-for-startups-has-grown-so-large-it-s-now-a-coconut-round) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [AI-for-Prescriptions Startup Tandem Lands $1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-26/ai-for-prescriptions-startup-tandem-lands-1-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [IonQ Agrees to Buy Chipmaker SkyWater in $1.8 Billion Deal](https://www.bloomberg.com/news/articles/2026-01-26/ionq-to-buy-chipmaker-skywater-in-1-8-billion-deal-wsj-reports) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [DeepSeek Was Less of a ‘Sputnik’ Moment Than AI Boom Aberration](https://www.bloomberg.com/news/articles/2026-01-26/deepseek-was-less-of-a-sputnik-moment-than-ai-boom-aberration) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Musk’s X Probed by EU Over Grok’s Spread of Sexual Deepfakes](https://www.bloomberg.com/news/articles/2026-01-26/musk-s-x-probed-by-eu-over-grok-s-spread-of-sexual-deepfakes) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Have Conviction Into 'Strong Earnings,' BlackRock Says](https://www.bloomberg.com/news/videos/2026-01-26/have-conviction-into-strong-earnings-blackrock-says-video) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Italian Fiber Group Retelit Mulls €700 Million Data Center Sale](https://www.bloomberg.com/news/articles/2026-01-26/italian-fiber-group-retelit-mulls-700-million-data-center-sale) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [The Data Center Surge Has a Hidden Source of Carbon Emissions](https://www.bloomberg.com/news/articles/2026-01-26/the-us-data-center-buildout-has-a-hidden-source-of-carbon-emissions) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Helsing and Stark Set to Win German Drone Order as Rheinmetall Lags](https://www.bloomberg.com/news/articles/2026-01-26/helsing-stark-set-to-win-german-drone-order-as-rheinmetall-lags) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [British AI Start-up Synthesia Doubles Valuation to $4bn In a Year](https://www.bloomberg.com/news/videos/2026-01-26/british-ai-start-up-synthesia-doubles-valuation-to-4bn-video) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Chinese Trucking Tech Startup DeepWay Raises $172 Million Before Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-01-26/chinese-trucking-tech-startup-deepway-raises-172-million-before-hong-kong-ipo) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [MediaTek Shares Surge 19% in Two Days on Google AI Chip Tie-Up](https://www.bloomberg.com/news/articles/2026-01-26/mediatek-shares-surge-19-in-two-days-on-google-ai-chip-tie-up) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [<strong>Nvidia-Backed Synthesia Wants Its Talking AI Avatars to Train, Coach and Recruit</strong>](https://www.bloomberg.com/news/articles/2026-01-26/nvidia-backed-synthesia-wants-its-talking-ai-avatars-to-train-coach-and-recruit) *(Bloomberg Technology)*
+- [ ] 2026-01-26 [Despair-Inducing Analysis Shows AI Eroding the Reliability of Science Publishing](https://gizmodo.com/despair-inducing-analysis-shows-ai-eroding-the-reliability-of-science-publishing-2000713786) *(Gizmodo – Technology)*
+- [ ] 2026-01-26 [The best kitchen gadgets for 2026](https://www.engadget.com/home/kitchen-tech/best-kitchen-tech-gadgets-small-appliances-124515179.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [エンジニア転職支援のファインディ、内製化とAI駆動開発の支援に注力](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11431/) *(日経クロステック IT)*
+- [ ] 2026-01-26 [日本産AIが“日商簿記1級”で合格レベル　選択＆計算問題で正答率99.8％　AIベンチャー企業が発表](https://www.itmedia.co.jp/aiplus/articles/2601/26/news115.html) *(ITmedia AI＋)*
+- [ ] 2026-01-26 [トヨタ系基金、ネコ型ロボットの実証実験　ドライバーの「運転を評価されたくない」和らげ交通安全促せるか](https://www.itmedia.co.jp/news/articles/2601/26/news103.html) *(ITmedia AI＋)*
+- [ ] 2026-01-26 [エージェンティックAI時代、Slackは「OS」になる？　Salesforceの戦略を読み解く](https://www.itmedia.co.jp/enterprise/articles/2601/26/news088.html) *(ITmedia AI＋)*
+- [ ] 2026-01-26 [｢LM Studio｣ではじめるローカルLLM。“ガチ無料AI”を徹底解説](https://www.gizmodo.jp/2026/01/how_to_use_lm_studio-thr.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [Claudeがエンジニア採用テストをクリアしてしまうためAnthropicが実行した対策とは？](https://gigazine.net/news/20260126-anthropic-claude-code-test-design/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [ExcelのデータをClaudeで分析・活用　「Claude in Excel」公開](https://www.watch.impress.co.jp/docs/news/2080601.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [ClaudeのAIアシスタント「Coworkモード」を支えるLinuxコンテナ環境とは？](https://gigazine.net/news/20260125-linux-container-environment-report/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [GitHub - supabase/agent-skills: Agent Skills to help developers using AI agents with Supabase](https://github.com/supabase/agent-skills) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [日本のアクセス解析史 -25年の歴史- - Real Analytics （リアルアナリティクス）](https://analytics.hatenadiary.com/entry/2026/01/26/170956) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [【やじうまPC Watch】 Microsoft、FBIへBitLocker回復キー提供。Appleと対照的と米紙報道](https://pc.watch.impress.co.jp/docs/news/yajiuma/2080768.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [ダイソーで1,100円。ジェネリックApple Pencilの決定版が出てしまった](https://www.gizmodo.jp/2026/01/daiso_apple-pen-r7o.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [無料のブータブルUSB作成ツール「Rufus」に脆弱性、管理者権限で任意コード実行のおそれ／Fidoスクリプトの処理に「TOCTOU」（Time-of-check to time-of-use）競合](https://forest.watch.impress.co.jp/docs/news/2080646.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [住所を7ケタの英数字で表現「デジタルアドレス」普及へ　日本郵便が楽天・セールスフォースなどとコンソーシアム](https://www.itmedia.co.jp/news/articles/2601/26/news081.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [Turborepo × pnpm で実現するモノレポ開発基盤 - ぐるなびをちょっと良くするエンジニアブログ](https://developers.gnavi.co.jp/entry/turborepo-pnpm/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [SREの仕事を自動化する際にやっておきたい5つのポイント](https://speakerdeck.com/jacopen/srenoshi-shi-wozi-dong-hua-suruji-niyatuteokitai5tunopointo) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [Aterm史上最速のWi-Fiルーターがついに出た!!　10GbE+トライバンド12ストリームとハイスペックなだけじゃない信頼性と安定性を実現【イニシャルB【特別編】】[Sponsored]](https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2077446.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [強化学習はLLMの推論能力を底上げするのか？](https://zenn.dev/my_vision/articles/7cc2783f302cc1) *(Zenn – トピック LLM)*
+- [ ] 2026-01-26 [【2026年生存戦略】「GPU貧民」の学生/エンジニアが、LLM研究で大手に勝つための4つの戦場](https://zenn.dev/lixian/articles/0b106378313c77) *(Zenn – トピック LLM)*
+- [ ] 2026-01-26 [LLMで分析したデータをベン図として表示する](https://zenn.dev/m_____hiroki/articles/929f359282c5de) *(Zenn – トピック LLM)*
+- [ ] 2026-01-26 [【自作LLMをまた少し改良】文章に多様性が無い問題を解決！Nucleus Samplingで10%→100%へ【SNN-LLM v3】](https://zenn.dev/cell_activation/articles/ba91857537226f) *(Zenn – トピック LLM)*
+- [ ] 2026-01-26 [【Agentic Workflow】AIエージェントを「単発実行」で終わらせないための設計パターン](https://zenn.dev/shineos/articles/agentic-workflow-design-guide) *(Zenn – トピック LLM)*
+- [ ] 2026-01-26 [GitHub Copilot のツールは必要なものだけONにしよう](https://zenn.dev/gyory/articles/cd425bc30c9201) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [ほぼ週間Go言語 2026年1月26日](https://zenn.dev/baleenstudio/articles/6ce425b01da033) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [BPO×AIの知見から考える「人間がレビューしない率」の上げ方](https://zenn.dev/tokium_dev/articles/4a46f5a2992fd9) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [v5.3 ドラッグリポジショニング監査システム　Part 3: 検証編 ― 疑いの深化と対等な協働](https://zenn.dev/dosanko_tousan/articles/9765399e39b2a1) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [最近話題の Clawdbot をラズパイ 5 で動かしてみた](https://zenn.dev/edom18/articles/try-clawdbot-on-raspi) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [Wie KI mir hilft, kreativer Musik zu machen – ohne meinen Stil zu verl](https://zenn.dev/aibank/articles/3c8f666bee2a1c) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [月間400件以上のプルリクエストを生産したClaude Code活用事例](https://zenn.dev/knowledgework/articles/20260125-create-400-prs-with-claude-code) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [エンジニアのための「雲・雨・傘」の論理](https://zenn.dev/hi_kuma79/articles/533626ffddb2c5) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [Claude Code MCP入門：外部ツールを自在に操る](https://zenn.dev/amabito/articles/claude-code-mcp-intro) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [Claude Code Hook活用：AIの動作を自在にカスタマイズ](https://zenn.dev/amabito/articles/claude-code-hooks-automation) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [#23 エージェントの視点を“階層化”すると何が起きるか](https://zenn.dev/corone/articles/256b47c37a81c4) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [AIエンジニアスキルマップ2026：今何を学ぶべきか](https://zenn.dev/amabito/articles/ai-engineer-skillmap-2026) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [技術者キャリア戦略2026：AI時代に生き残る方法](https://zenn.dev/amabito/articles/tech-career-2026) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [Claude Codeで開発効率3倍にした具体的な使い方【2026年版】](https://zenn.dev/amabito/articles/claude-code-productivity) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [【有料】Claude Code完全活用ガイド【プロンプト集+自動化設定】](https://zenn.dev/amabito/articles/claude-code-productivity-paid) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [1,800時間を捧げた個人開発：既存HTMLの「グリッドの呪縛」から解放される自由配置エディタ「HtmlDrag」の裏側](https://zenn.dev/htmldrag/articles/498ffab17faede) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [Antigravityの課題点(2026年1月時点)](https://zenn.dev/wild_onion/articles/bf5c3808a80370) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandbox】](https://zenn.dev/sijiaoh/articles/60db24c8949c51) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [コードと世界の「境界線」に立つのが今一番面白い](https://zenn.dev/k_sangaku/articles/code-and-world-boundary) *(Zenn – トピック AI)*
+- [ ] 2026-01-26 [4-④[AI][Kaggle][python]Kaggle入門(中級機械学習 4.パイプライン)](https://zenn.dev/rg687076/articles/1a71243868720c) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-26 [3DGS圧縮技術比較：サイズを1/10にする方法](https://zenn.dev/amabito/articles/3dgs-compression-comparison) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-26 [NeRF vs 3DGS：2026年、どちらを選ぶべきか](https://zenn.dev/amabito/articles/nerf-vs-3dgs-2026) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-26 [NeRFは終わったのか？2026年、その存在意義を問う](https://zenn.dev/amabito/articles/nerf-now-2026) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-26 [HyperRasterizerでトレーニング：DGRより50%高速な商用OKラスタライザ](https://zenn.dev/amabito/articles/hyper-rasterizer-training) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-26 [【有料】GPU高速化実践ガイド：CUDA/PyTorchで実務を10倍速にする](https://zenn.dev/amabito/articles/gpu-programming-paid) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-26 [GPUプログラミング入門：CPUより100倍速い世界への第一歩](https://zenn.dev/amabito/articles/gpu-programming-intro) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-26 [CUDA最適化入門：GPUプログラミングで10倍速くする基本テクニック](https://zenn.dev/amabito/articles/cuda-optimization-basics) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-26 [【2026年版】3DGSラスタライザ比較：商用OKで最速はどれ？](https://zenn.dev/amabito/articles/3dgs-rasterizer-comparison) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-26 [【有料】3DGS画像前処理完全ガイド：ブラー除去から露出補正まで](https://zenn.dev/amabito/articles/3dgs-image-preprocessing-paid) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-25 [動画拡散モデル×効率的なカメラ制御×高精度な動画カメラアライメントの実現](https://zenn.dev/yunisuta/articles/arxiv_20260125-180545) *(Zenn – トピック 機械学習)*
