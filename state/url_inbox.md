@@ -16842,3 +16842,64 @@
 - [ ] 2026-01-25 [GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞](https://github.com/clawdbot/clawdbot) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-25 [Vulnerability-Lookup](https://db.gcve.eu/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-01-25 [教皇レオ14世、AIが人間のアイデンティティー脅かすと警鐘](https://www.afpbb.com/articles/-/3619350) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-01-26T00:52:22.758Z
+- [ ] 2026-01-25 [The Warner Bros. Bidding War Is Over](https://www.bloomberg.com/news/newsletters/2026-01-25/the-warner-bros-bidding-war-is-over) *(Bloomberg Technology)*
+- [ ] 2026-01-25 [Why the Tech World Is Going Crazy for Claude Code](https://www.bloomberg.com/news/videos/2026-01-25/why-the-tech-world-is-going-crazy-for-claude-code) *(Bloomberg Technology)*
+- [ ] 2026-01-25 [Why Lululemon Isn’t Measuring Up for Its Customers](https://www.bloomberg.com/news/videos/2026-01-25/why-lululemon-isn-t-measuring-up-for-its-customers) *(Bloomberg Technology)*
+- [ ] 2026-01-25 [Is the 'Sell America' Trade Back? PIMCO’s CEO Weighs In](https://www.bloomberg.com/news/videos/2026-01-25/is-the-sell-america-trade-back-pimco-s-ceo-weighs-in) *(Bloomberg Technology)*
+- [ ] 2026-01-25 [It Turns Out Crypto’s Stablecoin Adoption is Around 1% of Previous Estimates](https://gizmodo.com/it-turns-out-cryptos-stablecoin-adoption-is-around-1-of-previous-estimates-2000713814) *(Gizmodo – Technology)*
+- [ ] 2026-01-25 [Flight Cancellations Hit Record High As Winter Storm Rages On](https://gizmodo.com/flight-cancellations-hit-record-high-as-winter-storm-rages-on-2000713792) *(Gizmodo – Technology)*
+- [ ] 2026-01-25 [‘Halo’ Actor Steve Downes Asks You Not to Remake His Voice with AI](https://gizmodo.com/halo-actor-steve-downes-asks-you-not-to-remake-his-voice-with-ai-2000713343) *(Gizmodo – Technology)*
+- [ ] 2026-01-25 [‘Jujutsu Kaisen’ Keeps Looking So Damn Good](https://gizmodo.com/jujutsu-kaisen-keeps-looking-so-damn-good-2000713456) *(Gizmodo – Technology)*
+- [ ] 2026-01-25 [Outside Parties is the creepiest Playdate game yet, and I'm kind of obsessed](https://www.engadget.com/gaming/outside-parties-is-the-creepiest-playdate-game-yet-and-im-kind-of-obsessed-213142541.html?src=rss) *(Engadget)*
+- [ ] 2026-01-25 [Microsoft releases second emergency Windows 11 update to fix Outlook crashes](https://www.engadget.com/computing/microsoft-releases-second-emergency-windows-11-update-to-fix-outlook-crashes-192012812.html?src=rss) *(Engadget)*
+- [ ] 2026-01-26 [TACが個人情報を公開状態に　作業ミスにより11年以上放置](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/031800050/011900083/) *(日経クロステック IT)*
+- [ ] 2026-01-26 [ネットワーク障害への対応](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/031500132/011900048/) *(日経クロステック IT)*
+- [ ] 2026-01-26 [医療・健康・介護の機能を再設計、「街」が健康インフラに](https://xtech.nikkei.com/atcl/nxt/column/18/03464/010900001/) *(日経クロステック IT)*
+- [ ] 2026-01-26 [Netflixとのセット提供を始める「LYPプレミアム」、会員増につなげられるか](https://xtech.nikkei.com/atcl/nxt/column/18/00086/00385/) *(日経クロステック IT)*
+- [ ] 2026-01-26 [Windowsの「メモ帳」はメモ取りに不向き、スマホ連携できるアプリが便利](https://xtech.nikkei.com/atcl/nxt/column/18/03445/121700010/) *(日経クロステック IT)*
+- [ ] 2026-01-26 [データが国境を越えやすくする「DFFT」、信頼性の確保がキモ](https://xtech.nikkei.com/atcl/nxt/column/18/01679/112700259/) *(日経クロステック IT)*
+- [ ] 2026-01-26 [繰り返しの購買行動を誘う「習慣」と「ロイヤルティ」](https://xtech.nikkei.com/atcl/nxt/column/18/03476/012100004/) *(日経クロステック IT)*
+- [ ] 2026-01-26 [フィジカルAIでも存在感増すGoogle DeepMind、VLAでヒト型ロボット攻略へ](https://xtech.nikkei.com/atcl/nxt/column/18/03474/011900005/) *(日経クロステック IT)*
+- [ ] 2026-01-26 [リアル×テック掲げるローソン、KDDIと連携　地方創生拠点100カ所へ](https://xtech.nikkei.com/atcl/nxt/column/18/03434/011600001/) *(日経クロステック IT)*
+- [ ] 2026-01-26 [2つの世界に分断された日本のIT、間違ってSIerに就職したら悲惨だぞ](https://xtech.nikkei.com/atcl/nxt/column/18/00148/011900417/) *(日経クロステック IT)*
+- [ ] 2026-01-25 [「AGIは3年後、ASIは4年後」　進化するAIに仕事を任せるための運用設計](https://www.itmedia.co.jp/enterprise/articles/2601/23/news061.html) *(ITmedia AI＋)*
+- [ ] 2026-01-25 [Cracked Engineerとは？　AI時代に語られ始めた“異常に強いエンジニア”の実像](https://atmarkit.itmedia.co.jp/ait/articles/2601/26/news021.html) *(ITmedia AI＋)*
+- [ ] 2026-01-26 [コードを書かずにアプリを作る時代がやってきた——バイブコーディング入門｜takeshy](https://note.com/takeshy/n/n9b626796bfdb) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [片山さつきが引用していた政治系youtubeチャンネルに関するメモ - 電脳塵芥](https://nou-yunyun.hatenablog.com/entry/2026/01/25/180000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-26 [ソフトウェア開発で「なぜなぜ分析」はアンチパターン - 勘と経験と読経](https://agnozingdays.hatenablog.com/entry/2026/01/24/170000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [カンファレンスで自己紹介しやすいようにプレーリーカード作った - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/01/22/170000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [はじめての MoonBit](https://azukiazusa.dev/blog/getting-started-with-moonbit/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [まつもとゆきひろが危惧する、ジュニア不要論の先に広がるIT業界「焼け野原」](https://atmarkit.itmedia.co.jp/ait/articles/2601/26/news002.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [中国軍制服組トップ、核兵器の機密情報を米国に漏洩した疑い－WSJ](https://www.bloomberg.com/jp/news/articles/2026-01-25/T9FMHST9NJLT00) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [ソニーテレビ事業分離の衝撃と必然　世界テレビビジネスの現在地【西田宗千佳のイマトミライ】](https://www.watch.impress.co.jp/docs/series/nishida/2080596.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [GitHub Copilot CLIのエージェント機能をコードから自在に呼び出してAIエージェントアプリが作れる「GitHub Copilot SDK」テクニカルプレビュー公開](https://www.publickey1.jp/blog/26/github_copilot_cliaigithub_copilot_sdk.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [日本語を話せない米紙記者が「ライブ翻訳」を通じて体験した東京の街 \| テクノロジーで「言葉の壁」は消えるのか](https://courrier.jp/news/archives/429874/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [Apple、Google Geminiを採用した新しいSiriを来月後半に発表へ \| 気になる、記になる…](https://taisy0.com/2026/01/26/219239.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-26 [iPhoneのカメラ、写真だけじゃ損。日々の「ちょっと面倒」を解決する活用術 \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2601iphone-camera-features-that-solve-everyday-problems/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-25 [Gemini 4はいつ出る？――リーク情報を調べた結果（2026年1月25日時点）](https://zenn.dev/ainohogosya/articles/e487f8fd3ff2d1) *(Zenn – トピック LLM)*
+- [ ] 2026-01-25 [「検索」をやめて「組織図」を作ったら、長尺動画RAGが劇的に賢くなった話](https://zenn.dev/sunyeul89/articles/6b8b87ecfd905c) *(Zenn – トピック LLM)*
+- [ ] 2026-01-25 [Clawdbot入門(#1)：チャットアプリで動く“自分専用AIアシスタント”の出来ることと安全な始め方](https://zenn.dev/yujmatsu/articles/20260125_clawdbot_beginners_guide) *(Zenn – トピック LLM)*
+- [ ] 2026-01-25 [🦞Clawdbot🦞 を AWS + Telegram で動かす](https://zenn.dev/kndoshn/articles/46c673bb16aa49) *(Zenn – トピック LLM)*
+- [ ] 2026-01-25 [LLM CLI Remote Server を作った：CLIで動かすLLMをiPhoneから叩けるようにする話](https://zenn.dev/kotsutsumi/articles/fdc3dcb5b20e37) *(Zenn – トピック LLM)*
+- [ ] 2026-01-25 [非構造化データ抽出の課題：LLMは「どこ」を見て回答したのか？](https://zenn.dev/langextract/articles/1fff4223c12b54) *(Zenn – トピック LLM)*
+- [ ] 2026-01-25 [バイブコーディングは理解する事は意味はなくても、知っていれば出来ることが増える](https://zenn.dev/ktg/articles/bedb808683dd5f) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [AIで作る業務動画 Day 26｜台本JSONスキーマで自動化の基盤を作る](https://zenn.dev/akira_cloudjob/articles/20260126-script-format-standardization) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [他システム連携ありのE2EテストをPlaywright Agentsで自動化してみた](https://zenn.dev/dotdtech_blog/articles/68c9ab9e1ad91c) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [AIにコードを書かせないためのバックエンド設計](https://zenn.dev/uthuyomi/articles/0efdf64fc21d48) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [Grokに「持続可能なプロダクト設計」シリーズをレビューしてもらった](https://zenn.dev/k_mt/articles/47183e15e322b7) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [ミニハッカソンに挑戦して分かった、Agentic AIの難しさ](https://zenn.dev/kei_y0614/articles/2238042b52cbed) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [AI Agent は職員になれるか ― 統計的決定理論で「判断」を設計するということ（物語編）](https://zenn.dev/ishiguchi/articles/20260125-ai-agent-decision-theory-story) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [AI Agent  の認可を統計的決定理論で定式化する ― 十分統計量・RaoBlackwell・minimax による判断設計 ―](https://zenn.dev/ishiguchi/articles/20260125-ai-agent-auth-statistical-decision-theory) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [AIのプロンプトを保存・管理するChrome拡張を作った](https://zenn.dev/ktg/articles/4bf3dbe481e40d) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [【KNOTS 2026】デザイナー・エンジニア・PMの境界が溶け出す、12のセッションまとめ](https://zenn.dev/atrae/articles/fbf0a2b36b6acc) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [上司にCursorの使い方を説明したのでまとめてみた](https://zenn.dev/torakm/articles/3b61015f7609d2) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [AIが作業をサボって遊べるようにマインスイーパーを作った話：API編](https://zenn.dev/geeknees/articles/634ad69d7c347e) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [AI開発ツールの次のステップ - UI型からCLI型へ移行すべき5つの理由](https://zenn.dev/gaku1234/articles/ai-cli-tools-guide-2026) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [スタンフォード大学のIndexReport2025から世界との乖離を埋める若手こそAI主役となる日本未来像](https://zenn.dev/syoshida07/articles/ed21fa871785c2) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [週刊AI駆動開発 - 2026年01月25日](https://zenn.dev/pppp303/articles/weekly_ai_20260125) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [Codex CLI のカスタム指示には何が使えるの？AGENTS.md と Copilot との相互運用](https://zenn.dev/kohei_miki_im8/articles/208573bd11e648) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [Bedrock AgentCore RuntimeでCognitoユーザー(グループ)のIAMロールを利用してAgent実行する](https://zenn.dev/tsumita7/articles/aws-agentcore-runtime-gateway-iam-cognito) *(Zenn – トピック AI)*
+- [ ] 2026-01-25 [組み込み機械学習: Pico とタッチパネルで手書き文字を認識する方法](https://zenn.dev/ypsitau/articles/2026-02-02-recognizer) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-25 [Clawdbotとの対話から: AIは「思い出す」ことができるか？ ― 記憶アーキテクチャ研究の記録](https://zenn.dev/pepabo/articles/89b74c033d45b5) *(Zenn – トピック 機械学習)*
