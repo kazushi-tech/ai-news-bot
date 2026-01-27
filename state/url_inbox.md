@@ -18431,3 +18431,51 @@
 - [ ] 2026-01-26 [Clawdbot のメモリ実装を理解する](https://zenn.dev/yasuhito/articles/clawdbot-memory-internals) *(Zenn – トピック AI)*
 - [ ] 2026-01-26 [知識移転工学：AIに業務を引き継ぎたい](https://zenn.dev/y2co/articles/2026-01-26-knowledge-transfer-as-engineering) *(Zenn – トピック AI)*
 - [ ] 2026-01-26 [Claude CodeのPlanモードで実装した後、そのまま質問しまくってるやついる？いねえよな！](https://zenn.dev/take4/articles/b7fad1a0c52481) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-27T12:20:28.601Z
+- [ ] 2026-01-27 [Facing menu anxiety? Just Eat launches AI chatbot to help pick a food delivery](https://www.theguardian.com/business/2026/jan/27/menu-anxiety-just-eat-ai-chatbot-food-delivery-uk-app-voice-assistant) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-27 [Where Tech Leaders and Students Really Think AI Is Going](https://www.wired.com/story/for-future-reference-ai-technology/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-27 [Cold snap highlight’s airlines’ proactive use of AI](https://www.artificialintelligence-news.com/news/cold-snap-highlights-airlines-proactive-use-of-ai-airline-industrys-use-of-ai/) *(Artificial Intelligence News)*
+- [ ] 2026-01-27 [Salesforce Bags $5.6B US Army Digital Revamp Contract](https://www.techrepublic.com/article/news-salesforce-us-army-contract/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-26 [Top Tech Conferences to Attend in 2026](https://www.techrepublic.com/article/news-top-tech-conferences-events/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-27 [Sports Leagues Struggle To Lure Fans Away From Illegal Streams](https://www.bloomberg.com/news/newsletters/2026-01-27/sports-fans-look-to-illegal-streaming-sites-as-games-go-behind-paywalls) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Can AI Expectations Pose a Downside Risk to Earnings?](https://www.bloomberg.com/news/videos/2026-01-27/can-ai-expectations-pose-a-downside-risk-to-earnings-video) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Nvidia Lacks Clear Successor for Superstar CEO Who Built Company](https://www.bloomberg.com/news/articles/2026-01-27/nvidia-lacks-clear-successor-for-superstar-ceo-who-built-company) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Tesla’s Price Target Is Rising Even as Its Profit Outlook Tanks](https://www.bloomberg.com/news/articles/2026-01-27/tesla-s-price-target-is-rising-even-as-its-profit-outlook-tanks) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [TikTok Star Khaby Lame Signs $975 Million Deal to Monetize Global Fan Base](https://www.bloomberg.com/news/articles/2026-01-27/tiktok-star-khaby-lame-signs-975-million-deal-to-monetize-global-fan-base) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Google Android Told by EU to Open Up to Rival AI Systems](https://www.bloomberg.com/news/articles/2026-01-27/google-android-told-by-eu-to-open-up-to-rival-ai-systems) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Honeywell Sees Growing Market for ‘Physical AI’ Use in Buildings](https://www.bloomberg.com/news/articles/2026-01-27/honeywell-sees-growing-market-for-physical-ai-use-in-buildings) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Bahrain’s Gulf Air Signs Deal with Starlink for Internet Access](https://www.bloomberg.com/news/articles/2026-01-27/bahrain-s-gulf-air-signs-deal-with-starlink-for-internet-access) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Kaitlyn Dever Is Ready for the Abby-Centric ‘Last of Us’ Season 3](https://gizmodo.com/kaitlyn-dever-is-ready-for-the-abby-centric-last-of-us-season-3-2000714205) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Looking for More Paid Social Media Features? Meta Is Reportedly Testing Tons](https://gizmodo.com/are-you-looking-for-more-paid-social-media-features-meta-is-reportedly-testing-tons-2000714295) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Study Documents Real World Downside of EV Fast Charging. But There’s Good News Too](https://gizmodo.com/study-documents-real-world-downside-of-ev-fast-charging-but-theres-good-news-too-2000714235) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [The Morning After: Apple's new  louder, high-precision AirTag](https://www.engadget.com/general/the-morning-after-apples-new-louder-high-precision-airtag-120500942.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [The best Apple Watch accessories for 2026](https://www.engadget.com/computing/accessories/best-apple-watch-accessories-133025270.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [The best wireless earbuds for 2026](https://www.engadget.com/audio/headphones/best-wireless-earbuds-120058222.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs](https://huggingface.co/blog/tiiuae/emirati-benchmarks) *(Hugging Face Blog)*
+- [ ] 2026-01-27 [デジタルアドレス普及目指し産学官が協力、導入済みのアパホテル語る利点](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11434/) *(日経クロステック IT)*
+- [ ] 2026-01-27 [“俺の嫁召喚機”ことGateboxに新モデル　VTuber、AIキャラも意識　4月にクラファンへ](https://www.itmedia.co.jp/news/articles/2601/27/news134.html) *(ITmedia AI＋)*
+- [ ] 2026-01-27 [日本礼賛のショート動画が増えすぎ？と思っていたらAIで動画を作成、月400万以上も稼ぐマニュアルがnoteに...金儲けと政治系動画の構造について様々な意見](https://togetter.com/li/2656584) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-27 [難解な文章もスラスラ頭に入る！NotebookLMを「頼れる読書パートナー」に変えてみた \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2601-how-to-use-notebooklm-for-slow-reading/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-27 [AIブームで「.ai」ドメインの登録数が100万件を突破、ドメインを管理するアンギラは1年間で100億円以上を稼いだ可能性あり](https://gigazine.net/news/20260127-anguilla-ai-domain-1-million/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-27 [なぜcurlプロジェクトはバグ報奨制度を廃止したのか？](https://www.itmedia.co.jp/enterprise/articles/2601/27/news044.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-27 [【最新版】Skill・MCP…バイブコーディング上達に必須の「神機能」8選を全解説](https://www.sbbit.jp/article/cont1/178789) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-27 [【SaaS壊滅】一流が全員使う「本命AIツール」が衝撃すぎた](https://newspicks.com/news/15905532/body/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-27 [新サービス「ぴよ日記」をリリースしました - はてラボ 開発者ブログ](https://labo.hatenastaff.com/entry/2026/01/27/151712) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [ぴよ日記](https://piyo.hatelabo.jp/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [AIで出世した無能だけど、バレたら終わりだと毎日思ってる](https://anond.hatelabo.jp/20260127123435) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [アップル「iPhone 5s」などにアップデート提供　13年前のモデルが異例の延命](https://ascii.jp/elem/000/004/369/4369154/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [60％サイズなのに100キーある“キー分割”キーボード「Hesper64(100)」を試す　革新性に挑戦する価値はアリ](https://www.itmedia.co.jp/pcuser/articles/2601/27/news070.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [知識ゼロからTerraformで実装するときに知っておくと便利なTips - NRIネットコムBlog](https://tech.nri-net.com/entry/terraform_from_scratch) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [都市伝説は時代を映す。ネットの中で変容する、現代の民話｜世界を読む技術｜國學院大學メディアnote](https://note.com/kokugakuin_univ/n/nf7e937eddaff) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [ねぇ、これ正しく読める？](https://anond.hatelabo.jp/20260127001412) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [ピクシブはRubyKaigi 2026に参加したい学生さんを招待します - pixiv inside](https://inside.pixiv.blog/2026/01/27/150000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [生成AIの隆盛を機に振り返るプログラミングの歴史](https://zenn.dev/k0kishima/articles/1f128ba684f5ed) *(Zenn – トピック LLM)*
+- [ ] 2026-01-27 [全国のクマ出没情報をAIが集約。「FASTBEAR」を試してみた。](https://zenn.dev/grand2/articles/28fbf8801752e5) *(Zenn – トピック LLM)*
+- [ ] 2026-01-27 [【続】Claude Codeマルチエージェント：v1.1.0で家老が切腹しかけた話](https://zenn.dev/shio_shoppaize/articles/8870bbf7c14c22) *(Zenn – トピック LLM)*
+- [ ] 2026-01-27 [OpenAIとAzure OpenAIどう違う？](https://zenn.dev/digeon/articles/f012fd146da63e) *(Zenn – トピック LLM)*
+- [ ] 2026-01-27 [Claude Codeの--add-dirフラグで追加したディレクトリ内のCLAUDE.mdも読み込めるようにする](https://zenn.dev/pepabo/articles/63298dd4b0ce2d) *(Zenn – トピック LLM)*
+- [ ] 2026-01-27 [RAGで大事なキーワードを無視させない手法](https://zenn.dev/knowledgesense/articles/6bada1cdce48d5) *(Zenn – トピック LLM)*
+- [ ] 2026-01-27 [LLMの入出力を記録する：最小限のログ設計で可観測性を確保する](https://zenn.dev/scogr_tech/articles/ai-blackbox-llm-thinking-log-design) *(Zenn – トピック LLM)*
+- [ ] 2026-01-27 [【生存戦略】量子コンピュータの「行末」を憂うな。テンソルネットワークが、あなたのキャリアを全方位無敵にする理由](https://zenn.dev/yuichirominato/articles/94d1eddb2f8c79) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-27 [Amazon EC2 Capacity Block for ML を使って AWS Trainium 系のインスタンスを起動する](https://zenn.dev/tosshi/articles/a18dce7d66424d) *(Zenn – トピック 機械学習)*
