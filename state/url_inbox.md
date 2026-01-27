@@ -18479,3 +18479,87 @@
 - [ ] 2026-01-27 [LLMの入出力を記録する：最小限のログ設計で可観測性を確保する](https://zenn.dev/scogr_tech/articles/ai-blackbox-llm-thinking-log-design) *(Zenn – トピック LLM)*
 - [ ] 2026-01-27 [【生存戦略】量子コンピュータの「行末」を憂うな。テンソルネットワークが、あなたのキャリアを全方位無敵にする理由](https://zenn.dev/yuichirominato/articles/94d1eddb2f8c79) *(Zenn – トピック 機械学習)*
 - [ ] 2026-01-27 [Amazon EC2 Capacity Block for ML を使って AWS Trainium 系のインスタンスを起動する](https://zenn.dev/tosshi/articles/a18dce7d66424d) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-27T18:20:28.372Z
+- [ ] 2026-01-27 [‘Wake up to the risks of AI, they are almost here,’ Anthropic boss warns](https://www.theguardian.com/technology/2026/jan/27/wake-up-to-the-risks-of-ai-they-are-almost-here-anthropic-boss-warns) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-27 [UK ministers accept $1m from Meta amid social media ban consultation](https://www.theguardian.com/technology/2026/jan/27/uk-ministers-accept-1m-from-meta-amid-social-media-ban-consultation) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-27 [At Davos, tech CEOs laid out their vision for AI’s world domination](https://www.theguardian.com/technology/2026/jan/27/tech-ceos-ai-world-domination-davos) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-27 [Google DeepMind Staffers Ask Leaders to Keep Them ‘Physically Safe’ From ICE](https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-27 [This Humanoid Is Ready to Bring You a Toothbrush](https://www.wired.com/story/humanoid-robot-butler-sprout-fauna/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-27 [Sam Altman Says OpenAI Is Slashing Its Hiring Pace as Financial Crunch Tightens](https://futurism.com/artificial-intelligence/sam-altman-openai-slashing-hiring) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-27 [Databricks: Enterprise AI adoption shifts to agentic systems](https://www.artificialintelligence-news.com/news/databricks-enterprise-ai-adoption-shifts-agentic-systems/) *(Artificial Intelligence News)*
+- [ ] 2026-01-27 [Anthropic selected to build government AI assistant pilot](https://www.artificialintelligence-news.com/news/anthropic-selected-build-government-ai-assistant-pilot/) *(Artificial Intelligence News)*
+- [ ] 2026-01-27 [Lowering the barriers databases place in the way of strategy, with RavenDB](https://www.artificialintelligence-news.com/news/lowering-the-barriers-databases-place-in-the-way-of-strategy-with-ravendb/) *(Artificial Intelligence News)*
+- [ ] 2026-01-27 [Debate Rages Over AI Bubble vs. Boom](https://aibusiness.com/data-centers/debate-rages-ai-bubble-boom) *(AI Business)*
+- [ ] 2026-01-27 [Microsoft Aims for Better Inference Efficiency With Maia 200](https://aibusiness.com/generative-ai/microsoft-aims-for-better-inference-efficiency) *(AI Business)*
+- [ ] 2026-01-27 [Identifying dinosaurs from their footprints is difficult – but AI can help](https://theconversation.com/identifying-dinosaurs-from-their-footprints-is-difficult-but-ai-can-help-274386) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-27 [The Multimodal AI Guide: Vision, Voice, Text, and Beyond](https://www.kdnuggets.com/the-multimodal-ai-guide-vision-voice-text-and-beyond) *(KDnuggets)*
+- [ ] 2026-01-27 [3 Ways to Anonymize and Protect User Data in Your ML Pipeline](https://www.kdnuggets.com/3-ways-to-anonymize-and-protect-user-data-in-your-ml-pipeline) *(KDnuggets)*
+- [ ] 2026-01-27 [7 Under-the-Radar Python Libraries for Scalable Feature Engineering](https://www.kdnuggets.com/7-under-the-radar-python-libraries-for-scalable-feature-engineering) *(KDnuggets)*
+- [ ] 2026-01-27 [Disney Actress-Turned-CEO Raises $100 Million for Space Firm](https://www.bloomberg.com/news/articles/2026-01-27/mendler-s-northwood-raises-100-million-for-antenna-tech) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Bridgit Mendler’s Northwood Raises $100M Series B](https://www.bloomberg.com/news/videos/2026-01-27/bridgit-mendler-s-northwood-raises-100m-series-b-video) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [OpenAI Debuts New Tool for Scientists in Push for AI Discovery](https://www.bloomberg.com/news/articles/2026-01-27/openai-debuts-new-tool-for-scientists-in-push-for-ai-discovery) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Pinterest to Cut ‘Less Than 15%’ of Staff Amid AI Push](https://www.bloomberg.com/news/articles/2026-01-27/pinterest-to-cut-less-than-15-of-staff-amid-ai-push) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Amazon Is Closing Its Fresh Grocery, Go Convenience Stores](https://www.bloomberg.com/news/articles/2026-01-27/amazon-is-closing-its-fresh-grocery-go-convenience-stores) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [EU Deploys First Satellite Service in Bid to Limit US Dependence](https://www.bloomberg.com/news/articles/2026-01-27/eu-deploys-first-satellite-service-in-bid-to-limit-us-dependence) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Gemini to Close NFT Marketplace Nifty Gateway in February](https://www.bloomberg.com/news/articles/2026-01-27/gemini-to-close-nft-marketplace-nifty-gateway-in-february) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Sonos Announces First New Product in Over a Year After App Turnaround](https://www.bloomberg.com/news/articles/2026-01-27/sonos-announces-amp-multi-its-first-new-hardware-product-in-over-a-year) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Lyft Working on Teen Rides Feature as It Plays Catch-Up With Uber](https://www.bloomberg.com/news/articles/2026-01-27/lyft-working-on-service-for-teens-as-it-plays-catch-up-with-rival-uber) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Amazon Closing All Go and Fresh Stores](https://www.bloomberg.com/news/videos/2026-01-27/amazon-closing-all-go-and-fresh-stores-video) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Woman to Settle TikTok Social Media Addiction Case Before Trial](https://www.bloomberg.com/news/articles/2026-01-27/woman-to-settle-tiktok-social-media-addiction-case-before-trial) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Samsung's TriFold Phone Will Cost $2,899 in US and Launch on Jan. 30](https://www.bloomberg.com/news/articles/2026-01-27/samsung-s-trifold-foldable-phone-will-cost-2-899-in-us-and-launch-on-jan-30) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [London Cyber Attack Threatens to Hold Up Thousands of Home Sales](https://www.bloomberg.com/news/articles/2026-01-27/london-cyber-attack-threatens-to-hold-up-thousands-of-home-sales) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Recruiter SThree ‘Carefully’ Optimistic Hiring Slump Is Through](https://www.bloomberg.com/news/articles/2026-01-27/recruiter-sthree-carefully-optimistic-hiring-slump-is-through) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Can You Sue the White House Over an AI Deepfake?](https://gizmodo.com/can-you-sue-the-white-house-over-an-ai-deepfake-2000714219) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [These New ‘KPop Demon Hunter’ Toys Will Takedown Your Wallet](https://gizmodo.com/kpop-demon-hunters-toys-merchandise-dolls-release-date-hasbro-mattell-2000714461) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [TikTok Swears It Didn’t Ban Sharing the Name ‘Epstein,’ as Gavin Newsom Announces Investigation](https://gizmodo.com/tiktok-swears-it-didnt-ban-sharing-the-name-epstein-as-gavin-newsom-announces-investigation-2000714521) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Sam Raimi Movies, Ranked](https://gizmodo.com/sam-raimi-movies-ranked-2000713699) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [US Pediatricians Give Middle Finger to RFK Jr., Issue Their Own Vaccine Recommendations](https://gizmodo.com/us-pediatricians-give-middle-finger-to-rfk-jr-issue-their-own-vaccine-recommendations-2000714459) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Lego’s Newest ‘Star Wars’ Smart Play Sets Are Cheaper, With a Huge Catch](https://gizmodo.com/lego-star-wars-smart-play-sets-price-release-date-2000714464) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [The Return of Nintendo’s Worst-Selling Console Could Be More Glorious Than We Thought](https://gizmodo.com/virtual-boy-switch-2-could-be-more-glorious-than-we-thought-2000714470) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Snowmageddon Continues: Another Major Storm Could Slam the East Coast This Weekend](https://gizmodo.com/snowmageddon-continues-another-major-storm-could-slam-the-east-coast-this-weekend-2000714510) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [The First ‘Daredevil: Born Again’ Season 2 Trailer Brings Back Jessica Jones](https://gizmodo.com/daredevil-born-again-season-2-trailer-jessica-jones-2000714507) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [How a Microbe Tunnels Its Way Through an Insect Gut—It’s Weirder Than You Think](https://gizmodo.com/how-a-microbe-tunnels-its-way-through-an-insect-gut-its-weirder-than-you-think-2000714242) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [E-Book Checkouts of ‘Heated Rivalry’ Shoot Up 529% in NYC After Mayor Encourages People to Stay Home and Read the Gay Hockey Book](https://gizmodo.com/e-book-checkouts-of-heated-rivalry-shoot-up-529-in-nyc-after-mayor-encourages-people-to-stay-home-and-read-the-gay-hockey-book-2000714435) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Could the MCU Already Be Looking for a New Black Panther?](https://gizmodo.com/avengers-secret-wars-new-black-panther-marvel-2000714233) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Samsung Galaxy Z Trifold U.S. Price Is Not at All Surprising](https://gizmodo.com/samsung-galaxy-z-trifold-u-s-price-is-not-at-all-surprising-2000714196) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Intel’s Panther Lake CPUs Make the Best Case for ‘Fake Frames’ in Gaming](https://gizmodo.com/intels-panther-lake-cpus-make-the-best-case-for-fake-frames-in-gaming-2000714188) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [ELEGOO Debuts Its First Multicolor FDM 3D Printer With the Centauri Carbon 2 Combo](https://gizmodo.com/elegoo-debuts-its-first-multicolor-fdm-3d-printer-with-the-centauri-carbon-2-combo-2000714308) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Ira Parker Teases a Big Event from ‘A Knight of the Seven Kingdoms’ Season 2](https://gizmodo.com/ira-parker-teases-a-big-event-from-a-knight-of-the-seven-kingdoms-season-2-2000714267) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Amazon Go and Fresh stores are closing as Amazon focuses on grocery delivery and Whole Foods](https://www.engadget.com/general/amazon-go-and-fresh-stores-are-closing-as-amazon-focuses-on-grocery-delivery-and-whole-foods-180448412.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [OpenAI releases Prism, a Claude Code-like app for scientific research](https://www.engadget.com/ai/openai-releases-prism-a-claude-code-like-app-for-scientific-research-180000454.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Google AI Plus is now available in the US for $8 a month](https://www.engadget.com/ai/google-ai-plus-is-now-available-in-the-us-for-8-a-month-180000175.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [WhatsApp introduces an advanced security mode to protect against hackers](https://www.engadget.com/cybersecurity/whatsapp-introduces-an-advanced-security-mode-to-protect-against-hackers-174144598.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Yahoo is adding generative AI to its search engine](https://www.engadget.com/ai/yahoo-is-adding-generative-ai-to-its-search-engine-172706249.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Samsung Galaxy Unpacked 2026: Everything we think the company will unveil](https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-everything-we-think-the-company-will-unveil-130000218.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Gemini 3 is now Google's default model for AI Overviews](https://www.engadget.com/ai/gemini-3-is-now-googles-default-model-for-ai-overviews-170000302.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [How to get NBC without Fubo ahead of the 2026 Winter Olympics](https://www.engadget.com/entertainment/streaming/how-to-get-nbc-without-fubo-ahead-of-the-2026-winter-olympics-163805696.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Pinterest is conducting a massive round of layoffs to prioritize 'AI-powered products and capabilities'](https://www.engadget.com/ai/pinterest-is-conducting-a-massive-round-of-layoffs-to-prioritize-ai-powered-products-and-capabilities-163440004.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [The EU tells Google to give external AI assistants the same access to Android as Gemini has](https://www.engadget.com/ai/the-eu-tells-google-to-give-external-ai-assistants-the-same-access-to-android-as-gemini-has-154157081.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [AirPods 4 with ANC drop to $119](https://www.engadget.com/deals/airpods-4-with-anc-drop-to-119-153239093.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [The Samsung Galaxy Z Trifold will cost $2,900 in the US](https://www.engadget.com/mobile/smartphones/the-samsung-galaxy-z-trifold-will-cost-2900-in-the-us-140000013.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Lego has a new round of Star Wars sets that work with the Smart Brick](https://www.engadget.com/lego-has-a-new-round-of-star-wars-sets-that-work-with-the-smart-brick-131210482.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Apple's AirPods Pro 3 are on sale for $199 right now](https://www.engadget.com/deals/apples-airpods-pro-3-are-on-sale-for-199-right-now-140752286.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [California will investigate TikTok's alleged censorship of anti-Trump posts](https://www.engadget.com/big-tech/california-will-investigate-tiktoks-alleged-censorship-of-anti-trump-posts-130000558.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [PVH reimagines the future of fashion with OpenAI](https://openai.com/index/pvh-future-of-fashion) *(OpenAI News)*
+- [ ] 2026-01-27 [Introducing Prism](https://openai.com/index/introducing-prism) *(OpenAI News)*
+- [ ] 2026-01-27 [Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2) *(Hugging Face Blog)*
+- [ ] 2026-01-20 [One Year Since the “DeepSeek Moment”](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment) *(Hugging Face Blog)*
+- [ ] 2026-01-27 [東京都、広島県とAI活用で連携へ　GovTech東京とともに協定締結](https://www.itmedia.co.jp/aiplus/articles/2601/27/news137.html) *(ITmedia AI＋)*
+- [ ] 2026-01-27 [続・戦略と実行を爆速でつなぐデータ活用の現在地: LLM 編 - inSmartBank](https://blog.smartbank.co.jp/entry/ask) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-27 [AIに「チーズ作り」などの無害な情報を学習させると化学兵器の作り方を学んでしまうことがAnthropicの研究で明らかに](https://gigazine.net/news/20260127-anthropic-elicitation-attack/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-27 [MCP Apps - Bringing UI Capabilities To MCP Clients](http://blog.modelcontextprotocol.io/posts/2026-01-26-mcp-apps/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-27 [Dario Amodei — The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-27 [データモデルのイベントの期間の設計のコツ - そーだいなるらくがき帳](https://soudai.hatenablog.com/entry/2026/01/27/185902) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [子どもについ怒ってしまう問題に対応する - 「どならない練習」を読んだ - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/01/27/170000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [「日本はカモにされていた」Metaがいかにして日本政府を欺いていたのか、その「工作」を明らかにする【プラットフォーマーに問う①】｜SlowNews \| スローニュース](https://slownews.com/n/n4382ee9507a4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [「LINE教えて」はもう古い？　Z世代が初対面でインスタを交換する納得の理由](https://www.itmedia.co.jp/mobile/articles/2601/27/news111.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [NTT東日本のデータセンターで電源不具合、楽天モバイルの通信障害に影響](https://k-tai.watch.impress.co.jp/docs/news/2081259.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [古いiPhone向けに「iOS 18.7.4」「iOS 16.7.13」「iOS 15.8.6」「iOS 12.5.8」配信、重要なバグ修正](https://k-tai.watch.impress.co.jp/docs/news/2081237.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [トヨタとティアフォー、2027年度内を目指しレベル4自動運転をバッテリEV「イーパレット」で実現へ AI自動運転機能も一部検討](https://car.watch.impress.co.jp/docs/news/2081229.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [MCP Apps：AIのUIが「標準化」された日（AI UIのHTML化）](https://zenn.dev/gunta/articles/03b74f75541d5f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [Claude × Slack連携は安全？セキュリティリスクと対策【2026年1月版】](https://zenn.dev/mjinia/articles/68256d5418109e) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [高校生でもわかるAIと電気と高校数学の応用先](https://zenn.dev/qwerewq/articles/90cba607309c19) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [人間は、どこまで制作から降りられるのか？Gemini 2.0 Thinking × Imagen 3 で挑む「自律型4コママンガ生成システム](https://zenn.dev/furuyan1234/articles/cacdf1cbe99396) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [自作言語Onionの開発がClaude Codeで劇的に変わった話](https://zenn.dev/nextbeat/articles/2026-01-onion-develop-with-coding-ai) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [Codex が JetBrains IDE にネイティブ統合されました](https://zenn.dev/nattosystem_jp/articles/85c67c89ec47c1) *(Zenn – トピック AI)*
