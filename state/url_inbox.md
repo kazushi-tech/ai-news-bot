@@ -19196,3 +19196,68 @@
 - [ ] 2026-01-28 [CuraQの技術的な話　〜AI編〜](https://zenn.dev/ogi1211/articles/curaq-and-ai-usage) *(Zenn – トピック LLM)*
 - [ ] 2026-01-27 [【徹底解説】OpenAIの新プラットフォーム「Prism」が変える研究の未来](https://zenn.dev/ainohogosya/articles/35c071ab09579b) *(Zenn – トピック LLM)*
 - [ ] 2026-01-27 [Claude Code の CLAUDE.md と .claude/ フォルダの違い - オンデマンド読み込みを理解する](https://zenn.dev/mjinia/articles/06c878a5453fe5) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-28T12:21:18.870Z
+- [ ] 2026-01-28 [‘Shameful’: Trump’s EPA accused of prioritizing big business over public health](https://www.theguardian.com/us-news/2026/jan/28/trump-epa-environmental-rollbacks) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-28 [Copyrighted art, mobile phones, Greenland: welcome to our age of shameless theft \| Jonathan Liew](https://www.theguardian.com/commentisfree/2026/jan/28/copyright-mobile-phones-greenland-ai-inequality-political-leaders) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-28 [AI that talks to itself learns faster and smarter](https://www.sciencedaily.com/releases/2026/01/260127112130.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-01-28 [White House compares industrial revolution with AI era](https://www.artificialintelligence-news.com/news/white-house-predicts-ai-growth-with-comparison-industrial-and-artificial-intelligence-revolutions/) *(Artificial Intelligence News)*
+- [ ] 2026-01-28 [Gallup Workforce shows details of AI adoption in US workplaces](https://www.artificialintelligence-news.com/news/gallup-workforce-ai-shows-details-of-ml-adoption-in-us-workplaces/) *(Artificial Intelligence News)*
+- [ ] 2026-01-28 [Inside Standard Chartered’s approach to running AI under privacy rules](https://www.artificialintelligence-news.com/news/how-standard-chartered-runs-ai-under-privacy-rules/) *(Artificial Intelligence News)*
+- [ ] 2026-01-27 [Top 10 AI security tools for enterprises in 2026](https://www.artificialintelligence-news.com/news/top-10-ai-security-tools-for-enterprises-in-2026/) *(Artificial Intelligence News)*
+- [ ] 2026-01-28 [Android Phones Get AI-Powered Anti-Theft Features](https://www.techrepublic.com/article/news-android-anti-theft-features/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-28 [Tencent Expands Cloud Business in Middle East](https://www.techrepublic.com/article/news-tencent-middle-east-expansion/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-28 [AT&T Revenue Beats Estimates, Buoyed by Broadband Strength](https://www.bloomberg.com/news/articles/2026-01-28/-at-t-mobile-subscriber-gains-miss-estimates-in-tight-market) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [Microsoft, Amazon Give Bubble-Wary Investors Another Metric to Worry About](https://www.bloomberg.com/news/newsletters/2026-01-28/microsoft-amazon-oracle-promises-of-future-cloud-sales-spook-investors) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [ASML Plans to Cut 1,700 Jobs to Reduce Management Layers](https://www.bloomberg.com/news/articles/2026-01-28/asml-plans-about-1-700-job-cuts-in-netherlands-us-as-sales-boom) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [ASML Soars to Record High After Blowout Bookings and Job Cuts](https://www.bloomberg.com/news/articles/2026-01-28/asml-s-record-orders-beat-estimates-as-ai-spending-spurs-demand) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [Amazon Plans to Cut 16,000 Jobs as AI Competition Heats Up](https://www.bloomberg.com/news/articles/2026-01-28/amazon-to-cut-16-000-jobs-trimming-bureaucracy-amid-ai-tussle) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [Amazon to Cut 16,000 Corporate Jobs as AI Competition Intensifies](https://www.bloomberg.com/news/videos/2026-01-28/amazon-to-cut-16-000-jobs-as-ai-competition-intensifies-video) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [Self-Driving Tech Startup Waabi Raises $1 Billion, Expands to Robotaxis](https://www.bloomberg.com/news/articles/2026-01-28/self-driving-trucking-startup-waabi-raises-1-billion-expands-to-robotaxis) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [Advantest Rushes to Boost AI Chip Tester Capacity to Meet Demand](https://www.bloomberg.com/news/articles/2026-01-28/advantest-rushes-to-boost-ai-chip-tester-capacity-to-meet-demand) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [Microsoft and Meta Earnings Put a Focus on Payoffs From AI Spending](https://www.bloomberg.com/news/articles/2026-01-28/microsoft-meta-earnings-put-a-focus-on-payoffs-from-ai-spending) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [AI Health Startup Sword Buys Rival, Seeks $500 Million Funding](https://www.bloomberg.com/news/articles/2026-01-28/sword-buys-kaia-health-plans-fresh-500-million-funding-round) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [SK Hynix Profit Surges on Relentless Appetite for AI Memory](https://www.bloomberg.com/news/articles/2026-01-28/sk-hynix-s-profit-surges-on-relentless-appetite-for-ai-memory) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [Amid Threats, Philippines Spends Millions to Upskill Outsourcing Workers](https://www.bloomberg.com/news/articles/2026-01-28/amid-threats-philippines-spends-millions-to-upskill-outsourcing-workers) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [ASML Looking at 'Record Quarter,' CEO Says](https://www.bloomberg.com/news/videos/2026-01-28/asml-looking-at-record-quarter-ceo-says-video) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [Capcom Jumps Most in 18 Months on Surprise ‘Resident Evil’ Boost](https://www.bloomberg.com/news/articles/2026-01-28/capcom-jumps-most-in-18-months-on-surprise-resident-evil-boost) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [Bandai’s ‘Marvel vs. Capcom’ Figures Just Keep Getting Better and Better](https://gizmodo.com/sh-figuarts-gamerverse-wolverine-marvel-vs-capcom-preorders-price-release-date-2000714783) *(Gizmodo – Technology)*
+- [ ] 2026-01-28 [Amazon's latest round of layoffs will affect 16,000 workers](https://www.engadget.com/big-tech/amazons-latest-round-of-layoffs-will-affect-16000-workers-120000702.html?src=rss) *(Engadget)*
+- [ ] 2026-01-28 [Windscribe review: Despite the annoyances, it has the right idea](https://www.engadget.com/cybersecurity/vpn/windscribe-review-despite-the-annoyances-it-has-the-right-idea-120000837.html?src=rss) *(Engadget)*
+- [ ] 2026-01-28 [The best robot vacuums on a budget for 2026](https://www.engadget.com/home/smart-home/best-budget-robot-vacuums-133030847.html?src=rss) *(Engadget)*
+- [ ] 2026-01-28 [EMEA Youth & Wellbeing Grant](https://openai.com/index/emea-youth-and-wellbeing-grant) *(OpenAI News)*
+- [ ] 2026-01-28 [The next chapter for AI in the EU](https://openai.com/index/the-next-chapter-for-ai-in-the-eu) *(OpenAI News)*
+- [ ] 2026-01-28 [アスクルが特別損失52億円を計上、ランサムウエア攻撃の対応費用として](https://xtech.nikkei.com/atcl/nxt/news/24/03064/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [AIエージェント「Genspark」、日本法人設立　国内展開を本格化](https://www.itmedia.co.jp/aiplus/articles/2601/28/news145.html) *(ITmedia AI＋)*
+- [ ] 2026-01-28 [ついに来た！！法人 GWS の Gemini と NotebookLM が連携。時短勤務の救世主となるか！？ \| iret.media](https://iret.media/184261) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-28 [Googleが月額1200円の「Google AI Plus」を日本で開始](https://gigazine.net/news/20260128-google-ai-plus/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-28 [弁護士考案「令和8年現在、民法の全1050条の中に登場するヒト以外の動物が一種だけあります。何？」というクイズが話題に、リプからは様々な動物の名前が挙がる](https://togetter.com/li/2656886) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-28 [Claude CodeのSubagentとcontext: forkは何が違うのか - 5.1さらうどん](https://giginet.hateblo.jp/entry/2026/01/27/202636) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-28 [Git の次へ。jj（Jujutsu）が変えるバージョン管理の常識](https://zenn.dev/yamitake/articles/jj-jujutsu-modern-vcs-guide) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [約5年間気付かず。エプソン販売、システム不備で問い合わせに未回答](https://pc.watch.impress.co.jp/docs/news/2081475.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [無料でスマホやタブレットで電波時計を同期できる「Time Station Emulator」](https://gigazine.net/news/20260128-time-station-emulator/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [JAXAが公開したMCPサーバーを触ってみる](https://zenn.dev/ra0kley/articles/cb2fc726f167da) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [Google AI Plus を提供開始](https://blog.google/intl/ja-jp/company-news/technology/google-ai-plus/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [gog — Google in your terminal](https://gogcli.sh/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [Gemini 3 Flashに高精度な画像理解機能「Agentic Vision」が追加される、コードを実行して画像に枠線などを描画しながら細かい理解が可能](https://gigazine.net/news/20260128-agentic-vision-gemini-3-flash/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [【上級者向け】Windows 11の「サインイン後の待ち時間」を解消。スタートアップより速い「Run」キー活用術](https://atmarkit.itmedia.co.jp/ait/articles/2601/28/news023.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [こういう広告の『閉じる』ボタンをわざとわかりにくくするの、サイト自体が嫌われると思う「ボタンのコントラストが低くて非常に見分けづらい」](https://togetter.com/li/2656842) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [Claude（Web版）で積み上げた知識、Claude Codeに引っ越せます](https://zenn.dev/sora_biz/articles/claude-code-migration-guide) *(Zenn – トピック LLM)*
+- [ ] 2026-01-28 [「なぜそのSOTAモデルは実務で使えないのか？」最先端ベンチマーク7種の"採点ロジック"を完全解剖](https://zenn.dev/lixian/articles/4d1d14329b8627) *(Zenn – トピック LLM)*
+- [ ] 2026-01-28 [AWS AppConfig でプロンプトをデプロイする](https://zenn.dev/emuni/articles/deploy-prompt) *(Zenn – トピック LLM)*
+- [ ] 2026-01-28 [Claude Coworkを使ってみた：ブラウザ操作とファイル処理で広がる業務自動化の可能性](https://zenn.dev/hibari_inc/articles/use-claude-cowork) *(Zenn – トピック AI)*
+- [ ] 2026-01-28 [「人間らしい」AIの設計](https://zenn.dev/pdhaku0/articles/ca123bb8857b8c) *(Zenn – トピック AI)*
+- [ ] 2026-01-28 [Claude記憶システムの挙動相転移 —— 単一スレッドで観測された変化の記録](https://zenn.dev/dosanko_tousan/articles/7357b6a9d9f846) *(Zenn – トピック AI)*
+- [ ] 2026-01-28 [Claude Codeで工数見積もりAgentを作る - DITA構造化アプローチ](https://zenn.dev/corone/articles/b5a826de0f78fd) *(Zenn – トピック AI)*
+- [ ] 2026-01-28 [Webデザイナーが自分専用のAI軍師「ルナちゃん」をGem化した話](https://zenn.dev/timee_webdesign/articles/f998fb7ba80d8b) *(Zenn – トピック AI)*
+- [ ] 2026-01-28 [MCP Apps 登場！AI チャット内でインタラクティブ UI が動く時代へ](https://zenn.dev/yasuhito/articles/mcp-apps-interactive-ui) *(Zenn – トピック AI)*
+- [ ] 2026-01-28 [#25 視点の階層と循環を時間軸に乗せると何が見えるか](https://zenn.dev/corone/articles/ebafcc7efa0d2a) *(Zenn – トピック AI)*
+- [ ] 2026-01-28 [Agentic Commerce の顔になるか！？ MCP Apps を試してみる](https://zenn.dev/aws_japan/articles/5709c0fab21676) *(Zenn – トピック AI)*
+- [ ] 2026-01-28 [AIの「幻覚」はバグではない、ただの「未承認の提案」である](https://zenn.dev/hironobuarakawa/articles/d6885c1f6f32a9) *(Zenn – トピック AI)*
+- [ ] 2026-01-28 [AIツールだらけの今、情報のノイズに惑わされないために](https://zenn.dev/dpbz/articles/49989504c703d6) *(Zenn – トピック AI)*
+- [ ] 2026-01-28 [今の時代にマークダウンの書き方を強制すること](https://zenn.dev/jackchuka/articles/9a2c7b7c811c22) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [AIで作る業務動画 Day 28｜2分の動画が3分でレンダリングできる理由と最適化の実践](https://zenn.dev/akira_cloudjob/articles/20260128-performance-optimization) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [マーケターのための Google Antigravity 活用術](https://zenn.dev/geeknees/books/b312b1844fb348) *(Zenn – トピック AI)*
+- [ ] 2026-01-28 [4-⑥[AI][Kaggle][python]Kaggle入門(中級機械学習 6.XGBoost)](https://zenn.dev/rg687076/articles/1dc42ebf33e52d) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-28 [TabPFN v2.5 完全解説 - なぜ学習なしで強いのか【理論から実装まで】](https://zenn.dev/takatophy/articles/tabpfn-complete-guide) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-28 [Titanicの生存予測を「量子コンピュータ」で解いてみた【2026年版 量子機械学習入門】](https://zenn.dev/takatophy/articles/qml-titanic-tutorial) *(Zenn – トピック 機械学習)*
