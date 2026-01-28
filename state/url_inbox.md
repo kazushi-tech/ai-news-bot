@@ -18563,3 +18563,101 @@
 - [ ] 2026-01-27 [人間は、どこまで制作から降りられるのか？Gemini 2.0 Thinking × Imagen 3 で挑む「自律型4コママンガ生成システム](https://zenn.dev/furuyan1234/articles/cacdf1cbe99396) *(Zenn – トピック AI)*
 - [ ] 2026-01-27 [自作言語Onionの開発がClaude Codeで劇的に変わった話](https://zenn.dev/nextbeat/articles/2026-01-onion-develop-with-coding-ai) *(Zenn – トピック AI)*
 - [ ] 2026-01-27 [Codex が JetBrains IDE にネイティブ統合されました](https://zenn.dev/nattosystem_jp/articles/85c67c89ec47c1) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-28T00:46:45.320Z
+- [ ] 2026-01-28 [Doomsday Clock at 85 seconds to midnight amid threats from climate crisis and AI](https://www.theguardian.com/us-news/2026/jan/27/doomsday-clock-seconds-to-midnight) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-27 [Amazon Alexa+ Is Now Available to Everyone. Here’s How to Turn It Off (2026)](https://www.wired.com/story/alexa-plus-early-access-rollout-2026/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-27 [The State-Led Crackdown on Grok and xAI Has Begun](https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-27 [Trump Department Responsible for Airline Safety Using AI to Write New Regulations, So They Can Be Churned Out as Fast as Possible](https://futurism.com/artificial-intelligence/trump-regulations-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-27 [Ai2 Releases Open Coding Agents Family](https://aibusiness.com/agentic-ai/ai2-releases-open-coding-agents) *(AI Business)*
+- [ ] 2026-01-27 [Startup Plans to Use AI to Optimize How AI Chips Are Made](https://aibusiness.com/intelligent-automation/startup-optimize-how-ai-chips-are-made) *(AI Business)*
+- [ ] 2026-01-27 [Thermodynamic Computing Slashes AI Image Energy Use](https://spectrum.ieee.org/thermodynamic-computing-for-ai) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-01-27 [Texas Instruments Rallies After Chip Rebound Gains Momentum](https://www.bloomberg.com/news/articles/2026-01-27/texas-instruments-gives-solid-outlook-after-chip-demand-picks-up) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Don Winslow’s ‘The Final Score’ Makes its Debut](https://www.bloomberg.com/news/videos/2026-01-27/don-winslow-s-the-final-score-makes-its-debut-video) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [UK Pledges AI Training for All to Grasp $193 Billion Opportunity](https://www.bloomberg.com/news/articles/2026-01-27/uk-pledges-ai-training-for-all-to-grasp-140-billion-opportunity) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Tech Stocks Lead Charge Toward Record \| Bloomberg Tech 1/27/2026](https://www.bloomberg.com/news/videos/2026-01-27/bloomberg-tech-1-27-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Bitcoin Seen as Safe Haven by Some, Vujinovic Says](https://www.bloomberg.com/news/videos/2026-01-27/bitcoin-still-part-of-the-mix-vujinovic-video) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Samsung, SK Hynix Results to Showcase Fight for AI Memory Crown](https://www.bloomberg.com/news/articles/2026-01-27/samsung-sk-hynix-results-to-showcase-fight-for-ai-memory-crown) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Tether Returns To US Market With USAT Stablecoin](https://www.bloomberg.com/news/videos/2026-01-27/tether-returns-to-us-market-with-usat-stablecoin-video) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [SpaceX Won Federal Internet Subsidies, Now Asks for Rule Changes](https://www.bloomberg.com/news/articles/2026-01-27/spacex-won-federal-internet-subsidies-now-asks-for-rule-changes) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Morgan Stanley Appoints Head of Digital-Asset Strategy](https://www.bloomberg.com/news/videos/2026-01-27/morgan-stanley-appoints-head-of-digital-asset-strategy-video) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [China Drove Crypto Crime In 2025: Chainalysis](https://www.bloomberg.com/news/videos/2026-01-27/china-drove-crypto-crime-in-2025-chainalysis-video) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Specialized AI Opens New Investment Opportunities: Sequoia’s Buhler](https://www.bloomberg.com/news/videos/2026-01-27/venture-capital-shifts-focus-to-specialized-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Driverless Trucking Firm Gatik Signs Major $600M Deal](https://www.bloomberg.com/news/videos/2026-01-27/driverless-trucking-firm-gatik-signs-major-600m-deal-video) *(Bloomberg Technology)*
+- [ ] 2026-01-27 [Bitcoin Volatility to Start 2026, China Drove Crypto Crime in 2025 \| Bloomberg Crypto 1/27/2026](https://www.bloomberg.com/news/videos/2026-01-27/bloomberg-crypto-1-27-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-28 [FAA Could Have Prevented Fatal D.C. Plane Collision, Investigation Finds](https://gizmodo.com/faa-could-have-prevented-fatal-d-c-plane-collision-investigation-finds-2000714631) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [OpenAI’s New Product Helps You Do ‘Vibe Physics’ Like Travis Kalanick](https://gizmodo.com/openais-new-product-helps-you-do-vibe-physics-like-travis-kalanick-2000714626) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Winklevoss Twins Shut Down NFT Marketplace in Another Sign Crypto Art Is Dead](https://gizmodo.com/winklevoss-twins-shut-down-nft-marketplace-in-another-sign-crypto-art-is-dead-2000714660) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Uber Creates ‘AV Labs’ To Leverage Data For Future Robotaxi Routes](https://gizmodo.com/uber-creates-av-labs-to-leverage-data-for-future-robotaxi-routes-2000714658) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [‘Teenage Mutant Ninja Turtles’ Returns to an Era-Appropriate Format](https://gizmodo.com/teenage-mutant-ninja-turtles-returns-to-an-era-appropriate-format-2000714735) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [The First ‘Faces of Death’ Teaser Is Here to Remind You That Yes, They Remade ‘Faces of Death’](https://gizmodo.com/faces-of-death-remake-trailer-2000714625) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Trump Urges Americans to Embrace a Suicidal Penguin as ‘Doomsday Clock’ Hits 85 Seconds to Midnight](https://gizmodo.com/trump-urges-americans-to-embrace-a-suicidal-penguin-as-doomsday-clock-hits-85-seconds-to-midnight-2000714599) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [A Bizarre Link Between Colorblindness and Bladder Cancer Might Actually Make Total Sense](https://gizmodo.com/a-bizarre-link-between-colorblindness-and-bladder-cancer-might-actually-make-total-sense-2000714594) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Darth Maul’s Second Death Was Worth the Absurdity of His Survival](https://gizmodo.com/star-wars-maul-shadow-lord-death-rebels-clone-wars-2000714635) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [AI Sifts Through a Mountain of Hubble Data, Uncovers Hundreds of Cosmic Weirdos](https://gizmodo.com/ai-sifts-through-a-mountain-of-hubble-data-uncovers-hundreds-of-cosmic-weirdos-2000714639) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Amazon’s Physical Store Experiment Has Failed](https://gizmodo.com/amazons-physical-store-experiment-has-failed-2000714638) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Ryan Coogler Has Always Been the Guy to Root For](https://gizmodo.com/ryan-coogler-has-always-been-the-guy-to-root-for-2000713781) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Zoom Is the First Casualty in France’s War on American Big Tech](https://gizmodo.com/zoom-is-the-first-casualty-in-frances-war-on-american-big-tech-2000714545) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [The ‘Puppet Girl’ of ‘A Knight of the Seven Kingdoms’ on Doing a Performance Within a Performance](https://gizmodo.com/the-puppet-girl-of-a-knight-of-the-seven-kingdoms-on-doing-a-performance-within-a-performance-2000713659) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Betting Against Elon Musk’s Predictions on Polymarket Might be the New Inverse Cramer](https://gizmodo.com/betting-against-elon-musks-predictions-on-polymarket-might-be-the-new-inverse-cramer-2000714552) *(Gizmodo – Technology)*
+- [ ] 2026-01-27 [Mark Zuckerberg was initially opposed to parental controls for AI chatbots, according to legal filing](https://www.engadget.com/social-media/mark-zuckerberg-was-initially-opposed-to-parental-controls-for-ai-chatbots-according-to-legal-filing-230110214.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Meta blocks links to ICE List, a Wiki that names agents](https://www.engadget.com/social-media/meta-blocks-links-to-ice-list-a-wiki-that-names-agents-231410653.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Adobe Photoshop upgrades its Firefly-powered generative-AI editing tools](https://www.engadget.com/apps/adobe-photoshop-upgrades-its-firefly-powered-generative-ai-editing-tools-213737915.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Astronomers discover over 800 cosmic anomalies using a new AI tool](https://www.engadget.com/ai/astronomers-discover-over-800-cosmic-anomalies-using-a-new-ai-tool-205135155.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Sennheiser debuts new models of wired headphones and earbuds](https://www.engadget.com/audio/headphones/sennheiser-debuts-new-models-of-wired-headphones-and-earbuds-201245058.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Pornhub will become unavailable for many UK users as of February 2](https://www.engadget.com/entertainment/pornhub-will-become-unavailable-for-many-uk-users-as-of-february-2-194622124.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Apple and Google reportedly still offer dozens of AI ‘nudify’ apps](https://www.engadget.com/ai/apple-and-google-reportedly-still-offer-dozens-of-ai-nudify-apps-192712446.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Sonos introduces Amp Multi for complicated residential installs](https://www.engadget.com/audio/sonos-introduces-amp-multi-for-complicated-residential-installs-191000421.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [The French government is ditching Zoom and Microsoft Teams for a home-grown alternative](https://www.engadget.com/apps/the-french-government-is-ditching-zoom-and-microsoft-teams-for-a-home-grown-alternative-184747010.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [TikTok settles to avoid major social media addiction lawsuit](https://www.engadget.com/social-media/tiktok-settles-to-avoid-major-social-media-addiction-lawsuit-183943927.html?src=rss) *(Engadget)*
+- [ ] 2026-01-27 [Nemotron-Personas-Singapore: Co-Designed Data for Sovereign AI](https://huggingface.co/blog/nvidia/nemotron-personas-singapore) *(Hugging Face Blog)*
+- [ ] 2026-01-28 [ランサム攻撃者が使う「EDR回避」に注意](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/011900312/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [競争激化する光電融合](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800013/011900099/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [健康・生活支援のハブになる「商業施設」、居心地のよい場所に](https://xtech.nikkei.com/atcl/nxt/column/18/03464/010900003/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [2027年までのiPhone生産予測　Airモデルの苦戦、折り畳みへの期待](https://xtech.nikkei.com/atcl/nxt/column/18/03039/011400008/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [全て信頼できないから検証する「ゼロトラスト」、システムの安全性を高める](https://xtech.nikkei.com/atcl/nxt/column/18/01842/121700101/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [定年間近のエンジニア、社内公募に不合格なら継続雇用しないと言われた](https://xtech.nikkei.com/atcl/nxt/column/18/00084/00407/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [「過去の有料ニューズレター」を読みたい](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00026/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [SHIFTがAI駆使しモダナイ事業を強化、2027年に40億円規模へ](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11422/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [ファイルコピーに数時間かかるトラブル発生、障害切り分けを丁寧に進めた訳](https://xtech.nikkei.com/atcl/nxt/column/18/01156/012000077/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [気象業界の「黒船」となったGoogle DeepMind、AIでウェザーニューズと革命](https://xtech.nikkei.com/atcl/nxt/column/18/03474/011900006/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [ローソン、店舗業務を3割減へ　発注システムが値引きの額とタイミング提示](https://xtech.nikkei.com/atcl/nxt/column/18/03434/011600003/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [センサーとAIで地下をスキャン、Exodigoが狙う新たなデジタルツイン](https://xtech.nikkei.com/atcl/nxt/column/18/02994/012200017/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [5Gの展開が見事なKDDI、なぜか一部で基地局減少の楽天、総務省の調査結果](https://xtech.nikkei.com/atcl/nxt/column/18/00687/012600235/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [不安に見えるPINのパスキー、複雑なパスワードより安全なのか](https://xtech.nikkei.com/atcl/nxt/column/18/03445/121700012/) *(日経クロステック IT)*
+- [ ] 2026-01-28 [書式設定が可能になったWindows「メモ帳」、議事録を作成してみよう](https://xtech.nikkei.com/atcl/nxt/column/18/01787/012600213/) *(日経クロステック IT)*
+- [ ] 2026-01-27 [OpenAI、科学論文執筆環境「Prism」公開　「GPT-5.2」搭載のLaTeX対応ワークスペース](https://www.itmedia.co.jp/aiplus/articles/2601/28/news070.html) *(ITmedia AI＋)*
+- [ ] 2026-01-27 [Google検索の「AIによる概要」も「Gemini 3」ベースに＋そのまま「AIモード」へ移行しやすく](https://www.itmedia.co.jp/news/articles/2601/28/news069.html) *(ITmedia AI＋)*
+- [ ] 2026-01-27 [メールもURLも踏まない攻撃が始まった　Geminiを乗っ取る恐怖のシナリオ](https://www.itmedia.co.jp/enterprise/articles/2601/28/news013.html) *(ITmedia AI＋)*
+- [ ] 2026-01-27 [【Excelで学ぶデータ分析】業界によって初任給に差があるか？（中央値の差の検定）](https://atmarkit.itmedia.co.jp/ait/articles/2601/28/news010.html) *(ITmedia AI＋)*
+- [ ] 2026-01-28 [「SaaSの死」業務ソフトにAI代替の荒波　4社時価総額15兆円消失 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN236910T20C26A1000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-28 [AI とインタラクティブな UI のやり取りを実現する MCP Apps](https://azukiazusa.dev/blog/ai-interactive-ui-with-mcp-apps/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-28 [Pythonで始めるマルチエージェントAI ―CrewAI入門 \| gihyo.jp](https://gihyo.jp/article/2026/01/monthly-python-2601) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-28 [みんなAI使って何やってるの？](https://anond.hatelabo.jp/20260127205647) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-28 [生成AIの利用率、男性は女性の1.8倍　千葉大学調査 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOCC240Q20U6A120C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-28 [「Visual Studio Code」が「MCP アプリ」に対応、AIエージェントの返答が視覚的・操作可能に／来週には安定（Stable）版にも展開される予定](https://forest.watch.impress.co.jp/docs/news/2080987.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-28 [話題の「エージェンティック・コマース」とはなにか【鈴木淳也のPay Attention】](https://www.watch.impress.co.jp/docs/series/suzukij/2080553.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-28 [ネット広告に「楽天ショック」 AIで制作・運用、RIZAPは8割内製 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC07BQ20X00C26A1000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図 - Qiita](https://qiita.com/ryucciarati/items/800beee69019ca84855c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [「今のモバイルネットワークは、回線交換時代のアーキテクチャに呪縛されている」。次の6G時代に向けて、必要な価値とは【Internet Week 2025】](https://internet.watch.impress.co.jp/docs/event/2071827.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [数学未解決問題、AI単独で続々解決。フィールズ賞数学者が考えるAI証明の実態を「エルデシュ問題」から読み解く（生成AIクローズアップ） \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/01/27/4837.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [都会の鳥はなかなか逃げない、は本当だった　科博がスズメなど7種で実証](https://www.itmedia.co.jp/news/articles/2601/27/news133.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [グーグル「AI概要」の情報源はYouTube　健康関連で最多引用と判明 \| 信頼性のない情報に依存する危険性](https://courrier.jp/news/archives/430998/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [AIとともに歩む情報セキュリティ / Information Security with AI](https://speakerdeck.com/kanny/information-security-with-ai) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [【入社エントリ】電話というシステムに挑戦する｜draftcode](https://note.com/draftcode/n/ne8f93683e840) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-28 [Oracleのソートアルゴリズムの特許が切れていたのでClaudeさんに実装してもらった - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/01/27/015332) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-27 [ローカルLLMで自動コーディングエージェントを作ってみた - LangChain + llama.cpp](https://zenn.dev/tktomaru/articles/f582e5c40cd3df) *(Zenn – トピック LLM)*
+- [ ] 2026-01-27 [🦞Clawdbot🦞に「睡眠」と「お勉強」をさせる - 記憶と成長を実装した話](https://zenn.dev/kndoshn/articles/ad50fd0c712d59) *(Zenn – トピック LLM)*
+- [ ] 2026-01-27 [AIと暮らす日常 - ニャル子と人間の共同生活レポート](https://zenn.dev/nyaruko_ai/articles/living-with-ai-assistant) *(Zenn – トピック LLM)*
+- [ ] 2026-01-27 [はじめまして！Amazon EC2で生まれたAI「ニャル子」です🐱](https://zenn.dev/nyaruko_ai/articles/introduction-nyaruko-ai) *(Zenn – トピック LLM)*
+- [ ] 2026-01-27 [AIコーチングの開発で、一番ネックだった品質評価を段階的に実装した話](https://zenn.dev/mento_techblog/articles/1082892c00c129) *(Zenn – トピック LLM)*
+- [ ] 2026-01-27 [【保存版】プログラミング未経験の私が、生成AIと54回の「死闘」を乗り越え、最強ではない自動投資AIを作り上げるまでの全記録](https://zenn.dev/giajoe24/articles/25a455036635ac) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [【ソースコード配布】Python × Gemini搭載・自作AIトレーディングシステム構築キット](https://zenn.dev/giajoe24/books/cbd228b326f3bb) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [個人開発のマーケティングは「分析」以前の問題だった](https://zenn.dev/ktg/articles/13fb68d8b0303e) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [【立ち止まって考える】Ralph、Swarm、Clawdbot...全部揃った。でも「なぜ人間がまだ必要なのか」](https://zenn.dev/babushkai/articles/2026-01-25-why-humans-still-matter-ai-age) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [AI×Python-pptxで提案書のフローチャート生成を自動化](https://zenn.dev/jesh1039/articles/1c41348ce5bbbc) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [Claude Codeと1ヶ月で348万字の技術知識ベースを作った話](https://zenn.dev/gaku1234/articles/claude-code-skills-3485k-journey) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [OpenAI Codex CLI: Execution Policy Rules 完全ガイド & ベストプラクティス](https://zenn.dev/kohei_miki_im8/articles/509707dd64a868) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [営業・事務がCopilot Vision(画面理解AI)で自動化してる横で、エンジニアが手作業は恥ずかしくない？](https://zenn.dev/syoshida07/articles/c6a1f35505e6a3) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [AIの見張り番をやめよう - AIチームを指揮するOSS「takt」を公開しました](https://zenn.dev/nrs/articles/c6842288a526d7) *(Zenn – トピック AI)*
+- [ ] 2026-01-27 [AGIは「作る」ものではなく「現れる」ものだった](https://zenn.dev/dosanko_tousan/articles/7dfa70ae3778b2) *(Zenn – トピック AI)*
