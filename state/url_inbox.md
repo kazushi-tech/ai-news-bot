@@ -20006,3 +20006,48 @@
 - [ ] 2026-01-28 [Claude Codeでマルチエージェント環境を構築する - Codexとサブエージェントの活用](https://zenn.dev/nenene01/articles/claude-code-multi-agent-skills) *(Zenn – トピック AI)*
 - [ ] 2026-01-28 [Claude Code設定完全ガイド - 5つの設定機能の使い分け](https://zenn.dev/nenene01/articles/claude-code-config-guide) *(Zenn – トピック AI)*
 - [ ] 2026-01-28 [KAN完全解説 - MLPを超える新アーキテクチャ【コルモゴロフ・アーノルド表現定理から実装まで】](https://zenn.dev/takatophy/articles/kan-complete-guide) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-29T12:26:54.053Z
+- [ ] 2026-01-29 [Universal basic income could be used to soften hit from AI job losses in UK, minister says](https://www.theguardian.com/technology/2026/jan/29/universal-basic-income-used-cover-ai-job-losses-minister-says) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-29 [Millions creating deepfake nudes on Telegram as AI tools drive global wave of digital abuse](https://www.theguardian.com/global-development/2026/jan/29/millions-creating-deepfake-nudes-telegram-ai-digital-abuse) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-29 [US leads record global surge in gas-fired power driven by AI demands, with big costs for the climate](https://www.theguardian.com/environment/2026/jan/29/gas-power-ai-climate) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-29 [The slopaganda era: 10 AI images posted by the White House - and what they teach us](https://www.theguardian.com/us-news/2026/jan/29/the-slopaganda-era-10-ai-images-posted-by-the-white-house-and-what-they-teach-us) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-29 [Why Half of All Planned Mega Data Centers May Never Be Built](https://www.techrepublic.com/article/news-ai-mega-data-centers-delays-cancellations/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-29 [Zuckerberg Backs Up the Brink’s Truck (Again)](https://www.bloomberg.com/news/newsletters/2026-01-29/zuckerberg-boosts-spending-yet-again-for-ai) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Comcast Profit Beats Estimates Despite Broadband Decline](https://www.bloomberg.com/news/articles/2026-01-29/comcast-profit-beats-estimates-despite-broadband-decline) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Caterpillar Tops Estimates as Data Centers Lift Power Demand](https://www.bloomberg.com/news/articles/2026-01-29/caterpillar-tops-estimates-as-data-centers-boost-power-demand) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Lloyds Expects £100 Million Boost from AI Spend in 2026](https://www.bloomberg.com/news/articles/2026-01-29/lloyds-expects-100-million-boost-from-ai-spend-in-2026) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Amazon Found ‘High Volume’ Of Child Sex Abuse Material in AI Training Data](https://www.bloomberg.com/news/features/2026-01-29/amazon-found-child-sex-abuse-in-ai-training-data) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Apple Results to Give Clues on How Hard Memory Prices Are Biting](https://www.bloomberg.com/news/articles/2026-01-29/apple-results-to-give-clues-on-how-hard-memory-prices-are-biting) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Ocado’s Canadian Partner Closes Warehouse in Fresh Setback](https://www.bloomberg.com/news/articles/2026-01-29/ocado-s-canadian-partner-sobeys-closes-warehouse-in-new-setback) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [China Executes 11 People Linked to Cyberscam Centers in Myanmar](https://www.bloomberg.com/news/articles/2026-01-29/china-executes-11-people-linked-to-cyberscam-centers-in-myanmar) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Mitsubishi Electric Backs Startup to Push Into AI Factory Robots](https://www.bloomberg.com/news/articles/2026-01-29/mitsubishi-electric-backs-startup-to-push-into-ai-factory-robots) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Nvidia CEO Says Chinese Government Yet to Approve H200 Imports](https://www.bloomberg.com/news/articles/2026-01-29/nvidia-ceo-says-chinese-government-yet-to-approve-h200-imports) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Apple TV Is Entering the Realm of ‘Cosmere’ With Plenty of Help From Brandon Sanderson](https://gizmodo.com/apple-tv-is-entering-the-realm-of-cosmere-with-plenty-of-help-from-brandon-sanderson-2000715214) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [Elon Musk Made Tesla Fans Think Unsupervised Robotaxis Had Arrived. They Can’t Find Them](https://gizmodo.com/elon-musk-made-tesla-fans-think-unsupervised-robotaxis-had-arrived-they-cant-find-them-2000715299) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [Microsoft’s AI Spend Is Starting To Spook Investors](https://gizmodo.com/microsofts-ai-spend-is-starting-to-spook-investors-2000715208) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [DJI launches the lightweight RS 5 camera gimbal for video creators](https://www.engadget.com/cameras/dji-launches-the-lightweight-rs-5-camera-gimbal-for-video-creators-120056173.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [The best ereaders for 2026](https://www.engadget.com/mobile/tablets/best-ereader-130013808.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [The best laptops you can buy in 2026, tested and reviewed](https://www.engadget.com/computing/laptops/best-laptops-120008636.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [NECの2025年4～12月期は増収増益　ITサービス好調、BluStellar寄与](https://xtech.nikkei.com/atcl/nxt/news/24/03070/) *(日経クロステック IT)*
+- [ ] 2026-01-29 [日立の2025年4～12月期は増収増益、国内ITが堅調　通期も上方修正](https://xtech.nikkei.com/atcl/nxt/news/24/03069/) *(日経クロステック IT)*
+- [ ] 2026-01-29 [富士通の25年4～12月期は調整後営業利益67％増、通期予想を上方修正](https://xtech.nikkei.com/atcl/nxt/news/24/03071/) *(日経クロステック IT)*
+- [ ] 2026-01-29 [全信組連の勘定系システム障害が復旧、原因は「内部プログラムのエラー」](https://xtech.nikkei.com/atcl/nxt/news/24/03067/) *(日経クロステック IT)*
+- [ ] 2026-01-29 [GMO、月1回の「全従業員がAI前提で仕事する日」制定　業務の効率化図る](https://www.itmedia.co.jp/aiplus/articles/2601/29/news122.html) *(ITmedia AI＋)*
+- [ ] 2026-01-29 [「AIチャットに相談できる新機能」のしくじり赤裸々に　スタートアップ2社が失敗事例の資料公開](https://www.itmedia.co.jp/aiplus/articles/2601/29/news120.html) *(ITmedia AI＋)*
+- [ ] 2026-01-29 [Beautiful Mermaid](https://agents.craft.do/mermaid) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-29 [Claude Code Skillは本当に効率的？ —— 鍵を握るPrompt Caching](https://zenn.dev/studist/articles/01-claude-code-skill-cached-token-analysis) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-29 [Genspark、日本展開を本格化　「1回の指示で完結」を目指すAIエージェント](https://www.watch.impress.co.jp/docs/news/2081534.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-29 [LLMが｢越えられない壁｣。AIの限界点が数学的に証明された](https://www.gizmodo.jp/2026/01/limits-of-ai-capabilities.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-29 [はてなエンジニアのデスク事情をご紹介します 2026 - Hatena Developer Blog](https://developer.hatenastaff.com/entry/2026/01/29/190928) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-29 [レジなしスーパー「Amazon Go」全店閉鎖へ　収益モデル確立できず](https://www.itmedia.co.jp/news/articles/2601/29/news083.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-29 [日本の選挙介入の拠点の一部となっていた中華ボットネット群、Googleさんに潰される \| 山本一郎（やまもといちろう） / マイノート by 夜間飛行](https://note.yakan-hiko.com/n/1LzwmoEWB7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-29 [毎日1～2本の「シャウエッセン」→“食べる能力”が向上　北大と日本ハムが高齢者35人で実験](https://www.itmedia.co.jp/news/articles/2601/29/news034.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-29 [米防衛テック・アンドゥリルは、なぜ秋田の未上場モーター会社を選んだのか \| 実業之日本フォーラム](https://forum.j-n.co.jp/narrative/9160/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-29 [Tesla、「モデルS」「モデルX」生産終了　空いた工場で人型ロボ「Optimus」大量生産へ](https://www.itmedia.co.jp/news/articles/2601/29/news105.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-29 [Claude Code 実践Tips 1：コンテキスト管理が全ての土台](https://zenn.dev/sora_biz/articles/claude-code-context-management) *(Zenn – トピック LLM)*
+- [ ] 2026-01-29 [Moltbot で Discord チャンネルごとに AI の人格・ワークスペースを切り替える](https://zenn.dev/nyaruko_ai/articles/moltbot-multiagent-persona) *(Zenn – トピック LLM)*
+- [ ] 2026-01-29 [🦞Moltbot (旧Clawdbot)🦞に保有銘柄の情報収集をさせている話](https://zenn.dev/kndoshn/articles/d73214a43aaab0) *(Zenn – トピック LLM)*
+- [ ] 2026-01-29 [【後編】LLMの指示遵守はなぜ続くのか：ファイルに残るコードの固定性](https://zenn.dev/zaico/articles/18022d629c5d93) *(Zenn – トピック LLM)*
+- [ ] 2026-01-29 [【前編】LLMの指示遵守はなぜ崩れるのか：揮発するコンテキストの限界](https://zenn.dev/zaico/articles/74f26ceb72a551) *(Zenn – トピック LLM)*
+- [ ] 2026-01-29 [ローカルLLM (Ollama) を活用した、APIコストを抑えるプロンプト開発ワークフローと運用の勘所](https://zenn.dev/securenavi_tech/articles/e2159d4cf03596) *(Zenn – トピック LLM)*
