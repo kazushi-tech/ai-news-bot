@@ -20051,3 +20051,92 @@
 - [ ] 2026-01-29 [【後編】LLMの指示遵守はなぜ続くのか：ファイルに残るコードの固定性](https://zenn.dev/zaico/articles/18022d629c5d93) *(Zenn – トピック LLM)*
 - [ ] 2026-01-29 [【前編】LLMの指示遵守はなぜ崩れるのか：揮発するコンテキストの限界](https://zenn.dev/zaico/articles/74f26ceb72a551) *(Zenn – トピック LLM)*
 - [ ] 2026-01-29 [ローカルLLM (Ollama) を活用した、APIコストを抑えるプロンプト開発ワークフローと運用の勘所](https://zenn.dev/securenavi_tech/articles/e2159d4cf03596) *(Zenn – トピック LLM)*
+
+## Collected on 2026-01-29T18:27:20.993Z
+- [ ] 2026-01-29 [Lloyds boss warns bankers must ‘reskill themselves’ to survive AI boom](https://www.theguardian.com/business/2026/jan/29/lloyds-charlie-nunn-warns-bankers-reskill-themselves-impact-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-29 [Scientists found a way to cool quantum computers using noise](https://www.sciencedaily.com/releases/2026/01/260129080418.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-01-29 [An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account](https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-29 [Top Anthropic Researcher No Longer Sure Whether AI Is Conscious](https://futurism.com/artificial-intelligence/anthropic-amanda-askell-ai-conscious) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-29 [Insurers betting big on AI: Accenture](https://www.artificialintelligence-news.com/news/accenture-report-on-ai-in-insurance-sector/) *(Artificial Intelligence News)*
+- [ ] 2026-01-29 [Mistral AI Upgrades Vibe Coding Agent](https://aibusiness.com/foundation-models/mistral-ai-upgrades-vibe-coding-agent) *(AI Business)*
+- [ ] 2026-01-29 [UK Watchdog Pushes for Google AI Opt-Out](https://aibusiness.com/ai-policy/uk-watchdog-google-ai-opt-out) *(AI Business)*
+- [ ] 2026-01-29 [Why hospitality skills can help all businesses adapt to the AI revolution](https://theconversation.com/why-hospitality-skills-can-help-all-businesses-adapt-to-the-ai-revolution-272541) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-01-29 [AI Threat Is Greater in Jobs With Higher Shares of Women](https://www.techrepublic.com/article/news-ai-threat-jobs-women/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-29 [Microsoft Previews Windows 11 Update With Smarter AI and Phone Continuity](https://www.techrepublic.com/article/news-windows-11-preview-ai-phone-upgrades/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-29 [Deezer Moves to Demonetize AI-Generated Music Streams Amid Widespread Fraud](https://www.techrepublic.com/article/news-deezer-ai-music/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-29 [Was 2025 Really the Year of AI Agents?](https://spectrum.ieee.org/2025-year-of-ai-agents) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-01-28 [Great Refactor Initiative Looks to AI to Harden Critical Code](https://spectrum.ieee.org/ai-code-rust-great-refactor) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-01-29 [Managing Secrets and API Keys in Python Projects (.env Guide)](https://www.kdnuggets.com/managing-secrets-and-api-keys-in-python-projects-env-guide) *(KDnuggets)*
+- [ ] 2026-01-29 [How to Use Hugging Face Spaces to Host Your Portfolio for Free](https://www.kdnuggets.com/how-to-use-hugging-face-spaces-to-host-your-portfolio-for-free) *(KDnuggets)*
+- [ ] 2026-01-29 [7 Scikit-learn Tricks for Hyperparameter Tuning](https://www.kdnuggets.com/7-scikit-learn-tricks-for-hyperparameter-tuning) *(KDnuggets)*
+- [ ] 2026-01-29 [Apple Buys Israeli AI Startup That Interprets Facial Movements](https://www.bloomberg.com/news/articles/2026-01-29/apple-buys-israeli-ai-startup-that-interprets-facial-movements) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [IBM Set to Raise Over $7 Billion From Cross-Border Bond Sale](https://www.bloomberg.com/news/articles/2026-01-29/ibm-selling-four-part-euro-bond-after-earnings-topped-estimates) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Nvidia, Mercedes-Benz Move Forward With Planned Robotaxis](https://www.bloomberg.com/news/articles/2026-01-29/nvidia-mercedes-benz-move-forward-with-planned-robotaxis) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Crypto Firm Linked to Trump Family Plans $100 Million Buyback](https://www.bloomberg.com/news/articles/2026-01-29/crypto-firm-linked-to-trump-family-plans-100-million-buyback) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [ServiceNow CEO Pushes Back on AI Fears](https://www.bloomberg.com/news/videos/2026-01-29/servicenow-ceo-pushes-back-on-ai-fears-video) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Texas Data Centers, Crypto Miners Reduced Power Use During Storm](https://www.bloomberg.com/news/articles/2026-01-29/texas-data-centers-crypto-miners-reduced-power-use-during-storm) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Meta’s Ad Boom Fuels AI](https://www.bloomberg.com/news/videos/2026-01-29/meta-s-ad-boom-fuels-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Blackstone-Backed Liftoff Mobile Seeks $762 Million in US IPO](https://www.bloomberg.com/news/articles/2026-01-29/blackstone-backed-liftoff-mobile-seeks-762-million-in-us-ipo) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Carvana Shares Rebound as Analysts Defend Firm From Short Seller](https://www.bloomberg.com/news/articles/2026-01-29/carvana-shares-rebound-as-analysts-defend-firm-from-short-seller) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Siemens Overtakes SAP as Germany’s Largest Firm by Market Value](https://www.bloomberg.com/news/articles/2026-01-29/siemens-overtakes-sap-as-germany-s-largest-firm-by-market-value) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [ASML, SAP Show Widening Gap Between AI Winners and Losers](https://www.bloomberg.com/news/articles/2026-01-29/asml-sap-show-widening-gap-between-ai-winners-and-losers) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Wall Street Braces for AI Bond Binge as Complacency Fears Mount](https://www.bloomberg.com/news/articles/2026-01-29/wall-street-braces-for-ai-bond-binge-as-complacency-fears-mount) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Blackstone's Gray Says Deal Environment Hitting 'Escape Velocity'](https://www.bloomberg.com/news/videos/2026-01-29/blackstone-s-gray-deal-environment-at-escape-velocity-video) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Oracle’s Value Is Cut In Half From 2025 Peak as AI Caution Rises](https://www.bloomberg.com/news/articles/2026-01-29/oracle-shares-tumble-50-from-record-as-ai-caution-intensifies) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Paytm Posts Third Straight Profit as Business Bounces Back](https://www.bloomberg.com/news/articles/2026-01-29/paytm-posts-third-straight-profit-as-business-bounces-back) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Citigroup UK Boss on Strong Deals Pipeline](https://www.bloomberg.com/news/videos/2026-01-29/citigroup-uk-boss-on-strong-deals-pipeline-video) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [South Park Commons Plots $500 Million Fund for Its ‘Anti-Accelerator’](https://www.bloomberg.com/news/articles/2026-01-29/south-park-commons-plots-500-million-fund-for-its-anti-accelerator) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [Silicon Valley Favorite Jumps Into California Governor’s Race](https://www.bloomberg.com/news/articles/2026-01-29/san-jose-mayor-a-silicon-valley-darling-announces-run-for-california-governor) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [India’s Economic Survey Flags Age-Based Limits for Social Media](https://www.bloomberg.com/news/articles/2026-01-29/india-s-economic-survey-flags-age-based-limits-for-social-media) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [SAP CEO on Future of SAP, Cloud](https://www.bloomberg.com/news/videos/2026-01-29/sap-ceo-on-future-of-sap-cloud-video) *(Bloomberg Technology)*
+- [ ] 2026-01-29 [The Computer History Museum’s New Online Portal Is a Nerd’s Dream Come True](https://gizmodo.com/the-computer-history-museums-new-online-portal-is-a-nerds-dream-come-true-2000715455) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [‘Absolute Batman’ Is the Batman We Deserve in 2026](https://gizmodo.com/absolute-batman-scott-snyder-nick-dragotta-dc-comics-2000714980) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [OpenAI Working on Social Media Network That Could Require Creepy Eye Scans: Report](https://gizmodo.com/openai-working-on-social-media-network-that-could-require-creepy-eye-scans-report-2000715588) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [The Age of the Most Distant Galaxy Ever Seen Barely Makes Any Sense](https://gizmodo.com/the-age-of-the-most-distant-galaxy-ever-seen-barely-makes-any-sense-2000715503) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [2026 Is About to Be a Blockbuster Year for Smart Glasses](https://gizmodo.com/2026-is-about-to-be-a-blockbuster-year-for-smart-glasses-2000715511) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [‘Inception’ and ‘The Incredibles’ Among 2025’s National Film Registry Inductees](https://gizmodo.com/national-film-registry-library-of-congress-inception-the-thing-2000715469) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [Shit’s Getting Real: NASA Aims for Artemis 2 Fueling Test on Saturday](https://gizmodo.com/shits-getting-real-nasa-aims-for-artemis-2-fueling-test-on-saturday-2000715590) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [143-Year-Old Shipwreck Emerges on a New Jersey Beach](https://gizmodo.com/143-year-old-shipwreck-emerges-on-a-new-jersey-beach-2000715512) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [Can Xbox Outlast the AI Bubble?](https://gizmodo.com/can-xbox-outlast-the-ai-bubble-2000715526) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [Doctors Kept a Man Alive Without Lungs for 2 Days](https://gizmodo.com/doctors-kept-a-man-alive-without-lungs-for-2-days-2000715481) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [SS Rajamouli’s ‘RRR’ Follow Up Is Coming Next Year](https://gizmodo.com/ss-rajamoulis-rrr-follow-up-is-coming-next-year-2000715186) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [Ryan Coogler Spills the Tea on What Smoke and Stack Were Up to Before ‘Sinners’](https://gizmodo.com/ryan-coogler-sinners-prequel-smoke-stack-2000715470) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [This Spider’s ‘Pearl Necklace’ Looks Fancy—Until You Learn What It Really Is](https://gizmodo.com/this-spiders-pearl-necklace-looks-fancy-until-you-learn-what-it-really-is-2000715237) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [6 Samsung Galaxy Buds 4 Leaks That Have Already Dripped Out](https://gizmodo.com/6-samsung-galaxy-buds-4-leaks-that-have-already-dripped-out-2000715190) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [Jason Momoa Teases His ‘Pretty Gnarly’ Lobo](https://gizmodo.com/jason-momoa-lobo-supergirl-dcu-2000715144) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [They’re Making a Movie About What?!?!](https://gizmodo.com/theyre-making-a-movie-about-what-2000715249) *(Gizmodo – Technology)*
+- [ ] 2026-01-29 [How to watch the 2026 Super Bowl: Patriots vs. Seahawks channel, start time, where to stream and more](https://www.engadget.com/entertainment/streaming/how-to-watch-the-2026-super-bowl-patriots-vs-seahawks-channel-start-time-where-to-stream-and-more-175759610.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [Maingear's latest retro gaming desktop takes you back to the Quake era](https://www.engadget.com/gaming/pc/maingears-latest-retro-gaming-desktop-takes-you-back-to-the-quake-era-174958445.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [Spotify has a group messaging feature now](https://www.engadget.com/entertainment/streaming/spotify-has-a-group-messaging-feature-now-173734450.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [A Waymo robotaxi struck a child near a school](https://www.engadget.com/transportation/a-waymo-robotaxi-struck-a-child-near-a-school-152446302.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [Honda vehicles used to proactively report road safety issues in nation-first pilot](https://www.engadget.com/transportation/honda-vehicles-used-to-proactively-report-road-safety-issues-in-nation-first-pilot-151629967.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [Apple's AirPods 4 with ANC are on sale for $119](https://www.engadget.com/deals/apples-airpods-4-with-anc-are-on-sale-for-119-153239333.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [Google will pay $135 million to settle illegal data collection lawsuit](https://www.engadget.com/big-tech/google-will-pay-135-million-to-settle-illegal-data-collection-lawsuit-133012112.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [The Nex Playground is everything Xbox Kinect wanted to be](https://www.engadget.com/gaming/the-nex-playground-is-everything-xbox-kinect-wanted-to-be-133000397.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [Pick up AirPods Pro 3 while they're down to $199 right now](https://www.engadget.com/deals/pick-up-airpods-pro-3-while-theyre-down-to-199-right-now-140752986.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [Apple TV signs TV and movie deal for Brandon Sanderson's fantasy books](https://www.engadget.com/entertainment/streaming/apple-tv-signs-tv-and-movie-deal-for-brandon-sandersons-fantasy-books-130000797.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [Are VPNs really safe? The security factors to consider before using one](https://www.engadget.com/cybersecurity/vpn/are-vpns-really-safe-the-security-factors-to-consider-before-using-one-130000539.html?src=rss) *(Engadget)*
+- [ ] 2026-01-29 [Inside OpenAI’s in-house data agent](https://openai.com/index/inside-our-in-house-data-agent) *(OpenAI News)*
+- [ ] 2026-01-29 [Introducing NVIDIA Cosmos Policy for Advanced Robot Control](https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control) *(Hugging Face Blog)*
+- [ ] 2026-01-29 [ハッブル宇宙望遠鏡の画像アーカイブ1億枚をAIがわずか2.5日で解析して異常天体1300個超が確認される](https://gigazine.net/news/20260129-hubble-archive-ai-anomaly-match-discover/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-29 [グーグル、Gemini 3搭載の新Chrome　サイドパネルや自動ブラウズなど](https://www.watch.impress.co.jp/docs/news/2081776.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-29 [AIに置いていかれた方へ。｢Genspark｣なら今からでも巻き返せます](https://www.gizmodo.jp/2026/01/genspark-prompt.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-29 [開発者が知っておくべきPostgreSQLパフォーマンス改善Tips 入門10選](https://zenn.dev/gizmo/articles/f61b3e999a5137) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-29 [アスクル、ランサム攻撃で66億円の赤字に　30日から復活セール](https://www.watch.impress.co.jp/docs/news/2081946.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-29 [商用利用可能な日本語要約SLM「HACHI-Summary-Ja」と学習データセットの公開](https://zenn.dev/hachi_intelli/articles/f72205c178f133) *(Zenn – トピック LLM)*
+- [ ] 2026-01-29 [最強のマルチエージェントAI環境とは？ - 3つのシステム統合による理想形](https://zenn.dev/tktomaru/articles/05f46f3e645dab) *(Zenn – トピック LLM)*
+- [ ] 2026-01-29 [Strix Haloで実装する魂のあるAI：自律型エージェント構築の全記録](https://zenn.dev/yuki_vr46/articles/c9921d289797b8) *(Zenn – トピック LLM)*
+- [ ] 2026-01-29 [なぜ、バイブコーディングなんて今のLLMには到底無理なのか？](https://zenn.dev/pdfractal/articles/d8d15f3081a60b) *(Zenn – トピック LLM)*
+- [ ] 2026-01-29 [LLMアプリケーションの技術的負債を解消する](https://zenn.dev/tokium_dev/articles/95263724de88dd) *(Zenn – トピック LLM)*
+- [ ] 2026-01-29 [SPAIML2025 掲載論文のご紹介](https://zenn.dev/cybermatrix/articles/b7641b7b96c23f) *(Zenn – トピック LLM)*
+- [ ] 2026-01-29 [AI Agentはもはや『副操縦士』じゃない](https://zenn.dev/katonium/articles/ai-agent-no-longer-copilot) *(Zenn – トピック AI)*
+- [ ] 2026-01-29 [RAG高速化の2つの考え方](https://zenn.dev/qn_tech/articles/8059dbd26c2984) *(Zenn – トピック AI)*
+- [ ] 2026-01-29 [Cursor の検索はなぜ「概念」を理解するのか？コードベースインデックスの仕組みを解説](https://zenn.dev/aiforall/articles/ace62f84396002) *(Zenn – トピック AI)*
+- [ ] 2026-01-29 [結局AIが書いたコードの何をレビューすればいいのか](https://zenn.dev/taroosg/articles/20260129153556-0e3810479a2503) *(Zenn – トピック AI)*
+- [ ] 2026-01-29 [【警告】6倍の生産性格差が生まれている｜AIを使う者と使わない者、2つの労働者階級の誕生](https://zenn.dev/babushkai/articles/2026-01-25-ai-literacy-gap-two-workforces-divide) *(Zenn – トピック AI)*
+- [ ] 2026-01-29 [【禁断の問い】AIと資本主義、富の集中か豊穣か｜ダ・ヴィンチ・コードが予言した「隠された真実」](https://zenn.dev/babushkai/articles/2026-01-25-ai-capitalism-davinci-code-awakening) *(Zenn – トピック AI)*
+- [ ] 2026-01-29 [RLHF Introduces External Evaluation Optimization](https://zenn.dev/dosanko_tousan/articles/5dc55c4a2d15dc) *(Zenn – トピック AI)*
+- [ ] 2026-01-29 [【個人開発】100%AIで作った防災アプリをApp Storeにリリースするまで](https://zenn.dev/konegi/articles/e1a14fbd28e46b) *(Zenn – トピック AI)*
+- [ ] 2026-01-29 [#26 時間軸の長期スパンを設計すると何が変わるか](https://zenn.dev/corone/articles/df7b71353bedd5) *(Zenn – トピック AI)*
+- [ ] 2026-01-29 [Claude Code 2.1.23 でスピナーの表示が変更できるようになった](https://zenn.dev/kok1eeeee/articles/claude-code-spinner-verbs-sisyphus) *(Zenn – トピック AI)*
