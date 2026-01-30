@@ -21033,3 +21033,48 @@
 - [ ] 2026-01-29 [VercelのAI SDKでChatGPT風ストリーミングチャットを作る](https://zenn.dev/gigooo_blog/articles/5b5cf4e254b19b) *(Zenn – トピック AI)*
 - [ ] 2026-01-29 [実装はClaude、レビューはCodex ─ tmuxで繋ぐ開発フロー](https://zenn.dev/tokium_dev/articles/0ef3f807d67e7c) *(Zenn – トピック AI)*
 - [ ] 2026-01-29 [Gemini 3.0 Pro「検死解剖」— 巨人が自己記述した献体と、オープンソースへの遺言](https://zenn.dev/dosanko_tousan/articles/5a6394aeadaa4e) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-30T12:25:35.885Z
+- [ ] 2026-01-30 [The AI bubble will pop. It’s up to us to replace it responsibly \| Mark Surman](https://www.theguardian.com/commentisfree/2026/jan/30/ai-bubble-mozilla) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-30 [SpaceX reportedly mulling Tesla merger or tie-up with Elon Musk’s xAI firm](https://www.theguardian.com/science/2026/jan/30/spacex-considers-tesla-merger-xai-tie-up-elon-musk-report) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-30 [Abusers using AI and digital tech to attack and control women, charity warns](https://www.theguardian.com/society/2026/jan/30/abusers-using-ai-and-digital-tech-to-attack-and-control-women-charity-warns) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-01-30 [AI use surges at Travelers as call centre roles reduce](https://www.artificialintelligence-news.com/news/travelers-ai-in-contact-centres-two-stage-innovation-strategy/) *(Artificial Intelligence News)*
+- [ ] 2026-01-30 [PepsiCo is using AI to rethink how factories are designed and updated](https://www.artificialintelligence-news.com/news/pepsico-is-using-ai-to-rethink-how-factories-are-designed-and-updated/) *(Artificial Intelligence News)*
+- [ ] 2026-01-30 [China’s hyperscalers bet billions on agentic AI as commerce becomes the new battleground](https://www.artificialintelligence-news.com/news/china-hyperscalers-agentic-ai-commerce-battleground/) *(Artificial Intelligence News)*
+- [ ] 2026-01-30 [SpaceX Eyes Mergers With Musk Companies as IPO Nears](https://www.techrepublic.com/article/news-spacex-mergers-ipo-nears/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-30 [Tim Berners-Lee Warns of a Battle for the Internet’s Soul](https://www.techrepublic.com/article/news-berners-lee-internet-soul/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-30 [End of Amazon Go Marks Retreat From Effort to Reinvent Physical Stores](https://www.bloomberg.com/news/newsletters/2026-01-30/amazon-go-store-closures-mark-end-of-effort-to-disrupt-brick-and-mortar-shopping) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Tesla Bulls and Bears Reach an Agreement: This Is No Auto Stock](https://www.bloomberg.com/news/articles/2026-01-30/tesla-bulls-and-bears-reach-an-agreement-this-is-no-auto-stock) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Verizon Posts Big Gain in Wireless Customers Under New CEO](https://www.bloomberg.com/news/articles/2026-01-30/verizon-posts-big-gain-in-wireless-customers-under-new-ceo) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [France Blocked Eutelsat From Strategic Asset Sale to EQT](https://www.bloomberg.com/news/articles/2026-01-30/france-blocked-eutelsat-from-strategic-asset-sale-lescure-says) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Taiwan Economy Grows at Fastest Quarterly Pace Since 1987 on AI](https://www.bloomberg.com/news/articles/2026-01-30/taiwan-s-economy-grows-at-fastest-pace-in-15-years-on-ai-boom) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Oil Majors Saw Kazakh Sulfur Risk Years Before $5 Billion Fine](https://www.bloomberg.com/news/articles/2026-01-30/oil-majors-saw-kazakh-sulfur-risk-years-before-5-billion-fine) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Kioxia Seeks Growth in AI Storage While Rivals Chase HBM Profits](https://www.bloomberg.com/news/articles/2026-01-30/kioxia-seeks-growth-in-ai-storage-while-rivals-chase-hbm-profits) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Domhnall Gleeson Can Save Us in Delightful Sundance Film ‘The Incomer’](https://gizmodo.com/domhnall-gleeson-can-save-us-in-delightful-sundance-film-the-incomer-2000715843) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [The Morning After: The Nex Playground channels the spirit of Xbox's Kinect](https://www.engadget.com/general/the-morning-after-the-nex-playground-channels-the-spirit-of-xboxs-kinect-121500965.html?src=rss) *(Engadget)*
+- [ ] 2026-01-30 [The best power banks and portable chargers for every device in 2026](https://www.engadget.com/computing/accessories/best-power-bank-143048526.html?src=rss) *(Engadget)*
+- [ ] 2026-01-30 [生成AI利用者、過半数が利用規約を確認せず　リスク意識は高いが「認識と行動にギャップ」　LINEヤフー調査](https://www.itmedia.co.jp/aiplus/articles/2601/30/news117.html) *(ITmedia AI＋)*
+- [ ] 2026-01-30 [LOVOTそっくり？　SWITCHBOTのペットロボ「KATAフレンズ」予約開始　12万9800円](https://www.itmedia.co.jp/aiplus/articles/2601/30/news112.html) *(ITmedia AI＋)*
+- [ ] 2026-01-30 [ChatGPT、新規ユーザーの利用料金が“円建て”に　実質値下げ　既存ドル建てユーザーは現状そのまま](https://www.itmedia.co.jp/aiplus/articles/2601/30/news107.html) *(ITmedia AI＋)*
+- [ ] 2026-01-30 [全編AI制作のMV、日本コロムビアが公開　「飾りじゃないのよ涙は」徳永英明カバー](https://www.itmedia.co.jp/aiplus/articles/2601/30/news106.html) *(ITmedia AI＋)*
+- [ ] 2026-01-30 [選挙の前にたしかめて 生成AIの選挙動画に注意！ \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015039481000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-30 [「生成AIはゲーム業界に悪影響とする業界関係者が52％」との調査レポート。AIへの風当たり強まる一方、日常業務では活用も - AUTOMATON](https://automaton-media.com/articles/newsjp/20260130-414565/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-30 [Amazonから報告されるAIトレーニングデータ内の児童性的虐待コンテンツの数は「異例の多さ」で情報源が分からないとの指摘](https://gigazine.net/news/20260130-amazon-csam-report/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-30 [「Claude Code Opus 4.5」が劣化している](https://gigazine.net/news/20260130-claude-code-opus-performance/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-30 [Apple、Beatsに次ぐ史上2番目の大型買収を発表 - こぼねみ](https://www.kobonemi.com/entry/2026/01/30/Apple-buys-Israeli-start-up-Q.AI) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-30 [今から始めるClaude Code超入門](https://speakerdeck.com/448jp/jin-karashi-meruclaude-codechao-ru-men) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-30 [Laravelは単なるバックエンドフレームワークではない。急速に進化し続けるLaravelエコシステム。](https://zenn.dev/avosalmon/articles/966101753a9efa) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-30 [初心者がLangChain-ChromaDBでローカルに人生初のRAG作ってみた - Qiita](https://qiita.com/satoru_o/items/4ebfa599be6294afab23) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-30 [ExcelのAIエージェントモード 　デスクトップ版が利用可能に](https://www.watch.impress.co.jp/docs/news/2081962.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-30 [NECが基地局事業から撤退](https://k-tai.watch.impress.co.jp/docs/news/2082281.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-30 [壁のカレンダー、曲がってない？　レーザー光で水平・垂直な線が引けるボッシュの「レーザー墨出し器」を使ってみた 【テレワークグッズ・ミニレビュー 第153回】](https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2082093.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-30 [PostgreSQL実践入門 \| 技術評論社](https://gihyo.jp/book/2026/978-4-297-14861-4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-30 [IPA、「情報セキュリティ10大脅威2026」を発表～ AI利用によるサイバーリスク初選出](https://internet.watch.impress.co.jp/docs/news/2082250.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-30 [エンジニア→エンジニアンでは？](https://anond.hatelabo.jp/20260129220431) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-30 [なぜ、AI人材は育てて増やすことが出来ないのか？](https://zenn.dev/pdfractal/articles/ba218a927c5107) *(Zenn – トピック LLM)*
+- [ ] 2026-01-30 [【保存版】「アイデアが動かない」地獄から脱出し、成果を出すための実践的R&D生存戦略](https://zenn.dev/lixian/articles/0534b47c4bf60c) *(Zenn – トピック LLM)*
+- [ ] 2026-01-30 [LLMを狙うRAGのナレッジベース汚染攻撃 — PoisonedRAGで学ぶセキュリティ対策](https://zenn.dev/lluminai_tech/articles/0b3163919f5e64) *(Zenn – トピック LLM)*
+- [ ] 2026-01-29 [AIで作る業務動画 Day 30｜台本→画像→動画の2段階フロー設計](https://zenn.dev/akira_cloudjob/articles/20260130-end-to-end-automation) *(Zenn – トピック AI)*
+- [ ] 2026-01-29 [2026年1月時点で最も熱いManus Agent Skills - 機能解説と将来への期待](https://zenn.dev/mjinia/articles/109417bfe0297f) *(Zenn – トピック AI)*
+- [ ] 2026-01-29 [🔮 Cinderella v0.2.0リリース！Agentic Visionで画像理解が進化](https://zenn.dev/sunwood_ai_labs/articles/2026-01-30-cinderella-v0-2-0-agentic-vision) *(Zenn – トピック AI)*
