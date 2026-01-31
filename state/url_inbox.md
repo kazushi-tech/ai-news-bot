@@ -21165,3 +21165,63 @@
 - [ ] 2026-01-30 [今さらだけど、MCPってなんだったの？](https://zenn.dev/reijilog/articles/c8cad2b5184a65) *(Zenn – トピック AI)*
 - [ ] 2026-01-30 [画像生成AIの進化と「検知技術」の現在地 —— FLUXやNano Bananaにどう立ち向かうか](https://zenn.dev/saasdevcai/articles/43832af3098783) *(Zenn – トピック AI)*
 - [ ] 2026-01-30 [GeminiとGemma、まだどっちがどっちか混乱していませんか？](https://zenn.dev/bebechien/articles/gemini-and-gemma) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-31T00:52:57.446Z
+- [ ] 2026-01-30 [I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite Click](https://www.wired.com/story/google-chrome-auto-browse-hands-on/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-30 [Daily Tech Insider Unpacks the Week AI Became Your Intern, Concierge, and Lip-Reader](https://www.techrepublic.com/article/news-best-of-dti-jan-26-30-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-01-31 [Elon Musk’s Relentless AI Pursuit Has Him on the Hunt for Capital](https://www.bloomberg.com/news/features/2026-01-31/elon-musk-s-ai-push-has-him-considering-mergers-in-search-for-capital) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Amazon Seeks FCC Extension of Satellite Deadline, Lacks Rockets](https://www.bloomberg.com/news/articles/2026-01-30/amazon-seeks-fcc-extension-of-satellite-deadline-lacks-rockets) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Peloton Cuts 11% of Jobs, With Engineering Teams Getting Hit](https://www.bloomberg.com/news/articles/2026-01-30/peloton-cuts-11-of-staff-including-from-engineering-teams) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Andreessen, Horowitz Fuel AI Industry’s $51 Million Midterm Haul](https://www.bloomberg.com/news/articles/2026-01-30/andreessen-horowitz-fuel-ai-industry-s-51-million-midterm-haul) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [3D Printing Startup VulcanForms Raises $220 Million for US Manufacturing](https://www.bloomberg.com/news/articles/2026-01-30/3d-printing-startup-vulcanforms-raises-220-million-for-us-manufacturing) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Unity, Video Game Stocks Fall as Google AI Tool Sparks Fears](https://www.bloomberg.com/news/articles/2026-01-30/unity-video-game-stocks-fall-as-google-s-ai-tool-genie-sparks-fears) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Bezos’ Rocket Firm Blue Origin to Halt Space Tourism Flights](https://www.bloomberg.com/news/articles/2026-01-30/bezos-rocket-firm-blue-origin-to-halt-space-tourism-flights) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Why Record Labels Still Care About iTunes](https://www.bloomberg.com/news/newsletters/2026-01-30/why-record-labels-still-care-about-itunes) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Musk Empire Merger Possibility, Memory Costs Weigh on Apple \| Bloomberg Tech 1/30/2026](https://www.bloomberg.com/news/videos/2026-01-30/bloomberg-tech-1-30-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Eurizon’s Jen Says ‘Bumpy Road’ Is Ideal Path to Weaker Dollar](https://www.bloomberg.com/news/articles/2026-01-30/eurizon-s-jen-says-bumpy-road-is-ideal-path-to-weaker-dollar) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Apple Gives Upbeat Forecast, Warns of Rising Costs](https://www.bloomberg.com/news/videos/2026-01-30/apple-gives-upbeat-forecast-warns-of-rising-costs-video) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Metal Parts Startup Raises $220M Led By Eclipse, 1789 Capital](https://www.bloomberg.com/news/videos/2026-01-30/metal-parts-startup-closes-a-220-million-funding-round-video) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Apple Has Watched AI From the Stands Says Dan Ives](https://www.bloomberg.com/news/videos/2026-01-30/apple-has-watched-ai-from-the-stands-says-dan-ives-video) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [Apple Loses More AI Researchers and a Siri Executive in Latest Departures](https://www.bloomberg.com/news/articles/2026-01-30/apple-loses-more-ai-researchers-and-a-siri-executive-in-latest-departures) *(Bloomberg Technology)*
+- [ ] 2026-01-30 [The Success of ‘Knight of the Seven Kingdoms’ Is Already Influencing HBO’s Other ‘Game of Thrones’ Spinoff Plans](https://gizmodo.com/game-of-thrones-knight-of-the-seven-kingdoms-spinoffs-influence-2000716152) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [Japan Botched a Satellite Launch in One of the Weirdest Ways Possible](https://gizmodo.com/japan-botched-a-satellite-launch-in-one-of-the-weirdest-ways-possible-2000716172) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [AI Agents Have Their Own Social Network Now, and They Would Like a Little Privacy](https://gizmodo.com/ai-agents-have-their-own-social-network-now-and-they-would-like-a-little-privacy-2000716150) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [February’s Lego Releases Want You to Catch ‘Em All](https://gizmodo.com/lego-february-2026-releases-pokemon-2000716057) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [George R.R. Martin Almost Planned a Very Different Kind of Targaryen Power for ‘Game of Thrones’](https://gizmodo.com/george-r-r-martin-almost-planned-a-very-different-kind-of-targaryen-power-for-game-of-thrones-2000716055) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [Elon Musk Emailed With Jeffrey Epstein to Plan Island Visits in 2012 and 2014](https://gizmodo.com/elon-musk-emailed-with-jeffrey-epstein-to-plan-island-visits-in-2012-and-2014-2000716075) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [Could Poop Pills Be a Secret Weapon Against Cancer?](https://gizmodo.com/could-poop-pills-be-the-secret-weapon-against-cancer-2000716038) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [Seeing Is Believing at Your Own Peril in ‘After God’](https://gizmodo.com/seeing-is-believing-at-your-own-peril-in-after-god-2000715972) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [Google’s Project Genie Is Not for You](https://gizmodo.com/googles-project-genie-is-not-for-you-2000716070) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [US Declassifies Vintage Spy Satellite With a Wildly Lopsided Orbit](https://gizmodo.com/us-declassifies-vintage-spy-satellite-with-a-wildly-lopsided-orbit-2000715963) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [Catherine O’Hara, Star of ‘Beetlejuice’ and ‘Home Alone,’ Has Died](https://gizmodo.com/catherine-ohara-star-of-beetlejuice-and-home-alone-has-died-2000716080) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [This Robot Hand Pops Off and Crawls. I Hate It So Much.](https://gizmodo.com/this-robot-hand-pops-off-and-crawls-i-hate-it-so-much-2000715991) *(Gizmodo – Technology)*
+- [ ] 2026-01-30 [NASA used Claude to plot a route for its Perseverance rover on Mars](https://www.engadget.com/ai/nasa-used-claude-to-plot-a-route-for-its-perseverance-rover-on-mars-203150701.html?src=rss) *(Engadget)*
+- [ ] 2026-01-30 [Rivian made an electric ambulance for Grey's Anatomy](https://www.engadget.com/transportation/evs/rivian-made-an-electric-ambulance-for-greys-anatomy-194358967.html?src=rss) *(Engadget)*
+- [ ] 2024-05-30 [Disrupting deceptive uses of AI by covert influence operations](https://openai.com/index/disrupting-deceptive-uses-of-ai-by-covert-influence-operations) *(OpenAI News)*
+- [ ] 2026-01-30 [AI同士で相談させて“最強の布陣”を組む新技術　日立製作所が開発](https://www.itmedia.co.jp/enterprise/articles/2601/31/news014.html) *(ITmedia AI＋)*
+- [ ] 2026-01-31 [「AIおばあちゃん」に政治を語らせてるチャンネルについてのメモ - 電脳塵芥](https://nou-yunyun.hatenablog.com/entry/2026/01/30/220000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [Claude CodeのHooksをハックして自律駆動するマルチエージェントを作った](https://zenn.dev/zaico/articles/d6b882c78fe4b3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [そのWindowsまだ買い替えないで。350GB空けて「速度を取り戻した」私の全記録 \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2601-deep-clean-windows-pc/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [たった1つのアイデアを「50本以上」のコンテンツに変える、「ChatGPTプロンプト」5ステップ \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/90416) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [moltbook - the front page of the agent internet](https://www.moltbook.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [C言語でメモリマップド I/O を扱うときに注意すること - volatile 修飾子とメモリバリアの役割 - Qiita](https://qiita.com/ikwzm/items/d6d6a0223931c4a55037) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [日本語対話コーパス一覧](http://individuality.jp/dialogue_corpus.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [Googleの新“ワールド生成AI”が「生成拒否するゲーム」に注目集まる。『ブレス オブ ザ ワイルド』風は作るけど『キングダム ハーツ』風だと弾くプロトタイプ - AUTOMATON](https://automaton-media.com/articles/newsjp/project-genie-20260130-414659/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [AWS マルチアカウント環境からの Google Cloud フェデレーション設計 — AI時代に合わせた社内認証基盤づくり - LayerX エンジニアブログ](https://tech.layerx.co.jp/entry/2026/01/30/152136) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [Go 1.26の新GC「Green Tea（緑茶）」解説 \| フューチャー技術ブログ](https://future-architect.github.io/articles/20260130a/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-30 [Mac mini を自宅AIエージェント基盤に！Clawdbot + Tailscale で安全なリモート環境を構築する](https://zenn.dev/akasara/articles/bb2edfe2e12b98) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [Claude Code実践ガイド ― 言葉で伝えて、AIと開発する](https://zenn.dev/hamaup/books/claudecode-3f03ea67519a) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [「僕でも分かった！動く数学の本」Vol.1〜数学ど素人が最先端AIを自力で作るための「補助脳」〜　Web出版決定](https://zenn.dev/practicalspirit/articles/539ba9522e8ac1) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [AI駆動開発で感じた課題をAIと壁打ちして言語化してみた](https://zenn.dev/stlwolf/articles/61e7c367d775fc) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [Pencilで「AI臭くならないデザイン」を作るために、skillsに how / how to think を書いてみた](https://zenn.dev/mae616/articles/02d4425ec419ee) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [プログラミングの知識は「書くため」ではなく「導くため」になった — AIエージェント並列オーケストレーションの先にあったもの](https://zenn.dev/nrs/articles/ea37ed55b8704a) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [AIに意志は宿るか ─ 心の構造から導く実装への道筋 ─](https://zenn.dev/k_mt/books/f3db6a944cfa14) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [minifyされたjavascriptはAIに読ませよ〜Google製品のバグと戦う〜](https://zenn.dev/mukanakazato/articles/02f467ee7ab2b1) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [ひとり情シスの救世主！Microsoft 365 Copilot のリアルな効果](https://zenn.dev/syoshida07/articles/3d7ce21342d746) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [AIと一緒にコードを読み解く：理解を深める新しい開発習慣](https://zenn.dev/ak_yoshimatsu/articles/ai-native-code-reading-20260130) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [【ChatGPT】AIを活用した年間目標の設定](https://zenn.dev/headwaters/articles/33b843641ea3ed) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [5-①[AI][Kaggle][python]Kaggle入門(データの可視化 1. Hello, Seaborn)](https://zenn.dev/rg687076/articles/c99c2b11875b1a) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [Claude Skills 完全ガイド - AIエージェントをカスタマイズする新しい方法](https://zenn.dev/kosk_t/articles/claude-skills-building-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [備忘録：過去のCUDA Toolkitのアーカイブ](https://zenn.dev/headwaters/articles/e8900e75e33366) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [AI駆動開発で分かった、AIと正しく付き合うためのポイント](https://zenn.dev/sonicmoov/articles/9925e2bab7182c) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [Claude Code を使った記事執筆法：superpowers の意外な使い方](https://zenn.dev/kuma8088/articles/superpowers-brainstorming-universal-protocol) *(Zenn – トピック AI)*
