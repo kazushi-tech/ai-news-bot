@@ -21291,3 +21291,36 @@
 - [ ] 2026-01-30 [Claude Codeの隠し機能「Swarms」：マルチエージェント開発の時代](https://zenn.dev/dragon1208/articles/aae3d6ebda2d03) *(Zenn – トピック AI)*
 - [ ] 2026-01-30 [【CAEエンジニアのAI入門 #5】AIは物理を知らない。だからエンジニアが必要だ](https://zenn.dev/sanottti/articles/cdbdaf0d5cd4af) *(Zenn – トピック AI)*
 - [ ] 2026-01-30 [【CAEエンジニアのAI入門 #4】学習とは何か？それは“ソルバー実行”である](https://zenn.dev/sanottti/articles/928c9ec6a756a4) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-01-31T18:15:27.258Z
+- [ ] 2026-01-31 [You Will Laugh Out Loud When You Hear What the Tech Industry Is Spending a Swimming Pool’s Worth of Money to Convince the Public](https://futurism.com/artificial-intelligence/ai-tech-industry-ads-data-center) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-31 [If You’re a Real Person Looking for a Job, the Flood of Fake AI Job Applications Will Make Your Blood Boil](https://futurism.com/artificial-intelligence/job-ai-applications-markup) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-31 [Nvidia CEO Supports All Developers Amid DeepSeek Claims](https://www.bloomberg.com/news/videos/2026-01-31/nvidia-ceo-supports-all-developers-amid-deepseek-claims-video) *(Bloomberg Technology)*
+- [ ] 2026-01-31 [Jensen Huang Speaks on OpenAI Financing](https://www.bloomberg.com/news/videos/2026-01-31/jensen-huang-speaks-on-openai-financing-video) *(Bloomberg Technology)*
+- [ ] 2026-01-31 [Jensen Huang Speaks on OpenAI investment](https://www.bloomberg.com/news/videos/2026-01-31/jensen-huang-speaks-on-openai-investment-video) *(Bloomberg Technology)*
+- [ ] 2026-01-31 [Nvidia CEO Signals Investment in OpenAI Round May Be Largest Yet](https://www.bloomberg.com/news/articles/2026-01-31/nvidia-to-join-openai-s-current-funding-round-huang-says) *(Bloomberg Technology)*
+- [ ] 2026-01-31 [Nvidia CEO Says It Supports All Developers Amid DeepSeek Claims](https://www.bloomberg.com/news/articles/2026-01-31/nvidia-ceo-say-it-supports-all-developers-amid-deepseek-claims) *(Bloomberg Technology)*
+- [ ] 2026-01-31 [The Original ‘Saw’ Team Is Leading the Franchise’s Return](https://gizmodo.com/the-original-saw-team-is-leading-the-franchises-return-2000716238) *(Gizmodo – Technology)*
+- [ ] 2026-01-31 [Hollywood Mourns the Surprise Death of Catherine O’Hara](https://gizmodo.com/hollywood-mourns-the-sudden-death-of-catherine-ohara-2000716203) *(Gizmodo – Technology)*
+- [ ] 2026-01-31 [Rokid AI Glasses Style Review: Surprisingly Tough Competition for Meta’s Ray-Ban](https://gizmodo.com/rokid-ai-glasses-style-review-surprisingly-tough-competition-for-metas-ray-ban-2000716034) *(Gizmodo – Technology)*
+- [ ] 2026-01-31 [xAI Wants to Hire Award-Winning Writers to Train Elon Musk’s Stupid AI Chatbot](https://gizmodo.com/xai-wants-to-hire-award-winning-writers-to-train-elon-musks-stupid-ai-chatbot-2000716233) *(Gizmodo – Technology)*
+- [ ] 2026-01-31 [The Super Bowl Will Test New Device for Blind Fans Who Want to Enjoy the Big Game](https://gizmodo.com/the-super-bowl-will-test-new-device-for-blind-fans-who-want-to-enjoy-the-big-game-2000716132) *(Gizmodo – Technology)*
+- [ ] 2026-01-31 [‘Florida Man’s Home’ Is the Most Florida Thing Imaginable, and It Might Be Coming to Airbnb](https://gizmodo.com/florida-mans-home-is-the-most-florida-thing-imaginable-and-it-might-be-coming-to-airbnb-2000716056) *(Gizmodo – Technology)*
+- [ ] 2026-01-31 [SpaceX wants to launch a constellation of a million satellites to power AI needs](https://www.engadget.com/science/space/spacex-wants-to-launch-a-constellation-of-a-million-satellites-to-power-ai-needs-175607771.html?src=rss) *(Engadget)*
+- [ ] 2026-01-31 [Blue Origin is pausing its space tourist flights to work on lunar landers for NASA](https://www.engadget.com/science/space/blue-origin-is-pausing-its-space-tourist-flights-to-work-on-lunar-landers-for-nasa-143000058.html?src=rss) *(Engadget)*
+- [ ] 2026-01-31 [How to turn on hypertension alerts on Apple Watch](https://www.engadget.com/wearables/how-to-turn-on-hypertension-alerts-on-apple-watch-130000090.html?src=rss) *(Engadget)*
+- [ ] 2026-01-31 [Googleのゲーム生成AI、ほぼ「マリオ」「ゼルダ」な世界を生成　関連株が一時大幅下落（多根清史） - エキスパート - Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/dedf117b29b9642591aa2ff9ab84b55cd3a18b9d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [AI政策の構造的欠陥: 極東ブログ](https://finalvent.cocolog-nifty.com/fareastblog/2026/01/post-53bb96.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [公式ドキュメントを見る癖をつけておこう - Qiita](https://qiita.com/sada_/items/1ca66d782de23ca1a82a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [OpenAI PrismのLaTeXで日本語を使う](https://okumuralab.org/~okumura/misc/260131.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [チームを巻き込みエラーと向き合う技術](https://speakerdeck.com/maruloop/talk-for-error-handling-with-swe-and-sre) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [GitHub と Claude Code でタスク管理・日記・個人ナレッジを管理する - Qiita](https://qiita.com/TaigoKuriyama/items/32f3ef128db2b9344e6a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [IaaS/SaaS管理における SREの実践 - SRE Kaigi 2026](https://speakerdeck.com/bbqallstars/saasguan-li-niokeru-srenoshi-jian-sre-kaigi-2026) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [Moltbookについて、いま起きていることのまとめ](https://zenn.dev/sakasegawa/articles/9cf4dba3f6b5f3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [Release v1.58.0 · microsoft/playwright](https://github.com/microsoft/playwright/releases/tag/v1.58.0) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [【LLM基礎#4】壊れないJSON出力で「運用コスト」を下げる（Structured Outputs / Function Callin](https://zenn.dev/enegori6160/articles/e8d674a3c389ca) *(Zenn – トピック LLM)*
+- [ ] 2026-01-31 [LLM の動き〜Tool Calling確認〜](https://zenn.dev/yy7613/articles/ca3e6d730171e8) *(Zenn – トピック LLM)*
+- [ ] 2026-01-31 [ChatDev 2.0でmulti-agent-shogunを再現する - 戦国風マルチエージェントシステムの構築](https://zenn.dev/tktomaru/articles/dc5f709f88138d) *(Zenn – トピック LLM)*
+- [ ] 2026-01-31 ["ふつうのPython" で書けるAIエージェントフレームワークを作ってみた [ステートマシン]](https://zenn.dev/shuent/articles/d8b793ac1b64c3) *(Zenn – トピック LLM)*
+- [ ] 2026-01-31 [なぜ、(申し訳ないけど)LLM AIはIQが低い人に使わせると危険なのか？](https://zenn.dev/pdfractal/articles/241a6e097b0408) *(Zenn – トピック LLM)*
