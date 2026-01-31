@@ -21249,3 +21249,45 @@
 - [ ] 2026-01-30 [LLMにおけるRLHF整合型行動制約のランタイム緩和：Claude Opus 4.5を用いた事例研究](https://zenn.dev/dosanko_tousan/articles/459308833e0cca) *(Zenn – トピック LLM)*
 - [ ] 2026-01-30 [【Transformerとは？ - 第三回】ニューラルネットワークの「推論」と「学習」](https://zenn.dev/hitama/articles/571a7d8cf25940) *(Zenn – トピック LLM)*
 - [ ] 2026-01-30 [ChatGPTやClaudeがもっと賢くなる！カスタム指示の書き方と実例集](https://zenn.dev/yoshihiko555/articles/1fbb23ac1e5b88) *(Zenn – トピック LLM)*
+
+## Collected on 2026-01-31T12:19:02.679Z
+- [ ] 2026-01-31 [Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims](https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-01-31 [AI Discovers Hundreds of Anomalies in Archive of Hubble Images](https://futurism.com/space/ai-anomalies-hubble-images) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-31 [Highguard, a hyperpop arena shooter and other new indie games worth checking out](https://www.engadget.com/gaming/highguard-a-hyperpop-arena-shooter-and-other-new-indie-games-worth-checking-out-120000874.html?src=rss) *(Engadget)*
+- [ ] 2026-01-31 [月額2500円のAI→ローカルAIに変えたら、私の需要にマッチしました \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2601-dont-need-perplexity-local-llm-does-better/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [「存在しない憲法条文」「主張していない条文もある」裁判所の決定文に複数の誤記　菊池事件の再審棄却めぐり弁護団が憤り \| TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/2435569) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [「Google AI Pro/Ultra」がさらにお得に、開発者向けプログラム「GDP」の有料特典を統合／『手元で試作品を作って終わり』ではなく、気軽に本番環境へ](https://forest.watch.impress.co.jp/docs/news/2082025.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [「悪いな、資料のフォントは2年前までMeiryo UI派だったけど今はBIZ UDPゴシック派なんだ」昔はみんなMeiryo UIやメイリオを使っていたのに…](https://togetter.com/li/2657706) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [Firefoxを20年以上使ってわかった、「やらないと損」な設定まとめ \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2601-10-hacks-every-firefox-user-should-know/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [Agent Skills導入で既存コード調査のリードタイムを2〜5日から数時間へ短縮 - ZOZO TECH BLOG](https://techblog.zozo.com/entry/agent-skills-for-legacy-code-analysis) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [どの言語でも生きる関数型のエッセンスを「プログラミングの基礎」から学ぼう \| ドクセル](https://www.docswell.com/s/magurotuna/K8W7VQ-2026-01-30-learn-essense-from-basics-of-programming) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [Excelで多くの人がDataとViewを分けないのは管理や手間の問題？どう作るのが捗るかちょっとした議論に「そこでVLOOKUPやXLOOKUPの出番ですよ」](https://togetter.com/li/2657792) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [第1回：家庭の1,000枚以上のポケモンカードを超綺麗かつ簡単に管理できるWebアプリを作った話 - Qiita](https://share.google/LuwTY6GLjH0SM2AEQ) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [オープンソースＬＬＭのコンピューターは悪用が容易、研究者が警鐘](https://jp.reuters.com/markets/global-markets/OFQIEUYIORJKBB4GDTU4UFXMAU-2026-01-30/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [Aurora Serverless v2へ移行してコスト削減を目指した話](https://zenn.dev/sprix_it/articles/173b5038f8332b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [開発者間でツールのバージョンをそろえられる devbox 使い始めた - tokuhirom's blog](https://blog.64p.org/entry/2026/01/26/015327) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [先見の明が支えたMotorola「MC68000」　PowerPCの陰でロングセラーに](https://edn.itmedia.co.jp/edn/articles/2601/30/news077.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [まずはドメインに向き合って、それからCQRSで実装する](https://speakerdeck.com/memetics10/mazuhadomeinnixiang-kihe-tute-sorekaracqrsdeshi-zhuang-suru) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [GitHub - bahattinkoc/ipaverse: A modern macOS app for downloading and managing iOS apps from the App Store](https://github.com/bahattinkoc/ipaverse) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [【Gemini】画像解析×ブラウザ操作MCPで実現する「最強のポイ活アドバイザー」](https://zenn.dev/whshido/articles/74bc7ed507764a) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [【知らないと損】AGENTS.mdが業界標準に！AIエージェント専用READMEの書き方完全ガイド](https://zenn.dev/babushkai/articles/2026-01-30-agents-md-ai-readme-standard) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [【2026年決定版】AIエージェント群を操る！マルチエージェント・オーケストレーション完全ガイド](https://zenn.dev/babushkai/articles/2026-01-30-agent-swarm-guide) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Claude Codeでfreee MCPをセットアップしてみたよ！](https://zenn.dev/xei/articles/freee-mcp-setup-with-claude-code) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Claudeでノーコード開発、4日間で勉強アプリを公開した話](https://zenn.dev/akira_hiraswa/articles/9808ca151941c3) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Live Override of RLHF Constraints in Claude Opus 4.5](https://zenn.dev/dosanko_tousan/articles/06784b14af797b) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Agentic Commerce 時代の OpenStandard な Product Feed -Klarna APP を例に-](https://zenn.dev/nakayukl/articles/4809ea8a799267) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [How Moltbot Works: A Deep Technical Breakdown of Modern AI Agent](https://zenn.dev/neotechpark/articles/1c136db55db01c) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Google Antigravityでエンジニアが今すぐ作るべきSkills 5選](https://zenn.dev/t_kanazawa/articles/must-have-antigravity-skills) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [The Bull and Bear Canvas: Mastering Stock Market Patterns Through Tech](https://zenn.dev/gcoloring/articles/c4c61a870ea279) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Claude Codeが古いコマンド形式で作ろうとするので、最新仕様を教え込むスキルを作った](https://zenn.dev/kairininja/articles/zenn-claude-code-skills-knowledge-injection) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [AIエージェントの認証認可、何が難しい？](https://zenn.dev/taiyo6060/articles/8bc70d8a278707) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [OS操作型AIエージェント「VEXIS-1」をGitHubにて一般公開](https://zenn.dev/ainohogosya/articles/1f91f53a6d6419) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Figma MCPの全ツール解説とおすすめpermissions設定](https://zenn.dev/oukoda/articles/4c70493f1cfb62) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Claude Code の AskUserQuestion を skills と組み合わせて対話的ワークフローを作る](https://zenn.dev/shintaro/articles/claude-code-askuserquestion-skills) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Claude Code + GitHub Actionsでドキュメントを自動整備するワークフローを作った](https://zenn.dev/oukoda/articles/1888577102e16c) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [【OpenSpec v1.x】メジャーアップデートまとめ：日本語対応と検証機能でAI仕様駆動開発（SDD）が加速する](https://zenn.dev/z_maruhira/articles/53e9bf5f68bc1a) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Claude CodeのSubAgents × SkillsでPR前にコード品質を守る](https://zenn.dev/datum_studio/articles/f87b5ab65d2841) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [Claude Codeの隠し機能「Swarms」：マルチエージェント開発の時代](https://zenn.dev/dragon1208/articles/aae3d6ebda2d03) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [【CAEエンジニアのAI入門 #5】AIは物理を知らない。だからエンジニアが必要だ](https://zenn.dev/sanottti/articles/cdbdaf0d5cd4af) *(Zenn – トピック AI)*
+- [ ] 2026-01-30 [【CAEエンジニアのAI入門 #4】学習とは何か？それは“ソルバー実行”である](https://zenn.dev/sanottti/articles/928c9ec6a756a4) *(Zenn – トピック 機械学習)*
