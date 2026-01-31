@@ -21225,3 +21225,27 @@
 - [ ] 2026-01-30 [備忘録：過去のCUDA Toolkitのアーカイブ](https://zenn.dev/headwaters/articles/e8900e75e33366) *(Zenn – トピック AI)*
 - [ ] 2026-01-30 [AI駆動開発で分かった、AIと正しく付き合うためのポイント](https://zenn.dev/sonicmoov/articles/9925e2bab7182c) *(Zenn – トピック AI)*
 - [ ] 2026-01-30 [Claude Code を使った記事執筆法：superpowers の意外な使い方](https://zenn.dev/kuma8088/articles/superpowers-brainstorming-universal-protocol) *(Zenn – トピック AI)*
+
+## Collected on 2026-01-31T06:22:29.853Z
+- [ ] 2026-01-31 [Claude Code 超完全ガイド \| エンジニアから投資家まで、すべてのユーザーのための実践マニュアル｜FabyΔ](https://note.com/fabymetal/n/n3f0f2873b56c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [選挙争点や各党の政策比較巡り「偽番組」、世論水増し「誤解与える可能性」…量産する男性「ウソはついていない」](https://www.yomiuri.co.jp/election/shugiin/20260130-GYT1T00495/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [# 【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法 - Qiita](https://qiita.com/enomoso_pm/items/c432551c60d010cb5cc7) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [Googleマップの「Gemini」が進化、徒歩・自転車ナビで検索やメール送信](https://k-tai.watch.impress.co.jp/docs/news/2082315.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [Apple、「iPhone 17」好調で売上高、純利益ともに過去最高　クックCEO、「Gemini」採用について言及](https://www.itmedia.co.jp/news/articles/2601/30/news073.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-01-31 [「火曜日に印刷ができなくなる」というUbuntuの謎バグの正体とは？](https://gigazine.net/news/20260130-open-office/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [アプリなどの買い切りプランは高めでも意外とよく売れるという話があるが、サブスクが嫌いな人もいるので、強気な価格設定でも買ってくれる人は少なからずいる](https://togetter.com/li/2657911) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [ReactはuseEffectで副作用があるのに、なぜ純関数と言えるのか？](https://zenn.dev/expsh13/articles/4a07266a80267c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [Improved search for GitHub Issues in public preview - GitHub Changelog](https://github.blog/changelog/2026-01-29-improved-search-for-github-issues-in-public-preview/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [ZOZOにおけるAI活用の現在 ~開発組織全体での取り組みと試行錯誤~](https://speakerdeck.com/zozotech/ai-adoption-in-zozo-engineering) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [高機能Local LLM｜GLM-4.7-Flashの特徴とその無検閲・改良版についての話＠TextGeneration WebUI｜shiba*2](https://note.com/gentle_murre488/n/n2d04724fac63) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries](https://thehackernews.com/2026/01/researchers-find-175000-publicly.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [20260128_MAILincident.docx](https://prtimes.jp/common/file/20260128_MAILincident.pdf) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [Wiz:最新のクラウド保護のための#1クラウドセキュリティソフトウェア](https://www.wiz.io/ja-jp) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [有線イヤホンが今おしゃれ？　セレブやスポーツ選手の着用で人気復活](https://www.cnn.co.jp/tech/35243326.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [Cortex Analyst におけるメタデータ露出の制御とAPI駆動によるText-to-SQL精度評価の確立](https://zenn.dev/dataheroes/articles/2026-01-31-snowflake-context-engineering) *(Zenn – トピック LLM)*
+- [ ] 2026-01-31 [RAGの精度が出ない原因は『LLM』ではなかった話](https://zenn.dev/kazusa_nakagawa/articles/article11_rag) *(Zenn – トピック LLM)*
+- [ ] 2026-01-31 [DataAirlock: 個人情報を匿名化してLLMに安全に渡すCLIツール](https://zenn.dev/akira0907/articles/dataairlock-hybrid-pii-detection) *(Zenn – トピック LLM)*
+- [ ] 2026-01-31 [KV cacheによる計算量削減の見積もり](https://zenn.dev/agridrama/articles/ed7b492cb04cdd) *(Zenn – トピック LLM)*
+- [ ] 2026-01-30 [LLMにおけるRLHF整合型行動制約のランタイム緩和：Claude Opus 4.5を用いた事例研究](https://zenn.dev/dosanko_tousan/articles/459308833e0cca) *(Zenn – トピック LLM)*
+- [ ] 2026-01-30 [【Transformerとは？ - 第三回】ニューラルネットワークの「推論」と「学習」](https://zenn.dev/hitama/articles/571a7d8cf25940) *(Zenn – トピック LLM)*
+- [ ] 2026-01-30 [ChatGPTやClaudeがもっと賢くなる！カスタム指示の書き方と実例集](https://zenn.dev/yoshihiko555/articles/1fbb23ac1e5b88) *(Zenn – トピック LLM)*
