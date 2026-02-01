@@ -21390,3 +21390,43 @@
 - [ ] 2026-01-31 [生成AI時代にITエンジニアに求められているのはレビュー能力ではない](https://zenn.dev/nuits_jp/articles/2026-02-01-engineers-not-reviewers-ai-era) *(Zenn – トピック AI)*
 - [ ] 2026-01-31 [急変耐性こそ正義。環境激変を生き抜くエージェントの進化シミュレーション (EDiE研究ログ)](https://zenn.dev/practicalspirit/articles/2b2aceeabc78d9) *(Zenn – トピック AI)*
 - [ ] 2026-01-31 [OpenClawのSlack連携でinvalid_authとmissing_scopeエラーにハマった話](https://zenn.dev/imudak/articles/openclaw-slack-troubleshoot) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-01T12:20:51.188Z
+- [ ] 2026-02-01 [Indian Electronics Manufacturing Shares Rise on Budget Boost](https://www.bloomberg.com/news/articles/2026-02-01/india-electronics-manufacturing-shares-jump-on-budget-boost) *(Bloomberg Technology)*
+- [ ] 2026-02-01 [OpenAI Investment Was ‘Never a Commitment,’ Nvidia’s Huang Says](https://www.bloomberg.com/news/articles/2026-02-01/openai-investment-was-never-a-commitment-nvidia-s-huang-says) *(Bloomberg Technology)*
+- [ ] 2026-02-01 [India Unveils 20-Year Tax Break to Woo Global Data Centers](https://www.bloomberg.com/news/articles/2026-02-01/india-unveils-20-year-tax-break-to-woo-global-data-centers) *(Bloomberg Technology)*
+- [ ] 2026-02-01 [What If the Sensors on Your Car Were Inspecting Potholes for the Government? Honda Found Out](https://gizmodo.com/what-if-the-sensors-on-your-car-were-inspecting-potholes-for-the-government-honda-found-out-2000715973) *(Gizmodo – Technology)*
+- [ ] 2026-02-01 [ChatGTPに「生成AIが広まったけど、結局 言語化能力がある人が得してるだけじゃない？」と問いかけてみた - Qiita](https://qiita.com/8853Tomtomtom/items/656c122f1ef714f3079d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-01 [米国で話題の「Claude Code」旋風～日米メディアの温度差｜市川裕康 (メディアコンサルタント）](https://comemo.nikkei.com/n/n9feab734a46d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-01 [Mac mini不要、Cloudflare Workers上でMoltbotが動く「Moltworker」オープンソースとして公開 \| gihyo.jp](https://gihyo.jp/article/2026/01/moltworker) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-01 [はてブを取り巻く全部が老化して劣化してる感じがするんだ。](https://anond.hatelabo.jp/20260118221943) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [Zenn開発者catnoseが語る「個人開発で勝てる3つのパターン」と、作り続ける理由｜TECH WORLD](https://note.com/techworld_inc/n/n88e9eb73a0ea) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [クレジットカード決済基盤を支えるSRE - 厳格な監査とSRE運用の両立 (SRE Kaigi 2026)](https://speakerdeck.com/capytan/kurezitutokadojue-ji-ji-pan-wozhi-erusre-yan-ge-najian-cha-tosreyun-yong-noliang-li-sre-kaigi-2026-d099bc0e-9ba2-4d2b-81ac-7b3c152649a1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [git worktreeの不満を解消するためにCLIツールを自作した](https://zenn.dev/progate/articles/2e1e90796d82f0) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [LazyNix: 誰でも作れる再現可能な開発環境](https://zenn.dev/shundeveloper/articles/6d9a464c4a6bad) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [改ざんされた中道の政見放送動画がXで拡散　AIで生成したフェイク：朝日新聞](https://www.asahi.com/articles/ASV210HHNV21UTIL002M.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [OpenTelemetryコレクターのOTLP Exporterをotlpではなくotlp_grpcとして呼ぶように変わる話（そしてそのうち他のコンポーネントでも……） - Diary of a Perpetual Student](https://blog.arthur1.dev/entry/2026/01/31/203107) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [【初級編】開発者が知っておくべきPostgreSQLパフォーマンス改善Tips 初級10選](https://zenn.dev/gizmo/articles/5a3b81b56309c6) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [OpenAIの動画AIアプリ「Sora」ダウンロード数が急落、動画生成AIの競争激化](https://www.sbbit.jp/article/cont1/179824) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [定時で帰りたい開発環境](https://zenn.dev/justhiro/articles/649e6fa7d7521c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [なぜDBはインデックスを使わないのか - ランダムI/Oとシーケンシャルスキャンの基礎](https://zenn.dev/fitness_densuke/articles/2026-01-26-db-index-io-fundamentals) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [画像生成AIをPCで簡単に実行できる「ComfyUI」のインストール手順＆最初の画像を生成するまでの手順まとめ - GIGAZINE](https://gigazine.net/news/20260201-comfyui-image-video-generation-ai/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [昔の8ビットパソコンはどこのZ80を使っていたのか - Qiita](https://qiita.com/yunkya2/items/84e0bc99e2f011e9dc77) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [ソニーが『物理ボタン全廃』の特許を出願！PS6用コントローラーは全面タッチ式か、手の形に合わせボタン位置が動く新技術で操作性が激変？](https://daily-gadget.net/game_gaming/106464/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [Tailwind は現代の jQuery だ 〜標準化が実現する世界〜](https://zenn.dev/yamitake/articles/tailwind-is-modern-jquery) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [React Best PracticesをCursorで動かす](https://zenn.dev/toshibowie/articles/850c575dc422cc) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [【革命】AIがUIを表示する時代が来た！MCP Appsで開発が根本から変わる](https://zenn.dev/babushkai/articles/2026-01-30-mcp-apps-ai-ui-revolution) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [日本語入力システムSumibiの開発 part16: アンビエント変換で変換キー不要に](https://zenn.dev/kiyoka/articles/japanese-input-method-sumibi-16) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [Claude Opus 4.5 vs Kimi K2.5 〜コーディング性能とコスト効率比較〜](https://zenn.dev/robustonian/articles/claude_vs_kimi_k25) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [【論文解説】メルカリの検索技術のしくみ：購入データ学習による業界特化の検索モデルの導入](https://zenn.dev/yagiyuki/articles/mercari-vec-search) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [DSpyの基礎と構成（プログラムの実行と最適化）](https://zenn.dev/yumefuku/articles/dspy-prompt-optimize) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [再帰言語モデル（RLM）の衝撃：AIが自らプロンプトをコードで操作し、10Mトークンの壁を突破する](https://zenn.dev/kewa8579/articles/735553722e6cbd) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [Claude Code × Qdrant でナレッジベースにセマンティック検索を導入する](https://zenn.dev/xei/articles/claude-code-qdrant-semantic-search) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [契約書AIは本当に使える？評判から費用、弁護士法まで徹底解説！おすすめサービス10選【2026年最新】](https://zenn.dev/ai_saas_media/articles/6d299bb77ea580) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [AIブログの始め方完全ガイド！【稼ぐ副業へ】作り方・ツール・収益化を徹底解説！](https://zenn.dev/ai_saas_media/articles/b54fcdeea3eb17) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [【AI面接を完全攻略！】仕組み・質問内容・高評価の秘訣まで！落ちるを回避し、通過率を爆上げする対策ガイド](https://zenn.dev/ai_saas_media/articles/db57d380ba54d6) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [AI投資信託は儲かる？おすすめランキング5選と失敗しない選び方を専門家が徹底解説！](https://zenn.dev/ai_saas_media/articles/81be1b68069f12) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [【2026年版】職務経歴書をAIで自動作成！無料のおすすめツール10選と採用率UPの秘訣](https://zenn.dev/ai_saas_media/articles/b57ac0762520d4) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [Tweedieの公式を証明してみる](https://zenn.dev/yoshitakamo/articles/4842fc8c27ae35) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-01 [形式手法×機械学習でMNIST×GNN 80%達成！半年越しの挑戦記録"](https://zenn.dev/hiroakikody/articles/4e4a4bb31cb5b7) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-01 [GitHub Copilot競合分析：コード生成AIのトレーニングデータソース](https://zenn.dev/datajournal1/articles/73ef3b21cbff57) *(Zenn – トピック 機械学習)*
