@@ -21324,3 +21324,44 @@
 - [ ] 2026-01-31 [ChatDev 2.0でmulti-agent-shogunを再現する - 戦国風マルチエージェントシステムの構築](https://zenn.dev/tktomaru/articles/dc5f709f88138d) *(Zenn – トピック LLM)*
 - [ ] 2026-01-31 ["ふつうのPython" で書けるAIエージェントフレームワークを作ってみた [ステートマシン]](https://zenn.dev/shuent/articles/d8b793ac1b64c3) *(Zenn – トピック LLM)*
 - [ ] 2026-01-31 [なぜ、(申し訳ないけど)LLM AIはIQが低い人に使わせると危険なのか？](https://zenn.dev/pdfractal/articles/241a6e097b0408) *(Zenn – トピック LLM)*
+
+## Collected on 2026-02-01T01:05:13.906Z
+- [ ] 2026-01-31 [Chinese Adults Taking Strange AI Devices to Bed With Them](https://futurism.com/artificial-intelligence/china-ai-companion-toys) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-01-31 [AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly) *(Bloomberg Technology)*
+- [ ] 2026-01-31 [Waymo Seeking About $16 Billion Near $110 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-01-31 [HBO Still Loyal to ‘House of the Dragon’ Despite Creative Strife](https://gizmodo.com/hbo-still-loyal-to-house-of-the-dragon-despite-creative-strife-2000716180) *(Gizmodo – Technology)*
+- [ ] 2026-01-31 [Trump’s Pick for Fed Chair Points to Growing Bitcoin-Dollar Synthesis](https://gizmodo.com/trumps-pick-for-fed-chair-points-to-growing-bitcoin-dollar-synthesis-2000716347) *(Gizmodo – Technology)*
+- [ ] 2026-01-31 [Study: Used EVs Are The Cheapest Vehicles To Own](https://gizmodo.com/study-used-evs-are-the-cheapest-vehicles-to-own-2000716344) *(Gizmodo – Technology)*
+- [ ] 2026-01-31 [HBO Knows ‘It: Welcome to Derry’ Should Get a Season 2](https://gizmodo.com/hbo-knows-it-welcome-to-derry-should-get-a-season-2-2000716115) *(Gizmodo – Technology)*
+- [ ] 2026-01-31 [Don’t You Dare ‘Misinterpret’ Elon Musk’s Epstein Emails. Just the Facts Are Bad Enough](https://gizmodo.com/dont-you-dare-misinterpret-elon-musks-epstein-emails-just-the-facts-are-bad-enough-2000715313) *(Gizmodo – Technology)*
+- [ ] 2026-01-31 [NVIDIA is still planning to make a 'huge' investment in OpenAI, CEO says](https://www.engadget.com/ai/nvidia-is-still-planning-to-make-a-huge-investment-in-openai-ceo-says-205521528.html?src=rss) *(Engadget)*
+- [ ] 2026-01-31 [Ayaneo's Pocket S Mini has the perfect aspect ratio for revisiting classic console games](https://www.engadget.com/gaming/ayaneos-pocket-s-mini-has-the-perfect-aspect-ratio-for-revisiting-classic-console-games-203926701.html?src=rss) *(Engadget)*
+- [ ] 2026-01-31 [OnlyFans is reportedly in talks to sell a 60 percent stake to a San Francisco investment firm](https://www.engadget.com/social-media/onlyfans-is-reportedly-in-talks-to-sell-a-60-percent-stake-to-a-san-francisco-investment-firm-191842666.html?src=rss) *(Engadget)*
+- [ ] 2026-02-01 [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-01 [医学論文、13.5%にAIの痕跡　「乱造」で増す誤情報リスクと査読負担 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOSG088I20Y5A001C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [ゲオ（GEO）で売ってる激安SSDをレビュー：容量2TBで2万円台なのにハイエンド顔負けの性能 \| ちもろぐ](https://chimolog.co/geo-ssd/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [ドメインに発行されたすべての証明書を検索できる「CertRadar」](https://gigazine.net/news/20260131-cert-radar/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [政見放送をＡＩで改ざん、中道の野田・斉藤両共同代表が踊り出すニセ動画が拡散…専門家「選挙ゆがみかねない」](https://www.yomiuri.co.jp/election/shugiin/20260131-GYT1T00420/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [gpt-oss-20bを凌駕する軽量AI「GLM-4.7-Flash」、3秒の音声からボイスクローンを生成できて商用利用可の音声AI「Qwen3-TTS」、など生成AI技術5つを解説（生成AIウィークリー） \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/01/30/4843.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [「ひろゆき氏のSIer衰退論」「ペネトレーションテストは死んだ？」、技術職の未来に関心](https://atmarkit.itmedia.co.jp/ait/articles/2601/31/news013.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [HTML: 「JavaScriptなし」で動く最新の多機能確認ダイアログを構築する（翻訳）｜TechRacho by BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2026_01_30/156001) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-01-31 [RedSageでサイバーセキュリティ支援を強化し効率的な対応を実現した経験](https://zenn.dev/yunisuta/articles/20260131_180837) *(Zenn – トピック LLM)*
+- [ ] 2026-01-31 [AutoevalsでLLM出力の評価基準を実装する](https://zenn.dev/yuzame/articles/ca9cb93faf5026) *(Zenn – トピック LLM)*
+- [ ] 2026-01-31 [GPUが無い環境でローカルLLMを動かす方法](https://zenn.dev/yuki_ayano/articles/memorandum-ollama-cpu-llm) *(Zenn – トピック LLM)*
+- [ ] 2026-01-31 [AIに画像を直接作らせるのではなく、HTMLを書かせるようにしたら iPhone アプリのCVRが2倍になった](https://zenn.dev/duck_falcon/articles/05e2030f6b6aec) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [話題のfind-skills：Claude Codeでタスクに合うスキルを検索](https://zenn.dev/hjpotter1/articles/c187f5123112bb) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [ソフトは言霊](https://zenn.dev/good_relax/articles/5b1ac4c1031ea6) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [【即効で実践できる】AIでの調べ物の仕方まとめ](https://zenn.dev/kontamaru/articles/9085d397d3b32b) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Claude Code on the Web から Codex Cloud をサブエージェント的に使う完全ガイド](https://zenn.dev/yosyyy/articles/zenn-article) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [ブログ画像を0.6秒で生成する方法【1枚0.2円】](https://zenn.dev/xei/articles/replicate-mcp-image-generation) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [『誰でも作れる 君だけのAI（改訂版）』〜数学の運動神経を呼び覚ませ〜](https://zenn.dev/practicalspirit/books/29352d9f774823) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [AI駆動開発 vs バイブコーディング もアンチなSIerに理解させる苦労物語](https://zenn.dev/syoshida07/articles/980f254ae554f5) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [AI時代の脆弱性診断、AWS Security Agentに何を期待すべきか](https://zenn.dev/acntechjp/articles/d7300b63c771b9) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Style-BERT-VITS2をBlackwell世代GPUのWindowsで完全動作させる](https://zenn.dev/rick_lyric/articles/e53fa6ad990684) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [【Antigravity】動画編集ド素人の学生が、Pythonで「ゆっくり実況」の完全自動化に挑んでみた話](https://zenn.dev/kiri_tech/articles/bbbaf5f1cdc57d) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Claude DesktopからObsidianを操作する - MCP連携完全ガイド](https://zenn.dev/tktomaru/articles/4490e6ecfa6a46) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [Clawdbotのブラウザ操作設計が良すぎたので自分のプロジェクトにパクった](https://zenn.dev/acntechjp/articles/6a40b4508aa96a) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [5-②[AI][Kaggle][python]Kaggle入門(データの可視化 2.折れ線グラフ)](https://zenn.dev/rg687076/articles/ce34819673374b) *(Zenn – トピック AI)*
+- [ ] 2026-01-31 [RedSageを活用してサイバーセキュリティLLMを構築し専門性と汎用性を向上させた経験](https://zenn.dev/yunisuta/articles/20260131_180639) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-31 [Kaggle 草コンペ振り返り & 上位解法まとめ \| CSIRO - Image2Biomass Prediction](https://zenn.dev/prgckwb/articles/kaggle-csiro-image2biomass) *(Zenn – トピック 機械学習)*
+- [ ] 2026-01-31 [Metaflowことはじめ](https://zenn.dev/rrioh/articles/7f8243d83db657) *(Zenn – トピック 機械学習)*
