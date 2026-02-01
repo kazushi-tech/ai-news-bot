@@ -21430,3 +21430,43 @@
 - [ ] 2026-02-01 [Tweedieの公式を証明してみる](https://zenn.dev/yoshitakamo/articles/4842fc8c27ae35) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-01 [形式手法×機械学習でMNIST×GNN 80%達成！半年越しの挑戦記録"](https://zenn.dev/hiroakikody/articles/4e4a4bb31cb5b7) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-01 [GitHub Copilot競合分析：コード生成AIのトレーニングデータソース](https://zenn.dev/datajournal1/articles/73ef3b21cbff57) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-01T18:16:48.886Z
+- [ ] 2026-02-01 [‘Coffee is just the excuse’: the deaf-run cafe where hearing people sign to order](https://www.theguardian.com/society/2026/feb/01/deaf-run-cafe-london-where-hearing-people-order-via-sign) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-01 [“Existential risk” – Why scientists are racing to define consciousness](https://www.sciencedaily.com/releases/2026/01/260131084626.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-02-01 [New Study Examines How Often AI Psychosis Actually Happens, and the Results Are Not Good](https://futurism.com/artificial-intelligence/new-study-anthropic-psychosis-disempowerement) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-01 [Experts Growing Worried About World in Which AI Takes Your Job and You Have No Way to Provide for Yourself](https://futurism.com/future-society/ai-labor-universal-income) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-01 [Apple’s Historic Quarter Doesn’t Change the Need for AI Reckoning](https://www.bloomberg.com/news/newsletters/2026-02-01/apple-s-record-quarter-and-ai-changes-macbook-pro-update-clamshell-iphone-fold) *(Bloomberg Technology)*
+- [ ] 2026-02-01 [‘Demon Slayer: Infinity Castle’ Returns to Theaters in Japan](https://gizmodo.com/demon-slayer-infinity-castle-returns-to-theaters-in-japan-2000716052) *(Gizmodo – Technology)*
+- [ ] 2026-02-01 [When Does ‘The Last of Us’ End? HBO Doesn’t Know](https://gizmodo.com/when-does-the-last-of-us-end-hbo-doesnt-know-2000716334) *(Gizmodo – Technology)*
+- [ ] 2026-02-01 [SwitchBot Lock Ultra Review: A Good Retrofit Smart Lock for Secondary Doors](https://gizmodo.com/switchbot-lock-ultra-review-a-good-retrofit-smart-lock-for-secondary-doors-2000710351) *(Gizmodo – Technology)*
+- [ ] 2026-02-01 [Indonesia is lifting its ban on Grok, but with some conditions](https://www.engadget.com/ai/indonesia-is-lifting-its-ban-on-grok-but-with-some-conditions-175305634.html?src=rss) *(Engadget)*
+- [ ] 2026-02-01 [How to replace your AirTag battery](https://www.engadget.com/computing/accessories/how-to-replace-your-airtag-battery-130000463.html?src=rss) *(Engadget)*
+- [ ] 2026-02-01 [ふるさと納税の松阪牛が届きハイテンションで開封したところ、なんと証明書のコピー入り『この牛の名前は“きよこ”、屠畜日は1月4日、生後665日目』きよこ…](https://togetter.com/li/2658605) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [SSHがキーストロークごとに100パケットを送信する問題をLLMとともに解決した話](https://gigazine.net/news/20260201-ssh-sends-100-packets-per-keystroke/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [生成 AI 時代のアイデア探索方法 (2026 年版) - 🐴 (馬)](https://blog.takaumada.com/entry/genai-ideation-2026) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [SRE Kaigi 2026 発表資料まとめ](https://zenn.dev/su8/articles/205656fbae8c2f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [Microsoft、Windowsアプリ開発サイクルを効率化するコマンドラインツール「winapp CLI」をパブリックプレビューリリース \| gihyo.jp](https://gihyo.jp/article/2026/01/winapp-cli) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [AWS リファレンスアーキテクチャ図](https://aws.amazon.com/jp/architecture/reference-architecture-diagrams/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [AWS Transit GatewayとVPCピアリングのデータ転送のコストを比較してみた \| DevelopersIO](https://dev.classmethod.jp/articles/transit-gateway-vs-vpc-peering-data-transfer-cost/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [2025年のセキュリティ最前線：ランサムウェア対策の完全ガイド：AI時代の攻撃から組織を守る実践的な方法 - Qiita](https://qiita.com/mhamadajp/items/442208ab53b4fe5b6286) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [Linuxゲーム開発者が協力してゲームエコシステム全体を改善する「Open Gaming Collective」を結成](https://gigazine.net/news/20260201-linux-gaming/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [答えを教えないRAG「ソクラテス」の実装戦略  Frontmatterで"学習指導要領"を定義する [実装・検証編]](https://zenn.dev/mizunadad/articles/d0b6c13fac6832) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [uv + FastAPI + HTMXで構築する最小のローカルLLMチャットアプリ開発](https://zenn.dev/morimori1212/articles/ea387d383de7db) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [C#erとして考える、モダンC#/.NETの2026年始の現在地とLLM時代の課題](https://zenn.dev/nossa/articles/12591dab29df30) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [テスラの掲示板データでAIエージェントを作った](https://zenn.dev/teskas/articles/9e80708c98b92e) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [【神機能】Claude Codeを自動運転！Schedulerで寝てる間にコードレビューさせる方法](https://zenn.dev/babushkai/articles/2026-01-30-claude-code-scheduler-autopilot) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [Google Project Genie 3 が一般公開！テキストから3Dインタラクティブワールドを生成するAI](https://zenn.dev/yu_ga/articles/google-project-genie-3d-world-generator) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [Rebuilding "Shining Force NEO" with Modern Technology](https://zenn.dev/dosanko_tousan/articles/f9e73490ab65d4) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [freee MCP × Claude Codeで立替金のマイナス残高を解決した話](https://zenn.dev/xei/articles/freee-mcp-tatekaekin-fix) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [Gemini CLI × Claude Codeで Gmail操作を自動化してみた](https://zenn.dev/xei/articles/gemini-cli-claude-code-gmail) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [PAI Hook System：Claude Code のイベントを自動化する基盤](https://zenn.dev/yasuhito/articles/pai-hook-system) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [PAI Core Install：パーソナル AI の「OS」となる基盤パック](https://zenn.dev/yasuhito/articles/pai-core-install) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [「エラー貼るから直して」を卒業する - AIに怒られながら学ぶコーディング勉強法](https://zenn.dev/korucha/articles/ai-coding-trainer-antigravity) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [Remotion Agent Skillsの本当の強みは「AIが動画の中身を理解できる」こと](https://zenn.dev/tenormusica/articles/remotion-agent-skills-video-ai-2026) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [iOS Foundation Modelを実際のアプリに統合してみた —良かった点、苦労した点、そして「もうボタンで解決しちゃえ」と決めた話](https://zenn.dev/iariar90/articles/e73b0ab933c246) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [PMBOKの叡智がAIに集約された「PMI Infinity」](https://zenn.dev/beachone1155/articles/20251101-pmi-infinity-ai-project-management) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [MCP Appsってなんだ？〜AIチャットにUIを埋め込む革命技術を完全理解〜](https://zenn.dev/rick_lyric/articles/4fa267b4cf6ade) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [DGX SparkでHeartMuLaを試す](https://zenn.dev/michy/articles/c68ef5f980c3a6) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [SlackにAIエージェントを召喚する方法 ─ OpenClawを実際に導入してみた](https://zenn.dev/aipha_euro/articles/43ea11216e4026) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [Claude Code × GitHub ActionsでAIが自動でブランチ作成、PR作成、コーディングする記事をAIに書いてもらった件](https://zenn.dev/samu4645/articles/github-actions-claude-code-automation) *(Zenn – トピック AI)*
