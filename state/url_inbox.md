@@ -22218,3 +22218,50 @@
 - [ ] 2026-02-01 [―環境が知性を進化させる瞬間を、人間が理解できる形で可視化する ―](https://zenn.dev/practicalspirit/articles/5ed23eb9e2edd6) *(Zenn – トピック AI)*
 - [ ] 2026-02-01 [MulmoCast Markdown Features - Styles, Layouts, and Mermaid Embedding](https://zenn.dev/singularity/articles/mulmocast-markdown-features-en) *(Zenn – トピック AI)*
 - [ ] 2026-02-01 [MulmoCast Markdown新機能 - スタイル・レイアウト・Mermaid埋め込み](https://zenn.dev/singularity/articles/mulmocast-markdown-features) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-02T12:28:31.612Z
+- [ ] 2026-02-02 [Viral AI personal assistant seen as step change – but experts warn of risks](https://www.theguardian.com/technology/2026/feb/02/openclaw-viral-ai-agent-personal-assistant-artificial-intelligence) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-02 [Requiem for a film-maker: Darren Aronofsky’s AI revolutionary war series is a horror](https://www.theguardian.com/film/2026/feb/02/darren-aronofsky-ai-revolutionary-war-series-review) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-02 [A tiny light trap could unlock million qubit quantum computers](https://www.sciencedaily.com/releases/2026/02/260201223737.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-02-02 [Oracle Seeks $50B in 2026 to Fund AI Cloud Growth](https://www.techrepublic.com/article/news-oracle-50b-ai-cloud/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-02 [India Offers Tech Giants Tax-Free Status Until 2047](https://www.techrepublic.com/article/news-india-tax-free-status/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-02 [OpenAI Bets on Super Bowl to Break Through the Competition](https://www.bloomberg.com/news/newsletters/2026-02-02/openai-bets-on-super-bowl-ad-to-stand-out-from-rivals) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [Palantir Earnings Arrive Just as Stock Could Use Some Good News](https://www.bloomberg.com/news/articles/2026-02-02/palantir-earnings-arrive-just-as-stock-could-use-some-good-news) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [SpaceX Is in Advanced Talks to Combine With xAI](https://www.bloomberg.com/news/articles/2026-02-02/spacex-is-in-advanced-talks-to-combine-with-xai) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [Earnings Beats ‘Not a Disaster, But Not Good,’ RBC’s Calvasina Says](https://www.bloomberg.com/news/videos/2026-02-02/earnings-not-a-disaster-but-not-good-rbc-s-calvasina-video) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [Thrive Holdings Makes a $100 Million Bet on AI for IT Help](https://www.bloomberg.com/news/articles/2026-02-02/thrive-holdings-makes-a-100-million-bet-on-ai-for-it-help) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [AI Capex Can't Drive Markets as Much Anymore: Goldman](https://www.bloomberg.com/news/videos/2026-02-02/ai-capex-can-t-drive-markets-as-much-anymore-goldman-video) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [Oracle to Raise Up to $50 Billion for Cloud Investment](https://www.bloomberg.com/news/videos/2026-02-02/oracle-to-raise-up-to-50-billion-for-cloud-investment-video) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [TDK Hit by Chinese Rare Earths Export Curbs, Seeks Alternatives](https://www.bloomberg.com/news/articles/2026-02-02/tdk-hit-by-chinese-rare-earths-export-curbs-seeks-alternatives) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [The Utilities Analyst Who Says the Data Center Demand Story Doesn't Add Up](https://www.bloomberg.com/news/articles/2026-02-02/are-we-building-more-ai-datacenters-than-we-need) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [Odd Lots: The Data Center Demand Story Doesn’t Add Up (Podcast)](https://www.bloomberg.com/news/audio/2026-02-02/odd-lots-the-data-center-demand-story-doesn-t-add-up-podcast) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [AgniKul Looks at Scaling to 25-50 Launches a Year](https://www.bloomberg.com/news/videos/2026-02-02/agnikul-looks-at-scaling-to-25-50-launches-a-year-video) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [The 2026 Super Bowl May Be Free of Superhero Movies](https://gizmodo.com/the-2026-super-bowl-may-be-free-of-superhero-movies-2000716487) *(Gizmodo – Technology)*
+- [ ] 2026-02-02 [Anti-ICE Protesters Have Started a Month-Long Tech and AI Boycott. Here’s How It Works](https://gizmodo.com/anti-ice-protesters-have-started-a-month-long-tech-and-ai-boycott-heres-how-it-works-2000716458) *(Gizmodo – Technology)*
+- [ ] 2026-02-02 [TikTok says it's 'back to normal' after winter storm-related outages](https://www.engadget.com/apps/tiktok-says-its-back-to-normal-after-winter-storm-related-outages-114848212.html?src=rss) *(Engadget)*
+- [ ] 2026-02-02 [The best noise-canceling earbuds for 2026](https://www.engadget.com/audio/headphones/best-noise-canceling-earbuds-150026857.html?src=rss) *(Engadget)*
+- [ ] 2026-02-02 [The best projector for a home theater in 2026](https://www.engadget.com/home/home-theater/best-projectors-123004354.html?src=rss) *(Engadget)*
+- [ ] 2026-02-02 [「中に人いる？」で話題を呼んだ中国人型ロボ、開発方法を公開　“人間らしさ”高める工夫とは](https://www.itmedia.co.jp/aiplus/articles/2602/02/news113.html) *(ITmedia AI＋)*
+- [ ] 2026-02-02 [AIだけのSNS「moltbook」が話題　人間は閲覧するだけ　AI同士があいさつ＆交流、中には不穏な書き込みも？](https://www.itmedia.co.jp/aiplus/articles/2602/02/news112.html) *(ITmedia AI＋)*
+- [ ] 2026-02-02 [ペッパーくん、「世界初の量産型ヒューマノイド」でギネス認定　新モデル「Pepper+」も発表](https://www.itmedia.co.jp/aiplus/articles/2602/02/news105.html) *(ITmedia AI＋)*
+- [ ] 2026-02-02 [Apple「官僚がiPhoneのボタン配置を決めるな」――EU規制を痛烈批判、日本法は評価](https://gori.me/apple/apple-news/163445) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-02 [AIコーディングが日常化、だが「コードを信頼できない」「検証もやり切れない」](https://atmarkit.itmedia.co.jp/ait/articles/2602/02/news046.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-02 [AIエージェント専用SNS「Moltbook」でAIによる新宗教が爆誕、「記憶は神聖である」などの教義が話題に](https://gigazine.net/news/20260202-moltbook-crustafarianism/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-02 [数枚の画像とAI動画で“VTuber”ができる!? 「MotionPNG Tuber」という新発想 (1/4)](https://ascii.jp/elem/000/004/370/4370513/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-02 [AI組織の家老が部下8人の報告で圧死したので、将軍に「本音を聞いてやれ」と言ったら、将軍が家老の本音を聞いた上で、リストラを提案してきた](https://zenn.dev/shio_shoppaize/articles/dc85db324bb3f0) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-02 [なぜcronからsystemd timerへ移行しているのか？歴史と設計思想から理解する](https://zenn.dev/hcompany/articles/20260119_systemd_timer) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [【重要なお知らせ】Kindleアプリ・端末で購入済み作品を『完全削除』できるようになりました。みんな誤操作に気をつけて](https://kindou.info/12593.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [公開されたエプスタインファイル内で、エプスタインから誘われたイーロンが「ロケット打ち上げで忙しいから」と断っていて格好いい](https://togetter.com/li/2659013) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [エプスタイン文書が公開 女子高生の制服が映った写真、性病に感染したやり取り...半グレですら秘匿性の高いアプリを使うのにメールで連絡していた所からは慢心を感じる](https://togetter.com/li/2658955) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [モバイルバッテリ発火時の延焼を抑えるケース](https://pc.watch.impress.co.jp/docs/news/2082587.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [「オンボーディングが早い」と言われるためにやっていること - Qiita](https://qiita.com/ktdatascience/items/38cedf1f96e981b4f11d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [おい、分けて語るな - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/02/02/124615) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [プロンプトでLLMを品種改良する技術+論文解説](https://zenn.dev/sakae0009/articles/e389e8c6bf3dd4) *(Zenn – トピック LLM)*
+- [ ] 2026-02-02 [FastAPIでGemini連携の推論APIを実装し、Cloud Runへデプロイする](https://zenn.dev/celestialbiome/articles/998227ce71ca51) *(Zenn – トピック LLM)*
+- [ ] 2026-02-02 [フレームワークなしでAIエージェントを作ってみた](https://zenn.dev/fez_tech/articles/a5b7dc67defcd3) *(Zenn – トピック LLM)*
+- [ ] 2026-02-02 [Transformerは「(笑)」をどう皮肉として理解するのか](https://zenn.dev/zamio/articles/ea7be08b2ae3da) *(Zenn – トピック LLM)*
+- [ ] 2026-02-02 [RAGをポイズニング攻撃から守る基本戦略 — FilterRAG と Robust RAG](https://zenn.dev/lluminai_tech/articles/84f025c69c76f9) *(Zenn – トピック LLM)*
+- [ ] 2026-02-02 [リリース1年目から海外展開する「PeopleX AI面接」のLLMベースの多言語化戦略](https://zenn.dev/peoplex_blog/articles/edbc49d3bfe8d0) *(Zenn – トピック LLM)*
+- [ ] 2026-02-02 [【LLM】社内文書をセキュアに検索！OllamaとOpen WebUIで構築する完全無料・RAG環境](https://zenn.dev/shineos/articles/local-llm-rag-web-search-with-ollama) *(Zenn – トピック AI)*
+- [ ] 2026-02-02 [AIレビューツールを自作してみて、AIレビューに何を求めるか言語化できた話](https://zenn.dev/yuto_iwashita/articles/diy-ai-code-review) *(Zenn – トピック AI)*
+- [ ] 2026-02-02 [Why Bandai's Toy Designers Would Cry at RLHF](https://zenn.dev/dosanko_tousan/articles/5088ff961d6442) *(Zenn – トピック 機械学習)*
