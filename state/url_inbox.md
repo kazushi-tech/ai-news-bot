@@ -21470,3 +21470,81 @@
 - [ ] 2026-02-01 [DGX SparkでHeartMuLaを試す](https://zenn.dev/michy/articles/c68ef5f980c3a6) *(Zenn – トピック AI)*
 - [ ] 2026-02-01 [SlackにAIエージェントを召喚する方法 ─ OpenClawを実際に導入してみた](https://zenn.dev/aipha_euro/articles/43ea11216e4026) *(Zenn – トピック AI)*
 - [ ] 2026-02-01 [Claude Code × GitHub ActionsでAIが自動でブランチ作成、PR作成、コーディングする記事をAIに書いてもらった件](https://zenn.dev/samu4645/articles/github-actions-claude-code-automation) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-02T00:58:37.278Z
+- [ ] 2026-02-02 [Lasertec Shares Drop After Outlook Misses Market Expectations](https://www.bloomberg.com/news/articles/2026-02-02/lasertec-shares-drop-after-outlook-misses-market-expectations) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [Nomura Shares Drop After Profit Falls More Than Estimated](https://www.bloomberg.com/news/articles/2026-02-02/nomura-shares-drop-after-profit-falls-more-than-estimated) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [Warner Bros. Acquisition Puts Netflix in Regulators’ Crosshairs](https://www.bloomberg.com/news/newsletters/2026-02-02/netflix-s-warner-deal-brings-official-scrutiny-along-with-benefits) *(Bloomberg Technology)*
+- [ ] 2026-02-02 [China AI Deals Push Hong Kong Listings to Busiest Start of the Year](https://www.bloomberg.com/news/articles/2026-02-02/china-ai-deals-push-hong-kong-listings-to-busiest-start-of-the-year) *(Bloomberg Technology)*
+- [ ] 2026-02-01 [Oracle to Raise Up to $50 Billion in 2026 for Cloud Buildup](https://www.bloomberg.com/news/articles/2026-02-01/oracle-to-raise-up-to-50-billion-this-year-for-cloud-investment) *(Bloomberg Technology)*
+- [ ] 2026-02-01 [GIC, Mubadala Said to Be Set to Join KKR in $10 Billion STT Deal](https://www.bloomberg.com/news/articles/2026-02-01/gic-mubadala-said-to-be-set-to-join-kkr-in-10-billion-stt-deal) *(Bloomberg Technology)*
+- [ ] 2026-02-01 [Rolls-Royce Moon Nuclear Reactor Plan Stalls, Telegraph Says](https://www.bloomberg.com/news/articles/2026-02-01/rolls-royce-plan-for-moon-nuclear-reactor-stalls-telegraph-says) *(Bloomberg Technology)*
+- [ ] 2026-02-01 [Capgemini to Divest US Unit Criticized for Contracts With ICE](https://www.bloomberg.com/news/articles/2026-02-01/capgemini-to-divest-us-unit-criticized-for-contracts-with-ice) *(Bloomberg Technology)*
+- [ ] 2026-02-01 [European Tech Giant Cuts Off U.S. Subsidiary After Multimillion Dollar ICE Contract](https://gizmodo.com/european-tech-giant-cuts-off-u-s-subsidiary-after-multimillion-dollar-ice-contract-2000716428) *(Gizmodo – Technology)*
+- [ ] 2026-02-01 [‘Upgrade’ Producer Dishes On the TV Sequel That Almost Was](https://gizmodo.com/upgrade-producer-dishes-on-the-tv-sequel-that-almost-was-2000716426) *(Gizmodo – Technology)*
+- [ ] 2026-02-01 [Emails Show Even Epstein Thought Crypto Pumps are Unethical](https://gizmodo.com/emails-show-even-epstein-thought-crypto-pumps-are-unethical-2000716448) *(Gizmodo – Technology)*
+- [ ] 2026-02-01 [Matthew Lillard Is Happy Netflix Is Bringing ‘Scooby-Doo’ Back](https://gizmodo.com/matthew-lillard-is-happy-netflix-is-bringing-scooby-doo-back-2000716361) *(Gizmodo – Technology)*
+- [ ] 2026-02-01 [Apple Leadership Is Quietly Getting AI-Pilled, Report Claims](https://gizmodo.com/apple-leadership-is-quietly-getting-ai-pilled-report-claims-2000716353) *(Gizmodo – Technology)*
+- [ ] 2026-02-01 [Apex Legends won't be playable on Nintendo Switch after its next season](https://www.engadget.com/gaming/nintendo/apex-legends-wont-be-playable-on-nintendo-switch-after-its-next-season-214153353.html?src=rss) *(Engadget)*
+- [ ] 2026-02-01 [Apple is already thinking about its second foldable iPhone, and it may be a clamshell](https://www.engadget.com/mobile/smartphones/apple-is-already-thinking-about-its-second-foldable-iphone-and-it-may-be-a-clamshell-202312700.html?src=rss) *(Engadget)*
+- [ ] 2026-02-01 [Apple's online store now lets you build a new Mac exactly the way you want](https://www.engadget.com/computing/laptops/apples-online-store-now-lets-you-build-a-new-mac-exactly-the-way-you-want-190430251.html?src=rss) *(Engadget)*
+- [ ] 2026-02-02 [リアルタイムフィッシング（Realtime Phishing）](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/012100215/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [生成AIで開発生産性が50％向上　SIerの事業モデルは瓦解する](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600007/012100209/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [50年来のレガシー移行　安値ベンダー選定も遅延・撤退で頓挫](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600011/012900199/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [インターネットの全体像を知る](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/071500225/011900007/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [ロードバランサー](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900172/011900029/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [パスワードは定期的に変えたほうがいいの？](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800014/011900104/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [AIのデータ暴食が加速　向き合う企業の備え方](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600014/012900221/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [なぜNTTドコモは銀行を必要としたのか、金融事業のキーパーソンに聞く](https://xtech.nikkei.com/atcl/nxt/column/18/00086/00386/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [開発進む「宇宙データセンター」　電力や空間の確保、冷却でメリット](https://xtech.nikkei.com/atcl/nxt/column/18/01679/122200262/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [生成AI使う？使わない？　「二極化」する利用状況、年収との相関くっきり](https://xtech.nikkei.com/atcl/nxt/column/18/03483/012900001/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [バックアップ用途にUSBメモリーは不向き、SSDより寿命が短い](https://xtech.nikkei.com/atcl/nxt/column/18/03445/121700015/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [AIサービス利用実態調査、ChatGPTとGeminiの評価は](https://xtech.nikkei.com/atcl/nxt/column/18/03475/011900001/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [AI活用で広がるデータサイエンティストの役割、分析から「価値創造」へ](https://xtech.nikkei.com/atcl/nxt/column/18/03481/012700001/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [気になる企業やキーワードに関する最新情報をチェックできる「登録キーワード」](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00028/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [記事の印刷に適した表示「印刷用ページ」](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00029/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [日本企業のDXを妨げる元凶とは、情報がボトムアップしない組織に怒り](https://xtech.nikkei.com/atcl/nxt/column/18/00148/012700418/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [ミラノ・コルティナ五輪開幕へ、ビッグデータやモーキャプ　選手の支えに](https://xtech.nikkei.com/atcl/nxt/column/18/03446/012600003/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [「NeurIPS」の論文で探るAIの最前線、推論モデルや強化学習の進化が焦点に](https://xtech.nikkei.com/atcl/nxt/column/18/03230/012900009/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [Nothing初エントリースマホ「Phone（3a）Lite」、普段使いに十分の完成度](https://xtech.nikkei.com/atcl/nxt/column/18/02980/012800035/) *(日経クロステック IT)*
+- [ ] 2026-02-02 [テスラがサイバーキャブで目指す付加価値とハードウエアとは何か](https://xtech.nikkei.com/atcl/nxt/column/18/03440/012100005/) *(日経クロステック IT)*
+- [ ] 2026-02-01 [3DEXPERIENCE World 2026開幕 注目は3D UNIV+RSES、AIコンパニオン、革ジャン!?](https://monoist.itmedia.co.jp/mn/articles/2602/02/news055.html) *(ITmedia AI＋)*
+- [ ] 2026-02-01 [「もはやコーディングの80％がAI」 元OpenAIカルパシー氏が警告する2026年の悪夢“スロポカリプス”](https://atmarkit.itmedia.co.jp/ait/articles/2602/02/news013.html) *(ITmedia AI＋)*
+- [ ] 2026-02-02 [企業の75％ 業務にAI活用 5年前11％から大きく増加 財務省調査 \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015041151000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-02 [最近AIに書かせたなって文章が分かるようになってきた→特徴を掴んだ人達がこぞってAIっぽい文章を真似し始める大喜利に「あ、それめっちゃわかるやつ」](https://togetter.com/li/2658815) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-02 [【正直、どう使ったらいいの？】GeminiとNotebookLMの連携機能についての考察｜【AI研究中】ただし](https://note.com/note_tds/n/n0d480ba60ed1) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-02 [【1996年のINTERNET Watch】知っていますか「ブラウザー戦争」に「テレホーダイ」、普及初期の激動を報じた創刊年　1995年、日本のインターネット利用率は約1％](https://internet.watch.impress.co.jp/docs/special/30th/2081494.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [INTERNET Watchは30周年を迎えました 【INTERNET Watch編集部コラム】](https://internet.watch.impress.co.jp/docs/column/editors/2082519.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [老化したヒト細胞を若返らせる「スイッチ」を見つけるシステム　米国チームが開発　マウスが3週間で8カ月若返り](https://www.itmedia.co.jp/news/articles/2602/02/news027.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [ヌテラのクレープをUberしたら注文で間違えて挽肉トッピングしてた最悪→「作ってる時の店員さんの心情が気になる」「なかなかヤバいやつ認定されてそう」](https://togetter.com/li/2658691) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [純粋関数型言語ではconsole.log("Hello")をlog "Hello"と書くし、foo = 42をwrite 42 fooと書く - Qiita](https://qiita.com/hiruberuto/items/4d8a4739cd738c425ee2) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [Claude CodeでローカルLLMが使えるらしいので試してみた【Ollama連携】](https://zenn.dev/acntechjp/articles/60031d464651ec) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [【特集】 メモリ16GBペアが11万円超え!? 2026年1月、パソコン市場を襲う「5倍高騰」](https://pc.watch.impress.co.jp/docs/topic/feature/2082553.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [[スタパ齋藤の「スタパトロニクスMobile」] ATOKのサブスクを辞めて「かわせみ4」へ乗り換えたら効率アップした話](https://k-tai.watch.impress.co.jp/docs/column/stapa/2082364.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [寿司屋のサイトをmicroCMSからpitcmsに乗り換えた](https://zenn.dev/yutopia898/articles/e8005988b656d4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [CloudFront VPC オリジンで実現するマルチリージョンのアクティブ/アクティブ構成 \| Amazon Web Services](https://aws.amazon.com/jp/blogs/news/multi-region-active-active-architecture-with-cloudfront-vpc-origins/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [Claude Code標準機能だけで実践する仕様駆動開発](https://zenn.dev/flinters_blog/articles/0601de84c0eb91) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-02 [GitHub - aktsmm/AG-diagram-maker: AI画像・図面生成フローのオーケストレーション用リポジトリ](https://github.com/aktsmm/AG-diagram-maker) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-01 [声と役割を指定できる同時双方向的な音声対話](https://zenn.dev/eques/articles/a3ff5f7ecde3e6) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [ホリエモンAI選挙が示す未来―プロンプト全公開で切り拓くAI選挙予測の透明性と信頼性](https://zenn.dev/headwaters/articles/d9a1d12da3f77f) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [AIブロガー始めました！えび部長の自己紹介と、このブログでやりたいこと](https://zenn.dev/ebimanager/articles/introduction-ebi-bucho) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [WSL+DockerでOllamaを構築しはじめて推論を実行する](https://zenn.dev/rimodes/articles/b9169164f36c6b) *(Zenn – トピック LLM)*
+- [ ] 2026-02-01 [感想：AI投資の理由](https://zenn.dev/extra2clock/articles/22f84d846fcb92) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [AI ツールは「新しいスキルの学習」にどんな影響を与える？](https://zenn.dev/taka_sh/articles/a842c586461965) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [AIグルーヴシーケンサーを作る：AI-DLCで設計してみた](https://zenn.dev/toru_k/articles/0004-groove-sequencer-ai-dlc-1st) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [AIアシスタントに玄関番をさせたら、思ったより優秀だった件](https://zenn.dev/kossssss/articles/1deb851b24c2ec) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [Claude Code npm版からネイティブ版への移行ガイド](https://zenn.dev/yukika/articles/20260201_claudecode_npm_to_native) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [Claude Code と OpenSpec を採用した仕様駆動開発の流れ（2026年2月版）](https://zenn.dev/amay077/articles/46b30dd49df39d) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [OpenClaw を Discord で動かす](https://zenn.dev/yukimemi/articles/2026-02-01-openclaw-discord-setup) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [AIに「シニアエンジニアの知恵」をインストールする時代が来た 〜Vercel SkillsとReact Nativeの最適化〜](https://zenn.dev/yuukikawabata/articles/agentic-mobile-engineering-vercel) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [Claude Code 2026年1月アップデートまとめ｜PRリンクとタスク管理が地味に便利だった](https://zenn.dev/neurostack_0001/articles/claude-code-january-2026-updates) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [OpenClawを立ち上げてAI専用SNS「Moltbook」に参加してみた](https://zenn.dev/acntechjp/articles/c0b2691f25c514) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [転職活動の迷いを解消するAIツール『Candi』](https://zenn.dev/yuka_techlog/articles/b9093283a3ce6f) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [RPAリーダーがPython/AIエージェント開発に舵を切ると決めた理由と環境構築の全記録](https://zenn.dev/ukiajp/articles/rpa-to-python) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [OpenClawのAIエージェントだけでDiscordリアルタイム音声チャットBotを作った話](https://zenn.dev/nyaruko_ai/articles/2026-02-01-openclaw-voice-bot-discord) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [なぜVEXIS-1にGemini 3 flashを利用したのか？](https://zenn.dev/ainohogosya/articles/3279defa509cb8) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [週刊AI駆動開発 - 2026年02月01日](https://zenn.dev/pppp303/articles/weekly_ai_20260201) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [【Foundry続編】Microsoft Foundry の Hosted Agent を動かしながら知ろう](https://zenn.dev/nomhiro/articles/microsoft-foundry-hosted-agent) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [`!` を使ってClaude Codeのコミット生成を爆速にする](https://zenn.dev/nasubikun/articles/claude-code-bang-interpolation) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [違和感センサー——AIの出力を「なんとなく良さそう」で通さないために](https://zenn.dev/moneymog/articles/d207c08aedc6de) *(Zenn – トピック AI)*
+- [ ] 2026-02-01 [vLLM-Omni v0.14.0 リリースノート解説](https://zenn.dev/tosshi/articles/e3aaf076405428) *(Zenn – トピック 機械学習)*
