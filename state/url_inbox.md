@@ -24064,3 +24064,91 @@
 - [ ] 2026-02-03 [音楽クリエイターが語る、短動画制作のリアル：制作体験と技術的考察](https://zenn.dev/nogchuo/articles/68aad12ad21df8) *(Zenn – トピック AI)*
 - [ ] 2026-02-03 [【論文紹介】Qwen3 Embedding](https://zenn.dev/arai0/articles/da8bdf3fb128c3) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-03 [【AIトレンド解説】フィジカルAI・世界モデルとは？その学習データ作成課題と解決策について解説](https://zenn.dev/nexdataai/articles/f5d0bb1b4623a0) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-03T18:38:23.208Z
+- [ ] 2026-02-03 [From ‘nerdy’ Gemini to ‘edgy’ Grok: how developers are shaping AI behaviours](https://www.theguardian.com/technology/2026/feb/03/gemini-grok-chatgpt-claude-qwen-ai-chatbots-identity-crisis) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-03 [UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes](https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-03 [Anthropic’s launch of AI legal tool hits shares in European data companies](https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-03 [Police Raid SpaceX’s Brand New Offices](https://futurism.com/artificial-intelligence/police-raid-spacex-x-acquisition) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-03 [Grok’s Analysis of Whether Mamdani Is Related to Epstein May Be the Single Most Amazing AI Response We’ve Ever Seen](https://futurism.com/artificial-intelligence/grok-analysis-mamdani-related-epstein) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-03 [Snowflake Deal Latest Move into Enterprise Market by OpenAI](https://aibusiness.com/generative-ai/snowflake-deal-latest-move-by-openai) *(AI Business)*
+- [ ] 2026-02-02 [Process Mining Matures in the Age of Generative AI](https://aibusiness.com/intelligent-automation/process-mining-matures-in-the-age-of-generative-ai) *(AI Business)*
+- [ ] 2026-02-03 [AI is coming to Olympic judging: what makes it a game changer?](https://theconversation.com/ai-is-coming-to-olympic-judging-what-makes-it-a-game-changer-274313) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-03 [We run writing workshops at a South African university: what we’ve learnt about how students are using AI, and how to help them](https://theconversation.com/we-run-writing-workshops-at-a-south-african-university-what-weve-learnt-about-how-students-are-using-ai-and-how-to-help-them-273286) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-03 [Data centers told to pitch in as storms and cold weather boost power demand](https://theconversation.com/data-centers-told-to-pitch-in-as-storms-and-cold-weather-boost-power-demand-274604) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-03 [Google Seeks Gold With Navigation Tools for 2026 Winter Olympics](https://www.techrepublic.com/article/news-google-2026-winter-olympics/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-03 [ByteDance Targets Mid-2026 Relaunch for Doubao AI Smartphone](https://www.techrepublic.com/article/news-bytedance-doubao-ai-phone-2026-relaunch/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-03 [Elon Musk’s X Targeted in Paris Prosecutors’ Raid](https://www.techrepublic.com/article/news-elon-musk-paris-raid/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-03 [AI Hunts for the Next Big Thing in Physics](https://spectrum.ieee.org/particle-physics-ai) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-02-03 [Beyond Giant Models: Why AI Orchestration Is the New Architecture](https://www.kdnuggets.com/beyond-giant-models-why-ai-orchestration-is-the-new-architecture) *(KDnuggets)*
+- [ ] 2026-02-03 [5 Time Series Foundation Models You Are Missing Out On](https://www.kdnuggets.com/5-time-series-foundation-models-you-are-missing-out-on) *(KDnuggets)*
+- [ ] 2026-02-03 [Musk to Combine SpaceX, xAI in a $1.25 Trillion Deal](https://www.bloomberg.com/news/videos/2026-02-03/musk-to-combine-spacex-xai-in-a-1-25-trillion-deal-video) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Intel CEO Says There’s ‘No Relief’ on Memory Shortage Until 2028](https://www.bloomberg.com/news/articles/2026-02-03/intel-ceo-says-there-s-no-relief-on-memory-shortage-until-2028) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [US Stocks Tumble as AI Disruption Fears Rock Software Names](https://www.bloomberg.com/news/articles/2026-02-03/us-stocks-teeter-on-edge-of-record-as-palantir-earnings-shine) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Deutsche Bank Group Stuck With Software Loans in Rare Hung Deal](https://www.bloomberg.com/news/articles/2026-02-03/deutsche-bank-group-stuck-with-software-loans-in-rare-hung-deal) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Alphabet Plots Big Expansion in India as US Restricts Visas](https://www.bloomberg.com/news/articles/2026-02-03/alphabet-plots-big-expansion-in-india-as-us-restricts-visas) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [PayPal Plunges After CEO Announcement, Profit Miss](https://www.bloomberg.com/news/videos/2026-02-03/paypal-plunges-after-ceo-announcement-profit-miss-video) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Novogratz Sees a 'Sellers' Virus' in the Crypto Market](https://www.bloomberg.com/news/videos/2026-02-03/novogratz-sees-a-sellers-virus-in-the-crypto-market-video) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Comparing China's AI Developers to Those in the US](https://www.bloomberg.com/news/videos/2026-02-03/comparing-china-s-ai-developers-to-those-in-the-us) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Dame Anya Hindmarch: Leaders Have to 'Act on Gut'](https://www.bloomberg.com/news/videos/2026-02-03/dame-anya-hindmarch-leaders-have-to-act-on-gut) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Private Credit's Software Shock](https://www.bloomberg.com/news/videos/2026-02-03/private-credit-s-software-shock-video) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [¿Puede la IA vencer al efecto mariposa? El debate que sacude a la meteorología](https://www.bloomberg.com/news/features/2026-02-03/google-y-nvidia-impulsan-ia-que-mejora-los-pronosticos-meteorologicos) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Paramount’s Ellison Declined Hearing Invite on Warner Bros.](https://www.bloomberg.com/news/articles/2026-02-03/paramount-s-ellison-declined-hearing-invite-on-warner-bros) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Siemens Energy CEO Says $1B US Investment 'Absolutely' Makes Sense](https://www.bloomberg.com/news/videos/2026-02-03/siemens-energy-ceo-says-1b-us-investment-makes-sense-video) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Cipher Taps Junk Debt Market to Fund Amazon-Tied Data Center](https://www.bloomberg.com/news/articles/2026-02-03/cipher-taps-junk-debt-market-to-fund-amazon-tied-data-center) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Don't Go 'Bottom-Fishing' for Stocks, Harvey Says](https://www.bloomberg.com/news/videos/2026-02-03/don-t-go-bottom-fishing-for-stocks-harvey-says-video) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [PayPal Names New CEO as Profit Misses Targets](https://www.bloomberg.com/news/videos/2026-02-03/paypal-names-new-ceo-as-profit-misses-targets-video) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Elon Musk’s xAI Faces Second UK Probe for Grok Sexualized Images](https://www.bloomberg.com/news/articles/2026-02-03/elon-musk-s-xai-faces-second-uk-probe-for-grok-sexualized-images) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [CDC Refuses to Take Blame for Measles Spiraling out of Control](https://gizmodo.com/cdc-refuses-to-take-blame-for-measles-spiraling-out-of-control-2000717230) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [It’s Monster on Monster on Monster in the New ‘Monarch’ Season 2 Trailer](https://gizmodo.com/monarch-legacy-of-monsters-season-2-trailer-apple-godzilla-kong-2000717049) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Is Lead Exposure Really Declining? A Century of Hair Holds the Answer](https://gizmodo.com/is-lead-exposure-really-declining-a-century-of-hair-holds-the-answer-2000717249) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Jupiter’s New Measurements: Flatter, Squashed, Still the Biggest Boy](https://gizmodo.com/jupiters-new-measurements-flatter-squashed-still-the-biggest-boy-2000717242) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [The Director of ‘Wall-E’ Has a New Movie That Looks Like a Mini ‘Cloud Atlas’](https://gizmodo.com/the-director-of-wall-e-has-a-new-movie-that-looks-like-a-mini-cloud-atlas-2000717272) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [More Corruption Allegations Levied at Trump Over Newly Revealed UAE Crypto Deal](https://gizmodo.com/more-corruption-allegations-levied-at-trump-over-newly-revealed-uae-crypto-deal-2000716952) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Nothing May Drop a Cheaper Phone and Headphones Soon](https://gizmodo.com/nothing-may-drop-a-cheaper-phone-and-headphones-soon-2000717196) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Stephen Colbert’s ‘Starfleet Academy’ Role Is Driving Me Nuts](https://gizmodo.com/star-trek-starfleet-academy-stephen-colbert-rant-2000716950) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Paris Authorities Raid the Offices of Elon Musk’s X](https://gizmodo.com/paris-authorities-raid-the-offices-of-elon-musks-x-2000717234) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Trump Admin Sued For Defunding the “Most Important Infrastructure Project in the Country”](https://gizmodo.com/trump-admin-sued-for-defunding-the-most-important-infrastructure-project-in-the-country-2000717187) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [This May Be the Oldest Known Victim of a Bear Attack—and It’s Brutal](https://gizmodo.com/this-may-be-the-oldest-known-victim-of-a-bear-attack-and-its-brutal-2000716962) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Disney’s Theme Parks Chief Is Now Running the Whole Show](https://gizmodo.com/disney-ceo-josh-damaro-bob-iger-2000717207) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Ian McKellen May Have Revealed a Big Magneto Moment in ‘Avengers: Doomsday’](https://gizmodo.com/avengers-doomsday-magneto-new-jersey-ian-mckellen-2000717038) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Well, Astronauts Won’t Be Going Back to the Moon This Month](https://gizmodo.com/well-astronauts-wont-be-going-back-to-the-moon-this-month-2000717181) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Nintendo’s Virtual Boy Recreation Reminds Us Gaming Doesn’t Have to Be Fun](https://gizmodo.com/nintendos-virtual-boy-recreation-reminds-us-gaming-doesnt-have-to-be-fun-2000716819) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [‘The Muppet Show’ Returns for a Cute and Nostalgic Special](https://gizmodo.com/muppet-show-50th-review-disney-sabrina-carpenter-2000713495) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Nintendo’s 2026 Games Lineup Is Odd, but Not as Odd as the Wonder Flower](https://gizmodo.com/nintendos-2026-games-lineup-is-odd-but-not-as-odd-as-the-wonder-flower-2000716958) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [One of ‘Star Wars’ Biggest Recent Reveals Was Inspired by ‘Lord of the Rings’](https://gizmodo.com/one-of-star-wars-biggest-recent-reveals-was-inspired-by-lord-of-the-rings-2000717041) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Fitbit founders launch Luffu, a way to integrate your family's health data](https://www.engadget.com/mobile/fitbit-founders-launch-luffu-a-way-to-integrate-your-familys-health-data-173251994.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [Sony's WH-1000XM6 headphones are down to a record-low price](https://www.engadget.com/deals/sonys-wh-1000xm6-headphones-are-down-to-a-record-low-price-175038776.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [The best gifts for coffee lovers in 2026](https://www.engadget.com/home/kitchen-tech/the-best-gifts-for-coffee-lovers-in-2026-184515579.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [How much do VPNs cost?](https://www.engadget.com/cybersecurity/vpn/how-much-do-vpns-cost-170000567.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [Disney announces Josh D’Amaro will be its new CEO after Iger departs](https://www.engadget.com/entertainment/disney-announces-josh-damaro-will-be-its-new-ceo-after-iger-departs-161616420.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [February’s Xbox Game Pass additions include High on Life 2, Madden NFL 26 and Avatar: Frontiers of Pandora](https://www.engadget.com/gaming/xbox/februarys-xbox-game-pass-additions-include-high-on-life-2-madden-nfl-26-and-avatar-frontiers-of-pandora-160656985.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [Samsung Galaxy Unpacked 2026: Everything we're expecting from the S26 launch](https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-everything-were-expecting-from-the-s26-launch-130000556.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [The Dyson PencilVac is finally available and costs $600](https://www.engadget.com/home/the-dyson-pencilvac-is-finally-available-and-costs-600-160059016.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [MSI Prestige 14 Flip AI+ review: An ultraportable for Arc Raiders, thanks to Intel's Panther Lake](https://www.engadget.com/computing/laptops/msi-prestige-14-flip-ai-review-an-ultraportable-for-arc-raiders-thanks-to-intels-panther-lake-160000606.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [The first BTS concert in over three years will stream live on Netflix in March](https://www.engadget.com/entertainment/the-first-bts-concert-in-over-three-years-will-stream-live-on-netflix-in-march-155428505.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [Notepad++ says it was hijacked by Chinese state-sponsored hackers](https://www.engadget.com/apps/notepad-says-it-was-hijacked-by-chinese-state-sponsored-hackers-153000268.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [Spain set to ban social media for children under 16](https://www.engadget.com/social-media/spain-set-to-ban-social-media-for-children-under-16-151546884.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [Amazon's Echo Show 8 and 11 are down to new all-time lows](https://www.engadget.com/deals/amazons-echo-show-8-and-11-are-down-to-new-all-time-lows-150021328.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [Mario Tennis Fever preview: A racket-smashing blast](https://www.engadget.com/gaming/nintendo/mario-tennis-fever-preview-a-racket-smashing-blast-140000408.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [The Switch 2's Virtual Boy is a tribute to Nintendo's wackiest console](https://www.engadget.com/gaming/nintendo/the-switch-2s-virtual-boy-is-a-tribute-to-nintendos-wackiest-console-140000003.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [NASA moves Artemis 2 launch to March after hydrogen leak during testing](https://www.engadget.com/science/space/nasa-moves-artemis-2-launch-to-march-after-hydrogen-leak-during-testing-140000351.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [TurboTax Deluxe is on sale for $45 before tax season](https://www.engadget.com/deals/turbotax-deluxe-is-on-sale-for-45-before-tax-season-204848947.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [The 8BitDo Pro 3 Bluetooth Controller is down to a new all-time low](https://www.engadget.com/deals/the-8bitdo-pro-3-bluetooth-controller-is-down-to-a-new-all-time-low-143036684.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [Save on the Disney+ and Hulu bundle: Get one month for only $10](https://www.engadget.com/deals/save-on-the-disney-and-hulu-bundle-get-one-month-for-only-10-192814917.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [Proton VPN two-year subscriptions are 70 percent off right now](https://www.engadget.com/deals/proton-vpn-two-year-subscriptions-are-70-percent-off-right-now-123000972.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [H Company's new Holo2 model takes the lead in UI Localization](https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b) *(Hugging Face Blog)*
+- [ ] 2026-02-03 [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3) *(Hugging Face Blog)*
+- [ ] 2026-02-03 [AIエンジニアがLangChainを推奨しない理由](https://zenn.dev/genshi_ai/articles/166cf652723496) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-03 [【コピペ用Excelダウンロード】Claude Codeで仕事の効率が激変する「神プロンプト7選」](https://www.sbbit.jp/document/23823) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-03 [Docker Sandboxes: Run Claude Code and More Safely](https://www.docker.com/blog/docker-sandboxes-run-claude-code-and-other-coding-agents-unsupervised-but-safely/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-03 [AI時代に「人が書く価値」とは？ SEO/GEOを見据えた、選ばれるコンテンツの作り方 \| 【レポート】Web担当者Forumミーティング 2025 秋 \| Web担当者Forum](https://webtan.impress.co.jp/e/2026/02/03/51932) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-03 [「便利なものを作ったら負け」OSS界の巨人・mattnが語る、アウトプットの心理的ハードルとの付き合い方 - エンジニアtype \| 転職type](https://type.jp/et/feature/30350/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [「手軽に嫌な気持ちになれる」と話題のAI診断、ボコボコにされる人が続出→一方で『ある違和感』に気づく猛者たち「これ診断だけじゃないぞ…？」](https://posfie.com/@AI_Oracle_chan/p/9ERI7uA) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [Sentryエラー調査をDevinに丸投げして生産性・開発体験向上した話 - TalentX Tech Blog](https://tech.talentx.co.jp/entry/2026/02/02/095343) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [AI時代のキャリアプラン「技術の引力」からの脱出と「問い」へのいざない / tech-gravity](https://speakerdeck.com/minodriven/tech-gravity) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [JAMSTEC、南鳥島周辺のレアアース泥採掘について一報　採掘は2日で終了](https://www.itmedia.co.jp/news/articles/2602/03/news079.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [PPAPを根本解決？　クオリティアが「TLS確認機能」で特許取得](https://www.itmedia.co.jp/enterprise/articles/2602/03/news040.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [SpaceXがxAIを買収！1.25兆ドル規模のIPOへ - 宇宙AIデータセンター構想とは](https://zenn.dev/yu_ga/articles/spacex-xai-merger-trillion-ipo) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [【Antigravity新機能】日本語だけでAIに"得意技"を教える「Agent Skills」に入門してみた](https://zenn.dev/manyan5f/articles/1c8a852993e85a) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [能登半島地震で民宿再建4,000万借金背負った知人を生成AI/Copilotで救えるか](https://zenn.dev/syoshida07/articles/18dfba3dee94bd) *(Zenn – トピック AI)*
