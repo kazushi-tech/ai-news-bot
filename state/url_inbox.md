@@ -23992,3 +23992,75 @@
 - [ ] 2026-02-02 [AI時代に必要なのは「国語力」ではない ―― 「言語化」と「抽象化」をエンジニアリングとして再定義する](https://zenn.dev/recurrenthub/articles/adab32c5dbd03f) *(Zenn – トピック AI)*
 - [ ] 2026-02-02 [技術負債も理解負債も生まないAIコーディング手法（2026年2月現在）](https://zenn.dev/avaintelligence/articles/debt-free-ai-coding-practices) *(Zenn – トピック AI)*
 - [ ] 2026-02-02 [Claude Code開発者が教える10のヒント - Boris Chernyのスレッド翻訳してみた](https://zenn.dev/yuche/articles/2430bad94956cd) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-03T12:28:38.234Z
+- [ ] 2026-02-03 [‘Fallout’ Producer Jonathan Nolan on AI: ‘We’re in Such a Frothy Moment’](https://www.wired.com/story/the-big-interview-podcast-jonathan-nolan-fallout/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-03 [Ronnie Sheth, CEO, SENEN Group: Why now is the time for enterprise AI to ‘get practical’](https://www.artificialintelligence-news.com/news/ronnie-sheth-ceo-senen-group-why-now-is-the-time-for-enterprise-ai-to-get-practical/) *(Artificial Intelligence News)*
+- [ ] 2026-02-03 [Apptio: Why scaling intelligent automation requires financial rigour](https://www.artificialintelligence-news.com/news/apptio-why-scaling-intelligent-automation-requires-financial-rigour/) *(Artificial Intelligence News)*
+- [ ] 2026-02-03 [FedEx tests how far AI can go in tracking and returns management](https://www.artificialintelligence-news.com/news/fedex-tests-how-far-ai-can-go-in-tracking-and-returns-management/) *(Artificial Intelligence News)*
+- [ ] 2026-02-03 [Adobe Ends Animate’s 30-Year Run as AI Steals the Spotlight](https://www.techrepublic.com/article/news-adobe-animate-ends/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-03 [Singapore to Launch National Space Agency as Global Investment Surges](https://www.techrepublic.com/article/news-singapore-space-agency-launch/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-03 [Elon Musk’s SpaceX Merges With xAI in $1.25T Deal](https://www.techrepublic.com/article/news-spacex-xai-merger/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-03 [AI Disruption Selloff Deepens as Anthropic Releases Legal Tool](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [PayPal Replaces CEO Chriss After Profit Falls Short of Estimates](https://www.bloomberg.com/news/articles/2026-02-03/paypal-names-hp-s-enrique-lores-to-replace-ceo-alex-chriss) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Apple’s iPhone 17 Upgrades Hit the Spot for Chinese Consumers](https://www.bloomberg.com/news/newsletters/2026-02-03/apple-s-iphone-17-upgrades-hit-the-spot-for-chinese-consumers) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [‘Get Me Out’: Traders Dump Software Stocks as AI Fears Take Hold](https://www.bloomberg.com/news/articles/2026-02-03/-get-me-out-traders-dump-software-stocks-as-ai-fears-take-hold) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Private Equity’s Giant Software Bet Has Been Upended by AI](https://www.bloomberg.com/news/articles/2026-02-03/private-equity-s-giant-software-bet-has-been-upended-by-ai) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Spain to Ban Children From Social Platforms Like Grok and TikTok](https://www.bloomberg.com/news/articles/2026-02-03/spain-to-seek-to-ban-under-16-year-olds-from-social-media) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Nintendo’s Profit Disappoints Even as Memory Prices Climb](https://www.bloomberg.com/news/articles/2026-02-03/nintendo-s-profit-disappoints-while-rising-memory-prices-weigh) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Musk’s French X Office Searched in Prosecutor’s Grok, Bias Probe](https://www.bloomberg.com/news/articles/2026-02-03/musk-s-french-x-office-searched-in-prosecutor-s-grok-bias-probe) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Fusion Startup Raises Funds to Build Desktop-Sized Power Plants](https://www.bloomberg.com/news/articles/2026-02-03/washington-fusion-startup-avalanche-energy-raises-29-million) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Chipmakers, Gold Power Emerging-Market Rebound After Fed Jitters](https://www.bloomberg.com/news/articles/2026-02-03/chipmakers-gold-power-emerging-market-rebound-after-fed-jitters) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [NASA Delays Moon Mission Launch After Hydrogen Leaks During Test](https://www.bloomberg.com/news/articles/2026-02-03/nasa-delays-moon-mission-launch-after-hydrogen-leaks-during-test) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Nintendo’s Quarterly Profit Disappoints](https://www.bloomberg.com/news/videos/2026-02-03/nintendo-s-quarterly-profit-disappoints-video) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [What’s Musk Trying to Achieve With the SpaceX-xAI Deal?](https://www.bloomberg.com/news/videos/2026-02-03/what-s-musk-trying-to-achieve-with-the-spacex-xai-deal-video) *(Bloomberg Technology)*
+- [ ] 2026-02-03 [Neil Gaiman Denies the Allegations Against Him (Again) While Announcing a New Book](https://gizmodo.com/neil-gaiman-allegations-new-book-2000716936) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [Trump Announces Minerals Stockpile Way Too Late for It to Spare Him From Embarrassment by China](https://gizmodo.com/trump-announces-minerals-stockpile-way-too-late-for-it-to-spare-him-from-embarrassment-by-china-2000717079) *(Gizmodo – Technology)*
+- [ ] 2026-02-03 [The Morning After: Elon Musk’s SpaceX is buying his AI company, xAI](https://www.engadget.com/general/the-morning-after-elon-musks-spacex-is-buying-his-ai-company-xai-121500751.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [X's Paris HQ raided by French prosecutors](https://www.engadget.com/social-media/xs-paris-hq-raided-by-french-prosecutors-110411170.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [The best iPhone 17 and iPhone 17 Pro cases for 2026](https://www.engadget.com/computing/accessories/best-iphone-cases-153035988.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [The Switch just surpassed the DS as Nintendo's best-selling console ever](https://www.engadget.com/gaming/nintendo/the-switch-just-surpassed-the-ds-as-nintendos-best-selling-console-ever-083700901.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [The best Bluetooth trackers for 2026](https://www.engadget.com/computing/accessories/best-bluetooth-tracker-140028377.html?src=rss) *(Engadget)*
+- [ ] 2026-02-03 [Training Design for Text-to-Image Models: Lessons from Ablations](https://huggingface.co/blog/Photoroom/prx-part2) *(Hugging Face Blog)*
+- [ ] 2026-02-03 [ソフトバンクがカスハラ対策AIを提供開始、通話中の怒声を穏やかに変換](https://xtech.nikkei.com/atcl/nxt/news/24/03077/) *(日経クロステック IT)*
+- [ ] 2026-02-03 [HENNGEがエンドポイント向けの新サービス、ランサムウエアに対応](https://xtech.nikkei.com/atcl/nxt/news/24/03076/) *(日経クロステック IT)*
+- [ ] 2026-02-03 [現状のAI法は「リスク対応後回し」――出版フリーランス労組が声明　AIの“適切な規制”求める](https://www.itmedia.co.jp/aiplus/articles/2602/03/news113.html) *(ITmedia AI＋)*
+- [ ] 2026-02-03 [「早苗ちゃんの演説見た？」拡散した動画、実はAI作成　見破るには：朝日新聞](https://www.asahi.com/articles/ASV2255TMV22UTIL01YM.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-03 [大量パブコメを集約・分類するＡＩ、２６年度中に提供…富士通](https://www.yomiuri.co.jp/economy/20260202-GYT1T00631/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-03 [BigQueryに会話型分析機能（Conversational Analytics）が登場。詳細な分析レポート生成、将来予測や非構造化データの分析も可能に](https://www.publickey1.jp/blog/26/bigqueryconversational_analytics.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-03 [Gemini×勉強術：毎日20時に問題をつくって送ってもらおう \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2602-this-gemini-study-trick-works-way-better-than-rereading-notes/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-03 [謎の日本メモリメーカー「SAIMEMORY」が開発中のメモリが明らかに](https://pc.watch.impress.co.jp/docs/news/2083139.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [TypeScriptはなぜランタイム構文を作り、なぜ今それを取り除きつつあるのか](https://zenn.dev/sonsu/articles/270319f20b0390) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [OpenAI、「Codex」アプリを発表 ～コーディングエージェントたちの指揮所／まずはmacOS向けに提供、Windows/Linux版も計画中](https://forest.watch.impress.co.jp/docs/news/2082906.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [下の住人に「電波攻撃されてる」と言われたので「攻撃してる周波数を教えて」と返したら「業者に調べてもらってる」と言われた、そこから2ヶ月連絡がない](https://togetter.com/li/2659486) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [AWS で発生したら最悪なセキュリティインシデントを考えてみよう - サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/aws-worst-security-incident) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [メモリ高騰でラズパイが再度値上げ。最大60ドル](https://pc.watch.impress.co.jp/docs/news/2082942.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [Playwright CLIとClaude Code Skillsで効率的なブラウザテストを実現する](https://zenn.dev/dk_/articles/9db1e90ce8e28f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-03 [レシートをローカルLLMでマネーフォワードCSVまで作る前に知っておきたい4つの失敗](https://zenn.dev/ukiajp/articles/receipt-local-llm-4-failures) *(Zenn – トピック LLM)*
+- [ ] 2026-02-03 [丸投げから役割分担へ ─ VLMを活かすPDF解析の設計](https://zenn.dev/kencopa/articles/3530b0914bd834) *(Zenn – トピック LLM)*
+- [ ] 2026-02-03 [推薦アルゴリズムの深淵：パーソナライゼーションが「売上」に変わる技術的メカニズム](https://zenn.dev/cahal_inc/articles/f6b622baaf14d4) *(Zenn – トピック LLM)*
+- [ ] 2026-02-03 [「外れ値の正体」が量子化研究にもたらすパラダイムシフト](https://zenn.dev/nakano_teppei/articles/de88ffc046e0a7) *(Zenn – トピック LLM)*
+- [ ] 2026-02-03 [量子化の天敵「外れ値」の正体：GatedNormが解き明かすLLMの生存戦略](https://zenn.dev/m_nakano_teppei/articles/82fcf48fbe4044) *(Zenn – トピック LLM)*
+- [ ] 2026-02-03 [Wafer Scale Engine: LLM推論におけるメモリのボトルネックを克服する設計](https://zenn.dev/uxoxu/articles/0c84ed9c3843ba) *(Zenn – トピック LLM)*
+- [ ] 2026-02-03 [AI実践ガイド2026：エージェントからローカルLLMまで](https://zenn.dev/ryuhat/books/ai-practical-guide-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-02-03 [5-④[AI][Kaggle][python]Kaggle入門(データの可視化 4.散布図)](https://zenn.dev/rg687076/articles/822a8f3fcb0d6d) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [Designing 'A Place Where Failure Is Allowed](https://zenn.dev/dosanko_tousan/articles/b6a49e397f249a) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [PAI Art Skill：一貫したスタイルで AI 画像生成](https://zenn.dev/yasuhito/articles/pai-art-skill) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [PAI AnnualReports Skill：570 以上のセキュリティレポートを横断検索](https://zenn.dev/yasuhito/articles/pai-annualreports-skill) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [自律型AIと共創する。Google Antigravity 導入とエージェント強化の手順](https://zenn.dev/nomad_web/articles/bbca99cfe8ca15) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [なぜ、AI時代において、初めて学ぶコンピュータ言語にC言語が向いているのか？](https://zenn.dev/pdfractal/articles/7daa0a5187471b) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [OpenClaw作者に学ぶシンプルなAI駆動開発](https://zenn.dev/mosaxiv/articles/peter-steinberger-simple-ai-development) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [ミニPCのWSL2でOpenClawを動かしてDiscordから使う](https://zenn.dev/imudak/articles/openclaw-wsl-discord) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [2026衆院選の議席をAIが全予測。「ホリエモンAI選挙」をチェックしてみた。](https://zenn.dev/grand2/articles/79fb18d2911634) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [IBM BobをWSL環境で検証してみた｜IDEは正直ツラい、CLIは意外と使える](https://zenn.dev/salkova/articles/e2ecab4b1d64f1) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [Claude Code + gog CLI で Google Spreadsheet から Drive フォルダを一括作成する](https://zenn.dev/yukamiya/articles/0ab7c6ad093307) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [JetBrains Remote Development を使った快適なリモート開発入門（SSH接続編）](https://zenn.dev/nattosystem_jp/articles/52b1fdaae32bb0) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [Claude Code実践ガイド 2026](https://zenn.dev/ryuhat/books/claude-code-practical-2026) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [Notion → Obsidian → Logseq → 結局これ](https://zenn.dev/hirokitakamura/articles/journaling-tool-evolution) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [Claude Code × n8n × Slackで「AI秘書」を月額$0で構築した話](https://zenn.dev/xei/articles/mimi-secretary-ai-free) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [#29 視点の“再生”をチーム全体でどう支えるか？](https://zenn.dev/corone/articles/fdfa5a2e965c64) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [FLP Engineering in the AI era](https://zenn.dev/flp/articles/flp-engineering-ai-era) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [Logic Apps の AI エージェント ワークフローで Sentinel セキュリティ運用を簡単に自動化](https://zenn.dev/microsoft/articles/c316a2396efb77) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [音楽クリエイターが語る、短動画制作のリアル：制作体験と技術的考察](https://zenn.dev/nogchuo/articles/68aad12ad21df8) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [【論文紹介】Qwen3 Embedding](https://zenn.dev/arai0/articles/da8bdf3fb128c3) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-03 [【AIトレンド解説】フィジカルAI・世界モデルとは？その学習データ作成課題と解決策について解説](https://zenn.dev/nexdataai/articles/f5d0bb1b4623a0) *(Zenn – トピック 機械学習)*
