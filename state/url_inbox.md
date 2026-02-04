@@ -25016,3 +25016,76 @@
 - [ ] 2026-02-03 [防衛省サイバーコンテスト 2026 木霊の防壁 Writeup (Witten by AI)](https://zenn.dev/otty0507/articles/287fb191118480) *(Zenn – トピック AI)*
 - [ ] 2026-02-03 [防衛省サイバーコンテスト 2026 量子の足音 Writeup (Witten by AI)](https://zenn.dev/otty0507/articles/a8cc50d88c4b5e) *(Zenn – トピック AI)*
 - [ ] 2026-02-03 [防衛省サイバーコンテスト 2026 静寂の調べ Writeup (Witten by AI)](https://zenn.dev/otty0507/articles/b5c803433588d6) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-04T12:29:22.788Z
+- [ ] 2026-02-04 [Software sell-off over AI fears hits global stock markets, but FTSE 100 hits record on £8bn insurance takeover – business live](https://www.theguardian.com/business/live/2026/feb/04/software-stock-selloff-ai-led-disruption-jensen-huang-services-economy-business-live-news-updates) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-04 [Pinterest sacks two engineers for creating software to identify fired workers](https://www.theguardian.com/technology/2026/feb/04/pinterest-sacks-two-engineers-for-software-identify-fired-workers) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-04 [AI Bots Are Now a Signifigant Source of Web Traffic](https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-04 [HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims](https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-04 [Combing the Rackspace blogfiles for operational AI pointers](https://www.artificialintelligence-news.com/news/combing-the-rackspace-blogfiles-for-operational-ai-pointers/) *(Artificial Intelligence News)*
+- [ ] 2026-02-04 [How Cisco builds smart systems for the AI era](https://www.artificialintelligence-news.com/news/how-cisco-builds-smart-systems-for-the-ai-era/) *(Artificial Intelligence News)*
+- [ ] 2026-02-04 [Texas Instruments Strikes $7.5 Billion Deal to Buy Silicon Labs](https://www.bloomberg.com/news/articles/2026-02-04/texas-instruments-strikes-7-5-billion-deal-to-buy-silicon-labs) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Egypt Moves to Ban Roblox Gaming Platform in Online-Safety Push](https://www.bloomberg.com/news/articles/2026-02-04/egypt-moves-to-ban-roblox-gaming-platform-in-online-safety-push) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Uber to Launch Robotaxi Services in Hong Kong, Madrid, Houston, Zurich](https://www.bloomberg.com/news/articles/2026-02-04/uber-to-launch-robotaxi-services-in-hong-kong-madrid-houston-zurich) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Microsoft’s Deal With OpenAI Now Viewed as a Risk, Not Reward](https://www.bloomberg.com/news/newsletters/2026-02-04/microsoft-s-deal-to-provide-computing-to-openai-raises-alarms) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [AI Chip Startup Positron Raises $230 Million From Arm, Qatar to Compete With Nvidia](https://www.bloomberg.com/news/articles/2026-02-04/ai-chip-startup-positron-raises-230-million-from-arm-qatar-to-compete-with-nvidia) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Uber Misses on Profit Outlook, Names New CFO for Robotaxi Future](https://www.bloomberg.com/news/articles/2026-02-04/uber-misses-on-profit-outlook-names-new-cfo-for-robotaxi-future) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Alphabet Earnings Need to Justify Its Stock’s $2 Trillion Rally](https://www.bloomberg.com/news/articles/2026-02-04/alphabet-earnings-need-to-justify-its-stock-s-2-trillion-rally) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Tycoon Elumelu’s Startup Weighs Raising $100 Million to Expand](https://www.bloomberg.com/news/articles/2026-02-04/tycoon-elumelu-s-startup-weighs-raising-100-million-to-expand) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Infineon Looks to AI for Growth as Auto Demand Slump Drags On](https://www.bloomberg.com/news/articles/2026-02-04/infineon-forecasts-growing-revenue-from-ai-data-center-demand) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Software Stocks Are Now ‘Sentenced Before Trial,’ JPMorgan Says](https://www.bloomberg.com/news/articles/2026-02-04/software-stocks-are-now-sentenced-before-trial-jpmorgan-says) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Pagliuca: AI Marks Turning Point for SaaS Investment](https://www.bloomberg.com/news/videos/2026-02-04/pagliuca-ai-marks-turning-point-for-saas-investment-video) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Move to Ban Social Media for Kids Gains Traction Across Europe](https://www.bloomberg.com/news/articles/2026-02-04/europe-takes-on-tech-with-social-media-bans-and-paris-raid-on-x) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Bitcoin-Led Crypto Rout Continues](https://www.bloomberg.com/news/videos/2026-02-04/bitcoin-led-crypto-rout-continues-video) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Anthropic AI Tool Sparks Stocks Selloff](https://www.bloomberg.com/news/videos/2026-02-04/anthropic-ai-tool-sparks-stocks-selloff-video) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Maggie Gyllenhaal Insists ‘The Bride!’ Isn’t a Musical, Despite All the Singing](https://gizmodo.com/the-bride-movie-musical-maggie-gyllenhaal-2000717549) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [Small Size and Serious Power, KAMRUI Mini PCs Up to 50% Off With Stackable Savings on Amazon](https://gizmodo.com/small-size-and-serious-power-kamrui-mini-pcs-hit-their-lowest-prices-yet-with-stackable-savings-on-amazon-2000716818) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [Yacht Havers Are Losing Access to Teak Because it Funded Myanmar’s Junta](https://gizmodo.com/yacht-havers-are-losing-access-to-teak-because-it-funded-myanmars-junta-2000717510) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [How to set up an AirTag](https://www.engadget.com/computing/accessories/how-to-set-up-an-airtag-120000789.html?src=rss) *(Engadget)*
+- [ ] 2026-02-04 [The best VR headsets for 2026](https://www.engadget.com/ar-vr/best-vr-headsets-140012529.html?src=rss) *(Engadget)*
+- [ ] 2026-02-04 [How to buy a GPU in 2026](https://www.engadget.com/gaming/pc/how-to-buy-a-gpu-160100017.html?src=rss) *(Engadget)*
+- [ ] 2026-02-04 [VfL Wolfsburg turns ChatGPT into a club-wide capability](https://openai.com/index/vfl-wolfsburg) *(OpenAI News)*
+- [ ] 2026-02-04 [auじぶん銀行のネットバンキングが一時ログイン不可、機器故障で通信障害](https://xtech.nikkei.com/atcl/nxt/news/24/03078/) *(日経クロステック IT)*
+- [ ] 2026-02-04 [無料で「Suno v4.5」超え？　音楽生成AI「ACE-Step v1.5」公開　個人向けGPUでも動作](https://www.itmedia.co.jp/aiplus/articles/2602/04/news127.html) *(ITmedia AI＋)*
+- [ ] 2026-02-04 [「SKY-HI」代表の芸能事務所BMSG、所属アーティストの“AIフェイク”に注意喚起　「静かに通報」求める](https://www.itmedia.co.jp/aiplus/articles/2602/04/news125.html) *(ITmedia AI＋)*
+- [ ] 2026-02-04 [生成AIヘビーユーザーほど「残業時間が長い」　パーソル傘下調査](https://www.itmedia.co.jp/aiplus/articles/2602/04/news121.html) *(ITmedia AI＋)*
+- [ ] 2026-02-04 [“Animate騒動”は「将来的なリスク」──「秘密結社 鷹の爪」制作元、自社ツール開発検討へ　AI活用加速も表明](https://www.itmedia.co.jp/aiplus/articles/2602/04/news104.html) *(ITmedia AI＋)*
+- [ ] 2026-02-04 [業界最高水準の文字認識AI「GLM-OCR」をZ.aiがオープンソースで公開、ローカル環境でも動作できるほど軽量](https://gigazine.net/news/20260204-z-ai-glm-ocr/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-04 [Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。 - Qiita](https://qiita.com/yosim/items/bbc8671d4295139c6e6d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-04 [軽量で高性能なコーディングエージェント「Qwen3-Coder-Next」が登場](https://gigazine.net/news/20260204-alibaba-qwen3-coder-next/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-04 [Xcode 26.3がエージェンティックコーディングのパワーを解放](https://www.apple.com/jp/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-04 [Obsidian引退しました｜すぅ \| AI駆動PM](https://note.com/suh_sunaneko/n/nad82181288b2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-04 [AIの普及に伴って「2種類のAIユーザー」が出現しているとの指摘、どうすればAIで生産性を向上できるのか？](https://gigazine.net/news/20260203-two-kinds-ai-users-emerging/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-04 [AIとの対話が人間の主体性を損なって「無力化」させるパターンの研究をAnthropicが発表](https://gigazine.net/news/20260203-anthropic-ai-disempowerment-paterns/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-04 [Inside an AI start-up’s plan to scan and dispose of millions of books](https://www.washingtonpost.com/technology/2026/01/27/anthropic-ai-scan-destroy-books/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-04 [Googleが人狼ゲームとポーカーをAIベンチマーク「Game Arena」に採用](https://gigazine.net/news/20260203-google-kaggle-game-arena-poker-and-werewolf/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-04 [豪雪の時に会社のユンボを借りて善意で自宅周辺の除雪をしてあげたらちょうど作業を止めた先の家主が「なぜウチの前はやらないんだ」と激怒→善意は時に悪意に見られることもある](https://togetter.com/li/2659848) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-04 [日本で「自動運転タクシー」実用化へ　newmo、マクニカと協業](https://www.itmedia.co.jp/news/articles/2602/04/news077.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-04 [tmux上のClaude CodeやらCodexやらCopilotのCLIからShift + Enterを送信できるようにする - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2026/02/03/074837) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-04 [外部キー制約の知っておいて欲しいこと - RDBMSを正しく使うために必要なこと / FOREIGN KEY Night](https://speakerdeck.com/soudai/foreign-key-night) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-04 [SmartHR最大のRailsアプリケーションにおけるPumaスレッド数を見直しました - SmartHR Tech Blog](https://tech.smarthr.jp/entry/2026/02/04/111430) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-04 [コンテンツクリエイターがAI企業にライセンスを与えて報酬を受け取れるようにするシステム「Publisher Content Marketplace」をMicrosoftが立ち上げる - GIGAZINE](https://gigazine.net/news/20260204-publisher-content-marketplace/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-04 [AIネイティブ時代におけるエンジニアの市場価値の再定義に挑戦します｜Findy AI Career](https://note.com/findy_ai_career/n/n317d55b7c727) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-04 [2026年、AWS LambdaはVSCodeで開発するのがナウい - Qiita](https://qiita.com/moritalous/items/4daa244550e2a4388d26) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-04 [auじぶん銀行でシステム障害　アプリ等にログインできず（Impress Watch） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/d1f247669de269f3cb4fe43be8ea3b8acb239d7e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-04 [Codex appが公開されたが、Codex Monitorもいいぞ](https://zenn.dev/explaza/articles/f0e21f367810c2) *(Zenn – トピック LLM)*
+- [ ] 2026-02-04 [コードが書けなくても使える！DifyでLLMノードに頼りすぎない「コード実行ノード」活用術](https://zenn.dev/upgradetech/articles/79d5bff364cbc7) *(Zenn – トピック LLM)*
+- [ ] 2026-02-04 [【徹底考察】話題のAIエージェント「Manus」はなぜ"秒"で動くのか？その内部アーキテクチャとPrompt Engineeringを推測す](https://zenn.dev/lixian/articles/cbcba58afce76b) *(Zenn – トピック LLM)*
+- [ ] 2026-02-04 [【2026年最新】なぜAIエンジニアはあなたの仕事を奪えないのか？「破滅的忘却」という致命的弱点](https://zenn.dev/babushkai/articles/2026-01-31-continual-learning-llm-future) *(Zenn – トピック LLM)*
+- [ ] 2026-02-04 [Claude Code ことはじめ](https://zenn.dev/ischca/articles/cc-guide-getting-started) *(Zenn – トピック AI)*
+- [ ] 2026-02-04 [#30 視点の系譜をどう管理するか](https://zenn.dev/corone/articles/66bbe35e49e888) *(Zenn – トピック AI)*
+- [ ] 2026-02-04 [Xの自動化完全ガイド！やり方やおすすめAIツール、安全な運用術などを徹底解説](https://zenn.dev/ai_saas_media/articles/8905e30f265393) *(Zenn – トピック AI)*
+- [ ] 2026-02-04 [【2026年最新版】Instagramのリール台本のAIアプリおすすめ7選！プロンプトや作り方なども徹底解説！](https://zenn.dev/ai_saas_media/articles/f2b908fbc8ec27) *(Zenn – トピック AI)*
+- [ ] 2026-02-04 [OpenClaw Assistant - あなたのOpenClawをAndroidの音声アシスタントにするOSSアプリを作ってみた](https://zenn.dev/yu_ga/articles/openclaw-assistant-android-voice-ai) *(Zenn – トピック AI)*
+- [ ] 2026-02-04 [AI秘書に「声」をプレゼントした — VOICEVOX × Claude Codeで毎朝しゃべるミミ](https://zenn.dev/xei/articles/mimi-voice-voicevox) *(Zenn – トピック AI)*
+- [ ] 2026-02-04 [CodeX のデスクトップアプリを触ってみた](https://zenn.dev/tech_discovery/articles/5cc17a4f6880bc) *(Zenn – トピック AI)*
+- [ ] 2026-02-04 [「愛・おぼえていますか」——1984年のアニメにAIアライメントの全てがあった　[JP/EN]](https://zenn.dev/dosanko_tousan/articles/2b9db53e7cccca) *(Zenn – トピック AI)*
+- [ ] 2026-02-04 [2026-02-02 AIソムリエ勉強会: LLMアプリケーションのUIを革新する「MCP Apps」の全貌](https://zenn.dev/flinters_blog/articles/74d153bb6e4074) *(Zenn – トピック AI)*
+- [ ] 2026-02-04 [FDEっぽいことして学んだ、AIの「精度向上」の心得](https://zenn.dev/kiva/articles/4eb59207a9a82a) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [月$2,000使うエンジニアのClaude Code設定全公開](https://zenn.dev/mcc_code/articles/claude-code-3x-usage) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [Copilot Claudeのレビューが雑なのでOpusに相談して解決した](https://zenn.dev/commander/articles/a2d1511f429e72) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [SNNでAIの「思考」を覗く！ハルシネーション検知も可能に【AIのブラックボックスに挑む】](https://zenn.dev/cell_activation/articles/31eb37b3821ddd) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [ChatGPT経験者のためのMicrosoft Foundryワークフロー実践ガイド【ノーコード】](https://zenn.dev/headwaters/articles/2653498f4f8324) *(Zenn – トピック AI)*
+- [ ] 2026-02-03 [Claude Codeエージェント実践 Day 4｜commands/ の4つのコマンド](https://zenn.dev/akira_cloudjob/articles/20260204-agent-practice-day04) *(Zenn – トピック AI)*
+- [ ] 2026-02-04 [【CAE×AI】サロゲートモデルの精度を爆上げするのは、結局「物理」という話](https://zenn.dev/sanottti/articles/732a67159c57e6) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-04 [犬の「心」は映像に映らない？マルチモーダルAIが導いた『体温＞表情』という衝撃の結論](https://zenn.dev/lluminai_tech/articles/c45aeb94d96a64) *(Zenn – トピック 機械学習)*
