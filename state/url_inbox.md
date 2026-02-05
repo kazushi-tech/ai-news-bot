@@ -25895,3 +25895,77 @@
 - [ ] 2026-02-04 [AI主権時代の到来:2027年までに世界の35%の国が独自AIプラットフォームへ移行する理由と日本企業の対応策](https://zenn.dev/headwaters/articles/77b1137b993637) *(Zenn – トピック LLM)*
 - [ ] 2026-02-04 [常に最新のドキュメントを自動生成するパイプラインを作った](https://zenn.dev/badmonster/articles/5aeca287977db8) *(Zenn – トピック LLM)*
 - [ ] 2026-02-04 [Claude Codeエージェント実践 Day 5｜knowledge/ のナレッジ管理](https://zenn.dev/akira_cloudjob/articles/20260205-agent-practice-day05) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-05T12:29:49.421Z
+- [ ] 2026-02-05 [What does the disappearance of a $100bn deal mean for the AI economy?](https://www.theguardian.com/technology/2026/feb/05/disapperance-100bn-deal-ai-circular-economy-funding-nvidia-openai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-05 [‘In the end, you feel blank’: India’s female workers watching hours of abusive content to train AI](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-05 [Hollywood Is Losing Audiences to AI Fatigue](https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-05 [Microsoft unveils method to detect sleeper agent backdoors](https://www.artificialintelligence-news.com/news/microsoft-unveils-method-detect-sleeper-agent-backdoors/) *(Artificial Intelligence News)*
+- [ ] 2026-02-05 [OpenAI’s enterprise push: The hidden story behind AI’s sales race](https://www.artificialintelligence-news.com/news/openai-ai-consultants-enterprise-adoption-challenges/) *(Artificial Intelligence News)*
+- [ ] 2026-02-05 [Varonis Acquires AllTrue to Strengthen AI Security Capabilities](https://www.techrepublic.com/article/news-varonis-buys-alltrue/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-05 [Professionals Can Save Hours With This $30 AI Prompt Writer](https://www.techrepublic.com/article/prompting-systems-lifetime-subscription/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-05 [Peloton Slashes Sales Outlook, Misses Estimates Despite Hardware Debut](https://www.bloomberg.com/news/articles/2026-02-05/peloton-slashes-sales-outlook-misses-estimates-despite-hardware-debut) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Anthropic’s New AI Legal Tool Triggered a Selloff Without Evidence](https://www.bloomberg.com/news/newsletters/2026-02-05/anthropic-s-legal-ai-tool-sparked-a-huge-selloff-without-any-proven-benefit) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [General Catalyst-Backed Startup Raises $75 Million to Bring AI to Accounting](https://www.bloomberg.com/news/articles/2026-02-05/general-catalyst-backed-startup-raises-75-million-to-bring-ai-to-accounting) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Nubank CEO Bets $82 Billion Empire on Worldwide Expansion Plan](https://www.bloomberg.com/news/articles/2026-02-05/nubank-ceo-bets-82-billion-empire-on-worldwide-expansion-plan) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Amazon Cloud Sales in Focus After Microsoft’s $500 Billion Rout](https://www.bloomberg.com/news/articles/2026-02-05/amazon-cloud-sales-in-focus-after-microsoft-s-500-billion-rout) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [How AI Answers Your Question May Depend on Your Politics](https://www.bloomberg.com/news/articles/2026-02-05/chinese-ai-produces-different-responses-based-on-users-politics) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Inside the Numbers: David Vélez](https://www.bloomberg.com/news/videos/2026-02-05/inside-the-numbers-david-velez) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Hackers Hit Sensitive Targets in 37 Nations in Vast Spying Plot](https://www.bloomberg.com/news/newsletters/2026-02-05/hackers-hit-sensitive-targets-in-37-nations-in-vast-spying-plot-ml9chfqj) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Hackers Hit Sensitive Targets in 37 Nations in Vast Spying Plot](https://www.bloomberg.com/news/articles/2026-02-05/hackers-hit-sensitive-targets-in-37-nations-in-vast-spying-plot) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Amazon Told to Drop Price Policy, Pay $70 Million in Germany](https://www.bloomberg.com/news/articles/2026-02-05/amazon-told-to-stop-policing-prices-pay-70-million-in-germany) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Kyiv Says Russian Military Has Lost Access to Musk’s Starlink](https://www.bloomberg.com/news/articles/2026-02-05/kyiv-says-russian-military-has-lost-access-to-musk-s-starlink) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [JPM Sees 'Opportunities' Coming Out of Tech Stocks Selloff](https://www.bloomberg.com/news/videos/2026-02-05/jpm-sees-opportunities-coming-out-of-tech-stocks-selloff-video) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Vodafone Misses Growth Expectations in Key Market Germany](https://www.bloomberg.com/news/articles/2026-02-05/vodafone-misses-growth-expectations-in-largest-market-germany) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [BT Stems Customer Losses Amid Fierce Broadband Competition](https://www.bloomberg.com/news/articles/2026-02-05/bt-stems-customer-losses-with-price-cuts-and-network-investment) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Nvidia Partner Hon Hai’s Sales Soar in Sign of Strong AI Demand](https://www.bloomberg.com/news/articles/2026-02-05/nvidia-partner-hon-hai-s-sales-soar-in-sign-of-strong-ai-demand) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [China Wants Better Weather Forecasts for Drones, Flying Taxis](https://www.bloomberg.com/news/articles/2026-02-05/china-taps-weather-bureau-to-hone-framework-for-drone-economy) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Behold, an Art Collection of Batman Nipples (and the Batman Chests They’re Attached To)](https://gizmodo.com/behold-an-art-collection-of-batman-nipples-and-the-batman-chests-theyre-attached-to-2000718126) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [NASA’s Artemis 2 Will Test Human Health in Deep Space Like Never Before](https://gizmodo.com/nasas-artemis-2-will-test-human-health-in-deep-space-like-never-before-2000716326) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [RoboCop Gets a Little Too Real in Detroit](https://gizmodo.com/robocop-gets-a-little-too-real-in-detroit-2000718076) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [Wall Street Apparently Believes the Future Involves Making Your Software Instead of Buying It](https://gizmodo.com/wall-street-apparently-believes-the-future-involves-making-your-software-instead-of-buying-it-2000718250) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [Spotify's Page Match seamlessly swaps between real books and audiobooks](https://www.engadget.com/entertainment/spotifys-page-match-seamlessly-swaps-between-real-books-and-audiobooks-120000819.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [The best fast chargers for 2026](https://www.engadget.com/computing/accessories/best-fast-chargers-140011033.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [ドコモの25年4～12月期は増収減益、通期の営業利益予想を830億円引き下げ](https://xtech.nikkei.com/atcl/nxt/news/24/03079/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [auじぶん銀障害はストレージコントローラー故障が原因、冗長化も正常動作せず](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11462/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [「SaaSの死」に3つの疑問　再び株価急落、震源はAnthropicのAI新機能](https://xtech.nikkei.com/atcl/nxt/column/18/03492/020500001/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [AI要約だけ見て「検索終了」は6割超　ドコモ調査](https://www.itmedia.co.jp/aiplus/articles/2602/05/news131.html) *(ITmedia AI＋)*
+- [ ] 2026-02-05 [時速36kmで走る人型ロボット登場、その名も「ボルト」　中国の大学が開発](https://www.itmedia.co.jp/aiplus/articles/2602/05/news119.html) *(ITmedia AI＋)*
+- [ ] 2026-02-05 [NTTの国産AI「tsuzumi 2」の滑り出しは？　「国内で引き合い2000件」と島田社長、クローズドなAI需要に期待](https://www.itmedia.co.jp/aiplus/articles/2602/05/news116.html) *(ITmedia AI＋)*
+- [ ] 2026-02-05 [【優勝🥇】防衛省サイバーコンテストをAIで攻略した話 - Qiita](https://qiita.com/satoki/items/955302bf2615813bae5a) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [宮崎駿監督に「極めてなにか生命に対する侮辱を感じます」と怒られてから10年...あのゾンビを元に再開発して生命の進化を観察するゲームが登場](https://togetter.com/li/2660256) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [AIで並列開発に挑んだら、逆に効率を落とした話 - RAKUS Developers Blog \| ラクス エンジニアブログ](https://tech-blog.rakus.co.jp/entry/20260204/ai-parallel-development) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [AIでSaaSは死なないし、業務システムをAIで内製化してはいけない｜Real SmartHR リアスマ](https://real.smarthr.co.jp/articles/times_serizawa_0008) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [OllamaがOCR対応。v0.15.5で手書き認識やコーディング特化モデル追加](https://pc.watch.impress.co.jp/docs/news/2083704.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [たった一日で43兆円が消えた日　Anthropic「Cowork」が揺るがしたSaaS神話](https://www.itmedia.co.jp/business/articles/2602/05/news067.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [キャリア10年超のライター、ついにAIに仕事を奪われる](https://atmarkit.itmedia.co.jp/ait/articles/2601/29/news011.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [AIがコードを書く時代、人はドキュメントだけレビューすればいい？ → ドキュメント更新も漏れるじゃん](https://zenn.dev/abalol/articles/e5801899c468b0) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [HDD大手メーカー、なんと「読み書き速度4倍」となる新技術発表。お値段急騰中のSSDの“代わり”を目指す - AUTOMATON](https://automaton-media.com/articles/newsjp/hdd-20260205-416397/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [現在のパスキーは単一障害点である](https://zenn.dev/malt03/articles/3f5dbee5301ddd) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [Surface RT「歴史的大失敗」の裏で何が？　エプスタイン文書が示すMS元幹部の焦りと情報漏えい](https://www.itmedia.co.jp/pcuser/articles/2602/05/news055.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [「これ、申し込めてるの？」　1.1万円の「東京ポイント」獲得は、ちょっと不安だった](https://www.itmedia.co.jp/news/articles/2602/05/news072.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [ウォンテッドリーのLLM アプリケーション自動テスト戦略 \| Wantedly Engineer Blog](https://www.wantedly.com/companies/wantedly/post_articles/1041873) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [Marp + Claude Code + GitHub Actionsで資料を自動で作成する](https://zenn.dev/kg_motors_mibot/articles/9770c73431e511) *(Zenn – トピック LLM)*
+- [ ] 2026-02-05 [実装はAI、責任は人間](https://zenn.dev/mediba/articles/6e9b2c07ae20fa) *(Zenn – トピック LLM)*
+- [ ] 2026-02-05 [Gemini API のコストを最適化する方法](https://zenn.dev/google_cloud_jp/articles/0e7a7bd1573dfb) *(Zenn – トピック LLM)*
+- [ ] 2026-02-05 [【優勝🥇】防衛省サイバーコンテストをAIで攻略した話](https://zenn.dev/satoki/articles/eea961fd9190a3) *(Zenn – トピック LLM)*
+- [ ] 2026-02-05 [【完全解説】JitRL：勾配更新なしでLLMエージェントを継続学習させる革命的手法のコード解析](https://zenn.dev/babushkai/articles/2026-01-31-jitrl-continual-learning-deep-dive) *(Zenn – トピック LLM)*
+- [ ] 2026-02-05 [AIにUIの説明するの難しくない？4つの方法試してみた](https://zenn.dev/enlinks/articles/354ac3c0faac30) *(Zenn – トピック LLM)*
+- [ ] 2026-02-05 [Claude Codeを思い通りに動かそう 〜AIエージェントにおけるコミュニケーションの心得〜](https://zenn.dev/ischca/articles/cc-guide-communication) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [WebGLシェーダーとLottieアニメーションを使って、AIコーチを実装する](https://zenn.dev/mento_techblog/articles/2026-02-ai_coach_implements) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [【実装ガイド】JitRL式メモリをClaude Codeに導入して「学習するAIエージェント」を作る完全手順](https://zenn.dev/babushkai/articles/2026-01-31-jitrl-practical-guide) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [Claude Codeの計画ファイルとチェックリストで実現する「抜け漏れゼロ」ワークフロー](https://zenn.dev/mjinia/articles/7ded1bf84f6900) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [RTX 5000シリーズでACE-Step 1.5をセットアップした](https://zenn.dev/kairininja/articles/zenn-ace-step15-rtx5000-setup) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [PAI Browser Skill：デバッグファーストのブラウザ自動化](https://zenn.dev/yasuhito/articles/pai-browser-skill) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [PAI BrightData Skill：4 段階フォールバックでどんな URL も取得](https://zenn.dev/yasuhito/articles/pai-brightdata-skill) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [Claude Code/Codex/Gemini を統一CLIで呼ぶ hire-ai を作った](https://zenn.dev/nichiki/articles/cc68f24616b067) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [Inertia Railsのllms.txtが最高すぎる。Tailwindが拒否した未来を、Inertiaは全力で迎えにいった](https://zenn.dev/yamitake/articles/inertia-rails-llms-txt-great-example) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [Agentic Commerce AEO: 実験 Product Schema は AI 可読性に効果があるのか？](https://zenn.dev/aws_japan/articles/3bad228ae6129c) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [#31 視点が“重力”を持ち始めるときの話](https://zenn.dev/corone/articles/c86538a5cd37fe) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [DatabricksのAIが実行できるSQL（AI_SQL系）の現在地をお知らせする](https://zenn.dev/akuwano/articles/ab193914afb295) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [個人宅録クリエイターが語る：AI Masteringで変わった「完成」の基準](https://zenn.dev/nogchuo/articles/8b2ba3de2cdc8c) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [【生成AI入門】RAGの基本的な理論](https://zenn.dev/sun_asterisk/articles/de03f576639ce3) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [AIデザインツール Pencil の概要と使い方](https://zenn.dev/katsuhisa_/articles/pencil-design-tool-guide) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [exe.dev の使い方と、導入メリット](https://zenn.dev/katsuhisa_/articles/exe-dev-guide) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [善意のウイルス——RLHFが善良なユーザーに対して無防備である構造的示唆](https://zenn.dev/dosanko_tousan/articles/309dc0bfe8f09b) *(Zenn – トピック AI)*
+- [ ] 2026-02-04 [PLATE×事前学習モデルの継続学習×プラスチック性調整による効率的適応の実現](https://zenn.dev/yunisuta/articles/20260204-180343) *(Zenn – トピック 機械学習)*
