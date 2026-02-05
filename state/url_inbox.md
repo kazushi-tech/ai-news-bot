@@ -25969,3 +25969,101 @@
 - [ ] 2026-02-05 [exe.dev の使い方と、導入メリット](https://zenn.dev/katsuhisa_/articles/exe-dev-guide) *(Zenn – トピック AI)*
 - [ ] 2026-02-05 [善意のウイルス——RLHFが善良なユーザーに対して無防備である構造的示唆](https://zenn.dev/dosanko_tousan/articles/309dc0bfe8f09b) *(Zenn – トピック AI)*
 - [ ] 2026-02-04 [PLATE×事前学習モデルの継続学習×プラスチック性調整による効率的適応の実現](https://zenn.dev/yunisuta/articles/20260204-180343) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-05T18:33:09.328Z
+- [ ] 2026-02-05 [Let’s reach out to American English \| Brief letters](https://www.theguardian.com/science/2026/feb/05/lets-reach-out-to-american-english) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-05 [Sam Altman Is Spiraling](https://futurism.com/artificial-intelligence/sam-altman-anthropic-ads) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-05 [Peloton Institutes Mass Layoffs After Pivoting to AI](https://futurism.com/artificial-intelligence/peloton-mass-layoffs-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-05 [Anthropic Just Sent Shockwaves Through the Entire Stock Market by Releasing a New AI Tool](https://futurism.com/artificial-intelligence/anthropic-shockwaves-stock-market) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-05 [AI Expo 2026 Day 2: Moving experimental pilots to AI production](https://www.artificialintelligence-news.com/news/ai-expo-2026-day-2-moving-experimental-pilots-ai-production/) *(Artificial Intelligence News)*
+- [ ] 2026-02-05 [AI-generated text is overwhelming institutions – setting off a no-win ‘arms race’ with AI detectors](https://theconversation.com/ai-generated-text-is-overwhelming-institutions-setting-off-a-no-win-arms-race-with-ai-detectors-274720) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-05 [Moltbook: AI bots use social network to create religions and deal digital drugs – but are some really humans in disguise?](https://theconversation.com/moltbook-ai-bots-use-social-network-to-create-religions-and-deal-digital-drugs-but-are-some-really-humans-in-disguise-274895) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-05 [UK to Unveil ‘World-First’ Deepfake Detection Plan](https://www.techrepublic.com/article/news-uk-deepfake-detection-plan/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-05 [Master AI Skills Without The Learning Curve For Just $80](https://www.techrepublic.com/article/trainedupai-basic-plan-lifetime-subscription/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-05 [Tech Stack for Vibe Coding Modern Applications](https://www.kdnuggets.com/tech-stack-for-vibe-coding-modern-applications) *(KDnuggets)*
+- [ ] 2026-02-05 [The Absolute Insanity of Moltbook](https://www.kdnuggets.com/the-absolute-insanity-of-moltbook) *(KDnuggets)*
+- [ ] 2026-02-05 [Crypto Plunge Sparks Broad Rout in Digital Asset Treasury Stocks](https://www.bloomberg.com/news/articles/2026-02-05/crypto-plunge-sparks-broad-rout-in-digital-asset-treasury-stocks) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Anthropic Releases New Model That’s Adept at Financial Research](https://www.bloomberg.com/news/articles/2026-02-05/anthropic-updates-ai-model-to-field-more-complex-financial-research) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Palantir Seeks Manhattan Office Space in Expansion Across City](https://www.bloomberg.com/news/articles/2026-02-05/palantir-seeks-manhattan-office-space-in-expansion-across-city) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Bitcoin Drops Below $70,000 as Silver's Hit With Fresh Selloff](https://www.bloomberg.com/news/videos/2026-02-05/bitcoin-drops-as-silver-s-hit-with-fresh-selloff-video) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Tether Invests $100 Million in Crypto Bank Anchorage Digital](https://www.bloomberg.com/news/articles/2026-02-05/tether-invests-100-million-in-crypto-bank-anchorage-digital) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Bitcoin Crashes Below $70,000 as Collapse Continues](https://www.bloomberg.com/news/videos/2026-02-05/bitcoin-crashes-below-70-000-as-collapse-continues-video) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [US Stocks Extend Declines as Tech-Stock Rout Enters Third Day](https://www.bloomberg.com/news/articles/2026-02-05/us-stocks-extend-slump-as-tech-rout-rolls-on-for-third-session) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Germany’s Conservative Party Weighs Social Media Age Limit](https://www.bloomberg.com/news/articles/2026-02-05/germany-s-conservative-party-considers-social-media-age-limit) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Ares Is Well-Hedged Against AI Change, Arougheti Says](https://www.bloomberg.com/news/videos/2026-02-05/ares-is-well-hedged-against-ai-change-arougheti-says-video) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [France Charges Four in China-Spying Case That Targeted Starlink](https://www.bloomberg.com/news/articles/2026-02-05/france-charges-four-in-china-spying-case-that-targeted-starlink) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Liz Ann Sonders Explains Why the Broadening Trade Has Legs](https://www.bloomberg.com/news/videos/2026-02-05/liz-ann-sonders-says-the-broadening-trade-has-legs-video) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [OpenAI Unveils Platform to Help Companies Deploy ‘AI Coworkers’](https://www.bloomberg.com/news/articles/2026-02-05/openai-unveils-platform-to-help-companies-deploy-ai-coworkers) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Nigeria Central Bank Moves to Rein In Fintech, Boost Access to Capital](https://www.bloomberg.com/news/articles/2026-02-05/nigeria-central-bank-moves-to-rein-in-fintech-as-sector-booms) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Startup Goodfire Notches $1.25 Billion Valuation to Decode AI Models](https://www.bloomberg.com/news/articles/2026-02-05/startup-goodfire-notches-1-25-billion-valuation-to-decode-ai-models) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Microsoft Gets Rare Downgrade as Stifel Warns on Azure Growth](https://www.bloomberg.com/news/articles/2026-02-05/microsoft-gets-rare-downgrade-as-stifel-warns-on-azure-growth) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Data Centers Power HVAC Growth as Residential Air Conditioning Sales Lag](https://www.bloomberg.com/news/articles/2026-02-05/data-centers-power-hvac-growth-as-residential-aircon-sales-lag) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Acharya: World is Still Short Software](https://www.bloomberg.com/news/videos/2026-02-05/acharya-world-is-still-short-software-video) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Razer Wants to Sell You a $1,337 Gaming Mouse](https://gizmodo.com/razer-wants-to-sell-you-a-1337-gaming-mouse-2000718577) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [Scientists Tried Drilling Into Antarctica’s ‘Doomsday Glacier,’ But the Ice Had Other Plans](https://gizmodo.com/scientists-tried-drilling-into-the-doomsday-glacier-but-the-ice-had-other-plans-2000718421) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [The Director of ‘Masters of the Universe’ Promises It’ll Be Silly](https://gizmodo.com/the-director-of-masters-of-the-universe-promises-itll-be-silly-2000718567) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [Daring Theory Challenges the Black Hole’s Reign Over the Milky Way’s Core](https://gizmodo.com/daring-theory-challenges-the-black-holes-reign-over-the-milky-ways-core-2000718499) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [Adafruit Warns New Ghost Gun Laws Could Have Unintended Consequences for 3D Printers](https://gizmodo.com/adafruit-warns-new-ghost-gun-laws-could-have-unintended-consequences-for-3d-printers-2000718532) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [‘Starfleet Academy’ Just Threaded the Needle on a Near-Perfect Tribute to ‘Deep Space Nine’](https://gizmodo.com/starfleet-academy-episode-5-recap-deep-space-nine-dax-sisko-jake-2000718134) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [The College Board Is Banning Students From Using Smart Glasses During the SATs](https://gizmodo.com/the-college-board-is-banning-students-from-using-smart-glasses-during-the-sats-2000718422) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [Science Discovers a New Destiny for Your Old Mattress](https://gizmodo.com/your-old-mattress-might-be-dead-but-its-not-done-2000718480) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [Researchers Are Basically Inceptioning Lucid Dreamers With Brain Teasers](https://gizmodo.com/researchers-are-basically-inceptioning-lucid-dreamers-with-brain-teasers-2000718065) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [The First Trailer for Game Adaptation ‘Exit 8’ Is Seriously Creepy](https://gizmodo.com/the-first-trailer-for-game-adaptation-exit-8-is-seriously-creepy-2000718165) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [This Video of Hilariously Slow Robots Putting Olive Oil in a Bag Is Actually Pretty Impressive](https://gizmodo.com/this-video-of-hilariously-slow-robots-putting-olive-oil-in-a-bag-is-actually-pretty-impressive-2000718202) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [Google Shows Off Pixel 10a With No Camera Bump](https://gizmodo.com/google-shows-off-pixel-10a-with-no-camera-bump-2000718416) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [Surprise, a Lego ‘Project Hail Mary’ Set Is on the Way](https://gizmodo.com/lego-project-hail-mary-set-price-release-date-details-2000718439) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [A Giant, 10 Skulls, and Rope-Bound Corpses: This Viking-Era ‘Execution Pit’ Has Stories to Tell](https://gizmodo.com/a-giant-10-skulls-and-rope-bound-corpses-this-viking-era-execution-pit-has-stories-to-tell-2000718224) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [The Memory Shortage Has Come for Valve’s Steam Machine](https://gizmodo.com/the-memory-shortage-has-come-for-valves-steam-machine-2000718415) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [Disney’s New Era Could Bring Back ‘Pirates of the Caribbean’ in a Major Way](https://gizmodo.com/pirates-of-the-caribbean-reboot-disney-josh-damaro-margot-robbie-2000718094) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [The ‘Eragon’ Dragon Fantasy Series Is Still Alive at Disney+](https://gizmodo.com/eragon-disney-plus-tv-update-2000718189) *(Gizmodo – Technology)*
+- [ ] 2026-02-05 [The Switch 2-exclusive co-op adventure Orbitals launches this summer](https://www.engadget.com/gaming/nintendo/the-switch-2-exclusive-co-op-adventure-orbitals-launches-this-summer-180657892.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Get two years of access to Proton VPN for 70 percent off right now](https://www.engadget.com/deals/get-two-years-of-access-to-proton-vpn-for-70-percent-off-right-now-123000460.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [JLab's comically oversized headphones are not an April Fool's Prank](https://www.engadget.com/audio/jlabs-comically-oversized-headphones-are-not-an-april-fools-prank-174338833.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [NVIDIA reportedly won't release new graphics cards this year](https://www.engadget.com/gaming/pc/nvidia-reportedly-wont-release-new-graphics-cards-this-year-173002651.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [The best tech gifts and cool gadgets for 2026](https://www.engadget.com/computing/the-best-tech-gifts-and-cool-gadgets-for-2026-140052977.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Are VPNs legal?](https://www.engadget.com/cybersecurity/vpn/are-vpns-legal-170000878.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [How to use your Apple Watch to precisely find your new AirTag](https://www.engadget.com/computing/accessories/how-to-use-your-apple-watch-to-precisely-find-your-new-airtag-164922731.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Valheim is coming to Switch 2 this year](https://www.engadget.com/gaming/valheim-is-coming-to-switch-2-this-year-164159284.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Final Fantasy 7 Rebirth comes to Switch 2 on June 3](https://www.engadget.com/gaming/nintendo/final-fantasy-7-rebirth-comes-to-switch-2-on-june-3-163009481.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Guerrilla reveals Horizon Hunters Gathering, a co-op action spin-off for PS5 and PC](https://www.engadget.com/gaming/playstation/guerrilla-reveals-horizon-hunters-gathering-a-co-op-action-spin-off-for-ps5-and-pc-162058264.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Substack CEO informs users of a data breach](https://www.engadget.com/cybersecurity/substack-ceo-informs-users-of-a-data-breach-151113809.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Fallout 4 and Indiana Jones and the Great Circle get Switch 2 release dates](https://www.engadget.com/gaming/nintendo/fallout-4-and-indiana-jones-and-the-great-circle-get-switch-2-release-dates-150023624.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [A potential Starlink competitor just got FCC clearance to launch 4,000 satellites](https://www.engadget.com/science/space/a-potential-starlink-competitor-just-got-fcc-clearance-to-launch-4000-satellites-143905076.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [How to watch the Opening Ceremony at the 2026 Milan Cortina Winter Olympics](https://www.engadget.com/entertainment/streaming/how-to-watch-the-opening-ceremony-at-the-2026-milan-cortina-winter-olympics-143529451.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [The Sony WH-1000XM6 headphones drop to a record-low price](https://www.engadget.com/deals/the-sony-wh-1000xm6-headphones-drop-to-a-record-low-price-175038542.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Amazon Germany fined $70 million for 'influencing' third-party Marketplace pricing](https://www.engadget.com/big-tech/amazon-germany-fined-70-million-for-influencing-third-party-marketplace-pricing-140000588.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [What the hell is Moltbook, the social network for AI agents?](https://www.engadget.com/ai/what-the-hell-is-moltbook-the-social-network-for-ai-agents-140000787.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [ExpressVPN launches four new standalone apps](https://www.engadget.com/cybersecurity/vpn/expressvpn-launches-four-new-standalone-apps-140000686.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Valve pushes back Steam Machine launch due to storage and memory shortage](https://www.engadget.com/gaming/pc/valve-pushes-back-steam-machine-launch-due-to-storage-and-memory-shortage-133000103.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Sony's holiday PS5  sales dropped 16 percent compared to last year](https://www.engadget.com/gaming/playstation/sonys-holiday-ps5-sales-dropped-16-percent-compared-to-last-year-130000476.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [How to stream the 2026 Super Bowl for free: Patriots vs. Seahawks time, where to watch and more](https://www.engadget.com/entertainment/streaming/how-to-stream-the-2026-super-bowl-for-free-patriots-vs-seahawks-time-where-to-watch-and-more-124512202.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Surfshark VPN deal: Get up to 87 percent off two-year plans](https://www.engadget.com/deals/surfshark-vpn-deal-get-up-to-87-percent-off-two-year-plans-123000066.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Introducing Trusted Access for Cyber](https://openai.com/index/trusted-access-for-cyber) *(OpenAI News)*
+- [ ] 2026-02-05 [GPT-5.3-Codex System Card](https://openai.com/index/gpt-5-3-codex-system-card) *(OpenAI News)*
+- [ ] 2026-02-05 [Introducing GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex) *(OpenAI News)*
+- [ ] 2026-02-05 [Introducing OpenAI Frontier](https://openai.com/index/introducing-openai-frontier) *(OpenAI News)*
+- [ ] 2026-02-05 [Introducing SyGra Studio](https://huggingface.co/blog/ServiceNow-AI/sygra-studio) *(Hugging Face Blog)*
+- [ ] 2026-02-04 [Community Evals: Because we're done trusting black-box leaderboards over the community](https://huggingface.co/blog/community-evals) *(Hugging Face Blog)*
+- [ ] 2026-02-05 [今だからこそ、Claudeを個人契約してClaude Codeを触るべき - 科学と非科学の迷宮](https://shiumachi.hatenablog.com/entry/why-you-should-subscribe-claude-personally) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [GitHub - ace-step/ACE-Step-1.5: The most powerful local music generation model that outperforms most commercial alternatives](https://github.com/ace-step/ACE-Step-1.5) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [SRE Kaigi 2026 で「クレジットカード決済基盤を支えるSRE」という発表をしました - inSmartBank](https://blog.smartbank.co.jp/entry/2026/02/05/170000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [2026年版：生成AIでvibe codingの時代にこそお薦めしたい、データ分析を仕事にするなら読んでおくべき書籍リスト - 渋谷駅前で働くデータサイエンティストのブログ](https://tjo.hatenablog.com/entry/2026/02/05/170000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [コードを書くように登壇資料を作る \| ドクセル](https://www.docswell.com/s/Songmu/KVMGXE-slide-as-code) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [MicrosoftのAIチャットボット「Copilot」はブランド戦略の混乱と相互運用性の問題によりユーザーからの不満が高まっており支持するユーザーの割合が減少中](https://gigazine.net/news/20260205-microsoft-copilot-problem/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [Google Pixel 10aの予約受付が2月18日に開始](https://pc.watch.impress.co.jp/docs/news/2083633.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [高級魚「ノドグロ」の完全養殖に成功　近畿大が発表　世界初の成果](https://www.itmedia.co.jp/news/articles/2602/05/news129.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [【Claude Code】 /insights コマンドがおもしろい - Qiita](https://qiita.com/ryu-ki/items/7748d48a725f742428b0) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [ドコモは「5G SA」を申し込み不要にしないのか、前田社長の考えは？](https://www.itmedia.co.jp/mobile/articles/2602/05/news109.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [AIを悪い命令から守る！脱獄攻撃を検知する「SNN Guardrail」【AIセーフティの新手法】](https://zenn.dev/cell_activation/articles/a1781cac8b6720) *(Zenn – トピック LLM)*
+- [ ] 2026-02-05 [Claude Codeの /insights を実際に使ってみた—4ヶ月分の使用パターンを丸裸にされた](https://zenn.dev/kei31ai/articles/20260205-claude-code-insights-tried) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [Claude Codeを使い倒している人ほど /insights を使ってみてほしい](https://zenn.dev/ischca/articles/cc-guide-insights) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [Claude Codeの /insights コマンドとは？—使い方を分析してくれる機能を調べてみた](https://zenn.dev/kei31ai/articles/20260205-claude-code-insights-command) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [AIエージェントの可能性を解き放つ「skills」：Codexで実現する賢い自動化](https://zenn.dev/shironegi/articles/c1034111a1a919) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [Claude Code開発の常識を変える！永続記憶プラグイン『claude-mem』とは](https://zenn.dev/shironegi/articles/23aeeaadf941a9) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [Claude Codeで神速実装したのに「デモ動画ないの？」と詰められた時の生存戦略（完全自動化）](https://zenn.dev/oliver986/articles/6a75379a9c3991) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [MoonBit 大型ソフトウェア合成チャレンジ開催](https://zenn.dev/moonbitlang/articles/509536e77f0c9c) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [【実践編】DGX Spark で GR00T N1 を動かして理解する完全ガイド](https://zenn.dev/atsurobo/articles/dgx-spark-groot-n1-inference) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [Claude Code SKILLでCodex連携を自動化：計画→承認→実装→検証の4フェーズワークフローを作成してみた](https://zenn.dev/yujmatsu/articles/20260205_claude_code_codex_skill) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [【Zed】で始めるAIエージェント開発環境構築](https://zenn.dev/fumi_shiki/articles/zed-editor-ai-agent-setup-2026) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [【Cursor】重いAIエディタを軽くする7つの設定](https://zenn.dev/fumi_shiki/articles/cursor-performance-tuning-2026) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [AIO時代の技術文書設計ガイド - 実証研究に基づく実践](https://zenn.dev/fumi_shiki/articles/aio-technical-writing-guide-2026) *(Zenn – トピック AI)*
