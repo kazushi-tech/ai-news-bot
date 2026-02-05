@@ -25193,3 +25193,100 @@
 - [ ] 2026-02-04 [【意図乖離検出；連載 第2回】意図乖離とは何か - Diffでは見えない「Why」の喪失](https://zenn.dev/virtualcraft/articles/idd-02_what-is-intent-drift) *(Zenn – トピック AI)*
 - [ ] 2026-02-04 [機械学習のための特徴量エンジニアリング ―その原理とPythonによる実践](https://zenn.dev/n_ryosuke/articles/27d3ebd810049e) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-04 [X For Youアルゴリズム完全解説：xAI公開コードから読み解く2026年の攻略法](https://zenn.dev/lilpacy/articles/x-for-you-algorithm-2026-guide) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-05T00:58:17.785Z
+- [ ] 2026-02-04 [Mandelson’s links with US tech firm Palantir must be fully exposed, campaigners warn](https://www.theguardian.com/politics/2026/feb/04/peter-mandelson-palantir-jeffrey-epstein-government) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-04 [A New AI Math Startup Just Cracked 4 Previously Unsolved Problems](https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-04 [New Site Lets AI Rent Human Bodies](https://futurism.com/artificial-intelligence/ai-rent-human-bodies) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-04 [Uh Oh… Nvidia’s $100 Billion Deal With OpenAI Has Fallen Apart](https://futurism.com/artificial-intelligence/nvidia-100-billion-deal-openai-fallen-apart) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-04 [Opinion Divided on Moltbook Social Network for AI Agents](https://aibusiness.com/agentic-ai/opinion-divided-on-moltbook-social-network) *(AI Business)*
+- [ ] 2026-02-04 [Panic Rises in Legal Industry Due to Anthropic’s AI Plugins](https://aibusiness.com/agentic-ai/panic-rises-in-legal-industry-due-to-anthropic-s-ai-plugins) *(AI Business)*
+- [ ] 2026-02-04 [Restructuring in the AI Era: Washington Post Cuts One-Third of Its Workforce](https://www.techrepublic.com/article/news-washington-post-layoffs-ai-restructuring/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-04 [Trillion-Dollar Tech Wipeout Ensnares All Stocks in AI’s Path](https://www.bloomberg.com/news/articles/2026-02-04/trillion-dollar-tech-wipeout-ensnares-all-stocks-in-ai-s-path) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Panasonic Shares Soar Most Since 2014 on Restructuring Hopes](https://www.bloomberg.com/news/articles/2026-02-05/panasonic-shares-soar-most-since-2014-on-restructuring-hopes) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Alphabet Plans Record Spending in Race to Win AI Customers](https://www.bloomberg.com/news/articles/2026-02-04/alphabet-to-blow-past-investor-expectations-on-spending) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Australia Blasts Big Tech for Child Sexual Abuse Failings](https://www.bloomberg.com/news/articles/2026-02-04/australia-blasts-big-tech-for-child-sexual-abuse-failings) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [China’s Baidu Approves Share Buyback Program of Up to $5 Billion](https://www.bloomberg.com/news/articles/2026-02-05/china-s-baidu-approves-share-buyback-program-of-up-to-5-billion) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Alphabet Lifts 2026 Capex Outlook Well Above Estimates](https://www.bloomberg.com/news/videos/2026-02-05/alphabet-lifts-2026-capex-outlook-well-above-estimates-video) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Snap Reports Holiday Quarter Sales Beat Despite User Decline](https://www.bloomberg.com/news/articles/2026-02-04/snap-reports-strong-holiday-quarter-sales-despite-user-decline) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [AI Fears Continue Weighing on Tech Stocks](https://www.bloomberg.com/news/videos/2026-02-04/ai-fears-continue-weighing-on-tech-stocks-video) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Arm Slides After Phone Jitters Overshadow Data-Center Growth](https://www.bloomberg.com/news/articles/2026-02-04/arm-forecast-disappoints-increasingly-skeptical-investors) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [SiTime Agrees to Buy Renesas Timing Unit in $2.9 Billion Deal](https://www.bloomberg.com/news/articles/2026-02-04/sitime-agrees-to-buy-renesas-timing-unit-in-2-9-billion-deal) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [China Ramps Up Energy Boom Flagged by Musk as Key to AI Race](https://www.bloomberg.com/news/articles/2026-02-04/china-ramps-up-energy-boom-flagged-by-musk-as-key-to-ai-race) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Things Have to Change at Qualcomm, Goldberg Says](https://www.bloomberg.com/news/videos/2026-02-04/things-have-to-change-at-qualcomm-goldberg-says-video) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Workday to Cut About 400 Employees Focused on Customer Support](https://www.bloomberg.com/news/articles/2026-02-04/workday-to-cut-about-400-employees-focused-on-customer-support) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Breaking Down Alphabet's Earnings and AI Spending Plans](https://www.bloomberg.com/news/videos/2026-02-04/breaking-down-alphabet-s-earnings-and-spending-plans-video) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [AMD Forecast Fails to Impress Investors \| Bloomberg Tech 2/4/2026](https://www.bloomberg.com/news/videos/2026-02-04/bloomberg-tech-2-4-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Qualcomm Gives Tepid Forecast in Sign of Shaky Phone Market](https://www.bloomberg.com/news/articles/2026-02-04/qualcomm-gives-tepid-forecast-in-sign-of-shaky-phone-market) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [SpaceX Merger Provides Lifeline for Musk’s Debt-Ridden AI Startup](https://www.bloomberg.com/news/articles/2026-02-04/spacex-merger-provides-lifeline-for-musk-s-debt-ridden-ai-startup) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Has The AI Reckoning Arrived?](https://www.bloomberg.com/news/videos/2026-02-04/has-the-ai-reckoning-arrived-video) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Bitcoin Hits 15-Month Low, Wiping Out Billions in Value](https://www.bloomberg.com/news/videos/2026-02-04/bitcoin-hits-15-month-low-wiping-out-billions-in-value-video) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Software Stocks Slide for Second Day](https://www.bloomberg.com/news/videos/2026-02-04/software-stocks-slide-for-second-day-video) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Bloomberg House at Davos 2026 Highlights](https://www.bloomberg.com/news/videos/2026-02-04/bloomberg-house-at-davos-2026-highlights-video) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Software Short Sellers Mint $24 Billion Profit as Stocks Tumble](https://www.bloomberg.com/news/articles/2026-02-04/software-short-sellers-mint-24-billion-profit-as-stocks-tumble) *(Bloomberg Technology)*
+- [ ] 2026-02-04 [Amazon’s Former Retail Chief Woos Meta as Customer for Startup](https://www.bloomberg.com/news/articles/2026-02-04/amazon-s-former-retail-chief-woos-meta-as-customer-for-startup) *(Bloomberg Technology)*
+- [ ] 2026-02-05 [Elon Musk Says ‘I Came to My Senses’ About Going to Epstein Island](https://gizmodo.com/elon-musk-says-i-came-to-my-senses-about-going-to-epstein-island-2000718185) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [I Really Hope the New ‘Ghost in the Shell’ Anime Keeps the Major’s Manga Goofiness](https://gizmodo.com/i-really-hope-the-new-ghost-in-the-shell-anime-keeps-the-majors-manga-goofiness-2000717983) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [Zohran Mamdani Responds to Polymarket’s Free Grocery Store Stunt](https://gizmodo.com/zohran-mamdani-responds-to-polymarkets-free-grocery-store-stunt-2000718030) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [You Won’t Believe What’s Stuck in This Deer’s Antlers—and It’s a 2026 People’s Choice Finalist](https://gizmodo.com/you-wont-believe-whats-stuck-in-this-deers-antlers-and-its-a-2026-peoples-choice-finalist-2000717971) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [Somehow, I’d Never Heard of This Post-Apocalyptic Football Movie](https://gizmodo.com/somehow-id-never-heard-of-this-post-apocalyptic-football-movie-2000716983) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [Gigantic Headphone Speakers Are the Goofiest Thing I’ve Ever Seen](https://gizmodo.com/gigantic-headphone-speakers-are-the-goofiest-thing-ive-ever-seen-2000718047) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [Will an Nvidia Laptop Even Matter?](https://gizmodo.com/will-an-nvidia-laptop-even-matter-2000718055) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [‘Overwatch 2’ Rebrands, and Its Messy Arc Is Complete](https://gizmodo.com/overwatch-2-rebrands-and-its-messy-arc-is-complete-2000717981) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [The Western US Is in a Snow Drought. What Comes Next Is Even Scarier](https://gizmodo.com/the-western-us-is-in-a-snow-drought-what-comes-next-is-even-scarier-2000718095) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [Why the Epstein Files Are Reviving a Conspiracy Theory About Wayfair and Human Trafficking](https://gizmodo.com/jeffrey-epstein-files-wayfair-ashley-woody-allen-2000717900) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [‘Crown’ Star Claire Foy Quit Caffeine After Living With Gut Parasite for Half a Decade](https://gizmodo.com/crown-star-claire-foy-quit-caffeine-after-living-with-a-gut-parasite-for-years-2000717999) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [Washington Post Lays Off Its Amazon Beat Reporter as Bezos Brings the Hammer Down](https://gizmodo.com/washington-post-lays-off-its-amazon-beat-reporter-as-bezos-brings-the-hammer-down-2000718027) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [‘Fallout’ Season 2 Ends Pointing at the Big Bad You Already Knew Was Coming](https://gizmodo.com/fallout-season-2-ending-explained-colorado-liberty-prime-enclave-2000717889) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [Crypto Market in Shambles as Bitcoin Price Down 40% Since October High](https://gizmodo.com/crypto-market-in-shambles-as-bitcoin-price-down-40-since-october-high-2000717957) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [Rent-a-Human Site Lets AI Agents Hire an IRL Set of Opposable Thumbs](https://gizmodo.com/rent-a-human-site-lets-ai-agents-hire-an-irl-set-of-opposable-thumbs-2000717958) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [The Oscar-Nominated ‘Avatar’ Costume Designer Explains That Yes, Those Na’vi Outfits Are Real](https://gizmodo.com/the-oscar-nominated-avatar-costume-designer-explains-that-yes-those-navi-outfits-are-real-2000717959) *(Gizmodo – Technology)*
+- [ ] 2026-02-04 [Bipartisan SCAM Act would require online platforms to crack down on fraudulent ads](https://www.engadget.com/big-tech/bipartisan-scam-act-would-require-online-platforms-to-crack-down-on-fraudulent-ads-210316594.html?src=rss) *(Engadget)*
+- [ ] 2026-02-04 [The best digital frames for 2026](https://www.engadget.com/home/smart-home/best-digital-frame-120046051.html?src=rss) *(Engadget)*
+- [ ] 2026-02-04 [Games Done Quick's Back to Black 2026 event kicks off tomorrow](https://www.engadget.com/gaming/games-done-quicks-back-to-black-2026-event-kicks-off-tomorrow-194147068.html?src=rss) *(Engadget)*
+- [ ] 2026-02-04 [Roblox’s '4D' creation toolset is now available in open beta](https://www.engadget.com/gaming/robloxs-4d-creation-toolset-is-now-available-in-open-beta-191510664.html?src=rss) *(Engadget)*
+- [ ] 2026-02-04 [Overwatch will drop the '2' as Jetpack Cat and four other heroes arrive on February 10](https://www.engadget.com/gaming/overwatch-will-drop-the-2-as-jetpack-cat-and-four-other-heroes-arrive-on-february-10-184500327.html?src=rss) *(Engadget)*
+- [ ] 2026-02-05 [Navigating health questions with ChatGPT](https://openai.com/index/navigating-health-questions) *(OpenAI News)*
+- [ ] 2026-02-04 [Unlocking the Codex harness: how we built the App Server](https://openai.com/index/unlocking-the-codex-harness) *(OpenAI News)*
+- [ ] 2026-02-05 [サイバー攻撃者が「スループット」重視　大手ITが26年セキュリティー予測](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/012801384/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [税制改正案、2026年も複数の難所　「年収の壁」178万円や物価連動制](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/012901387/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [KDDI系が「仕様駆動開発」を導入　AIが仕様書とソースコードを生成](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/012901388/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [田辺ファーマがVMware環境をクラウド化　ライセンス変更で保守体制を見直し](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/012901389/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [オープンハウス系が施工管理DX　出戻り費用8割減、工期も13％短縮](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/012801383/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [鉄道のレール画像からAIで腐食を検知　東京メトロが年12日の調査を不要に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/012901385/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [グロービス経営大学院が会話型AI導入　プロンプト1万字で講師を再現](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/012901386/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [生成AIがもたらす機会と脅威、企業の認識を聞く](https://xtech.nikkei.com/atcl/nxt/column/18/03475/011900004/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [フィギュアスケートをCGで再現、世界的に珍しい練習　富士通のAIで実現](https://xtech.nikkei.com/atcl/nxt/column/18/03446/012600002/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [COBOLは「何でもできる」と言うCIO、生成AIで深掘りして疑問が解けた](https://xtech.nikkei.com/atcl/nxt/column/18/00849/00179/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [知りたいキーワードで記事を絞り込む「検索」](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00027/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [「自分に関連しそうな記事」をとりあえず見つけるには？](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00024/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [日経クロステックにログインできないときは](https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00025/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [OneDriveの強引な同期を解消、停止後に変化するフォルダー構造は要注意](https://xtech.nikkei.com/atcl/nxt/column/18/03457/122600002/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [AMDやインテル、AIプロセッサー競う　ルネサスは車載で3ナノ](https://xtech.nikkei.com/atcl/nxt/column/18/03421/012500002/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [iPadユーザーが無料で使える「iWork」、生成AIと連係して書類を仕上げる](https://xtech.nikkei.com/atcl/nxt/column/18/03388/122200009/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [Excelで「簡易ピボットテーブル」、PIVOTBY関数で多様な集計表を瞬時に作成](https://xtech.nikkei.com/atcl/nxt/column/18/00286/020300398/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [映像データのAI品質を守る、見逃しと誤報を防ぐカスケード型評価戦略](https://xtech.nikkei.com/atcl/nxt/column/18/03242/011600016/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [若者人気のテキスト通話「Jiffcy」、LINEで十分？　評価は時期尚早](https://xtech.nikkei.com/atcl/nxt/column/18/00138/012901950/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [NECやNSSOLがソブリンクラウド、経済安保法改正前に高まる存在感](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11454/) *(日経クロステック IT)*
+- [ ] 2026-02-05 [NVIDIAとダッソーがCEO対談　産業AI基盤構築で戦略的パートナーシップ締結](https://monoist.itmedia.co.jp/mn/articles/2602/05/news019.html) *(ITmedia AI＋)*
+- [ ] 2026-02-04 [中国電力、RAGの限界に直面し“電力業務特化型LLM”の構築を開始　国産LLMを基盤に](https://www.itmedia.co.jp/enterprise/articles/2602/05/news040.html) *(ITmedia AI＋)*
+- [ ] 2026-02-04 [Anthropic、スーパーボウル向けCMを公開　OpenAIのアルトマンCEOは「不誠実な印象操作だ」と批判](https://www.itmedia.co.jp/news/articles/2602/05/news062.html) *(ITmedia AI＋)*
+- [ ] 2026-02-04 [フォックスコンがフィジカルAIで実現する「AX」とは、NVIDIAと川崎重工も講演](https://monoist.itmedia.co.jp/mn/articles/2602/05/news034.html) *(ITmedia AI＋)*
+- [ ] 2026-02-04 [Anthropic、AIへの広告導入はしないと宣言　「Claudeは思考のための純粋な道具であるべき」](https://www.itmedia.co.jp/news/articles/2602/05/news060.html) *(ITmedia AI＋)*
+- [ ] 2026-02-04 [Pythonで入力検証するときに「^」と「$」は使っちゃいけない？　それってどういうコト？](https://atmarkit.itmedia.co.jp/ait/articles/2602/05/news015.html) *(ITmedia AI＋)*
+- [ ] 2026-02-04 [いかにして「GPU」は画像処理チップから“数値計算の常識”へと進化したのか？](https://atmarkit.itmedia.co.jp/ait/articles/2601/20/news007.html) *(ITmedia AI＋)*
+- [ ] 2026-02-05 [声優ら、声のAI無断複製に危惧　権利侵害訴える手立て乏しく - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUD265JV0W5A820C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [そのコードのその行をどのようにAIが生成し、なぜ変更されたのか。コードのコンテキスト履歴を記録する標準「Agent Trace」。Cursor、Cognition、Google Julesらが提唱](https://www.publickey1.jp/blog/26/aiagent_tracecursorcognitiongoogle_jules.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [Geminiが作ってくれた最悪なプログラミング言語「Ojisan」、最悪だが読みやすく分かりやすいという声が寄せられる](https://togetter.com/li/2659959) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [さくらのクラウド、ガバメントクラウドの条件クリアまであと3つまで到達。残りは統制やセキュリティ認証、オブジェクトストレージなどの一部に](https://www.publickey1.jp/blog/26/3_8.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [「AIが人間をレンタルできるサービスが誕生」まさにディストピアがすぐそこまで来ているのでは](https://togetter.com/li/2659913) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [Finance – Claude Plugin \| Anthropic](https://claude.com/plugins/finance) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [Claude Codeの性能を引き出すワークフロー設計 - エス・エム・エス エンジニア テックブログ](https://tech.bm-sms.co.jp/entry/2026/02/04/110000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-05 [Claude CodeのTasks System機能を試してみた \| DevelopersIO](https://dev.classmethod.jp/articles/claude-code-tasks-system/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [インテル反攻の2026年。Core Ultraシリーズ3で描く“AI PC新章”](https://pc.watch.impress.co.jp/docs/news/2083383.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [AIで機能開発は早くなったのに、なぜ収益が伸びないのか｜MRYY](https://note.com/mryy/n/ndf519006ee0e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [OSSは特別じゃない。アウトプットを30年間続けてきて得たもの - Findy Media](https://findy-code.io/media/articles/codesidechat-gosukenator) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [巨大で活発な黒点群「4366」が注目される理由　すでに複数のXクラス太陽フレア　NICT「1週間程度は注意が必要」](https://www.itmedia.co.jp/news/articles/2602/05/news057.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [2026-02-04のJS: Yarn 6 Preview、WebAssembly 10年、State of JavaScript 2025の結果公開](https://jser.info/2026/02/04/yarn-6-preview-webassembly-10-state-of-javascript-2025/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [5 things your iPhone's Action Button can do to make mornings easier](https://www.makeuseof.com/5-things-iphone-action-button-makes-easy/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-05 [ドコモ、3G停波後は800MHz帯をLTEに移行　「通信品質の改善が見込まれる」](https://www.itmedia.co.jp/mobile/articles/2602/04/news126.html) *(はてなブックマーク – IT 人気エントリ)*
