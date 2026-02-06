@@ -26780,3 +26780,64 @@
 - [ ] 2026-02-05 [「大分は医療分散度1位」の真実を追う！22年分のデータが語る医療アクセス改善の物語](https://zenn.dev/shironegi/articles/fu0qz3961priyn) *(Zenn – トピック AI)*
 - [ ] 2026-02-05 [AI協働開発フレームワーク公開 ― 「正しいが実践できない」を変えるガイド](https://zenn.dev/techtechstyle/articles/ai-collab-framework-introduction) *(Zenn – トピック AI)*
 - [ ] 2026-02-05 [Anthropicの男がコードを読むなと言った日](https://zenn.dev/hirokitakamura/articles/vibe-coding-production) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-06T12:28:33.708Z
+- [ ] 2026-02-06 [Deepfake fraud taking place on an industrial scale, study finds](https://www.theguardian.com/technology/2026/feb/06/deepfake-taking-place-on-an-industrial-scale-study-finds) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-06 [How separating logic and search boosts AI agent scalability](https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/) *(Artificial Intelligence News)*
+- [ ] 2026-02-06 [Intuit, Uber, and State Farm trial AI agents inside enterprise workflows](https://www.artificialintelligence-news.com/news/intuit-uber-and-state-farm-trial-ai-agents-inside-enterprise-workflows/) *(Artificial Intelligence News)*
+- [ ] 2026-02-06 [US Stocks Set for Rebound as Market Reassess AI](https://www.bloomberg.com/news/videos/2026-02-06/us-stocks-set-for-rebound-as-market-reassess-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Amazon and Google Picked a Bad Time to Announce Extraordinary Spending](https://www.bloomberg.com/news/newsletters/2026-02-06/amazon-meta-microsoft-and-google-s-huge-capex-plans-got-a-sour-reception) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Musk’s xAI Co-Founder to Buy £57 Million London Penthouse](https://www.bloomberg.com/news/articles/2026-02-06/musk-s-xai-co-founder-babuschkin-to-buy-57-million-london-home) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Amazon's $200B Capex Plans Cap Tough Week for Tech \| The Pulse 2/6/2026](https://www.bloomberg.com/news/videos/2026-02-06/the-pulse-2-6-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Tesla Weighs New York, Arizona, Idaho to Lift Solar Cell Output](https://www.bloomberg.com/news/articles/2026-02-06/tesla-weighs-new-york-arizona-idaho-to-lift-solar-cell-output) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Nvidia-Led Boom Set to Turn Chips Into Trillion-Dollar Industry](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-led-boom-set-to-turn-chips-into-trillion-dollar-industry) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [TikTok Hit By EU Ultimatum Over Addictive Design Dangers](https://www.bloomberg.com/news/articles/2026-02-06/tiktok-hit-by-eu-ultimatum-over-addictive-design-dangers) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Trump Is Remaking the Global Oil Market, and Exxon and Chevron Want In](https://www.bloomberg.com/news/articles/2026-02-06/oil-map-is-redrawn-as-exxon-chevron-push-expansion-under-trump) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [What's Behind the Software-as-a-Service Selloff?](https://www.bloomberg.com/news/videos/2026-02-06/what-s-behind-the-software-as-a-service-selloff-video) *(Bloomberg Technology)*
+- [ ] 2026-02-06 ['AI Jesus' Can't Help You](https://www.bloomberg.com/news/videos/2026-02-06/opinion-ai-jesus-can-t-help-you-video) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [China Fines Kuaishou After Wave of Porn Exposed Security Flaws](https://www.bloomberg.com/news/articles/2026-02-06/china-s-kuaishou-fined-17-2-million-over-pornographic-content) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Europe’s Infrastructure Push Could Backfire, Partners Group Says](https://www.bloomberg.com/news/articles/2026-02-06/europe-s-infrastructure-push-could-backfire-partners-group-says) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [The Princess President of a Major VC Firm Wants a European AI Renaissance](https://www.bloomberg.com/news/features/2026-02-06/the-general-catalyst-investor-backing-mistral-and-helsing) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [JPMorgan Sees Opportunities Amid Markets 'Recalibration'](https://www.bloomberg.com/news/videos/2026-02-06/jpmorgan-sees-opportunities-amid-markets-recalibration-video) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Tokyo Electron Lifts Outlook in Sign of AI-Spurred Chip Spending](https://www.bloomberg.com/news/articles/2026-02-06/tokyo-electron-lifts-outlook-in-sign-of-ai-spurred-chip-spending) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [AT&amp;T Debuts Smartphone for Kids That Parents Can Monitor](https://www.bloomberg.com/news/articles/2026-02-06/at-t-debuts-smartphone-for-kids-that-parents-can-monitor) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Dubai-Based Firm to Invest $1.6 Billion in Africa AI and Farms](https://www.bloomberg.com/news/articles/2026-02-06/dubai-based-firm-to-invest-1-6-billion-in-africa-ai-farmland) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Wizards of the Coast Explains Why ‘Magic’ Secret Lairs Will Stay Frustratingly Hard to Get](https://gizmodo.com/magic-the-gathering-secret-lair-print-on-demand-limited-run-wotc-2000718689) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [The Morning After: The Switch is officially Nintendo’s most popular console ever](https://www.engadget.com/general/the-morning-after-the-switch-is-officially-nintendos-most-popular-console-ever-121500738.html?src=rss) *(Engadget)*
+- [ ] 2026-02-06 [How to watch the Opening Ceremony at the 2026 Milan Cortina Winter Olympics today](https://www.engadget.com/entertainment/streaming/how-to-watch-the-opening-ceremony-at-the-2026-milan-cortina-winter-olympics-today-143529401.html?src=rss) *(Engadget)*
+- [ ] 2026-02-06 [The best mesh Wi-Fi systems of 2026](https://www.engadget.com/home/smart-home/best-mesh-wifi-system-130028701.html?src=rss) *(Engadget)*
+- [ ] 2026-02-06 [KDDI、子会社ビッグローブで架空取引の疑い　売上高2460億円を過大計上か](https://xtech.nikkei.com/atcl/nxt/news/24/03081/) *(日経クロステック IT)*
+- [ ] 2026-02-06 [Sakana AI、初の一般向けAIサービス開発中　テスター募集も](https://www.itmedia.co.jp/aiplus/articles/2602/06/news110.html) *(ITmedia AI＋)*
+- [ ] 2026-02-05 [2026年はAGIが“一部実現”　AIの革新を乗りこなすための6つの予測](https://www.itmedia.co.jp/enterprise/articles/2602/06/news009.html) *(ITmedia AI＋)*
+- [ ] 2026-02-06 [3,980円のカメラでClaude Codeに「身体」を与えてみた](https://zenn.dev/nextbeat/articles/2026-02-embodied-claude) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-06 [Grokにこの子供の30年後を予想して画像生成してもらった結果と、実際の姿がこちらです「そういう世界線もあったのかもしれない」](https://togetter.com/li/2660491) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-06 [Claude Codeに乗り遅れたあなたへ。Open CodeとGithub CopilotとVSCode（期間限定kimi k2.5）](https://zenn.dev/kiva/articles/7be372e4783248) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-06 [アンソロピック、今度は金融リサーチ特化モデル発表－関連株下落 - Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-02-05/TA02HAT96OSH00) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-06 [ちょっと待って、これ荒木飛呂彦先生16歳の時の学祭の女装ってマジ？いやいや美しすぎんか、いやいや…マジ？「AIでしょ？」「Jyoshi立ち」](https://togetter.com/li/2660615) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [どの駒かわからない変則ルールの「量子将棋」…藤井聡太「永世竜王」到達の裏で世界大会を初開催した開発者の情熱、「無用の用」探究する将棋の学術的価値［指す将が行く］](https://www.yomiuri.co.jp/igoshougi/ryuoh/20260205-GYT8T00101/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [iPodの発案者｢AppleはiPodを復活させるべき。理由は2つあるよ｣](https://www.gizmodo.jp/2026/02/tony-fadell-ipod.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [国土地理院、地理院地図のリニューアルを予告。そっけなかった地図表示が別物に変身【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2083978.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [指紋で本人確認するクレカ登場 JCBとDNPがテスト開始](https://www.watch.impress.co.jp/docs/news/2084040.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [撮影できるスマートグラス、遂に日本に　気になる配慮は?【Watch+】](https://www.watch.impress.co.jp/docs/topic/2083875.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [Claude Codeを使ったSaaSセキュリティチェックの自動化 - カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/entry/automating-saas-security-checks-with-claude-code) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [It’s 2026, Just Use Postgres \| Tiger Data](https://www.tigerdata.com/blog/its-2026-just-use-postgres) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [Twitter引退の辞｜(BG∈ﾟΘﾟ)](https://note.com/zudabuguro100yen/n/n1f13c196e25c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [【徹底解説】Claude Opus 4.6 / GPT-5.3-Codex同日登場。新機能と実力を総まとめ｜AGIラボ](https://chatgpt-lab.com/n/n0f4b4024f278) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [AI使ってよかったと思うこと（IT）](https://anond.hatelabo.jp/20260206162328) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [Claude Opus 4.6 vs GPT-5.3 Codex ― 同日リリースの最強AIコーディングモデルを徹底比較〜2026年2月版〜](https://zenn.dev/rick_lyric/articles/b1f955cd58f668) *(Zenn – トピック LLM)*
+- [ ] 2026-02-06 [Claude Opus 4.6が来た！1Mトークン＆Agent Teamsで開発はどう変わるか](https://zenn.dev/mjinia/articles/95b58a1fc6bb00) *(Zenn – トピック LLM)*
+- [ ] 2026-02-06 [ずんだもん×枕草子×AI：VTuberで古典文学を令和ギャル語で朗読してみた](https://zenn.dev/hiroakikody/articles/6ef096f7a3e516) *(Zenn – トピック LLM)*
+- [ ] 2026-02-06 [Amazon BedrockでStructured Outputs試してみた](https://zenn.dev/fusic/articles/bc68cd6f91b8fa) *(Zenn – トピック LLM)*
+- [ ] 2026-02-06 [【不都合な真実】Opus 4.5でも完全自動化は無理。AIエージェントの根本的限界を論文から読み解く](https://zenn.dev/babushkai/articles/2026-01-31-why-ai-cant-automate-everything) *(Zenn – トピック LLM)*
+- [ ] 2026-02-06 [Claude Code で仕様駆動開発（clauto-develop）](https://zenn.dev/ksuzumura/articles/4bd8e9860f3abe) *(Zenn – トピック LLM)*
+- [ ] 2026-02-06 [AIに疲れたので、寝る前のやさしいAIアプリを1週間で個人開発してみたお話](https://zenn.dev/keisukekarijuku/articles/67f084a07ed31e) *(Zenn – トピック LLM)*
+- [ ] 2026-02-06 [Anthropic Claude Opus 4.6がリリースされました](https://zenn.dev/suit9/articles/dafc4fb8a17fcb) *(Zenn – トピック LLM)*
+- [ ] 2026-02-06 [DifyのAgent Skillsプラグインの使用方法](https://zenn.dev/nocodesolutions/articles/c43b3c8c551700) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [AIエージェントとDeno + ts-morphでTypeScriptコードを安全にリファクタリング](https://zenn.dev/bm_sms/articles/ai-agent-deno-ts-morph-refactor) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [CASLS - Core Answer Segment Layer System](https://zenn.dev/t1os0ei9/articles/c47d9f4e5a1689) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [量子コンピュータを初心者向けに“直感で”理解してみる](https://zenn.dev/risaaa/articles/b2b54dd0411ebe) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [AI エージェントの「暴走」を防ぐ — ACC（Agent Cognitive Compressor）を実装してみた](https://zenn.dev/meson_tech_blog/articles/implement-acc-agent) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [Xcode 26.3の新AI機能を実務で試して分かった5つのポイント](https://zenn.dev/taishikusunose/articles/c7df06b82ce6da) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [AIエージェント「Claude Cowork」がIT業界に与える衝撃と、ソフトウェア産業の未来](https://zenn.dev/headwaters/articles/5969fee2942c62) *(Zenn – トピック AI)*
+- [ ] 2026-02-05 [GPT-5.3-Codexが登場。自分自身を作ったAIコーディングモデルの全貌](https://zenn.dev/kei31ai/articles/20260206-gpt-5-3-codex) *(Zenn – トピック AI)*
