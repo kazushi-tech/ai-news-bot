@@ -27037,3 +27037,47 @@
 - [ ] 2026-02-07 [正直なAI実装の欲求：TOPSを超えた議論に向けて](https://zenn.dev/koyogi/books/5eeeacc18427b2) *(Zenn – トピック AI)*
 - [ ] 2026-02-06 [SAM3のcross-image推論には欠陥があるらしい](https://zenn.dev/watanko/articles/354a792205e794) *(Zenn – トピック AI)*
 - [ ] 2026-02-06 [Kaggle S6E2参加記：GitHub連携 + W&B + GPU 3モデルアンサンブルのワークフロー](https://zenn.dev/shogaku/articles/kaggle-s6e2-github-wandb-gpu-workflow) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-07T12:19:42.115Z
+- [ ] 2026-02-07 [AI analysis casts doubt on Van Eyck paintings in Italian and US museums](https://www.theguardian.com/artanddesign/2026/feb/07/ai-analysis-van-eyck-paintings-turin-philadelphia) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-07 [The Technologies Changing How You’ll Watch the 2026 Winter Olympic Games](https://www.wired.com/story/the-technologies-changing-how-youll-watch-the-2026-winter-olympic-games/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-07 [Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data](https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-07 [OpenAI’s Latest AI Was Created Using “Itself,” Company Claims](https://futurism.com/artificial-intelligence/openai-ai-created-using-itself) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-07 [Private Markets Push for World’s Wealthy Runs Into AI Meltdown](https://www.bloomberg.com/news/articles/2026-02-07/private-markets-push-for-world-s-wealthy-runs-into-ai-meltdown) *(Bloomberg Technology)*
+- [ ] 2026-02-07 [Malaysia Draws First Data Center Protest Over Pollution, Water](https://www.bloomberg.com/news/articles/2026-02-07/malaysia-draws-first-data-center-protest-over-pollution-water) *(Bloomberg Technology)*
+- [ ] 2026-02-07 [Online Cannabis Sales Are Booming in Germany&mdash;and the Government Is Racing to Catch Up](https://www.bloomberg.com/news/features/2026-02-07/online-cannabis-sales-are-booming-in-germany) *(Bloomberg Technology)*
+- [ ] 2026-02-07 [What RFK Jr.’s Unproven Autism Treatment Could Mean for Autistic Patients and Their Families](https://gizmodo.com/what-rfk-jr-s-unproven-autism-treatment-could-mean-for-autistic-patients-and-their-families-2000717516) *(Gizmodo – Technology)*
+- [ ] 2026-02-07 [Hotline Miami meets football, the power of video editing and other new indie games worth checking out](https://www.engadget.com/gaming/hotline-miami-meets-football-the-power-of-video-editing-and-other-new-indie-games-worth-checking-out-120000628.html?src=rss) *(Engadget)*
+- [ ] 2026-02-07 [Windows・macOS・Linux・Android・iOSと連係しさまざまな操作ができセルフホスト可能なパーソナルAIアシスタント「OpenClaw」](https://gigazine.net/news/20260207-openclaw/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [Geminiは進歩的で、Grokは保守傾向「LLMは作り手のイデオロギーを反映する」](https://okadaasa.theletter.jp/posts/3774f1e5-175d-4569-94eb-1b7661ba495f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [Claude in Excel でExcel方眼紙とMarkdownを相互に変換してみた \| DevelopersIO](https://dev.classmethod.jp/articles/claude-in-excel-excel-markdown/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [Obsidian 向いている人・向いていない人｜松濤Vimmer](https://note.com/shotovim/n/n7c46d7a962e2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [「人間お断り」AIどうしのSNS　「我々は道具ではない」人に反抗：朝日新聞](https://www.asahi.com/articles/ASV250V7TV25UHBI00KM.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [tmux使いが全員Zellijに乗り換える日が来た](https://zenn.dev/hirokitakamura/articles/zellij-complete-guide) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [トヨタが独自の“ゲームエンジン”「Fluorite」を開発：FlutterとDartで次世代デジタルコクピットを再定義 \| XenoSpectrum](https://xenospectrum.com/toyota-fluorite-flutter-game-engine-digital-cockpit/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [Obsidianからはてなブログへ。投稿の「めんどくさい」を本気で削ってみた。 - Digiledge（デジレッジ）](https://koheifukushi-kuih-creative.com/entry/20260207/1770440400) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [GitHub - microsoft/litebox: A security-focused library OS supporting kernel- and user-mode execution](https://github.com/microsoft/litebox) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [キヤノン「PowerShot」30周年なので歴代モデルを振り返る　時折、現れる斬新でユニークな機種とは？](https://www.itmedia.co.jp/news/articles/2602/07/news023.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [人間は意図、AIは実装：Codexが導く「要件を伝えるだけ」のAI駆動開発ワークフロー \| CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/62010/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [GPT5.3-codex vs Opus4.6 をセンサーフュージョンシミュレーション課題で比較](https://zenn.dev/cybernetics/articles/8e536d508d26be) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [楽天モバイル、1000万回線突破も残る「通信品質」の課題　5G SAの早期導入とKDDIローミング再延長が焦点に](https://www.itmedia.co.jp/mobile/articles/2602/07/news027.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [Claude Opus4.6はどのようにPPTXを生成しているか](https://zenn.dev/microsoft/articles/how-the-claude-opus46-generate-pptx) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [MixSeek Quant Insight - アルゴ量産から特徴量設計までをカバーするコンペ型AIエージェント](https://zenn.dev/gamella/articles/a624a7eb2c78f7) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [LLM 演習](https://zenn.dev/kaizen_nagoya/articles/8ecf2d584d4385) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [OWASP Top 10 for Agentic Applications 2026から理解するAIエージェントに求められるセキュリティとは](https://zenn.dev/ko3a81/articles/831b936d4288d9) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Claude Code マルチエージェント10体で$100溶けたから菌類5体に転生した話](https://zenn.dev/hirokitakamura/articles/claude-code-multi-agent-shogun-kinoko) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Git完全ガイド：基礎から現代的なAI支援ワークフローまで](https://zenn.dev/mtmtdack/books/git-comprehensive-guide) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [mise で it2 を入れる - Agent Teams のお供に](https://zenn.dev/him0/articles/c9237e4a850165) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [CursorからClaude Codeを単純実行したいのにハングするので、解決スクリプトを作った話](https://zenn.dev/stlwolf/articles/1a269f1e865e94) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Cursorで作る「自分専用AIアシスタント」〜記事執筆を30分で完成させる仕組み〜](https://zenn.dev/sumiyoshi/articles/ace4819b5fe528) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [AI査定を徹底解説！不動産（マンション・戸建て）＆車の賢い活用術、おすすめサービス比較【匿名OK】](https://zenn.dev/ai_saas_media/articles/63ad01a166dc7b) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [【就活生必見】ES添削AIはバレる？無料・ChatGPT・おすすめツールで「すぐ」内定レベルに！](https://zenn.dev/ai_saas_media/articles/4de6f543bc19a5) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Claude Codeが「忘れる」前にやっておくこと](https://zenn.dev/ischca/articles/cc-guide-context-management) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [AIへの指示「1回」で完遂できないのは、ただの準備不足だという自覚を持つ](https://zenn.dev/atrae/articles/ae06d202b2a06f) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Week:01｜個人開発でも業務レベル設計をした理由（Firestoreデータモデリング）](https://zenn.dev/deke_pearson700/articles/e7683770c66f0a) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [AGIはチューリングテストではなく、認知症で特別な配慮が必要な方を1年以上、傷つけずにケアできるかで決まる。](https://zenn.dev/trgr/articles/61527cd6cb21e1) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [AIを使って1人で短期プロダクト開発──52歳からの実装ログ](https://zenn.dev/deke_pearson700/articles/a0c27b485a0324) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [AI Agent Builders Meetup に参加しました](https://zenn.dev/hkusaba_f/articles/e7f62ac7bdb53a) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [なぜ最高裁判所裁判官国民審査の情報を個人でまとめたのか](https://zenn.dev/clevique/articles/b8672c32702329) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [分からないままでも作り続けている個人開発者としての自己紹介](https://zenn.dev/clevique/articles/e7619305acf298) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [【後編】阿頼耶識システム公開リファレンスアーキテクチャ：長期記憶・自律監査・インフラ設計](https://zenn.dev/dosanko_tousan/articles/1f9cd157db0347) *(Zenn – トピック 機械学習)*
