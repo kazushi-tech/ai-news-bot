@@ -26937,3 +26937,74 @@
 - [ ] 2026-02-06 [【2025年AI総括】2250億ドル突破の投資額と5つの重要トレンド](https://zenn.dev/yu_ga/articles/ai-trends-2025-state-of-ai) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-06 [大規模モデルでdf.dropはまずい：Out of Memoryを解決した話](https://zenn.dev/zenn_mita/articles/fdbb040083dabc) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-06 [[リリース] JAX 2026.02：コンテナ化とアップストリーム統合の強化](https://zenn.dev/serada/articles/20260206-jax-2026-02-release) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-07T00:54:12.257Z
+- [ ] 2026-02-06 [New York Is the Latest State to Consider a Data Center Pause](https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-06 [Professor Says Her Garbled AI Textbook Was a Huge Success](https://futurism.com/artificial-intelligence/professor-defends-ai-textbook) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-06 [OpenAI's Latest Platform Targets Enterprise Customers](https://aibusiness.com/agentic-ai/openai-s-latest-platform-targets-enterprise-customers) *(AI Business)*
+- [ ] 2026-02-07 [Coursera, Udemy Merger to Boost Online AI Education](https://www.bloomberg.com/news/videos/2026-02-07/coursera-udemy-merger-to-boost-online-ai-education-video) *(Bloomberg Technology)*
+- [ ] 2026-02-07 [Big Tech’s $650 Billion AI Plans Spark Chip Rally](https://www.bloomberg.com/news/videos/2026-02-07/big-tech-s-650-billion-ai-plans-spark-chip-rally-video) *(Bloomberg Technology)*
+- [ ] 2026-02-07 [US Economy is 'Paradox' of Strong Growth, Underlying Weakness: EY's Daco](https://www.bloomberg.com/news/videos/2026-02-07/us-economy-is-paradox-of-strong-growth-ey-s-daco-video) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Google Employees Call on Company to End ICE, CBP Contracts](https://www.bloomberg.com/news/articles/2026-02-06/google-employees-call-on-company-to-end-ice-cbp-contracts) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Credit Data Firm 9fin Seeks $1 Billion Valuation in Fund Talks](https://www.bloomberg.com/news/articles/2026-02-06/credit-data-firm-9fin-seeks-1-billion-valuation-in-fund-talks) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Amazon's Big Spending Plans and Bitcoin's Rebound \| Bloomberg Tech 2/6/2026](https://www.bloomberg.com/news/videos/2026-02-06/bloomberg-tech-2-6-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Warner Music Group Sees Double-Digit Revenue Growth in 1Q](https://www.bloomberg.com/news/videos/2026-02-06/warner-music-group-sees-double-digit-revenue-growth-video) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Big Tech to Spend $650B This Year as AI Race Intensifies](https://www.bloomberg.com/news/videos/2026-02-06/big-tech-to-spend-650b-this-year-as-ai-race-intensifies-video-mlba2epc) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Apple Plans to Allow Outside Voice-Controlled AI Chatbots in CarPlay](https://www.bloomberg.com/news/articles/2026-02-06/apple-plans-to-allow-outside-voice-controlled-ai-chatbots-in-carplay) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [Analysts Deem Affirm's Outlook Conservative](https://www.bloomberg.com/news/videos/2026-02-06/analysts-deem-affirm-s-outlook-conservative-video) *(Bloomberg Technology)*
+- [ ] 2026-02-06 [As ‘Scream 7’ Arrives, Its Studios Fight to Own Ghostface’s… Uh, Face](https://gizmodo.com/as-scream-7-arrives-its-studios-fight-to-own-ghostfaces-uh-face-2000719059) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [Waymo Catches World Model Fever, and the Only Prescription Is More World Models](https://gizmodo.com/waymo-catches-world-model-fever-and-the-only-prescription-is-more-world-models-2000719093) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [Crypto.com Founder Buys AI.com in ‘Largest Domain Purchase in History’](https://gizmodo.com/crypto-com-founder-buys-ai-com-in-largest-domain-purchase-in-history-2000719136) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [New Voice Assistants Are Officially a Whiff (for Now)](https://gizmodo.com/new-voice-assistants-are-officially-a-whiff-for-now-2000719058) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [‘Marriage Toxin’ Is Bringing Romance to Shonen in a Big Way](https://gizmodo.com/marriage-toxin-is-bringing-romance-to-shonen-in-a-big-way-2000718435) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [South Korean Crypto Exchange Accidentally Gave Away $43 Billion Worth of Paper Bitcoin](https://gizmodo.com/south-korean-crypto-exchange-accidentally-gave-away-43-billion-worth-of-paper-bitcoin-2000719158) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [‘Starfleet Academy’ Eulogized What Mattered Most About Captain Sisko](https://gizmodo.com/starfleet-academy-captain-sisko-deep-space-nine-2000719039) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [Why People Think Jeffrey Epstein Is Alive and Playing Fortnite](https://gizmodo.com/why-people-think-jeffrey-epstein-is-alive-and-playing-fortnite-2000718952) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [Something Mysteriously Powerful Slammed Into Earth in 2023. Scientists Now Have a Theory](https://gizmodo.com/something-unimaginably-powerful-slammed-into-earth-in-2023-scientists-now-have-a-theory-2000719040) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [Finally, I’ve Found the Perfect Switch 2 Controller](https://gizmodo.com/finally-ive-found-the-perfect-switch-2-controller-2000718700) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [Turns Out Congestion Pricing Has Been Good for Drivers in the Suburbs, Too](https://gizmodo.com/turns-out-congestion-pricing-has-been-good-for-drivers-in-the-suburbs-too-2000718956) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [Travis Knight Insisted Skeletor Had His Skull Face for ‘Masters of the Universe’](https://gizmodo.com/travis-knight-insisted-skeletor-had-his-skull-face-for-masters-of-the-universe-2000719056) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [Measles Outbreak in South Carolina Linked to Brain Swelling in Kids](https://gizmodo.com/measles-outbreak-in-south-carolina-linked-to-brain-swelling-in-kids-2000718913) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [Trump’s Memecoin Down 95% as Democrats Seek Answers on Crypto ‘Corruption’](https://gizmodo.com/trumps-memecoin-down-95-as-democrats-seek-answers-on-crypto-corruption-2000719005) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [‘Baldur’s Gate 3’ Was Always Going to Have a Weird Future](https://gizmodo.com/baldurs-gate-tv-show-hbo-hasbro-larian-2000718881) *(Gizmodo – Technology)*
+- [ ] 2026-02-06 [Trump Deletes Extremely Racist Meme About Obamas After Backlash From Republicans](https://gizmodo.com/trump-deletes-extremely-racist-meme-about-obamas-after-backlash-from-republicans-2000718980) *(Gizmodo – Technology)*
+- [ ] 2026-02-07 [How to watch the Opening Ceremony at the 2026 Milan Cortina Winter Olympics rebroadcast tonight](https://www.engadget.com/entertainment/streaming/how-to-watch-the-opening-ceremony-at-the-2026-milan-cortina-winter-olympics-rebroadcast-tonight-143529231.html?src=rss) *(Engadget)*
+- [ ] 2026-02-06 [The Crypto.com guy bought AI.com (and a Super Bowl ad)](https://www.engadget.com/ai/the-cryptocom-guy-bought-aicom-and-a-super-bowl-ad-234325394.html?src=rss) *(Engadget)*
+- [ ] 2026-02-06 [Apple will reportedly allow third-party AI assistants in CarPlay](https://www.engadget.com/transportation/apple-will-reportedly-allow-third-party-ai-assistants-in-carplay-213432646.html?src=rss) *(Engadget)*
+- [ ] 2026-02-06 [Disney+ loses access to Dolby Vision in some European countries](https://www.engadget.com/entertainment/streaming/disney-loses-access-to-dolby-vision-in-some-european-countries-193930702.html?src=rss) *(Engadget)*
+- [ ] 2026-02-06 [How to watch the 2026 Super Bowl on NBC: Patriots vs. Seahawks channel, where to stream, start time, and more](https://www.engadget.com/entertainment/streaming/how-to-watch-the-2026-super-bowl-on-nbc-patriots-vs-seahawks-channel-where-to-stream-start-time-and-more-175759402.html?src=rss) *(Engadget)*
+- [ ] 2026-02-06 [The new trailer for The Super Mario Galaxy Movie shows Yoshi absolutely devouring a Magikoopa](https://www.engadget.com/entertainment/tv-movies/the-new-trailer-for-the-super-mario-galaxy-movie-shows-yoshi-absolutely-devouring-a-magikoopa-191807037.html?src=rss) *(Engadget)*
+- [ ] 2026-02-06 [Noble Audio has released a USB-C Bluetooth dongle for high fidelity transmission](https://www.engadget.com/audio/noble-audio-has-released-a-usb-c-bluetooth-dongle-for-high-fidelity-transmission-191655786.html?src=rss) *(Engadget)*
+- [ ] 2026-02-06 [Making AI work for everyone, everywhere: our approach to localization](https://openai.com/index/our-approach-to-localization) *(OpenAI News)*
+- [ ] 2026-02-06 [2027年に35％の国は「地域特化AI」でロックイン　AI主権の確立が進む](https://www.itmedia.co.jp/enterprise/articles/2602/07/news018.html) *(ITmedia AI＋)*
+- [ ] 2026-02-06 [Waymo、DeepMindの「Genie 3」で自動運転をシミュレート　「もしも」の状況を無限に生成](https://www.itmedia.co.jp/aiplus/articles/2602/07/news026.html) *(ITmedia AI＋)*
+- [ ] 2026-02-06 [Gartner、2026年のセキュリティトレンドを発表　6つの変化にどう対応する？](https://www.itmedia.co.jp/enterprise/articles/2602/07/news021.html) *(ITmedia AI＋)*
+- [ ] 2026-02-06 [長期記憶で能力を進化　Googleらが脆弱性解析を自動実行するLLMを提案](https://www.itmedia.co.jp/enterprise/articles/2602/07/news007.html) *(ITmedia AI＋)*
+- [ ] 2026-02-07 [月刊少年マガジン　読み切り作品 \| 【特別読み切り】アンドー / マガポケ \| 少年マガジン公式無料漫画アプリ](https://pocket.shonenmagazine.com/title/00726/episode/431555) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [【徹底解説】BigQuery「Conversational Analytics」登場！既存のAI分析ツールと何が違うのか？](https://zenn.dev/google_cloud_jp/articles/6232563a07205d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [米株式市場の「ソフトウェアマゲドン」、買い機会か見方分かれる](https://jp.reuters.com/world/us/2XSMM6FZ6BNT7FRWA3L7KBT5BE-2026-02-05/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [Metaの精鋭エンジニアたちが「設計の最適解」を導くために頼る一冊。世界規模の開発を支えるシステム設計のバイブル - エンジニアtype \| 転職type](https://type.jp/et/feature/30384/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [【海外記事紹介】Microsoftがオープンソースで公開した「LiteBox」が実は革新的だった — Linuxカーネルを抽象化したRust製「ライブラリOS」、セキュアで高速なサンドボックスを実現](https://techfeed.io/entries/69856135bf1c6338a73ae7f4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [OpenAI、技術者を企業派遣して「AI同僚」を推進する「Frontier」](https://www.watch.impress.co.jp/docs/news/2083979.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [なぜアスクルのランサム被害は長期化した？　報告書から見えたレジリエンスの穴](https://www.itmedia.co.jp/enterprise/articles/2601/29/news007.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [遠かった Rails が "自分事" になった瞬間 〜 transaction 内で job を安全に呼べるようになるまで - giftee Tech Blog](https://tech.giftee.co.jp/entry/2026/02/04/152228) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-06 [AIベンチマーク読み方ガイド｜SWE-bench・GPQA・ARC-AGIの意味と活用法](https://zenn.dev/yoshihiko555/articles/f1011ac0c4e61c) *(Zenn – トピック LLM)*
+- [ ] 2026-02-06 [Claude Codeエージェント実践 Day 7｜Week 1 まとめ — 私が使っている「2層のPDCA」という考え方](https://zenn.dev/akira_cloudjob/articles/20260207-agent-practice-day07) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [【CAE×AI】完全自律ヒーリングAIを作る(1)：神の神経系「ATL」という構想](https://zenn.dev/sanottti/articles/ansa-god-ai-part1) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [Claude Code Skills は内部でどう動いているのか — 英語圏の解析記事を読み解く](https://zenn.dev/yoshi333/articles/36c64424bf99b7) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [Claude Coworkが42兆円を溶かした日。SaaS業界に何が起きたのか](https://zenn.dev/kei31ai/articles/20260207-claude-cowork-stock-crash) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [チームの暗黙知を Claude Code Skills に落とし込む](https://zenn.dev/yoshi333/articles/577c024d93361f) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [統計検定2級の過去問に対応した計算練習問題](https://zenn.dev/qwerewq/books/74e39d1d340d81) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [Claude Code Skills が自動で発火しないときの対処法](https://zenn.dev/yoshi333/articles/e0c778062332f3) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [生成AIとプロンプトエンジニアリングの基礎](https://zenn.dev/qwerewq/books/caddb5f75bd6d9) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [OpenClawをWSL2で無料で試してみた](https://zenn.dev/sora_biz/articles/openclaw-wsl2-setup-guide) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [OpenClawでDiscord/LINEを個人AIアシスタント化する](https://zenn.dev/sora_biz/articles/openclaw-sns-guide) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [OpenClaw × XServer VPS：月990円でAIが24時間働く環境を作った](https://zenn.dev/sora_biz/articles/openclaw-setup-guide) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [【超初心者向け】Claude Codeを始めよう：Proプラン契約からVSCode拡張機能で使えるまでの完全ガイド](https://zenn.dev/yujmatsu/articles/20260207_claude_code_vscode_setup) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [Claude CodeのAgent Teamsを徹底解説 — Subagentsとの違いから使い所まで](https://zenn.dev/kg_filled/articles/9c557184c13a52) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [Qwen3-TTSでオリジナルキャラの声を作る ― VoiceDesign → VoiceClone で動画ナレーション](https://zenn.dev/nyaruko_ai/articles/2026-02-06-qwen3-tts-voice-design-clone) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [AIグルーヴシーケンサーを作る：AI-DLCインセプション完了編](https://zenn.dev/toru_k/articles/0005-groove-sequencer-ai-dlc-2nd) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [5-⑧[AI][Kaggle][python]Kaggle入門(データの可視化 8.独自のノートブックを作成する)](https://zenn.dev/rg687076/articles/a3ea29523d550c) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [AIエージェントに社員証を渡す時代。OpenAI Frontierの全貌](https://zenn.dev/kei31ai/articles/20260206-openai-frontier) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [5-⑦[AI][Kaggle][python]Kaggle入門(データの可視化 7.最終プロジェクト)](https://zenn.dev/rg687076/articles/d52e3c07b2b019) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [AIによって思考が奪われる](https://zenn.dev/katsudon08/articles/b2dbb7685f057f) *(Zenn – トピック AI)*
