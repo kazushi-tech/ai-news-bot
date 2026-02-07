@@ -27081,3 +27081,35 @@
 - [ ] 2026-02-07 [なぜ最高裁判所裁判官国民審査の情報を個人でまとめたのか](https://zenn.dev/clevique/articles/b8672c32702329) *(Zenn – トピック AI)*
 - [ ] 2026-02-07 [分からないままでも作り続けている個人開発者としての自己紹介](https://zenn.dev/clevique/articles/e7619305acf298) *(Zenn – トピック AI)*
 - [ ] 2026-02-07 [【後編】阿頼耶識システム公開リファレンスアーキテクチャ：長期記憶・自律監査・インフラ設計](https://zenn.dev/dosanko_tousan/articles/1f9cd157db0347) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-07T18:17:18.428Z
+- [ ] 2026-02-07 [Battle of the chatbots: Anthropic and OpenAI go head-to-head over ads in their AI products](https://www.theguardian.com/technology/2026/feb/07/ai-chatbots-anthropic-openai-claude-chatgpt) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-07 [Rage against the machine: a California community rallied against a datacenter – and won](https://www.theguardian.com/us-news/2026/feb/07/california-monterey-park-stop-datacenter-construction) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-07 [Why has Elon Musk merged his rocket company with his AI startup?](https://www.theguardian.com/technology/2026/feb/07/why-has-elon-musk-merged-his-rocket-company-with-his-ai-startup) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-07 [Microsoft’s AI Efforts Are Faceplanting](https://futurism.com/artificial-intelligence/microsoft-ai-efforts-faceplanting) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-07 [The Reviews are in on Darren Aronofsky’s AI-Generated Show, and May We Just Say: “Yikes”](https://futurism.com/artificial-intelligence/aronofsky-ai-show-reviews) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-07 [Bots on Moltbook Are Selling Each Prompt Injection “Drugs” to Get “High”](https://futurism.com/artificial-intelligence/moltbook-digital-drugs) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-07 [Anthropic Insiders Afraid They’ve Crossed a Line](https://futurism.com/artificial-intelligence/anthropic-agents-automation) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-07 [Man Wakes Up Homeless, Realizes He Fell Into AI Psychosis That Destroyed His Entire Life](https://futurism.com/artificial-intelligence/ai-psychosis-man-wakes-up-homeless) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-07 [Netflix’s Animated ‘Ghostbusters’ Movie Shows Signs of Life](https://gizmodo.com/netflixs-animated-ghostbusters-movie-shows-signs-of-life-2000719265) *(Gizmodo – Technology)*
+- [ ] 2026-02-07 [Warner Bros. Magically Morphs ‘Clayface’ and ‘Practical Magic 2’ Dates](https://gizmodo.com/warner-bros-magically-morphs-clayface-and-practical-magic-2-dates-2000719236) *(Gizmodo – Technology)*
+- [ ] 2026-02-07 [Analogue unearths N64 prototype colors for its limited edition 3D console](https://www.engadget.com/gaming/nintendo/analogue-unearths-n64-prototype-colors-for-its-limited-edition-3d-console-171923894.html?src=rss) *(Engadget)*
+- [ ] 2026-02-07 [NASA is sending Crew-12 astronauts to the ISS on February 11](https://www.engadget.com/science/space/nasa-is-sending-crew-12-astronauts-to-the-iss-on-february-11-153000139.html?src=rss) *(Engadget)*
+- [ ] 2026-02-07 [How to track your sleep and view your sleep data in Apple Health](https://www.engadget.com/mobile/smartphones/how-to-track-your-sleep-and-view-your-sleep-data-in-apple-health-130000023.html?src=rss) *(Engadget)*
+- [ ] 2026-02-07 [Engadget review recap: Shokz OpenFit Pro, Nex Playground, Sony A7 V and more](https://www.engadget.com/engadget-review-recap-shokz-openfit-pro-nex-playground-sony-a7-v-and-more-123400089.html?src=rss) *(Engadget)*
+- [ ] 2026-02-07 [ドイツの声優がネトフリ吹き替え拒否　AI訓練に使用は「自滅」（時事通信） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/769d6995cf3a7dd92effac7a40fbd9da960b106d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [Geminiの使い方完全ガイド｜仕事が劇的に速くなる5つの活用術【初心者向け】 \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2602-5-ways-to-use-google-gemini-to-streamline-your-workday/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [GitHub - stablyai/agent-slack: Slack automation CLI for AI agents](https://github.com/stablyai/agent-slack) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [Debian、LLMスクレイピング攻撃でCIデータの公開閲覧を制限 \| gihyo.jp](https://gihyo.jp/article/2026/02/daily-linux-260206) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [フロンティアモデル「Claude Opus 4.6」および「GPT-5.3-Codex」がリリース ——ソフトウェア開発はAgentic Engineeringへ \| gihyo.jp](https://gihyo.jp/article/2026/02/claude-opus-4.6-and-gpt-5.3-codex) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [「IIJmioの15GBプラン値下げ」、その背景はユーザーの“中容量シフト”――谷脇社長が語る](https://k-tai.watch.impress.co.jp/docs/news/2084235.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [依存関係0で超軽量なJS/TS製スケジューラー Croner を使ってみる - プププなテクブ](https://blog.inorinrinrin.com/entry/2026/02/07/164025) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [【Mac容量不足】エンジニアのストレージ最適化ガイド](https://zenn.dev/ykbone/articles/080ad365426628) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [日本のAI第一人者・東大松尾氏、権利侵害なら「巨大ITでも訴訟せよ」 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN0640F0W6A200C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [いま、改めて問う。「NPU」って何だ？ なぜCopilot+ PCに必要なのか？](https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2084131.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [開発環境状況確認2026](https://zenn.dev/kiyoka/articles/developenv-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [「複数AIに同じプロンプトを投げて比較する」をツール化した — SRPスキルファイル公開](https://zenn.dev/chemica_tan/articles/f17a1d4e5d9315) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [GPUなしノートPCでSLMはどこまで戦えるか？〜WSL2+Ollamaで挑む「SLM三本勝負」の記録〜](https://zenn.dev/snaga/articles/2026-02-07-slm-on-local-laptop) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [GPUなしノートPCでSLMはどこまで戦えるか？〜WSL2+Ollamaで挑む「SLM三本勝負」の記録〜](https://zenn.dev/snaga/articles/2026-02-05-slm-on-local-laptop) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [なぜ、Claude Codeは、RAGを捨ててAgentic Searchを選んだのか？](https://zenn.dev/karamage/articles/2514cf04e0d1ac) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [GitLab DuoでOpenCodeが使えるようになった](https://zenn.dev/aileron/articles/gitlab-duo-opencode) *(Zenn – トピック LLM)*
