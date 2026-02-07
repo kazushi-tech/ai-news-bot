@@ -27008,3 +27008,32 @@
 - [ ] 2026-02-06 [AIエージェントに社員証を渡す時代。OpenAI Frontierの全貌](https://zenn.dev/kei31ai/articles/20260206-openai-frontier) *(Zenn – トピック AI)*
 - [ ] 2026-02-06 [5-⑦[AI][Kaggle][python]Kaggle入門(データの可視化 7.最終プロジェクト)](https://zenn.dev/rg687076/articles/d52e3c07b2b019) *(Zenn – トピック AI)*
 - [ ] 2026-02-06 [AIによって思考が奪われる](https://zenn.dev/katsudon08/articles/b2dbb7685f057f) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-07T06:26:47.718Z
+- [ ] 2026-02-07 [Anthropic’s More Than $20 Billion Funding to Close as Soon as Next Week](https://www.bloomberg.com/news/articles/2026-02-07/anthropic-s-more-than-20-billion-funding-to-close-as-soon-as-next-week) *(Bloomberg Technology)*
+- [ ] 2026-02-07 [Why I joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [チームみらいは誰の声を聞いているのか——オードリー・タンとの分岐点](https://okadaasa.theletter.jp/posts/5c5f5c60-9c33-4311-832b-c78cc34efcd8) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [「自らを開発したAI」GPT-5.3-Codexが登場。美しいLP制作から財務スライド、自律デバッグまでこなす究極のエージェント](https://techfeed.io/entries/698550f179175633b6372309) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [米アマゾン「アレクサ＋」公開　プライム会員は無料](https://ascii.jp/elem/000/004/371/4371782/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-07 [セキュリティを大幅強化、驚きを隠せない次期「Ubuntu 26.04」の全容](https://japan.zdnet.com/article/35243565/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [Googleフォトを開いたら例のお節介機能で数日前に起きた悲惨極まりない写真がピックアップされブチギレ「思い出を振り返りましょうじゃねえんだよ💢💢💢」](https://togetter.com/li/2660566) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [Visual Studio Code (VS Code)のオススメ設定と拡張機能の紹介](https://zenn.dev/yutotnh/articles/1577b6dc5ab7d9) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [Ubuntu 26.04 LTS（resolute）の開発;Snapshot 3のリリースとArm64向けSteam Snap、25.04のサポート終了、注目すべきセキュリティー的な視点 \| gihyo.jp](https://gihyo.jp/admin/clip/01/ubuntu-topics/202602/06) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [AI「Grok」のディープフェイク騒動、倫理後回しの投資回収に危うさ - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN3019Q0Q6A130C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [【自己分析】Geminiの「@Google Workspace」で仕事の振り返りが劇的に変わる！活用術｜クラウドテクノロジーブログ｜ソフトバンク](https://www.softbank.jp/biz/blog/cloud-technology/articles/202602/google-workspace-gemini-review/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [KDDI、楽天モバイルとの「ローミング重複エリア」を順次終了　松田社長が言及](https://www.itmedia.co.jp/mobile/articles/2602/06/news131.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [【セキュリティ ニュース】ウェブサーバ「NGINX」のTLSプロキシ利用時に応答改ざんのおそれ（1ページ目 / 全1ページ）：Security NEXT](https://www.security-next.com/180635) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [AirPodsは「再設定」で化ける。毎日の通勤や仕事がラクになる10個のハック \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2602hacks-every-airpods-user-should-know/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [アップル「iPhone 17」店頭販売中止　オンライン経由に限定](https://ascii.jp/elem/000/004/372/4372265/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [面白すぎて危険すぎ！ PCを“勝手に動かす”AI、OpenClaw（旧Moltbot／Clawdbot）とは (1/4)](https://ascii.jp/elem/000/004/370/4370464/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [大学生は『競プロ』と『kaggle』をやろう！](https://zenn.dev/epicai_techblog/articles/7d870b39f470a7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [【連載#4】Raspberry Pi × FlutterでフィジカルAI：推論基盤入門（TensorFlow Lite/TFLite)](https://zenn.dev/docbrown/articles/211755543fd086) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [なぜ、「AI時代＝裏技が通用しない時代」なのか？](https://zenn.dev/pdfractal/articles/5db7eeeb208933) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [リリースされたClaude Opus 4.6はパワポを出力してくれた](https://zenn.dev/shintaroamaike/articles/7d721082dd3887) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [非エンジニアがClaude Codeで2週間でローグライクRPGを作った話](https://zenn.dev/yurukusa/articles/fc378dfbb37a5b) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [e-Stat 17分野横断分析の衝撃：AIが示す日本の真の姿](https://zenn.dev/shironegi/articles/pgnr6cu48mmdop) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [【Sim-To-Real実践】AIはどうやって「バランス感覚」を学ぶのか？遺伝アルゴリズムによる自己進化（実装編）](https://zenn.dev/sanottti/articles/sim-to-real-02-evolution) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [正直なAI実装の欲求：TOPSを超えた議論に向けて](https://zenn.dev/koyogi/books/5eeeacc18427b2) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [SAM3のcross-image推論には欠陥があるらしい](https://zenn.dev/watanko/articles/354a792205e794) *(Zenn – トピック AI)*
+- [ ] 2026-02-06 [Kaggle S6E2参加記：GitHub連携 + W&B + GPU 3モデルアンサンブルのワークフロー](https://zenn.dev/shogaku/articles/kaggle-s6e2-github-wandb-gpu-workflow) *(Zenn – トピック 機械学習)*
