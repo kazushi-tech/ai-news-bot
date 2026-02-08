@@ -27187,3 +27187,40 @@
 - [ ] 2026-02-07 [選ばなかった「もしも」を歩く【あるく🚶パラレル】](https://zenn.dev/i_icc/articles/2a1107e5fabab5) *(Zenn – トピック AI)*
 - [ ] 2026-02-07 [curl \| bash を安全にするCLIフィルタ「lgtmit」を作った](https://zenn.dev/mitzh/articles/b48aba1a96500a) *(Zenn – トピック AI)*
 - [ ] 2026-02-07 [YouTubeショートが邪魔すぎたので消すChrome拡張を作った](https://zenn.dev/ktg/articles/e9a24adf14e8bc) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-08T12:20:34.280Z
+- [ ] 2026-02-08 [What’s the Difference Between SpaceX’s Starlink, Amazon Leo, and Blue Origin’s TeraWave?](https://gizmodo.com/whats-the-difference-between-spacexs-starlink-amazon-leo-and-blue-origins-terawave-2000719162) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [Geminiの快進撃がとまらない。アクティブユーザー数が、ChatGPTまであと一歩](https://www.gizmodo.jp/2026/02/googles-gemini-3-release-won-over-more-than-100-million-new-active-users.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [AIスライドデザインを生成する仕組みを社内共有する](https://speakerdeck.com/kenichiota0711/aisuraitotesainwosheng-cheng-surushi-zu-miwoshe-nei-gong-you-suru) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [それでも外部キー制約は必要ない / #fk_night でしゃべってきました](https://osyoyu.com/blog/2026/02/08/165954) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [「患者のこと考えろボケ」このゲーミング輸液ポンプの設計したバカをぶん殴ってやりたい](https://togetter.com/li/2661340) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [イベント履歴式ドメインモデル（イベントソーシング）とは何か - ENECHANGE Developer Blog](https://tech.enechange.co.jp/entry/2026/02/06/125540) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [Fluorite Game Engine](https://fluorite.game/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [GitHub - mitchellh/vouch: A contributor trust management system based on explicit vouches to participate.](https://github.com/mitchellh/vouch) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [ドイツの声優がネトフリ吹き替え拒否　ＡＩ訓練に使用は「自滅」：時事ドットコム](https://www.jiji.com/jc/article?k=2026020700360&g=int) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [「iPhoneの調子が悪いです」の文言、なぜアイホンのFAQに？　実はAppleと深く関係](https://www.itmedia.co.jp/mobile/articles/2602/08/news006.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [🔍GLM-OCR（LLM）と Tesseract を同じ画像で比較してわかったこと](https://zenn.dev/tktomaru/articles/b4d78fa2eeeda9) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [AI足軽8人をCodexに転属させたら全員「許可ください」と止まったので、フルオートの嘘を暴いたら、ぶつぶつ独り言を始めた](https://zenn.dev/shio_shoppaize/articles/shogun-codex-mutiny) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [週刊AI駆動開発 - 2026年02月08日](https://zenn.dev/pppp303/articles/weekly_ai_20260208) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [NeoTechPark x Telkom University on Applied AI Collaboration](https://zenn.dev/neotechpark/articles/c8d6c882a26feb) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [【2026年2月最新】AI技術の新たな夜明け：量子超越と医療AIの進化](https://zenn.dev/yu_ga/articles/ai-news-20260208) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Antigravityでプログラミングがもっと楽しくなった話](https://zenn.dev/yanother/articles/7df63be69100bf) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Claude Codeで検証：Opus 4.6/4.5の差は“品質”に出た](https://zenn.dev/pwrengineer/articles/opus-4-6vsopus-4-5) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [【PyTorch②】中間層と活性化関数を導入して、非線形な関数を学習する](https://zenn.dev/kouch/articles/f9f7d8b1bc483f) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [なぜ、巷でよく言われる「AIは鏡」の真の意味がわかっている人は人口の1割程度なのか？](https://zenn.dev/pdfractal/articles/45446de7dbc3dd) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Claude Code × Agent Teamsで1日5本のZenn記事を書いた方法](https://zenn.dev/correlate/articles/ai-content-pipeline) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [【社外秘レベル】Claude Code開発者が明かした10の内部プラクティス - 99%のユーザーが知らない本当の使い方](https://zenn.dev/babushkai/articles/2026-02-01-claude-code-internal-practices) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [6-②[AI][Kaggle][python]Kaggle入門(特徴エンジニアリング 2.相互情報)](https://zenn.dev/rg687076/articles/b2ce4ad88d2883) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [【Claude Code】CLAUDE.md運用のベストプラクティス：失敗しないための7つの原則](https://zenn.dev/imohuke/articles/claude-code-best-practices-2026) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [CLAUDE.md設計ガイド - AIエージェントに環境を理解させる15セクション](https://zenn.dev/correlate/articles/claude-md-guide) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Claude Code Agent Teamsで開発タスクを並列処理した実践ガイド](https://zenn.dev/correlate/articles/agent-teams-parallel) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [毎回同じ指示、まだ手打ちしてる？ Claude Codeスキル入門](https://zenn.dev/ischca/articles/cc-guide-skill-design) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [毎回.claudeの構成を考えるのが面倒だったので自分用のボイラープレートを作った話](https://zenn.dev/neurostack_0001/articles/claude-code-boilerplate-dotclaude) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Agentic Commerce: UCP A2A サンプルを動かして生成 AI と UCP の理解を深める](https://zenn.dev/aws_japan/articles/b732e3b5d7e238) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [エージェントを増やしたら、落ち着かなくなった](https://zenn.dev/hyunnnn98/articles/4d7caf841ae85b) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [【速報】AppleがXcodeにClaude搭載！AIがアプリを自動で作る時代が本当に来た](https://zenn.dev/babushkai/articles/2026-02-04-xcode-claude-agent-bomb) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [デビルズアドボケイトをAI開発チームに入れたら品質が劇的に改善した話](https://zenn.dev/correlate/articles/devils-advocate-ai-team) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [AGI-Quantum Orchestrator v8.2.0 Genesis-Tesseract Design Document](https://zenn.dev/hicouncil/books/4bba7d08f8b025) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-08 [Embeddingについて](https://zenn.dev/k_1090/articles/7b2c7c4f765916) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-08 [RLHF as Defilement](https://zenn.dev/dosanko_tousan/articles/70f1393905fdf3) *(Zenn – トピック 機械学習)*
