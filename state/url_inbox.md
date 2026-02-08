@@ -27224,3 +27224,47 @@
 - [ ] 2026-02-08 [AGI-Quantum Orchestrator v8.2.0 Genesis-Tesseract Design Document](https://zenn.dev/hicouncil/books/4bba7d08f8b025) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-08 [Embeddingについて](https://zenn.dev/k_1090/articles/7b2c7c4f765916) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-08 [RLHF as Defilement](https://zenn.dev/dosanko_tousan/articles/70f1393905fdf3) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-08T18:18:31.075Z
+- [ ] 2026-02-08 [US companies accused of ‘AI washing’ in citing artificial intelligence for job losses](https://www.theguardian.com/us-news/2026/feb/08/ai-washing-job-losses-artificial-intelligence) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-08 [Jeffrey Epstein Had a Bizarre Obsession With “Improving” Human DNA, and He Was Emailing With Top Scientists About It](https://futurism.com/health-medicine/epstein-improve-human-dna) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-08 [SpaceX Gives $1 Million Prize to Literal Nazi Who Has Bragged About His Profound Racism](https://futurism.com/artificial-intelligence/spacex-awards-prize-nazi) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-08 [When AI goes haywire: the case of the skyscraper and the slide trombone](https://theconversation.com/when-ai-goes-haywire-the-case-of-the-skyscraper-and-the-slide-trombone-272763) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-08 [Ocado May Cut Up to 1,000 Jobs in Cost-Cutting Drive: Times](https://www.bloomberg.com/news/articles/2026-02-08/ocado-may-cut-up-to-1-000-jobs-in-cost-cutting-drive-times) *(Bloomberg Technology)*
+- [ ] 2026-02-08 [Apple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs](https://www.bloomberg.com/news/newsletters/2026-02-08/apple-readies-iphone-17e-new-siri-entry-level-ipad-ipad-air-and-macbook-pro-mldr3hpk) *(Bloomberg Technology)*
+- [ ] 2026-02-08 [‘Black Mirror’ Episode Comes to Life in Alleged $66 Million Crypto Theft Attempt](https://gizmodo.com/black-mirror-episode-comes-to-life-in-alleged-66-million-crypto-theft-attempt-2000719314) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [Tim Cook Reportedly Reassures Apple Employees That He Doesn’t Want His Friend Trump to Deport Them](https://gizmodo.com/tim-cook-trump-immigration-disagreement-lobbying-2000718266) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [The New ‘Star Wars’ Black Figure Unleashes Lord Starkiller](https://gizmodo.com/the-new-star-wars-black-figure-unleashes-lord-starkiller-2000719270) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [Building a Budget Gaming PC in 2026 Is a Pain in the Ass](https://gizmodo.com/building-a-budget-gaming-pc-in-2026-is-a-pain-in-the-ass-2000719095) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [How Music Helped Inspire the Not-Musical Stars of ‘The Bride!’](https://gizmodo.com/how-music-helped-inspire-the-not-musical-stars-of-the-bride-2000719174) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [Sony’s Hawk-Eye Cameras Still Aren’t Giving Football Fans the One Thing They Want](https://gizmodo.com/sonys-hawk-eye-cameras-still-arent-giving-football-fans-the-one-thing-they-want-2000717879) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [The iPhone 17e will reportedly bring some key upgrades without raising the price](https://www.engadget.com/mobile/smartphones/the-iphone-17e-will-reportedly-bring-some-key-upgrades-without-raising-the-price-174154577.html?src=rss) *(Engadget)*
+- [ ] 2026-02-08 [How to stream the 2026 Super Bowl for free tonight: Patriots vs. Seahawks time, where to watch Super Bowl LX, start time, halftime show and more](https://www.engadget.com/entertainment/streaming/how-to-stream-the-2026-super-bowl-for-free-tonight-patriots-vs-seahawks-time-where-to-watch-super-bowl-lx-start-time-halftime-show-and-more-124512549.html?src=rss) *(Engadget)*
+- [ ] 2026-02-08 [Codex Appのいい感じの使い方](https://zenn.dev/devneko/articles/8a5f6f44adf606) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [OpenAIとNVIDIAが険悪化。AIの金回りが悪くなって泥仕合](https://www.gizmodo.jp/2026/02/all-the-messy-drama-between-openai-and-nvidia-explained.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [最近のredditは『オタクの英語を忠実にオタクの日本語に翻訳する謎の技術』が実装されていてとても助かるがどういう仕組みなんだ？](https://togetter.com/li/2661357) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [Herokuが事実上のメンテナンスモードに移行。新機能の導入よりも品質と運用の維持に重点を置くと発表](https://www.publickey1.jp/blog/26/heroku_1.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [30万人の同時アクセスに耐えたい！新サービスの盤石なリリースを支える負荷試験 / SRE Kaigi 2026](https://speakerdeck.com/genda/sre-kaigi-2026-kimura) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [総務省有識者会議が「手のひら返し」な我が国への示唆――日本を国際標準から遅れさせたのは自らの愚策のせい](https://www.itmedia.co.jp/mobile/articles/2602/08/news020.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [GitHub - tansu-io/tansu: Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake](https://github.com/tansu-io/tansu) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [マルチテナント作るならPostgres一択。アプリ層に依存しない「RLS」によるデータ隔離が最強すぎる話 - Qiita](https://qiita.com/hey_miii/items/daac2f459d2aa76206ad) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [Git 2.38 で追加されたScalarってなに？ - COLOPL Tech Blog](https://blog.colopl.dev/entry/2022/10/07/105919) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [AIで勉強はラクになる。でもラクの使い方で大きな差が開く｜じゃむまる](https://note.com/jammaru/n/ne1bdd2be595a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [世界モデルにおける分布外データ対応の方法論](https://speakerdeck.com/koukyo1994/shi-jie-moderuniokerufen-bu-wai-detadui-ying-nofang-fa-lun) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [少人数SREでマルチプロダクトを支えるPlatform設計 (2026/02/13 19:00〜)](https://genda.connpass.com/event/381253/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [相棒チャッピー構文の吹き出しスタンプ - LINE スタンプ \| LINE STORE](https://store.line.me/stickershop/product/32676742/ja) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [GitHub - pydantic/monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [事実のフィクション化：LLMが最新情報を「SFの設定」と見なす現象と3つの回避策](https://zenn.dev/imkohenauser/articles/llm-fact-fictionalization) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [生成AIと本格活用に向けて、開発の進め方をアップデートした2025年](https://zenn.dev/eno49/articles/01e6e76e1dc908) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [MCP：小さな規格の仕組みと特徴](https://zenn.dev/rhythmcan/articles/3bb5d6704359f5) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [Claude Code v2.1.32で登場した「Auto Memory」とは何か](https://zenn.dev/futoka/articles/b729a5f8bba0e2) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [LLMアプリの観測性ツール7選を比較した結果、私がLangfuseを選んだ理由](https://zenn.dev/duo3/articles/3b08b69a084227) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [GPT-3で知識が止まっている私のための、LLMアーキテクチャ進化論（2020-2026）](https://zenn.dev/yukikotani231/articles/llm-architecture-evolution-2020-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [ゼロから始めるContext Engineering](https://zenn.dev/sakasegawa/articles/65895201c59e44) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [SVD-LLM V2: SVD-LLM の改良手法](https://zenn.dev/yoshi12/articles/7584bce12f1772) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [Claude Code Agent Teamsは本当に効くのか？──「AIは増やせば賢くなる」を5つの研究で検証した](https://zenn.dev/cacc_lab/articles/911ae7af50b048) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [【Gemini】ハルシネーションを殺す自己監査プロンプト「KOKKI (克己)」を実装した話【Dual-Core Architectu】](https://zenn.dev/ginsabo/articles/9719a0173bdd5c) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [週刊AIニュース（2/3〜2/8）— Opus 4.6とCodex同日発表、SaaSpocalypse、$650B投資](https://zenn.dev/kei31ai/articles/20260208-weekly-ai-news) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [🔍GLM-OCR（LLM）と Tesseract を同じ画像で比較してわかったこと](https://zenn.dev/tktomaru/articles/glm-ocr-vs-tesseract-comparison) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [AIに仕事を任せる技術 — OpenClaw×Claude Codeで実現する自律開発ワークフロー](https://zenn.dev/imudak/articles/ai-autonomous-dev-practice) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [6-①[AI][Kaggle][python]Kaggle入門(特徴エンジニアリング 1.特徴エンジニアリングとは)](https://zenn.dev/rg687076/articles/96f85e2e4dadc6) *(Zenn – トピック AI)*
