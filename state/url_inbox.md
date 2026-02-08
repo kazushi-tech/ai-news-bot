@@ -27113,3 +27113,45 @@
 - [ ] 2026-02-07 [GPUなしノートPCでSLMはどこまで戦えるか？〜WSL2+Ollamaで挑む「SLM三本勝負」の記録〜](https://zenn.dev/snaga/articles/2026-02-05-slm-on-local-laptop) *(Zenn – トピック LLM)*
 - [ ] 2026-02-07 [なぜ、Claude Codeは、RAGを捨ててAgentic Searchを選んだのか？](https://zenn.dev/karamage/articles/2514cf04e0d1ac) *(Zenn – トピック LLM)*
 - [ ] 2026-02-07 [GitLab DuoでOpenCodeが使えるようになった](https://zenn.dev/aileron/articles/gitlab-duo-opencode) *(Zenn – トピック LLM)*
+
+## Collected on 2026-02-08T01:14:15.467Z
+- [ ] 2026-02-08 [xAI’s Babuschkin Says He Has Not Purchased London Penthouse](https://www.bloomberg.com/news/articles/2026-02-08/xai-s-babuschkin-says-he-has-not-purchased-london-penthouse) *(Bloomberg Technology)*
+- [ ] 2026-02-07 [Dorsey’s Block Cutting Up to 10% of Staff in Efficiency Push](https://www.bloomberg.com/news/articles/2026-02-07/dorsey-s-block-cutting-up-to-10-of-staff-in-efficiency-push) *(Bloomberg Technology)*
+- [ ] 2026-02-07 [Tech’s AI Push Risks a Bond Market Blowback: Credit Weekly](https://www.bloomberg.com/news/articles/2026-02-07/tech-s-ai-push-risks-a-bond-blowback-amzn-googl-msft-orcl) *(Bloomberg Technology)*
+- [ ] 2026-02-07 [‘Supergirl’ May Get a Last-Minute Musical Change](https://gizmodo.com/supergirl-may-get-a-last-minute-musical-change-2000719178) *(Gizmodo – Technology)*
+- [ ] 2026-02-07 [Charli XCX Is a Demonic Brat in Takashi Miike’s ‘Untitled Tokyo’](https://gizmodo.com/charli-xcx-is-a-demonic-brat-in-takashi-miikes-untitled-tokyo-2000719231) *(Gizmodo – Technology)*
+- [ ] 2026-02-07 [New York lawmakers introduce bill that aims to halt data center development for three years](https://www.engadget.com/big-tech/new-york-lawmakers-introduce-bill-that-aims-to-halt-data-center-development-for-three-years-224005266.html?src=rss) *(Engadget)*
+- [ ] 2026-02-07 [DOJ is investigating if Netflix used anticompetitive tactics as part of its merger probe](https://www.engadget.com/entertainment/streaming/doj-is-investigating-if-netflix-used-anticompetitive-tactics-as-part-of-its-merger-probe-210940856.html?src=rss) *(Engadget)*
+- [ ] 2026-02-07 [The State Department is scrubbing its X accounts of all posts from before Trump's second term](https://www.engadget.com/social-media/the-state-department-is-scrubbing-its-x-accounts-of-all-posts-from-before-trumps-second-term-205515745.html?src=rss) *(Engadget)*
+- [ ] 2026-02-07 [Trump Mobile’s T1 Phone is apparently still coming, but it’ll be uglier and more expensive](https://www.engadget.com/mobile/smartphones/trump-mobiles-t1-phone-is-apparently-still-coming-but-itll-be-uglier-and-more-expensive-190626835.html?src=rss) *(Engadget)*
+- [ ] 2026-02-08 [Agent Teamを使ってロールプレイ駆動開発してみよう](https://zenn.dev/sakasegawa/articles/e6a8aa168a7d19) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [Claude Code Agent Teamsが来た！さっそく使い倒して自前のOSSを滅ぼそうと思ったら……？](https://zenn.dev/nrs/articles/68840349bbdd8c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [なぜ「キヤノン」の社名は「キャノン」と書いてはいけないのか](https://japan.cnet.com/article/35243648/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [Webのしないといけないセキュリティ対策 - Qiita](https://qiita.com/murasaki1994/items/81fabafaaa1fc0e8fade) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [仕事でOutlook以外のメールソフト使ってる奴ｗｗｗｗｗｗｗｗｗｗｗｗｗ](http://www.gadget2ch.com/archives/post-267304.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [思考のスピードでマインドマップを書けるエディタを Tauri で作った](https://zenn.dev/dokusy/articles/aa7674688802c3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [Claude Code のオーケストレーション機能であるエージェントチームを試してみた](https://azukiazusa.dev/blog/trying-claude-code-agent-teams/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-07 [温度のノイズを除去してLLMの浮動均衡点（FEP）を検出する](https://zenn.dev/kuruiti_kuru00/articles/0915ff0de02238) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [マルチエージェント構築入門｜構成の全体像と3つの実装アプローチ](https://zenn.dev/yoshihiko555/articles/647d7be6d02fa1) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [n8nで学んだ：LLM Chain vs 単体呼び出し〜キャプション生成の実験結果〜](https://zenn.dev/stylus_mk86/articles/aab80b6eec40c0) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [AI Agent yagi を作った](https://zenn.dev/mattn/articles/af6b456142dafe) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [年末年始にBitNetを実装して実用性を確かめた](https://zenn.dev/yukikotani231/articles/bitnet-triton-experiments) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [暴走するRAGソクラテスと、メタ認知アーキテクチャの実装の必要性](https://zenn.dev/mizunadad/articles/14c7b5f1efab34) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [Goでllm用にtoken数を測る](https://zenn.dev/uliboooo/articles/34c111e0870e72) *(Zenn – トピック LLM)*
+- [ ] 2026-02-07 [Claude Codeでマルチエージェント自律運用システムを作った話 ── Blue/Red Team を5体のサブエージェントで回す](https://zenn.dev/yakagen/articles/ea6001f2ac33c9) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Pencil × Claude Code でデザインを Pixel Perfect に再現させるまで粘った話](https://zenn.dev/saqoosha/articles/pencil-ai-design-with-claude-code) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [カメラが画家を要らなくしなかったように、AIはエンジニアを要らなくしない?](https://zenn.dev/hmhv/articles/8ffc66e4249636) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Faceted Prompting ── 肥大化したプロンプトを5つの関心で分解する](https://zenn.dev/nrs/articles/5d19b4c8a39ecb) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [完全未経験がDX職で奮闘する話⓪](https://zenn.dev/kaithon_dx/articles/eb841fe7f771f8) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [【やってみた】AIが人間を雇う！？「Rentahuman.ai」に登録してみた感想と、詐欺案件への注意喚起](https://zenn.dev/acntechjp/articles/fb5724362b3640) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Claude Code Skills帳｜スキルに引数を渡す](https://zenn.dev/secula/articles/172643bb69733f) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Claude Code Skills帳｜Claude以外Skillsにする](https://zenn.dev/secula/articles/3ad361bf8f3aec) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [AI推進法(人工知能関連技術の研究開発及び活用の推進に関する法律)は国際競争力の遅れを挽回できるのか](https://zenn.dev/syoshida07/articles/a76ae64810a221) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Claude Code Skills帳｜スキル実行中の許可ツール設定](https://zenn.dev/secula/articles/05143993741dd7) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [【DGX Spark】ACE-Step 1.5でAI音楽生成を試す](https://zenn.dev/michy/articles/fa911b022f327f) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [OpenSpec実践ガイド: AIコーディングを仕様駆動で進める](https://zenn.dev/kosk_t/articles/openspec-practical-guide) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Claude Codeタスク管理・Agent Teams時代にSDDツールは必要か](https://zenn.dev/kosk_t/articles/ai-coding-spec-management-sdd-guide) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Claude Code Skills帳｜自動実行の禁止](https://zenn.dev/secula/articles/43d1ad37432b5b) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [月額約92万円のClaude Team プラン（41シート）が組織ごとBANされた話 ― 理由の開示なし、異議申し立ても却下](https://zenn.dev/subsub/articles/a83dc3f02eba74) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Claude Codeで「葬送のフリーレン」風チーム開発スキルを作ってみた](https://zenn.dev/michey0495/articles/claude-code-frieren-skill) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [人を見るようになってから、プロジェクトがうまく回り始めた](https://zenn.dev/nojonojo/articles/c3396ac7562871) *(Zenn – トピック AI)*
