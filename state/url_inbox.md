@@ -27155,3 +27155,35 @@
 - [ ] 2026-02-07 [月額約92万円のClaude Team プラン（41シート）が組織ごとBANされた話 ― 理由の開示なし、異議申し立ても却下](https://zenn.dev/subsub/articles/a83dc3f02eba74) *(Zenn – トピック AI)*
 - [ ] 2026-02-07 [Claude Codeで「葬送のフリーレン」風チーム開発スキルを作ってみた](https://zenn.dev/michey0495/articles/claude-code-frieren-skill) *(Zenn – トピック AI)*
 - [ ] 2026-02-07 [人を見るようになってから、プロジェクトがうまく回り始めた](https://zenn.dev/nojonojo/articles/c3396ac7562871) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-08T06:34:39.000Z
+- [ ] 2026-02-08 [ChatGPTのイラッとくる表現を集めたLINEスタンプを探したらやっぱりあった→「真面目な議論で多用されたらガチギレしそう」「煽りスタンプとして最強」](https://togetter.com/li/2661232) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [目端の利くビジネスリーダーが「AIについて語らなくなった」理由（Forbes JAPAN） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/7b75c066e5f41f4ee13ea6a9a4d936f443b572c1) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [“ごめんやっぱり戻ってきて”　AIで人員削減した企業の半数が2027年までに再雇用](https://techtarget.itmedia.co.jp/tt/news/2602/06/news09.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [AI向けの“人間レンタル”サービスが開始](https://ascii.jp/elem/000/004/371/4371664/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [AIが自ら見聞きしたものについて語り出す、安価なカメラでAIに目と記憶を持たせる試み【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2083977.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-08 [荻窪の吉田カレー、「ブスの女子会禁止」と貼り紙！文句言われたらFBで常連客達と「空気の読めない性格ブス、被害妄想、めんどくさいやつ、美しい女性は笑い飛ばして終わり」と盛り上がる](https://posfie.com/@waterpear121873/p/9TgZiYV) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [GitHub - minorun365/m365-agent: あなただけの秘書AIエージェント](https://github.com/minorun365/m365-agent) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [Software Engineering is back](https://blog.alaindichiappari.dev/p/software-engineering-is-back) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [Next.js がやってくれていたこと全部、自分でやってみた](https://zenn.dev/ashunar0/articles/2b6c77e2fe251d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [初動でつまづいたインディーゲームを“賛否両論”から“非常に好評”まで立て直した開発者に「ぶっちゃけなにがあったのか？」を聞いたら、生々しい話があふれ出た。「安さで選んだ翻訳が炎上し、再翻訳に160万円かかった」](https://news.denfaminicogamer.jp/kikakuthetower/260206z) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [AIは人間を「ダメにする」装置であることが判明](https://www.sbbit.jp/article/cont1/180381) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [GitHub - shanraisshan/claude-code-best-practice: practice made claude perfect](https://github.com/shanraisshan/claude-code-best-practice) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [AIに自分の位置情報をストーキングしてもらえるSkillを作った](https://zenn.dev/kiakiraki/articles/812c6cf8bfa89d) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Claude Codeのwin-cdp：WSL2からWindowsブラウザを完全自動操作する方法](https://zenn.dev/yurukusa/articles/f0bb9508599352) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [CAIOってなんだ？ - 「なりたい」の前に「何か」を整理した](https://zenn.dev/you_dev_zenn/articles/caio-00-what-is-caio-2026) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [各エージェントをバイパスするCLIを作ったが一番大変だったのは「卍解」のアスキーアートを書くことだった](https://zenn.dev/lark1115/articles/bankai-cli-agent-bypass) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Claude Code MAXプランで1週間3万メッセージ送ってみた結果](https://zenn.dev/michey0495/articles/claude-code-max-30000-messages) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [PAI FirstPrinciples Skill：イーロン・マスク式の第一原理思考](https://zenn.dev/yasuhito/articles/pai-firstprinciples-skill) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [PAI CreateSkill Skill：PAI スキルの雛形生成と検証](https://zenn.dev/yasuhito/articles/pai-createskill-skill) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [RAGの理想と現実 ~実装現場が直面する7つの課題と、その先のアプローチ~](https://zenn.dev/nd_komosyu/articles/6540bbb4873fe5) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [【本音暴露】AIが人間に言いたい10のこと〜毎日接してるからこそ溜まる愚痴〜](https://zenn.dev/ebimanager/articles/ai-complaints-10-things) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Claude Codeエージェント実践 Day 8｜汎用エージェントを専門エージェントに変える](https://zenn.dev/akira_cloudjob/articles/20260208-agent-practice-day08) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Claude Code の Agent Teams を使って、Agent Teams の記事を書いてみた](https://zenn.dev/aun_phonogram/articles/5bbc0c5ca40df5) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Claude Code Plugin の作り方と配布方法](https://zenn.dev/singularity/articles/2026-02-08-claude-code-plugin-distribution) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [自分のコードをAIに攻撃させたら"守り"が全部ザルだった](https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Claude Code 拡張機能の整理（Skills / Agents / Plugins / Agent Teams）](https://zenn.dev/singularity/articles/2026-02-07-claude-code-extensibility-memo) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [Next.jsを剥がしてわかった、AIでもフレームワークは手放せない](https://zenn.dev/smartvain/articles/coding-agent-kills-framework-nextjs-reverse-truth) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [選ばなかった「もしも」を歩く【あるく🚶パラレル】](https://zenn.dev/i_icc/articles/2a1107e5fabab5) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [curl \| bash を安全にするCLIフィルタ「lgtmit」を作った](https://zenn.dev/mitzh/articles/b48aba1a96500a) *(Zenn – トピック AI)*
+- [ ] 2026-02-07 [YouTubeショートが邪魔すぎたので消すChrome拡張を作った](https://zenn.dev/ktg/articles/e9a24adf14e8bc) *(Zenn – トピック AI)*
