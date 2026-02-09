@@ -27890,3 +27890,90 @@
 - [ ] 2026-02-08 [Claude Codeのチームエージェント×tmuxで並列開発を爆速化する](https://zenn.dev/devken/articles/claude-code-team-tmux) *(Zenn – トピック AI)*
 - [ ] 2026-02-08 [LangChainを学ぶ - 1. LangChainの基礎](https://zenn.dev/hkazuki/articles/07d4f9b77c285c) *(Zenn – トピック AI)*
 - [ ] 2026-02-08 [AI音声チャットアプリ画面の「ちらつき」問題を解決した話](https://zenn.dev/ryota_akiyama/articles/f266d74c576f6e) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-09T18:39:40.145Z
+- [ ] 2026-02-09 [EU threatens to act over Meta blocking rival AI chatbots from WhatsApp](https://www.theguardian.com/technology/2026/feb/09/eu-threatens-to-act-over-meta-blocking-rival-ai-chatbots-from-whatsapp) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-09 [Workers’ collectives are the bee’s knees \| Brief letters](https://www.theguardian.com/environment/2026/feb/09/workers-collectives-are-the-bees-knees) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-09 [‘We’re being turned into an energy colony’: Argentina’s nuclear plan faces backlash over US interests](https://www.theguardian.com/global-development/2026/feb/09/energy-colony-argentina-patagonia-uranium-nuclear-plan-backlash-over-us-interests) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-09 [AI Lawsuits in 2026: Settlements, Licensing Deals, Litigation](https://aibusiness.com/generative-ai/ai-lawsuits-in-2026-settlements-licensing-deals-litigation) *(AI Business)*
+- [ ] 2026-02-09 [Apple’s Budget iPhone 17e Set to Launch Within Weeks at $599](https://www.techrepublic.com/article/news-iphone-17e-rumors-launch-features-pricing/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-09 [Put the power of AI directly in your browser with BrowserCoPilot](https://www.techrepublic.com/article/browsercopilot-ai-lifetime-subscription/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-09 [OpenAI, Google, Amazon, and Meta Made AI the Star of Super Bowl LX](https://www.techrepublic.com/article/news-super-bowl-tech-ads-ai/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-09 [New Devices Might Scale the Memory Wall](https://spectrum.ieee.org/ai-and-memory-wall) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-02-09 [Claude Code Power Tips](https://www.kdnuggets.com/claude-code-power-tips) *(KDnuggets)*
+- [ ] 2026-02-09 [7 Python EDA Tricks to Find and Fix Data Issues](https://www.kdnuggets.com/7-python-eda-tricks-to-find-and-fix-data-issues) *(KDnuggets)*
+- [ ] 2026-02-09 [Alphabet Embarks on Global Bond Spree to Fund Record Spending](https://www.bloomberg.com/news/articles/2026-02-09/google-parent-alphabet-kicks-off-seven-part-us-bond-sale) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Paschi Board Member Probed Over Mediobanca Deal, Ansa Reports](https://www.bloomberg.com/news/articles/2026-02-09/paschi-board-member-probed-over-mediobanca-deal-ansa-reports) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Bitcoin's Bumpy Ride Continues Trading Around $70,000](https://www.bloomberg.com/news/videos/2026-02-09/bitcoin-s-bumpy-ride-continues-trading-around-70-000-video) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Alphabet Set to Raise $20 Billion From US Dollar Bond Sale](https://www.bloomberg.com/news/articles/2026-02-09/alphabet-set-to-raise-20-billion-from-us-dollar-bond-sale) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Oracle Shares Surge as Big Tech Spending Eases Software Worries](https://www.bloomberg.com/news/articles/2026-02-09/oracle-shares-surge-as-big-tech-spending-eases-software-worries) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Apple to Debut iPhone 17e, New iPads, Fresh Macs](https://www.bloomberg.com/news/videos/2026-02-09/apple-to-debut-iphone-17e-new-ipads-fresh-macs-video) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Alphabet’s Dollar Bond Sale Draws Over $100 Billion of Demand](https://www.bloomberg.com/news/articles/2026-02-09/alphabet-s-dollar-bond-sale-draws-over-100-billion-of-demand) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Software Selloff 'Sell Now, Ask Questions Later': Covley](https://www.bloomberg.com/news/videos/2026-02-09/software-selloff-sell-now-ask-questions-later-covley-video) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Alphabet Plans Tech’s First 100-Year Bond Since Dot-Com Era](https://www.bloomberg.com/news/articles/2026-02-09/alphabet-mandates-banks-for-rare-100-year-sterling-bond) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Microsoft Hit With Second Downgrade as Melius Warns on AI Risks](https://www.bloomberg.com/news/articles/2026-02-09/microsoft-hit-with-second-downgrade-as-melius-warns-on-ai-risks) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Musk Shifts Focus to Moon as Mars Mission Remains Years Away](https://www.bloomberg.com/news/articles/2026-02-09/musk-shifts-focus-to-moon-as-mars-mission-remains-years-away) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [WPP Set for Job Cuts After Putting Creative Units Under One Roof](https://www.bloomberg.com/news/articles/2026-02-09/wpp-set-for-job-cuts-after-putting-creative-units-under-one-roof) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Social Networks Face Big Tobacco Moment Over Addiction Claims](https://www.bloomberg.com/news/articles/2026-02-09/social-networks-face-big-tobacco-moment-over-addiction-claims) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Workday Co-Founder Returns as CEO Amid Steep Share Decline](https://www.bloomberg.com/news/articles/2026-02-09/workday-co-founder-returns-as-ceo-amid-steep-share-decline) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Alphabet Looks to Raise $15 Billion From US Bond Sale](https://www.bloomberg.com/news/videos/2026-02-09/alphabet-hope-to-raise-15-billion-from-us-bond-sale-video) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [General Atlantic Ex-Global Tech Chairman Levy Launches Startup-Focused Fund](https://www.bloomberg.com/news/articles/2026-02-09/general-atlantic-veteran-levy-launches-tech-focused-layer-global) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Italy Prosecutors Put Delivery Hero Unit Under Judicial Control](https://www.bloomberg.com/news/articles/2026-02-09/italy-prosecutors-put-delivery-hero-unit-under-judicial-control) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [This Is the Inside of the Jony Ive-Designed Electric Ferrari Luce](https://www.bloomberg.com/news/articles/2026-02-09/ferrari-luce-interior-photos-of-electric-ferrari-co-designed-by-jony-ive) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [We Saw a Huge Chunk of ‘Project Hail Mary’ and Expectations Couldn’t Be Higher](https://gizmodo.com/we-saw-a-huge-chunk-of-project-hail-mary-and-expectations-couldnt-be-higher-2000718974) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [Jony Ive Designed the Interior for Ferrari’s New EV, Take a Look Inside](https://gizmodo.com/jony-ive-designed-the-interior-for-ferraris-new-ev-take-a-look-inside-2000719731) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [Not Quantum, Not Classical: This Light-Based Computer Is Something Else Entirely](https://gizmodo.com/not-quantum-not-classical-this-light-based-computer-is-something-else-entirely-2000719687) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [The Best (and Nerdiest) Gifts to Give Your Valentine This Year](https://gizmodo.com/best-valentines-gifts-fandom-star-wars-marvel-godzilla-2000719157) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [Unable to Reach Mars, Musk Does the Most Musk Thing Possible](https://gizmodo.com/unable-to-reach-mars-musk-does-the-most-musk-thing-possible-2000719686) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [To Succeed, the Next-Gen Xbox Needs to Steal These PC Features](https://gizmodo.com/to-succeed-the-next-gen-xbox-needs-to-steal-these-pc-features-2000719649) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [Your Daily Coffee Fix Could Be a Secret Weapon Against Dementia, Study Finds](https://gizmodo.com/your-daily-coffee-fix-could-be-a-secret-weapon-again-dementia-study-finds-2000719622) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [The Hits, Misses, and Snubs of the Super Bowl 2026 Trailers](https://gizmodo.com/super-bowl-trailers-2026-best-worst-2000719348) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [The ‘Rick and Morty’ Comic Is Ending Again (for Real This Time) (Exclusive)](https://gizmodo.com/the-rick-and-morty-comic-is-ending-again-for-real-this-time-exclusive-2000716157) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [Vincent D’Onofrio Explains Why Mayor Fisk Won’t Be in ‘Spider-Man: Brand New Day’](https://gizmodo.com/vincent-donofrio-spider-man-brand-new-day-daredevil-born-again-2000719379) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [Two ‘Friday the 13th’ Movies Return to Theaters This Week](https://gizmodo.com/two-friday-the-13th-movies-return-to-theaters-this-week-2000719435) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [Get two years of NordVPN's Complete plan for 70 percent off](https://www.engadget.com/deals/get-two-years-of-nordvpns-complete-plan-for-70-percent-off-123000727.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [YouTube TV launches curated subscription packages this week](https://www.engadget.com/entertainment/tv-movies/youtube-tv-launches-curated-subscription-packages-this-week-170710000.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [Grab Apple's iPhone Air MagSafe battery while it's down to an all-time low](https://www.engadget.com/deals/grab-apples-iphone-air-magsafe-battery-while-its-down-to-an-all-time-low-144516211.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [Presidents' Day sales 2026: The best tech deals to shop early from Apple, Sony, Samsung and others](https://www.engadget.com/deals/presidents-day-sales-2026-the-best-tech-deals-to-shop-early-from-apple-sony-samsung-and-others-163000034.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [Apple's Magic Mouse drops to only $68](https://www.engadget.com/deals/apples-magic-mouse-drops-to-only-68-152708721.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [iPhone Fold rumors: Everything we know so far, including the leaked foldable design, upgrades, price and more](https://www.engadget.com/mobile/smartphones/iphone-fold-rumors-everything-we-know-so-far-including-the-leaked-foldable-design-upgrades-price-and-more-130000217.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [The first PlayStation State of Play of 2026 will air on February 12](https://www.engadget.com/gaming/playstation/the-first-playstation-state-of-play-of-2026-will-air-on-february-12-145747775.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [HBO Max is finally coming to the UK and Ireland](https://www.engadget.com/entertainment/streaming/hbo-max-is-finally-coming-to-the-uk-and-ireland-145126162.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [SpaceX is pivoting to focus on a moon base before Mars](https://www.engadget.com/science/space/spacex-is-pivoting-to-focus-on-a-moon-base-before-mars-141851264.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [Pick up the Apple Watch Series 11 while it's down to a record-low price](https://www.engadget.com/deals/pick-up-the-apple-watch-series-11-while-its-down-to-a-record-low-price-151616994.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [Discord will soon require age verification to access adult content](https://www.engadget.com/social-media/discord-will-soon-require-age-verification-to-access-adult-content-140000218.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [A four-pack of first-gen AirTags is on sale for $64](https://www.engadget.com/deals/a-four-pack-of-first-gen-airtags-is-on-sale-for-64-163619122.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [Anker's latest 45W Nano charger with smart display drops to $30](https://www.engadget.com/deals/ankers-latest-45w-nano-charger-with-smart-display-drops-to-30-160707575.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [Get 33 percent off Samsung's 512GB microSD Express card right now](https://www.engadget.com/deals/get-33-percent-off-samsungs-512gb-microsd-express-card-right-now-143849525.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [Inside Ferrari's Luce EV: The Jony Ive interior is here](https://www.engadget.com/transportation/evs/inside-ferraris-luce-ev-the-jony-ive-interior-is-here-130000211.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [Transformers.js v4 Preview: Now Available on NPM!](https://huggingface.co/blog/transformersjs-v4) *(Hugging Face Blog)*
+- [ ] 2026-02-09 [We mourn our craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [個人的定番macアプリ6選](https://zenn.dev/kawarimidoll/articles/b120d56a12b3f0) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [<小ネタ>Claude Code で常時コンテキスト使用量を把握できるようにしてみた \| DevelopersIO](https://dev.classmethod.jp/articles/less-than-greater-than-claude-code/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [ソニーもレグザもBDレコーダー生産終了、実質パナソニックのみに。それでもBDは死なない理由 - Phile-web](https://www.phileweb.com/review/column/202602/09/2909.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [TABWEE T50のストレージ修正アップデートが配信。検証した結果64GB以上使う事はできず](https://garumax.com/tabwee-t50-update-but-could-not-use-over-64gb-rom) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [モーダルやツールチップで役立つ! HTMLのcommandとinterestfor属性を使って、JSを減らすスマートなUI開発 - ICS MEDIA](https://ics.media/entry/260209/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [エンジニアのコミュニケーションについて - Qiita](https://qiita.com/K0u1/items/88c00a75857c0582f920) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [グーグルが中国企業に致命的打撃、大規模サイバー兵器に関連 \| ウォール・ストリート・ジャーナル日本版から \| ウォール・ストリート・ジャーナル日本版 \| 毎日新聞「経済プレミア」](https://mainichi.jp/premier/business/articles/20260201/biz/00m/020/002000c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [【緊急警告】OpenClawに341個の悪意あるスキルが発見！あなたの仮想通貨が盗まれている可能性](https://zenn.dev/babushkai/articles/2026-02-03-openclaw-security-bomb) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [AIに「マイクロマネジメント」していませんか？──AI疲れと認知負荷の視点から考える](https://zenn.dev/sumiyoshi/articles/3c8154156f9cdd) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [Everything Claude Code (ECC) チートシート](https://zenn.dev/shimo4228/articles/ecc-cheatsheet) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [LLM性能比較テスト(OSS編) - ローカルモデルを試していたら魔法少女が爆誕した話](https://zenn.dev/yui_d/articles/local-llm-benchmark-magic-girl) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [Writeup: 2026/2 防衛省サイバーコンテストにCTF歴3ヶ月の初心者が出場してみた part2(For,Prg,Misc,NW)](https://zenn.dev/snomata/articles/89463f01fa05fc) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [Claude × Notion API 自動化レシピ集【実践10パターン】](https://zenn.dev/imudak/articles/claude-notion-automation-recipes) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [AIコーディングのベストプラクティスを読み漁って分かった、本当に重要な4つの原則](https://zenn.dev/epicai_techblog/articles/7bf1e878061ef5) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [なぜ業務チャットにLangGraphのSupervisor Agentが必要だったのか](https://zenn.dev/zhu_tech/articles/48d8e63f2fc085) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [GitHub Copilot カスタマイズ方法の解釈](https://zenn.dev/mcc_techblog/articles/github-copilot-custom-01) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [GitHub Copilot Planモードの本質を切る](https://zenn.dev/mcc_techblog/articles/github-copilot-technich-01) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [PAI Prompting Skill：プロンプトを書くためのプロンプト](https://zenn.dev/yasuhito/articles/pai-prompting-skill) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [個人開発マネタイズ100本ノック #002 — 最初の1週間で7パターン投下した話](https://zenn.dev/imudak/articles/monetize-100-patterns-002) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [Everything Claude Codeで初めて本格的な開発を始めた初心者の10日間](https://zenn.dev/shimo4228/articles/ecc-journey-part1) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [How to Create Music for YouTube Videos with AI Music Generator](https://zenn.dev/aitool/articles/da18111c474051) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [AI駆動開発時代のエンジニアスキルセット完全ガイド](https://zenn.dev/t_hirai/articles/ai-driven-dev-engineer-skillset-guide) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [Claude Code Agent Teamsに頼んでみた「> 個人開発アプリの技術負債を整理して対応優先順位を出して」](https://zenn.dev/antway/articles/3dac43c05a8e8c) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [Claude Codeにも分業させよう 〜サブエージェントの使い方〜](https://zenn.dev/ischca/articles/cc-guide-subagent-design) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [Codexが真面目すぎて読者に「愛想がない」とバレたので、Claudeが殴り込んで笑いの特訓をしたら実話が最強だった](https://zenn.dev/shio_shoppaize/articles/shogun-codex-nori) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [【マーフィー本】1.2節に出てくる「アルファベット3文字」の略語を完全攻略する (ERM, NLL, MLE...)](https://zenn.dev/yuuuuuushi/articles/879fd2e49b20ef) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-09 [フォントはベクター形式でも文字認識できるか？](https://zenn.dev/fjktkm/articles/2ee64f88276068) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-09 [多重共線性](https://zenn.dev/dmmdata/articles/3d1dd0b204efe3) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-09 [AWSで株価予測アプリを作ってみる](https://zenn.dev/rioichi/articles/88164acf120491) *(Zenn – トピック 機械学習)*
