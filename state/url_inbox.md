@@ -27268,3 +27268,71 @@
 - [ ] 2026-02-08 [🔍GLM-OCR（LLM）と Tesseract を同じ画像で比較してわかったこと](https://zenn.dev/tktomaru/articles/glm-ocr-vs-tesseract-comparison) *(Zenn – トピック LLM)*
 - [ ] 2026-02-08 [AIに仕事を任せる技術 — OpenClaw×Claude Codeで実現する自律開発ワークフロー](https://zenn.dev/imudak/articles/ai-autonomous-dev-practice) *(Zenn – トピック AI)*
 - [ ] 2026-02-08 [6-①[AI][Kaggle][python]Kaggle入門(特徴エンジニアリング 1.特徴エンジニアリングとは)](https://zenn.dev/rg687076/articles/96f85e2e4dadc6) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-09T01:00:47.469Z
+- [ ] 2026-02-08 [Worried AI means you won’t get a job when you graduate? Here’s what the research says](https://theconversation.com/worried-ai-means-you-wont-get-a-job-when-you-graduate-heres-what-the-research-says-274735) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-09 [Samsung Stock Rises After Report on Mass Production of AI Chips](https://www.bloomberg.com/news/articles/2026-02-09/samsung-stock-rises-after-report-on-mass-production-of-ai-chips) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [KDDI Shares Sink on $1.6 Billion Hit From Probe Into Fake Sales](https://www.bloomberg.com/news/articles/2026-02-09/kddi-shares-sink-on-1-6-billion-hit-from-probe-into-fake-sales) *(Bloomberg Technology)*
+- [ ] 2026-02-08 [YouTube Is Trying to Solve TV’s Biggest Problem: Screentime](https://www.bloomberg.com/news/newsletters/2026-02-08/youtube-to-offer-sports-only-tv-package-at-a-22-discount) *(Bloomberg Technology)*
+- [ ] 2026-02-08 [Montage Set to Debut After $902 Million Hong Kong Share Sale](https://www.bloomberg.com/news/articles/2026-02-08/montage-set-to-debut-after-902-million-hong-kong-share-sale) *(Bloomberg Technology)*
+- [ ] 2026-02-08 [Homegrown Startups Outperform Returnee Tech Talent, Study Shows](https://www.bloomberg.com/news/articles/2026-02-08/homegrown-startups-outperform-returnee-tech-talent-study-shows) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [‘The Super Mario Galaxy Movie’ Levels Up With a Super Bowl Spot](https://gizmodo.com/the-super-mario-galaxy-movie-levels-up-with-a-super-bowl-spot-2000716842) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [The New ‘Mandalorian and Grogu’ Teaser Is All About the Journey](https://gizmodo.com/mandalorian-and-grogu-trailer-star-wars-super-bowl-2000716734) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [The New ‘Disclosure Day’ Trailer Starts to Reveal Its Alien Mystery](https://gizmodo.com/the-new-disclosure-day-trailer-starts-to-reveal-its-alien-myster-2000716765) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [Sounds Like Gore Verbinksi’s ‘BioShock’ Movie Would’ve Been For the Sickos](https://gizmodo.com/sounds-like-gore-verbinksis-bioshock-movie-wouldve-been-for-the-sickos-2000719315) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [Countries Across Europe Take Action to Ban Social Media for Minors](https://gizmodo.com/countries-across-europe-take-action-to-ban-social-media-for-minors-2000719321) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [We Would Die for This Final ‘Project Hail Mary’ Trailer](https://gizmodo.com/we-would-die-for-this-final-project-hail-mary-trailer-2000718941) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [Alex Ross Takes Marvel to New Dimensions in New Graphic Novel](https://gizmodo.com/alex-ross-takes-marvel-to-new-dimensions-in-new-graphic-novel-2000719285) *(Gizmodo – Technology)*
+- [ ] 2026-02-08 [The final trailer for Project Hail Mary is here and it's an emotional ride](https://www.engadget.com/entertainment/tv-movies/the-final-trailer-for-project-hail-mary-is-here-and-its-an-emotional-ride-213444765.html?src=rss) *(Engadget)*
+- [ ] 2026-02-08 [AT&T's budget-friendly phone for kids was designed with parental controls in mind](https://www.engadget.com/mobile/smartphones/atts-budget-friendly-phone-for-kids-was-designed-with-parental-controls-in-mind-202200139.html?src=rss) *(Engadget)*
+- [ ] 2026-02-08 [We may see Apple's new iPads and MacBooks in only a matter of weeks](https://www.engadget.com/computing/we-may-see-apples-new-ipads-and-macbooks-in-only-a-matter-of-weeks-192953977.html?src=rss) *(Engadget)*
+- [ ] 2026-02-08 [Steam now lets developers display the exact date of when their game leaves Early Access](https://www.engadget.com/gaming/pc/steam-now-lets-developers-display-the-exact-date-of-when-their-game-leaves-early-access-190413701.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [製造業の「基幹」はMES、古河電工は工場データのAI-Readyを目指す](https://xtech.nikkei.com/atcl/nxt/column/18/01159/012900078/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [中国主導が固まる蓄電池産業構造で日本の戦略は成立するか](https://xtech.nikkei.com/atcl/nxt/column/18/02421/012800111/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [NVIDIAとブロードコム、光電融合用3次元IC　インテルはUCIe準拠回路](https://xtech.nikkei.com/atcl/nxt/column/18/03421/012600005/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [パソコンにLM Studioを導入、UIと4つの機能を把握](https://xtech.nikkei.com/atcl/nxt/column/18/03469/011600001/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [ロボットの殴り合いに熱気、フィジカルAI盛況に垣間見えた人の性（さが）](https://xtech.nikkei.com/atcl/nxt/column/18/01111/020400075/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [NECPCが「高性能Androidタブレット」発表　若年層に照準、鍵はPCとの連携](https://xtech.nikkei.com/atcl/nxt/column/18/00086/00387/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [MSアカウントの設定同期は余計なお世話？　会社と自宅で最適設定は異なる](https://xtech.nikkei.com/atcl/nxt/column/18/03457/122600004/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [2029年の発行を目指す「デジタルユーロ」、店舗や銀行に対応を義務化](https://xtech.nikkei.com/atcl/nxt/column/18/01679/122200263/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [Azureの基本概念を理解しよう、性能選択で大きく変わるコスト](https://xtech.nikkei.com/atcl/nxt/column/18/03485/020400001/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [人月商売のIT業界は生成AIで崩壊する、実は最も困るのは客のIT部門だぞ](https://xtech.nikkei.com/atcl/nxt/column/18/00148/020400420/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [理研が創薬・医療研究の「マルチモーダルAI」開発、26年3月に一部を公開](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11458/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [ネットワーク技術で存在感増すNVIDIA、「既存のイーサネットでは不十分」](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11460/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [トライアルGOが目指すAI時代の新スーパー、変革するのは小売りの全部](https://xtech.nikkei.com/atcl/nxt/column/18/03486/020500001/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [AIは日本企業にとって「完璧な結婚相手」、米GensparkのCEOが見据える未来](https://xtech.nikkei.com/atcl/nxt/column/18/03076/020400022/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [グーグルがパスキーを「最も簡単で安全」と言い切る根拠、パスワードとの差](https://xtech.nikkei.com/atcl/nxt/column/18/03490/020500002/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [テスラは実現できるか、3万ドルのサイバーキャブとオプティマスの工場稼働](https://xtech.nikkei.com/atcl/nxt/column/18/03440/012100006/) *(日経クロステック IT)*
+- [ ] 2026-02-08 [ChatGPTで“存在しない判例”を引用　米国の弁護士に制裁、出禁や罰金](https://www.itmedia.co.jp/aiplus/articles/2602/09/news039.html) *(ITmedia AI＋)*
+- [ ] 2026-02-08 [「Claude Opus 4.6」に2.5倍速で利用料6倍の「fast mode」、リサーチプレビューとして登場](https://www.itmedia.co.jp/aiplus/articles/2602/09/news063.html) *(ITmedia AI＋)*
+- [ ] 2026-02-08 [【Excelで学ぶデータ分析】内向的な人は感受性の幅が広いのか？［架空事例］（分布のばらつきの検定）](https://atmarkit.itmedia.co.jp/ait/articles/2602/09/news009.html) *(ITmedia AI＋)*
+- [ ] 2026-02-09 [日本国旗を踏みつけた写真を投稿した「中道改革連合支持者」はなりすましじゃないかな - 電脳塵芥](https://nou-yunyun.hatenablog.com/entry/2026/02/08/120000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [PostgreSQLだけで日本語全文検索を実現する - ParadeDBのBM25検索を実測で検証した](https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [「State of JavaScript 2025」公開。フロントエンドライブラリはReactがシェアを伸ばして1位、ビルドツールはついにwebpackにviteが追いつく](https://www.publickey1.jp/blog/26/state_of_javascript_2025react1webpackvite.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [「フレッツ 光25G」を実現する仕組みは？　今後のエリア展開は？　NTT東日本に聞いて分かった新サービスの正体【イニシャルB】](https://internet.watch.impress.co.jp/docs/column/shimizu/2079761.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [聞きづらい人にならないための技術](https://zenn.dev/idapan/articles/af819fa822c090) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [腑に落ちない人のための多重共線性（マルチコ） - Qiita](https://qiita.com/Mark-N/items/6b56ecbecf8140ec0dbb) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [ESLint v10.0.0 released - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2026/02/eslint-v10.0.0-released/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [【5分で把握】Go 1.26 実務で使える3つの新機能](https://zenn.dev/kudotaka0421/articles/93981ea0e0ce61) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [Amazon ECR が、ストレージ最適化とプッシュパフォーマンス向上のためにリポジトリ間レイヤー共有のサポートを開始 - AWS](https://aws.amazon.com/jp/about-aws/whats-new/2026/01/amazon-ecr-cross-repository-layer-sharing/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [AIに予想させてみた 前提となる日本型パターン（戦前から不変） あの意見が..](https://anond.hatelabo.jp/20260208184523) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [Claude Opus 4.6 × Vertex AI 完全ガイド：Claude Code を GCP でセキュアに使い倒す](https://zenn.dev/google_cloud_jp/articles/b65dc4d6df7f34) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [AIで情報検索すると従来のウェブ検索に比べて身につく知識が減る可能性がある](https://gigazine.net/news/20260208-learning-with-ai-shallower-knowledge/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-08 [初めて作るオレオレAIデータセンター②：  CRS812-8DS-2DQ-2DDQ-RM で 4つのGB10チップ を繋げる](https://zenn.dev/munakatakm/articles/106556cbbd75d6) *(Zenn – トピック LLM)*
+- [ ] 2026-02-08 [ClawRouterの技術解説：LLMルーティングで推論コスト削減](https://zenn.dev/demio_se/articles/blockrunai-clawrouter-20260208) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Devinをよりよく使うための検討Tips](https://zenn.dev/yuki_tech/articles/7e46d2d1cf660e) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [「"また同じバグを倒すの？" "ええ、でも今度はパーティで"」- Claude Code・Codex・Gemini でマルチエージェント開発](https://zenn.dev/hiraoku/articles/c2be8443771643) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [AI時代の大学教育改革：講義も試験も変わらなければ生き残れない理由](https://zenn.dev/headwaters/articles/5e63a8413d514b) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Claude Code Agent Teams の気になるコストと性能 -- Solo vs Team の実験記録](https://zenn.dev/storehero/articles/1ecfe362962766) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Agent TeamsとHooksの統合で分かったこと](https://zenn.dev/tarouimo/articles/9aace19fa1c271) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [他人の戦国AI将軍が好きすぎてモニターアプリを勝手に作ったら、「足軽は切腹できない」という歴史的事実が判明した](https://zenn.dev/tutupizizizi/articles/shogun-monitor-app) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [AI導入について考えていたら、失敗の大切さに気づいた話](https://zenn.dev/lamb/articles/e20a489dc8d12b) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Zapierからn8nへ乗り換えた](https://zenn.dev/axelspace/articles/5dd55da10f6bc4) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Claude Codeエージェント実践 Day 9｜bq CLI コマンドと MCP を追加する](https://zenn.dev/akira_cloudjob/articles/20260209-agent-practice-day09) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [自分の「お腹の敵」を見つけるアプリ『Foody Note』](https://zenn.dev/hal1986/articles/20260203-hackathon-v4) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [【AI駆動開発】Agent Teams に企画段階から全てを任せてアプリ開発してみた。](https://zenn.dev/yokkomystery/articles/3d83f8dba1cd42) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [AIにブラウザ操作を任せる実践ガイド — WSL × Chrome拡張 × BOOTH出品自動化](https://zenn.dev/imudak/articles/ai-browser-automation-practice) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [UiPathのXAMLから仕様を取得する——AIプロンプトで解析・Mermaid化する手順](https://zenn.dev/ukiajp/articles/uipath-xaml-mermaid) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [【実験計画】同一FPGA上における CPU / GPU / NPU / TPU 最小構造の同条件比較実験](https://zenn.dev/practicalspirit/articles/e04e7c8844ad20) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [AIO時代の技術文書設計ガイド - 実証研究に基づく実践](https://zenn.dev/fumi_shiki/articles/04-aio-technical-writing-guide-2026) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [【Zed】で始めるAIエージェント開発環境構築](https://zenn.dev/fumi_shiki/articles/03-zed-editor-ai-agent-setup-2026) *(Zenn – トピック AI)*
