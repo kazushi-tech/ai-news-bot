@@ -27822,3 +27822,71 @@
 - [ ] 2026-02-08 [Claude Code の Agent Teams でサンプルアプリの企画ブレストをやってみた](https://zenn.dev/daison/articles/53118895e1c828) *(Zenn – トピック AI)*
 - [ ] 2026-02-08 [0章｜誰でもできる！君だけのAIチップ](https://zenn.dev/practicalspirit/articles/cb8dbca3617d32) *(Zenn – トピック AI)*
 - [ ] 2026-02-08 [Claude CodeでGitHub MCPをやめてgh CLIに切り替えた](https://zenn.dev/hjpotter1/articles/9e7c0329495de7) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-09T12:36:59.083Z
+- [ ] 2026-02-09 [I asked AI to name my wife. To the hopelessly incorrect people it cited, my deepest apologies \| Martin Rowson](https://www.theguardian.com/commentisfree/2026/feb/09/who-is-my-wife-martin-rowson-ai-technology) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-09 [No Company Has Admitted to Replacing Workers With AI in New York](https://www.wired.com/story/no-company-has-admitted-to-replacing-workers-with-ai-in-new-york/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-09 [AI Is Here to Replace Nuclear Treaties. Scared Yet?](https://www.wired.com/story/satellites-ai-nuclear-treaties/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-09 [What AI can (and can’t) tell us about XRP in ETF-driven markets](https://www.artificialintelligence-news.com/news/what-ai-can-and-cant-tell-us-about-xrp-in-etf-driven-markets/) *(Artificial Intelligence News)*
+- [ ] 2026-02-09 [Exclusive: Why are Chinese AI models dominating open-source as Western labs step back?](https://www.artificialintelligence-news.com/news/chinese-ai-models-175k-unprotected-systems-western-retreat/) *(Artificial Intelligence News)*
+- [ ] 2026-02-09 [Cryptocurrency markets a testbed for AI forecasting models](https://www.artificialintelligence-news.com/news/cryptocurrency-markets-a-testbed-for-ai-forecasting-models/) *(Artificial Intelligence News)*
+- [ ] 2026-02-09 [Goldman Sachs tests autonomous AI agents for process-heavy work](https://www.artificialintelligence-news.com/news/goldman-sachs-tests-autonomous-ai-agents-for-process-heavy-work/) *(Artificial Intelligence News)*
+- [ ] 2026-02-09 [Money Pouring Into AI Startups Spurs Unequal Deals](https://www.bloomberg.com/news/newsletters/2026-02-09/ai-investment-demand-spurs-rise-of-multi-tranche-fundraising-rounds) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Uber Agrees to Buy Getir’s Delivery Business in Turkey](https://www.bloomberg.com/news/articles/2026-02-09/uber-agrees-to-buy-getir-s-delivery-business-in-turkey-expansion) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Junior Bankers Are Teaching Their Elders How to Use AI](https://www.bloomberg.com/news/articles/2026-02-09/young-bankers-embrace-ai-at-morgan-stanley-and-bank-of-america) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Morgan Stanley’s Wilson Says Tech Rally Can Run Further on AI](https://www.bloomberg.com/news/articles/2026-02-09/morgan-stanley-s-wilson-says-tech-rally-can-run-further-on-ai) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Bitcoin’s Recovery Rings Hollow as Derivatives Stay Bearish](https://www.bloomberg.com/news/articles/2026-02-09/bitcoin-s-recovery-rings-hollow-as-derivatives-stay-bearish) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Latin America’s Best Performing Bond Has Room to Rally Further](https://www.bloomberg.com/news/articles/2026-02-09/latin-america-s-best-performing-bond-has-room-to-rally-further) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Roblox Under Scrutiny in Australia Amid Child-Grooming Concerns](https://www.bloomberg.com/news/articles/2026-02-09/roblox-under-scrutiny-in-australia-amid-child-grooming-concerns) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [India Redraws Rules For Deep Tech Funding To Spur Innovation](https://www.bloomberg.com/news/articles/2026-02-09/india-redraws-rules-for-deep-tech-funding-to-spur-innovation) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Infineon Joins AI Funding Push With First Euro Debt in a Year](https://www.bloomberg.com/news/articles/2026-02-09/infineon-joins-ai-funding-rush-with-first-euro-debt-in-a-year) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Israel’s El Al Fined $39 Million Over Wartime Airfare Hikes](https://www.bloomberg.com/news/articles/2026-02-09/israel-s-el-al-fined-39-million-over-wartime-airfare-hikes) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Meta Hit by EU Warning to Open WhatsApp to Rival AI Chatbots](https://www.bloomberg.com/news/articles/2026-02-09/meta-hit-by-eu-warning-to-open-whatsapp-to-rival-ai-chatbots) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [BlackRock Sees Portfolio Rebalancing, No Capital Exodus](https://www.bloomberg.com/news/videos/2026-02-09/blackrock-sees-portfolio-rebalancing-no-capital-exodus-video) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [Amazon Deepens Ties With Chipmaker STMicro for Data Centers](https://www.bloomberg.com/news/articles/2026-02-09/amazon-deepens-ties-with-chipmaker-stmicro-for-data-centers) *(Bloomberg Technology)*
+- [ ] 2026-02-09 [The Next ‘Minions’ Movie Is a Big Ol’ Monster Mash](https://gizmodo.com/minions-monsters-super-bowl-trailer-2000719453) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [The Launch of the iPhone 17e Is Reportedly Imminent](https://gizmodo.com/the-launch-of-the-iphone-17e-is-reportedly-imminent-2000719375) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [For Some Reason, Someone Who Generates AI Slop Books Has Unmasked Herself](https://gizmodo.com/for-some-reason-someone-who-generates-ai-slop-books-has-unmasked-herself-2000719325) *(Gizmodo – Technology)*
+- [ ] 2026-02-09 [EU warns Meta over blocking rival AI chatbots on WhatsApp](https://www.engadget.com/big-tech/eu-warns-meta-over-blocking-rival-ai-chatbots-on-whatsapp-121708895.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [Lyft rolls out teen accounts with enhanced safety protections](https://www.engadget.com/apps/lyft-rolls-out-teen-accounts-with-enhanced-safety-protections-110002761.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [YouTube Music starts limiting lyrics for free users](https://www.engadget.com/entertainment/music/youtube-music-starts-limiting-lyrics-for-free-users-101258311.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [The best Apple AirTag accessories for 2026](https://www.engadget.com/computing/accessories/best-apple-airtag-cases-holders-accessories-123036404.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [The best iPhones for 2026: Which model should you buy?](https://www.engadget.com/mobile/smartphones/best-iphone-160012979.html?src=rss) *(Engadget)*
+- [ ] 2026-02-09 [高市首相が衆院選で「信任」、新政権が直面するAI戦略3つの課題](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11474/) *(日経クロステック IT)*
+- [ ] 2026-02-09 [SwitchBotの「テニスラリーできるロボット」日本でも発売へ　34万9800円](https://www.itmedia.co.jp/aiplus/articles/2602/09/news123.html) *(ITmedia AI＋)*
+- [ ] 2026-02-09 [「AIでSaaSは死ぬ」「SIerは終わる」は本当か？　バズる言説と、実務・監査が示す3つの現実](https://www.itmedia.co.jp/news/articles/2602/09/news075.html) *(ITmedia AI＋)*
+- [ ] 2026-02-09 [A Language For Agents](https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [LLMでソート - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ](https://joisino.hatenablog.com/entry/llmsort) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [AI-ready SoRの時代へ｜Finatext 林 (シルバーマンスタンレー)](https://note.com/ryotafinatext/n/nb79665c549c3) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [Claude Code Agent Teamsのあそびかた](https://blog.lai.so/agent-teams/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [AIエージェントが書いた“異世界転生”、人間が書いた小説と見分けるのが難しいレベルに (1/5)](https://ascii.jp/elem/000/004/372/4372429/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [「Agents in OneDrive」の一般提供が開始、「Microsoft 365 Copilot」に世界展開／AIへの指示と対象ファイルをひとまとめ、チームメンバーとの共有や標準化にも](https://forest.watch.impress.co.jp/docs/news/2084448.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [グーグル「Genie 3」で「ゲームは作れない」　それでも映像の未来に与える影響【西田宗千佳のイマトミライ】](https://www.watch.impress.co.jp/docs/series/nishida/2084345.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [ChatGPT・Grok・Geminiを「カウンセリングの来談者役」にすると結果が質問の出し方だけで激変するとの報告](https://gigazine.net/news/20260209-ai-counseling-client-psychometric-shift/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [機密データも安全に。Python+Ollamaで16,000チケット→496観点のレビューチェックリストを自動生成 - Qiita](https://qiita.com/ntaka329/items/5f504cb3ddf6f4faf306) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [長時間のゲームプレイ映像から爆速でショート動画を自動生成できる「AutoShorts」](https://gigazine.net/news/20260208-autoshorts/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [【2026年版】AIイラストが理解る！StableDiffusion超入門｜賢木イオ](https://note.com/studiomasakaki/n/n0763b3e9d39f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-09 [長いページは全体がクロールされなくなる？ Googleがクロール制限を15MB→2MBに縮小【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2084460.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [東京ポイント、新たに「PayPayポイント」「WAON POINT」に交換可能に　現在1.1万円分のポイント配布中](https://www.itmedia.co.jp/news/articles/2602/09/news110.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [東京海洋大→自動車企業(プログラマ)経歴の持ち主による選挙結果感想](https://anond.hatelabo.jp/20260209075112) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [master ＋ 機能ブランチ運用の落とし穴と限界](https://zenn.dev/tonbi_attack/articles/62df25dafed06b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [「.NET Framework 3.5」は次期OSから削除、2029年1月9日にサポート終了／そろそろ後継バージョンへの移行を](https://forest.watch.impress.co.jp/docs/news/2084427.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [今、Bill Oneで働く魅力（2026年版） - Sansan Tech Blog](https://buildersbox.corp-sansan.com/entry/2026/02/09/110000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [【1997年のINTERNET Watch】Google誕生前のインターネットで国産検索サービス「goo」が人気に](https://internet.watch.impress.co.jp/docs/special/30th/2069866.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [テックブログをはてなブログからZennへ移行します：「個人の資産化」と「運用効率化」を目指して - Safie Engineers' Blog!](https://safie.hatenablog.com/entry/tech-blog-migration-to-zenn) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [[本日の一品]AirTagに見た目そっくりな第2世代モデルが登場。さっそく使い比べてみた](https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2084116.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-09 [なぜ、「尖った人材が欲しい」という嘘を吐く企業が多いのか？](https://zenn.dev/pdfractal/articles/a2e4c5ec9f7181) *(Zenn – トピック LLM)*
+- [ ] 2026-02-09 [LLMの評価方法](https://zenn.dev/logbii/articles/60d0d9d0b169ea) *(Zenn – トピック LLM)*
+- [ ] 2026-02-09 [【論文読み】Geminiの精度が21%→97%に爆増。「Prompt Repetition」というあまりに原始的なSOTAテクニック](https://zenn.dev/lixian/articles/32d677b3da6f27) *(Zenn – トピック LLM)*
+- [ ] 2026-02-09 [Claude Code Skills帳](https://zenn.dev/secula/books/cbfdb04a7ed5ec) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [Claude Code Skills帳｜Subagentを別スレッドで呼び出す](https://zenn.dev/secula/articles/848b35c5661f7d) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [AIは人類を滅ぼすのか](https://zenn.dev/asahi_tech_dev/articles/d167823c3b3e7b) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [【イベント参加レポート】AI時代におけるアクセンチュアのエンジニアの役割とスキルセット](https://zenn.dev/acntechjp/articles/b86b3cf6b12449) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [#33 エージェントの“ネットワーク”をどう育てたか？](https://zenn.dev/corone/articles/71326a5acdee2f) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [Claude CodeのSkillsで作る、AIライフマネジメント](https://zenn.dev/react_uncle/articles/840efe2fdc6963) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [SlickGridの列幅変更が動かない問題を、AIと原因切り分けで解決した記録](https://zenn.dev/tonbi_attack/articles/79d78f36d99a82) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [AI論文の探し方から読み方まで！最新動向と活用法を完全ガイド](https://zenn.dev/ai_saas_media/articles/36e188b715ca71) *(Zenn – トピック AI)*
+- [ ] 2026-02-09 [【2026年最新】YouTube要約AIおすすめ7選！無料・高精度ツールで動画を秒速理解](https://zenn.dev/ai_saas_media/articles/5387bde47f82b1) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [Claude Codeのチームエージェント×tmuxで並列開発を爆速化する](https://zenn.dev/devken/articles/claude-code-team-tmux) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [LangChainを学ぶ - 1. LangChainの基礎](https://zenn.dev/hkazuki/articles/07d4f9b77c285c) *(Zenn – トピック AI)*
+- [ ] 2026-02-08 [AI音声チャットアプリ画面の「ちらつき」問題を解決した話](https://zenn.dev/ryota_akiyama/articles/f266d74c576f6e) *(Zenn – トピック AI)*
