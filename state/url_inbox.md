@@ -29174,3 +29174,66 @@
 - [ ] 2026-02-10 [コマンド暗記で太刀打ちできない問題に。Kubernetesを「現場で使いこなす」ための厳選4冊 \| レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/column/detail_800/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-02-09 [【AI×CAD】STEPファイル自動修復の未来：PythonOCCとAIエージェント(MCP)による自律型CAE前処理](https://zenn.dev/sanottti/articles/step-auto-repair-agent) *(Zenn – トピック LLM)*
 - [ ] 2026-02-10 [OpenClawで「自己強化エージェント」を構築する手順書 ─ Heartbeat × 監督役エージェントで運用が勝手に改善される仕組み](https://zenn.dev/akasara/articles/52dc506100f7ad) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-10T12:40:39.932Z
+- [ ] 2026-02-10 [No, the human-robot singularity isn’t here. But we must take action to govern AI \| Samuel Woolley](https://www.theguardian.com/commentisfree/2026/feb/10/human-robot-singularity-govern-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-10 [Telstra joint venture to axe more than 200 jobs amid AI rollout](https://www.theguardian.com/business/2026/feb/10/telstra-ai-job-cuts-offshore-workforce) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-10 [AI reads brain MRIs in seconds and flags emergencies](https://www.sciencedaily.com/releases/2026/02/260210005419.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-02-10 [Chinese hyperscalers and industry-specific agentic AI](https://www.artificialintelligence-news.com/news/chinese-hyperscalers-and-industry-specific-chinas-agentic-ai/) *(Artificial Intelligence News)*
+- [ ] 2026-02-10 [Agentic AI in healthcare: How Life Sciences marketing could achieve US$450bn in value by 2028](https://www.artificialintelligence-news.com/news/agentic-ai-healthcare-pharma-marketing-450b-value-2028/) *(Artificial Intelligence News)*
+- [ ] 2026-02-10 [Alphabet’s 100-Year Bond Gets Highest Demand in Sterling Sale](https://www.bloomberg.com/news/articles/2026-02-10/alphabet-s-100-year-bond-gets-highest-demand-in-sterling-sale) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Alphabet Seeks $9.4 Billion From Pound, Swiss Franc Bond Sales](https://www.bloomberg.com/news/articles/2026-02-10/alphabet-begins-selling-multi-tranche-debut-swiss-franc-bond-mlgb76p8) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Spotify Sets User Growth Record After ‘Wrapped’ Promotion](https://www.bloomberg.com/news/articles/2026-02-10/spotify-sets-user-growth-record-thanks-to-wrapped-promotion) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Andreessen Horowitz’s Rising Influence Over Trump-Era AI Policy](https://www.bloomberg.com/news/features/2026-02-10/trump-s-ai-policy-shaped-by-vc-tech-giant-andreessen-horowitz) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Emerging-Market Stocks Rise Anew as AI Spending Jitters Ease](https://www.bloomberg.com/news/articles/2026-02-10/emerging-market-stocks-rise-anew-as-ai-spending-jitters-ease) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Alibaba, Tencent, and ByteDance Offer AI Red Packets to Lure Users](https://www.bloomberg.com/news/newsletters/2026-02-10/alibaba-tencent-and-bytedance-offer-ai-red-packets-to-lure-users) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Apple, Google Offer App Store Changes to Allay CMA’s Concerns](https://www.bloomberg.com/news/articles/2026-02-10/apple-google-offer-app-store-changes-to-allay-cma-s-concerns) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Why Tech Is Obsessed With Moltbook, a Social Network for Bots](https://www.bloomberg.com/news/articles/2026-02-10/what-is-moltbook-the-ai-only-social-network) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Russian Watchdog Starts Limiting Access to Telegram, RBC Reports](https://www.bloomberg.com/news/articles/2026-02-10/russian-watchdog-starts-limiting-access-to-telegram-rbc-reports) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [‘Clash Royale’ Maker Says Video-Game Publishers Are ‘Coasting’](https://www.bloomberg.com/news/articles/2026-02-10/-clash-royale-maker-says-video-game-publishers-are-coasting) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Social Media Giants Lose Last Bid to Avoid Trials With Schools](https://www.bloomberg.com/news/articles/2026-02-10/social-media-giants-lose-last-bid-to-avoid-trials-with-schools) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [‘Sinners’ Costumes, Props, and One Very Special Guitar Are Now Part of the Warner Bros. Studio Tour](https://gizmodo.com/sinners-costumes-props-and-one-very-special-guitar-are-now-part-of-the-warner-bros-studio-tour-2000719906) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [Watch a Man Get Launched Off a Truck at 50 MPH, for Science](https://gizmodo.com/watch-a-man-get-launched-off-a-truck-at-50-mph-for-science-2000719849) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [The Morning After: DOJ may face investigation over removal of ICE agent tracking apps](https://www.engadget.com/general/the-morning-after-doj-may-face-investigation-over-removal-of-ice-agent-tracking-apps-121500737.html?src=rss) *(Engadget)*
+- [ ] 2026-02-10 [Waymo's vehicles are now fully driverless in Nashville](https://www.engadget.com/transportation/waymos-vehicles-are-now-fully-driverless-in-nashville-120412343.html?src=rss) *(Engadget)*
+- [ ] 2026-02-10 [The best VR accessories for 2026](https://www.engadget.com/ar-vr/best-vr-accessories-150021126.html?src=rss) *(Engadget)*
+- [ ] 2026-02-10 [ソフトバンクの25年4～12月期決算は増収増益、PayPayなどが寄与](https://xtech.nikkei.com/atcl/nxt/news/24/03087/) *(日経クロステック IT)*
+- [ ] 2026-02-10 [ノジマ、“ロボットだらけ”のショールーム開設　一般客も利用可能](https://www.itmedia.co.jp/aiplus/articles/2602/10/news115.html) *(ITmedia AI＋)*
+- [ ] 2026-02-10 [日本政府、AIの社会実装を妨げている規制の情報を募集　制度見直しの参考に](https://www.itmedia.co.jp/aiplus/articles/2602/10/news111.html) *(ITmedia AI＋)*
+- [ ] 2026-02-10 [LINEヤフー、人事にAI本格活用　月1600時間以上の工数削減へ](https://www.itmedia.co.jp/aiplus/articles/2602/10/news107.html) *(ITmedia AI＋)*
+- [ ] 2026-02-10 [長州力、AI動画を初めて作る　本人写真が“怪物”に](https://www.itmedia.co.jp/aiplus/articles/2602/10/news104.html) *(ITmedia AI＋)*
+- [ ] 2026-02-10 [AIで年間200冊のロマンス小説を執筆する作家がAI執筆について語る、約3分の1の作家が執筆に生成AIを利用しているが大半は読者に隠しているとの調査結果も](https://gigazine.net/news/20260210-chatbot-book/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-10 [AI時代の元サイト素通り防ぐには　検索ワードでゼロクリック率に差 \| 毎日新聞](https://mainichi.jp/articles/20260210/k00/00m/040/112000c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-10 [「コーディングは死ぬ」「AIはソフトウェアをディスラプトする」　生成AI革命の本当の価値](https://atmarkit.itmedia.co.jp/ait/articles/2602/10/news022.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-10 [GitHub Agentic Workflows](https://github.github.io/gh-aw/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-10 [頭のいい人が「思考を整理したい」ときにChatGPTでやっている“意外な使い方”](https://diamond.jp/articles/-/383511) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-10 [VRAM96GB(Unified memory 128GB)でどのLLMが使えるか - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/02/10/162234) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-10 [チームみらいってどんな政党?　候補者は平均39歳、AI活用訴え \| 毎日新聞](https://mainichi.jp/articles/20260209/k00/00m/010/287000c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-10 [AWS ElastiCache for Redis を Valkey へ移行した話 - freee Developers Hub](https://developers.freee.co.jp/entry/aws-elasticache-for-valkey-migration) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-10 [そのバックアップでは会社を守れない　「3-2-1ルール」を過去にする“新常識”](https://techtarget.itmedia.co.jp/tt/news/2602/09/news03.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-10 [Google Keepでメモ魔になれる。ToDo管理が続かない人ほど試してみて \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2602-matome-google-keep/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-10 [codex 5.3, opus 4.6, gemini 3.0 proの画像認識能力を比べた](https://zenn.dev/simossyi/articles/f5ef8378959878) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-10 [YouTube Music、歌詞表示を有料化？ 無料版で表示できるのは冒頭数行のみに変更か【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2084796.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-10 [おい、方法を学べ - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/02/09/180240) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-10 [【ミニレビュー】 シャオミ、“ライブ会場のような臨場感”オーディオグラス使ってみた](https://av.watch.impress.co.jp/docs/review/minireview/2084177.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-10 [[翻訳] SGLangでDiffusion LLMをサポート：LLaDA 2.0のDay-0実装](https://zenn.dev/tosshi/articles/25bbf1846d6bd5) *(Zenn – トピック LLM)*
+- [ ] 2026-02-10 [「マルチモーダルモデルOCR」完全攻略ガイド 2026年Q1 — 従来のOCRを捨ててプロンプトでぶん殴る](https://zenn.dev/coffin299/articles/f9ad371b9c42d4) *(Zenn – トピック LLM)*
+- [ ] 2026-02-10 [Claude Codeがベクトル検索を採用しなくなった理由](https://zenn.dev/knowledgesense/articles/d015f1b810c05a) *(Zenn – トピック LLM)*
+- [ ] 2026-02-10 [一番の脆弱性は"人間のコードレビュー"だった](https://zenn.dev/smartvain/articles/ai-security-test-human-code-review-weakest) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [2026年のAIトレンド転換点：Yann LeCunの新天地「ワールドモデル」とエージェントの実用化](https://zenn.dev/yu_ga/articles/2026-02-10-ai-world-models) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [バンドマンのための信号処理と音響電子工学](https://zenn.dev/fibujrsl/books/6a38cc09edb726) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [Seedream 5.0がArtAny AIに登場：ついにあなたを理解する画像生成AI](https://zenn.dev/artany123/articles/768657e52002d0) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [図面データに最適な画像フォーマット](https://zenn.dev/wogo_techblog/articles/db5e1e73863afb) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [「未経験は雇われない」が悔しくて、3ヶ月でLAPRAS 3.3まで上げてみた🧙](https://zenn.dev/miki_mini/articles/9482370dcc09cd) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [Claude Codeの出力、そのまま信じてませんか？ Hooksで自動検証する方法](https://zenn.dev/ischca/articles/cc-guide-quality-gate) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [【衝撃】AIで開発者が19%遅くなる！METR研究が暴いた「生産性の嘘」- それでも69%が使い続ける闘](https://zenn.dev/babushkai/articles/2026-02-04-ai-productivity-paradox) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [New AI Tool: shannon](https://zenn.dev/shironegi/articles/j46pj26w0xeczy) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [New AI Tool: Felsius](https://zenn.dev/shironegi/articles/jadwtkcnijybdt) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [Claude Codeのauto memoryをhooksでrules/agents化する](https://zenn.dev/zaico/articles/9d3ef854f42399) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [LLMに複数ツールを順序通り実行させる難しさと解決策](https://zenn.dev/ryota_akiyama/articles/5611cfe2cd6127) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [Pytorch Tabularのmodel sweepで最適なモデルを探す](https://zenn.dev/hiroki_k21/articles/929bfe59024c20) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [Waifu2x-Extension-GUIのおすすめ処理手順](https://zenn.dev/omu_tryangle/articles/dc9f3661583e14) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [なぜTransformerは"器"になったのか — 瞑想者によるAttentionの解剖](https://zenn.dev/dosanko_tousan/articles/547ee64c796887) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [Claude Code Agent Teams を使ってわかったチーム設計の勘所と自動化の限界](https://zenn.dev/sc30gsw/articles/4eee68a83454a2) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [画像から音楽を生成するAI技術——技術原理と実用性の検証はじめに：視覚情報を聴覚体験に変換する試み](https://zenn.dev/vincent_gay/articles/6da787e8f09e78) *(Zenn – トピック AI)*
