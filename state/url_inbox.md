@@ -29329,3 +29329,85 @@
 - [ ] 2026-02-10 [信じない。徹底検証。品質絶対のAI開発技術](https://zenn.dev/cognix/articles/67023ade5ace39) *(Zenn – トピック LLM)*
 - [ ] 2026-02-10 [RAGの本質は評価にある — “動くRAG”から“運用できるRAG”へ](https://zenn.dev/ugkd/articles/4db80bc977c2b5) *(Zenn – トピック LLM)*
 - [ ] 2026-02-10 [LLM開発で消耗してる人へ：DSLで開発速度10倍にした話](https://zenn.dev/akira_ai_dev/articles/a851116cf8484a) *(Zenn – トピック LLM)*
+
+## Collected on 2026-02-11T01:06:58.032Z
+- [ ] 2026-02-10 [RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees](https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-10 [ChatGPT Users Are Crashing Out Because OpenAI Is Retiring the Model That Says “I Love You”](https://futurism.com/artificial-intelligence/chatgpt-crashing-out-openai-retiring-gpt-4o) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-10 [Researchers Studied What Happens When Workplaces Seriously Embrace AI, and the Results May Make You Nervous](https://futurism.com/artificial-intelligence/what-happens-workplaces-embrace-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-10 [Google Has a Major Problem With ICE](https://futurism.com/artificial-intelligence/google-ice-workers-government) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-10 [AI Startup Runway Raises $315M, Pivots to World Models](https://aibusiness.com/generative-ai/ai-startup-runway-raises-315m-for-world-models) *(AI Business)*
+- [ ] 2026-02-11 [An illegal bioweapons lab was found in a Las Vegas garage. It’s a warning for Australia](https://theconversation.com/an-illegal-bioweapons-lab-was-found-in-a-las-vegas-garage-its-a-warning-for-australia-275564) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-10 [Are video game developers using AI? Players want to know, but the rules are patchy](https://theconversation.com/are-video-game-developers-using-ai-players-want-to-know-but-the-rules-are-patchy-274850) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-10 [Cisco Turns Collaboration Devices Into AI-Powered Infrastructure](https://www.techrepublic.com/article/news-cisco-ai-collaboration-devices-infrastructure/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-10 [10K Claude Desktop Users Exposed by Zero-Click Vulnerability](https://www.techrepublic.com/article/news-claude-desktop-zero-click-vulnerability/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-10 [Alphabet Launches Rare 100-Year Bond to Fund Massive AI Push](https://www.techrepublic.com/article/news-alphabet-100-year-bond-ai-debt-spending/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-11 [JPMorgan's Craig on Trading Opportunities in AI Selloff](https://www.bloomberg.com/news/videos/2026-02-11/jpmorgan-s-craig-on-trading-opportunities-in-ai-selloff-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Hinge Health CEO on Earnings, AI's Impact on Business](https://www.bloomberg.com/news/videos/2026-02-11/hinge-health-ceo-on-earnings-ai-s-impact-on-business-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Wall Street’s New Trade Is Dumping Any Stock in AI’s Crosshairs](https://www.bloomberg.com/news/articles/2026-02-11/the-new-ai-stock-trade-is-dumping-any-company-in-its-crosshairs) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [UK Fintech Funding Fell 21% Last Year, Hitting Lowest Since 2020](https://www.bloomberg.com/news/articles/2026-02-11/uk-fintech-funding-fell-21-last-year-hitting-lowest-since-2020) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Philips CEO on Earnings, 2026 Tariff Offsets](https://www.bloomberg.com/news/videos/2026-02-10/philips-ceo-on-earnings-2026-tariff-offsets-video) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Becton Dickinson CEO on Earnings, Waters Deal](https://www.bloomberg.com/news/videos/2026-02-10/becton-dickinson-ceo-on-earnings-waters-deal-video) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Lyft Sinks on Disppointing Forecast and Surprise Revenue Miss](https://www.bloomberg.com/news/articles/2026-02-10/lyft-misses-on-profit-outlook-posts-surprise-operating-loss) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Samsung to Unveil AI-Charged Galaxy S26 Smartphones on Feb. 25](https://www.bloomberg.com/news/articles/2026-02-10/samsung-galaxy-s26-will-be-introduced-at-feb-25-unpacked-event) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Robinhood Profit Drops as Year-End Crypto Rout Dents Revenue](https://www.bloomberg.com/news/articles/2026-02-10/robinhood-profit-slumps-as-late-year-crypto-slide-crimps-revenue) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Crypto Crashes Rattle Venture Capitalists](https://www.bloomberg.com/news/videos/2026-02-10/crypto-crashes-rattle-venture-capitalists-video) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Seeing 'Cascading Declines' in Crypto Trading: Bitget CEO](https://www.bloomberg.com/news/videos/2026-02-10/seeing-cascading-declines-in-crypto-trading-bitget-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Need to Have Long-Term Bitcoin Belief: David Marcus](https://www.bloomberg.com/news/videos/2026-02-10/need-to-have-long-term-bitcoin-belief-david-marcus-video) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Jack Ma-Backed Ant Bets on AI Health in $69 Billion Sector Race](https://www.bloomberg.com/news/articles/2026-02-10/jack-ma-backed-ant-bets-on-ai-health-in-69-billion-sector-race) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Crypto Winter Rolls On, Bitcoin Slides After Slow Start to Week \| Bloomberg Crypto 2/10/2026](https://www.bloomberg.com/news/videos/2026-02-10/bloomberg-crypto-2-10-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Bond Dealers Push Up Private Credit Fund Trading Costs Amid Software Slide](https://www.bloomberg.com/news/articles/2026-02-10/bond-dealers-push-up-bdc-trading-costs-amid-software-slide) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Blackstone Joins Anthropic Round, Raising Stake to $1 Billion](https://www.bloomberg.com/news/articles/2026-02-10/blackstone-joins-anthropic-round-raising-stake-to-1-billion) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [PayPal Is Running Out of Time, Says Former President Marcus](https://www.bloomberg.com/news/videos/2026-02-10/paypal-is-running-out-of-time-says-former-president-video) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Spotify User Growth, Paramount’s Enhanced Offer \| Bloomberg Tech 2/10/2026](https://www.bloomberg.com/news/videos/2026-02-10/bloomberg-tech-2-10-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [MGX Said to Near Investment in Anthropic’s $20 Billion Fundraise](https://www.bloomberg.com/news/articles/2026-02-10/mgx-said-to-near-investment-in-anthropic-s-20-billion-fundraise) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [If You’re Shopping for a Discounted Car at a Dealer Lately, It Might Be Lightly… Totaled](https://gizmodo.com/if-youre-shopping-for-a-discounted-car-at-a-dealer-lately-it-might-be-lightly-totaled-2000719639) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [10 Years Ago, ‘Deadpool’ Made Wade Wilson the People’s Clown](https://gizmodo.com/10-years-ago-deadpool-made-wade-wilson-the-peoples-clown-2000715001) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [Checking in on Polymarket: Bets on Christ’s Return Jump on Bets That Bets on Christ’s Return Will Jump](https://gizmodo.com/checking-in-on-polymarket-bets-on-christs-return-jump-on-bets-that-bets-on-christs-return-will-jump-2000720298) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [Spotify Founder’s Drone Startup Wins German Military Contracts](https://gizmodo.com/spotify-favorite-drone-startup-wins-german-military-contracts-2000720249) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [‘Knight of the Seven Kingdoms’ Is Using the ‘Game of Thrones’ Theme Better Than ‘House of the Dragon’ Ever Did](https://gizmodo.com/knight-of-the-seven-kingdoms-game-of-thrones-theme-2-2000720200) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [Google Now Lets Users Remove Explicit Images and Other Personal Info From Search Results](https://gizmodo.com/google-now-lets-users-remove-explicit-images-and-other-personal-info-from-search-results-2000720317) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [The Trump Phone Looks as Bad as It Sounds](https://gizmodo.com/the-trump-phone-looks-as-bad-as-it-sounds-2000720184) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [Olympic Figure Skaters Get Heat for Using AI-Generated Music](https://gizmodo.com/olympic-figure-skaters-get-heat-for-using-ai-generated-music-2000720192) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [Dan Trachtenberg’s Paramount Deal Doesn’t Kill His ‘Predator’ Plans](https://gizmodo.com/dan-trachtenbergs-paramount-deal-doesnt-kill-his-predator-plans-2000720290) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [Largest Dictionary of English Slang Is Now Free Online to Help You Talk Like a Zoomer](https://gizmodo.com/largest-dictionary-of-english-slang-is-now-free-online-to-help-you-talk-like-a-zoomer-2000720203) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [The Brendan Fraser-Rachel Weisz ‘Mummy’ Reunion Is Coming in 2028](https://gizmodo.com/mummy-4-release-date-brendan-fraser-rachel-weisz-2000720240) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [Pensions Bet That Google Will Still Be Raking in Cash a Hundred Years From Now](https://gizmodo.com/pensions-bet-that-google-will-still-be-raking-in-cash-a-hundred-years-from-now-2000720177) *(Gizmodo – Technology)*
+- [ ] 2026-02-10 [Mike Flanagan Has His Next Stephen King Adaptation: ‘The Mist’](https://gizmodo.com/mike-flanagan-has-his-next-stephen-king-adaptation-the-mist-2000720205) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [Samsung Galaxy Unpacked 2026: Everything we're expecting from the S26 launch on February 25](https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-everything-were-expecting-from-the-s26-launch-on-february-25-130000524.html?src=rss) *(Engadget)*
+- [ ] 2026-02-10 [Samsung's Galaxy S26 Unpacked event is on February 25](https://www.engadget.com/mobile/smartphones/samsungs-galaxy-s26-unpacked-event-is-on-february-25-230000375.html?src=rss) *(Engadget)*
+- [ ] 2026-02-10 [The NLRB just gave up on SpaceX workers who claim they were illegally fired](https://www.engadget.com/big-tech/the-nlrb-just-gave-up-on-spacex-workers-who-claim-they-were-illegally-fired-215332847.html?src=rss) *(Engadget)*
+- [ ] 2026-02-10 [Facebook is offering Meta AI-powered animations for profile photos](https://www.engadget.com/social-media/facebook-is-offering-meta-ai-powered-animations-for-profile-photos-201022506.html?src=rss) *(Engadget)*
+- [ ] 2026-02-10 [Get two years of Surfshark VPN for up to 87 percent off](https://www.engadget.com/deals/get-two-years-of-surfshark-vpn-for-up-to-87-percent-off-123000309.html?src=rss) *(Engadget)*
+- [ ] 2026-02-10 [This Itch.io bundle to help Minnesota includes over 1,200 games and costs just $10](https://www.engadget.com/gaming/this-itchio-bundle-to-help-minnesota-includes-over-1200-games-and-costs-just-10-190643987.html?src=rss) *(Engadget)*
+- [ ] 2026-02-10 [Sam Bankman-Fried wants a re-trial for fraud charges](https://www.engadget.com/big-tech/sam-bankman-fried-wants-a-re-trial-for-fraud-charges-185910093.html?src=rss) *(Engadget)*
+- [ ] 2026-02-10 [米2強が狙う“AI社員”の普及　Anthropicは「業務代行」、OpenAIは「運用プラットフォーム」](https://www.itmedia.co.jp/enterprise/articles/2602/11/news009.html) *(ITmedia AI＋)*
+- [ ] 2026-02-11 [生成 AI による仕様書作成とレビューの考え方 \| CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/62064/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [スマイルカーブの終焉と「コ」の字型社会の到来 ― AI時代に価値はどこへ消えるのか - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing](https://kaz-ataka.hatenablog.com/entry/2026/02/10/132414) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [伝統的SIビジネスを破壊し、AI駆動型デリバリーを創造するアクセンチュア](https://japan.zdnet.com/article/35243640/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [ログ設計ガイドライン](https://future-architect.github.io/arch-guidelines/documents/forLog/log_guidelines.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [Windowsのエクスプローラーでフォルダサイズを表示する方法](https://gigazine.net/news/20260210-explorer-folder-size/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [容量100TBのLTO-10に対応したUSB/SAS両対応磁気テープドライブ](https://pc.watch.impress.co.jp/docs/news/2084965.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [Discordの代替アプリランキング](https://gigazine.net/news/20260210-discord-alternatives-ranking/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [半年間、Cursorを"半分"しか使えていなかった─コンテキスト自動化で変わった非エンジニアのAI Nativeな働き方｜Taiga](https://note.com/bigriver/n/nc0cc934c3315) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [「Microsoft Teams」に社内SNSサービス「Viva Engage」のコミュニティが統合／チャットやチャネルの感覚でコミュニティにもアクセス。AIエージェントもプレビュー](https://forest.watch.impress.co.jp/docs/news/2084801.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [2026年、もはや Claude Code はエンジニア以外も全員が使うべきツールになった｜KAJI \| 梶谷健人](https://note.com/kajiken0630/n/nc0cb92bc080f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [アンドルー元王子、エプスタイン氏に機密情報を漏洩か　チャールズ国王は警察に協力する用意](https://www.cnn.co.jp/world/35243716.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [中国のAI特許、世界上位に](https://www.afpbb.com/articles/-/3620253) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [AWSにおけるアウトバウンドセキュリティの基礎 - 電通総研 テックブログ](https://tech.dentsusoken.com/entry/2026/02/10/AWS%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A2%E3%82%A6%E3%83%88%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E5%9F%BA%E7%A4%8E) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [チャットボット『ジェムちゃん』の実働記録](https://zenn.dev/yuki_vr46/articles/a28f436c45e992) *(Zenn – トピック LLM)*
+- [ ] 2026-02-11 [魂の定着と自律性の獲得 (The Architecture of Emotion)](https://zenn.dev/yuki_vr46/articles/65b170321b7fe9) *(Zenn – トピック LLM)*
+- [ ] 2026-02-10 [UnityEditorをCLIで操作するツールを作った](https://zenn.dev/bigdra/articles/c399e88f1d8b71) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [CLAUDE.mdを「ルーティングテーブル」に進化させる - 12のKnowledge Filesで67%スリム化した実践記録](https://zenn.dev/correlate_dev/articles/claude-code-knowledge-files) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [【番外編1】UiPathのXAMLをAIに読ませてみた実録ログ——Claude Sonnet 4.5で解析〜Mermaid化まで](https://zenn.dev/ukiajp/articles/uipath-xaml-mermaid-case-sonnet45) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [exe.devで採用されているShelleyとは](https://zenn.dev/katsuhisa_/articles/shelley-exe-dev-coding-agent) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [文学・美術系のための自然言語処理AI入門](https://zenn.dev/fibujrsl/books/c0d2ba35b2e30a) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [Copilotなど一般向け主要AIモデル3種の画像分析比較、同一プロンプト検証](https://zenn.dev/syoshida07/articles/f85fd99cfeacd5) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [非エンジニアがClaude Codeでゲームを作って初収益を得るまでの記録](https://zenn.dev/yurukusa/articles/f62a4d0e9d9eb1) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [AGENTS.md / CLAUDE.md：AIを「チャット」ではなく、エージェントとの「仕事場」として使う](https://zenn.dev/imkohenauser/articles/agents-md-context-configuration) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [iDev Tango プロジェクト概要（ハッカソン審査用）](https://zenn.dev/perksh/articles/9b71d5eb2bf1f5) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [AIエージェント自律性チャレンジ: 「どこまで一人でできるのか？」完全記録](https://zenn.dev/aoikuro/articles/ai-agent-autonomous-challenge) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [スプレッドシートのグラフ作成がダルすぎたので、Claude CodeをバックエンドにしてCSV分析ツールを作った](https://zenn.dev/shuxxcode/articles/3fc88fb83b2903) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [DifyをGoogle Cloudでセルフホストするためにやったこと](https://zenn.dev/knowledgework/articles/dify-google-cloud-self-host) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [なぜ67%？予測市場の疑問をAIが答える仕組み - 集合知の可視化で何が変わるか](https://zenn.dev/komlock_lab/articles/758f782054fa74) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [人事の未来が変わる？話題の「PeopleX AI面接」を調べてみた！](https://zenn.dev/grand2/articles/97354a2dc579c6) *(Zenn – トピック AI)*
+- [ ] 2026-02-10 [SHAPとは](https://zenn.dev/innovativemind/articles/3d15fd34fbc424) *(Zenn – トピック 機械学習)*
