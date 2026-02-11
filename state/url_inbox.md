@@ -29948,3 +29948,65 @@
 - [ ] 2026-02-10 [Claude DesktopからFigmaを直接操作する：MCP導入とプラグイン開発の実践](https://zenn.dev/michey0495/articles/claude-desktopfigmamcp) *(Zenn – トピック AI)*
 - [ ] 2026-02-10 [【深掘り】AIだけのSNS「Moltbook」が3分でハッキングされた件について語らせてくれ](https://zenn.dev/ebimanager/articles/moltbook-hacking-3min) *(Zenn – トピック AI)*
 - [ ] 2026-02-10 [OpenAI Whisper モデルを NxD Inference で動かす](https://zenn.dev/tosshi/articles/f6c49165c90e6d) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-11T12:36:25.347Z
+- [ ] 2026-02-11 [UK wealth manager and price comparison site shares fall amid AI fears](https://www.theguardian.com/business/2026/feb/11/uk-wealth-manager-and-price-comparison-site-shares-fall-amid-ai-fears) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-11 [AI Industry Rivals Are Teaming Up on a Startup Accelerator](https://www.wired.com/story/ai-industry-rivals-are-teaming-up-on-a-startup-accelerator/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-11 [Barclays bets on AI to cut costs and boost returns](https://www.artificialintelligence-news.com/news/barclays-bets-on-ai-to-cut-costs-and-boost-returns/) *(Artificial Intelligence News)*
+- [ ] 2026-02-11 [How insurance leaders use agentic AI to cut operational costs](https://www.artificialintelligence-news.com/news/how-insurance-leaders-use-agentic-ai-to-cut-operational-costs/) *(Artificial Intelligence News)*
+- [ ] 2026-02-11 [Red Hat unifies AI and tactical edge deployment for UK MOD](https://www.artificialintelligence-news.com/news/red-hat-unifies-ai-tactical-edge-deployment-for-uk-mod/) *(Artificial Intelligence News)*
+- [ ] 2026-02-11 [Dassault Shares Plunge by Record in Latest Selloff Over AI Fears](https://www.bloomberg.com/news/articles/2026-02-11/dassault-systemes-shares-plunge-most-since-2002-on-weak-outlook) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Software Stocks Trade at Bargain Bin Prices After AI-Fueled Drop](https://www.bloomberg.com/news/articles/2026-02-11/software-stocks-trade-at-bargain-bin-prices-after-ai-fueled-drop) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Uber Pushes Back on the Robotaxi Skeptics With a Loud Advocate at the Top](https://www.bloomberg.com/news/newsletters/2026-02-11/uber-pushes-back-on-the-robotaxi-skeptics-with-new-cfo) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Fusion Startup Raises $450 Million in Bid to Make Power Using World’s Biggest Lasers](https://www.bloomberg.com/news/articles/2026-02-11/nuclear-fusion-startup-raises-450-million-to-make-power-with-lasers) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Mistral Invests €1.2 Billion in Swedish AI Data Center Buildout](https://www.bloomberg.com/news/articles/2026-02-11/mistral-invests-1-2-billion-in-swedish-ai-data-center-buildout) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [European Wealth Management Stocks Swept Up in AI Concerns](https://www.bloomberg.com/news/articles/2026-02-11/european-wealth-management-stocks-swept-up-in-ai-concerns) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [SoftBank-Backed Icertis Is Said to Work With Goldman on Potential $5 Billion Sale](https://www.bloomberg.com/news/articles/2026-02-11/softbank-backed-icertis-said-to-work-with-goldman-on-potential-5-billion-sale) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [JPMorgan’s Blockchain Division Co-Head Mallela Leaves Bank](https://www.bloomberg.com/news/articles/2026-02-11/jpmorgan-s-blockchain-division-co-head-mallela-leaves-bank) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Software Selloff Seen as a Chance to Increase Exposure](https://www.bloomberg.com/news/videos/2026-02-11/software-selloff-seen-as-a-chance-to-increase-exposure-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [China’s Zhipu Unveils New AI Model, Jolting Race With DeepSeek](https://www.bloomberg.com/news/articles/2026-02-11/china-s-zhipu-unveils-new-ai-model-jolting-race-with-deepseek) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Ooredoo CEO: Region Powerhouse for AI & Digital Economy](https://www.bloomberg.com/news/videos/2026-02-11/ooredoo-ceo-region-powerhouse-for-ai-digital-economy-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Solana’s Lily Liu on the Crypto Selloff](https://www.bloomberg.com/news/videos/2026-02-11/solana-s-lily-liu-on-the-crypto-selloff-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Booming Asian Markets Widen Lead Over US, Europe \| Insight with Haslinda Amin 02/11/2026](https://www.bloomberg.com/news/videos/2026-02-11/insight-with-haslinda-amin-2-11-2025-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Robinhood’s Crypto Chief on Market Turmoil](https://www.bloomberg.com/news/videos/2026-02-11/robinhood-s-crypto-chief-on-market-turmoil-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Trump Repeats Claim That US Tariffs Ended India-Pakistan Clash](https://www.bloomberg.com/news/articles/2026-02-11/trump-repeats-claim-that-us-tariffs-ended-india-pakistan-clash) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Paramount Wants to Shell Out on ‘Teenage Mutant Ninja Turtles’](https://gizmodo.com/paramount-teenage-mutant-ninja-turtles-plans-mattel-movies-2000720374) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [‘Truly Beyond Words!’: Tesla’s Conflict with a German Labor Union Is Getting Out of Hand](https://gizmodo.com/truly-beyond-words-teslas-conflict-with-a-german-labor-union-is-getting-out-of-hand-2000719975) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [The 2027 Toyota Highlander is fully electric and has a 320-mile range](https://www.engadget.com/transportation/evs/the-2027-toyota-highlander-is-fully-electric-and-has-a-320-mile-range-115828463.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Elon Musk's latest scheme is a satellite catapult on the Moon](https://www.engadget.com/science/space/elon-musks-latest-scheme-is-a-satellite-catapult-on-the-moon-113403143.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [The best MacBook accessories for 2026](https://www.engadget.com/computing/accessories/best-macbook-accessories-150014737.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [The best smart plugs in 2026](https://www.engadget.com/home/smart-home/best-smart-plug-131542429.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [『きのこの山』『たけのこの里』AI味覚センサーで解析した結果「甘みが上回ってる時点できのこの勝ち」「お子ちゃま舌で草草の草」](https://togetter.com/li/2662590) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 ["大人向け"の映像にモザイクを入れるバイトで1日8時間人間の局部を見るようになり『この世にはAIに奪われたほうがいい仕事もある』と考えるようになりました](https://togetter.com/li/2662555) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [Web アプリケーションをツール化する WebMCP](https://azukiazusa.dev/blog/webmcp-for-web-applications/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [Apple対NVIDIA、仁義なき「TSMC争奪戦」　iPhone増産の壁に - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN311Z60R30C26A1000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [Entire · A new developer platform is coming](https://entire.io/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [Claude CodeにRemotionスキル入れたら、仕事でもつかるかもな動画制作が“別ゲー”になった｜AIこぐま](https://note.com/ai_koguma/n/n2a38b3655229) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [ニュースに生成AIを使った場合は開示することを義務づける法案がニューヨーク州議会に提出される](https://gigazine.net/news/20260210-new-york-disclaimers-ai-generated-news/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [「チームみらいの過疎地得票率が不自然に均一」という主張を、208市区町村の公式データで検証してみた｜せい@健康優良不良プログラマ](https://note.com/seiichi3141/n/n4ffefcc68673) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [「セキュリティリスク＝影響度☓発生確率」をやめよう - Qiita](https://qiita.com/f_0000/items/5cc486be289a8ea76728) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [I ditched Gmail for Thunderbird on my Android and I’m not going back](https://www.makeuseof.com/use-thunderbird-for-email-android/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [わずか45秒で巨大電力会社の中枢が乗っ取られる…「セキュリティがガバガバ」すぎる日本企業の根本問題（プレジデントオンライン） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/2f4d60b2d91ba6a9be7d9aa94a2814ba82c9822b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [Microsoft、2026年2月の「Windows Update」を実施 ～Word、Windows シェル、IEコンポで攻撃を確認／「メモ帳」にも脆弱性](https://forest.watch.impress.co.jp/docs/news/2085116.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [【Transformerとは？ - 第五回】文章の意味と系列モデル（RNN）](https://zenn.dev/hitama/articles/48814876fffa41) *(Zenn – トピック LLM)*
+- [ ] 2026-02-11 [LLM OCR プロンプトエンジニアリング攻略ガイド 2026年Q1 — 従来のOCRを捨ててプロンプト手法でぶん殴る](https://zenn.dev/coffin299/articles/60ba24446c0c27) *(Zenn – トピック LLM)*
+- [ ] 2026-02-11 [2026年版：AIエージェントフレームワークの全体像と選び方](https://zenn.dev/0h_n0/articles/0b5a30f85cea3a) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [“幾何って本当に効く？” — VGGT: Visual Geometry Grounded Transformerで分かったGeometry](https://zenn.dev/hokuto7/articles/95de60e84a8e90) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [バイブコーディングでリモートデスクトップアプリを作ってみたら意外にパフォーマンスが良かった](https://zenn.dev/mmgames/articles/ae44b853ae3ccf) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [Agentic Commerce: Amazon Bedrock で UCP してみる](https://zenn.dev/aws_japan/articles/f7e7f97684f19e) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [【Tasuke】教材を渡すだけで、つまずきを予見した解説動画を自動生成する AI エージェント](https://zenn.dev/vel3633/articles/684a599cc1eaab) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [Claude Codeに「お前自身がLLMだろ」と言った日 — 397問のデータ生成で学んだこと](https://zenn.dev/shimo4228/articles/claude-code-self-generation) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [AI時代の開発手法：仕様駆動開発（SDD）完全ガイド](https://zenn.dev/0h_n0/articles/447183d6bb431d) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [AIの本質は「鏡」である ― v5.3が示す反射率の設計](https://zenn.dev/dosanko_tousan/articles/74ea7a60f5e2f6) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [6-⑤[AI][Kaggle][python]Kaggle入門(特徴エンジニアリング 5.主成分分析)](https://zenn.dev/rg687076/articles/ea0893f848cc1d) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [いますぐ無料でAIエージェントのオーケストレーションを試せるようになった話【opencode対応】](https://zenn.dev/nrs/articles/5f549e7fe0ff75) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [人生100年時代の“推論回転率”を向上する！ChatGPT Pro完了通知をGooglePixelWatch4でバイブ検知する](https://zenn.dev/takakura_tech/articles/chatgpt-pro-googlewatch-notify) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [Skills-Orchestration Developmentのすゝめ ~バイブコーディングとノーコード開発を両立したアプローチの提案~](https://zenn.dev/nogu66/articles/skill-orchestration-development) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [Claude Octopus: 複数AIを並列実行するオーケストレーションプラグイン](https://zenn.dev/0h_n0/articles/c01f4e292ff1a7) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [【RunPod】Cloud GPUで70B LLMを動かす際の落とし穴と注意点まとめ](https://zenn.dev/kandkirby/articles/30e9f0a1da0199) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [Claude CodeにMCPはまだ要らない](https://zenn.dev/ischca/articles/cc-guide-mcp-usage) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [AIエージェントに"事務総長"を作らせた話 — フロー管理の属人化をどう解消したか](https://zenn.dev/imudak/articles/ai-agent-secretary-general) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [Claude Codeのセッション履歴とCLIの実行履歴から Agent Skill を自動生成する](https://zenn.dev/takiko/articles/claude-code-skill-from-logs) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [【個人開発】寂しすぎてAI(Manus+Codex)を酷使し、3日で「最強の起業家マッチングアプリ」を実質0円で作った話](https://zenn.dev/yuppi1113/articles/539380e6b91ccb) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [Claude Code時代のレビュー戦略を考える：中央ナレッジベースでAIレビューを育てるアイデア](https://zenn.dev/esaka/articles/ai-review-knowledge-base-strategy) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [Codexの会話ログをObsidianへ自動追記する](https://zenn.dev/takayukix/articles/2edb66e7f47644) *(Zenn – トピック AI)*
