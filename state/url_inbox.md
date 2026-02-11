@@ -30010,3 +30010,91 @@
 - [ ] 2026-02-11 [【個人開発】寂しすぎてAI(Manus+Codex)を酷使し、3日で「最強の起業家マッチングアプリ」を実質0円で作った話](https://zenn.dev/yuppi1113/articles/539380e6b91ccb) *(Zenn – トピック AI)*
 - [ ] 2026-02-11 [Claude Code時代のレビュー戦略を考える：中央ナレッジベースでAIレビューを育てるアイデア](https://zenn.dev/esaka/articles/ai-review-knowledge-base-strategy) *(Zenn – トピック AI)*
 - [ ] 2026-02-11 [Codexの会話ログをObsidianへ自動追記する](https://zenn.dev/takayukix/articles/2edb66e7f47644) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-11T18:44:54.249Z
+- [ ] 2026-02-11 [CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-11 [Job Board for AI Agents Immediately Overrun With Humans Desperate for Work](https://futurism.com/artificial-intelligence/ai-agent-job-board) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-11 [Law Firm Sacks Hundreds of Employees Amid Pivot to AI](https://futurism.com/artificial-intelligence/law-firm-sacks-hundreds-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-11 [Fear Grows That AI Is Permanently Eliminating Jobs](https://futurism.com/artificial-intelligence/ai-layoffs-permanent-jobs) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-11 [Alibaba unveils RynnBrain AI model to power robots](https://aibusiness.com/generative-ai/alibaba-unveils-rynnbrain-ai-model-for-robots) *(AI Business)*
+- [ ] 2026-02-11 [AI could mark the end of young people learning on the job – with terrible results](https://theconversation.com/ai-could-mark-the-end-of-young-people-learning-on-the-job-with-terrible-results-275352) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-11 [Fitbit’s Gemini AI Coach Expands to iPhone, 5 New Countries](https://www.techrepublic.com/article/news-fitbit-ai-coach-expands-ios-five-markets/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-11 [Google Expands ‘Results About You’ to Shield IDs, Fight Deepfake Abuse](https://www.techrepublic.com/article/news-google-expands-search-privacy-tools-identity-theft-deepfakes/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-11 [How Can AI Companions Be Helpful, not Harmful?](https://spectrum.ieee.org/ai-companion-harm-benefit) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-02-11 [How Do You Define an AI Companion?](https://spectrum.ieee.org/ai-companion-relationships) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-02-11 [Why Most People Misuse SMOTE, And How to Do It Right](https://www.kdnuggets.com/why-most-people-misuse-smote-and-how-to-do-it-right) *(KDnuggets)*
+- [ ] 2026-02-11 [Versioning and Testing Data Solutions: Applying CI and Unit Tests on Interview-style Queries](https://www.kdnuggets.com/versioning-and-testing-data-solutions-applying-ci-and-unit-tests-on-interview-style-queries) *(KDnuggets)*
+- [ ] 2026-02-11 ['Magic' Game Helps Turn Around Fortunes of Hasbro](https://www.bloomberg.com/news/videos/2026-02-11/magic-the-gathering-fuels-1-7b-year-for-hasbro-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Bill Ackman’s Pershing Square Discloses New Major Stake in Meta](https://www.bloomberg.com/news/articles/2026-02-11/bill-ackman-s-pershing-square-discloses-new-major-stake-in-meta) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [BNP Paribas Extends Mistral AI Partnership With Three Year Deal](https://www.bloomberg.com/news/articles/2026-02-11/bnp-paribas-extends-mistral-ai-partnership-with-three-year-deal) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Meta to Spend More Than $10 Billion on Indiana-Based Data Center](https://www.bloomberg.com/news/articles/2026-02-11/meta-to-spend-more-than-10-billion-on-indiana-based-data-center) *(Bloomberg Technology)*
+- [ ] 2026-02-10 [Cloudflare Beats on Quarterly Sales, Raises Revenue Outlook](https://www.bloomberg.com/news/articles/2026-02-10/cloudflare-beats-analysts-expectations-ups-revenue-expectations) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Brazilian Fintech AGI Shares Fall 8% After $240 Million US IPO](https://www.bloomberg.com/news/articles/2026-02-11/brazilian-fintech-agi-shares-fall-8-after-240-million-us-ipo) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Private Equity Wins Big by Flipping Gas Plants to Producers Racing to Meet AI Needs](https://www.bloomberg.com/news/articles/2026-02-11/private-equity-scores-big-profits-flipping-gas-plants-to-producers-in-ai-race) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Software Is AI, If You Do It Right: Spaht](https://www.bloomberg.com/news/videos/2026-02-11/software-is-ai-if-you-do-it-right-spaht-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Instagram Boss to Defend Platform Its Researcher Called a ‘Drug’](https://www.bloomberg.com/news/articles/2026-02-11/instagram-boss-to-defend-platform-its-researcher-called-a-drug) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [EssilorLuxottica Growth Propelled by Boom in Meta Glasses Sales](https://www.bloomberg.com/news/articles/2026-02-11/essilorluxottica-growth-propelled-by-boom-in-meta-glasses-sales) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Google Pushes AI Shopping Features in Search and Gemini Chatbot](https://www.bloomberg.com/news/articles/2026-02-11/google-pushes-ai-shopping-features-in-search-and-gemini-chatbot) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [T-Mobile Adds Fewer Subscribers, Increases Buybacks](https://www.bloomberg.com/news/articles/2026-02-11/t-mobile-adds-fewer-subscribers-than-expected-in-test-for-ceo) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [China Revives Home-Grown Hacking Competition That Stirs Security Concerns](https://www.bloomberg.com/news/newsletters/2026-02-11/china-revives-home-grown-hacking-competition-that-stirs-security-concerns) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Crypto Billionaire Looks to Buy the Dip After Bitcoin’s 50% Fall](https://www.bloomberg.com/news/articles/2026-02-11/crypto-billionaire-is-buying-the-dip-after-bitcoin-s-50-plunge) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Humanoid Maker Apptronik Triples Valuation to Over $5.5 Billion With New Funding](https://www.bloomberg.com/news/articles/2026-02-11/apptronik-raises-520-million-in-new-funding-to-build-more-humanoids) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Carve-Outs Take Center Stage in M&amp;A in 2026, KPMG Survey Shows](https://www.bloomberg.com/news/articles/2026-02-11/carve-outs-take-center-stage-in-m-a-in-2026-kpmg-survey-shows) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [QXO Set to Buy Kodiak Building Partners for $2.25 Billion](https://www.bloomberg.com/news/articles/2026-02-11/qxo-set-to-buy-kodiak-building-partners-for-about-2-25-billion) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Thomas Edison Tried to Build an EV Battery in 1901. Scientists Just Made It Work](https://gizmodo.com/edison-tried-to-build-an-ev-battery-in-1901-scientists-just-made-it-work-2000720612) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [Jason Momoa Will Be a Starship Trooper in Sony’s ‘Helldivers’ Movie](https://gizmodo.com/jason-momoa-helldivers-movie-sony-2000720666) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [Sleep Earbuds Are Getting Scarily Advanced](https://gizmodo.com/sleep-earbuds-are-getting-scarily-advanced-2000720589) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [One Mexican Cartel ‘Drone’ Near El Paso Airspace Was Actually Party Balloon: Report](https://gizmodo.com/one-mexican-cartel-drone-near-el-paso-airspace-actually-party-balloon-report-2000720631) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [Top Chinese Chipmaker Warns Rapid Data Center Buildout Plan Is Half-Baked](https://gizmodo.com/top-chinese-chipmaker-warns-rapid-data-center-buildout-plan-is-half-baked-2000720567) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [The Director of ‘Predator: Badlands’ Goes Deep on the Ending, Callbacks, Deleted Scenes, and More](https://gizmodo.com/the-director-of-predator-badlands-goes-deep-on-the-ending-callbacks-deleted-scenes-and-more-2000720387) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [T-Mobile Will Start Testing Live Translation on Calls, No App Required](https://gizmodo.com/t-mobile-will-start-testing-live-translation-on-calls-no-app-required-2000720593) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [NASA Thinks Boeing’s Starliner Can Fly in April, Which Is Hilarious](https://gizmodo.com/nasa-thinks-boeings-starliner-can-fly-in-april-which-is-hilarious-2000720614) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [The Samsung Galaxy S26 Will Be Exciting… if You Care About Galaxy AI](https://gizmodo.com/the-samsung-galaxy-s26-will-be-exciting-if-you-care-about-galaxy-ai-2000720570) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [The ‘Knight of the Seven Kingdoms’ Showrunner Isn’t Worried About Becoming ‘Game of Thrones’](https://gizmodo.com/knight-of-the-seven-kingdoms-game-of-thrones-ending-george-r-r-martin-2000720594) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [Hair Extensions Found to Contain Dozens of Hazardous Chemicals](https://gizmodo.com/hair-extensions-found-to-contain-dozens-of-hazardous-chemicals-2000720464) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [The Biggest Year in ‘Magic: The Gathering’ Brought Some Good News for Classic Players](https://gizmodo.com/magic-the-gathering-sales-2025-lorwyn-eclipsed-records-universes-beyond-2000720572) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [The New ‘Stargate’ Is Adding a Familiar Face in a Surprising Way](https://gizmodo.com/stargate-reboot-joe-flanagan-writing-2000720308) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [Pokémon Pokopia on Switch 2 May Turn Poké-Haters Into Believers](https://gizmodo.com/pokemon-pokopia-could-be-the-switch-2s-biggest-sleeper-hit-2000720400) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [7 Weird Space Phenomena That Only Make Sense if Dark Matter Exists](https://gizmodo.com/7-weird-space-phenomena-that-only-make-sense-if-dark-matter-exists-2000720204) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [Hubble Zooms in on the Mysterious Egg Nebula, and It’s More Spectacular Than Ever](https://gizmodo.com/hubble-zooms-in-on-the-mysterious-egg-nebula-and-its-weirder-than-ever-2000720397) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [Nicolas Cage Explains the Allure of Watching ‘Spider-Noir’ in Black and White](https://gizmodo.com/nicolas-cage-explains-the-allure-of-watching-spider-noir-in-black-and-white-2000720438) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [The Helldivers movie will star Jason Momoa and hits theaters on November 10, 2027](https://www.engadget.com/entertainment/tv-movies/the-helldivers-movie-will-star-jason-momoa-and-hits-theaters-on-november-10-2027-183445038.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Meta turned Threads algorithm complaints into an official feature](https://www.engadget.com/social-media/meta-turned-threads-algorithm-complaints-into-an-official-feature-180000236.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [NordVPN deal: Get two years of the Complete plan for 70 percent off](https://www.engadget.com/deals/nordvpn-deal-get-two-years-of-the-complete-plan-for-70-percent-off-123000517.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [TikTok US launches a local feed that leverages a user's exact location](https://www.engadget.com/big-tech/tiktok-us-launches-a-local-feed-that-leverages-a-users-exact-location-170651916.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Netflix is reportedly filming the Stranger Things Broadway show this week](https://www.engadget.com/entertainment/tv-movies/netflix-is-reportedly-filming-the-stranger-things-broadway-show-this-week-165243046.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [A four-pack of Apple's first-gen AirTags is on sale for $64](https://www.engadget.com/deals/a-four-pack-of-apples-first-gen-airtags-is-on-sale-for-64-163619222.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Pick up Apple's Magic Mouse while it's on sale for $68](https://www.engadget.com/deals/pick-up-apples-magic-mouse-while-its-on-sale-for-68-152708776.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Presidents' Day sales 2026: The best early tech deals to shop this week from Apple, Sony, Samsung and others](https://www.engadget.com/deals/presidents-day-sales-2026-the-best-early-tech-deals-to-shop-this-week-from-apple-sony-samsung-and-others-163000257.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Uber Eats’ new Cart Assistant feature is an AI hack for your grocery shopping](https://www.engadget.com/ai/uber-eats-new-cart-assistant-feature-is-an-ai-hack-for-your-grocery-shopping-145733478.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [The iPhone Air MagSafe battery is cheaper than ever right now](https://www.engadget.com/deals/the-iphone-air-magsafe-battery-is-cheaper-than-ever-right-now-144516705.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Pokemon Pokopia is so damn cozy](https://www.engadget.com/gaming/nintendo/pokemon-pokopia-is-so-damn-cozy-140000954.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [The 512GB Samsung P9 microSD Express card is 33 percent off](https://www.engadget.com/deals/the-512gb-samsung-p9-microsd-express-card-is-33-percent-off-143849572.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [The Apple Watch Series 11 drops to $299 ahead of Presidents' Day](https://www.engadget.com/deals/the-apple-watch-series-11-drops-to-299-ahead-of-presidents-day-151616891.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Mullvad VPN review: Near-total privacy with a few sacrifices](https://www.engadget.com/cybersecurity/vpn/mullvad-vpn-review-near-total-privacy-with-a-few-sacrifices-130000056.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering) *(OpenAI News)*
+- [ ] 2026-02-11 [元GitHub CEOのドムケ氏、AI時代の開発プラットフォーム「Entire CLI」をオープンソースで公開。すべてのコンテキストをGitに保存](https://www.publickey1.jp/blog/26/github_ceoaientire_cligit.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [元AI懐疑派の開発者が「仕事で使えるAI」にたどり着くまでの6ステップ](https://gigazine.net/news/20260211-my-ai-adoption-journey-6-steps/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [VoiceOS - Instant writing in all your apps](https://www.voiceos.com/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [Hello Entire World · Entire Blog](https://entire.io/blog/hello-entire-world/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-11 [ニュースレターを5年間配信して学んだことをまとめてみた。 - 世界のねじを巻くブログ](https://www.nejimakiblog.com/entry/substack-newsletter-5years-review-mail-magazine) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [スターリンク遮断でロシア軍が大混乱に　指揮系統「崩壊」、外国技術依存の脆弱性露呈（Forbes JAPAN） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/fd007014a49042dc6d5bd00a84a63b740f51332a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [完全未経験がDX職で奮闘する話① RAGとAzureでのつまづき](https://zenn.dev/kaithon_dx/articles/36a4e2d1a76977) *(Zenn – トピック LLM)*
+- [ ] 2026-02-11 [AI時代のソフトウェアアーキテクチャ](https://zenn.dev/yosugi/articles/llm-friendly-architecture) *(Zenn – トピック LLM)*
+- [ ] 2026-02-11 [llama.cppのRPC機能で「仮想巨大GPU」を構築！複数のPCを合体させて巨大LLMを動かす方法（個人メモ）](https://zenn.dev/onpremdev/articles/3d77c91717d61e) *(Zenn – トピック LLM)*
+- [ ] 2026-02-11 [LLM APIのレスポンス速度を改善する方法まとめ](https://zenn.dev/async_inc/articles/550970e21e7c23) *(Zenn – トピック LLM)*
+- [ ] 2026-02-11 [「日本の首都は？」と聞いたら - LLMの思考をCircuit Tracerで解析してみた](https://zenn.dev/50s_zerotohero/articles/33c03f04aaf417) *(Zenn – トピック LLM)*
+- [ ] 2026-02-11 [ローカルLLMの始め方とモデルサイズの選び方](https://zenn.dev/takaha4k/articles/local-llm-mac-intro) *(Zenn – トピック LLM)*
+- [ ] 2026-02-11 [第1章｜環境づくり— 白紙の脳（FPGA)に最初の火を入れる —(誰でも出来る！君だけのAIチップ)](https://zenn.dev/practicalspirit/articles/60e19ea9291388) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [AIが一斉に走り出して設計・実装・テスト・レビューを駆け抜けるClaude Codeプラグインを作った](https://zenn.dev/helloworld/articles/d8f49350c1b526) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [なぜ、世の中では応用知識と応用力が混同されるのか？](https://zenn.dev/pdfractal/articles/db6644e3a2913f) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [PyTorchとTensorFlow入門](https://zenn.dev/qwerewq/books/cf54b3816275a8) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [行単位のコードレビューを一旦やめて、レビューを再定義しようとしている話](https://zenn.dev/emrum/articles/redefine-code-review) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [ObsidianをAIの「司令塔」にする ── MCP連携で39ソース自動収集の全貌](https://zenn.dev/sora_biz/articles/obsidian-mcp-integration) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [Claude Coworkの登場 AIエージェント時代に日本SIerの戦い方を本気で考えた](https://zenn.dev/syoshida07/articles/de739a077cd82d) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [MCPサーバーを遊び倒す｜たまごっち飼育からビットコイン取引まで、ネタ系MCPが面白すぎた](https://zenn.dev/kki2ne/articles/mcp-server-unique-use-cases-2026) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [AWS re:Invent 2025速報：AI時代のインフラ革新を読み解く](https://zenn.dev/0h_n0/articles/66060968cfd99c) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [データカタログが欲しいって？それCortex Codeで充分だよ（…と言いたかった）](https://zenn.dev/jimatomo/articles/b7d7413904aeb1) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [論文収集ロボ、ついに完成...の道は険しかった](https://zenn.dev/aoikuro/articles/arxiv-auto-collector-complete) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [【ShareSeed🌱】特別支援学校教員向け 指導案作成支援AIエージェント](https://zenn.dev/nakjr_0118/articles/e0b40e43135ec8) *(Zenn – トピック AI)*
+- [ ] 2026-02-11 [独立成分分析（ICA）のそもそもを理解する](https://zenn.dev/numa03/articles/ica-explanation) *(Zenn – トピック 機械学習)*
