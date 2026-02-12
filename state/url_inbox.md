@@ -30098,3 +30098,91 @@
 - [ ] 2026-02-11 [論文収集ロボ、ついに完成...の道は険しかった](https://zenn.dev/aoikuro/articles/arxiv-auto-collector-complete) *(Zenn – トピック AI)*
 - [ ] 2026-02-11 [【ShareSeed🌱】特別支援学校教員向け 指導案作成支援AIエージェント](https://zenn.dev/nakjr_0118/articles/e0b40e43135ec8) *(Zenn – トピック AI)*
 - [ ] 2026-02-11 [独立成分分析（ICA）のそもそもを理解する](https://zenn.dev/numa03/articles/ica-explanation) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-12T00:59:22.895Z
+- [ ] 2026-02-11 [Social workers’ AI tool makes ‘gibberish’ transcripts of accounts from children](https://www.theguardian.com/education/2026/feb/11/ai-tools-potentially-harmful-errors-social-work) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-11 [I Loved My OpenClaw AI Agent—Until It Turned on Me](https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-11 [Mistral Cites Euro Vision With $1.4B for Swedish AI Data Center](https://aibusiness.com/generative-ai/mistral-cites-euro-vision-with-1-4b-for-swedish-ai) *(AI Business)*
+- [ ] 2026-02-11 [Will Ozempic-style patches help me lose weight? Two experts explain](https://theconversation.com/will-ozempic-style-patches-help-me-lose-weight-two-experts-explain-275073) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-11 [Samsung Galaxy S26 Series Expected to Drop This Month](https://www.techrepublic.com/article/news-samsung-galaxy-unpacked-s26-launch/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-11 [Power, Pollution, and Protests: The Growing Revolt Against AI Data Centers](https://www.techrepublic.com/article/news-ai-data-centers-community-opposition-energy-grid/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-11 [OpenAI Drops ‘io’ Branding for Planned AI Hardware](https://www.techrepublic.com/article/news-openai-drops-io-brand/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-12 [Blue Owl’s Stack Adds to AI Debt Rush With $2.1 Billion Loan](https://www.bloomberg.com/news/articles/2026-02-12/blue-owl-s-stack-adds-to-ai-debt-rush-with-2-1-billion-loan) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Cisco Gives Tepid Margin Forecast, Marring Upbeat Outlook](https://www.bloomberg.com/news/videos/2026-02-11/cisco-s-tepid-margin-forecast-mars-upbeat-outlook-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Software Selloff Continues as AI-Impact Worries Grow \| Bloomberg Tech 2/11/2026](https://www.bloomberg.com/news/videos/2026-02-11/bloomberg-tech-2-11-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Strategy CEO on Crypto Weakness, Dealmaking](https://www.bloomberg.com/news/videos/2026-02-11/strategy-ceo-on-crypto-weakness-dealmaking-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Musk Restructures xAI’s Teams After Co-Founders Depart](https://www.bloomberg.com/news/articles/2026-02-11/musk-restructures-xai-s-teams-after-co-founders-exit) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Waymo Co-CEO Outlines Path to 1 Million Weekly Trips in 2026](https://www.bloomberg.com/news/articles/2026-02-11/waymo-co-ceo-outlines-path-to-1-million-weekly-trips-in-2026) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Waymo Co-CEO on the Road to 1 Million Robotaxi Rides a Week](https://www.bloomberg.com/news/videos/2026-02-11/waymo-co-ceo-on-the-road-to-1-million-rides-a-week-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Cisco Gives Tepid Margin Forecast, Marring Upbeat Outlook](https://www.bloomberg.com/news/articles/2026-02-11/cisco-gives-strong-sales-forecast-in-latest-sign-of-ai-inroads) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Real Estate Services Stocks Sink in Latest ‘AI Scare Trade’](https://www.bloomberg.com/news/articles/2026-02-11/real-estate-services-stocks-latest-domino-in-ai-scare-trade) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Brazil’s Marciano Testa Joins Billionaire Ranks After Rocky Agibank IPO](https://www.bloomberg.com/news/articles/2026-02-11/brazil-s-testa-joins-billionaire-ranks-after-rocky-agibank-ipo) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Ives Still Sees Big Winners Despite Software Selloff](https://www.bloomberg.com/news/videos/2026-02-11/ives-still-sees-big-winners-despite-software-selloff-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Blackstone Joins Anthropic's $20 Billion Funding Round](https://www.bloomberg.com/news/videos/2026-02-11/blackstone-joins-anthropic-s-20-billion-funding-round-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Robinhood CEO Still 'Tremendously' Bullish on Crypto](https://www.bloomberg.com/news/videos/2026-02-11/robinhood-ceo-tremendously-bullish-on-crypto-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Yardeni Sees Investors 'Scrambling for AI Immunity' in Stocks](https://www.bloomberg.com/news/videos/2026-02-11/yardeni-sees-investors-scrambling-for-ai-immunity-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Apple’s Latest Attempt to Launch New Siri Runs Into Snags](https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Adam Mosseri Testifies in Social Media Addiction Trial](https://www.bloomberg.com/news/videos/2026-02-11/adam-mosseri-testifies-in-social-media-addiction-trial-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [VCs Break Taboo by Backing Both Anthropic, OpenAI in AI Battle](https://www.bloomberg.com/news/articles/2026-02-11/vcs-rush-to-back-rivals-openai-and-anthropic-as-ai-frenzy-mounts) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Lyft Stock Slips on Disappointing Forecast](https://www.bloomberg.com/news/videos/2026-02-11/lyft-stock-slips-on-disappointing-forecast-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Nuclear Startup Inertia Raises $450M Series A](https://www.bloomberg.com/news/videos/2026-02-11/nuclear-startup-inertia-raises-450m-series-a-video) *(Bloomberg Technology)*
+- [ ] 2026-02-11 [Google Launches AI Shopping Features](https://www.bloomberg.com/news/videos/2026-02-11/google-launches-ai-shopping-features-video) *(Bloomberg Technology)*
+- [ ] 2026-02-12 [‘We’ll Find the Remnants of Ancient Alien Civilizations’: Read Musk’s Gibberish Rant from His xAI All-Hands Meeting](https://gizmodo.com/well-find-the-remnants-of-ancient-alien-civilizations-read-musks-gibberish-rant-from-his-xai-all-hands-meeting-2000720876) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [As Patagonia Burns, the World May Lose Some of its Most Ancient Trees](https://gizmodo.com/as-patagonia-burns-the-world-may-lose-some-of-its-most-ancient-trees-2000720805) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [‘Severance’ Will Likely End After Season 4](https://gizmodo.com/severance-ending-season-4-apple-tv-2000720847) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [OpenAI Researcher Quits, Warns Its Unprecedented ‘Archive of Human Candor’ Is Dangerous](https://gizmodo.com/openai-researcher-quits-warns-its-unprecedented-archive-of-human-candor-is-dangerous-2000720822) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [You Can Rent HP’s Ginormous Gaming Laptops. Here’s Why You Shouldn’t](https://gizmodo.com/you-can-rent-hps-ginormous-gaming-laptops-heres-why-you-shouldnt-2000720761) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [Elon Musk Is Winning His War on Government Oversight](https://gizmodo.com/elon-musk-is-winning-his-war-on-government-oversight-2000720803) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [Jar Jar Binks’ New ‘Star Wars’ Comic Finally Does Something About His Clone Wars Complicity](https://gizmodo.com/jar-jar-binks-comic-kelleran-beq-palpatine-clone-wars-rebels-2000720679) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [America’s Largest Particle Collider Just Shut Down. Here’s What Happens Next](https://gizmodo.com/americas-largest-particle-collider-just-shut-down-heres-what-happens-next-2000720696) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [You Could Lose Track of Time Appreciating These Immaculate ‘Jujutsu Kaisen’ Color Scripts](https://gizmodo.com/jujutsu-kaisen-jjk-anime-mappa-crunchyroll-culling-game-color-scripts-2000720652) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [The Success of ‘Knight of the Seven Kingdoms’ Is Boosting Its Comic Adaptations](https://gizmodo.com/the-success-of-knight-of-the-seven-kingdoms-is-boosting-its-comic-adaptations-2000720651) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [Ashley Johnson Understands the ‘Last of Us’ Season 2 Backlash](https://gizmodo.com/ashley-johnson-understands-the-last-of-us-season-2-backlash-2000720558) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [The Very American Toyota Highlander Goes All-Electric](https://gizmodo.com/the-very-american-toyota-highlander-goes-all-electric-2000720683) *(Gizmodo – Technology)*
+- [ ] 2026-02-11 [Moderna Has a Promising New Flu mRNA Vaccine. Trump’s FDA Wants Nothing to Do With It](https://gizmodo.com/moderna-has-a-promising-new-flu-mrna-vaccine-trumps-fda-wants-nothing-to-do-with-it-2000720609) *(Gizmodo – Technology)*
+- [ ] 2026-02-12 [Diablo II: Resurrected is adding warlock as a brand new player class](https://www.engadget.com/gaming/diablo-ii-resurrected-is-adding-warlock-as-a-brand-new-player-class-000130003.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [The great RAMaggedon of 2026 might have just claimed the Steam Deck](https://www.engadget.com/gaming/pc/the-great-ramaggedon-of-2026-might-have-just-claimed-the-steam-deck-211958306.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Get up to 81 percent off ExpressVPN two-year plans](https://www.engadget.com/deals/get-up-to-81-percent-off-expressvpn-two-year-plans-180602916.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [How to cancel Mullvad VPN](https://www.engadget.com/cybersecurity/vpn/how-to-cancel-mullvad-vpn-200000516.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Anthropic beefs up Claude's free tier as OpenAI prepares to stuff ads into ChatGPT's](https://www.engadget.com/ai/anthropic-beefs-up-claudes-free-tier-as-openai-prepares-to-stuff-ads-into-chatgpts-194100939.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Apple just released iOS 26.3 alongside updates for the Mac, iPad and Apple Watch](https://www.engadget.com/mobile/smartphones/apple-just-released-ios-263-alongside-updates-for-the-mac-ipad-and-apple-watch-193532483.html?src=rss) *(Engadget)*
+- [ ] 2026-02-11 [Amazon's same-day prescription deliveries are coming to even more cities](https://www.engadget.com/big-tech/amazons-same-day-prescription-deliveries-are-coming-to-even-more-cities-192221224.html?src=rss) *(Engadget)*
+- [ ] 2026-02-12 [ビジネスアーキテクトは再定義　その役割をIT部門がまず担う](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020900021/020500210/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [場当たり的なAI導入の末路　戦略欠如で陥る3つの落とし穴](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020500531/020500001/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [「使える」から「使いこなせる」へ　製品開発の発想で進化させる](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/111200516/020500004/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [「チャット」機能でダウンロードしたLLMと対話、ソフト開発者向けの画面も有用](https://xtech.nikkei.com/atcl/nxt/column/18/03469/011600003/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [Windows 11の「スタート」を使いやすく、邪魔者は消しつつ表示数を増やす](https://xtech.nikkei.com/atcl/nxt/column/18/03457/122600006/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [パスワードの定期変更を義務化すると副作用の恐れ、導入すべきは多要素認証](https://xtech.nikkei.com/atcl/nxt/column/18/01842/012000102/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [2位は「川勝前知事は正しかった？　『リニアで井戸枯れ』報道受け静岡に脚光」経営層の注目トップ10](https://xtech.nikkei.com/atcl/nxt/column/18/02156/020600349/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [Azureのアーキテクチャ要件定義の進め方](https://xtech.nikkei.com/atcl/nxt/column/18/03485/020400003/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [注目高まるゼロトラスト　昨今のセキュリティー製品／サービス利用実態は](https://xtech.nikkei.com/atcl/nxt/column/18/00138/020901954/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [AIエージェントがシステム障害対応、NTTデータの社内ベンチャーが事業化](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11477/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [北國銀行内から出た疑問、リーダーの背中押したFinTech企業の「スピード」](https://xtech.nikkei.com/atcl/nxt/column/18/03444/020900008/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [「やられたらやり返す」で業績悪化のドコモ、戦闘力強化で徹底抗戦の構え](https://xtech.nikkei.com/atcl/nxt/column/18/00687/020900236/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [「まったく新しい体験」を意識的にしないと自分の価値は上がらない](https://xtech.nikkei.com/atcl/nxt/column/18/00166/020900193/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [年上部下は「消極的」でも「抵抗勢力」でもない、誤解と思い込みを止めよう](https://xtech.nikkei.com/atcl/nxt/column/18/01775/021000256/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [Excelで「かつて正解だったやり方」今は昔、複雑なIF関数の計算をデトックス](https://xtech.nikkei.com/atcl/nxt/column/18/00286/020900399/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [Edgeに追加されたタブの新しい管理機能、検索や自動整理を使いこなす](https://xtech.nikkei.com/atcl/nxt/column/18/01787/020900214/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [サントリーやキユーピーも参画、卸やメーカー巻き込み流通構造ごと変える](https://xtech.nikkei.com/atcl/nxt/column/18/03486/020500003/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [米政府機関が示す不正ログイン対策の「現実解」、多要素認証はこの3つから](https://xtech.nikkei.com/atcl/nxt/column/18/03490/020900004/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [ThreadsにAIでフィードを制御できる新機能「Dear Algo」](https://www.itmedia.co.jp/news/articles/2602/12/news054.html) *(ITmedia AI＋)*
+- [ ] 2026-02-11 [Anthropic、「Claude」無料版にスキルなど4機能を解放](https://www.itmedia.co.jp/aiplus/articles/2602/12/news053.html) *(ITmedia AI＋)*
+- [ ] 2026-02-11 [Claude Opus 4.6登場　考えるコストの自動最適化と、AIが組織で動く「エージェントチーム」](https://atmarkit.itmedia.co.jp/ait/articles/2602/12/news018.html) *(ITmedia AI＋)*
+- [ ] 2026-02-12 [｢SaaSの死｣震源、アンソロピックの実力　オフィスに照準でAI競争優位 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN113Z50R10C26A2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-12 [AIがやねうら王をC#に移植してしまった件 \| やねうら王 公式サイトやねうら王 公式サイト](https://yaneuraou.yaneu.com/2026/02/11/yaneuraou-csharp-by-ai/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-12 [Geminiの全チャット履歴をNotebookLMに食わせて「自分専用ナレッジベース」を作った話](https://zenn.dev/minipoisson/articles/d8b307f8eedc5f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-12 [日本企業にありがちな「アジャイルの誤解」を解き、現場に定着させるための実践ガイド](https://zenn.dev/ncdc/articles/4428c3cad9421b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [欧州委「エンジン車禁止」撤回へ](https://xtech.nikkei.com/atcl/nxt/mag/at/18/00138/00001/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [[石野純也の「スマホとお金」] なぜドコモだけ「端末購入プログラム」で大損したのか？ 決算で見えた“返し忘れ”前提の甘い見通し](https://k-tai.watch.impress.co.jp/docs/column/value/2085049.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [忙しい社会人のための最強勉強術【ChatGPT × Obsidian × NotebookLM】 - Qiita](https://qiita.com/Lambwool-711/items/f35a9aadc20a0200ff24) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [Google「Genie 3」で“リアルタイム操作できる3Dゲーム”生成祭り。文章や画像から動き回れるバーチャル世界をサクッと作成（生成AIクローズアップ） \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/02/11/4861.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [AIと新時代を切り拓く。これからのSREとメルカリIBISの挑戦](https://speakerdeck.com/0gm/aitoxin-shi-dai-woqie-rituo-ku-korekaranosretomerukariibisnotiao-zhan) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [逆境の中で、技術選定はどう行われてきたのか。「技術選定を突き詰める Online Conference」全11セッションの見どころ - Findy Media](https://findy-code.io/media/articles/tech-selection-conf-2026) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [Announcing TypeScript 6.0 Beta - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [【特集】 液晶付きキーボードを魔改造して“ワープロ風PC”を作ってみた](https://pc.watch.impress.co.jp/docs/topic/feature/2084561.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [Cloudflareを使い倒してmarkdownやMarpを一瞬で公開できるサービスを作った](https://zenn.dev/ponyo877/articles/fd87e7b6b996c0) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [わずか45秒で巨大電力会社の中枢が乗っ取られる…｢セキュリティがガバガバ｣すぎる日本企業の根本問題](https://president.jp/articles/-/108679) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [CLAUDE.md / Rules / Skills / Subagentsの役割と使い分け](https://zenn.dev/helloiamktn/articles/9e99e06d6f1a25) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-11 [個人で10体のAI Agentを運用して生活を自動化した話](https://zenn.dev/techsfree/articles/multi-agent-home-automation) *(Zenn – トピック LLM)*
+- [ ] 2026-02-11 [Claude Code x ローカルLLM: いつ切り替えるべきかの判断基準](https://zenn.dev/correlate/articles/local-llm-judgment) *(Zenn – トピック LLM)*
+- [ ] 2026-02-11 [ナレッジグラフのテキスト化、モデルによって変えるべきらしい](https://zenn.dev/sea_turt1e/articles/kg-llm-bench) *(Zenn – トピック LLM)*
