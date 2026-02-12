@@ -30749,3 +30749,57 @@
 - [ ] 2026-02-12 [AIは「確率的オウム」を卒業したのか？](https://zenn.dev/lluminai_tech/articles/1af542a29c59ab) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-11 [俳句は本当に「エンコード/デコード」なのか？ゆる言語学ラジオから学ぶオートエンコーダーの概念（おまけ：復号化警察について）](https://zenn.dev/ext0mmy/articles/4e7c094b86e204) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-11 [Ray 2.53.0 リリースノート解説](https://zenn.dev/tosshi/articles/5a5139b6748b99) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-12T12:33:21.762Z
+- [ ] 2026-02-12 [I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-12 [State-sponsored hackers exploit AI for advanced cyberattacks](https://www.artificialintelligence-news.com/news/state-sponsored-hackers-ai-cyberattacks-google/) *(Artificial Intelligence News)*
+- [ ] 2026-02-12 [Teen Social Media Bans Have Little Effect on Bottom Line](https://www.bloomberg.com/news/newsletters/2026-02-12/teen-social-media-bans-have-little-effect-on-bottom-line) *(Bloomberg Technology)*
+- [ ] 2026-02-12 [SoftBank Swings to Profit on Valuation Boost From OpenAI Bet](https://www.bloomberg.com/news/articles/2026-02-12/softbank-swings-to-profit-on-valuation-boost-from-its-openai-bet) *(Bloomberg Technology)*
+- [ ] 2026-02-12 [D.E. Shaw, Founders Fund Among $20 Billion Anthropic Deal Backers](https://www.bloomberg.com/news/videos/2026-02-12/d-e-shaw-founders-fund-among-anthropic-deal-backers-video) *(Bloomberg Technology)*
+- [ ] 2026-02-12 [Check Point’s Billings Reach Record $1 Billion on AI Demand](https://www.bloomberg.com/news/articles/2026-02-12/check-point-s-billings-reach-record-1-billion-on-ai-demand) *(Bloomberg Technology)*
+- [ ] 2026-02-12 [Hua Hong Revenue Forecast Misses as China AI Race Heats Up](https://www.bloomberg.com/news/articles/2026-02-12/hua-hong-forecast-misses-as-chipmaker-trails-in-china-ai-race) *(Bloomberg Technology)*
+- [ ] 2026-02-12 [‘Old Economy’ Is Hot Again, Propelled by Data and AI Backlash](https://www.bloomberg.com/news/articles/2026-02-12/-old-economy-is-hot-again-propelled-by-data-and-ai-backlash) *(Bloomberg Technology)*
+- [ ] 2026-02-12 [RELX Projects ‘Strong Growth’ and Works to Quell AI Concerns](https://www.bloomberg.com/news/articles/2026-02-12/lexisnexis-owner-relx-s-sales-growth-misses-analyst-estimates) *(Bloomberg Technology)*
+- [ ] 2026-02-12 [Citi's Manthey Says Volatility Levels Points to Flat Stocks Performance in Near Term](https://www.bloomberg.com/news/videos/2026-02-12/citi-says-volatility-points-to-flat-stocks-in-near-term-video) *(Bloomberg Technology)*
+- [ ] 2026-02-12 [In Delhi, the AI Boom Comes With a $33,000 Hotel Room Fee](https://www.bloomberg.com/news/articles/2026-02-12/hotels-hit-33-000-a-night-in-delhi-for-india-ai-summit) *(Bloomberg Technology)*
+- [ ] 2026-02-12 [New CFTC Chairman Michael Selig on How to Regulate Prediction Markets](https://www.bloomberg.com/news/videos/2026-02-12/new-cftc-chairman-on-how-to-regulate-prediction-markets-video) *(Bloomberg Technology)*
+- [ ] 2026-02-12 [Siemens CEO Says Demand From US Data Centers Is 'Very Strong'](https://www.bloomberg.com/news/videos/2026-02-12/siemens-ceo-sees-very-strong-demand-from-us-data-centers-video) *(Bloomberg Technology)*
+- [ ] 2026-02-12 [UK Ad Group Chides Disney for ‘Predator: Badlands’ Ad With Severed Robo-Body](https://gizmodo.com/uk-ad-group-chides-disney-for-predator-badlands-ad-with-severed-robo-body-2000720654) *(Gizmodo – Technology)*
+- [ ] 2026-02-12 [WhatsApp Basically Wiped from Russian Internet](https://gizmodo.com/whatsapp-basically-wiped-from-russian-internet-2000720488) *(Gizmodo – Technology)*
+- [ ] 2026-02-12 [WhatsApp is now fully blocked in Russia](https://www.engadget.com/social-media/whatsapp-is-now-fully-blocked-in-russia-110953485.html?src=rss) *(Engadget)*
+- [ ] 2026-02-12 [The best record players for 2026](https://www.engadget.com/audio/best-record-player-120000239.html?src=rss) *(Engadget)*
+- [ ] 2026-02-12 [Apple acquires Severance and will produce future seasons in-house](https://www.engadget.com/entertainment/streaming/apple-acquires-severance-and-will-produce-future-seasons-in-house-092405747.html?src=rss) *(Engadget)*
+- [ ] 2026-02-12 [OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](https://huggingface.co/blog/openenv-turing) *(Hugging Face Blog)*
+- [ ] 2026-02-12 [Windows標準のメモ帳に深刻度8.8の脆弱性、リモートでコード実行の恐れ](https://xtech.nikkei.com/atcl/nxt/news/24/03088/) *(日経クロステック IT)*
+- [ ] 2026-02-12 [Gemini 3.0 ProやGPT-5.2に匹敵する中国製AI「GLM-5」が登場、Word文書作成などの事務作業も可能でモデルを自由にダウンロード可能](https://gigazine.net/news/20260212-z-ai-glm-5/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-12 [香川県、なんとNVIDIAと連携協定締結へ。全国自治体で初、AI企業誘致・IT人材の育成を目指して - AUTOMATON](https://automaton-media.com/articles/newsjp/nvidia-20260212-420144/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-12 [ChatGPTやClaudeから、行政APIを介して最新の行政データにアクセス － AI HYVEとN-3、「行政オープンデータリモートMCPサーバ」を無料公開 －](https://prtimes.jp/main/html/rd/p/000000006.000146070.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-12 [Claude Code Webを10並列で回す！チームみらいの選挙支援ツールを作りながら構築した、超並列LLMコーディングを実現するためのハーネスエンジニアリング｜Jun Ito](https://note.com/jujunjun110/n/n66306cab294a) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-12 [トム・クルーズVSブラッド・ピットのAI映像に「我々は終わりだ」と『デッドプール』脚本家が絶望ポスト ─ 「AIでハリウッド最新作と見分けつかぬ作品が出来る」 \| THE RIVER](https://theriver.jp/reese-ai-post/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-12 [防衛省が世論工作研究着手](https://www.chibanippo.co.jp/newspack/20221209/1006902) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-12 [Something Big Is Happening](https://shumer.dev/something-big-is-happening) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-12 [AIが人間を雇うサービス「RentAHuman」が登場、AIが読み取り可能な情報でなければ個人の履歴書は存在しないも同然 【生成AI事件簿】AIにとって、人間は「システム上から直接呼び出すことのできるリソース」に過ぎない \| JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/articles/-/93226) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-12 [I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed \| James Randall](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-12 [マイナンバーカードの暗証番号を忘れた！ロック解除方法を解説](https://tetsuzuki-planner.jp/plan/unlock-mynacard) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [韓国メーカー「ALT」が日本に登場、テンキー付き折りたたみケータイ型スマホ「MIVE ケースマ」19日発売](https://k-tai.watch.impress.co.jp/docs/news/2085310.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [Claudeの無料ユーザーもファイル作成・外部サービスへの接続・スキル使用などが可能に](https://gigazine.net/news/20260212-claude-free/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [Windows 11「26H1」はスナドラX2専用に。命名規則が混乱招く懸念も](https://pc.watch.impress.co.jp/docs/news/2085341.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [Windowsの高速化をがんばってみた](https://zenn.dev/maedan/articles/91caa405e30165) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-12 [JetBrains が組織向け AI 管理/分析機能を公開](https://zenn.dev/nattosystem_jp/articles/61930ea3d1b554) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [[Claude Code] worktree + ISSUE.mdを使ったブレない並列開発手法](https://zenn.dev/ischca/articles/cc-guide-worktree-workflow) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [# 【2026年版】中国のAI修士新卒における就職事情：Red Oceanの先にある現実](https://zenn.dev/lixian/articles/40c597ef9abc9e) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [[SORACOM]Codex app+Soracom cliで、ソラカメ撮影・LLM処理してみた話](https://zenn.dev/lnest_knowledge/articles/8d81af78182752) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [数学の宿題で迷子になったときに使った Photomath の感想](https://zenn.dev/larkinward/articles/be810adf12e18f) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [🚀 【OpenAI Codex App】Scheduled Automationsで実現する「完全自動リファクタリング・テスト」](https://zenn.dev/emp_tech_blog/articles/openai-codex-app-introduction) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [初めてのRAGシステム構築](https://zenn.dev/bebechien/articles/building-your-first-rag-system) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [宿題の最初の一歩が重い人へ：AI Homework Helper を使ってみた感想](https://zenn.dev/larkinward/articles/45aef46b9754bb) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [EDiE-DMD-01：「非線形振動子をスペクトルとして観測する」](https://zenn.dev/practicalspirit/articles/4aab2c2b22611e) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [PAI RedTeam Skill：32 エージェントでアイデアを徹底攻撃](https://zenn.dev/yasuhito/articles/pai-redteam-skill) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [PAI Recon Skill：セキュリティ偵察の 5 つのワークフロー](https://zenn.dev/yasuhito/articles/pai-recon-skill) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [LLMという「確率的鏡像」の正体](https://zenn.dev/zazenpra/articles/0c0ab58b6720d7) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [Deno sandboxのようなAIエージェント隔離みたいなことをKubernetesで実現する BotBoxを作ったはなし](https://zenn.dev/reoring/articles/c208197654413f) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [AIアバターで広告動画制作はどこまで楽になる？インフルエンサー運用担当のリアルな体験記](https://zenn.dev/sophie_belle/articles/164f65a58397ce) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [Claudeちゃんと夜のお散歩をしてみた](https://zenn.dev/nextbeat/articles/2026-02-embodied-claude-walk) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [Agent Teams に Council パターンを導入して計画フェーズを強化する](https://zenn.dev/kok1eeeee/articles/o-m-cc-council-pipeline-hybrid) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [Replicate + ComfyUI でカスタム LoRA × Checkpoint の画像生成 API を構築してみた](https://zenn.dev/xei/articles/replicate-comfyui-lora-checkpoint) *(Zenn – トピック AI)*
+- [ ] 2026-02-12 [2,854人が読んで誰も反応しない確率を計算し、匿名チャットで検証した ― 技術コミュニティにおける「鎧」のコスト](https://zenn.dev/dosanko_tousan/articles/5ecbd17843db41) *(Zenn – トピック AI)*
