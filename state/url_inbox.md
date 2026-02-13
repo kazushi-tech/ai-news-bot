@@ -31625,3 +31625,96 @@
 - [ ] 2026-02-13 [Claude Code 初めて使いたい人向けガイド](https://zenn.dev/sprix_it/articles/3a2f657bda046e) *(Zenn – トピック AI)*
 - [ ] 2026-02-13 [SNS AI活用で劇的進化！運用効率化・売上UPを叶える戦略から最新ツールまで徹底解説](https://zenn.dev/ai_saas_media/articles/f8ae855040fde9) *(Zenn – トピック AI)*
 - [ ] 2026-02-13 [SIGNATE×GitHub Actionsでローカル環境なしのクラウドML実践ガイド](https://zenn.dev/shogaku/articles/signate-github-actions-cloud-ml) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-13T18:28:51.388Z
+- [ ] 2026-02-13 [AI is indeed coming – but there is also evidence to allay investor fears](https://www.theguardian.com/technology/2026/feb/13/ai-effects-on-business-industry-evidence-to-allay-investor-fears) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-13 [‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations](https://www.theguardian.com/environment/2026/feb/13/elon-musk-xai-datacenters-air-pollution-mississippi) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-13 [UK ad agencies undergo their biggest exodus of staff as AI threatens industry](https://www.theguardian.com/media/2026/feb/13/uk-ad-agencies-biggest-annual-exodus-of-staff-ai-threatens-industry) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-13 [Canada school deaths suspect created shooting simulator on gaming platform](https://www.theguardian.com/world/2026/feb/13/canada-school-deaths-suspect-created-shooting-simulator-roblox) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-13 [‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-13 [Zillow Has Gone Wild—for AI](https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-13 [Campaign Urges Users to Quit ChatGPT Over OpenAI’s Support for Trump and ICE](https://futurism.com/future-society/boycott-chatpgpt-trump) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-13 [Microsoft AI CEO: Virtually All White Collar Tasks Will Be Automated Within a Year and a Half](https://futurism.com/artificial-intelligence/microsoft-all-white-collar-tasks-automated) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-13 [All These Ring Cameras Are Creating a “Surveillance Nightmare,” Critics Say](https://futurism.com/artificial-intelligence/ring-cameras-surveillance-privacy) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-13 [AI forecasting model targets healthcare resource efficiency](https://www.artificialintelligence-news.com/news/ai-forecasting-model-targets-healthcare-resource-efficiency/) *(Artificial Intelligence News)*
+- [ ] 2026-02-13 [What Murder Mystery 2 reveals about emergent behaviour in online games](https://www.artificialintelligence-news.com/news/what-murder-mystery-2-reveals-about-emergent-behaviour-in-online-games/) *(Artificial Intelligence News)*
+- [ ] 2026-02-13 [Agentic AI drives finance ROI in accounts payable automation](https://www.artificialintelligence-news.com/news/agentic-ai-drives-finance-roi-in-accounts-payable-automation/) *(Artificial Intelligence News)*
+- [ ] 2026-02-13 [OpenAI GPT-5.3-Codex-Spark Shows What's Possible With Cerebras](https://aibusiness.com/generative-ai/openai-gpt-5-3-codex-spark-shows-what-s-possible-with-cerebras) *(AI Business)*
+- [ ] 2026-02-13 [New Waymo Robotaxi now Running Fully Autonomously on US Roads](https://aibusiness.com/generative-ai/new-waymo-robotaxi-now-running-fully-autonomously-on-us-roads) *(AI Business)*
+- [ ] 2026-02-13 [Anthropic Raises $30B, Bringing its Valuation to $380B](https://aibusiness.com/generative-ai/anthropic-raises-30b-bringing-valuation-to-380b) *(AI Business)*
+- [ ] 2026-02-13 [Why Sigmund Freud is making a comeback in the age of authoritarianism and AI](https://theconversation.com/why-sigmund-freud-is-making-a-comeback-in-the-age-of-authoritarianism-and-ai-273499) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-13 [OpenAI has deleted the word ‘safely’ from its mission – and its new structure is a test for whether AI serves society or shareholders](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-13 [Ransomware Groups Claimed 2,000 Attacks in Just Three Months](https://www.techrepublic.com/article/news-ransomware-attacks-surge-2025/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-13 [New iOS 27 Rumors Hint at Big Changes for Your iPhone](https://www.techrepublic.com/article/news-ios-27-rumors-february-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-13 [OpenAI Taps Cerebras for GPT-5.3 Codex Spark in Bid to Loosen Nvidia’s Grip](https://www.techrepublic.com/article/news-openai-gpt-5-3-codex-spark-cerebras-nvidia/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-13 [Elon Musk Pivots to the Moon, Calls It the Fastest Path to Saving Civilization](https://www.techrepublic.com/article/news-elon-musk-spacex-moon-city-shift-from-mars/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-13 [Unlocking Niche Markets: Multi-Agent AI and the Rise of Atomic Business Units](https://insideainews.com/2026/02/13/unlocking-niche-markets-multi-agent-ai-and-the-rise-of-atomic-business-units/) *(insideBIGDATA)*
+- [ ] 2026-02-13 [Building Vertex AI Search Applications: A Comprehensive Guide](https://www.kdnuggets.com/building-vertex-ai-search-applications-a-comprehensive-guide) *(KDnuggets)*
+- [ ] 2026-02-13 [12 Python Libraries You Need to Try in 2026](https://www.kdnuggets.com/12-python-libraries-you-need-to-try-in-2026) *(KDnuggets)*
+- [ ] 2026-02-13 [OpenAI Tapped for Voice Control Tech in US Drone Swarm Challenge](https://www.bloomberg.com/news/articles/2026-02-13/openai-tapped-for-voice-control-tech-in-us-drone-swarm-challenge) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [US Briefly Lists Alibaba, Baidu as Aiding China’s Military](https://www.bloomberg.com/news/articles/2026-02-13/us-to-put-alibaba-on-list-for-aiding-china-s-military-reuters) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [AI Fears Drive Volatility, Triggering Declines in Stock Market It Powered for Years](https://www.bloomberg.com/news/articles/2026-02-13/ai-morphs-into-villain-of-the-stock-market-it-powered-for-years) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [Video Games Need to Be Cheaper to Buy](https://www.bloomberg.com/news/newsletters/2026-02-13/video-games-need-to-be-cheaper-to-buy) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [AI Fears Weigh on Call Center Operator’s $600 Million Bond Sale](https://www.bloomberg.com/news/articles/2026-02-13/ai-fears-weigh-on-call-center-operator-s-600-million-bond-sale) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [Private Credit’s Software Bet Is Bigger Than It Appears](https://www.bloomberg.com/news/videos/2026-02-13/private-credit-s-software-bet-is-bigger-than-it-appears-video) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [Building Data Centers in Space](https://www.bloomberg.com/news/videos/2026-02-13/building-data-centers-in-space-video) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [Goldman Traders Launch AI-Proof Software Basket Amid Sector Rout](https://www.bloomberg.com/news/articles/2026-02-13/goldman-traders-launch-ai-proof-software-basket-amid-sector-rout) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [Low Chance of Contagion From Software Stock Selloff: Jim Caron](https://www.bloomberg.com/news/videos/2026-02-13/low-chance-of-contagion-from-software-selloff-jim-caron-video) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [Amazon Eyes Longest Losing Streak Since 2006 on Capex Angst](https://www.bloomberg.com/news/articles/2026-02-13/amazon-eyes-longest-losing-streak-since-2006-on-capex-angst) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [FTC Ratchets Up Microsoft Probe, Queries Rivals on Cloud, AI](https://www.bloomberg.com/news/articles/2026-02-13/ftc-ratchets-up-microsoft-probe-queries-rivals-on-cloud-ai) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [The Tech Basket of Stocks Is 'Incredibly Attractive,' Golub Says](https://www.bloomberg.com/news/videos/2026-02-13/the-tech-basket-is-incredibly-attractive-golub-says-video) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [Infleqtion’s Public Debut to Test Quantum Frenzy’s Staying Power](https://www.bloomberg.com/news/articles/2026-02-13/infleqtion-s-public-debut-to-test-quantum-frenzy-s-staying-power) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [Shield AI in Talks to Raise $1 Billion at $12 Billion Valuation](https://www.bloomberg.com/news/articles/2026-02-13/shield-ai-in-talks-to-raise-1-billion-at-12-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [Jerry Rice Says Data Could Have Let Him Set More Records](https://www.bloomberg.com/news/videos/2026-02-13/jerry-rice-on-how-data-is-helping-football-video) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [Meituan Warns of $3.5 Billion Loss After China Food War Worsens](https://www.bloomberg.com/news/articles/2026-02-13/meituan-warns-of-up-to-3-5-billion-loss-in-price-war-toll) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [JPMorgan’s Berro Sees Fixed Income Traders as Focused, Not Relaxed](https://www.bloomberg.com/news/videos/2026-02-13/fixed-income-traders-are-focused-not-relaxed-berro-video) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [Rotation Trade About Investors Being Long the Wrong Stuff, Says HSBC’s Kettner](https://www.bloomberg.com/news/videos/2026-02-13/rotation-about-people-being-long-the-wrong-stuff-hsbc-video) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [Can Quantum Computing Power the AI Boom?](https://www.bloomberg.com/news/videos/2026-02-13/can-quantum-computing-power-the-ai-boom-video-mlkwd6w2) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [AI Startup Legora in Talks to Triple Valuation to $6 Billion](https://www.bloomberg.com/news/articles/2026-02-13/ai-startup-legora-in-talks-to-triple-valuation-to-6-billion) *(Bloomberg Technology)*
+- [ ] 2026-02-13 [10 Romantically Spooky Horror Movies to Stream for Valentine’s Day](https://gizmodo.com/valentines-day-streaming-horror-movies-2000719886) *(Gizmodo – Technology)*
+- [ ] 2026-02-13 [Ring Cancels Flock Safety Partnership Amid Backlash Over ‘Creepy’ Super Bowl Ad](https://gizmodo.com/ring-cancels-flock-safety-partnership-amid-backlash-over-creepy-super-bowl-ad-2000721914) *(Gizmodo – Technology)*
+- [ ] 2026-02-13 [World’s Oldest Known Pieces of Sewn Clothing Sat in an Oregon Cave for 12,000 Years](https://gizmodo.com/worlds-oldest-known-pieces-of-sewn-clothing-sat-in-an-oregon-cave-for-12000-years-2000721726) *(Gizmodo – Technology)*
+- [ ] 2026-02-13 [Now We Know When Prime Video Is Bringing ‘Good Omens’ to Its End](https://gizmodo.com/good-omens-finale-release-date-prime-video-neil-gaiman-2000721915) *(Gizmodo – Technology)*
+- [ ] 2026-02-13 [White House Withholds Funding for NASA Science Missions Despite Recent Budget Bill](https://gizmodo.com/white-house-withholds-funding-for-nasa-science-missions-despite-recent-budget-bill-2000721603) *(Gizmodo – Technology)*
+- [ ] 2026-02-13 [‘Home Alone-Inspired’ Drug Dealer Who Rigged House With Booby Traps Gets 7 Years in Prison](https://gizmodo.com/home-alone-inspired-drug-dealer-who-rigged-house-with-booby-traps-gets-7-years-in-prison-2000721216) *(Gizmodo – Technology)*
+- [ ] 2026-02-13 [The Return of the ‘Razor Crest’ in ‘Mandalorian and Grogu’ Is Even Sillier Than We Thought](https://gizmodo.com/mandalorian-and-grogu-razor-crest-jon-favreau-star-wars-toys-2000721728) *(Gizmodo – Technology)*
+- [ ] 2026-02-13 [There’s One, and Only One, Reason To Get Excited for the Samsung Galaxy S26](https://gizmodo.com/theres-one-and-only-one-reason-to-get-excited-for-the-samsung-galaxy-s26-2000721695) *(Gizmodo – Technology)*
+- [ ] 2026-02-13 [‘Teenage Mutant Ninja Turtles’ and ‘G.I. Joe’ Are Combining Into the Action Figures of Your ’80s Fever Dreams (Exclusive)](https://gizmodo.com/tmnt-gi-joe-playmates-figures-vehicles-price-release-date-2000721686) *(Gizmodo – Technology)*
+- [ ] 2026-02-13 [The Russo Brothers Say Steve Rogers Is Key to ‘Avengers: Doomsday’](https://gizmodo.com/avengers-doomsday-steve-rogers-key-role-2000721527) *(Gizmodo – Technology)*
+- [ ] 2026-02-13 [This Retro ‘Wonder Man’ Trailer Is So Fun, We Wish It Was a Real Movie](https://gizmodo.com/marvel-wonder-man-retro-trailer-2000721532) *(Gizmodo – Technology)*
+- [ ] 2026-02-13 [Apple's Magic Mouse is down to $68 right now](https://www.engadget.com/deals/apples-magic-mouse-is-down-to-68-right-now-152708925.html?src=rss) *(Engadget)*
+- [ ] 2026-02-13 [Nintendo’s Virtual Boy accessory lets you play VR Mario and Zelda on Switch 2](https://www.engadget.com/gaming/nintendo/nintendos-virtual-boy-accessory-lets-you-play-vr-mario-and-zelda-on-switch-2-172138483.html?src=rss) *(Engadget)*
+- [ ] 2026-02-13 [ExpressVPN deal: Two-year plans are up to 81 percent off right now](https://www.engadget.com/deals/expressvpn-deal-two-year-plans-are-up-to-81-percent-off-right-now-180602064.html?src=rss) *(Engadget)*
+- [ ] 2026-02-13 [Pick up Apple's iPhone Air MagSafe battery pack while it's down to a record-low price](https://www.engadget.com/deals/pick-up-apples-iphone-air-magsafe-battery-pack-while-its-down-to-a-record-low-price-144516992.html?src=rss) *(Engadget)*
+- [ ] 2026-02-13 [Good Luck, Have Fun, Don't Die rails against AI in style](https://www.engadget.com/entertainment/tv-movies/good-luck-have-fun-dont-die-rails-against-ai-in-style-154437854.html?src=rss) *(Engadget)*
+- [ ] 2026-02-13 [Meta is reportedly working to bring facial recognition to its smart glasses](https://www.engadget.com/ai/meta-is-reportedly-working-to-bring-facial-recognition-to-its-smart-glasses-144721330.html?src=rss) *(Engadget)*
+- [ ] 2026-02-13 [Apple's first-gen AirTags are on sale for $64 for a four-pack](https://www.engadget.com/deals/apples-first-gen-airtags-are-on-sale-for-64-for-a-four-pack-163619918.html?src=rss) *(Engadget)*
+- [ ] 2026-02-13 [The ridiculously tiny Kodak Charmera captured our hearts (and lots of shoddy pictures)](https://www.engadget.com/cameras/the-ridiculously-tiny-kodak-charmera-captured-our-hearts-and-lots-of-shoddy-pictures-140000245.html?src=rss) *(Engadget)*
+- [ ] 2026-02-13 [Meta really wants you to believe social media addiction is 'not a real thing'](https://www.engadget.com/social-media/meta-really-wants-you-to-believe-social-media-addiction-is-not-a-real-thing-130000257.html?src=rss) *(Engadget)*
+- [ ] 2026-02-13 [Why does my VPN keep disconnecting?](https://www.engadget.com/cybersecurity/vpn/why-does-my-vpn-keep-disconnecting-130000620.html?src=rss) *(Engadget)*
+- [ ] 2026-02-13 [DoorDashers are getting paid to close Waymo's self-driving car doors](https://www.engadget.com/transportation/doordashers-are-getting-paid-to-close-waymos-self-driving-car-doors-122711640.html?src=rss) *(Engadget)*
+- [ ] 2026-02-13 [Introducing Lockdown Mode and Elevated Risk labels in ChatGPT](https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt) *(OpenAI News)*
+- [ ] 2026-02-13 [Beyond rate limits: scaling access to Codex and Sora](https://openai.com/index/beyond-rate-limits) *(OpenAI News)*
+- [ ] 2026-02-13 [Custom Kernels for All from Codex and Claude](https://huggingface.co/blog/custom-cuda-kernels-agent-skills) *(Hugging Face Blog)*
+- [ ] 2026-02-13 [SDD（仕様駆動開発）のスラッシュコマンドを自分で作って運用している - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/02/12/173000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-13 [Cloudflare、「Markdown for Agents」を発表 ——エージェント向けにウェブページのHTMLをオンザフライでMarkdownに変換 \| gihyo.jp](https://gihyo.jp/article/2026/02/cloudflare-markdown-for-agents) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-13 [Claude Codeの「VS Code」拡張機能、一般公開　“CLIの操作体験”をエディタに融合](https://atmarkit.itmedia.co.jp/ait/articles/2602/13/news057.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-13 [【2026年2月版】生成AI 6大サービス比較：企業を情報漏えいから守るための管理者ガイド](https://atmarkit.itmedia.co.jp/ait/articles/2602/13/news015.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-13 [新代表選出の中道改革連合、早くも内紛へ](https://posfie.com/@Elif87995911/p/1ceOdu8) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-13 [「戦場のメリークリスマス」UHD BDなど3作品、発売中止](https://av.watch.impress.co.jp/docs/news/2085767.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-13 [副鼻腔手術用ナビにAIを追加して誤作動報告が8件から100件以上に急増](https://gigazine.net/news/20260213-ai-sinus-surgery-navigation-malfunctions-8-to-100/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-13 [【海外記事紹介】わずか243行で書かれたGPT実装『microgpt』が話題に — Python標準ライブラリのみで記述、GPTの動作理解に最適](https://techfeed.io/entries/698e8a33ae04206495f569a7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-13 [ゼロデイ脆弱性「CVE-2026-20700」はmacOS / tvOS / watchOS / visionOSにも影響／Appleがセキュリティ更新を実施](https://forest.watch.impress.co.jp/docs/news/2085724.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-13 [ワンクリックで「Windows Update」を無効化できるツールに新星、UIが物騒で潔い！／ちゃんと使える【やじうまの杜】](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2085707.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-13 [溶けた日本語を学ぶ子どもたち - AI吹替翻訳動画のちょっとした怖さ - farsite / 圏外日誌](https://farsite.hatenablog.com/entry/2026/02/12/141139) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-13 [【2026年最新】Claude CodeとAgent Skillsが変える開発の未来](https://zenn.dev/yuukikawabata/articles/claude-code-skills-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-02-13 [2026年版：RAG検索システムの実装と本番運用ガイド](https://zenn.dev/0h_n0/articles/ac14636a973cac) *(Zenn – トピック LLM)*
+- [ ] 2026-02-13 [MulmoCast v1.0.11 リリース](https://zenn.dev/singularity/articles/2026-02-11-mulmocast-release_v1_0_11) *(Zenn – トピック LLM)*
+- [ ] 2026-02-13 [AIにブラウザを渡したら何が起きたか — chrome-claude-bridgeの全記録](https://zenn.dev/yurukusa/articles/6f247b49337aa1) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [”DORA AI Capabilities Model"のレポートから見るScalar製品の価値？](https://zenn.dev/wfukatsu/articles/fe92caf5ab6f3c) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [Detectron2 × COCO形式アノテーション：独自の画像で高精度セグメンテーションモデルの作成方法](https://zenn.dev/idnet/articles/13e126e0b5dd51) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [【Claude Code】Agent Teamを役割ではなく「4つの性格」で組んだら、議論の性質が変わった](https://zenn.dev/happy_elements/articles/d01195392ceb10) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [Claude Code の Permissions を設定して承認の手間を減らす](https://zenn.dev/async_inc/articles/ac969254f3c0a8) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [Claude Codeの個人設定を.git/info/excludeでチームに影響させずに管理してみた](https://zenn.dev/gemcook/articles/be08798c0a2df9) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [全自動でラジオ番組を作ってみた](https://zenn.dev/midry3125/articles/2fd0569c007107) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [息を吸えばわかる——5分で体感するTransformer理論](https://zenn.dev/dosanko_tousan/articles/989678de3cc902) *(Zenn – トピック 機械学習)*
