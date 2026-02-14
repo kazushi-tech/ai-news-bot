@@ -31810,3 +31810,41 @@
 - [ ] 2026-02-13 [AIエージェントが自分の声を選ぶ — MioTTSゼロショットクローンで「声のワードローブ」を作った](https://zenn.dev/668/articles/miotts-voice-wardrobe) *(Zenn – トピック AI)*
 - [ ] 2026-02-13 [Consistency Models：拡散モデルの「速度」と「品質」のトレードオフを破壊する](https://zenn.dev/fuwamoekissaten/articles/7551cb050d1e54) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-13 [青空文庫17,000作品をベクトル化して文豪の「似ている作家」を計算してみた](https://zenn.dev/y1uda/articles/c8e47c52c07c03) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-14T12:19:49.486Z
+- [ ] 2026-02-14 [Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious](https://futurism.com/artificial-intelligence/anthropic-ceo-unsure-claude-conscious) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-14 [X Is In Such Dire Straits That Its Head of Product Says It Can’t Afford to Display the Color Blue](https://futurism.com/artificial-intelligence/twitter-x-color-blue) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-14 [China Summons Alibaba, Other Platforms Over Pricing Practice](https://www.bloomberg.com/news/articles/2026-02-14/china-summons-alibaba-other-platforms-over-pricing-practice) *(Bloomberg Technology)*
+- [ ] 2026-02-14 [Relooted, Reanimal and other new indie games worth checking out](https://www.engadget.com/gaming/playstation/relooted-reanimal-and-other-new-indie-games-worth-checking-out-120000234.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [非エンジニアがClaude Codeでアプリを作って公開した全記録](https://zenn.dev/tiaroka/articles/f6a0187b721607) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [37年前の攻殻機動隊に現実は追いついた？　士郎正宗氏明かすAI論：朝日新聞](https://digital.asahi.com/sp/articles/ASV1J31N1V1JUHBI01VM.html?ptoken=01KHDHBHX7WGKB4J15Q4EE9EQ9) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [WebLLMを使ってクラウドもAPIキーも不要なAIブラウザ自動化ツール「On-device AI browser」](https://gigazine.net/news/20260214-on-device-browser-agent/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [Agent Teams＋Skillsでエージェント3体と1週間働いたら、"自分の仕事"が再定義された](https://zenn.dev/neurostack_0001/articles/agent-teams-one-week-redefine-work) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [37年前の攻殻機動隊に現実は追いついた？　士郎正宗氏明かすAI論：朝日新聞](https://www.asahi.com/articles/ASV1J31N1V1JUHBI01VM.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [Claude Codeにコードジェネレーターを作らせるのがとても良かった](https://zenn.dev/happy_elements/articles/fc36f545f9e457) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [個人サービスのホスティング代、年1,500円まで削れた — 6サービス比較した結果](https://zenn.dev/helloworld/articles/b42240ad018a51) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [「Markdownだけで」顧客提案レベルのスライドを作ってみた【Slidev x Claude Opus 4.6】 - Qiita](https://qiita.com/ntaka329/items/47fb89fb6a84d9976d36) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [ABEMAのリアルタイム基盤紹介 \| CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/61806/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [品質工学入門（23）直交表を使った「最強のバグ出し」〜組み合わせテストを減らせる技術〜｜Macro-k](https://note.com/macrok/n/n443f9f39d0db) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [tmuxのウィンドウで動かしているコーディングエージェントのステータスを確認できるtcmuxを作った - Copy/Cut/Paste/Hatena](https://k1low.hatenablog.com/entry/2026/02/14/144858) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [TypeScript製ライブラリ VerifyFetch で「切れない」ファイルダウンロードを作ってみる - プププなテクブ](https://blog.inorinrinrin.com/entry/2026/02/14/171844) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [韓国から“ケータイ型Androidスマホ”が日本に上陸したワケ　3G停波の受け皿を狙う「ケースマ」の勝算](https://www.itmedia.co.jp/mobile/articles/2602/14/news022.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [一発OK!! 市民も使える！生成AI活用実例集（プロンプト集）３６３例](http://www.city.nanyo.yamagata.jp/dxchosei/5793) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [GitHub Agentic Workflows are now in technical preview - GitHub Changelog](https://github.blog/changelog/2026-02-13-github-agentic-workflows-are-now-in-technical-preview/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [Hatchet](https://hatchet.run/blog/tuis-are-easy-now) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [HOOK機能で「暴走RAG」を「答えないソクラテス」へ。疑似メタ認知アーキテクチャの実装記録](https://zenn.dev/mizunadad/articles/c93e3c6ee8a436) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [Multiagent Debate論文をローカルLLMで再現してみた](https://zenn.dev/takaha4k/articles/multiagent-debate-local-llm) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [APIの429/503を輻輳制御してみる](https://zenn.dev/ka_kan/articles/41b3cb1ab1256a) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [Claude Codeでコードを書かずに人生を管理している話](https://zenn.dev/odkysk/articles/26106742981635) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [OpenClaw完全ガイド第4章：ツールとスキルの活用 - Agent能力の拡張](https://zenn.dev/techsfree/articles/openclaw-manual-ja-ch4) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [OpenClaw完全ガイド第3章：最初のAgentを作成する - 実践チュートリアル](https://zenn.dev/techsfree/articles/openclaw-manual-ja-ch3) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [OpenClaw完全ガイド第2章：環境準備とインストール - ゼロからの構築手順](https://zenn.dev/techsfree/articles/openclaw-manual-ja-ch2) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [OpenClaw完全ガイド第1章：概念とアーキテクチャ - AI Agentオーケストレーション入門](https://zenn.dev/techsfree/articles/openclaw-manual-ja-ch1) *(Zenn – トピック LLM)*
+- [ ] 2026-02-13 [Echo](https://zenn.dev/alex_ryosuke/articles/6374d9977517eb) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [AIエージェントが「耳」を手に入れた — Tapoカメラ+faster-whisperで音声認識パイプライン](https://zenn.dev/668/articles/tapo-stt-ear-pipeline) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [Xcode 26.3のコーディングエージェントからHomebrewでインストールしたコマンドを利用する](https://zenn.dev/tochi86/articles/da4f7cf165863a) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [Claude Code スキルが膨れ続けた 15 日間 — 3 回の棚卸しで学んだこと](https://zenn.dev/shimo4228/articles/ecc-journey-part3) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [この便利機能、知ってた？意外と知られていないCursorのUI機能解説](https://zenn.dev/owl7628/articles/266cb998400936) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [Claude Code Agent Teamsの始め方。Subagentsとの違いと注意点をまとめる](https://zenn.dev/toono_f/articles/claude-code-agent-teams-guide) *(Zenn – トピック AI)*
