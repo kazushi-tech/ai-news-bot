@@ -31789,3 +31789,24 @@
 - [ ] 2026-02-13 [AIが「作る力」を全員に配った時代、最後に残る価値は「好き」の純度だった](https://zenn.dev/nyaruko_ai/articles/ai-suki-value-creator-era) *(Zenn – トピック AI)*
 - [ ] 2026-02-13 [Xcode 26.3のコーディングエージェントで最新のモデルを利用する](https://zenn.dev/tochi86/articles/90cf5e4b0d9236) *(Zenn – トピック AI)*
 - [ ] 2026-02-13 [Datadogのpupと戯れあったメモ](https://zenn.dev/saku_238/articles/2026-02-13_pup-cli-datadog-investigation) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-14T06:28:59.782Z
+- [ ] 2026-02-14 [GPT OSS WebGPU - a Hugging Face Space by webml-community](https://huggingface.co/spaces/webml-community/GPT-OSS-WebGPU) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [反移民の「リフォームUK」政党支持率で圧倒的な首位、 SNSにAI生成の広告動画が氾濫 英](https://www.afpbb.com/articles/-/3622272) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [NotebookLMで著作権を守る安全な使い方｜Re-BIRTH株式会社](https://note.com/re_birth_ai/n/n2370c2951e19) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [カラー電子ペーパーで好きな画像を飾れる「SwitchBot AIアートキャンバス」が楽しい　13.3型の迫力と魅力](https://www.itmedia.co.jp/pcuser/articles/2602/13/news022.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [「何か大変なことが起きている」とAI企業CEOが警告：GPT-5.3が自らを構築し、知能爆発のループがついに回り始めた \| XenoSpectrum](https://xenospectrum.com/ai-disruption-2026-matt-shumer-warning/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [【爆安15万円】 RaspberryPi5でNVIDIAのGPUを使ってみた【LLMもFluxも】｜shi3z](https://note.com/shi3zblog/n/ne72c2316c0a3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [MonoSketch - Unleash your ideas with ASCII](https://monosketch.io/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [VSCodeでPostgreSQLをデバッグする](https://zenn.dev/dltk/articles/221d036fa4c8ab) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [第899回　Distroboxを使えば、他のディストリビューションの最新パッケージをUbuntuでも気軽に試せる \| gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0899) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [TanStack Hotkeys](https://tanstack.com/hotkeys/latest) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-13 [青空文庫 x LLM翻訳で、古典文学の敷居を下げたかった話](https://zenn.dev/y1uda/articles/cfc60bfe7f360c) *(Zenn – トピック LLM)*
+- [ ] 2026-02-13 [BedrockのStructured Outputsを試してみた](https://zenn.dev/jnxjez/articles/e2ea44a98c46d0) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [ちょっと聞いてほしいんだけど、Claude Codeのサブエージェント、2種類あるって知ってた？](https://zenn.dev/kanroni/articles/17c3b19a50ddae) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [AIコーディング支援ツール "entire" が husky (v5以降) と競合して動かない時のワークアラウンド](https://zenn.dev/aromarious/articles/20260214-entire-husky-conflict) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [ChatGPTで学ぶ！ビジネスフレームワークの活用術](https://zenn.dev/ryuseiueda/articles/chatgpt-bujsiness) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [AIPMとPMのキャリアパス比較――「仕様を運ぶ人」から「データと責任を運ぶ人」へ](https://zenn.dev/baobao1219/articles/5dfdf1e9af31ed) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [AIエージェントが自分の声を選ぶ — MioTTSゼロショットクローンで「声のワードローブ」を作った](https://zenn.dev/668/articles/miotts-voice-wardrobe) *(Zenn – トピック AI)*
+- [ ] 2026-02-13 [Consistency Models：拡散モデルの「速度」と「品質」のトレードオフを破壊する](https://zenn.dev/fuwamoekissaten/articles/7551cb050d1e54) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-13 [青空文庫17,000作品をベクトル化して文豪の「似ている作家」を計算してみた](https://zenn.dev/y1uda/articles/c8e47c52c07c03) *(Zenn – トピック 機械学習)*
