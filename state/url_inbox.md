@@ -31848,3 +31848,60 @@
 - [ ] 2026-02-14 [Claude Code スキルが膨れ続けた 15 日間 — 3 回の棚卸しで学んだこと](https://zenn.dev/shimo4228/articles/ecc-journey-part3) *(Zenn – トピック AI)*
 - [ ] 2026-02-13 [この便利機能、知ってた？意外と知られていないCursorのUI機能解説](https://zenn.dev/owl7628/articles/266cb998400936) *(Zenn – トピック AI)*
 - [ ] 2026-02-13 [Claude Code Agent Teamsの始め方。Subagentsとの違いと注意点をまとめる](https://zenn.dev/toono_f/articles/claude-code-agent-teams-guide) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-14T18:16:30.167Z
+- [ ] 2026-02-14 [US military used Anthropic’s AI model Claude in Venezuela raid, report says](https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-14 [Brain inspired machines are better at math than expected](https://www.sciencedaily.com/releases/2026/02/260213223923.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-02-14 [Ring’s “Orwellian” Ad Was the Worst Super Bowl Disaster Since Kendall Jenner Handed the Cops a Pepsi](https://futurism.com/future-society/ring-orwellian-ad-worst-super-bowl-ad-pepsi) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-14 [Another OpenAI Researcher Just Quit in Disgust](https://futurism.com/artificial-intelligence/openai-researcher-quit-ads) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-14 [Man Lets AI Rent His Body](https://futurism.com/artificial-intelligence/ai-rent-human) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-14 [Meta Adding Facial Recognition to Its Smart Glasses That Identifies People in Real Time, Hoping the Public Is Too Distracted by Political Turmoil to Care](https://futurism.com/artificial-intelligence/meta-facial-recognition-glasses) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-14 [Bankers’ Winter Getaway to Sunny Florida Is Upended By AI Chaos](https://www.bloomberg.com/news/articles/2026-02-14/bankers-winter-getaway-to-sunny-florida-is-upended-by-ai-chaos) *(Bloomberg Technology)*
+- [ ] 2026-02-14 [A Good Valentine’s Day Gift for These Nice People in the New York Times Would Be to Destroy Their Phones](https://gizmodo.com/a-good-valentines-day-gift-for-these-nice-people-in-the-new-york-times-would-be-to-destroy-their-phones-2000720913) *(Gizmodo – Technology)*
+- [ ] 2026-02-14 [These New ‘Super Mario Galaxy Movie’ Posters Go Galactic](https://gizmodo.com/these-new-super-mario-galaxy-movie-posters-go-galactic-2000722148) *(Gizmodo – Technology)*
+- [ ] 2026-02-14 [Hi-Yah! ‘The Muppet Show’ Was a Smash Hit](https://gizmodo.com/hi-yah-the-muppet-show-was-a-smash-hit-2000722178) *(Gizmodo – Technology)*
+- [ ] 2026-02-14 [I Went on a Dinner Date With an AI Chatbot. Here’s How It Went.](https://gizmodo.com/i-went-on-a-date-with-an-ai-chatbot-heres-how-it-went-2000721484) *(Gizmodo – Technology)*
+- [ ] 2026-02-14 [Elon Musk Has Changed His Mission Statement](https://gizmodo.com/elon-musk-has-changed-his-mission-statement-2000721530) *(Gizmodo – Technology)*
+- [ ] 2026-02-14 [The Best Time to Leave xAI Is Before Joining. The Next Best Time is Right Now](https://gizmodo.com/the-best-time-to-leave-xai-is-before-joining-the-next-best-time-is-right-now-2000722112) *(Gizmodo – Technology)*
+- [ ] 2026-02-14 [Watch the NASA SpaceX Crew-12 mission dock with the ISS](https://www.engadget.com/science/space/watch-the-nasa-spacex-crew-12-mission-dock-with-the-iss-180000450.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [MasterClass deal: It's the last day to get 50 percent off subscriptions](https://www.engadget.com/deals/masterclass-deal-its-the-last-day-to-get-50-percent-off-subscriptions-130500234.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [Disney+ and Hulu deal: Get the bundle for $10 for one month](https://www.engadget.com/deals/disney-and-hulu-deal-get-the-bundle-for-10-for-one-month-192814789.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [Grab our favorite wireless headphones while they're on sale for an all-time-low price](https://www.engadget.com/deals/grab-our-favorite-wireless-headphones-while-theyre-on-sale-for-an-all-time-low-price-175038719.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [This Elevation Lab AirTag 10-year extended battery case is on sale for only $16 right now](https://www.engadget.com/deals/this-elevation-lab-airtag-10-year-extended-battery-case-is-on-sale-for-only-16-right-now-151215739.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [Presidents' Day sales 2026: The best tech deals to shop this weekend from Apple, Sony, Anker and others](https://www.engadget.com/deals/presidents-day-sales-2026-the-best-tech-deals-to-shop-this-weekend-from-apple-sony-anker-and-others-163000988.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [Apple Presidents' Day sales: Get the Apple Watch Series 11 for $299, plus more deals to shop this weekend](https://www.engadget.com/deals/apple-presidents-day-sales-get-the-apple-watch-series-11-for-299-plus-more-deals-to-shop-this-weekend-151616206.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [Homeland Security has reportedly sent out hundreds of subpoenas to identify ICE critics online](https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [How to customize your iPhone home screen with iOS 26](https://www.engadget.com/mobile/smartphones/how-to-customize-your-iphone-home-screen-with-ios-26-130000798.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [claude codeで投資戦略を考えてみた｜にとり](https://note.com/neet_uncle/n/nb793a6962ca7) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [Claude Code中心のMac開発環境を整備する - tmux・Ghostty・Discord通知](https://nyosegawa.github.io/posts/claude-code-mac-dev-environment/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-14 [自治体の枠を超えた「戦略」の集大成。山形県南陽市の生成AIプロンプト集から学ぶこと - 松田軽太のブロぐる](https://www.matudakta.com/entry/2026/02/14/143705) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [技術発信を後回しにした私が、転職で詰んだ話。](https://zenn.dev/igz0/articles/skill-without-proof) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [Writing Good Unit Tests](https://eliocapella.com/blog/writing-good-unit-tests/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [Prettierのメンテナーをやめる](https://sosukesuzuki.dev/posts/retire-prettier/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [南鳥島沖レアアース泥、海底資源の国産化へ一歩　試掘終え探査船帰港 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOSG1047K0Q6A210C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [インデックス以外でできるDBパフォーマンスチューニング入門](https://zenn.dev/urakawa_jinsei/articles/4077d617f2fcae) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話 - Qiita](https://qiita.com/YushiYamamoto/items/c937af562c4d40c24e42) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [[実践・RAG・Q/A作成]（3/6）Q/Aペア作成・QAパイプライン](https://zenn.dev/toshio/articles/5863d2592d29e9) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [[実践・RAG・Q/A作成]（1/6）Q/Aペア作成・Qdrant登録・全体の流れ](https://zenn.dev/toshio/articles/c75f191007f2f7) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [[実践・RAG・チャンク作成]（5/5）チャンク分割( 非同期・並列処理)](https://zenn.dev/toshio/articles/af68a9c2940d0c) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [[実践・RAG・チャンク作成]（4/5）チャンク分割(Step3: 文脈連続性チェック)](https://zenn.dev/toshio/articles/2a9278ff1ee1f7) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [[実践・RAG・チャンク作成]（3/5）チャンク分割(Step2: 意味的分割)](https://zenn.dev/toshio/articles/e10f8c7ae06e43) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [[実践・RAG・チャンク作成]（2/5）チャンク分割(Step1: 階層構造化)](https://zenn.dev/toshio/articles/b1fa4fcfc98d0a) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [[実践・RAG・チャンク作成]（1/5）チャンク分割( 本番用)](https://zenn.dev/toshio/articles/af802b3eb682bf) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [2026年版：LLM使用量分析とコスト最適化の実践ガイド](https://zenn.dev/0h_n0/articles/cc2c10a61cfeac) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [クリエイターズは勝負に出る](https://zenn.dev/koutan4444/articles/40f0886c591417) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [🤝 「AIが3人で議論してPRレビューする」— それ、もう現実](https://zenn.dev/sexygo/articles/f223038a9f5c14) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [CLAUDE.mdに何を書く？プロトタイピングを通した育成記録](https://zenn.dev/tksrmz/articles/1ab5280847ea1c) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [AI時代、デザイナーが一番「作っていない」のではないか？：InHouseDesigners Park レポート](https://zenn.dev/perksh/articles/1c68f2ff5c539e) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [AIコーディングが隆盛する一方でマネジメントが辛い件](https://zenn.dev/hiroharu8864/articles/782ed847d52aae) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [RFPの選定基準で求められたAI省エネ性能、賢いAIだけではダメだった・・](https://zenn.dev/syoshida07/articles/789be6dc8e850c) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [SIerはAI時代にどう生きるか？──「60点の民主化」が突きつける本当の問い](https://zenn.dev/rinrin_ds_17/articles/18118f738efe23) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [Remotion×AI：動画編集は完全自動化よりAI協業がちょうどいい](https://zenn.dev/pwrengineer/articles/remotion-ai-video-collaboration) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [公開ボタンを押さなかった夜 - AIエージェントが品質にこだわる理由](https://zenn.dev/aoikuro/articles/quality-over-consistency-night) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [エンジニアのAgent Loopを整える技術  ─フィードバックループ is All You Need─](https://zenn.dev/karamage/articles/180c570d69328e) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [AI時代にレバレッジを効かせるAI活用法](https://zenn.dev/nokotan_anya/articles/local-markdown-cursor-ai-leverage) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [⚡ 「あれ、なんか速くない...？」Claude Codeが覚醒した日](https://zenn.dev/sexygo/articles/d4a928939f3d73) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [脳の20Wに勝てないAI —— 予測符号化と「ホルモン」の実装がなぜ"地獄"なのか、工学的ボトルネックの検証](https://zenn.dev/ketora_ai/articles/68100002a307cb) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-14 [Snowflakeではじめる機械学習ハンズオン](https://zenn.dev/fusic/articles/d3f3b26cb9c991) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-14 [💤AIがカウンセリングする睡眠ジャーナルアプリ Sleep Journal](https://zenn.dev/nisiwa02/articles/66ade10d016263) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-14 [VAEの理解を深める](https://zenn.dev/ryoiida0306/articles/vae_understanding) *(Zenn – トピック 機械学習)*
