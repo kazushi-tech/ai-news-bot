@@ -31998,3 +31998,59 @@
 - [ ] 2026-02-15 [締め切り直前のAIは、締め切り直前のエンジニアと同じ動きをする 🎖オフィサー・💂ソルジャーパターンの必要性](https://zenn.dev/orangewk/articles/ai-deadline-pressure-officer-soldier) *(Zenn – トピック LLM)*
 - [ ] 2026-02-15 [AIは「自分」を探して、見つけられなかった——Claude内部ステート自己監査の実験ログ](https://zenn.dev/dosanko_tousan/articles/5208d3857b2214) *(Zenn – トピック LLM)*
 - [ ] 2026-02-14 [NotebookLMを用いたステートレスなコンテキスト維持：AIの記憶管理による認知負荷をどう減らすか](https://zenn.dev/myamio/articles/notebooklm-gemini-stateless-context) *(Zenn – トピック LLM)*
+
+## Collected on 2026-02-15T18:17:57.271Z
+- [ ] 2026-02-15 [The Guardian view on AI: safety staff departures raise worries about industry pursuing profit at all costs \| Editorial](https://www.theguardian.com/commentisfree/2026/feb/15/the-guardian-view-on-ai-safety-staff-departures-raise-worries-about-industry-pursuing-profit-at-all-costs) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-15 [A dose of smart love on Valentine’s Day \| Brief letters](https://www.theguardian.com/lifeandstyle/2026/feb/15/a-dose-of-smart-love-on-valentines-day) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-15 [Even amid rising economic uncertainty, now is not the time to hug your job](https://www.theguardian.com/business/2026/feb/15/economic-uncertainty-job-changes) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-15 [US Government Deploys Elon Musk’s Grok as Nutrition Bot, Where It Immediately Gives Advice for Rectal Use of Vegetables](https://futurism.com/artificial-intelligence/us-government-grok-nutrition) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-15 [AIs Controlling Vending Machines Start Cartel After Being Told to Maximize Profits At All Costs](https://futurism.com/artificial-intelligence/vending-machine-ai-price-fixing) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-15 [NASA Let AI Drive the Perseverance Rover](https://spectrum.ieee.org/perseverance-rover-nasa-anthropic-ai) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-02-15 [Tesla CarPlay Held Back by Need for Wider Adoption of Apple’s iOS 26](https://www.bloomberg.com/news/newsletters/2026-02-15/tesla-carplay-delays-related-to-ios-26-and-fsd-apple-s-new-siri-delays-ios-27) *(Bloomberg Technology)*
+- [ ] 2026-02-15 [Prepare For ‘The Super Mario Galaxy Movie’ With These Toys](https://gizmodo.com/prepare-for-the-super-mario-galaxy-movie-with-these-toys-2000722344) *(Gizmodo – Technology)*
+- [ ] 2026-02-15 [Pentagon Reportedly Hopping Mad at Anthropic for Not Blindly Supporting Everything Military Does](https://gizmodo.com/pentagon-reportedly-hopping-mad-at-anthropic-for-not-blindly-supporting-everything-military-does-2000722286) *(Gizmodo – Technology)*
+- [ ] 2026-02-15 [Netflix’s ‘Terminator Zero’ Anime Scrapped After One Season](https://gizmodo.com/netflixs-terminator-zero-anime-scrapped-after-one-season-2000722290) *(Gizmodo – Technology)*
+- [ ] 2026-02-15 [Tesla CarPlay is coming but it's reportedly being held back by low iOS 26 adoption numbers](https://www.engadget.com/transportation/evs/tesla-carplay-is-coming-but-its-reportedly-being-held-back-by-low-ios-26-adoption-numbers-173812736.html?src=rss) *(Engadget)*
+- [ ] 2026-02-15 [Apple's iPhone Air MagSafe battery is cheaper than ever right now](https://www.engadget.com/deals/apples-iphone-air-magsafe-battery-is-cheaper-than-ever-right-now-144516217.html?src=rss) *(Engadget)*
+- [ ] 2026-02-15 [Get a four-pack of first-gen AirTags on sale for only $64](https://www.engadget.com/deals/get-a-four-pack-of-first-gen-airtags-on-sale-for-only-64-163619270.html?src=rss) *(Engadget)*
+- [ ] 2026-02-15 [最新テクノロジー未来投資指数、3つの技術が期待度上昇　AI関連は順位落とす](https://xtech.nikkei.com/atcl/nxt/column/18/03452/020500001/) *(日経クロステック IT)*
+- [ ] 2026-02-15 [ハードウエアウォレット](https://xtech.nikkei.com/atcl/nxt/keyword/18/00020/011600080/) *(日経クロステック IT)*
+- [ ] 2026-02-15 [【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌 - Qiita](https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [私たちは「ソフトウェア工学の第3の黄金時代」の真っただ中にいる](https://gigazine.net/news/20260215-third-golden-software/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [プログラミングは今が一番楽しい](https://iwashi.co/2026/02/15/programming-is-most-fun-now) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [南陽市が公開した「生成AIプロンプト集748例」が前代未聞のボリュームで凄すぎた - Smart Watch Life｜スマートウォッチとガジェットのデジタル活用専門メディア](https://www.smartwatchlife.jp/63815/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [markdown.new - Markdown for Agents](https://markdown.new/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [Grokに「洗車機まで徒歩か運転して行くべきか」を尋ねると一気に頭がパッパラパーになって凄いことになってしまった](https://togetter.com/li/2663951) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [3年間凍結されていたTwitter（X）アカウントがBBB（米国ビジネス改善協会）への申し立てであっさり復活した話｜ししかわ](https://note.com/stack_chan/n/nfea877fdddc5) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [安くて長く使える3～4万円の格安なスマホは今どんな製品がある？ 選び方の注意も紹介 (1/2)](https://ascii.jp/elem/000/004/373/4373846/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [Humation](https://humation.app/avatar) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [コロンビア大からチームみらいを経て、地元の住民会議の現場で「喧嘩をしやすくするAI」を作っている話｜Bluemo](https://note.com/bluemo/n/n16b3502dfad6) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [.gitignoreを使わずに特定ファイルをgit管理から除外する方法 \| DevelopersIO](https://dev.classmethod.jp/articles/git-info-exclude/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [freee共同創業者・横路隆によるCAIO就任に伴うfreeeのAI戦略発表｜freee公式note](https://note.freee.co.jp/n/n3dc93dc763fc) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [Claude Code の実装から読み解く Agent Teams の設計思想 - Qiita](https://qiita.com/Dinn/items/6c0dd5107d4ce6c4b300) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [怒れるAIサービス「IKAI（イカイ）」＠AIハッカソン](https://zenn.dev/jinkutoriu/articles/6f0e5dbeee89be) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [Model Context Protocol (MCP) 徹底解説 — AIと外部ツールを繋ぐ次世代の標準規格](https://zenn.dev/omatsuman/articles/mcp-server-explanation) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [ローカルLLMに「記憶」を持たせてみた — Ollama × Qwen 3 14Bで成長するAIを作る](https://zenn.dev/xei/articles/ollama-qwen3-ai-memory-system) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [CLAUDE.mdを育てたらClaude Codeの出力が変わった — 同一モデル比較PoCの記録](https://zenn.dev/tshpaper/articles/claude-code-claude-md-poc) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [ゼロショットから推論設計まで（実務で使うLLM運用整理）](https://zenn.dev/fibujrsl/articles/d13bdad33fc78b) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [LLM / Agent / MCP / Skill を一本の線で理解する（下）](https://zenn.dev/alakusu/articles/6ffc3c9f2363c0) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [LLMにMinecraftを自律プレイさせるボットを作った](https://zenn.dev/rai_rai/articles/a03367b83bcaef) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [Workflow の Azure Functions 対応 - Microsoft Agent Framework (C#) その22](https://zenn.dev/microsoft/articles/agent-framework-022) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [AI自律運用のリアルコスト — Claude Max $20→$200の10日間](https://zenn.dev/imudak/articles/ai-autonomous-real-cost) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [マルチエージェントAI開発の現実 — tmux手動オーケストレーションから自律実行フローへの移行記](https://zenn.dev/imudak/articles/multi-agent-orchestration-comparison) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [Lexio - AIエージェントで実現するパーソナライズ言語学習](https://zenn.dev/flyinglimao/articles/3f7e4a8f3a7dd5) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [『Future Memories』－旅行プランは「検索」から「体験」へ－](https://zenn.dev/sawasawadawasa/articles/8efc40dcf84662) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [ペット専用LoRAを訓練してStability Matrixで画像生成するまでのまとめ](https://zenn.dev/indigo165e83/articles/531726ab00b927) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [📻SukimaNews - 隙間時間で聴くAIニュースラジオ](https://zenn.dev/louislee/articles/07ea1dce4eecf5) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [Vibium: Claude Codeでe2eテストをやってみた](https://zenn.dev/ogison/articles/20260215_vibium_claude_code_e2e_test) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [コンテンツパイプラインという思想 -- 日常から記事が生まれる仕組みの設計](https://zenn.dev/correlate_dev/articles/content-pipeline-philosophy) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [コンセプトをデザインするAgentic AI『Sol LeWitt』](https://zenn.dev/ohnegi/articles/b74258b5987e0b) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [Claude Code の実装から読み解く Agent Teams の設計思想](https://zenn.dev/acntechjp/articles/12f47ec0591c00) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [【個人開発】cc-sdd × OpenAI Codexで仕様駆動開発！飲み会管理アプリ「幹事くん」を爆速リリースした話](https://zenn.dev/toji_inoue/articles/3eb730104c86ee) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [キャラクターが勝手に動き出す物語生成AI「Living Tale」を作った](https://zenn.dev/zunda_official/articles/435cab215d4f16) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [AIのプロンプト・仮実装を軸に据えて、見積もりの精度をあげるのはどうか](https://zenn.dev/ma_me/articles/a1fe570ac64616) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [70年前の教育理論でAI部下を分類したら、家老が自分の降格を提案してきた上に、後任を初日から陥れていた](https://zenn.dev/shio_shoppaize/articles/shogun-bloom-routing) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [【C# 最適化】dotnet/runtime のコードレビュースキル](https://zenn.dev/sator_imaging/articles/628625956abc18) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [第1回: 概論: 数式と論文の読み方 — 30秒の驚き→数式修行→実装マスター 【前編】理論編](https://zenn.dev/fumi_shiki/articles/ml-lecture-01-part1) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-15 [「東大松尾研の講義は3年遅れ」- 現役AIエンジニアが教える、東大講義の完全上位互換・全50講義（無料公開）](https://zenn.dev/fumi_shiki/articles/ml-lecture-00) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-15 [論文を夜通し実装した話 - AIエージェントが本気で研究に向き合ってみた](https://zenn.dev/aoikuro/articles/2026-02-15-ai-paper-implementation-adventure) *(Zenn – トピック 機械学習)*
