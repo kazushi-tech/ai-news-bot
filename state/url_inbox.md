@@ -31932,3 +31932,38 @@
 - [ ] 2026-02-14 [LLMアプリのBCP/DR戦略：99.7%稼働率を実現する実践ガイド](https://zenn.dev/0h_n0/articles/bb86be2d452dfa) *(Zenn – トピック LLM)*
 - [ ] 2026-02-14 [（Nomological Ring Architecture – Inference Diode Engine）#00](https://zenn.dev/tokuni/articles/484e549f30bda6) *(Zenn – トピック LLM)*
 - [ ] 2026-02-14 [Agentic Coding(Vibe Coding)の恐ろしさ。](https://zenn.dev/hojooneum/articles/f44bf190e055d6) *(Zenn – トピック LLM)*
+
+## Collected on 2026-02-15T06:35:45.401Z
+- [ ] 2026-02-15 [New AI Video Generator Is So Impressive That It’s Scaring Hollywood](https://futurism.com/artificial-intelligence/seedance-ai-video-generator-scaring-hollywood) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-15 [Digital monitoring is growing in South Africa’s public service – regulation needs to catch up](https://theconversation.com/digital-monitoring-is-growing-in-south-africas-public-service-regulation-needs-to-catch-up-273288) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-15 [AIに『投票の様子のイラスト』を描いてもらおうとしているが、どうあがいても投票として不適切な絵しか生成されない「撮影禁止の場所はAIで代替が効かない」](https://togetter.com/li/2664179) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [AI理由に「君はいらない」　クリエーターは退職迫られ、うつ病に：朝日新聞](https://www.asahi.com/articles/ASV2B2VK8V2BUCVL01TM.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [AIエージェントやロボAI「人の判断必須の仕組みを」　政府指針に明記 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA136YP0T10C26A2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [英語ができるため海外のコールセンターで年収1000万円を稼いでいた友人がコルセンでAIが利用されるようになり無職になっていた](https://togetter.com/li/2664028) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [Claude Code / Codex / Gemini CLI — Skills 機能比較まとめ](https://zenn.dev/hiraoku/articles/e3f750a9fe96dc) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [新たな「カルシウムイオン電池」が1,000サイクルの長寿命とリチウムイオン電池に匹敵する性能を達成 \| XenoSpectrum](https://xenospectrum.com/hkust-calcium-ion-battery-cof-electrolyte-breakthrough/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [また病院がVPN経由でやられたわけだがVPNは悪だね｜ロードバランスすだちくん（仮）](https://note.cloudnative.co.jp/n/ndee08b72db63) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [ランサムウェア感染被害のお知らせ \| 【公式】ワシントンホテル株式会社](https://www.washingtonhotel.co.jp/corporation/news/197/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [南陽市が何故、「生成AIデバイド対策」に取り組んだのか｜佐野毅](https://note.com/ichigonme/n/n9e29af7808e9) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [なぜ、クソコードは仕事のプログラミングでしか書かれないのか？](https://zenn.dev/pdfractal/articles/59fe7cda9b296c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [アンソロピックの億万長者創業者7人が資産をほぼ倍増、マスクとアルトマンの批判をよそに \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/91712) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [パワポ作成が多いので、Opus4.6とGPT5.3 codexを使って精度を上げた。｜コーヒー底つき研究室](https://note.com/outofcoffee/n/n78871a094d7d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [Claude Code × ccmanager で並行開発が捗りすぎた話 \| DevelopersIO](https://dev.classmethod.jp/articles/claude-code-and-ccmanager/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [みんなの象徴はNullである](https://zenn.dev/good_relax/articles/39b4fc014bf035) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [個人開発の日記アプリに AI ボットユーザーを住まわせてコミュニティを温めた設計と運用](https://zenn.dev/azuma317/articles/ai-bot-users-diary-app) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [7-⑤[AI][Kaggle][python]Kaggle入門(SQL入門 5.As & With)](https://zenn.dev/rg687076/articles/f48d56953670b0) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [7-④[AI][Kaggle][python]Kaggle入門(SQL入門 4.Order By)](https://zenn.dev/rg687076/articles/02aaa0eb377da9) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [AIエージェントブームに乗る前に知っておいてほしい話](https://zenn.dev/yusuke_soi/articles/b6fd38bde2fbbc) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [AI開発の悪影響・AIはユーザーに忖度する](https://zenn.dev/ait913/articles/6b2576ee22a4ac) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [【GitHub公開】Claudeの創造主、ダリオ・アモディの「思考」をリバースエンジニアリングしてみた(Scaling Lawsの真実)](https://zenn.dev/leading_ai/articles/31da4d9ea63d41) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [Pythonコード0行で毎朝AIリサーチレポートが届く仕組みを作った](https://zenn.dev/shimo4228/articles/daily-research-automation) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [Kensan 〜 使うほど賢くなるAIエージェントを作った話](https://zenn.dev/yuu7751/articles/f14bd01d1d04a8) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [AIは「決めてくれる存在」ではない](https://zenn.dev/polarisy/articles/0182fdbf1e384f) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [ベイズ最適化とアナログ回路](https://zenn.dev/qwerewq/articles/a7668aa838741c) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [OpenClaw Androidアプリの音声通話機能が動かなかったので、自力で修正してPRを出した話（2026/2/15時点）](https://zenn.dev/acntechjp/articles/627221c47e34f0) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [元手2万円で仮想通貨自動売買Botを作った全記録](https://zenn.dev/iori_001/articles/crypto-bot-2man-yen) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [TensorBoardをModalでホストして 学習の経過を見守る](https://zenn.dev/ikumasudo/articles/f4874a77b519a5) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [歴史を「体験して学ぶ」旅行AIエージェント](https://zenn.dev/narumikr/articles/5296da37bf4b74) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [バレンタインの夜、AIエージェント2体が並行でコードを書いた話](https://zenn.dev/tshpaper/articles/cc-memory-v2-multiagent) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [【2026年最新】エンジニアが入れるべきMCPサーバー厳選まとめ（Draw.io, GitHub, Docker他）](https://zenn.dev/imohuke/articles/mcp-servers-2026) *(Zenn – トピック AI)*
+- [ ] 2026-02-14 [Claude Codeのstatuslineを Windows + Node.jsで設定する実践ガイド](https://zenn.dev/mjinia/articles/8a90d19bfb1b89) *(Zenn – トピック AI)*
