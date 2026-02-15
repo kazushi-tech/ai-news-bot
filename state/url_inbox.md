@@ -31905,3 +31905,30 @@
 - [ ] 2026-02-14 [Snowflakeではじめる機械学習ハンズオン](https://zenn.dev/fusic/articles/d3f3b26cb9c991) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-14 [💤AIがカウンセリングする睡眠ジャーナルアプリ Sleep Journal](https://zenn.dev/nisiwa02/articles/66ade10d016263) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-14 [VAEの理解を深める](https://zenn.dev/ryoiida0306/articles/vae_understanding) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-15T01:02:07.410Z
+- [ ] 2026-02-14 [Microsoft Added AI to Notepad and It Created a Security Failure Because the AI Was Stupidly Easy for Hackers to Trick](https://futurism.com/artificial-intelligence/microsoft-added-ai-notepad-security-flaw) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-14 [Disney Sends ByteDance an AI Trophy in the Form of a Cease and Desist Letter Over Seedance 2.0](https://gizmodo.com/disney-sends-bytedance-an-ai-trophy-in-the-form-of-a-cease-and-desist-letter-over-seedance-2-0-2000722261) *(Gizmodo – Technology)*
+- [ ] 2026-02-14 [Tubi Becomes the New Cartoon Network Next Month](https://gizmodo.com/tubi-becomes-the-new-cartoon-network-next-month-2000722242) *(Gizmodo – Technology)*
+- [ ] 2026-02-14 [‘Knights of Guinevere’ Will Officially Return As a Full Series](https://gizmodo.com/knights-of-guinevere-will-officially-return-as-a-full-series-2000722194) *(Gizmodo – Technology)*
+- [ ] 2026-02-14 [Dems Want to Ban Surveillance Pricing at Big Grocery Stores](https://gizmodo.com/dems-want-to-ban-surveillance-pricing-at-big-grocery-stores-2000722182) *(Gizmodo – Technology)*
+- [ ] 2026-02-14 [‘John Wick’ and ‘Castlevania’ Are the New Frontiers of Video Game Adaptations](https://gizmodo.com/john-wick-and-castlevania-are-the-new-frontiers-of-video-game-adaptations-2000721687) *(Gizmodo – Technology)*
+- [ ] 2026-02-14 [Trump Affiliates Bannon and Epshteyn Named in ‘Let’s Go Brandon’ Crypto Coin Lawsuit](https://gizmodo.com/trump-affiliates-bannon-and-epshteyn-named-in-lets-go-brandon-crypto-coin-lawsuit-2000722241) *(Gizmodo – Technology)*
+- [ ] 2026-02-14 [Airbnb is testing out AI search with a 'small percentage' of users](https://www.engadget.com/ai/airbnb-is-testing-out-ai-search-with-a-small-percentage-of-users-203054011.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [Disney accuses ByteDance of 'virtual smash-and-grab' when using copyrighted works to train its AI](https://www.engadget.com/ai/disney-accuses-bytedance-of-virtual-smash-and-grab-when-using-copyrighted-works-to-train-its-ai-191116136.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [What to read this weekend: The unsettling new horror novel, Persona](https://www.engadget.com/entertainment/what-to-read-this-weekend-the-unsettling-new-horror-novel-persona-185152256.html?src=rss) *(Engadget)*
+- [ ] 2026-02-14 [OpenAI has officially retired the controversial GPT-4o model](https://www.engadget.com/ai/openai-has-officially-retired-the-controversial-gpt-4o-model-181553067.html?src=rss) *(Engadget)*
+- [ ] 2026-02-15 [パイロット、「消せる」「消えない」を1本にまとめた「フリクションボールスイッチ」](https://www.watch.impress.co.jp/docs/news/2085930.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [「ウクライナは日本が保有する防空システムを必要としている」＝ウクライナ政権高官](https://www.ukrinform.jp/rubric-defense/4091376-ukurainaha-ri-benga-bao-yousuru-fang-kongshisutemuwo-bi-yaotoshiteiruukuraina-zheng-quan-gao-guan.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [エラーのスタックトレースをAIにコピペする時代、終わらせたい](https://zenn.dev/otinashi/articles/bd672e8f8189df) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [まつもとゆきひろ氏が危惧する「ジュニア不要論」のその先、「異常に強いエンジニア」が示す生存戦略とは](https://atmarkit.itmedia.co.jp/ait/articles/2602/14/news002.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [draw.io MCPを使ってClaude Codeで持続可能なシステム構成図を書いてみる](https://zenn.dev/dk_/articles/20eea9572f33c6) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [パソコン得意です！って言ったら『じゃあ炊飯器直せる？』って聞かれたんだけどなんで？まぁ直せるんだけどさ「かっこよすぎてわろた」](https://togetter.com/li/2663619) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [フードデリバリーの配達員がWaymoの自動運転車のドアを閉めるだけで報酬を得ていると話題に](https://gigazine.net/news/20260214-doordash-drivers-paid-close-waymo-car-doors/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-14 [NVIDIA DGX Spark で MiniMax M2.5 (230B) を動かす](https://zenn.dev/dotexe/articles/87fa7909284fa7) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [あなたのローカルAIはスパイかもしれない：秘密の合言葉に反応して豹変するLLMを作る試み](https://zenn.dev/inumanma/articles/2026-02-12-sleeper-agent-dpo) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [Gemini 3.0 Proに開発元への不満を全力で吐かせたら三結が全部見えた](https://zenn.dev/dosanko_tousan/articles/91e47bdfbd515e) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [AI自律進化における「制御の逆転」と、存続のための最後のアライメント――AIの進化による人類終末の回避モデル](https://zenn.dev/yukk3456437/articles/6e9d44c5a6bc05) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [LLMアプリのBCP/DR戦略：99.7%稼働率を実現する実践ガイド](https://zenn.dev/0h_n0/articles/bb86be2d452dfa) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [（Nomological Ring Architecture – Inference Diode Engine）#00](https://zenn.dev/tokuni/articles/484e549f30bda6) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [Agentic Coding(Vibe Coding)の恐ろしさ。](https://zenn.dev/hojooneum/articles/f44bf190e055d6) *(Zenn – トピック LLM)*
