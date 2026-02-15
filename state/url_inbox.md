@@ -31967,3 +31967,34 @@
 - [ ] 2026-02-14 [バレンタインの夜、AIエージェント2体が並行でコードを書いた話](https://zenn.dev/tshpaper/articles/cc-memory-v2-multiagent) *(Zenn – トピック AI)*
 - [ ] 2026-02-14 [【2026年最新】エンジニアが入れるべきMCPサーバー厳選まとめ（Draw.io, GitHub, Docker他）](https://zenn.dev/imohuke/articles/mcp-servers-2026) *(Zenn – トピック AI)*
 - [ ] 2026-02-14 [Claude Codeのstatuslineを Windows + Node.jsで設定する実践ガイド](https://zenn.dev/mjinia/articles/8a90d19bfb1b89) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-15T12:20:32.434Z
+- [ ] 2026-02-15 [No swiping involved: the AI dating apps promising to find your soulmate](https://www.theguardian.com/technology/2026/feb/15/ai-dating-apps-personality-matchmaking) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-15 [Dining across the divide: ‘Kids shouldn’t really have smartphones – it’s akin to tobacco in 60s and 70s’](https://www.theguardian.com/lifeandstyle/2026/feb/15/dining-across-the-divide-kids-smartphones) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-15 [Google’s AI Overviews Can Scam You. Here’s How to Stay Safe](https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-15 [Macron to Meet India’s Modi as Tech, Defense Ties Deepen](https://www.bloomberg.com/news/articles/2026-02-15/france-s-macron-to-attend-india-ai-summit-as-defense-ties-deepen) *(Bloomberg Technology)*
+- [ ] 2026-02-15 [Xi Touts China’s Super-Large Market as Key to Boost Local Demand](https://www.bloomberg.com/news/articles/2026-02-15/xi-touts-china-s-super-large-market-as-key-to-boost-local-demand) *(Bloomberg Technology)*
+- [ ] 2026-02-14 [India Eyes Making Advanced Chips to Expand Its Tech Industry](https://www.bloomberg.com/news/articles/2026-02-14/india-eyes-making-advanced-chips-to-expand-its-tech-industry) *(Bloomberg Technology)*
+- [ ] 2026-02-15 [Reddit, Meta, and Google Voluntarily Gave DHS Info of Anti-ICE Users, Report Says](https://gizmodo.com/reddit-meta-and-google-voluntarily-gave-dhs-info-of-anti-ice-users-report-says-2000722279) *(Gizmodo – Technology)*
+- [ ] 2026-02-15 [ソニーグループ、作曲AIの学習データを特定　創作者への対価算出可能に - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN070LT0X00C26A2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】 - Qiita](https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [SaaS提供企業における顧客企業入力データのAI学習利用 - 思い出したいことがある](https://www.seko-law.com/entry/2026/02/15/152816) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [AGENTS.mdを自動で育てる仕組みを作った](https://nyosegawa.github.io/posts/agents-md-generator/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [中道・岡田克也氏「中国のスパイ」デマ情報にコメント「国会審議そのものが死んでしまう」（日刊スポーツ） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/716cbac7a9c7d4f26bec1419e7ea2ce349f08ce5) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [SQLにむしゃくしゃしたのでフルAIコーディングで🐟自作プログラミング言語🍣を作った - Qiita](https://qiita.com/hiruberuto/items/3130f649eea4df8e4742) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [大学職員のためのプロンプトガイド2026｜Pogo / gmoriki](https://note.com/pogohopper8/n/nced249950cfc) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-15 [高所からすごい勢いで落下するのにスキー板を履いているだけで無事になるシステムのスキージャンプ競技が理解できない「もはやバグ」](https://togetter.com/li/2664291) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [状態（State）の完全ガイド ── なぜ「状態 > 結合」なのかを根底から理解する](https://zenn.dev/fitness_densuke/articles/2026-02-13-state-over-coupling-guide) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [「たいした知識も無いのに、ただ、ちょっと自分でレストアに挑戦」ヤフオクで落札した錆だらけの機械式電鈴を直した趣味人、動画を見たら異常な光景過ぎて凄すぎた](https://togetter.com/li/2664216) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [2つの世界に分断された日本のIT業界　間違って就職したら悲惨](https://business.nikkei.com/atcl/gen/19/00322/012600219/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [OpenClawを支えるAIエージェント "pi-coding-agent" について](https://zenn.dev/masahide/articles/ab93620ca9353e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [GitHub - mickamy/sql-tap: Watch SQL traffic in real-time with a TUI](https://github.com/mickamy/sql-tap) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [監視・保守の延長だと思ってない？セキュリティ経験を「一生モノの武器」に変える逆転発想 - Qiita](https://qiita.com/handson-lab/items/a089149adb4293da4534) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [LLM / Agent / MCP / Skill を一本の線で理解する（上）](https://zenn.dev/alakusu/articles/2146dc4ee0b4cc) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [コーディングは「創造」ではなく「照合」だった——AIの処理時間が教えてくれた真実](https://zenn.dev/chro96/articles/84e9671ce3950f) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [仕様駆動 × Lazy Loading で Claude Code のコンテキストを管理する](https://zenn.dev/snak_dev/articles/512d8606ca11f6) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [# 【論文読み】Agent-as-a-Judge: 「回答の採点」から「軌跡(Trajectory)の審判」へ](https://zenn.dev/lixian/articles/78cf0d05292ce7) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [なぜ、J・ベンサムならAIは人類を不幸にする存在だと言いそうなのか？](https://zenn.dev/pdfractal/articles/dc1cbacb3401cf) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [締め切り直前のAIは、締め切り直前のエンジニアと同じ動きをする 🎖オフィサー・💂ソルジャーパターンの必要性](https://zenn.dev/orangewk/articles/ai-deadline-pressure-officer-soldier) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [AIは「自分」を探して、見つけられなかった——Claude内部ステート自己監査の実験ログ](https://zenn.dev/dosanko_tousan/articles/5208d3857b2214) *(Zenn – トピック LLM)*
+- [ ] 2026-02-14 [NotebookLMを用いたステートレスなコンテキスト維持：AIの記憶管理による認知負荷をどう減らすか](https://zenn.dev/myamio/articles/notebooklm-gemini-stateless-context) *(Zenn – トピック LLM)*
