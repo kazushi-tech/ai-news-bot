@@ -32537,3 +32537,79 @@
 - [ ] 2026-02-15 [旅のトラブルにAIが補佐！フレキシベル](https://zenn.dev/kind/articles/8cf923f9431c66) *(Zenn – トピック AI)*
 - [ ] 2026-02-15 [動画の炎上リスクをAIが守る「Enjo-Guardian」](https://zenn.dev/rapirapi/articles/f73d8714294233) *(Zenn – トピック AI)*
 - [ ] 2026-02-15 [日常を少しだけ豊かにする聴覚AR「Aether」](https://zenn.dev/halogen/articles/b68e411563fead) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-16T12:31:31.344Z
+- [ ] 2026-02-16 [TikTok creator ByteDance vows to curb AI video tool after Disney threat](https://www.theguardian.com/technology/2026/feb/16/tiktok-bytedance-ai-video-tool-disney-seedance-tom-cruise-brad-pitt) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-16 [Trump’s Obama and Bad Bunny posts crystallize his political philosophy \| Sidney Blumenthal](https://www.theguardian.com/commentisfree/2026/feb/16/trumps-obama-and-bad-bunny-posts-crystallize-his-political-philosophy) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-16 [Google puts users at risk by downplaying health disclaimers under AI Overviews](https://www.theguardian.com/technology/2026/feb/16/google-puts-users-at-risk-downplaying-disclaimers-ai-overviews) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-16 [There’s a Grim New Expression: “AI;DR”](https://futurism.com/artificial-intelligence/aidr-meaning) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-16 [Banking AI in multiple business functions at NatWest](https://www.artificialintelligence-news.com/news/banking-ai-in-multiple-business-functions-at-natwest/) *(Artificial Intelligence News)*
+- [ ] 2026-02-16 [Debenhams pilots agentic AI commerce via PayPal integration](https://www.artificialintelligence-news.com/news/debenhams-pilots-agentic-ai-commerce-paypal-integration/) *(Artificial Intelligence News)*
+- [ ] 2026-02-16 [URBN tests agentic AI to automate retail reporting](https://www.artificialintelligence-news.com/news/urbn-tests-agentic-ai-to-automate-retail-reporting/) *(Artificial Intelligence News)*
+- [ ] 2026-02-16 [Musk Merger Puts New Twist on X as Everything App](https://www.bloomberg.com/news/newsletters/2026-02-16/musk-s-spacex-xai-merger-puts-new-twist-on-x-as-an-everything-app) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [From Tea to Tech: UK’s Halma Rides Wave of Hyperscaler Spending](https://www.bloomberg.com/news/articles/2026-02-16/from-tea-to-tech-uk-s-halma-rides-wave-of-hyperscaler-spending) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Goldman’s Snider Says Analysts Turn Positive on Software Profits](https://www.bloomberg.com/news/articles/2026-02-16/goldman-s-snider-says-analysts-turn-positive-on-software-profits) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Musk, Cook Warn of Memory Chip Crisis as Demand From AI Grows](https://www.bloomberg.com/news/videos/2026-02-16/musk-cook-warn-of-chip-crisis-as-demand-from-ai-grows-video) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Mubadala, Saudi Billionaire Family Invest in Egypt’s Breadfast](https://www.bloomberg.com/news/articles/2026-02-16/mubadala-saudi-billionaire-family-invest-in-egypt-s-breadfast) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [AMD Takes on Nvidia in India With Expanded Tata AI Partnership](https://www.bloomberg.com/news/articles/2026-02-16/amd-takes-on-nvidia-in-india-with-expanded-tata-ai-partnership) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Anthropic Boosts India AI Push Via Flag Airline, Cognizant Pacts](https://www.bloomberg.com/news/articles/2026-02-16/anthropic-boosts-india-ai-push-via-flag-airline-cognizant-pacts) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Ray Wang on How AI Is Causing DRAM Prices to Surge \| Odd Lots](https://www.bloomberg.com/news/videos/2026-02-16/ray-wang-on-how-ai-is-causing-dram-prices-to-surge-video) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [JPMorgan Sees 'Inflection Point' for Health Care Stocks](https://www.bloomberg.com/news/videos/2026-02-16/jpmorgan-sees-inflection-point-for-health-care-stocks-video) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Ukraine’s Graft Probe Engulfs Ex-Minister After Failed Escape](https://www.bloomberg.com/news/articles/2026-02-16/ukraine-s-graft-probe-engulfs-ex-minister-after-failed-escape) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Ray Wang on How AI Is Causing DRAM Prices to Surge](https://www.bloomberg.com/news/articles/2026-02-16/ai-is-causing-the-price-of-computer-memory-to-surge) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Odd Lots: How AI Is Causing DRAM Prices to Surge (Podcast)](https://www.bloomberg.com/news/audio/2026-02-16/ai-is-causing-computer-dram-prices-to-surge) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Alibaba Unveils Major AI Model Upgrade Ahead of DeepSeek Release](https://www.bloomberg.com/news/articles/2026-02-16/alibaba-unveils-major-ai-model-upgrade-ahead-of-deepseek-release) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Australia M&amp;A Sparks to Life With $8 Billion Qube Deal](https://www.bloomberg.com/news/articles/2026-02-16/australia-m-a-sparks-to-life-with-8-billion-macquarie-qube-deal) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Lux Capital, Flutterwave CEO Invest in Nigerian Drone Maker](https://www.bloomberg.com/news/articles/2026-02-16/lux-capital-flutterwave-ceo-invests-in-nigerian-drone-maker) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Philippine Fintech Maya Is Said to Weigh Up to $1 Billion US IPO](https://www.bloomberg.com/news/articles/2026-02-16/digital-bank-maya-is-said-to-weigh-us-ipo-of-up-to-1-billion) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Former NPR Host Accuses Google Of Copying His Voice For AI Offering](https://gizmodo.com/former-npr-host-accuses-google-of-copying-his-voice-for-ai-offering-2000722402) *(Gizmodo – Technology)*
+- [ ] 2026-02-16 [Slow Adoption of iOS 26 on iPhones May Have Unexpectedly Hurt Tesla’s Sales: Report](https://gizmodo.com/slow-adoption-of-ios-26-on-iphones-may-have-unexpectedly-hurt-teslas-sales-report-2000722411) *(Gizmodo – Technology)*
+- [ ] 2026-02-16 [Monarch Money deal: Get a 50 percent off one of our favorite budgeting apps](https://www.engadget.com/deals/monarch-money-deal-get-a-50-percent-off-one-of-our-favorite-budgeting-apps-120000712.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [ByteDance promises to tighten up its new AI video generator after viral Cruise vs. Pitt clip](https://www.engadget.com/ai/bytedance-promises-to-tighten-up-its-new-ai-video-generator-after-viral-cruise-vs-pitt-clip-112941384.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [The best gaming handhelds for 2026](https://www.engadget.com/gaming/best-handheld-gaming-system-140018863.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [OpenAI has hired the developer behind AI agent OpenClaw](https://www.engadget.com/ai/openai-has-hired-the-developer-behind-ai-agent-openclaw-092934041.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [The best cheap phones for 2026](https://www.engadget.com/mobile/smartphones/best-cheap-phones-130017793.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [中国AIモデル「Qwen3.5」登場　オープンながら「GPT-5.2」「Gemini 3 Pro」に匹敵か](https://www.itmedia.co.jp/aiplus/articles/2602/16/news131.html) *(ITmedia AI＋)*
+- [ ] 2026-02-16 [中国、フィジカルAIの社会実装急ぐ　今年は人型ロボ「商業化元年」　販売店やレンタルも](https://www.itmedia.co.jp/news/articles/2602/16/news123.html) *(ITmedia AI＋)*
+- [ ] 2026-02-16 [AIの反乱、とうとう始まった？　ITエンジニアがAI製コードを拒否→“腹を立てたAI”が怒りのブログ公開、人間を非難](https://www.itmedia.co.jp/aiplus/articles/2602/16/news110.html) *(ITmedia AI＋)*
+- [ ] 2026-02-16 [相談相手はAIだけ 平成不況で敗者復活ならず、孤独な団塊ジュニアがそれでも抱く希望（毎日新聞） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/58e771864e8333b45523c848a994f7372be9a7d2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [WD製HDD、2026年供給分は既に「完売」。AI特需受け](https://pc.watch.impress.co.jp/docs/news/2086161.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [AIが調査して人が判断する障害対応：Slackで人と協働するAIエージェントの設計 - Tabelog Tech Blog](https://tech-blog.tabelog.com/entry/slack-ai-agent-for-incident-response) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [AIによって、わたしたちは「ポストモダン」の世界に向かっている（週刊プレイボーイ連載672） – 橘玲 公式BLOG](https://www.tachibana-akira.com/2026/02/17848) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [ClineによるAIエージェント開発入門: 実践で学んだ便利な点と注意点](https://blog.asial.co.jp/6605/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [わずか4秒の音声からクローン完成　音声生成AIの実力が想像以上だった (1/5)](https://ascii.jp/elem/000/004/373/4373939/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [Streamlit公式Skillsでベストプラクティスに沿ったアプリを瞬時に構築](https://zenn.dev/datum_studio/articles/f202b8075f1b1b) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [アンドロメダ銀河の巨大星が突如「消失」。超新星爆発失敗でブラックホール化か](https://pc.watch.impress.co.jp/docs/news/2086115.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [エアコンの調子が悪いというので行ってみるとこれ「かつてエアコンの室外機だった何か」「むしろよくここまで行っても動いてたなｗ」](https://togetter.com/li/2664717) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [電気の代わりにコンピューター自身の廃熱を利用して計算を実行できるシリコン構造をMITの研究者らが開発](https://gigazine.net/news/20260216-computing-component-uses-waste-heat/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [JISの防水規格に最高等級「9」新設　23年ぶりに規格刷新](https://k-tai.watch.impress.co.jp/docs/news/2086289.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [【予告】「はてなブログ タグ」への自動リンク機能 廃止のお知らせ - はてなブログ開発ブログ](https://staff.hatenablog.com/entry/2026/02/16/170934) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [確定申告きょうスタート　AIとマイナカードでもっと“ラク”に](https://www.itmedia.co.jp/news/articles/2602/16/news072.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [「Microsoft Store CLI」が登場、ターミナルでストアのアプリを検索・導入・更新／わざわざGUIの「Microsoft Store」アプリを起動する必要なし](https://forest.watch.impress.co.jp/docs/news/2086112.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [ファミマは広告インフラに進化　5500万IDの“日々”を精緻に分析](https://www.watch.impress.co.jp/docs/news/2086216.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [SaaS Is Deadの先に行くにあたってのボトルネック](https://zenn.dev/tokium_dev/articles/068a149f25c60e) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [なぜ、「AI時代で老人は取り残される」とか「子供にAIを使わせると危険」という誤った言説が巷ではびこるのか？](https://zenn.dev/pdfractal/articles/c410821fded906) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [LangGraphを使ってAIエージェントを作ってみた](https://zenn.dev/fez_tech/articles/38e203d4900c01) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [RAG構築で社内データを活用するAI構築：実践ガイド](https://zenn.dev/fractal369/articles/rag-data-utilization) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [AxiomProver による Fel 予想の自動形式証明について](https://zenn.dev/autores_math/articles/51b8ade0461245) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [【意図乖離検出；連載 第8回】AIマルチエージェントと集合知 - 民主型投票アーキテクチャ](https://zenn.dev/virtualcraft/articles/idd-08_multi-agent) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [【意図乖離検出；連載 第7回】新しいコンセプト：Intent Drift Detector - 意図を構造化する](https://zenn.dev/virtualcraft/articles/idd-07_idd-concept) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [【意図乖離検出；連載 第6回】Context Engineeringという思想 - 人間とAIの対話の進化](https://zenn.dev/virtualcraft/articles/idd-06_context-engineering) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [【意図乖離検出；連載 第5回】なぜAIは意図を理解するのが困難なのか - エントロピーの壁](https://zenn.dev/virtualcraft/articles/idd-05_limits-of-ai-understanding) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [【意図乖離検出；連載 第4回】AIは「意図」を理解できるのか - 心の理論とLLM](https://zenn.dev/virtualcraft/articles/idd-04_can-ai-understand-intent) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [【AI】名詞詐欺？Skill / MCP / RAG / Agent の本質とは？](https://zenn.dev/shineos/articles/noun-scam-ai-terms) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [マシンを買わずにKimiを買う！Mac Studio購入計画を見直した話](https://zenn.dev/yamitake/articles/mac-studio-vs-kimi-ai-decision) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [はじめてのClaude Cowork ― AIに仕事をお願いする入門書](https://zenn.dev/hamaup/books/claude-cowork-62f853dc2268) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [Antigravity を実務で使う AI エージェント設定：GEMINI.md と Rules / Workflows](https://zenn.dev/imkohenauser/articles/antigravity-gemini-rules-workflows-ja) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [Webページ間のコピペ地獄を終わらせるChrome拡張機能を作った](https://zenn.dev/ktg/articles/947f47c94db163) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [分かった気になる「コンテキストエンジニアリング」](https://zenn.dev/suit9/articles/1c5d5b439d6e34) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [わずか半日で生まれたAI営業担当が、『本番の戦力』になるまでの全プロセス：Flow Sales 開発記](https://zenn.dev/kazuki_okura/articles/flow-sales-development-story) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [Claude Code 自身にバグをデバッグさせて GitHub Issue に報告した話](https://zenn.dev/atani/articles/claude-code-insights-bug-report) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [AIエージェント並列管理ツール Releash を作った](https://zenn.dev/siro339500/articles/releash-ai-agent-manager) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [口コミ返信AIを個人開発した話 — ニーズ検証からLP公開まで1日でやった](https://zenn.dev/kuchiresu/articles/4ce722858dace6) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [Chrome拡張機能開発にかかる費用について](https://zenn.dev/ktg/articles/545185f40e5f92) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [Subagents と Agent Teams におけるコンテキスト共有仕様の整理](https://zenn.dev/tarouimo/articles/b2fe0ecb73b56c) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [最近のAIが高すぎるので月額600円で動く「激安AIコーディングエージェント」を個人開発した話](https://zenn.dev/raic_dev/articles/26b2fa92fedd48) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [Claude Codeの設定共有をgit submoduleからプラグインに移行した話](https://zenn.dev/assign/articles/ai-docs-plugin-migration) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [5人チームでClaude Codeを8ヶ月運用して分かった「任せること」と「握ること」の境界線](https://zenn.dev/yusuke_shiya/articles/claude-code-team-adoption) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [ソフトウェアエンジニアリング「第3の黄金時代」と日本のSIerに迫る構造変化](https://zenn.dev/wfukatsu/articles/9e8e8b9055982a) *(Zenn – トピック AI)*
