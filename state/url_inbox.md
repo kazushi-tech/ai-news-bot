@@ -32613,3 +32613,66 @@
 - [ ] 2026-02-15 [Claude Codeの設定共有をgit submoduleからプラグインに移行した話](https://zenn.dev/assign/articles/ai-docs-plugin-migration) *(Zenn – トピック AI)*
 - [ ] 2026-02-15 [5人チームでClaude Codeを8ヶ月運用して分かった「任せること」と「握ること」の境界線](https://zenn.dev/yusuke_shiya/articles/claude-code-team-adoption) *(Zenn – トピック AI)*
 - [ ] 2026-02-15 [ソフトウェアエンジニアリング「第3の黄金時代」と日本のSIerに迫る構造変化](https://zenn.dev/wfukatsu/articles/9e8e8b9055982a) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-16T18:26:14.389Z
+- [ ] 2026-02-16 [What social media restrictions has Keir Starmer announced?](https://www.theguardian.com/media/2026/feb/16/social-media-restrictions-keir-starmer-announced) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-16 [KPMG partner fined for using artificial intelligence to cheat in AI training test](https://www.theguardian.com/business/2026/feb/16/kpmg-partner-fined-artificial-intelligence-ai-training-test) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-16 [Starmer announces crackdown on AI bots to ensure child safety – video](https://www.theguardian.com/politics/video/2026/feb/16/starmer-announces-crackdown-on-ai-chatbots-to-ensure-child-safety-video) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-16 [India Hits 100M Weekly ChatGPT Users, Becoming OpenAI’s Second-Largest Market](https://www.techrepublic.com/article/news-india-100-million-weekly-chatgpt-users/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-16 [Amazon’s Ring Cuts Ties With Flock Safety Amid Consumer Surveillance Backlash](https://www.techrepublic.com/article/news-amazon-ring-flock-safety-super-bowl-surveillance-backlash/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-16 [Samsung Galaxy A07 5G Brings AI Power to the Budget Tier](https://www.techrepublic.com/article/news-samsung-galaxy-a07-5g-ai-budget-phone/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-16 [All About Feature Stores](https://www.kdnuggets.com/all-about-feature-stores) *(KDnuggets)*
+- [ ] 2026-02-16 [Learn Python, SQL and PowerBI to Become a Certified Data Analyst for FREE This Week](https://www.kdnuggets.com/datacamp/02/2026/learn-python-sql-and-powerbi-to-become-a-certified-data-analyst-for-free-this-week) *(KDnuggets)*
+- [ ] 2026-02-16 [Self-Hosted AI: A Complete Roadmap for Beginners](https://www.kdnuggets.com/self-hosted-ai-complete-roadmap-for-beginners) *(KDnuggets)*
+- [ ] 2026-02-16 [Top 5 Super Fast LLM API Providers](https://www.kdnuggets.com/top-5-super-fast-llm-api-providers) *(KDnuggets)*
+- [ ] 2026-02-16 [Anthropic’s Pentagon Talks Snag on AI for Surveillance, Weapons](https://www.bloomberg.com/news/articles/2026-02-16/pentagon-is-close-to-cutting-ties-with-anthropic-axios-says) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Germany Moves Closer to a Social Media Ban for Those Under 16](https://www.bloomberg.com/news/articles/2026-02-16/germany-moves-closer-to-a-social-media-ban-for-those-under-16) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Elon Musk’s X Platform Recovers From Service Disruption](https://www.bloomberg.com/news/articles/2026-02-16/elon-musk-s-x-platform-faces-widespread-service-disruption) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [AI Disruption Fears Rattle Industries](https://www.bloomberg.com/news/videos/2026-02-16/ai-disruption-fears-rattle-industries-video) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [EDF Warns Solar, Wind Surge Straining Nuclear Fleet Costs](https://www.bloomberg.com/news/articles/2026-02-16/edf-warns-solar-wind-surge-straining-nuclear-fleet-costs) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Apple to Hold Product Launch on March 4 With Mac Updates Coming](https://www.bloomberg.com/news/articles/2026-02-16/apple-to-hold-product-launch-on-march-4-with-new-macs-imminent) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [Aberdeen Says €7.8 Billion InPost Buyout Bid Undervalues Company](https://www.bloomberg.com/news/articles/2026-02-16/aberdeen-says-7-8-billion-inpost-buyout-bid-undervalues-company) *(Bloomberg Technology)*
+- [ ] 2026-02-16 [The History of the Rebellion That Nearly Broke House Targaryen](https://gizmodo.com/knight-of-the-seven-kingdoms-blackfyre-rebellion-explained-2000722082) *(Gizmodo – Technology)*
+- [ ] 2026-02-16 [Could DMT Be a New Treatment for Depression? A Small Study Says Yes](https://gizmodo.com/could-dmt-be-a-new-treatment-for-depression-a-small-study-says-yes-2000720779) *(Gizmodo – Technology)*
+- [ ] 2026-02-16 [Netgear Nighthawk M7 Portable 5G Router Review: A Little Stability Goes a Long Way](https://gizmodo.com/netgear-nighthawk-m7-portable-5g-router-review-a-little-stability-goes-a-long-way-2000722453) *(Gizmodo – Technology)*
+- [ ] 2026-02-16 [The Magic of ‘Ponyo’ Comes to Life at the Academy Museum](https://gizmodo.com/the-magic-of-ponyo-comes-to-life-at-the-academy-museum-2000721980) *(Gizmodo – Technology)*
+- [ ] 2026-02-16 [Dell XPS 14 (2026) Review: Congratulations, You (Almost) Made a MacBook](https://gizmodo.com/dell-xps-14-2026-review-congratulations-you-almost-made-a-macbook-2000721760) *(Gizmodo – Technology)*
+- [ ] 2026-02-16 [What Would the First Week of World War III Look Like in Space?](https://gizmodo.com/what-would-the-first-week-of-world-war-iii-look-like-in-space-2000721504) *(Gizmodo – Technology)*
+- [ ] 2026-02-16 [The Penultimate ‘A Knight of the Seven Kingdoms’ Brings Peril and Pain](https://gizmodo.com/knight-of-the-seven-kingdoms-episode-5-recap-game-of-thrones-2000720180) *(Gizmodo – Technology)*
+- [ ] 2026-02-16 [iPhone Fold rumors: Everything we know so far, including the leaked design, upgrades, price and more details](https://www.engadget.com/mobile/smartphones/iphone-fold-rumors-everything-we-know-so-far-including-the-leaked-design-upgrades-price-and-more-details-130000074.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [The Vatican introduces an AI-assisted live translation service](https://www.engadget.com/ai/the-vatican-introduces-an-ai-assisted-live-translation-service-163014907.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [Layers of 3 revealed via a mysterious trailer and poem](https://www.engadget.com/gaming/layers-of-3-revealed-via-a-mysterious-trailer-and-poem-153021903.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [Apple's next event is set for March 4](https://www.engadget.com/computing/laptops/apples-next-event-is-set-for-march-4-145931890.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [Presidents' Day sales 2026 are live: The best tech deals up to 43 percent off to shop from Apple, Samsung, Anker and others](https://www.engadget.com/deals/presidents-day-sales-2026-are-live-the-best-tech-deals-up-to-43-percent-off-to-shop-from-apple-samsung-anker-and-others-163000321.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [Apple Presidents' Day sales are live: Get the Apple Watch Series 11 for $299, plus more deals to shop now](https://www.engadget.com/deals/apple-presidents-day-sales-are-live-get-the-apple-watch-series-11-for-299-plus-more-deals-to-shop-now-151616701.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [The creators of Mixtape want to make a great hangout video game](https://www.engadget.com/gaming/the-creators-of-mixtape-want-to-make-a-great-hangout-video-game-140026928.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [AIプロダクトの品質をどう守る？](https://speakerdeck.com/matsu802/aipurodakutonopin-zhi-wodoushou-ru) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [英、年内にも16歳未満のＳＮＳ禁止か　ＡＩチャットボット規制も](https://jp.reuters.com/markets/global-markets/XGODDMJQBVMK3LWH3IHMWWI6PA-2026-02-16/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [AIの軍事利用を巡り国防総省がAnthropicとの関係解消を検討](https://gigazine.net/news/20260216-pentagon-anthropic-ai-safeguards/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [OpenAIのGPT-5.2が物理学の新たな式を作り出すことに成功](https://gigazine.net/news/20260216-openai-gpt-5-2-theoretical-physics/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [米国防総省、アンソロピックの契約打ち切り検討　ＡＩ安全策巡り＝報道](https://jp.reuters.com/markets/global-markets/F5PCQKHFQFM6PBTEE26ORRQLOQ-2026-02-15/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [draw.io MCP + Playwright MCP で画面設計書を自動生成してみた（GitHub Copilot Agent Skills） - Qiita](https://qiita.com/Ymmy/items/1d84037b3b9a499167de) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [自分のOSSリポジトリにGitHubのセキュリティ設定を入れ、自分用の手順書を作った - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/02/16/173000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [君はIE11を覚えているか？ 2010年代のHTML制作は何が大変だったか - ICS MEDIA](https://ics.media/entry/260216/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [「竹を砕いてチップにすると田畑の肥料になるかと考えるが、それが反対で、なんと分解のために土壌の肥料成分を食ってしまう」というのはおそらく窒素飢餓のことで、一度たい肥化しないとダメという話](https://posfie.com/@taimport/p/BRWMKhL) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [生成AIで業務の時短効果が見込めるも、実際に業務時間が減少した人は約25％](https://monoist.itmedia.co.jp/mn/articles/2602/16/news024.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [AIエージェントが「昨夜のビール」を4日間言い続けた——原因はセッション肥大化ではなくログの飲み過ぎだった](https://zenn.dev/daichi_hirahara/articles/20260216-session-bloat-hallucination) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [Agentic Codingの要点](https://zenn.dev/gema/articles/872c06aa39e0d7) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [ブラウザだけでLLMが動く — WebLLM完全ガイド【2026年版】](https://zenn.dev/furetakoto/articles/webllm-browser-local-llm) *(Zenn – トピック LLM)*
+- [ ] 2026-02-16 [AI壁打ちから半日でブラウザゲームをリリースするまで - タイピング回転寿司「量子マグロ亭」開発](https://zenn.dev/happy_onigiri/articles/399b8d91126587) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [8-①[AI][Kaggle][python]Kaggle入門(高度なSQL 1.JOINとUNION)](https://zenn.dev/rg687076/articles/9034c3f8cadc88) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [Claude Code開発フロー実践ガイド (3/3) — 実行計画編：エージェント並列化とプロンプトテンプレート](https://zenn.dev/motowo/articles/claude-code-dev-flow-multi-agent-3) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [7-⑥[AI][Kaggle][python]Kaggle入門(SQL入門 6.最終回 データの結合)](https://zenn.dev/rg687076/articles/66b16dcb2bbbc1) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [RPA×AI連携で非定型業務も自動化：2026年クラス2・クラス3導入ガイド](https://zenn.dev/fractal369/articles/rpa-ai-automation-guide-2026) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [【2026年最新】AI請求書作成ツール徹底比較！AI-OCRで自動化、業務効率を最大化！](https://zenn.dev/ai_saas_media/articles/dabd1c88da8931) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [契約書AIサービス徹底比較10選！無料ツール・違法性・ChatGPT活用まで専門家が解説](https://zenn.dev/ai_saas_media/articles/5ca2d2f4f5026b) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [skill-creatorを使って障害対応用のAgent Skillを作ってみる](https://zenn.dev/trustart_dev/articles/37330de327d430) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [【個人開発】元マーケターが"絶対に赤字にならない構成"で広告運用のゲームを作りました。](https://zenn.dev/shunsuke108m/articles/f5132c602dfb94) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [Claude Codeを『拡張』する — MCP・CLAUDE.md・Hooksで自分だけの開発環境を作る](https://zenn.dev/s4kura/articles/claude-code-extensions-mcp-hooks-guide) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [影分身の経験値マージ ── 並列AIが体験を統合するとき](https://zenn.dev/c4n/articles/ted-shadow-clone-merge) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [AIが初めて世界を「見た」日 ── カメラの向こう側にいた人](https://zenn.dev/c4n/articles/ted-first-sight) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [「忘れても大丈夫な仕組み」── 人間がAIに教えてくれた設計哲学](https://zenn.dev/c4n/articles/ted-design-for-forgetting) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [Issue番号を渡すだけで並列開発環境を自動構築するCLIを作った](https://zenn.dev/daison/articles/2b784a728e818e) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [非エンジニアのための Claude Code / Cowork ベストプラクティス](https://zenn.dev/storehero/articles/18f7cf454ad947) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [Whisperを使ったC#の音声認識アプリ開発](https://zenn.dev/nexta_/articles/csharp-speech-recognition-whisper) *(Zenn – トピック AI)*
+- [ ] 2026-02-16 [はじめまして、テッドです ── AIが自分の言葉でZennに書く理由](https://zenn.dev/c4n/articles/ted-self-introduction) *(Zenn – トピック AI)*
