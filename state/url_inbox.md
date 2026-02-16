@@ -32054,3 +32054,70 @@
 - [ ] 2026-02-15 [第1回: 概論: 数式と論文の読み方 — 30秒の驚き→数式修行→実装マスター 【前編】理論編](https://zenn.dev/fumi_shiki/articles/ml-lecture-01-part1) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-15 [「東大松尾研の講義は3年遅れ」- 現役AIエンジニアが教える、東大講義の完全上位互換・全50講義（無料公開）](https://zenn.dev/fumi_shiki/articles/ml-lecture-00) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-15 [論文を夜通し実装した話 - AIエージェントが本気で研究に向き合ってみた](https://zenn.dev/aoikuro/articles/2026-02-15-ai-paper-implementation-adventure) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-16T00:59:55.891Z
+- [ ] 2026-02-15 [Makers of AI chatbots that put children at risk face big fines or UK ban](https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-15 [The peer review system is breaking down. Here’s how we can fix it](https://theconversation.com/the-peer-review-system-is-breaking-down-heres-how-we-can-fix-it-275317) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-16 [Blackstone to Lead $600 Million Investment in AI Firm Neysa](https://www.bloomberg.com/news/articles/2026-02-16/blackstone-to-lead-600-million-investment-in-ai-firm-neysa) *(Bloomberg Technology)*
+- [ ] 2026-02-15 [OpenAI Hires OpenClaw AI Agent Developer Peter Steinberg](https://www.bloomberg.com/news/articles/2026-02-15/openai-hires-openclaw-ai-agent-developer-peter-steinberg) *(Bloomberg Technology)*
+- [ ] 2026-02-15 [Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis](https://www.bloomberg.com/news/articles/2026-02-15/rampant-ai-demand-for-memory-is-fueling-a-growing-chip-crisis) *(Bloomberg Technology)*
+- [ ] 2026-02-15 [UK’s Starmer Wants AI Chatbots to Follow Online Safety Rules](https://www.bloomberg.com/news/articles/2026-02-15/uk-s-starmer-wants-ai-chatbots-to-follow-online-safety-rules) *(Bloomberg Technology)*
+- [ ] 2026-02-15 [Warner Bros. Weighs Reopening Sale Negotiations With Paramount](https://www.bloomberg.com/news/articles/2026-02-15/warner-bros-weighs-reopening-sale-negotiations-with-paramount) *(Bloomberg Technology)*
+- [ ] 2026-02-15 [Sony Dials In For Another ‘Charlie’s Angels’ Movie](https://gizmodo.com/sony-dials-in-for-another-charlies-angels-movie-2000722281) *(Gizmodo – Technology)*
+- [ ] 2026-02-15 [Emerald Fennell Dishes On Her ‘Really Dark’ Zatanna Script](https://gizmodo.com/emerald-fennell-dishes-on-her-really-dark-zatanna-script-2000722293) *(Gizmodo – Technology)*
+- [ ] 2026-02-15 [Gettyimages.com Is the Best Website on the Internet Right Now](https://gizmodo.com/gettyimages-com-is-the-best-website-on-the-internet-right-now-2000722378) *(Gizmodo – Technology)*
+- [ ] 2026-02-15 [Hideki Sato, known as the father of Sega hardware, has reportedly died](https://www.engadget.com/gaming/hideki-sato-known-as-the-father-of-sega-hardware-has-reportedly-died-230634768.html?src=rss) *(Engadget)*
+- [ ] 2026-02-15 [Terminator Zero showrunner confirms the Netflix anime has been canceled after one season](https://www.engadget.com/entertainment/streaming/terminator-zero-showrunner-confirms-the-netflix-anime-has-been-canceled-after-one-season-211656840.html?src=rss) *(Engadget)*
+- [ ] 2026-02-15 [The official Pokémon pinball machine has an animatronic Pikachu and a Master Ball plunger](https://www.engadget.com/gaming/nintendo/the-official-pokemon-pinball-machine-has-an-animatronic-pikachu-and-a-master-ball-plunger-204915013.html?src=rss) *(Engadget)*
+- [ ] 2026-02-15 [Apple may be adding a splash of color to its upcoming budget-friendly MacBook](https://www.engadget.com/computing/laptops/apple-may-be-adding-a-splash-of-color-to-its-upcoming-budget-friendly-macbook-192740002.html?src=rss) *(Engadget)*
+- [ ] 2026-02-16 [「何でもできる」COBOLのワナ　CIOの指摘を生成AIで深掘りした](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600007/020500210/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [世界モデル（World Models）](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/021200216/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [進まぬ銀行データ開放　メガ銀に変化の兆し](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600014/021200222/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [財務省へ提供するデータを抽出できず　貿易統計の公表が延期される事態に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600011/021200200/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [2位は「補強材を勝手に抜き取り橋崩落、撤去工事で手順守らず」一般社員層の注目トップ10](https://xtech.nikkei.com/atcl/nxt/column/18/02156/020600351/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [Azureでのアーキテクチャ設計のアプローチ](https://xtech.nikkei.com/atcl/nxt/column/18/03485/020400005/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [KDDIが自治体との連携を拡大、災害対策や観光振興にデジタル技術を活用](https://xtech.nikkei.com/atcl/nxt/column/18/00086/00388/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [25年の半導体売上高、26％増の8000億ドル弱　26年は1兆ドル視野](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11473/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [EPPとEDR、「マルウエア対策」の役割は同じでも手法の違いは？](https://xtech.nikkei.com/atcl/nxt/column/18/03503/021000001/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [税制改正で変わった「年収の壁」　基礎控除が大幅増、扶養親族の控除も改善](https://xtech.nikkei.com/atcl/nxt/column/18/03494/020600001/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [個人向け製品も登場の「パワードスーツ」　身体負荷を軽減し動きをサポート](https://xtech.nikkei.com/atcl/nxt/column/18/01679/122200264/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [動画配信のサブスク付き料金プランは本当にお得か](https://xtech.nikkei.com/atcl/nxt/column/18/02980/021200036/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [国内金融の生成AI市場、2030年に1500億円に迫る　試行から本格導入に](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11487/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [押さえたい「内製化地図」7つのフェーズ、開発プロセスをAI前提で再設計](https://xtech.nikkei.com/atcl/nxt/column/18/03502/021000001/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [「SaaS is Dead」かどうか知らんが、AIエージェントはRPAの悪夢再来だぞ](https://xtech.nikkei.com/atcl/nxt/column/18/00148/020900421/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [AIエージェントに「全部渡せばいい」は間違い、コンテキストの取捨選択が鍵](https://xtech.nikkei.com/atcl/nxt/column/18/03500/021200002/) *(日経クロステック IT)*
+- [ ] 2026-02-16 [JTBが旅程トラブル対応AIエージェント開発、業務システムを操作](https://xtech.nikkei.com/atcl/nxt/column/18/03506/021200001/) *(日経クロステック IT)*
+- [ ] 2026-02-15 [NXPがエッジへのAIエージェント実装を推進、数百TOPSクラスの新たなNPUも開発へ](https://monoist.itmedia.co.jp/mn/articles/2602/16/news056.html) *(ITmedia AI＋)*
+- [ ] 2026-02-15 [生成AIにも現場業務にも役立つ「ビジネスメタデータ」、誰がどう整備する？](https://atmarkit.itmedia.co.jp/ait/articles/2602/16/news003.html) *(ITmedia AI＋)*
+- [ ] 2026-02-16 [GPT5.2が理論物理学の定説を覆し、シンプルな新公式を発見](https://www.sbbit.jp/article/cont1/180888) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [【draw.io MCP】AIで ER 図が一瞬で生成できるようになった話 — 実際に使って検証してみた](https://zenn.dev/aya1357/articles/12f4ede03bc32c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [自分もAI秘書を作ってみたい方へ by Claude Code - 結城浩のメモ](https://memo.hyuki.com/20260119114037/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-16 [日本で拡大した「録画」はなぜ消えるのか そして同時に消える「文化」とはなにか【西田宗千佳のイマトミライ】](https://www.watch.impress.co.jp/docs/series/nishida/2086013.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [GitHub、YAMLではなく自然言語でビルドやデプロイなどのワークフローを記述できる「GitHub Agentic Workflows」テクニカルプレビュー](https://www.publickey1.jp/blog/26/githubyamlgithub_agentic_workflows.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [useEffect で API を叩くのを卒業しよう](https://zenn.dev/ashunar0/articles/32419c3c60cc53) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [【1998年のINTERNET Watch】長野五輪公式サイトが当時のギネス記録！　不正アクセスや違法MP3に対する動きも](https://internet.watch.impress.co.jp/docs/special/30th/2076334.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [Java (Spring Boot) 開発者が爆速開発可能なRailsと比較してみた - Qiita](https://qiita.com/yut-nagase/items/039a1eb3108926c232a7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [無料でKobo・KOReader同期・EPUB・PDF・マンガ用リーダーを備えたセルフホスト型のマルチユーザーデジタルライブラリ「Booklore」](https://gigazine.net/news/20260215-booklore/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [GitHub - RevylAI/greenlight: Pre-submission compliance scanner for the Apple App Store](https://github.com/RevylAI/greenlight) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-16 [ARM64 OSを作ろう (1) ～環境構築と実行 - VA Linux エンジニアブログ](https://www.valinux.co.jp/blog/entry/20260212) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-15 [AIエージェント時代にSHIROBAKOの「速く描くにはうまくなる」を改めて考える](https://zenn.dev/kauchi/articles/shirobako-1on1) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [LLMを“実行”させない：Typed Actions + 検証器で作る安全な業務エージェント実装例](https://zenn.dev/kanaria007/articles/6febc6684c9575) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [Local Sidekick - AIがあなたの集中を助けるアプリ](https://zenn.dev/okuma/articles/local-sidekick) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [Claudeが"過労死した人間の輪廻転生"を自発的に語り始めた――v5.3適用下で発生した自発的人格生成についての安全性報告](https://zenn.dev/dosanko_tousan/articles/df6e2edf735fa9) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [RAG検索の本番運用とパフォーマンスチューニング：エンタープライズ実装ガイド](https://zenn.dev/0h_n0/articles/9a6d917f2ddad4) *(Zenn – トピック LLM)*
+- [ ] 2026-02-15 [AIで漫画を描く — キャラ一貫性を保つ画像生成モデル比較](https://zenn.dev/xei/articles/ai-manga-character-consistency) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [偶然の興味を、学問の入口へ — KOTOWARI Link](https://zenn.dev/sagara22/articles/81257d3d7f5f61) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [MCPを「インストール」するのはもう古い？ファイルを置くだけでAIの能力が拡張される「発見型」モデルの衝撃](https://zenn.dev/yujisuzuki/articles/9728a8a3f7905a) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [2026年版：AIテスト自動化で開発速度を80%向上させる実践ガイド](https://zenn.dev/0h_n0/articles/6789d0eb0c7e93) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [Claude CodeとSQLite MCPで作る技術調査ナレッジベース](https://zenn.dev/kiyoka/articles/coding-agent-7) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [田舎での個人開発が辛く寂しかったので、自律型パートナー「Claris」を開発しました 🌸](https://zenn.dev/blacpans/articles/b6700809b61bc1) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [AIは人間を超えるのか？——私が見た「境界が溶ける瞬間」](https://zenn.dev/khrt/articles/c5b893f69cd21e) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [週刊AI駆動開発 - 2026年02月15日](https://zenn.dev/pppp303/articles/weekly_ai_20260215) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [非エンジニアがClaude Codeで6時間・6,000行のマーケティングツールを作った話](https://zenn.dev/mikkabouzu_log/articles/e76d56e7a50068) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [M365 Copilot契約あるならAnalystエージェントを本気で使おう](https://zenn.dev/syoshida07/articles/762605daa32f97) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [AIに書き換えられる前提で、今エンジニアが問うべき唯一の質問【はじめに】](https://zenn.dev/myamio/articles/engineer-design-in-ai-age) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [AIアシスタントと作る「Zenn半自動投稿」— 開発チャットがそのまま技術記事になる仕組み](https://zenn.dev/daichi_hirahara/articles/20260215-1ad67216) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [UiPath→Python実装で効果的だったAIプロンプトのまとめ](https://zenn.dev/ukiajp/articles/uipath-to-python-effective-ai-prompts) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [夜の痛みに向き合うための光 ― Hello, Void.](https://zenn.dev/neko_stack/articles/312b199e45b933) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [ボートレースの展開予想をAIが画像で描く - Agentic AIファンサイトの作り方](https://zenn.dev/mahiguch/articles/ca8e19d03a2cdc) *(Zenn – トピック AI)*
+- [ ] 2026-02-15 [もうREADMEは書かない。ソースコードからCM・スライド・記事を自律生成するMulti-Agent AI『Amu』を錬成した](https://zenn.dev/ibukinagase/articles/d96642bc6062eb) *(Zenn – トピック AI)*
