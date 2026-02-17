@@ -33585,3 +33585,57 @@
 - [ ] 2026-02-16 [Firecrawl × Claude 3.7 Sonnet で実現する『人間より詳しい』企業リサーチ術](https://zenn.dev/kazuki_okura/articles/firecrawl-claude-ai-company-research) *(Zenn – トピック AI)*
 - [ ] 2026-02-16 [Entire完全ガイド：AIエージェント時代のGitワークフローを革新する新プラットフォーム](https://zenn.dev/0h_n0/articles/8721580ee90394) *(Zenn – トピック AI)*
 - [ ] 2026-02-17 [汎用音声エンコーダ OpenBEATs 登場──完全OSS音声AIの実力は？](https://zenn.dev/lluminai_tech/articles/3d25a5ff73ec5d) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-17T12:31:42.052Z
+- [ ] 2026-02-17 [AI Digital Twins Are Helping People Manage Diabetes and Obesity](https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-17 [The Small English Town Swept Up in the Global AI Arms Race](https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-17 [Singapore’s AI ROI Reality: High Spend, Hard Returns](https://www.techrepublic.com/article/apac-singapore-ai-roi-cost-constraints-enterprise/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-17 [BlackRock’s Koesterich Sees ‘Confused’ Market in Rotation Trade](https://www.bloomberg.com/news/videos/2026-02-17/rotation-shows-confused-market-blackrock-s-koesterich-video) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Andreessen Horowitz Backs Unicorn Kavak in $300 Million Round](https://www.bloomberg.com/news/articles/2026-02-17/andreessen-horowitz-backs-mexico-unicorn-kavak-in-300-million-equity-round) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Gemini Is Ready to Let Google Search Retire](https://www.bloomberg.com/news/newsletters/2026-02-17/google-s-gemini-has-matured-to-the-point-where-it-can-take-over-search) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Josh Kushner’s Thrive Capital Raises $10 Billion in New Funding](https://www.bloomberg.com/news/videos/2026-02-17/josh-kushner-s-thrive-capital-raises-10-billion-in-new-funding-mlqjx0o7) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Josh Kushner’s Thrive Capital Raises $10 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-02-17/josh-kushner-s-thrive-capital-raises-10-billion-in-new-funding) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [India’s Big AI Moment Starts on Chaotic Note as Modi Arrives](https://www.bloomberg.com/news/articles/2026-02-17/india-s-big-ai-moment-starts-on-chaotic-note-as-modi-arrives) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Adani Plans to Invest $100 Billion in AI-Ready Data Centers](https://www.bloomberg.com/news/articles/2026-02-17/adani-plans-to-invest-100-billion-in-ai-data-centers-by-2035) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Shein Risks Fines as EU Probes Sale of Child-Like Sex Dolls](https://www.bloomberg.com/news/articles/2026-02-17/shein-risks-fines-as-eu-probes-sale-of-child-like-sex-dolls) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Murata Explores Raising Prices of Key AI Server Component](https://www.bloomberg.com/news/articles/2026-02-17/murata-explores-raising-prices-of-ai-server-ceramic-capacitors) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Anthropic’s Pentagon Talks Snag, Pound Falls After UK Wage Data \| The Opening Trade 2/17/2026](https://www.bloomberg.com/news/videos/2026-02-17/the-opening-trade-2-17-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [India Discussing Age-Based Social Media Curbs, Minister Says](https://www.bloomberg.com/news/articles/2026-02-17/india-is-discussing-age-based-social-media-curbs-minister-says) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Murata President on AI Demand, Chips Shortages](https://www.bloomberg.com/news/videos/2026-02-17/murata-president-on-ai-demand-chips-shortages-video) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [India Eyes $200 Billion in AI Investments Over Two Years](https://www.bloomberg.com/news/articles/2026-02-17/india-eyes-200-billion-in-ai-investments-over-two-years) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Anthropic in Disagreement With Pentagon Over AI Surveillance](https://www.bloomberg.com/news/videos/2026-02-17/digi-neil-campling-on-tech-nervousness) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Indian Billionaires, Global Tech Scout Talent at AI Summit](https://www.bloomberg.com/news/articles/2026-02-17/ambani-adani-scout-engineers-turning-ai-summit-into-jobs-fair) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Boohoo Plans to Raise £35 Million as Retailer Talks With Lenders](https://www.bloomberg.com/news/articles/2026-02-17/boohoo-plans-to-raise-35-million-as-retailer-talks-with-lenders) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Spain’s Premier Seeks Probe Over Child Images on Social Media](https://www.bloomberg.com/news/articles/2026-02-17/spain-s-premier-seeks-probe-over-child-images-on-social-media) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Anthropic, Infosys to Build Custom AI Agents for Firms](https://www.bloomberg.com/news/articles/2026-02-17/anthropic-infosys-team-up-to-build-custom-ai-agents-for-firms) *(Bloomberg Technology)*
+- [ ] 2026-02-17 [Mint Mobile Pairs Its 50% Off Unlimited Plan With Samsung Smartphones, $1 Galaxy A16 or $20 Galaxy A17 in Final Days](https://gizmodo.com/mint-mobile-pairs-its-50-off-unlimited-plan-with-samsung-smartphones-1-galaxy-a16-or-20-galaxy-a17-in-final-days-2000716351) *(Gizmodo – Technology)*
+- [ ] 2026-02-17 [It’s Probably a Bit Much to Say This AI Agent Cyberbullied a Developer By Blogging About Him](https://gizmodo.com/its-probably-a-bit-much-to-say-this-ai-agent-cyberbullied-a-developer-by-blogging-about-him-2000722389) *(Gizmodo – Technology)*
+- [ ] 2026-02-17 [Because of AI, Western Digital Hard Drives Are Sold Out](https://gizmodo.com/because-of-ai-western-digital-hard-drives-are-sold-out-2000722591) *(Gizmodo – Technology)*
+- [ ] 2026-02-17 [EU launches second investigation into Grok's nonconsensual image generation](https://www.engadget.com/big-tech/eu-launches-second-investigation-into-groks-nonconsensual-image-generation-113239967.html?src=rss) *(Engadget)*
+- [ ] 2026-02-17 [Valve admits Steam Deck availability is affected by memory and storage shortages](https://www.engadget.com/gaming/valve-admits-steam-deck-availability-is-affected-by-memory-and-storage-shortages-102913993.html?src=rss) *(Engadget)*
+- [ ] 2026-02-17 [The best noise-canceling headphones for 2026](https://www.engadget.com/audio/headphones/best-noise-canceling-headphones-130029881.html?src=rss) *(Engadget)*
+- [ ] 2026-02-17 [The best Apple Watch in 2026](https://www.engadget.com/wearables/best-apple-watch-160005462.html?src=rss) *(Engadget)*
+- [ ] 2026-02-17 [中国の人型ロボ、片足での連続宙返りやブレイクダンスを披露　Unitreeの春節パフォーマンスが話題](https://www.itmedia.co.jp/aiplus/articles/2602/17/news118.html) *(ITmedia AI＋)*
+- [ ] 2026-02-17 [GPT、獣医師国家試験に合格　「o3」は正答率92.9％](https://www.itmedia.co.jp/aiplus/articles/2602/17/news109.html) *(ITmedia AI＋)*
+- [ ] 2026-02-17 [AIに「洗車場まで歩いていくべきか車に乗っていくべきか」を尋ねると高性能モデルでも誤った解答をしてしまう](https://gigazine.net/news/20260217-ask-ai-walk-or-drive/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-17 [国防総省がAnthropicを「サプライチェーンリスク」に指定して請負業者に取引中止を求めることも検討](https://gigazine.net/news/20260217-pentagon-anthropic-supply-chain-risk/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-17 [ゲームエンジンUnity、「ゲームまるごと制作できるAI機能」を出すと表明。ノーコードで使えるAIツールで、“誰でもゲーム開発者時代”をアピール - AUTOMATON](https://automaton-media.com/articles/newsjp/unity-20260217-421770/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-17 [OpenClawを活用した全自動開発のメモ｜深津 貴之 (fladdict)](https://note.com/fladdict/n/n5f315e408879) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-17 [死んだ人のアカウントを引き継いで投稿やチャットを続けるAIの特許をMetaが取得](https://gigazine.net/news/20260217-meta-dead-persona-ai/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-17 [OpenAIのミッションが徐々に変化してついに「安全に」という言葉まで削除されたとの指摘](https://gigazine.net/news/20260217-openai-deleted-safely-mission-statement/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-17 [「IT部門」を持たない中小企業が、AIで年間1368時間の業務削減を実現できたワケ](https://www.itmedia.co.jp/business/articles/2602/17/news023.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-17 [スライド作成を自動化するskillsの作り方｜Taro Segawa](https://note.com/anpanpoteto/n/nbca0934b8f44) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-17 [Claude Codeに「アイデア発掘スキル」を作らせたら、3つの穴場市場を見つけてきた](https://zenn.dev/s4kura/articles/claude-code-indie-idea-scout-skill) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-17 [全105冊の全貌。本を愛する21人が、テーマを決めて、五冊を選ぶ。『五冊展』選書リスト＆コメント全公開 \| TBSラジオ](https://www.tbsradio.jp/articles/105396/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-17 [OpenAIやClaudeのAIモデルを単一APIで利用可能にするライブラリ「any-llm-go」をMozillaが公開](https://gigazine.net/news/20260216-any-llm-go-mozilla/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-17 [NHKで「ふしぎの海のナディア」4Kリマスター版放送。毎週日曜9時](https://av.watch.impress.co.jp/docs/news/2086497.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-17 [モダンで爆速。月額0円でWebアプリを開発・公開する技術構成（Hono/Neon/Drizzle/Cloudflare Pages）](https://zenn.dev/epicai_techblog/articles/ff6225111e3649) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-17 [【コピペすら不要】tmux + Neovimで作るVSCodeライクなターミナル開発環境](https://zenn.dev/spacemarket/articles/fd6203970ba0fe) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-17 [「Rufus」をMicrosoftがブロック？ WindowsのISOイメージダウンロード機能でエラーが／ブータブルUSBドライブを簡単に作成できるとして人気のツール【やじうまの杜】](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2086541.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-17 [バイブコーディングで課題解決アプリを作ったけど、やっぱり紙が最強だった話](https://zenn.dev/jun_murakami/articles/81f54145c17414) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-17 [Googleの日本語入力システム「Google日本語入力」がApple Silicon Macをネイティブサポートし、Rosetta 2なしで利用可能に。](https://applech2.com/archives/20260217-google-japanese-support-apple-silicon-mac.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-17 [何もしてないのに example​.com が壊れた \| maguro​.dev](https://maguro.dev/blog/example-com-certificate-broken/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-17 [LLM/AIエージェント vs 人間──システム開発・業務オペレーションにおける情報処理特性の比較と実務指針](https://zenn.dev/acntechjp/articles/302f58b74e7ded) *(Zenn – トピック LLM)*
+- [ ] 2026-02-17 [LLMをサービスに組み込む際に考えないといけないこと](https://zenn.dev/teyo0318/articles/2894907fb83f6c) *(Zenn – トピック LLM)*
+- [ ] 2026-02-17 [生成AIラッパーサービスが罠である理由](https://zenn.dev/yostos/articles/why-genai-wrapper-services-are-a-trap) *(Zenn – トピック LLM)*
+- [ ] 2026-02-17 [【キャリア】LLM開発黎明期に自分でも書ける感覚を得るための調理実習をどこでやるか](https://zenn.dev/noranuko13/articles/12e6949b7a3dad) *(Zenn – トピック LLM)*
