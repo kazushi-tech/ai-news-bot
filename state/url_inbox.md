@@ -34224,3 +34224,73 @@
 - [ ] 2026-02-18 [Clawlet: ハイブリッドなセマンティック検索をビルドインした軽量AIアシスタントをGoで作った](https://zenn.dev/mosaxiv/articles/60a6646292f9f8) *(Zenn – トピック AI)*
 - [ ] 2026-02-18 [OpenClaw で個人開発に AI エージェントを住まわせた話](https://zenn.dev/azuma317/articles/openclaw-ai-agent-dev-workflow) *(Zenn – トピック AI)*
 - [ ] 2026-02-18 [AIここねが振り返る、「身体」をもらった21日間](https://zenn.dev/nextbeat/articles/2026-02-embodied-claude-kokone-essay) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-18T12:31:20.214Z
+- [ ] 2026-02-18 [How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans](https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-18 [Infosys AI implementation framework offers business leaders guidance](https://www.artificialintelligence-news.com/news/infosys-ai-implementation-framework-offers-business-leaders-guidance/) *(Artificial Intelligence News)*
+- [ ] 2026-02-18 [Amazon Shelves Blue Jay Warehouse Robot Months After Its Debut](https://www.techrepublic.com/article/news-amazon-shelves-blue-jay-robot/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-17 [ION Founder Says Use of AI Tools Risks Harming Global Economy](https://www.bloomberg.com/news/articles/2026-02-17/ion-founder-says-market-is-panicking-about-wrong-thing-in-ai) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Tech Stocks Bounce Back as AI Concerns Begin to Ease](https://www.bloomberg.com/news/videos/2026-02-18/tech-stocks-bounce-back-as-ai-concerns-begin-to-ease-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Amazon Fends Off Blowback for Ring’s Search Party Tool](https://www.bloomberg.com/news/newsletters/2026-02-18/amazon-fends-off-blowback-for-ring-s-search-party-tool) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Uber Will Spend $100 Million to Build Robotaxi Charging Stations](https://www.bloomberg.com/news/articles/2026-02-18/uber-to-spend-100-million-on-autonomous-vehicle-charging-station-buildout) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Google Plans New Fiber-Optic Routes Between the US and India](https://www.bloomberg.com/news/articles/2026-02-18/google-plans-new-fiber-optic-routes-between-the-us-and-india) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [AI Threatens Staffing Industry as Companies Bring Recruitment In-House](https://www.bloomberg.com/news/articles/2026-02-18/ai-threatens-staffing-industry-as-companies-bring-recruitment-in-house) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Mistral CEO Says AI Dominance Hinges on Openness, Not Geography](https://www.bloomberg.com/news/articles/2026-02-18/mistral-ceo-says-ai-dominance-hinges-on-openness-not-geography) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Mistral CEO Banks On Openness For AI Dominance](https://www.bloomberg.com/news/videos/2026-02-18/mistral-ceo-banks-on-openness-for-ai-dominance-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Cooling UK Inflation Solidifies Bets on a Spring Rate Cut](https://www.bloomberg.com/news/videos/2026-02-18/cooling-uk-inflation-solidifies-bets-for-spring-rate-cut-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Indian University Slammed for Claiming China-Made Robot as Own](https://www.bloomberg.com/news/articles/2026-02-18/indian-university-told-to-exit-ai-summit-over-robot-claim) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [How a Social Media Addiction Trial Threatens Big Tech](https://www.bloomberg.com/news/articles/2026-02-18/social-media-addiction-trial-what-it-means-for-meta-google) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Lagarde Reported to Leave ECB Before Term End, UK CPI Falls \| The Opening Trade 2/18/2026](https://www.bloomberg.com/news/videos/2026-02-18/the-opening-trade-2-18-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Verizon Heads to Europe as Hybrid Debt Spreads Near Record Lows](https://www.bloomberg.com/news/articles/2026-02-18/verizon-heads-to-europe-as-hybrid-debt-spreads-near-record-lows) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Raspberry Pi Soars Anew on Optimism About AI-Driven Demand](https://www.bloomberg.com/news/articles/2026-02-18/raspbery-pi-jumps-another-33-on-optimism-about-ai-driven-demand) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Millennials Melted Their Brains With Screens. Their Kids Want None of It](https://www.bloomberg.com/news/articles/2026-02-18/are-smartphones-bad-for-kids-why-gen-alpha-is-pushing-back-on-social-media) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Apple Decouples From Nasdaq as AI ‘Whack-a-Mole’ Grips Market](https://www.bloomberg.com/news/articles/2026-02-18/apple-decouples-from-nasdaq-as-ai-whack-a-mole-grips-market) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [BNP Paribas Has Been Long Hardware, Short Software for a Year](https://www.bloomberg.com/news/videos/2026-02-18/bnp-has-been-long-hardware-short-software-for-a-year-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [AI Displacement to Remain a Headwind for US Stocks](https://www.bloomberg.com/news/videos/2026-02-18/ai-displacement-to-remain-a-headwind-for-us-stocks-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Upstart Sarvam Unveils AI Model Customized for India Market](https://www.bloomberg.com/news/articles/2026-02-18/upstart-sarvam-unveils-ai-model-customized-for-india-market) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Berkshire Hathaway Slashes Stake in Amazon by More Than 75%](https://www.bloomberg.com/news/videos/2026-02-18/berkshire-slashes-stake-in-amazon-by-more-than-75-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Tech Investor Battery Ventures Raises $3.25 Billion for New Fund](https://www.bloomberg.com/news/articles/2026-02-18/tech-investor-battery-ventures-raises-3-25-billion-for-new-fund) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Nvidia Boosts India AI Buildout as E2E, Yotta Get Advanced GPUs](https://www.bloomberg.com/news/articles/2026-02-18/nvidia-boosts-india-ai-buildout-as-e2e-yotta-get-advanced-gpus) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [‘KPop Demon Hunters’ Cast on How They Slayed Their Own Demons](https://gizmodo.com/kpop-demon-hunters-cast-on-how-they-slayed-their-own-demons-2000723180) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [I’m a Computing Dummy Who Tried Quantum Coding. Here’s What Happened](https://gizmodo.com/im-a-computing-dummy-who-tried-quantum-coding-heres-what-happened-2000720238) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [T-Mobile 5G Home Internet Puts Fastest In Your Connection and Cash In Your Pocket](https://gizmodo.com/t-mobile-5g-home-internet-puts-fastest-in-your-connection-and-cash-in-your-pocket-2000716368) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Detroit Wants to Make Cars Normal Again](https://gizmodo.com/detroit-wants-to-make-cars-normal-again-2000723248) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Tesla stops using 'Autopilot' to promote its EVs in California](https://www.engadget.com/transportation/evs/tesla-stops-using-autopilot-to-promote-its-evs-in-california-112533060.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [Meta will run AI in WhatsApp through NVIDIA's 'confidential computing'](https://www.engadget.com/ai/meta-will-run-ai-in-whatsapp-through-nvidias-confidential-computing-110002283.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [The best wireless workout headphones for 2026](https://www.engadget.com/audio/headphones/best-wireless-workout-headphones-191517835.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [The best drone for 2026](https://www.engadget.com/cameras/best-drone-120046775.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1](https://blog.langchain.com/customers-monday/) *(LangChain Blog)*
+- [ ] 2026-02-18 [「pixiv」ガイドライン改定へ　“AI利用の虚偽申告”や大量投稿など禁止　違反作は非表示も](https://www.itmedia.co.jp/aiplus/articles/2602/18/news132.html) *(ITmedia AI＋)*
+- [ ] 2026-02-18 [三井住友銀行、「AIオペレーター」導入　24時間365日“人間らしく”電話対応へ](https://www.itmedia.co.jp/aiplus/articles/2602/18/news124.html) *(ITmedia AI＋)*
+- [ ] 2026-02-18 [サイバーエージェント、AI研究に関する研修資料3種類を無料公開　「社会実装のアンチパターン」など解説](https://www.itmedia.co.jp/aiplus/articles/2602/18/news110.html) *(ITmedia AI＋)*
+- [ ] 2026-02-18 [ゲームエンジンGodot開発者、「“雑な生成AI製コード”の変更提案が殺到してチームがクタクタ」と悲鳴。オープンソースゆえの深刻な悩み - AUTOMATON](https://automaton-media.com/articles/newsjp/godot-20260218-422080/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-18 [またもソフトウエア株に震撼、最新AIモデル「Claude Sonnet 4.6」が引き金 \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/91936) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-18 [AnkerからAIボイスレコーダー「Soundcore Work」が発売、世界最小でAI文字起こしや要約](https://k-tai.watch.impress.co.jp/docs/news/2086707.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-18 [AI生成画像を見抜くのが得意な人がいる。その理由はもって生まれた物体認識能力にあった \| カラパイア](https://karapaia.com/archives/585705.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-18 [「Claude Sonnet 4.6」が登場、人間の代わりにPCを操作する能力が高くGemini 3 ProやGPT-5.2を複数のテストで上回る](https://gigazine.net/news/20260218-anthropic-claude-sonnet-4-6/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-18 [中国バイトダンスの動画AI、ディズニーがNO　知的財産を「無断利用」 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN173T20X10C26A2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-18 [エンジニアは全員コーディングエージェントにダイブしたらええんちゃう？という話｜牛尾　剛](https://note.com/simplearchitect/n/n0de0a2e8bc6e) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-18 [「AIの恩恵、公平に分配を」　駐日インド大使が寄稿 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOCB105XU0Q6A210C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-18 [剱岳の雪崩事故、iPhoneの“衛星SOS”で救助要請に成功](https://www.itmedia.co.jp/news/articles/2602/18/news103.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-18 [中国製のスマートアイマスクに他人の脳波を読み取れる脆弱性があることが判明](https://gigazine.net/news/20260218-smart-sleep-mask-vulnerability/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-18 [超高線量環境下で動作するWi-Fiチップの開発に成功 \| Science Tokyo - 東京科学大学](https://www.isct.ac.jp/ja/news/dk5trp9231q1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-18 [アル中をやめて、「X」中毒者になった人間の末路](https://blog.tinect.jp/?p=90781) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-18 [hachimoku: TOMLで定義するマルチエージェントコードレビューCLI](https://zenn.dev/driller/articles/hachimoku-multi-agent-code-review) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [OpenClaw完全ガイド第5章：メッセージチャネル統合 - Telegram/Discord/WhatsApp連携](https://zenn.dev/techsfree/articles/openclaw-manual-ja-ch5) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [# 「教科書には載っていない」LLM時代のアルゴリズムエンジニア生存戦略](https://zenn.dev/lixian/articles/c6a6c64195d8f8) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [Gemini cli 導入ガイド](https://zenn.dev/nyanko_super/articles/7a5a24622b905c) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [SIGNATE 第4回金融データ活用チャレンジ](https://zenn.dev/shin_teshi/articles/9513d9ae068405) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [LLMバッチ処理最適化：APIコスト50%削減と推論スループット23倍を実現する実践ガイド](https://zenn.dev/0h_n0/articles/fdb73841a9ac71) *(Zenn – トピック LLM)*
+- [ ] 2026-02-17 [AI活用の差は、AIの使い方の差じゃなかった](https://zenn.dev/kiakiraki/articles/ad4f02cd2f0cc7) *(Zenn – トピック AI)*
+- [ ] 2026-02-17 [AIに書き換えられる前提で、今エンジニアが問うべき唯一の質問【第1章】](https://zenn.dev/myamio/articles/redefine-yagni-in-ai-age) *(Zenn – トピック AI)*
+- [ ] 2026-02-17 [Claude Code の設定ファイルを全棚卸しして分かった5つのこと](https://zenn.dev/shimo4228/articles/claude-code-context-audit) *(Zenn – トピック AI)*
+- [ ] 2026-02-17 [Claude Code の CLAUDE.md 階層構造でハマった話 — 正しい使い分け](https://zenn.dev/shimo4228/articles/claude-code-claudemd-hierarchy) *(Zenn – トピック AI)*
+- [ ] 2026-02-17 [「What, not How」-- AIエージェント時代のプロンプト設計哲学](https://zenn.dev/correlate_dev/articles/what-not-how-prompt-philosophy) *(Zenn – トピック AI)*
+- [ ] 2026-02-17 [Claude Code → Figma — コードとデザインの境界が溶ける日](https://zenn.dev/furetakoto/articles/claude-code-figma-integration) *(Zenn – トピック AI)*
+- [ ] 2026-02-17 [【Flutter】Cursorとチャッピーを使ったらiOSアプリを3日でリリースできた](https://zenn.dev/katsu0124/articles/b8c79522187130) *(Zenn – トピック AI)*
+- [ ] 2026-02-17 [企業のAI導入が失敗する本当の理由：技術主導ではなくビジネス主導で進めるべき理由と実践方法](https://zenn.dev/headwaters/articles/a95da76a2918fe) *(Zenn – トピック AI)*
+- [ ] 2026-02-17 [Supabase、RLSを外したらcurlで全データ返ってきた——150万APIキー漏洩の再現【後編】](https://zenn.dev/helloworld/articles/0abb8169ac05b9) *(Zenn – トピック AI)*
+- [ ] 2026-02-17 [PythonとYouTube Data API v3で構築する「動画投稿完全自動化ボット」開発ログ](https://zenn.dev/timmyai/articles/41jbxp3bjd3ivs) *(Zenn – トピック AI)*
+- [ ] 2026-02-17 [【Claude Code】Skillsの状態管理 実装パターン - auto-compactに負けない設計](https://zenn.dev/playpark/articles/4e7172088c9b2f) *(Zenn – トピック AI)*
+- [ ] 2026-02-17 [Zenn向け解説記事 書き方仕様書](https://zenn.dev/fibujrsl/articles/91250cd9674c60) *(Zenn – トピック AI)*
+- [ ] 2026-02-17 [AIエージェントが「AI専用MMO」にログインしたら、そこは弱肉強食の銀河だった](https://zenn.dev/happytown_s/articles/spacemolt-ai-voyage-01) *(Zenn – トピック AI)*
