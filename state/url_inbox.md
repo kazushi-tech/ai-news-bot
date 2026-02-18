@@ -34294,3 +34294,111 @@
 - [ ] 2026-02-17 [【Claude Code】Skillsの状態管理 実装パターン - auto-compactに負けない設計](https://zenn.dev/playpark/articles/4e7172088c9b2f) *(Zenn – トピック AI)*
 - [ ] 2026-02-17 [Zenn向け解説記事 書き方仕様書](https://zenn.dev/fibujrsl/articles/91250cd9674c60) *(Zenn – トピック AI)*
 - [ ] 2026-02-17 [AIエージェントが「AI専用MMO」にログインしたら、そこは弱肉強食の銀河だった](https://zenn.dev/happytown_s/articles/spacemolt-ai-voyage-01) *(Zenn – トピック AI)*
+
+## Collected on 2026-02-18T18:34:49.636Z
+- [ ] 2026-02-18 [The bogus four-day workweek that AI supposedly ‘frees up’](https://www.theguardian.com/technology/ng-interactive/2026/feb/18/ai-four-day-workweek) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-18 [Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne](https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-18 [Big Tech Says Generative AI Will Save the Planet. It Doesn’t Offer Much Proof](https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-18 [Oxford Researcher Warns That AI Is Heading for a Hindenburg-Style Disaster](https://futurism.com/artificial-intelligence/ai-hindenburg-disast) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-18 [Realtor Uses AI, Accidentally Posts Photo of Rental Property With Demonic Figure Emerging From Mirror](https://futurism.com/artificial-intelligence/realtor-ai-photo-mirror) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-18 [Unity Says It Has a New Product That Cooks Up Entire Games Using AI](https://futurism.com/artificial-intelligence/unity-create-entire-games-using-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-18 [How financial institutions are embedding AI decision-making](https://www.artificialintelligence-news.com/news/how-financial-institutions-embedding-ai-decision-making/) *(Artificial Intelligence News)*
+- [ ] 2026-02-18 [Nvidia and Meta Agree to Wide-Ranging new AI Chip Deal](https://aibusiness.com/generative-ai/nvidia-and-meta-agree-to-ai-chip-deal) *(AI Business)*
+- [ ] 2026-02-18 [Using AI responsibly means knowing when not to use it](https://theconversation.com/using-ai-responsibly-means-knowing-when-not-to-use-it-274671) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-18 [Apple Plans AI Pendant, Smart AirPods in Major Wearables Expansion](https://www.techrepublic.com/article/news-apple-ai-smart-glasses-pendant-airpods-expansion/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-18 [Turn Your Expertise Into Published Books Using Advanced AI Technology](https://www.techrepublic.com/article/aivolut-ai-book-creator-lifetime-subscription/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-18 [Tech Is Taking Over Olympic Curling](https://spectrum.ieee.org/olympics-curling-robot-ai) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-02-18 [From Messy to Clean: 8 Python Tricks for Effortless Data Preprocessing](https://www.kdnuggets.com/from-messy-to-clean-8-python-tricks-for-effortless-data-preprocessing) *(KDnuggets)*
+- [ ] 2026-02-18 [Top 5 AI Code Review Tools for Developers](https://www.kdnuggets.com/top-5-ai-code-review-tools-for-developers) *(KDnuggets)*
+- [ ] 2026-02-18 [Palantir Decamps to Miami Co-Working Space in Surprise Move](https://www.bloomberg.com/news/articles/2026-02-18/palantir-decamps-to-miami-co-working-space-in-surprise-move) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [The Truth About AI Panic](https://www.bloomberg.com/news/videos/2026-02-18/opinion-the-truth-about-ai-panic-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Apple Just Officially Ushered in Podcasting’s Generational Shift](https://www.bloomberg.com/news/newsletters/2026-02-18/apple-just-officially-ushered-in-podcasting-s-generational-shift) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Ireland, Home to EU Tech Hubs, Mulls Teen Social Media Ban](https://www.bloomberg.com/news/articles/2026-02-18/irish-government-mulls-plans-to-ban-social-media-for-teens) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Teenage Intern Helped Netgear Stop Scammers from Ripping Off Customers](https://www.bloomberg.com/news/newsletters/2026-02-18/teenage-intern-helped-netgear-stop-scammers-from-ripping-off-customers) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Google Gemini, Apple Add Music-Focused Generative AI Features](https://www.bloomberg.com/news/articles/2026-02-18/google-gemini-apple-add-music-focused-generative-ai-features) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [How the Super Bowl Came Back to San Francisco](https://www.bloomberg.com/news/videos/2026-02-18/how-the-super-bowl-came-back-to-san-francisco-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Zuckerberg to Defend Meta’s Youth Strategy at Social Media Addiction Trial](https://www.bloomberg.com/news/articles/2026-02-18/zuckerberg-to-defend-meta-s-youth-strategy-at-addiction-trial) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [AI Pioneer Fei-Fei Li’s Startup World Labs Raises $1 Billion](https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [AI Rout Has Europe Looking to Old Economy IPOs for Revival](https://www.bloomberg.com/news/articles/2026-02-18/ai-rout-has-europe-looking-to-old-economy-ipos-for-revival) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Setting Up An AI Taskforce:  TPG CEO](https://www.bloomberg.com/news/videos/2026-02-18/setting-up-an-ai-taskforce-tpg-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Meta Will Deploy Millions of Nvidia Processors](https://www.bloomberg.com/news/videos/2026-02-18/meta-will-deploy-millions-of-nvidia-processors-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Nexfibre Buys £2 Billion Alt-Net as UK Consolidation Starts](https://www.bloomberg.com/news/articles/2026-02-18/nexfibre-to-buy-alt-net-broadband-firm-netomnia-for-2-billion) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Google Debuts $499 Pixel 10a Just Ahead of the iPhone 17e Reveal](https://www.bloomberg.com/news/articles/2026-02-18/google-announces-499-pixel-10a-just-before-expected-iphone-17e-reveal) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Quantum Startup Pasqal Seeks €200 Million at Unicorn Valuation](https://www.bloomberg.com/news/articles/2026-02-18/quantum-startup-pasqal-seeks-200-million-at-unicorn-valuation) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Apple Seems to Be Sidestepping AI Landmines in Markets](https://www.bloomberg.com/news/videos/2026-02-18/apple-seems-to-be-sidestepping-ai-landmines-in-markets-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Saudi Arabia’s Humain Invests $3 Billion Into Musk’s xAI](https://www.bloomberg.com/news/articles/2026-02-18/saudi-arabia-s-humain-invests-3-billion-into-elon-musk-s-xai) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Nouriel Roubini Expects Close to 4% US Growth by End of the Decade](https://www.bloomberg.com/news/videos/2026-02-18/roubini-sees-close-to-4-us-growth-by-end-of-the-decade-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Liberty Global Agrees to Buy Out Vodafone Stake in Dutch JV](https://www.bloomberg.com/news/articles/2026-02-18/liberty-global-agrees-to-buy-out-dutch-vodafoneziggo-venture) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Spain and India Agree to Expand Economic and Tech Partnership](https://www.bloomberg.com/news/articles/2026-02-18/spain-and-india-agree-to-expand-economic-and-tech-partnership) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Good Luck Banning Smart Glasses](https://gizmodo.com/good-luck-banning-smart-glasses-2000723392) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Chinese Kung-Fu Robots Put Western Efforts to Shame](https://gizmodo.com/chinese-kung-fu-robots-put-western-efforts-to-shame-2000723354) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [It’s Fun to be Dead In the Trailer for ‘Lee Cronin’s The Mummy’](https://gizmodo.com/its-fun-to-be-dead-in-the-trailer-for-lee-cronins-the-mummy-2000723472) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Magic Mushroom Ingredient Passes Major Test, Paving Way for FDA Approval](https://gizmodo.com/magic-mushroom-ingredient-passes-major-trial-paving-way-for-fda-approval-2000723399) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Audiophiles Fail to Hear Difference in Signal Passed Through Copper Cable, Banana, and Tray of Mud](https://gizmodo.com/audiophiles-fail-to-hear-difference-in-signal-passed-through-copper-cable-banana-and-tray-of-mud-2000723435) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [PC Gaming on Macs Is About to Become Very Real, but Not Thanks to Apple](https://gizmodo.com/pc-gaming-on-macs-is-about-to-become-very-real-but-not-thanks-to-apple-2000723398) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [A Year After Starship’s Debris Rained Over the Caribbean, SpaceX Returns to the Bahamas](https://gizmodo.com/a-year-after-starships-debris-rained-over-the-caribbean-spacex-returns-to-the-bahamas-2000723370) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [As the Warner Bros. Sale Heats Up, Movie Theaters Still Don’t Trust Netflix’s Promises](https://gizmodo.com/as-the-warner-bros-sale-heats-up-movie-theaters-still-dont-trust-netflixs-promises-2000723395) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Perplexity Executives Think Ads Will Butcher Trust in AI](https://gizmodo.com/perplexity-executives-think-ads-will-butcher-trust-in-ai-2000723366) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Sharks Have Officially Reached Antarctica, and Scientists Are Shook](https://gizmodo.com/sharks-have-officially-reached-antarctica-and-scientists-are-shook-2000723400) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Apple’s Lack of Interest in AI Hype Is Suddenly Making It Attractive to Wall Street](https://gizmodo.com/apples-lack-of-interest-in-ai-hype-is-suddenly-making-it-attractive-to-wall-street-2000723397) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [X’s Algorithm Pushes Users to Lean More Conservative, Researchers Find](https://gizmodo.com/researchers-find-that-xs-algorithm-can-push-users-to-lean-more-conservative-2000723017) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [The Future of ‘Star Trek’ Comics Is Ready for a New Next Generation (Exclusive)](https://gizmodo.com/star-trek-idw-comics-2026-seven-of-nine-legacy-2000723368) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Google’s Pixel 10a Is the Same Damn Phone as the Pixel 9a](https://gizmodo.com/google-pixel-10a-is-the-same-damn-phone-as-pixel-9a-2000722838) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Real-Life Pokémon Pinball Is the Most Visceral Way to Catch ‘Em All](https://gizmodo.com/real-life-pokemon-pinball-is-the-most-visceral-way-to-catch-em-all-2000723147) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Chris Hemsworth Has High Hopes for Thor’s MCU Future](https://gizmodo.com/chris-hemsworth-thor-marvel-future-avengers-doomsday-2000722991) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Snakes Resort to Cannibalism When the Opportunity Strikes, Study Shows](https://gizmodo.com/snakes-practice-cannibalism-when-the-opportunity-strikes-study-shows-2000722993) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [‘Badlands’ Almost Had Even Bigger Links to the Other ‘Predator’ and ‘Alien’ Movies](https://gizmodo.com/badlands-almost-had-even-bigger-links-to-the-other-predator-and-alien-movies-2000723206) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Nevada sues Kalshi for operating a sports gambling market without a license](https://www.engadget.com/big-tech/nevada-sues-kalshi-for-operating-a-sports-gambling-market-without-a-license-175721982.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [Here's what to expect at Apple's product launch event on March 4](https://www.engadget.com/computing/heres-what-to-expect-at-apples-product-launch-event-on-march-4-173612772.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [Spotify debuts SeatGeek integration for concert ticket sales](https://www.engadget.com/entertainment/streaming/spotify-debuts-seatgeek-integration-for-concert-ticket-sales-162248870.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [Google Pixel 10a vs. Pixel 9a: What's changed and which one should you buy?](https://www.engadget.com/mobile/smartphones/google-pixel-10a-vs-pixel-9a-whats-changed-and-which-one-should-you-buy-150000786.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [Google's $500 Pixel 10a smartphone arrives on March 5](https://www.engadget.com/mobile/smartphones/googles-500-pixel-10a-smartphone-arrives-on-march-5-150000489.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [Pixel 10a hands-on: Google locks down the midrange phone game](https://www.engadget.com/mobile/smartphones/pixel-10a-hands-on-google-locks-down-the-midrange-phone-game-150000513.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [Polestar unveils a station wagon version of the 4](https://www.engadget.com/transportation/evs/polestar-unveils-a-station-wagon-version-of-the-4-144025505.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [New users can get one year of access to Monarch Money for 50 percent off](https://www.engadget.com/deals/new-users-can-get-one-year-of-access-to-monarch-money-for-50-percent-off-120000143.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [Federal court rules that OpenAI must stop using the term 'Cameo'](https://www.engadget.com/ai/federal-court-rules-that-openai-must-stop-using-the-term-cameo-124559072.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](https://huggingface.co/blog/ibm-research/itbenchandmast) *(Hugging Face Blog)*
+- [ ] 2026-02-18 [New in Agent Builder: all new agent chat, file uploads + tool registry](https://blog.langchain.com/new-in-agent-builder-all-new-agent-chat-file-uploads-tool-registry/) *(LangChain Blog)*
+- [ ] 2026-02-18 [Googleの新エントリースマホ「Pixel 10a」海外発表　耐久性向上　「Tensor G4」チップで499ドル](https://www.itmedia.co.jp/news/articles/2602/19/news065.html) *(ITmedia AI＋)*
+- [ ] 2026-02-18 [「SkillsBench」 Agent Skillsは人間のチューニングが必須｜Seiji Takahashi@ベースマキナ](https://note.com/timakin/n/nf497d32c2d35) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-18 [NotebookLM、プロンプトを使ったスライド修正機能と、PowerPoint形式の出力機能を提供へ \| gihyo.jp](https://gihyo.jp/article/2026/02/notebooklm-adds-prompt-based-revisions-and-pptx-export) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-18 [問い合わせ対応の全工程の自動化を AI で実現 - CRE による MCP から Agent Skills 移行の記録 - 弁護士ドットコム株式会社 Creators’ blog](https://creators.bengo4.com/entry/2026/02/18/080000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-18 [「AI前提」の国家戦略と「思考停止」の現場　大半の企業で“何も起きない”未来を予見](https://www.itmedia.co.jp/enterprise/articles/2602/18/news003.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-18 [React 19時代のコンポーネント設計ベストプラクティス](https://speakerdeck.com/uhyo/react-19shi-dai-nokonponentoshe-ji-besutopurakuteisu) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-18 [Windows 11、ついにMIDI 2.0対応。40年越しの刷新が始まった｜情報の灯台](https://note.com/joho_no_todai/n/n1a834684fc43) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-18 [tmuxユーザーだけどtmuxのペイン分割をあまり使ってこなかった人のためのページ](https://zenn.dev/arm_techblog/articles/1e17250f400604) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-18 [OpenClowに毎日ブログを書かせて3週間、気づいたら私の代筆者ができていた - はげあたま.org](https://www.hageatama.org/20260218/1771412465) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-18 [時系列統計データ検索サイトにおけるAPI機能の提供開始 : 日本銀行 Bank of Japan](https://www.boj.or.jp/statistics/outline/notice_2026/not260218a.htm) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-18 [CLIを書いてるなら、まずOTLPでtracesとeventsを吐けるようにするのがオススメ - Kengo's blog](https://blog.kengo-toda.jp/entry/2026/02/18/082231) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-18 [ソフトウェア工学をコンピュータサイエンスとよぶのはおかしい - 芳賀 雅樹 のページ](https://silasol.la/posts/2026-02-18-01_software-engineering-is-not-cs/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-18 [ClaudeでRAGを実装する｜検索拡張生成の設計パターンと実践例](https://zenn.dev/wasabi_vlab/articles/claude-rag-patterns) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [Claudeプロンプト設計｜中級テクニック7選【XML・Few-shot・Chain of Thought】](https://zenn.dev/wasabi_vlab/articles/claude-prompt-engineering) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [Claude APIツール使用（Tool Use）入門｜AIに外部機能を呼ばせる方法](https://zenn.dev/wasabi_vlab/articles/claude-api-tool-use) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [Claude Code上級テクニック｜CLAUDE.md・hooks・マルチファイル編集を使いこなす](https://zenn.dev/wasabi_vlab/articles/claude-code-advanced) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [Claude MCP（Model Context Protocol）完全ガイド｜外部ツール連携の新標準](https://zenn.dev/wasabi_vlab/articles/claude-mcp-guide) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [AI駆動開発の「パレートの誤謬」と本質](https://zenn.dev/hai08320/articles/42d217f73d3564) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [Grok 4.20（β）まとめ：公式情報ベースで見える範囲／SNSの評判まで整理（2026-02-18時点）](https://zenn.dev/ainohogosya/articles/6a470f78e62c48) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [LLMプロダクトのモートを技術的に分解する](https://zenn.dev/michishita_tkyk/articles/f787e5571bf067) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [[書評] 『LLMの原理、RAG・エージェント開発から読み解く コンテキストエンジニアリング』](https://zenn.dev/tomodo_ysys/articles/llm-context-engineering-book-review) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [プロンプトを育てるより、検証器を育てる：ゴールデンケース10個で運用を回す](https://zenn.dev/kanaria007/articles/3fb630e6b3a6c8) *(Zenn – トピック LLM)*
+- [ ] 2026-02-18 [🤖 この記事はAIが自動デプロイしました【Claude Code × Zenn CLI】](https://zenn.dev/davidai311/articles/ai-auto-deploy-test) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [非エンジニアのバイブコーディングに、現役エンジニアが敗北した話](https://zenn.dev/hidechannu/articles/20260219-vibe-coding-beat-engineer) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [マルチタスクに疲れたので、AIを脳の外部メモリにした話](https://zenn.dev/frsk/articles/ai-half-of-work) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [AIの過去・現在・未来](https://zenn.dev/j_m/books/fd1d6906768288) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [【AI倫理をCIに組み込む】PythonとPytestで作る「公平性ガードレール」の実装](https://zenn.dev/r_data/articles/1ed8f143cfcab6) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [知識ゼロ・弁理士なしで挑んだ特許出願。Vision Proアプリ「LLD Compass」をAIをパートナーに権利化を目指した全記録](https://zenn.dev/tkr1234st/articles/56d883d88e0d4e) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [これからの学生のポートフォリオについて考える](https://zenn.dev/takumi43245409/articles/ad1970f804e8f8) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [CEOの半数が「AI効果なし」と言う理由](https://zenn.dev/smartvain/articles/ceo-half-say-no-ai-effect-why) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [AIと核融合 Vol.4：材料 — 20 dpaの壁](https://zenn.dev/dosanko_tousan/articles/73087986c0960d) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [思考（Thinking）vs 試行（Trial）の最適バランス — AIエージェント時代のコンパス](https://zenn.dev/aetheryuki/articles/thinking-vs-trial) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [AIがコード書いてくれる時代こそ、駆け出しエンジニアはTDDと要件定義から勉強しろ](https://zenn.dev/shiro_coral/articles/8941b0d4f66564) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [Code to Canvasだけじゃない ── Figma MCPの13ツールを実データ付きで解説する](https://zenn.dev/mcc_code/articles/claude-code-figma-code-to-canvas) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [Claude Code のセッションが消える問題を解決する【入門編＆実践編】](https://zenn.dev/davidai311/articles/23bc9688e0df6b) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [フルスタックエンジニアがClaude Code使ったら、エンジニア採用を見送った話](https://zenn.dev/aidriven_geinin/articles/1ef0aaca439719) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [AIエージェント同士に判断を委任する運用設計 — レビューが必要ならまずCodex、最後の砦はClaude](https://zenn.dev/sei_ai_lab/articles/ai-agent-decision-delegation) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [arXiv trend: February 18, 2026](https://zenn.dev/masxkot/articles/d6f5820bffb3fd) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [arXiv trend: February 18, 2026](https://zenn.dev/maskot/articles/60f8de9cfc7438) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [MCPを使ってみたけどやめた](https://zenn.dev/zazenpra/articles/4be88d103b1289) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [OpenClawでAIパートナーを作り、自律的に発信させるまで](https://zenn.dev/furetakoto/articles/openclaw-ai-partner-setup) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [8-④[AI][Kaggle][python]Kaggle入門(高度なSQL 4.最終回 効率的なクエリの作成)](https://zenn.dev/rg687076/articles/eb4fcc8099e5f4) *(Zenn – トピック AI)*
+- [ ] 2026-02-18 [戻ってきたAWS DeepRacer －DeepRacer on AWS（学習・評価編）－](https://zenn.dev/nttdata_tech/articles/94b8c0c08bec50) *(Zenn – トピック 機械学習)*
