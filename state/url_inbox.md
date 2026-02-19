@@ -34402,3 +34402,100 @@
 - [ ] 2026-02-18 [OpenClawでAIパートナーを作り、自律的に発信させるまで](https://zenn.dev/furetakoto/articles/openclaw-ai-partner-setup) *(Zenn – トピック AI)*
 - [ ] 2026-02-18 [8-④[AI][Kaggle][python]Kaggle入門(高度なSQL 4.最終回 効率的なクエリの作成)](https://zenn.dev/rg687076/articles/eb4fcc8099e5f4) *(Zenn – トピック AI)*
 - [ ] 2026-02-18 [戻ってきたAWS DeepRacer －DeepRacer on AWS（学習・評価編）－](https://zenn.dev/nttdata_tech/articles/94b8c0c08bec50) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-19T01:00:11.517Z
+- [ ] 2026-02-18 [Tech firms must remove ‘revenge porn’ in 48 hours or risk being blocked, says Starmer](https://www.theguardian.com/society/2026/feb/18/tech-firms-must-remove-revenge-porn-in-48-hours-or-risk-being-blocked-says-starmer) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-18 [Illinois governor proposes cancelling tax breaks for datacenters](https://www.theguardian.com/technology/2026/feb/18/illinois-pritzker-tax-breaks-data-centers) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-18 [This Defense Company Made AI Agents That Blow Things Up](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-18 [Nvidia’s Deal With Meta Signals a New Era in Computing Power](https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-02-18 [SpaceX Angling for Military Contract to Produce Drone Swarms](https://futurism.com/robots-and-machines/spacex-military-contract-drone-swarms) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-18 [Buckle Up: New Fund Will Let Regular Investors Buy SpaceX Stock](https://futurism.com/artificial-intelligence/regular-investors-buy-spacex-stock) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-18 [Anthropic Tries to Change the Conversation With Sonnet 4.6](https://aibusiness.com/generative-ai/anthropic-tries-to-change-the-conversation-with-sonnet-4-6) *(AI Business)*
+- [ ] 2026-02-18 [Ads are coming to AI. Does that really have to be such a bad thing?](https://theconversation.com/ads-are-coming-to-ai-does-that-really-have-to-be-such-a-bad-thing-274955) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-17 [Microsoft’s $50B Plan to Close the Global AI Divide](https://www.techrepublic.com/article/news-microsoft-50b-global-south-ai-investment/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-18 [Zuckerberg Says ‘Difficult’ to Enforce Instagram Age Limits](https://www.bloomberg.com/news/videos/2026-02-18/zuckerberg-difficult-to-enforce-instagram-age-limits-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Pritzker to Halt Data Center Tax Perks as Power Bills Soar](https://www.bloomberg.com/news/articles/2026-02-18/pritzker-plans-to-halt-data-center-tax-perks-as-power-bills-soar) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Palantir Gets Partial Win in Fight With Ex-Workers at AI Startup](https://www.bloomberg.com/news/articles/2026-02-18/palantir-gets-partial-win-in-fight-with-ex-workers-at-ai-startup) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Where to Expect Software Consolidation: Investment Committee](https://www.bloomberg.com/news/videos/2026-02-18/where-to-expect-software-consolidation-roundtable-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Booking Beats Estimates on Outlook, Plans a 25-for-1 Split](https://www.bloomberg.com/news/articles/2026-02-18/booking-reports-better-than-expected-first-quarter-outlook) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [DoorDash Gains After Projecting Order Growth Topping Estimates](https://www.bloomberg.com/news/articles/2026-02-18/doordash-gives-weak-profit-outlook-on-rising-costs-storm-impact) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Starboard Urges Riot to Speed Up Shift to Data Centers](https://www.bloomberg.com/news/videos/2026-02-18/starboard-urges-riot-to-speed-up-shift-to-data-centers-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [UK to Force Tech Firms to Take Down Abusive Images in 48 Hours](https://www.bloomberg.com/news/articles/2026-02-18/uk-to-force-tech-firms-to-take-down-abusive-images-in-48-hours) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Uncertainty Around IPOs, Software, AI Disruption: TPG CEO](https://www.bloomberg.com/news/videos/2026-02-18/uncertainty-around-ipos-software-ai-tpg-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [EBay Buys Fashion Marketplace Depop, Reports Robust Results](https://www.bloomberg.com/news/articles/2026-02-18/ebay-reports-quarterly-sales-profit-that-exceeded-estimates) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Figma Gains on Strong Growth Outlook That Eases AI Fears](https://www.bloomberg.com/news/articles/2026-02-18/figma-gives-strong-growth-outlook-easing-ai-disruption-fears) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Macron Says Social Media’s Free Speech Arguments Are ‘Bullshit’](https://www.bloomberg.com/news/videos/2026-02-18/free-speech-defense-of-social-media-is-bullshit-macron-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Remitly CEO Steps Down, Succeeded by Santander Executive](https://www.bloomberg.com/news/articles/2026-02-18/remitly-ceo-steps-down-succeeded-by-banco-santander-executive) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Meta to Deploy 'Millions' of Nvidia Processors \| Bloomberg Tech 2/18/2026](https://www.bloomberg.com/news/videos/2026-02-18/bloomberg-tech-2-18-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Crypto Firm Ledn Sells Bitcoin-Backed Bonds In ABS Market First](https://www.bloomberg.com/news/articles/2026-02-18/crypto-firm-ledn-sells-bitcoin-backed-bonds-in-abs-market-first) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Impact of AI Starting to Kick In on Economy Says Moody's Zandi](https://www.bloomberg.com/news/videos/2026-02-18/impact-of-ai-starting-to-kick-in-on-economy-says-zandi-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Criados con smartphones, muchos millennials optan por teléfonos básicos para sus hijos](https://www.bloomberg.com/news/articles/2026-02-18/criados-con-smartphones-millennials-optan-por-telefonos-basicos-para-sus-hijos-mlsebz46) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Ex-Tesla Leader Baglino Raises $140M for Next-Gen Grid](https://www.bloomberg.com/news/videos/2026-02-18/ex-tesla-leader-baglino-raises-140m-for-next-gen-grid-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Apple to Ramp Up Work on AI Wearables](https://www.bloomberg.com/news/videos/2026-02-18/apple-to-ramp-up-work-on-ai-wearables-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [AI Fears Leading to 'Indiscriminate' Selloff: Morgan Stanley](https://www.bloomberg.com/news/videos/2026-02-18/ai-fears-prompt-indiscriminate-selloff-morgan-stanley-video) *(Bloomberg Technology)*
+- [ ] 2026-02-18 [Berkshire Cuts Amazon Stake, Makes Bet on New York Times](https://www.bloomberg.com/news/videos/2026-02-18/berkshire-cuts-amazon-stake-makes-bet-on-new-york-times-video) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [This Galaxy Is 99% Dark Matter—and Basically Invisible](https://gizmodo.com/this-galaxy-is-99-dark-matter-and-basically-invisible-2000723695) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Tom Noonan, Frankenstein of ‘The Monster Squad,’ Dies at 74](https://gizmodo.com/tom-noonan-frankenstein-of-the-monster-squad-dies-at-74-2000723417) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Mark Zuckerberg Takes the Stand, No Meta Ray-Bans Allowed](https://gizmodo.com/mark-zuckerberg-takes-the-stand-no-meta-ray-bans-allowed-2000723697) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Uber Is Sinking Over $100 Million Into Charging Stations for Self-Driving Cars](https://gizmodo.com/uber-is-sinking-over-100-million-into-charging-stations-for-self-driving-cars-2000723652) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [The Dream of Home Arcades Isn’t Dead, and Neither Is Arcade1Up](https://gizmodo.com/the-dream-of-home-arcades-isnt-dead-and-neither-is-arcade1up-2000723657) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [A New Moon Race Starts This Year—and This Time It’s All About the Water](https://gizmodo.com/a-new-moon-race-starts-this-year-and-this-time-its-all-about-the-water-2000723719) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Utah Governor Pushes Back on CFTC’s Prediction Market Power Grab](https://gizmodo.com/utah-governor-pushes-back-on-cftcs-prediction-market-power-grab-2000723681) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Essential Embo Episodes to Watch Before ‘The Mandalorian and Grogu’](https://gizmodo.com/mandalorian-and-grogu-embo-clone-wars-all-appearances-2000723409) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [AI Is Starting to Show an Impact in Early-Career Jobs, Irish Government Says](https://gizmodo.com/ai-is-starting-to-show-an-impact-in-early-career-jobs-irish-government-says-2000723436) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Greenland’s Freaky Ice Plumes May Be Fueled by Wild, Pasta-Like Churning](https://gizmodo.com/greenlands-freaky-ice-plumes-may-be-fueled-by-wild-pasta-like-churning-2000723633) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Steven Soderbergh Is Still Disappointed That ‘The Hunt for Ben Solo’ Didn’t Happen](https://gizmodo.com/steven-soderbergh-is-still-disappointed-that-the-hunt-for-ben-solo-didnt-happen-2000723661) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [The ‘Game of Thrones’ Prequel Play Is Officially Happening](https://gizmodo.com/the-game-of-thrones-prequel-play-is-officially-happening-2000723637) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Microsoft’s Glass Chip Holds Terabytes of Data for 10,000 Years](https://gizmodo.com/microsofts-glass-chip-holds-terabytes-of-data-for-10000-years-2000723455) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Trump Boys Talk ‘Retribution’ as CEOs Kiss the Ring at Their Crypto Event](https://gizmodo.com/trump-boys-talk-retribution-as-ceos-kiss-the-ring-at-their-crypto-event-2000723430) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [A ‘Spider-Man: Brand New Day’ Book Just Accidentally Told Us What the Film Is About](https://gizmodo.com/a-spider-man-brand-new-day-book-just-accidentially-told-us-what-the-film-is-about-2000723535) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Google Launches Music Generation Model to Make Songs 30-Seconds at a Time](https://gizmodo.com/google-launches-music-generation-model-to-make-songs-30-seconds-at-a-time-2000723549) *(Gizmodo – Technology)*
+- [ ] 2026-02-18 [Mark Zuckerberg testifies in social media addiction trial that Meta just wants Instagram to be 'useful'](https://www.engadget.com/social-media/mark-zuckerberg-testifies-in-social-media-addiction-trial-that-meta-just-wants-instagram-to-be-useful-234332316.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [Dyson announces the PencilWash wet floor cleaner](https://www.engadget.com/home/dyson-announces-the-pencilwash-wet-floor-cleaner-230152299.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [Gemini can now generate a 30-second approximation of what real music sounds like](https://www.engadget.com/ai/gemini-can-now-generate-a-30-second-approximation-of-what-real-music-sounds-like-204445903.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [Cyberpunk platformer Replaced has once again been delayed](https://www.engadget.com/gaming/cyberpunk-platformer-replaced-has-once-again-been-delayed-190621246.html?src=rss) *(Engadget)*
+- [ ] 2026-02-18 [One-Shot Any Web App with Gradio's gr.HTML](https://huggingface.co/blog/gradio-html-one-shot-apps) *(Hugging Face Blog)*
+- [ ] 2026-02-19 [消費税減税に必須のシステム改修　現場負担の重さを懸念](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/021201390/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [NEC、サーバーのIT資源を自由に配置　動的割り当てで無駄を削る](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/021201391/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [SHIFTがAI駆使しモダナイ事業強化　大手と競合、2027年に40億円規模へ](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/021201396/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [KDDIが10カ月で大阪堺DCを開設　シャープ工場の転用で100億円削減](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/021201392/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [AWSジャパン白幡社長が就任1年　対MS・グーグル「常に危機意識」](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/021201393/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [EAフレームワーク「TOGAF 10」　日本語版が2026年4月に公開](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/021201395/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [市民と職員に向けAIエージェント提供　町田市が「Dify」を使って開発](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/021201394/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [5位は「引き渡しから半月で家中がカビまみれ、独自の基礎断熱と換気方法が裏目に」40代の注目トップ10](https://xtech.nikkei.com/atcl/nxt/column/18/02156/020600354/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [ドコモ永田氏が専門家に聞く、ロボットは「まだAIの器に過ぎない」](https://xtech.nikkei.com/atcl/nxt/column/18/02997/013000015/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [AIエージェントをGoogle Apps Scriptで開発、幼稚園が挑む自動化](https://xtech.nikkei.com/atcl/nxt/column/18/03506/021600004/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [ツール導入：チーム内でツールを統一してはいけない理由](https://xtech.nikkei.com/atcl/nxt/column/18/03497/021000004/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [今どきのリモートアクセスVPNを基礎から知ろう、主な方式は3種類](https://xtech.nikkei.com/atcl/nxt/column/18/03512/021300001/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [Copilot Studio Liteで簡単！　3分で作れる基本のAIエージェント](https://xtech.nikkei.com/atcl/nxt/column/18/03507/021200002/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [「SaaSの死」より先に起きること、日本企業はDXを語ってもムダ](https://xtech.nikkei.com/atcl/nxt/column/18/00849/00180/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [還付申告書をe-Taxで作成、医療費や源泉徴収の情報はマイナポータルから](https://xtech.nikkei.com/atcl/nxt/column/18/03494/020600004/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [スマホの盗難対策機能を有効化、Webブラウザーで現在地を確認してみよう](https://xtech.nikkei.com/atcl/nxt/column/18/03459/010600003/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [信頼を競争力へ、社会実装のための「攻めのAIガバナンス」と映像データ設計](https://xtech.nikkei.com/atcl/nxt/column/18/03242/012700017/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [4カ月で実現した脱COBOL　新発想が生んだ「変換率97%」、生成AIで内製](https://xtech.nikkei.com/atcl/nxt/column/18/03444/021700009/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [NXP、エージェントAIを3種のプロセッサーで　アプリ開発しやすく](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11509/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [25周年迎えたウィキペディア、好奇心を生む「うさぎの巣穴」を目指す](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11501/) *(日経クロステック IT)*
+- [ ] 2026-02-19 [「空間知能」のWorld LabsがNVIDIA、AMD、Autodeskなどから10億ドル調達](https://www.itmedia.co.jp/news/articles/2602/19/news071.html) *(ITmedia AI＋)*
+- [ ] 2026-02-18 [企業向け「Microsoft 365 Copilot」、DLP設定無視で機密メール内容を要約　修正プログラム展開中](https://www.itmedia.co.jp/news/articles/2602/19/news069.html) *(ITmedia AI＋)*
+- [ ] 2026-02-18 [日本IBMのAI戦略“3つの柱”　「制御できるAI」でレガシー資産をモダナイズ](https://www.itmedia.co.jp/enterprise/articles/2602/19/news045.html) *(ITmedia AI＋)*
+- [ ] 2026-02-18 [「身近な上司」を再現する専用ディープフェイク動画を作成　KnowBe4が新トレーニング](https://www.itmedia.co.jp/enterprise/articles/2602/19/news039.html) *(ITmedia AI＋)*
+- [ ] 2026-02-18 [生成AIの記憶機能を悪用して特定企業を優遇　50件超の事例を確認](https://www.itmedia.co.jp/enterprise/articles/2602/19/news038.html) *(ITmedia AI＋)*
+- [ ] 2026-02-18 [Geminiアプリに音楽生成AI「Lyria 3」追加　30秒の楽曲を「Nano Banana」ジャケット付きで](https://www.itmedia.co.jp/aiplus/articles/2602/19/news067.html) *(ITmedia AI＋)*
+- [ ] 2026-02-18 [バイブコーディングはもう古い？　その限界を乗り越える「エージェンティックエンジニアリング」](https://atmarkit.itmedia.co.jp/ait/articles/2602/19/news018.html) *(ITmedia AI＋)*
+- [ ] 2026-02-19 [4/28(火)丸の内開催「Product Management Summit」](https://product-management-summit.findy-tools.io/2026) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [【西川和久の不定期コラム】 人間なら半日の作業が2時間に。ローカルLLM「Qwen3 Coder Next」で爆速開発](https://pc.watch.impress.co.jp/docs/column/nishikawa/2086975.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [AIに「ペルソナ」を与えるだけで、UIデザインはここまで化ける - Qiita](https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [小1にGemini使わせてみたら、AIより先に困ったことがあった](https://zenn.dev/nexta_/articles/f001c370c7df1d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [NotebookLM、パワポ出力に対応。Googleスライド形式も近日中に](https://pc.watch.impress.co.jp/docs/news/2086899.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [コーディングエージェントにとってゲームプログラミングは困難、これは本当か？ - ABAの日誌](https://aba.hatenablog.com/entry/2026/02/18/175933) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [「SQLをAIが書く」時代、ClickHouseが語る“なぜデータベースの高速性が求められる”のか](https://atmarkit.itmedia.co.jp/ait/articles/2602/18/news019.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [AIエージェントによる非定型データ分析と組織のデータ利活用促進 - Qiita](https://qiita.com/jw-automation/items/2660d39558853a339af9) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる - Qiita](https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [Amazon EC2が仮想化のネスト（Nested Virtualization）に対応。KVMやHyper-Vを用いた仮想マシンを設定可能に](https://www.publickey1.jp/blog/26/amazon_ec2nested_virtualizationkvmhyper-v.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [アサヒグループHD、ランサムウェア攻撃によるシステム障害について、調査が完了した内容と再発防止策を公開　取引先や従業員の情報約11万5000件の漏えいを確認](https://internet.watch.impress.co.jp/docs/news/2087007.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [Slackが「リアルタイムサーチAPI」と「Slack MCP Server」を発表。生成AIがSlack上のやりとりを基にコンテキストを理解可能](https://www.publickey1.jp/blog/26/slackapislack_mcp_serveraislack.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [有効期限6日のTLS証明書・PaaSの転換点――クラウド／インフラの今を読む【#も読】 - Findy Media](https://findy-code.io/media/articles/modoku-netmarkjp-202602) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [話題のmicrogptを早速試してみる](https://zenn.dev/aiforall/articles/e5733531811e0e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [GitHub - millionco/react-doctor: Let coding agents diagnose and fix your React code](https://github.com/millionco/react-doctor) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [ディープシーク騒動から1年 中国のオープンモデルが 世界の開発者を席巻している](https://www.technologyreview.jp/s/378017/whats-next-for-chinese-open-source-ai/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [お前らなんで放送大学入らんの？快活クラブ、Apple製品、Amazonプライム、Office、公共交通機関、Adobe　全部学割なるで : 哲学ニュースnwk](https://nwknews.jp/archives/6232291.html) *(はてなブックマーク – IT 人気エントリ)*
