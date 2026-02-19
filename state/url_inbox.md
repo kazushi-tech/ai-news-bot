@@ -34996,3 +34996,86 @@
 - [ ] 2026-02-19 [事務職の死 — 経産省「2040年 就業構造推計」が突きつける現実](https://zenn.dev/yostos/articles/death-of-clerical-work) *(Zenn – トピック AI)*
 - [ ] 2026-02-19 [draw.io公式MCPを試してみた【Windows × Claude Desktop】](https://zenn.dev/daishiro/articles/drawio-mcp-windows-claude-desktop) *(Zenn – トピック AI)*
 - [ ] 2026-02-18 [GNN×ABM×因果推論 — 博報堂×MetaのAI広告予測「AaaS」を自分ならこう作る](https://zenn.dev/kenimo49/articles/aaas-meta-influencer-ai) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-19T18:36:09.314Z
+- [ ] 2026-02-19 [Tell us: have you ever used AI to navigate everyday life and social relationships?](https://www.theguardian.com/technology/2026/feb/19/tell-us-have-you-ever-used-ai-to-navigate-everyday-life-and-social-relationships) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-19 [Digital blackface flourishes under Trump and AI: ‘The state is bending reality’](https://www.theguardian.com/technology/ng-interactive/2026/feb/19/ai-digital-blackface) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-19 [How the anxiety over AI could fuel a new workers’ movement](https://www.theguardian.com/technology/ng-interactive/2026/feb/19/ai-work-future) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-02-19 [Blinking New Warning Sign Appears for AI Industry](https://futurism.com/artificial-intelligence/blinking-new-warning-sign-ai-industry) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-19 [Elon Musk Boasts That Grok Says America Isn’t Built on Stolen Land, Which It Obviously Is](https://futurism.com/artificial-intelligence/elon-musk-grok-america-stolen-land) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-19 [A Huge Survey of CEOs and Other Execs Just Found Something Damning About AI’s Effects on Productivity](https://futurism.com/artificial-intelligence/survey-ceos-ai-workplace) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-19 [AI Will Destroy Millions of White Collars Jobs in the Coming Months, Andrew Yang Warns, Driving Surge of Personal Bankruptcies](https://futurism.com/artificial-intelligence/ai-labor-andrew-yang) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-02-19 [How AI upgrades enterprise treasury management](https://www.artificialintelligence-news.com/news/how-ai-upgrades-enterprise-treasury-management/) *(Artificial Intelligence News)*
+- [ ] 2026-02-19 [Microsoft to Invest $50B in AI Push in Global South](https://aibusiness.com/ai-policy/microsoft-to-invest-50b-in-ai-push-in-global-south) *(AI Business)*
+- [ ] 2026-02-19 [Do animals have a future on Hollywood sets?](https://theconversation.com/do-animals-have-a-future-on-hollywood-sets-273877) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-19 [Five ways that AI could be reshaping your relationship with money](https://theconversation.com/five-ways-that-ai-could-be-reshaping-your-relationship-with-money-275508) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-02-19 [Telefónica and Mavenir Bet on AI-Run Networks With New Innovation Hub](https://www.techrepublic.com/article/news-telefonica-mavenir-ai-innovation-hub/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-19 [Google Launches Pixel 10a at $499, Adds AI Editing and 30-Hour Battery](https://www.techrepublic.com/article/news-google-pixel-10a-499-price/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-02-19 [The U.S. and China Are Pursuing Different AI Futures](https://spectrum.ieee.org/us-china-ai) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-02-19 [FastMCP: The Pythonic Way to Build MCP Servers and Clients](https://www.kdnuggets.com/fastmcp-the-pythonic-way-to-build-mcp-servers-and-clients) *(KDnuggets)*
+- [ ] 2026-02-19 [Building Production-Ready AI Agents with Agent Development Kit](https://www.kdnuggets.com/building-production-ready-ai-agents-with-agent-development-kit) *(KDnuggets)*
+- [ ] 2026-02-19 [5 Lightweight and Secure OpenClaw Alternatives to Try Right Now](https://www.kdnuggets.com/5-lightweight-and-secure-openclaw-alternatives-to-try-right-now) *(KDnuggets)*
+- [ ] 2026-02-19 [Netflix's Sarandos 'Confident' Warner Deal Will Close](https://www.bloomberg.com/news/videos/2026-02-19/netflix-s-sarandos-confident-warner-deal-will-close-video) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [OpenAI Funding on Track to Top $100 Billion in Latest Round](https://www.bloomberg.com/news/videos/2026-02-19/openai-funding-on-track-to-top-100b-in-latest-round-video) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [Netflix's Sarandos: Acquiring Warner a 'Great Long-Term Outcome'](https://www.bloomberg.com/news/videos/2026-02-19/sarandos-acquiring-warner-a-great-long-term-outcome-video) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [Booking CEO Glenn Fogel on AI Disruption](https://www.bloomberg.com/news/videos/2026-02-19/booking-ceo-glenn-fogel-on-ai-disruption-video) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [New York’s Robotaxi Plan Pulled in Blow to Waymo Expansion](https://www.bloomberg.com/news/articles/2026-02-19/new-york-s-robotaxi-plan-pulled-in-setback-to-waymo-expansion) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [OpenAI Funding Could Top $100 Billion](https://www.bloomberg.com/news/videos/2026-02-19/openai-funding-could-top-100-billion-video) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [Which Software Companies Will Survive the SaaSpocalypse?](https://www.bloomberg.com/news/videos/2026-02-19/which-software-companies-will-survive-the-saaspocalypse-video-mltnfxmj) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [Schwab's Sonders Says 'More Fish in the Sea' Than Mag 7](https://www.bloomberg.com/news/videos/2026-02-19/schwab-s-sonders-says-more-fish-in-the-sea-than-mag-7-video) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [US Funded $1 Billion in Research With Chinese Labs, Report Says](https://www.bloomberg.com/news/articles/2026-02-19/us-funded-1-billion-in-research-with-chinese-labs-report-says) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [Klarna Shares Slump as Annual Loss Overshadows Record Revenue](https://www.bloomberg.com/news/articles/2026-02-19/klarna-posts-loss-as-credit-provisions-swell-in-line-with-growth) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [Fed's Kashkari Says AI May Be Driving Up Neutral Rate](https://www.bloomberg.com/news/videos/2026-02-19/fed-s-kashkari-says-ai-may-be-driving-up-neutral-rate-video) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [Saudi-Owned Scopely Buys Loom Games Stake For Up to $1 Billion](https://www.bloomberg.com/news/articles/2026-02-19/saudi-owned-scopely-takes-majority-stake-in-turkey-s-loom-games) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [AppLovin Plans Its Own Social Platform After Failed TikTok Bid](https://www.bloomberg.com/news/articles/2026-02-19/applovin-plans-its-own-social-platform-after-failed-tiktok-bid) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [AI Dominated by a Few Firms Risks Market Abuse, Mistral CEO Says](https://www.bloomberg.com/news/articles/2026-02-19/ai-dominated-by-a-few-firms-risks-market-abuse-mistral-ceo-says) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [Accenture: India Is ‘Taking the Lead’ in AI Adoption](https://www.bloomberg.com/news/videos/2026-02-19/accenture-india-is-taking-the-lead-in-ai-adoption-video) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [ByteDance Building Out Artificial Intelligence Team in US](https://www.bloomberg.com/news/articles/2026-02-19/bytedance-building-out-artificial-intelligence-team-in-us) *(Bloomberg Technology)*
+- [ ] 2026-02-19 [Indiana Jones Exists in the ‘Shrinking’ Universe, But Who Plays Him?](https://gizmodo.com/indiana-jones-exists-in-the-shrinking-universe-but-who-plays-him-2000724107) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [Federal Reserve Says Prediction Markets Are a Valuable Tool for Policymakers](https://gizmodo.com/federal-reserve-says-prediction-markets-are-a-valuable-tool-for-policymakers-2000724062) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [The New ‘Toy Story 5’ Trailer Reminds Us Tech Is a 4-Letter Word](https://gizmodo.com/toy-story-5-new-trailer-super-bowl-2000716852) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [CT Scans Reveal Gruesome Details of Inca Child Sacrifices](https://gizmodo.com/ct-scans-reveal-gruesome-details-of-inca-child-sacrifices-2000723968) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [‘Starfleet Academy’ Gives Its Kids (and Itself) the Grace to Find Their Own Path](https://gizmodo.com/starfleet-academy-episode-7-recap-genesis-darem-2000723708) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [The US Is Working on a Site to Help Europeans Bypass Content Bans on Hate Speech: Report](https://gizmodo.com/the-us-is-working-on-a-site-to-help-europeans-bypass-content-bans-on-hate-speech-report-2000724058) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [Italy’s Iconic Lovers’ Arch Collapsed—Of All Days—On Valentine’s Day](https://gizmodo.com/italys-iconic-lovers-arch-collapsed-ironically-on-valentines-day-2000724033) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [Nintendo’s Adorable Wooden Amiibos Will Hook Kids on Mario Even Earlier](https://gizmodo.com/nintendos-adorable-wooden-amiibos-will-hook-kids-on-mario-even-earlier-2000723999) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [Study Confirms: Reentering SpaceX Rockets Are Peppering the Upper Atmosphere With Metal Pollution](https://gizmodo.com/study-confirms-reentering-spacex-rockets-are-peppering-the-upper-atmosphere-with-metal-pollution-2000723932) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [‘House of the Dragon’ Teases an Absolutely Scorching Season 3](https://gizmodo.com/house-of-the-dragon-season-3-trailer-release-date-2000723480) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [It’s Not Just Your Screens: Why So Many People Suddenly Need Glasses](https://gizmodo.com/its-not-just-your-screens-why-so-many-people-suddenly-need-reading-glasses-2000723970) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [The ‘Doctor Who’ TV Movie Is Getting the Remaster It Deserves](https://gizmodo.com/doctor-who-tv-movie-4k-blu-ray-release-date-2000723976) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [The ‘Sonic’ Movies Have Found Their Amy Rose](https://gizmodo.com/sonic-the-hedgehog-4-amy-rose-voice-actor-kristen-bell-2000723696) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [‘Predator: Badlands’ Is a Huge Hulu Hit](https://gizmodo.com/predator-badlands-is-a-huge-hulu-hit-2000723826) *(Gizmodo – Technology)*
+- [ ] 2026-02-19 [Ring could be planning to expand Search Party feature beyond dogs](https://www.engadget.com/big-tech/ring-could-be-planning-to-expand-search-party-feature-beyond-dogs-175805706.html?src=rss) *(Engadget)*
+- [ ] 2026-02-19 [YouTube is bringing the Gemini-powered 'Ask' button to TVs](https://www.engadget.com/ai/youtube-is-bringing-the-gemini-powered-ask-button-to-tvs-173900295.html?src=rss) *(Engadget)*
+- [ ] 2026-02-19 [Rivian rolls out an Apple Watch app with vehicle controls and digital key support](https://www.engadget.com/transportation/evs/rivian-rolls-out-an-apple-watch-app-with-vehicle-controls-and-digital-key-support-172642545.html?src=rss) *(Engadget)*
+- [ ] 2026-02-19 [Orbital AI data centers could work, but they might ruin Earth in the process](https://www.engadget.com/ai/orbital-ai-data-centers-could-work-but-they-might-ruin-earth-in-the-process-170000099.html?src=rss) *(Engadget)*
+- [ ] 2026-02-19 [West Virginia is suing Apple alleging negligence over CSAM materials](https://www.engadget.com/big-tech/west-virginia-is-suing-apple-alleging-negligence-over-csam-materials-164647648.html?src=rss) *(Engadget)*
+- [ ] 2026-02-19 [Nintendo announces surprise Switch 2 version of sci-fi RPG Xenoblade Chronicles X: Definitive Edition](https://www.engadget.com/gaming/nintendo/nintendo-announces-surprise-switch-2-version-of-sci-fi-rpg-xenoblade-chronicles-x-definitive-edition-153121689.html?src=rss) *(Engadget)*
+- [ ] 2026-02-19 [Apple's iPhone Air MagSafe battery pack is cheaper than ever](https://www.engadget.com/deals/apples-iphone-air-magsafe-battery-pack-is-cheaper-than-ever-144516417.html?src=rss) *(Engadget)*
+- [ ] 2026-02-19 [Russia's recent blocking of Telegram is reportedly disrupting its military operations in Ukraine](https://www.engadget.com/social-media/russias-recent-blocking-of-telegram-is-reportedly-disrupting-its-military-operations-in-ukraine-135250159.html?src=rss) *(Engadget)*
+- [ ] 2026-02-19 [Grab this Elevation Lab 10-year extended battery case for AirTag for only $16](https://www.engadget.com/deals/grab-this-elevation-lab-10-year-extended-battery-case-for-airtag-for-only-16-151215800.html?src=rss) *(Engadget)*
+- [ ] 2026-02-19 [Advancing independent research on AI alignment](https://openai.com/index/advancing-independent-research-ai-alignment) *(OpenAI News)*
+- [ ] 2025-12-17 [The state of enterprise AI](https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report) *(OpenAI News)*
+- [ ] 2026-02-20 [Train AI models with Unsloth and Hugging Face Jobs for FREE](https://huggingface.co/blog/unsloth-jobs) *(Hugging Face Blog)*
+- [ ] 2026-02-19 [「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速](https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja) *(Hugging Face Blog)*
+- [ ] 2026-02-19 [How to Use Memory in Agent Builder](https://blog.langchain.com/how-to-use-memory-in-agent-builder/) *(LangChain Blog)*
+- [ ] 2026-02-19 [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [「AIは雇用や生産性にほとんど影響を与えていない」と数千人の企業幹部が認める、「生産性のパラドックス」の再来か](https://gigazine.net/news/20260219-ai-productivity-paradox/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [ディープフェイクを超えた「AI汚染」の脅威──中国発「スロパガンダ」の正体](https://www.newsweekjapan.jp/stories/world/2026/02/588103.php) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [Claude Codeが短期投資家に与える影響｜UKI](https://note.com/uki_profit/n/na31ed1225e20) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [AWSが推進する�AI駆動開発ライフサイクル入門 �〜 AI駆動開発時代に必要な人材とは 〜�/ introduction_to_aidlc_and_skills](https://speakerdeck.com/fatsushi/introduction-to-aidlc-and-skills) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [生成AIで社内ログ分析SQLを自動生成する仕組み ── Skillsによるナレッジ管理とマルチエージェント設計の実践 - ZOZO TECH BLOG](https://techblog.zozo.com/entry/how-to-make-sql-with-coding-ai-agent) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-19 [venv？conda？ Python周りの面倒な環境管理を一元化するVS Code拡張機能が登場／1年のプレビュー期間を経てMicrosoftが「Python Environments」を一般公開](https://forest.watch.impress.co.jp/docs/news/2087199.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [ドコモの「いつでもカエドキプログラム」、最大2万2000円の利用料を追加　ただし買い替えなら免除](https://www.itmedia.co.jp/news/articles/2602/19/news143.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [ドコモ、3月から「いつでもカエドキプログラム」に利用料　買い替えで免除に](https://k-tai.watch.impress.co.jp/docs/news/2087359.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [Database Skills — AI Agent Skills for Databases by PlanetScale](https://database-skills.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [「要約問題が0点」英検1級で相次ぐ訴え…AIのミス？採点厳格化の影響？　協会「評価は何重にもチェックしている」 - 弁護士ドットコムニュース](https://www.bengo4.com/c_18/n_20018/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-19 [Claude Codeクイックスタート — 30分で始めるAIエージェント開発](https://zenn.dev/kenimo49/books/claude-code-quickstart) *(Zenn – トピック AI)*
+- [ ] 2026-02-19 [9-①[AI][Kaggle][python]Kaggle入門(ディープラーニング入門 1.単一のニューロン)](https://zenn.dev/rg687076/articles/0599ad6be868ef) *(Zenn – トピック AI)*
+- [ ] 2026-02-19 [Claude Code スキルの出自管理 ── origin メタデータで79個を分類した](https://zenn.dev/shimo4228/articles/claude-code-skill-origin-tracking) *(Zenn – トピック AI)*
+- [ ] 2026-02-19 [なぜ、AIは若者よりも老人の知的格差を引き起こしやすいのか？](https://zenn.dev/pdfractal/articles/ac3b7bcf0d3ce1) *(Zenn – トピック AI)*
+- [ ] 2026-02-19 [CodexでPlayfabバックエンド処理の実行テストを自動化する](https://zenn.dev/kiankinakomochi/articles/c974c334933f4c) *(Zenn – トピック AI)*
+- [ ] 2026-02-19 [第2回: 線形代数 I: ベクトル・行列・基底 — 30秒の驚き→数式修行→実装マスター 【前編】理論編](https://zenn.dev/fumi_shiki/articles/ml-lecture-02-part1) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-19 [第1回: 概論: 数式と論文の読み方 — 30秒の驚き→数式修行→実装マスター 【後編】実装編](https://zenn.dev/fumi_shiki/articles/ml-lecture-01-part2) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-19 [IndexTTS2: 無料でゼロショットTTS＆感情制御！Apple Siliconで動かしてみた](https://zenn.dev/xei/articles/indextts2-free-zerosho-tts) *(Zenn – トピック 機械学習)*
+- [ ] 2026-02-19 [AIと核融合 Vol.5：AI加速核融合 — タイムラインの圧縮](https://zenn.dev/dosanko_tousan/articles/0da327c3f6c652) *(Zenn – トピック 機械学習)*
