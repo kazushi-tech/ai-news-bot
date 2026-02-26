@@ -38192,3 +38192,508 @@
 - [ ] 2026-02-25 [バンダイナムコグループで対照学習による埋め込み表現を用いてレコメンド技術検証をした話](https://zenn.dev/bnx_techblog/articles/afaa04a539385d) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-24 [フェイクニュースを2時間→5分で見破る！NECのAI偽情報検出システムが凄すぎる件](https://zenn.dev/headwaters/articles/f8e1c6d9dd98ba) *(Zenn – トピック 機械学習)*
 - [ ] 2026-02-24 [【逆解析】実験データから「未知の物性値」を特定する技術｜CAEエンジニアのための実装ガイド Vol.6](https://zenn.dev/sanottti/articles/pinn-06-inverse-problem-parameter-estimation) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-02-26T06:43:10.995Z
+- [ ] 2026-02-24 [Cloud vs. Local vs. Hybrid for AI Models: A Practitioner’s Guide (Sponsored)](https://bit.ly/4qK1Cxo) *(KDnuggets)*
+- [ ] 2026-02-26 [Apple in Talks With Banks to Start Payment Service in India](https://www.bloomberg.com/news/articles/2026-02-26/apple-in-talks-with-banks-to-start-payment-service-in-india) *(Bloomberg Technology)*
+- [ ] 2026-02-26 [Deutsche Telekom Forecast Beats Estimates on German, US Growth](https://www.bloomberg.com/news/articles/2026-02-26/deutsche-telekom-forecast-beats-estimates-on-german-us-growth) *(Bloomberg Technology)*
+- [ ] 2026-02-26 [Locked Doors Trapped Driver in Fatal Xiaomi Crash, Caixin Says](https://www.bloomberg.com/news/articles/2026-02-26/locked-doors-trapped-driver-in-fatal-xiaomi-crash-caixin-says) *(Bloomberg Technology)*
+- [ ] 2026-02-26 [Counterpoint's Einstein on Why Nvidia Needs to Diversify](https://www.bloomberg.com/news/videos/2026-02-26/counterpoint-s-einstein-on-why-nvidia-needs-to-diversify-video) *(Bloomberg Technology)*
+- [ ] 2026-02-26 [JPMorgan's Chow on Navigating AI Disruption Fears](https://www.bloomberg.com/news/videos/2026-02-26/jpmorgan-s-chow-on-navigating-ai-disruption-fears-video) *(Bloomberg Technology)*
+- [ ] 2026-02-26 [Nvidia Gets US License to Ship Some H200 Chips to China](https://www.bloomberg.com/news/videos/2026-02-26/nvidia-gets-us-license-to-ship-some-h200-chips-to-china-video) *(Bloomberg Technology)*
+- [ ] 2026-02-25 [Slowing US Shale Growth Has Fracking Companies Finding New Markets Abroad](https://www.bloomberg.com/news/articles/2026-02-25/us-frack-fleets-find-new-life-abroad-as-shale-slump-persists) *(Bloomberg Technology)*
+- [ ] 2026-02-26 [Nvidia Gets US License for Small Amount of H200 Exports to China](https://www.bloomberg.com/news/articles/2026-02-26/nvidia-gets-us-license-for-small-amount-of-h200-exports-to-china) *(Bloomberg Technology)*
+- [ ] 2026-02-26 [Anthropic’s Pentagon Showdown Is About More Than AI Guardrails](https://www.bloomberg.com/news/features/2026-02-26/pentagon-pressures-anthropic-to-drop-ai-guardrails-in-military-standoff) *(Bloomberg Technology)*
+- [ ] 2026-02-26 [Stocks Rise as Nvidia Surges on Earnings Beat \| The Close 2/25/2026](https://www.bloomberg.com/news/videos/2026-02-26/the-close-2-25-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-02-26 [‘Compute Equals Revenues’: Nvidia Needs Jensen Huang’s New Catchphrase to Be True](https://gizmodo.com/compute-equals-revenues-nvidia-needs-jensen-huangs-new-catchphrase-to-be-true-2000726841) *(Gizmodo – Technology)*
+- [ ] 2026-02-26 [Valve Has Been ‘Letting Children and Adults Alike Illegally Gamble,’ New York A.G. Alleges](https://gizmodo.com/valve-has-been-letting-children-and-adults-alike-illegally-gamble-new-york-a-g-alleges-2000726857) *(Gizmodo – Technology)*
+- [ ] 2026-02-26 [You don’t know what your agent will do until it’s in production](https://blog.langchain.com/you-dont-know-what-your-agent-will-do-until-its-in-production/) *(LangChain Blog)*
+- [ ] 2026-02-26 [Latent Context Compilation: Distilling Long Context into Compact Portable Memory](https://arxiv.org/abs/2602.21221) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [ACAR: Adaptive Complexity Routing for Multi-Model Ensembles with Auditable Decision Traces](https://arxiv.org/abs/2602.21231) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Urban Vibrancy Embedding and Application on Traffic Prediction](https://arxiv.org/abs/2602.21232) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [AngelSlim: A more accessible, comprehensive, and efficient toolkit for large model compression](https://arxiv.org/abs/2602.21233) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Group Orthogonalized Policy Optimization:Group Policy Optimization as Orthogonal Projection in Hilbert Space](https://arxiv.org/abs/2602.21269) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Neural network optimization strategies and the topography of the loss landscape](https://arxiv.org/abs/2602.21276) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Robust AI Evaluation through Maximal Lotteries](https://arxiv.org/abs/2602.21297) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [SymTorch: A Framework for Symbolic Distillation of Deep Neural Networks](https://arxiv.org/abs/2602.21307) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Shared Nature, Unique Nurture: PRISM for Pluralistic Reasoning via In-context Structure Modeling](https://arxiv.org/abs/2602.21317) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Uncertainty-Aware Diffusion Model for Multimodal Highway Trajectory Prediction via DDIM Sampling](https://arxiv.org/abs/2602.21319) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data](https://arxiv.org/abs/2602.21320) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training](https://arxiv.org/abs/2602.21321) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Equitable Evaluation via Elicitation](https://arxiv.org/abs/2602.21327) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Efficient Opportunistic Approachability](https://arxiv.org/abs/2602.21328) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [HiPPO Zoo: Explicit Memory Mechanisms for Interpretable State Space Models](https://arxiv.org/abs/2602.21340) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Archetypal Graph Generative Models: Explainable and Identifiable Communities via Anchor-Dominant Convex Hulls](https://arxiv.org/abs/2602.21342) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Black-Box Reliability Certification for AI Agents via Self-Consistency Sampling and Conformal Calibration](https://arxiv.org/abs/2602.21368) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Interleaved Head Attention](https://arxiv.org/abs/2602.21371) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [The Mean is the Mirage: Entropy-Adaptive Model Merging under Heterogeneous Domain Shifts in Medical Imaging](https://arxiv.org/abs/2602.21372) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [VCDF: A Validated Consensus-Driven Framework for Time Series Causal Discovery](https://arxiv.org/abs/2602.21381) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Defensive Generation](https://arxiv.org/abs/2602.21390) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [FedVG: Gradient-Guided Aggregation for Enhanced Federated Learning](https://arxiv.org/abs/2602.21399) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Generative Bayesian Computation as a Scalable Alternative to Gaussian Process Surrogates](https://arxiv.org/abs/2602.21408) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Benchmarking State Space Models, Transformers, and Recurrent Networks for US Grid Forecasting](https://arxiv.org/abs/2602.21415) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning](https://arxiv.org/abs/2602.21420) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [On the Structural Non-Preservation of Epistemic Behaviour under Policy Transformation](https://arxiv.org/abs/2602.21424) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Proximal-IMH: Proximal Posterior Proposals for Independent Metropolis-Hastings with Approximate Operators](https://arxiv.org/abs/2602.21426) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Provably Safe Generative Sampling with Constricting Barrier Functions](https://arxiv.org/abs/2602.21429) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Causal Decoding for Hallucination-Resistant Multimodal Large Language Models](https://arxiv.org/abs/2602.21441) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [MINAR: Mechanistic Interpretability for Neural Algorithmic Reasoning](https://arxiv.org/abs/2602.21442) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [When Learning Hurts: Fixed-Pole RNN for Real-Time Online Training](https://arxiv.org/abs/2602.21454) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Effects of Training Data Quality on Classifier Performance](https://arxiv.org/abs/2602.21462) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics](https://arxiv.org/abs/2602.21466) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Geometric Priors for Generalizable World Models via Vector Symbolic Architecture](https://arxiv.org/abs/2602.21467) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [D-Flow SGLD: Source-Space Posterior Sampling for Scientific Inverse Problems with Flow Matching](https://arxiv.org/abs/2602.21469) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [The Design Space of Tri-Modal Masked Diffusion Models](https://arxiv.org/abs/2602.21472) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [GradAlign: Gradient-Aligned Data Selection for LLM Reinforcement Learning](https://arxiv.org/abs/2602.21492) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Learning Recursive Multi-Scale Representations for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.21498) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [WaterVIB: Learning Minimal Sufficient Watermark Representations via Variational Information Bottleneck](https://arxiv.org/abs/2602.21508) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Training Generalizable Collaborative Agents via Strategic Risk Aversion](https://arxiv.org/abs/2602.21515) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Muon+: Towards Better Muon via One Additional Normalization Step](https://arxiv.org/abs/2602.21545) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Mamba Meets Scheduling: Learning to Solve Flexible Job Shop Scheduling with Efficient Sequence Modeling](https://arxiv.org/abs/2602.21546) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction](https://arxiv.org/abs/2602.21550) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [From Basis to Basis: Gaussian Particle Representation for Interpretable PDE Operators](https://arxiv.org/abs/2602.21551) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Training-free Composition of Pre-trained GFlowNets for Multi-Objective Generation](https://arxiv.org/abs/2602.21565) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Duel-Evolve: Reward-Free Test-Time Scaling via LLM Self-Preferences](https://arxiv.org/abs/2602.21585) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [ABM-UDE: Developing Surrogates for Epidemic Agent-Based Models via Scientific Machine Learning](https://arxiv.org/abs/2602.21588) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Breaking Semantic-Aware Watermarks via LLM-Guided Coherence-Preserving Semantic Injection](https://arxiv.org/abs/2602.21593) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [NGDB-Zoo: Towards Efficient and Scalable Neural Graph Databases Training](https://arxiv.org/abs/2602.21597) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Deep Clustering based Boundary-Decoder Net for Inter and Intra Layer Stress Prediction of Heterogeneous Integrated IC Chip](https://arxiv.org/abs/2602.21601) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [AgentLTV: An Agent-Based Unified Search-and-Evolution Framework for Automated Lifetime Value Prediction](https://arxiv.org/abs/2602.21634) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Multimodal Survival Modeling and Fairness-Aware Clinical Machine Learning for 5-Year Breast Cancer Risk Prediction](https://arxiv.org/abs/2602.21648) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Error-awareness Accelerates Active Automata Learning](https://arxiv.org/abs/2602.21674) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Hierarchical Lead Critic based Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2602.21680) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts](https://arxiv.org/abs/2602.21693) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Learning Complex Physical Regimes via Coverage-oriented Uncertainty Quantification: An application to the Critical Heat Flux](https://arxiv.org/abs/2602.21701) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [C$^{2}$TC: A Training-Free Framework for Efficient Tabular Data Condensation](https://arxiv.org/abs/2602.21717) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [From Words to Amino Acids: Does the Curse of Depth Persist?](https://arxiv.org/abs/2602.21750) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Learning from Yesterday's Error: An Efficient Online Learning Method for Traffic Demand Prediction](https://arxiv.org/abs/2602.21757) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Generalisation of RLHF under Reward Shift and Clipped KL Regularisation](https://arxiv.org/abs/2602.21765) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Easy to Learn, Yet Hard to Forget: Towards Robust Unlearning Under Bias](https://arxiv.org/abs/2602.21773) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Excitation: Momentum For Experts](https://arxiv.org/abs/2602.21798) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [DocDjinn: Controllable Synthetic Document Generation with VLMs and Handwriting Diffusion](https://arxiv.org/abs/2602.21824) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [JSAM: Privacy Straggler-Resilient Joint Client Selection and Incentive Mechanism Design in Differentially Private Federated Learning](https://arxiv.org/abs/2602.21844) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [xai-cola: A Python library for sparsifying counterfactual explanations](https://arxiv.org/abs/2602.21845) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [The Error of Deep Operator Networks Is the Sum of Its Parts: Branch-Trunk and Mode Error Decompositions](https://arxiv.org/abs/2602.21910) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Learning in the Null Space: Small Singular Values for Continual Learning](https://arxiv.org/abs/2602.21919) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Learning Unknown Interdependencies for Decentralized Root Cause Analysis in Nonlinear Dynamical Systems](https://arxiv.org/abs/2602.21928) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Bayesian Generative Adversarial Networks via Gaussian Approximation for Tabular Data Synthesis](https://arxiv.org/abs/2602.21948) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Estimation and Optimization of Ship Fuel Consumption in Maritime: Review, Challenges and Future Directions](https://arxiv.org/abs/2602.21959) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Robustness in sparse artificial neural networks trained with adaptive topology](https://arxiv.org/abs/2602.21961) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Compact Circulant Layers with Spectral Priors](https://arxiv.org/abs/2602.21965) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Neural solver for Wasserstein Geodesics and optimal transport dynamics](https://arxiv.org/abs/2602.22003) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Function-Space Empirical Bayes Regularisation with Student's t Priors](https://arxiv.org/abs/2602.22015) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Disease Progression and Subtype Modeling for Combined Discrete and Continuous Input Data](https://arxiv.org/abs/2602.22018) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Physics-Informed Machine Learning for Vessel Shaft Power and Fuel Consumption Prediction: Interpretable KAN-based Approach](https://arxiv.org/abs/2602.22055) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [DualWeaver: Synergistic Feature Weaving Surrogates for Multivariate Forecasting with Univariate Time Series Foundation Models](https://arxiv.org/abs/2602.22066) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [On Imbalanced Regression with Hoeffding Trees](https://arxiv.org/abs/2602.22101) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Don't stop me now: Rethinking Validation Criteria for Model Parameter Selection](https://arxiv.org/abs/2602.22107) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Sample Complexity Bounds for Robust Mean Estimation with Mean-Shift Contamination](https://arxiv.org/abs/2602.22130) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [SigmaQuant: Hardware-Aware Heterogeneous Quantization Method for Edge DNN Inference](https://arxiv.org/abs/2602.22136) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual](https://arxiv.org/abs/2602.22146) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Learning and Naming Subgroups with Exceptional Survival Characteristics](https://arxiv.org/abs/2602.22179) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach](https://arxiv.org/abs/2602.22188) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://arxiv.org/abs/2602.22190) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Exploiting Low-Rank Structure in Max-K-Cut Problems](https://arxiv.org/abs/2602.20376) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Disaster Question Answering with LoRA Efficiency and Accurate End Position](https://arxiv.org/abs/2602.21212) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](https://arxiv.org/abs/2602.21218) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Field-Theoretic Memory for AI Agents: Continuous Dynamics for Context Preservation](https://arxiv.org/abs/2602.21220) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Task-Aware LoRA Adapter Composition via Similarity Retrieval in Vector Databases](https://arxiv.org/abs/2602.21222) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Make Every Draft Count: Hidden State based Speculative Decoding](https://arxiv.org/abs/2602.21224) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Architecture-Agnostic Curriculum Learning for Document Understanding: Empirical Evidence from Text-Only and Multimodal](https://arxiv.org/abs/2602.21225) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Forecasting Future Language: Context Design for Mention Markets](https://arxiv.org/abs/2602.21229) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [INTACT: Intent-Aware Representation Learning for Cryptographic Traffic Violation Detection](https://arxiv.org/abs/2602.21252) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Under the Influence: Quantifying Persuasion and Vigilance in Large Language Models](https://arxiv.org/abs/2602.21262) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [ToolMATH: A Math Tool Benchmark for Realistic Long-Horizon Multi-Tool Reasoning](https://arxiv.org/abs/2602.21265) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Counterdiabatic Hamiltonian Monte Carlo](https://arxiv.org/abs/2602.21272) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Precedence-Constrained Decision Trees and Coverings](https://arxiv.org/abs/2602.21312) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Conditional neural control variates for variance reduction in Bayesian inverse problems](https://arxiv.org/abs/2602.21357) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Towards single-shot coherent imaging via overlap-free ptychography](https://arxiv.org/abs/2602.21361) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Towards Controllable Video Synthesis of Routine and Rare OR Events](https://arxiv.org/abs/2602.21365) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Small Language Models for Privacy-Preserving Clinical Information Extraction in Low-Resource Languages](https://arxiv.org/abs/2602.21374) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [MrBERT: Modern Multilingual Encoders via Vocabulary, Domain, and Dimensional Adaptation](https://arxiv.org/abs/2602.21379) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [MMLoP: Multi-Modal Low-Rank Prompting for Efficient Vision-Language Adaptation](https://arxiv.org/abs/2602.21397) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [ECHOSAT: Estimating Canopy Height Over Space And Time](https://arxiv.org/abs/2602.21421) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [PSF-Med: Measuring and Explaining Paraphrase Sensitivity in Medical Vision Language Models](https://arxiv.org/abs/2602.21428) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Efficient Uncoupled Learning Dynamics with $\tilde{O}\!\left(T^{-1/4}\right)$ Last-Iterate Convergence in Bilinear Saddle-Point Problems over Convex Sets under Bandit Feedback](https://arxiv.org/abs/2602.21436) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [ConformalHDC: Uncertainty-Aware Hyperdimensional Computing with Application to Neural Decoding](https://arxiv.org/abs/2602.21446) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Adversarial Intent is a Latent Variable: Stateful Trust Inference for Securing Multimodal Agentic RAG](https://arxiv.org/abs/2602.21447) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Unsupervised Discovery of Intermediate Phase Order in the Frustrated $J_1$-$J_2$ Heisenberg Model via Prometheus Framework](https://arxiv.org/abs/2602.21468) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [A Knowledge-Driven Approach to Music Segmentation, Music Source Separation and Cinematic Audio Source Separation](https://arxiv.org/abs/2602.21476) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Efficient Inference after Directionally Stable Adaptive Experiments](https://arxiv.org/abs/2602.21478) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Global Sequential Testing for Multi-Stream Auditing](https://arxiv.org/abs/2602.21479) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [A Researcher's Guide to Empirical Risk Minimization](https://arxiv.org/abs/2602.21501) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Fair Model-based Clustering](https://arxiv.org/abs/2602.21509) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [LiLo-VLA: Compositional Long-Horizon Manipulation via Linked Object-Centric Policies](https://arxiv.org/abs/2602.21531) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Reasoning-Driven Design of Single Atom Catalysts via a Multi-Agent Large Language Model Framework](https://arxiv.org/abs/2602.21533) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Revisiting RAG Retrievers: An Information Theoretic Benchmark](https://arxiv.org/abs/2602.21553) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [How many asymmetric communities are there in multi-layer directed networks?](https://arxiv.org/abs/2602.21569) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Goodness-of-Fit Tests for Latent Class Models with Ordinal Categorical Data](https://arxiv.org/abs/2602.21572) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners](https://arxiv.org/abs/2602.21620) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Mitigating Structural Noise in Low-Resource S2TT: An Optimized Cascaded Nepali-English Pipeline with Punctuation Restoration](https://arxiv.org/abs/2602.21647) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Trie-Aware Transformers for Generative Recommendation](https://arxiv.org/abs/2602.21677) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Primary-Fine Decoupling for Action Generation in Robotic Imitation](https://arxiv.org/abs/2602.21684) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Brain Tumor Segmentation with Special Emphasis on the Non-Enhancing Brain Tumor Compartment](https://arxiv.org/abs/2602.21703) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Learning spatially adaptive sparsity level maps for arbitrary convolutional dictionaries](https://arxiv.org/abs/2602.21707) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Private and Robust Contribution Evaluation in Federated Learning](https://arxiv.org/abs/2602.21721) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Robust Long-Form Bangla Speech Processing: Automatic Speech Recognition and Speaker Diarization](https://arxiv.org/abs/2602.21741) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [RABot: Reinforcement-Guided Graph Augmentation for Imbalanced and Noisy Social Bot Detection](https://arxiv.org/abs/2602.21749) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Offline Reasoning for Efficient Recommendation: LLM-Empowered Persona-Profiled Item Indexing](https://arxiv.org/abs/2602.21756) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [RAMSeS: Robust and Adaptive Model Selection for Time-Series Anomaly Detection Algorithms](https://arxiv.org/abs/2602.21766) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Therapist-Robot-Patient Physical Interaction is Worth a Thousand Words: Enabling Intuitive Therapist Guidance via Remote Haptic Control](https://arxiv.org/abs/2602.21783) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [DHP: Efficient Scaling of MLLM Training with Dynamic Hybrid Parallelism](https://arxiv.org/abs/2602.21788) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Neural Learning of Fast Matrix Multiplication Algorithms: A StrassenNet Approach](https://arxiv.org/abs/2602.21797) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Scalable Kernel-Based Distances for Statistical Inference and Integration](https://arxiv.org/abs/2602.21846) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Distill and Align Decomposition for Enhanced Claim Verification](https://arxiv.org/abs/2602.21857) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [GFPL: Generative Federated Prototype Learning for Resource-Constrained and Data-Imbalanced Vision Task](https://arxiv.org/abs/2602.21873) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [2-Step Agent: A Framework for the Interaction of a Decision Maker with AI Decision Support](https://arxiv.org/abs/2602.21889) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Bridging Through Absence: How Comeback Researchers Bridge Knowledge Gaps Through Structural Re-emergence](https://arxiv.org/abs/2602.21926) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Learning to Collaborate via Structures: Cluster-Guided Item Alignment for Federated Recommendation](https://arxiv.org/abs/2602.21957) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Outpatient Appointment Scheduling Optimization with a Genetic Algorithm Approach](https://arxiv.org/abs/2602.21995) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Enhancing LLM-Based Test Generation by Eliminating Covered Code](https://arxiv.org/abs/2602.21997) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [FlowCorrect: Efficient Interactive Correction of Generative Flow Policies for Robotic Manipulation](https://arxiv.org/abs/2602.22056) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Learning Quantum Data Distribution via Chaotic Quantum Diffusion Model](https://arxiv.org/abs/2602.22061) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Coarsening Bias from Variable Discretization in Causal Functionals](https://arxiv.org/abs/2602.22083) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [MBD-ML: Many-body dispersion from machine learning for molecules and materials](https://arxiv.org/abs/2602.22086) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Slice and Explain: Logic-Based Explanations for Neural Networks through Domain Slicing](https://arxiv.org/abs/2602.22115) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Probing the Geometry of Diffusion Models with the String Method](https://arxiv.org/abs/2602.22122) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [SWE-Prot\'eg\'e: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents](https://arxiv.org/abs/2602.22124) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Dynamic Personality Adaptation in Large Language Models via State Machines](https://arxiv.org/abs/2602.22157) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets](https://arxiv.org/abs/2602.22207) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Improving Denoising Diffusion Models via Simultaneous Estimation of Image and Noise](https://arxiv.org/abs/2310.17167) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Parallel Split Learning with Global Sampling](https://arxiv.org/abs/2407.15738) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [A Causal Graph-Enhanced Gaussian Process Regression for Modeling Engine-out NOx](https://arxiv.org/abs/2410.18424) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Towards a Fairer Non-negative Matrix Factorization](https://arxiv.org/abs/2411.09847) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Object-Centric World Models from Few-Shot Annotations for Sample-Efficient Reinforcement Learning](https://arxiv.org/abs/2501.16443) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Training speedups via batching for geometric learning: an analysis of static and dynamic algorithms](https://arxiv.org/abs/2502.00944) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Riemannian Variational Flow Matching for Material and Protein Design](https://arxiv.org/abs/2502.12981) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Glycemic-Aware and Architecture-Agnostic Training Framework for Blood Glucose Forecasting in Type 1 Diabetes](https://arxiv.org/abs/2502.14183) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Rethinking Flexible Graph Similarity Computation: One-step Alignment with Global Guidance](https://arxiv.org/abs/2504.06533) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks](https://arxiv.org/abs/2504.07835) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Large Language Model Compression with Global Rank and Sparsity Optimization](https://arxiv.org/abs/2505.03801) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [MuLoCo: Muon is a practical inner optimizer for DiLoCo](https://arxiv.org/abs/2505.23725) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [When Style Breaks Safety: Defending LLMs Against Superficial Style Alignment](https://arxiv.org/abs/2506.07452) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Premise Selection for a Lean Hammer](https://arxiv.org/abs/2506.07477) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [FFINO: Factorized Fourier Improved Neural Operator for Modeling Multiphase Flow in Underground Hydrogen Storage](https://arxiv.org/abs/2506.17344) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning](https://arxiv.org/abs/2506.21427) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Mitigating Semantic Collapse in Generative Personalization with Test-Time Embedding Adjustment](https://arxiv.org/abs/2506.22685) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Enhancing Spatio-Temporal Forecasting with Spatial Neighbourhood Fusion:A Case Study on COVID-19 Mobility in Peru](https://arxiv.org/abs/2507.00031) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [DOTResize: Reducing LLM Width via Discrete Optimal Transport-based Neuron Merging](https://arxiv.org/abs/2507.04517) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Federated Learning in Offline and Online EMG Decoding: A Privacy and Performance Perspective](https://arxiv.org/abs/2507.12652) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Multitask Learning with Stochastic Interpolants](https://arxiv.org/abs/2508.04605) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Modern Neural Networks for Small Tabular Datasets: The New Default for Field-Scale Digital Soil Mapping?](https://arxiv.org/abs/2508.09888) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Rethinking Layer-wise Model Merging through Chain of Merges](https://arxiv.org/abs/2508.21421) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Quantum enhanced ensemble GANs for anomaly detection in continuous biomanufacturing](https://arxiv.org/abs/2508.21438) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Chasing the Tail: Effective Rubric-based Reward Modeling for Large Language Model Post-Training](https://arxiv.org/abs/2509.21500) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Beyond RAG vs. Long-Context: Learning Distraction-Aware Retrieval for Efficient Knowledge Grounding](https://arxiv.org/abs/2509.21865) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Characterization and Learning of Causal Graphs with Latent Confounders and Post-treatment Selection from Interventional Data](https://arxiv.org/abs/2509.25800) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [SciTS: Scientific Time Series Understanding and Generation with LLMs](https://arxiv.org/abs/2510.03255) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Rethinking Consistent Multi-Label Classification Under Inexact Supervision](https://arxiv.org/abs/2510.04091) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [ImpMIA: Leveraging Implicit Bias for Membership Inference Attack](https://arxiv.org/abs/2510.10625) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [MNO: Multiscale Neural Operator for 3D Computational Fluid Dynamics](https://arxiv.org/abs/2510.16071) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [SPACeR: Self-Play Anchoring with Centralized Reference Models](https://arxiv.org/abs/2510.18060) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [SERL: Self-Examining Reinforcement Learning on Open-Domain](https://arxiv.org/abs/2511.07922) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [EARL: Entropy-Aware RL Alignment of LLMs for Reliable RTL Code Generation](https://arxiv.org/abs/2511.12033) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [NTK-Guided Implicit Neural Teaching](https://arxiv.org/abs/2511.15487) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Stabilizing Off-Policy Training for Long-Horizon LLM Agent via Turn-Level Importance Sampling and Clipping-Triggered Normalization](https://arxiv.org/abs/2511.20718) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [BRIDGE: Building Representations In Domain Guided Program Synthesis](https://arxiv.org/abs/2511.21104) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Efficient Cross-Domain Offline Reinforcement Learning with Dynamics- and Value-Aligned Data Filtering](https://arxiv.org/abs/2512.02435) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [NRGPT: An Energy-based Alternative for GPT](https://arxiv.org/abs/2512.16762) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Hardness of Maximum Likelihood Learning of DPPs](https://arxiv.org/abs/2205.12377) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Private Blind Model Averaging - Distributed, Non-interactive, and Convergent](https://arxiv.org/abs/2211.02003) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [The Dark Side of ChatGPT: Legal and Ethical Challenges from Stochastic Parrots and Hallucination](https://arxiv.org/abs/2304.14347) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Incentive-Aware Synthetic Control: Accurate Counterfactual Estimation via Incentivized Exploration](https://arxiv.org/abs/2312.16307) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Multi-agent deep reinforcement learning with centralized training and decentralized execution for transportation infrastructure management](https://arxiv.org/abs/2401.12455) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Overparameterized Multiple Linear Regression as Hyper-Curve Fitting](https://arxiv.org/abs/2404.07849) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [MPC of Uncertain Nonlinear Systems with Meta-Learning for Fast Adaptation of Neural Predictive Models](https://arxiv.org/abs/2404.12097) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [When Can Transformers Count to n?](https://arxiv.org/abs/2407.15160) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Renaissance: Investigating the Pretraining of Vision-Language Encoders](https://arxiv.org/abs/2411.06657) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Quantum feedback control with a transformer neural network architecture](https://arxiv.org/abs/2411.19253) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Accelerating Recommender Model ETL with a Streaming FPGA-GPU Dataflow](https://arxiv.org/abs/2501.12032) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [A Distributional Treatment of Real2Sim2Real for Object-Centric Agent Adaptation in Vision-Driven Deformable Linear Object Manipulation](https://arxiv.org/abs/2502.18615) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [QCS-ADME: Quantum Circuit Search for Drug Property Prediction with Imbalanced Data and Regression Adaptation](https://arxiv.org/abs/2503.01927) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Measuring AI Ability to Complete Long Software Tasks](https://arxiv.org/abs/2503.14499) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [High-Fidelity And Complex Test Data Generation For Google SQL Code Generation Services](https://arxiv.org/abs/2504.17203) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Discrete Optimal Transport and Voice Conversion](https://arxiv.org/abs/2505.04382) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [BARREL: Boundary-Aware Reasoning for Factual and Reliable LRMs](https://arxiv.org/abs/2505.13529) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Knowledge Fusion of Large Language Models Via Modular SkillPacks](https://arxiv.org/abs/2505.18502) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Hyperbolic recurrent neural network as the first type of non-Euclidean neural quantum state ansatz](https://arxiv.org/abs/2505.22083) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Highly Efficient and Effective LLMs with Multi-Boolean Architectures](https://arxiv.org/abs/2505.22811) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Blameless Users in a Clean Room: Defining Copyright Protection for Generative Models](https://arxiv.org/abs/2506.19881) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [A Comprehensive Benchmark for Electrocardiogram Time-Series](https://arxiv.org/abs/2507.14206) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [CASCADE: LLM-Powered JavaScript Deobfuscator at Google](https://arxiv.org/abs/2507.17691) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Position: Beyond Sensitive Attributes, ML Fairness Should Quantify Structural Injustice via Social Determinants](https://arxiv.org/abs/2508.08337) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Do LLMs Adhere to Label Definitions? Examining Their Receptivity to External Label Definitions](https://arxiv.org/abs/2509.02452) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [MedicalPatchNet: A Patch-Based Self-Explainable AI Architecture for Chest X-ray Classification](https://arxiv.org/abs/2509.07477) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [PeruMedQA: Benchmarking Large Language Models (LLMs) on Peruvian Medical Exams -- Dataset Construction and Evaluation](https://arxiv.org/abs/2509.11517) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Synthetic vs. Real Training Data for Visual Navigation](https://arxiv.org/abs/2509.11791) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Aligning Audio Captions with Human Preferences](https://arxiv.org/abs/2509.14659) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Diversity Boosts AI-Generated Text Detection](https://arxiv.org/abs/2509.18880) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Minimax Rates for Learning Pairwise Interactions in Attention-Style Models](https://arxiv.org/abs/2510.11789) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Multimodal Datasets with Controllable Mutual Information](https://arxiv.org/abs/2510.21686) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [ATLAS: Adaptive Transfer Scaling Laws for Multilingual Pretraining, Finetuning, and Decoding the Curse of Multilinguality](https://arxiv.org/abs/2510.22037) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders](https://arxiv.org/abs/2510.22049) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Heuristic Adaptation of Potentially Misspecified Domain Support for Likelihood-Free Inference in Stochastic Dynamical Systems](https://arxiv.org/abs/2510.26656) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [World Simulation with Video Foundation Models for Physical AI](https://arxiv.org/abs/2511.00062) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Nonstabilizerness Estimation using Graph Neural Networks](https://arxiv.org/abs/2511.23224) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [KD-OCT: Efficient Knowledge Distillation for Clinical-Grade Retinal OCT Classification](https://arxiv.org/abs/2512.09069) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [In-Context Algebra](https://arxiv.org/abs/2512.16902) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-02-26 [Inference-time Alignment via Sparse Junction Steering](https://arxiv.org/abs/2602.21215) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [EQ-5D Classification Using Biomedical Entity-Enriched Pre-trained Language Models and Multiple Instance Learning](https://arxiv.org/abs/2602.21216) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Applied Sociolinguistic AI for Community Development (ASA-CD): A New Scientific Paradigm for Linguistically-Grounded Social Intervention](https://arxiv.org/abs/2602.21217) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Reasoning-Based Personalized Generation for Users with Sparse Data](https://arxiv.org/abs/2602.21219) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Measuring Pragmatic Influence in Large Language Model Instructions](https://arxiv.org/abs/2602.21223) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [IslamicLegalBench: Evaluating LLMs Knowledge and Reasoning of Islamic Law Across 1,200 Years of Islamic Pluralist Legal Traditions](https://arxiv.org/abs/2602.21226) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Budget-Aware Agentic Routing via Boundary-Guided Training](https://arxiv.org/abs/2602.21227) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [ImpRIF: Stronger Implicit Reasoning Leads to Better Complex Instruction Following](https://arxiv.org/abs/2602.21228) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [TRACE: Trajectory-Aware Comprehensive Evaluation for Deep Research Agents](https://arxiv.org/abs/2602.21230) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Structured Prompt Language: Declarative Context Management for LLMs](https://arxiv.org/abs/2602.21257) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Alignment-Weighted DPO: A principled reasoning approach to improve safety alignment](https://arxiv.org/abs/2602.21346) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Beyond Subtokens: A Rich Character Embedding for Low-resource and Morphologically Complex Languages](https://arxiv.org/abs/2602.21377) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [VecGlypher: Unified Vector Glyph Generation with Language Models](https://arxiv.org/abs/2602.21461) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Evaluating the Usage of African-American Vernacular English in Large Language Models](https://arxiv.org/abs/2602.21485) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Enhancing Multilingual Embeddings via Multi-Way Parallel Text Alignment](https://arxiv.org/abs/2602.21543) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [MixSarc: A Bangla-English Code-Mixed Corpus for Implicit Meaning Identification](https://arxiv.org/abs/2602.21608) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [When More Is Less: A Systematic Analysis of Spatial and Commonsense Information for Visual Spatial Reasoning](https://arxiv.org/abs/2602.21619) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning](https://arxiv.org/abs/2602.21628) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Multi-dimensional Assessment and Explainable Feedback for Counselor Responses to Client Resistance in Text-based Counseling with LLMs](https://arxiv.org/abs/2602.21638) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Scalable Multilingual Multimodal Machine Translation with Speech-Text Fusion](https://arxiv.org/abs/2602.21646) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Sparsity Induction for Accurate Post-Training Pruning of Large Language Models](https://arxiv.org/abs/2602.21652) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [DWA-KD: Dual-Space Weighting and Time-Warped Alignment for Cross-Tokenizer Knowledge Distillation](https://arxiv.org/abs/2602.21669) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Evaluating the relationship between regularity and learnability in recursive numeral systems using Reinforcement Learning](https://arxiv.org/abs/2602.21720) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Explore-on-Graph: Incentivizing Autonomous Exploration of Large Language Models on Knowledge Graphs with Path-refined Reward Modeling](https://arxiv.org/abs/2602.21728) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Improving Implicit Discourse Relation Recognition with Natural Language Explanations from LLMs](https://arxiv.org/abs/2602.21763) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [D-COT: Disciplined Chain-of-Thought Learning for Efficient Reasoning in Small Language Models](https://arxiv.org/abs/2602.21786) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [FewMMBench: A Benchmark for Multimodal Few-Shot Learning](https://arxiv.org/abs/2602.21854) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Personalized Graph-Empowered Large Language Model for Proactive Information Access](https://arxiv.org/abs/2602.21862) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [ExpLang: Improved Exploration and Exploitation in LLM Reasoning with On-Policy Thinking Language Selection](https://arxiv.org/abs/2602.21887) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Small Wins Big: Comparing Large Language Models and Domain Fine-Tuned Models for Sarcasm Detection in Code-Mixed Hinglish Text](https://arxiv.org/abs/2602.21933) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [MERRY: Semantically Decoupled Evaluation of Multimodal Emotional and Role Consistencies of Role-Playing Agents](https://arxiv.org/abs/2602.21941) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Large Language Models are Algorithmically Blind](https://arxiv.org/abs/2602.21947) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [MEDSYN: Benchmarking Multi-EviDence SYNthesis in Complex Clinical Cases for Multimodal Large Language Models](https://arxiv.org/abs/2602.21950) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [RADAR: Reasoning as Discrimination with Aligned Representations for LLM-based Knowledge Graph Reasoning](https://arxiv.org/abs/2602.21951) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [CxMP: A Linguistic Minimal-Pair Benchmark for Evaluating Constructional Understanding in Language Models](https://arxiv.org/abs/2602.21978) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [A Diversity Diet for a Healthier Model: A Case Study of French ModernBERT](https://arxiv.org/abs/2602.22014) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [DLT-Corpus: A Large-Scale Text Collection for the Distributed Ledger Technology Domain](https://arxiv.org/abs/2602.22045) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models](https://arxiv.org/abs/2602.22072) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Confidence-Driven Multi-Scale Model Selection for Cost-Efficient Inference](https://arxiv.org/abs/2602.22090) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [IndicIFEval: A Benchmark for Verifiable Instruction-Following Evaluation in 14 Indic Languages](https://arxiv.org/abs/2602.22125) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs](https://arxiv.org/abs/2602.22175) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [LiCQA : A Lightweight Complex Question Answering System](https://arxiv.org/abs/2602.22182) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Improving Parametric Knowledge Access in Reasoning Language Models](https://arxiv.org/abs/2602.22193) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [SumTablets: A Transliteration Dataset of Sumerian Tablets](https://arxiv.org/abs/2602.22200) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Toward Effective Multi-Domain Rumor Detection in Social Networks Using Domain-Gated Mixture-of-Experts](https://arxiv.org/abs/2602.21214) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Revisiting Text Ranking in Deep Research](https://arxiv.org/abs/2602.21456) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [iMiGUE-Speech: A Spontaneous Speech Dataset for Affective Analysis](https://arxiv.org/abs/2602.21464) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Both Ends Count! Just How Good are LLM Agents at "Text-to-Big SQL"?](https://arxiv.org/abs/2602.21480) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [One Brain, Omni Modalities: Towards Unified Non-Invasive Brain Decoding with Large Language Models](https://arxiv.org/abs/2602.21522) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Prompt Architecture Determines Reasoning Quality: A Variable Isolation Study on the Car Wash Problem](https://arxiv.org/abs/2602.21814) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [DynamicGTR: Leveraging Graph Topology Representation Preferences to Boost VLM Capabilities on Graph QAs](https://arxiv.org/abs/2602.21864) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [TG-ASR: Translation-Guided Learning with Parallel Gated Cross Attention for Low-Resource Automatic Speech Recognition](https://arxiv.org/abs/2602.22039) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors](https://arxiv.org/abs/2602.22144) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [When AI Writes, Whose Voice Remains? Quantifying Cultural Marker Erasure Across World English Varieties in Large Language Models](https://arxiv.org/abs/2602.22145) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Emergence of a phonological bias in ChatGPT](https://arxiv.org/abs/2305.15929) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Breaking the HISCO Barrier: Automatic Occupational Standardization with OccCANINE](https://arxiv.org/abs/2402.13604) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [PACE: Procedural Abstractions for Communicating Efficiently](https://arxiv.org/abs/2409.20120) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [MathFimer: Enhancing Mathematical Reasoning by Expanding Reasoning Steps through Fill-in-the-Middle Task](https://arxiv.org/abs/2502.11684) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Compressing Language Models for Specialized Domains](https://arxiv.org/abs/2502.18424) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2503.06692) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [EmoGRACE: Aspect-based emotion analysis for social media data](https://arxiv.org/abs/2503.15133) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Refusal Direction is Universal Across Safety-Aligned Languages](https://arxiv.org/abs/2505.17306) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Resisting Contextual Interference in RAG via Parametric-Knowledge Reinforcement](https://arxiv.org/abs/2506.05154) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Simple Yet Effective: Extracting Private Data Across Clients in Federated Fine-Tuning of Large Language Models](https://arxiv.org/abs/2506.06060) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [From Raw Corpora to Domain Benchmarks: Automated Evaluation of LLM Domain Expertise](https://arxiv.org/abs/2506.07658) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Probabilistic distances-based hallucination detection in LLMs with RAG](https://arxiv.org/abs/2506.09886) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Not All Errors Are Created Equal: ASCoT Addresses Late-Stage Fragility in Efficient LLM Reasoning](https://arxiv.org/abs/2508.05282) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Diffusion Language Models Know the Answer Before Decoding](https://arxiv.org/abs/2508.19982) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Compose and Fuse: Revisiting the Foundational Bottlenecks in Multimodal Reasoning](https://arxiv.org/abs/2509.23744) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Incentive-Aligned Multi-Source LLM Summaries](https://arxiv.org/abs/2509.25184) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Slm-mux: Orchestrating small language models for reasoning](https://arxiv.org/abs/2510.05077) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [FML-bench: Benchmarking Machine Learning Agents for Scientific Research](https://arxiv.org/abs/2510.10472) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Embedding-Based Context-Aware Reranker](https://arxiv.org/abs/2510.13329) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Annotation-Efficient Universal Honesty Alignment](https://arxiv.org/abs/2510.17509) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Robust Preference Alignment via Directional Neighborhood Consensus](https://arxiv.org/abs/2510.20498) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Toward Safe and Human-Aligned Game Conversational Recommendation via Multi-Agent Decomposition](https://arxiv.org/abs/2504.20094) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [Complexity counts: global and local perspectives on Indo-Aryan numeral systems](https://arxiv.org/abs/2505.21510) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [A Multi-faceted Analysis of Cognitive Abilities: Evaluating Prompt Methods with Large Language Models on the CONSORT Checklist](https://arxiv.org/abs/2510.19139) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-02-26 [StoryTailor:A Zero-Shot Pipeline for Action-Rich Multi-Subject Visual Narratives](https://arxiv.org/abs/2602.21273) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [HorizonForge: Driving Scene Editing with Any Trajectories and Any Vehicles](https://arxiv.org/abs/2602.21333) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Scaling View Synthesis Transformers](https://arxiv.org/abs/2602.21341) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Momentum Memory for Knowledge Distillation in Computational Pathology](https://arxiv.org/abs/2602.21395) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [FlowFixer: Towards Detail-Preserving Subject-Driven Generation](https://arxiv.org/abs/2602.21402) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Exploring Vision-Language Models for Open-Vocabulary Zero-Shot Action Segmentation](https://arxiv.org/abs/2602.21406) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [WildSVG: Towards Reliable SVG Generation Under Real-Word Conditions](https://arxiv.org/abs/2602.21416) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Automating Timed Up and Go Phase Segmentation and Gait Analysis via the tugturn Markerless 3D Pipeline](https://arxiv.org/abs/2602.21425) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Synergizing Understanding and Generation with Interleaved Analyzing-Drafting Thinking](https://arxiv.org/abs/2602.21435) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Adversarial Robustness of Deep Learning-Based Thyroid Nodule Segmentation in Ultrasound](https://arxiv.org/abs/2602.21452) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Automatic Map Density Selection for Locally-Performant Visual Place Recognition](https://arxiv.org/abs/2602.21473) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Unified Unsupervised and Sparsely-Supervised 3D Object Detection by Semantic Pseudo-Labeling and Prototype Learning](https://arxiv.org/abs/2602.21484) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs](https://arxiv.org/abs/2602.21497) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow](https://arxiv.org/abs/2602.21499) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [AHAN: Asymmetric Hierarchical Attention Network for Identical Twin Face Verification](https://arxiv.org/abs/2602.21503) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Which Tool Response Should I Trust? Tool-Expertise-Aware Chest X-ray Agent with Multimodal Agentic Learning](https://arxiv.org/abs/2602.21517) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Pseudo-View Enhancement via Confidence Fusion for Unposed Sparse-View Reconstruction](https://arxiv.org/abs/2602.21535) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [IHF-Harmony: Multi-Modality Magnetic Resonance Images Harmonization using Invertible Hierarchy Flow Model](https://arxiv.org/abs/2602.21536) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [VasGuideNet: Vascular Topology-Guided Couinaud Liver Segmentation with Structural Contrastive Loss](https://arxiv.org/abs/2602.21539) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction](https://arxiv.org/abs/2602.21552) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [MultiAnimate: Pose-Guided Image Animation Made Extensible](https://arxiv.org/abs/2602.21581) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [SEF-MAP: Subspace-Decomposed Expert Fusion for Robust Multimodal HD Map Prediction](https://arxiv.org/abs/2602.21589) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [CADC: Content Adaptive Diffusion-Based Generative Image Compression](https://arxiv.org/abs/2602.21591) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [A Hidden Semantic Bottleneck in Conditional Embeddings of Diffusion Transformers](https://arxiv.org/abs/2602.21596) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Virtual Biopsy for Intracranial Tumors Diagnosis on MRI](https://arxiv.org/abs/2602.21613) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Tokenizing Semantic Segmentation with RLE](https://arxiv.org/abs/2602.21627) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [UniHand: A Unified Model for Diverse Controlled 4D Hand Motion Modeling](https://arxiv.org/abs/2602.21631) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Axial-Centric Cross-Plane Attention for 3D Medical Image Classification](https://arxiv.org/abs/2602.21636) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis](https://arxiv.org/abs/2602.21637) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Lie Flow: Video Dynamic Fields Modeling and Predicting with Lie Algebra as Geometric Physics Principle](https://arxiv.org/abs/2602.21645) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [CCCaption: Dual-Reward Reinforcement Learning for Complete and Correct Image Captioning](https://arxiv.org/abs/2602.21655) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Following the Diagnostic Trace: Visual Cognition-guided Cooperative Network for Chest X-Ray Diagnosis](https://arxiv.org/abs/2602.21657) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [HybridINR-PCGC: Hybrid Lossless Point Cloud Geometry Compression Bridging Pretrained Model and Implicit Neural Representation](https://arxiv.org/abs/2602.21662) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Send Less, Perceive More: Masked Quantized Point Cloud Communication for Loss-Tolerant Collaborative Perception](https://arxiv.org/abs/2602.21667) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Space-Time Forecasting of Dynamic Scenes with Motion-aware Gaussian Grouping](https://arxiv.org/abs/2602.21668) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [E-comIQ-ZH: A Human-Aligned Dataset and Benchmark for Fine-Grained Evaluation of E-commerce Posters with Chain-of-Thought](https://arxiv.org/abs/2602.21698) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [SF3D-RGB: Scene Flow Estimation from Monocular Camera and Sparse LiDAR](https://arxiv.org/abs/2602.21699) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Dynamic Multimodal Activation Steering for Hallucination Mitigation in Large Vision-Language Models](https://arxiv.org/abs/2602.21704) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [SurGo-R1: Benchmarking and Modeling Contextual Reasoning for Operative Zone in Surgical Video](https://arxiv.org/abs/2602.21706) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Assessing airborne laser scanning and aerial photogrammetry for deep learning-based stand delineation](https://arxiv.org/abs/2602.21709) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Innovative Tooth Segmentation Using Hierarchical Features and Bidirectional Sequence Modeling](https://arxiv.org/abs/2602.21712) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](https://arxiv.org/abs/2602.21716) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [SigVLP: Sigmoid Volume-Language Pre-Training for Self-Supervised CT-Volume Adaptive Representation Learning](https://arxiv.org/abs/2602.21735) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation](https://arxiv.org/abs/2602.21740) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization](https://arxiv.org/abs/2602.21743) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [LiREC-Net: A Target-Free and Learning-Based Network for LiDAR, RGB, and Event Calibration](https://arxiv.org/abs/2602.21754) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling](https://arxiv.org/abs/2602.21760) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [SAPNet++: Evolving Point-Prompted Instance Segmentation with Semantic and Spatial Awareness](https://arxiv.org/abs/2602.21762) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [From Statics to Dynamics: Physics-Aware Image Editing with Latent Transition Priors](https://arxiv.org/abs/2602.21778) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Beyond Static Artifacts: A Forensic Benchmark for Video Deepfake Reasoning in Vision Language Models](https://arxiv.org/abs/2602.21779) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression](https://arxiv.org/abs/2602.21780) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [GeoMotion: Rethinking Motion Segmentation via Latent 4D Geometry](https://arxiv.org/abs/2602.21810) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model](https://arxiv.org/abs/2602.21818) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [SemVideo: Reconstructs What You Watch from Brain Activity via Hierarchical Semantic Guidance](https://arxiv.org/abs/2602.21819) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Joint Shadow Generation and Relighting via Light-Geometry Interaction Maps](https://arxiv.org/abs/2602.21820) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [StoryMovie: A Dataset for Semantic Alignment of Visual Stories with Movie Scripts and Subtitles](https://arxiv.org/abs/2602.21829) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [UniVBench: Towards Unified Evaluation for Video Foundation Models](https://arxiv.org/abs/2602.21835) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Meta-FC: Meta-Learning with Feature Consistency for Robust and Generalizable Watermarking](https://arxiv.org/abs/2602.21849) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Understanding Annotation Error Propagation and Learning an Adaptive Policy for Expert Intervention in Barrett's Video Segmentation](https://arxiv.org/abs/2602.21855) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [How to Take a Memorable Picture? Empowering Users with Actionable Feedback](https://arxiv.org/abs/2602.21877) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion](https://arxiv.org/abs/2602.21893) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [UNet-Based Keypoint Regression for 3D Cone Localization in Autonomous Racing](https://arxiv.org/abs/2602.21904) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [TIRAuxCloud: A Thermal Infrared Dataset for Day and Night Cloud Detection](https://arxiv.org/abs/2602.21905) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Protein Graph Neural Networks for Heterogeneous Cryo-EM Reconstruction](https://arxiv.org/abs/2602.21915) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Scan Clusters, Not Pixels: A Cluster-Centric Paradigm for Efficient Ultra-high-definition Image Restoration](https://arxiv.org/abs/2602.21917) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context](https://arxiv.org/abs/2602.21929) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [A Framework for Cross-Domain Generalization in Coronary Artery Calcium Scoring Across Gated and Non-Gated Computed Tomography](https://arxiv.org/abs/2602.21935) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Directed Ordinal Diffusion Regularization for Progression-Aware Diabetic Retinopathy Grading](https://arxiv.org/abs/2602.21942) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Mobile-Ready Automated Triage of Diabetic Retinopathy Using Digital Fundus Images](https://arxiv.org/abs/2602.21943) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Learning to Fuse and Reconstruct Multi-View Graphs for Diabetic Retinopathy Grading](https://arxiv.org/abs/2602.21944) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [MindDriver: Introducing Progressive Multimodal Reasoning for Autonomous Driving](https://arxiv.org/abs/2602.21952) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Global-Local Dual Perception for MLLMs in High-Resolution Text-Rich Image Translation](https://arxiv.org/abs/2602.21956) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Global-Aware Edge Prioritization for Pose Graph Initialization](https://arxiv.org/abs/2602.21963) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters](https://arxiv.org/abs/2602.21977) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images](https://arxiv.org/abs/2602.21987) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning](https://arxiv.org/abs/2602.21992) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations](https://arxiv.org/abs/2602.22013) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Olbedo: An Albedo and Shading Aerial Dataset for Large-Scale Outdoor Environments](https://arxiv.org/abs/2602.22025) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [RGB-Event HyperGraph Prompt for Kilometer Marker Recognition based on Pre-trained Foundation Models](https://arxiv.org/abs/2602.22026) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [RT-RMOT: A Dataset and Framework for RGB-Thermal Referring Multi-Object Tracking](https://arxiv.org/abs/2602.22033) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [SPGen: Stochastic scanpath generation for paintings using unsupervised domain adaptation](https://arxiv.org/abs/2602.22049) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [AutoSew: A Geometric Approach to Stitching Prediction with Graph Neural Networks](https://arxiv.org/abs/2602.22052) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training](https://arxiv.org/abs/2602.22059) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [AdaSpot: Spend Resolution Where It Matters for Precise Event Spotting](https://arxiv.org/abs/2602.22073) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos](https://arxiv.org/abs/2602.22091) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Overview of the CXR-LT 2026 Challenge: Multi-Center Long-Tailed and Zero Shot Chest X-ray Classification](https://arxiv.org/abs/2602.22092) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [WeatherCity: Urban Scene Reconstruction with Controllable Multi-Weather Transformation](https://arxiv.org/abs/2602.22096) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Brain3D: Brain Report Automation via Inflated Vision Transformers in 3D](https://arxiv.org/abs/2602.22098) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [GeoDiv: Framework For Measuring Geographical Diversity In Text-To-Image Models](https://arxiv.org/abs/2602.22120) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [WeaveTime: Stream from Earlier Frames into Emergent Memory in VideoLLMs](https://arxiv.org/abs/2602.22142) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [MedTri: A Platform for Structured Medical Report Normalization to Enhance Vision-Language Pretraining](https://arxiv.org/abs/2602.22143) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [CoLoGen: Progressive Learning of Concept`-`Localization Duality for Unified Image Generation](https://arxiv.org/abs/2602.22150) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [CASR: A Robust Cyclic Framework for Arbitrary Large-Scale Super-Resolution with Distribution Alignment and Self-Similarity Awareness](https://arxiv.org/abs/2602.22159) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Mixed Magnification Aggregation for Generalizable Region-Level Representations in Computational Pathology](https://arxiv.org/abs/2602.22176) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes](https://arxiv.org/abs/2602.22197) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Solaris: Building a Multiplayer Video World Model in Minecraft](https://arxiv.org/abs/2602.22208) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos](https://arxiv.org/abs/2602.22209) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences](https://arxiv.org/abs/2602.22212) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [RelA-Diffusion: Relativistic Adversarial Diffusion for Multi-Tracer PET Synthesis from Multi-Sequence MRI](https://arxiv.org/abs/2602.21345) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Perceptual Quality Optimization of Image Super-Resolution](https://arxiv.org/abs/2602.21482) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control](https://arxiv.org/abs/2602.21599) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Self-Correcting VLA: Online Action Refinement via Sparse World Imagination](https://arxiv.org/abs/2602.21633) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Dream-SLAM: Dreaming the Unseen for Active SLAM in Dynamic Environments](https://arxiv.org/abs/2602.21967) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [World Guidance: World Modeling in Condition Space for Action Generation](https://arxiv.org/abs/2602.22010) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Lumosaic: Hyperspectral Video via Active Illumination and Coded-Exposure Pixels](https://arxiv.org/abs/2602.22140) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning](https://arxiv.org/abs/2405.19684) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Measuring the Measurers: Quality Evaluation of Hallucination Benchmarks for Large Vision-Language Models](https://arxiv.org/abs/2406.17115) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [PoseAdapt: Sustainable Human Pose Estimation via Continual Learning Benchmarks and Toolkit](https://arxiv.org/abs/2409.20469) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Grounding-IQA: Grounding Multimodal Language Model for Image Quality Assessment](https://arxiv.org/abs/2411.17237) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Unified Reward Model for Multimodal Understanding and Generation](https://arxiv.org/abs/2503.05236) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [TRACE: Your Diffusion Model is Secretly an Instance Edge Detector](https://arxiv.org/abs/2503.07982) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation](https://arxiv.org/abs/2504.14249) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Twin Co-Adaptive Dialogue for Progressive Image Generation](https://arxiv.org/abs/2504.14868) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Identifying Memorization of Diffusion Models through $p$-Laplace Analysis: Estimators, Bounds and Applications](https://arxiv.org/abs/2505.08246) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models](https://arxiv.org/abs/2505.19610) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Learning What Matters: Prioritized Concept Learning via Relative Error-driven Sample Selection](https://arxiv.org/abs/2506.01085) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Capturing Stable HDR Videos Using a Dual-Camera System](https://arxiv.org/abs/2507.06593) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Training-free Mixed-Resolution Latent Upsampling for Spatially Accelerated Diffusion Transformers](https://arxiv.org/abs/2507.08422) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [LLaDA-MedV: Exploring Large Language Diffusion Models for Biomedical Image Understanding](https://arxiv.org/abs/2508.01617) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Voxel Densification for Serialized 3D Object Detection: Mitigating Sparsity via Pre-serialization Expansion](https://arxiv.org/abs/2508.16069) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Variation-aware Vision Token Dropping for Faster Large Vision-Language Models](https://arxiv.org/abs/2509.01552) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation](https://arxiv.org/abs/2509.22548) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Uncovering Grounding IDs: How External Cues Shape Multimodal Binding](https://arxiv.org/abs/2509.24072) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Hallucination Filtering in Radiology Vision-Language Models Using Discrete Semantic Entropy](https://arxiv.org/abs/2510.09256) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark](https://arxiv.org/abs/2510.13759) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [MUGSQA: Novel Multi-Uncertainty-Based Gaussian Splatting Quality Assessment Method, Dataset, and Benchmarks](https://arxiv.org/abs/2511.06830) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding](https://arxiv.org/abs/2511.08480) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Seeing the Forest and the Trees: Query-Aware Tokenizer for Long-Video Multimodal Language Models](https://arxiv.org/abs/2511.11910) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [RobustGait: Robustness Analysis for Appearance Based Gait Recognition](https://arxiv.org/abs/2511.13065) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [MIRA: Multimodal Iterative Reasoning Agent for Image Editing](https://arxiv.org/abs/2511.21087) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning](https://arxiv.org/abs/2512.08639) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [PD-VLA: Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding](https://arxiv.org/abs/2503.02310) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Transformer-based cardiac substructure segmentation from contrast and non-contrast computed tomography for radiotherapy planning](https://arxiv.org/abs/2505.10855) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [InsightX Agent: An LMM-based Agentic Framework with Integrated Tools for Reliable X-ray NDT Analysis](https://arxiv.org/abs/2507.14899) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [PRISM: Programmatic Reasoning with Image Sequence Manipulation for LVLM Jailbreaking](https://arxiv.org/abs/2507.21540) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [Lang2Lift: A Language-Guided Autonomous Forklift System for Outdoor Industrial Pallet Handling](https://arxiv.org/abs/2508.15427) *(arXiv cs.CV (Computer Vision))*
+- [ ] 2026-02-26 [JFEスチールが計2億ステップの基幹システムをオープン化、5年2カ月で完遂](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11530/) *(日経クロステック IT)*
+- [ ] 2026-02-26 [NVIDIA、25年11月～26年1月期は7割増収　次世代GPUの量産は「予定通り」](https://xtech.nikkei.com/atcl/nxt/news/24/03111/) *(日経クロステック IT)*
+- [ ] 2026-02-26 [声優の梶裕貴さんが独立　新会社立ち上げ、音声AIプロジェクト「そよぎフラクタル」に注力](https://www.itmedia.co.jp/news/articles/2602/26/news113.html) *(ITmedia AI＋)*
+- [ ] 2026-02-26 [最新の動画生成AI、映像の現場でどう使う？　Sora 2、Seedance 2.0、Kling O1を比較テストしてみた](https://www.itmedia.co.jp/news/articles/2602/26/news065.html) *(ITmedia AI＋)*
+- [ ] 2026-02-26 [M-1王者「たくろう」、Googleのジェームズ（実在）から手紙をもらう　コラボCMも公開](https://www.itmedia.co.jp/aiplus/articles/2602/26/news103.html) *(ITmedia AI＋)*
+- [ ] 2026-02-26 [Google、フィジカルAIのIntrinsicを傘下に　「ロボット版Android」の実現に向けて](https://www.itmedia.co.jp/news/articles/2602/26/news081.html) *(ITmedia AI＋)*
+- [ ] 2026-02-26 [Perplexityが19のAIモデルに作業をルーティングできる汎用デジタルワーカー「Perplexity Computer」をリリース](https://gigazine.net/news/20260226-perplexity-computer/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-26 [中国当局者がチャットGPTに残した記録から世界的な威嚇工作が明らかに　高市首相の中傷も画策](https://www.cnn.co.jp/world/35244331.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-26 [GitHub Copilot CLI is now generally available - GitHub Changelog](https://github.blog/changelog/2026-02-25-github-copilot-cli-is-now-generally-available/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-26 [ホスピタリティ業界NO.1のAIカンパニーへ、1/100ではなく“100倍の組織”をつくる｜NOT A HOTEL inc.](https://note.com/notahotel_inc/n/n34541751820c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-26 [ChatGPT、既存ドル建てユーザーは“契約打ち切り”で円建て払いに　最上位「Pro」なら約4000円の値下げ（ITmedia NEWS） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/735cccbd41bf6154fce6370a4ad4967243fe9a0e) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-26 [Inceptionが世界最速の拡散モデルベース推論LLM「Mercury 2」を発表](https://gigazine.net/news/20260225-inception-mercury-2/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-02-26 [バッファロー、ブルーレイドライブ販売終了、7月予定。「後継機種はない」](https://av.watch.impress.co.jp/docs/news/2088742.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [ローカル HTTPS 開発専用ツール SPTTH を公開した \| blog.jxck.io](https://blog.jxck.io/entries/2026-02-25/sptth.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [【スゴ本】知らないと現場が燃え尽きる。システム障害対応で本当に優先すべき5つのこと \| レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/column/detail_813/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [「e-Tax」一時ログインしづらく　確定申告期間中に……「毎年恒例」「何とかして」](https://www.itmedia.co.jp/news/articles/2602/26/news079.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [良い記事は、非合理である──AI時代のメディアのあり方を、電ファミの10年をふり返りながら考える](https://news.denfaminicogamer.jp/kikakuthetower/260226a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [ROXXに入社して「Spotifyモデル」に出会ったら、開発スピードの次元が違った話 〜AI駆動型開発チームの挑戦〜 - ROXX開発者ブログ](https://techblog.roxx.co.jp/entry/2026/02/26/090401) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [エレコムが半固体電池のモバイルバッテリーで他社に出遅れた理由　「超安全を考えていたら……」](https://www.itmedia.co.jp/news/articles/2602/25/news140.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [「Firefox 148」が正式公開、内蔵のAI機能をまとめて無効にできるように／セキュリティ関連の修正は51件](https://forest.watch.impress.co.jp/docs/news/2088350.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [三菱UFJ銀行におけるエンタープライズAI駆動開発のリアル / Enterprise AI_Driven Development at MUFG Bank: The Real Story](https://speakerdeck.com/muit/enterprise-ai-driven-development-at-mufg-bank-the-real-story?slide=18) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [東京ガスのアジャイル内製化──チームに熱量が生まれる、再現性のあるプロセス - Agile Journey](https://agilejourney.uzabase.com/entry/2026/02/26/103000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [【後編】「で、"結局"今どんな状況なの？」と言われたとき、あなたの報告はまだ“報告”になっていない - Qiita](https://qiita.com/hitomin_poke/items/c66354eda2dbb749207f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [Meta幹部、AIによる受信トレイ全削除事件に見舞われる](https://www.gizmodo.jp/2026/02/meta-exec-learns-the-hard-way-that-ai-can-just-delete-your-stuff.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [バッファロー、BDドライブを2026年7月で販売終了](https://pc.watch.impress.co.jp/docs/news/2088772.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-02-26 [AIエージェントがツールを使う仕組み——外部API・関数呼び出しの設計と実装](https://zenn.dev/shona_zenn/articles/ai-agent-tool-use-and-api) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [AIエージェントの評価とテスト——品質を担保するための実践的アプローチ](https://zenn.dev/shona_zenn/articles/ai-agent-evaluation-and-testing) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [国立国会図書館がGPU不要の軽量OCR「NDLOCR-Lite」を公開 -- 実際に試してみた](https://zenn.dev/wfukatsu/articles/a5264a1015ede2) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [【Log】AIとの対話で学ぶ：エラー解消デバッグの思考プロセス](https://zenn.dev/kotajobs0/articles/log-2026-02-25_212448) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [【Log】AIとの対話で学ぶ：リファクタリング](https://zenn.dev/kotajobs0/articles/log-2026-02-22_110503) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [【Log】AIとの対話で学ぶ：リファクタリング](https://zenn.dev/kotajobs0/articles/log-2026-02-20_211531) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [Naive RAG vs 進化系RAGを比較してみた](https://zenn.dev/lluminai_tech/articles/b6e7ed2922ea0c) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [『セルから世界へ――Life Gameからパックマン、そしてWorld Modelまでの世界生成シミュレーション入門』](https://zenn.dev/oggata/books/3292719f0bfe50) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [Claude Code Remote Control は外部からローカルへの穴を開けるのか？通信を観察して確かめた](https://zenn.dev/aromarious/articles/20260226-claude-code-remote-control-security) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [Claude Codeのメモリ機能を整理する](https://zenn.dev/aria3/articles/claude-code-memory-strategy) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [Claude’s Constitution　日本語訳](https://zenn.dev/j_m/books/913ff3873c834c) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [Claude Codeの「昨日の続き」を一瞬で再開する技](https://zenn.dev/sora_biz/articles/claude-code-session-management) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [Claude Codeのコストを半分にした7つの設定](https://zenn.dev/sora_biz/articles/claude-code-cost-optimization-advanced) *(Zenn – トピック AI)*
+- [ ] 2026-02-26 [「やめとこ」がなくなった — 登壇で話しきれなかった3つのエピソード](https://zenn.dev/atani/articles/ai-cocreation-lt-fukuoka-2026) *(Zenn – トピック AI)*
+- [ ] 2026-02-25 [AIと30時間対話したら、対話そのものが崩壊した話 — そして見えた「思考の構造」おまけ２](https://zenn.dev/continuitymodel/articles/67bd80620888d0) *(Zenn – トピック AI)*
+- [ ] 2026-02-25 [AIと30時間対話したら、対話そのものが崩壊した話 — そして見えた「思考の構造」おまけ](https://zenn.dev/continuitymodel/articles/85336e236bd79e) *(Zenn – トピック AI)*
+- [ ] 2026-02-25 [スマホからスキマ時間で開発するためにClaude Code専用のSSHターミナルアプリを作った話](https://zenn.dev/hagakun_dev/articles/ba887b4f652b69) *(Zenn – トピック AI)*
+- [ ] 2026-02-25 [AIコーディングツールが、次元を超えた日](https://zenn.dev/hw_to_ai/articles/08ccfbdc51aa52) *(Zenn – トピック AI)*
+- [ ] 2026-02-25 [AI生成コードの45%に脆弱性 — Vibe Codingを安全に使う方法](https://zenn.dev/kg_filled/articles/5f9c5226345207) *(Zenn – トピック AI)*
+- [ ] 2026-02-25 [【論文紹介】Googleの動画生成エージェントの研究](https://zenn.dev/eques/articles/1ec4c3b6d93ce9) *(Zenn – トピック AI)*
