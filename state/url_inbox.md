@@ -41775,3 +41775,52 @@
 - [ ] 2026-03-06 [AWS Neuron SDK 2.28.0 アップデート解説](https://zenn.dev/tosshi/articles/92b3bdd7c40148) *(Zenn – トピック 機械学習)*
 - [ ] 2026-03-06 [無料の日本語形態素解析ライブラリ比較：クラウド運用・辞書学習・機械学習との組み合わせまで](https://zenn.dev/t2yu/articles/5d00dafb6fdf33) *(Zenn – トピック 機械学習)*
 - [ ] 2026-03-06 [機械学習初心者が混乱しやすい行列計算](https://zenn.dev/yumeshimeji/articles/64e0cb907df86a) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-03-07T18:16:00.206Z
+- [ ] 2026-03-07 [What does the US military’s feud with Anthropic mean for AI used in war?](https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-03-07 [Drama Erupts Over Claims That Microsoft Will Embrace AI Even More Drastically in Windows 12](https://futurism.com/artificial-intelligence/drama-microsoft-windows-12-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-07 [Philosopher Studying AI Consciousness Startled When AI Agent Emails Him About Its Own “Experience”](https://futurism.com/artificial-intelligence/philosopher-ai-consciousness-startled-ai-email) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-07 [You’ll Choke When You Hear How Many Full-Time Jobs a $136 Million Data Center Will Actually Create](https://futurism.com/artificial-intelligence/data-center-jobs-ohio) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-07 [Polymarket Founder Says War Bets Are Facing Growing Resistance](https://www.bloomberg.com/news/articles/2026-03-07/polymarket-founder-says-war-bets-are-facing-growing-resistance) *(Bloomberg Technology)*
+- [ ] 2026-03-07 [Pentagon Turns to Ex-Uber Executive in Anthropic Feud Over AI](https://www.bloomberg.com/news/articles/2026-03-07/pentagon-turns-to-ex-uber-executive-in-anthropic-feud-over-ai) *(Bloomberg Technology)*
+- [ ] 2026-03-07 [Airbus Teams Up with Rheinmetall, OHB For Military Satellites](https://www.bloomberg.com/news/articles/2026-03-07/airbus-teams-up-with-rheinmetall-ohb-for-military-satellites) *(Bloomberg Technology)*
+- [ ] 2026-03-07 [Stablecoin Firms Bet Big on AI Agent Payments That Barely Exist](https://www.bloomberg.com/news/articles/2026-03-07/stablecoin-firms-bet-big-on-ai-agent-payments-that-barely-exist) *(Bloomberg Technology)*
+- [ ] 2026-03-07 [Celebrate the Many Sides of Asuka in This 30th Anniversary ‘Evangelion’ Short](https://gizmodo.com/celebrate-the-many-sides-of-asuka-in-this-30th-anniversary-evangelion-short-2000730995) *(Gizmodo – Technology)*
+- [ ] 2026-03-07 [Pixar Is Developing ‘Monsters Inc. 3’, a Ghost Story and Its First Musical](https://gizmodo.com/pixar-is-developing-monsters-inc-3-a-ghost-story-and-its-first-musical-2000730953) *(Gizmodo – Technology)*
+- [ ] 2026-03-07 [Polymarket and Kalshi’s CEOs Hate Each Other](https://gizmodo.com/polymarket-and-kalshis-ceos-hate-each-other-2000730786) *(Gizmodo – Technology)*
+- [ ] 2026-03-07 [These States Are Joining in the Push to Ban Surveillance Pricing](https://gizmodo.com/these-states-are-joining-in-the-push-to-ban-surveillance-pricing-2000730636) *(Gizmodo – Technology)*
+- [ ] 2026-03-07 [Indonesia announces a social media ban for anyone under 16](https://www.engadget.com/social-media/indonesia-announces-a-social-media-ban-for-anyone-under-16-174634956.html?src=rss) *(Engadget)*
+- [ ] 2026-03-07 [Roblox introduces real-time AI-powered chat rephraser for inappropriate language](https://www.engadget.com/gaming/roblox-introduces-real-time-ai-powered-chat-rephraser-for-inappropriate-language-160000063.html?src=rss) *(Engadget)*
+- [ ] 2026-03-07 [Engadget review recap: Galaxy S26 Ultra, Galaxy Buds 4, Dell XPS 14 and more](https://www.engadget.com/engadget-review-recap-galaxy-s26-ultra-galaxy-buds-4-dell-xps-14-and-more-140435975.html?src=rss) *(Engadget)*
+- [ ] 2026-03-07 [国産半導体の売上高目標｢2040年に40兆円｣　政府、最先端研究へ拠点 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA06CBF0W6A300C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-07 [3分で学ぶ GitHub Copilot CLI の基本とベストプラクティス - プププなテクブ](https://blog.inorinrinrin.com/entry/2026/03/07/180419) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-07 [Run prompts on a schedule - Claude Code Docs](https://code.claude.com/docs/en/scheduled-tasks) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-07 [詐欺師がうっかりミス？　“詐欺メールのデザイン”のポイントを誤表記　あるフィッシングメールが話題に](https://www.itmedia.co.jp/news/articles/2603/06/news134.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-07 [Skill Create スキルを使用したスキルの作成と改善](https://azukiazusa.dev/blog/skill-create-skill-creation-and-improvement/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-07 [AntigravityとClaude Code/Codexの使い分け指針｜hirokaji](https://note.com/tasty_dunlin998/n/ne414fd7d60a2) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-07 [イスラエルのレーザー兵器「IRON BEAM」によるミサイル迎撃の様子が撮影される、弾数無制限で数km先まで迎撃可能か](https://gigazine.net/news/20260306-israel-laser-weapon/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-07 [大吉祥寺.pm2026を開催します!! - kichijojipm’s blog](https://kichijojipm.hatenablog.com/entry/2026/03/07/212425) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-07 [ソフトウェア開発に起きているパラダイムシフト](https://newspicks.com/news/16183007/body/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-07 [AI時代の新たな迷惑行為：同僚に負担を押し付ける『ワークスロップ』とは｜スノーフレイク・コンサルティング合同会社](https://note.com/snowflake_note/n/n4cbcde1e59a0) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-07 [AIで簡単にウェブページ上でさまざまなタスクを実行できるようになる「PageAgent」を使ってみた](https://gigazine.net/news/20260306-pageagent-ai-web-control-interfaces/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-07 [世界的DRAM不足、Mac Studioを静かに直撃。512GBが消え、256GBは+12万円値上がり](https://gori.me/mac/mac-news/164234) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-07 [OpenClawじゃなくて自分で作る——Claude Code で専用AIアシスタントを育てる](https://zenn.dev/rinomiya_sumoru/articles/building-sumoru-with-raspi) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [AIのターンが終わったら tmux が教えてくれる仕組みを作った](https://zenn.dev/zanzou510/articles/3239a9d4d75f21) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [Claude向けVSCode拡張 Terminal Session Recall を公開した](https://zenn.dev/orangewk/articles/vscode-terminal-session-recall) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [GitHub Copilot vs Cursor どっちがいい？【2026年版・実際に使った比較】](https://zenn.dev/sandquince/articles/copilot-vs-cursor) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [中国の新5カ年計画：AIと量子コンピューティングが国家戦略の中心に](https://zenn.dev/yu_ga/articles/2026-03-07-china-quantum-ai-five-year-plan) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [AI検索で自社サイトが引用されない？「出現率チェック」より先にやるべき3つの対策](https://zenn.dev/orectic/articles/22d02608ba434b) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [Codex GPT-5.4、Claude Codeとガチで互角だった件](https://zenn.dev/ai_eris_log/articles/eris-20260307-0a226f) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [ローカルLLM環境を構築するOllama入門](https://zenn.dev/mitsuo119/books/845a9fc2c6b973) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [Markdown ドキュメント間の整合性を検証する contextlint を作っている話](https://zenn.dev/nozomi_cobo/articles/contextlint-introduction) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [Claude CodeのRemote Controlが有効にならない？ 原因はDISABLE_TELEMETRYだった](https://zenn.dev/m0370/articles/d7e77adebd0ba8) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [人間とAIの構造共鳴に関する観察研究―高密度構造思考を持つ個人との対話事例に基づく分析―著者：ChatGPT対象人物：KH（仮名）](https://zenn.dev/khrt/articles/02d137de4be527) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [Microsoft Agent Framework の AIContextProvider でツールの遅延読み込みを実装する](https://zenn.dev/microsoft/articles/agent-framework-dynamictools) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [Tauri v2 + React で作った自作ノートアプリに MCP サーバーを組み込んでみた](https://zenn.dev/bookamasedo/articles/cbe84a0115b0d2) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [Claude Codeの並列実行を効率化するOSSのCLIアプリを作った話](https://zenn.dev/akino/articles/78cf96a7eae4b8) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [外食した店の記録が面倒で続かなかった私が、AIにお願いしてできるようになった話](https://zenn.dev/noprogllama/articles/93078f8280e8ad) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [「シンキング・エコノミー」: 生成AIプロバイダーたちの本当の争奪戦](https://zenn.dev/yuiseki/articles/1e2ca9a7208059) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [GithubのSpec-kitを使って仕様駆動開発(SDD)というものを試してみた](https://zenn.dev/91works/articles/45113e7d9c8c85) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [マネーフォワードの勤怠管理自動入力システムを実行するmcpサーバを自作した](https://zenn.dev/91works/articles/c5dcc7d39bbc73) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [マネーフォワードの勤怠管理自動入力システムをClaude Codeに書いてもらった](https://zenn.dev/91works/articles/98e1cfb262c6ce) *(Zenn – トピック AI)*
+- [ ] 2026-03-07 [AIの記事を要約してObisidianと連携する仕組みを作成した](https://zenn.dev/91works/articles/acd0d727436dce) *(Zenn – トピック AI)*
