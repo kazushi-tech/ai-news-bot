@@ -41824,3 +41824,93 @@
 - [ ] 2026-03-07 [マネーフォワードの勤怠管理自動入力システムを実行するmcpサーバを自作した](https://zenn.dev/91works/articles/c5dcc7d39bbc73) *(Zenn – トピック AI)*
 - [ ] 2026-03-07 [マネーフォワードの勤怠管理自動入力システムをClaude Codeに書いてもらった](https://zenn.dev/91works/articles/98e1cfb262c6ce) *(Zenn – トピック AI)*
 - [ ] 2026-03-07 [AIの記事を要約してObisidianと連携する仕組みを作成した](https://zenn.dev/91works/articles/acd0d727436dce) *(Zenn – トピック AI)*
+
+## Collected on 2026-03-08T12:20:24.217Z
+- [ ] 2026-03-08 [AI chatbots point vulnerable social media users to illegal online casinos, analysis shows](https://www.theguardian.com/technology/2026/mar/08/ai-chatbots-point-vulnerable-to-online-casinos-gambling-addiction-uk) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-03-08 [ChatGPT driving rise in reports of ‘satanic’ organised ritual abuse, UK experts say](https://www.theguardian.com/technology/2026/mar/08/chatgpt-driving-rise-in-reports-of-satanic-organised-ritual-abuse-uk-experts-say) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-03-08 [Current and former Block workers say AI can’t do their jobs after Jack Dorsey’s mass layoffs: ‘You can’t really AI that’](https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-03-08 [Tech oligarchs reshape humanity while billionaires of old seem quaint](https://www.theguardian.com/technology/2026/mar/08/billionaires-tech-oligarchs) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-03-08 [AI Job Loss Is Breaking the Psyche of Workers, Psychiatrist Warns](https://futurism.com/artificial-intelligence/ai-unemployment-psychiatry) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-08 [Jack Dorsey Defends Wearing “Love” Hat While Firing 4,000 Employees in Pivot to AI](https://futurism.com/artificial-intelligence/jack-dorsey-love-hat-layoffs) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-08 [Corporate Adviser Says the Ideal Number of Human Employees at a Company Is Zero](https://futurism.com/artificial-intelligence/ai-company-zero-workers) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-07 [Manager at Associated Press Tells Journalists That Resistance to AI Is Futile](https://futurism.com/artificial-intelligence/manager-associated-resistance-ai-futile) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-07 [Entirely Vibe-Coded Operating System Is a Bug-Filled Disaster](https://futurism.com/artificial-intelligence/entirely-vibe-coded-operating-system-bug-filled-disaster) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-08 [Military AI Policy Needs Democratic Oversight](https://spectrum.ieee.org/military-ai-governance) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-03-08 [Apple ‘Ultra’ Products Expansion Is Up Next After MacBook Neo Launch](https://www.bloomberg.com/news/newsletters/2026-03-08/apple-to-expand-ultra-lines-after-599-macbook-neo-3d-printed-aluminum-imacs-mmhpa12d) *(Bloomberg Technology)*
+- [ ] 2026-03-07 [OpenAI’s Head of Robotics Resigns Over Company’s Pentagon Deal](https://www.bloomberg.com/news/articles/2026-03-07/openai-s-head-of-robotics-resigns-over-company-s-pentagon-deal) *(Bloomberg Technology)*
+- [ ] 2026-03-08 [An AI Company Apparently Inspired by ‘the Sims’ Wants to Revolutionize Public Opinion Research](https://gizmodo.com/an-ai-company-apparently-inspired-by-the-sims-wants-to-revolutionize-public-opinion-research-2000731038) *(Gizmodo – Technology)*
+- [ ] 2026-03-07 [How to Watch the F1 Australian GP 2026 Live Stream for Free](https://gizmodo.com/how-to-watch-the-f1-australian-gp-2026-live-stream-for-free-2000728326) *(Gizmodo – Technology)*
+- [ ] 2026-03-07 [There Was Just an Unusually Unsettling Pentagon-Related Resignation at OpenAI](https://gizmodo.com/there-was-just-an-unusually-unsettling-pentagon-related-resignation-at-openai-2000731036) *(Gizmodo – Technology)*
+- [ ] 2026-03-07 [Seeing Jabba the Hutt’s Son in ‘The Mandalorian & Grogu’ Is Breaking Me](https://gizmodo.com/seeing-jabba-the-hutts-son-in-the-mandalorian-grogu-is-breaking-me-2000730847) *(Gizmodo – Technology)*
+- [ ] 2026-03-07 [A Bizarre International War Inside One Chip Company Threatens the Global Automotive Industry](https://gizmodo.com/a-bizarre-international-war-inside-one-chip-company-threatens-the-global-automotive-industry-2000729914) *(Gizmodo – Technology)*
+- [ ] 2026-03-07 [‘Disclosure Day’ or Not, UFO Movies Never Left](https://gizmodo.com/disclosure-day-or-not-ufo-movies-never-left-2000730700) *(Gizmodo – Technology)*
+- [ ] 2026-03-07 [OpenAI is reportedly pushing back the launch of its 'adult mode' even further](https://www.engadget.com/ai/openai-is-reportedly-pushing-back-the-launch-of-its-adult-mode-even-further-213013801.html?src=rss) *(Engadget)*
+- [ ] 2026-03-07 [NASA's DART spacecraft changed a binary asteroid's orbit around the sun, in a first for a human-made object](https://www.engadget.com/science/space/nasas-dart-spacecraft-changed-a-binary-asteroids-orbit-around-the-sun-in-a-first-for-a-human-made-object-210529924.html?src=rss) *(Engadget)*
+- [ ] 2026-03-07 [OpenAI's head of robotics resigns following deal with the Department of Defense](https://www.engadget.com/ai/openais-head-of-robotics-resigns-following-deal-with-the-department-of-defense-195918777.html?src=rss) *(Engadget)*
+- [ ] 2026-03-08 [まだAIコードをレビューするか、しないかで言い争ってるの？](https://zenn.dev/nuits_jp/articles/2026-03-08-reviewing-ai-code) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-08 [南場智子「ますます“速さ”が命題に」DeNA AI Day2026全文書き起こし - エンジニアtype \| 転職type](https://type.jp/et/feature/30605/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-08 [GitHub - phuryn/pm-skills: PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.](https://github.com/phuryn/pm-skills) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-08 [AIで男女格差に拡大リスク　国際労働機関、報告書で警鐘（共同通信） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/e1b3ab0575f7c5fe59f6470e1668cbbce4c763dd) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-08 [「アーキテクチャ図はもう要らない」は本当か？ ── LLM時代のC4モデル再考](https://zenn.dev/uniquevision/articles/1ddf3a6ecb0ad7) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-08 [エンジニアがChatGPTを使いこなせていないかもしれない話 - Qiita](https://qiita.com/kamome_susume/items/e80b763797d073815710) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-08 [手動でのコーディングをやめていく際のメモ](https://zenn.dev/koyo_k0/articles/c4f90b2ff722e0) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-08 [みらい安野党首、イラン攻撃への見解問われ「答えを出すほど十分な情報が集まりきっていない」（日刊スポーツ） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/0d26f734e6b45f0ced88b98a10be2ef54960a55c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-08 [噂のノートPCのBIOSを調べた - えぬえす工房](https://www.ns-koubou.com/blog/2026/03/07/7430u-notebook/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [アーキテクチャ図、コードで書こう - C4モデル入門](https://zenn.dev/uniquevision/articles/625e00137b75af) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [超音波で高速振動。電動アシストで切れ味倍増するとんでもない包丁](https://www.gizmodo.jp/2026/03/seattle-ultrasonics-c200-kitchen-knife-94t.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [Firefoxがデザインの大幅な刷新を計画中：「Nova」が提示するUIの転換点とMozillaの決定的な焦燥 \| XenoSpectrum](https://xenospectrum.com/firefox-nova-redesign-ui-strategy/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [個人情報漏えいにつながる脆弱性を報告したら法的責任を示唆する文書が届いたとエンジニアが告白](https://gigazine.net/news/20260308-vulnerability-disclosure-lawyer-threat/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた - Qiita](https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [MacBook Neoに搭載されたA18 ProチップのNeural Engineを利用したAIスコアは、Apple M3チップを上回るもよう。](https://applech2.com/archives/20260307-macbook-neo-with-a18-pro-ai-benchmark.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [AWS×クラウドネイティブソフトウェア設計 / AWS x Cloud-Native Software Design](https://speakerdeck.com/nrslib/aws-x-cloud-native-software-design) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [Twitterとの決別――マスクはカエルを火炎放射器で丸焼きにした » p2ptk[.]org](https://p2ptk.org/digital-rights/5452) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [ClaudeCodeでマーケターの課題を解決する](https://speakerdeck.com/kenichiota0711/claudecodedemaketanoke-ti-wojie-jue-suru) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [「光速船」40年の時を越えて復活　一人のファンの夢から始まった“愛と情熱の物語“とは？](https://www.itmedia.co.jp/news/articles/2603/08/news020.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [【緊急投稿】輝く❕第二回 「47都道府県知事大賞」──でも最下位はまた…｜コレクター紳士・DJトーマス](https://note.com/thomasnano/n/n07acb0bb1683) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [SRE×セキュリティ合同『技術改善キャンプ』で、Terraformレビューの一部をAIに任せられないか考えた話 - 10X Product Blog](https://product.10x.co.jp/entry/2026/01/28/123137) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [【山田祥平のRe:config.sys】 バッテリは消耗品というやるせないモヤモヤ](https://pc.watch.impress.co.jp/docs/column/config/2091133.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [Home](https://c4model.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [RAGを構築しなくてもGeminiのGoogle Workspace連携で社内ドキュメント検索が実現できた話 \| DevelopersIO](https://dev.classmethod.jp/articles/gemini-workspace-search-instead-of-rag/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [Announcing TypeScript 6.0 RC - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [スターリンクのエリアマップで見る、世界の電波静穏領域｜星空を守るためのnote: 平松正顕](https://note.com/parsonii/n/n4200a4f2b599) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [初心者のLLMの仕組み学習](https://zenn.dev/youn66/articles/78f54dc3f51a64) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [HuggingFaceモデルリポジトリの設定ファイルを全部解説する](https://zenn.dev/motobrew/articles/245eb6e197c641) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [Mac StudioでローカルLLMをコーディングエージェントとして使う](https://zenn.dev/ryomac/articles/a4ffe452865a9b) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [LoRAマージ済みモデルにadapter_config.jsonが混入すると追加学習が壊れる話](https://zenn.dev/motobrew/articles/fdefe9cdfc6f5e) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [AIエージェントのためのインフラ：agent-resources (agr) の設計思想](https://zenn.dev/kafka2306/articles/9f9997babac335) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [AIエージェントを「動く」から「回る」に変える設計原則](https://zenn.dev/76hata/articles/ai-agent-continuous-operation-design) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [AIへの指示を16パターンに分類したら記事がブレなくなった](https://zenn.dev/yoshiki_ai/articles/article-template-16-patterns) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [Vibe Coding完全ガイド：AIに「雰囲気」で頼んでコードを書いてもらう新スタイル](https://zenn.dev/long910/articles/2026-03-08-vibe-coding) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [Claude、不調だったってホント？AIの「体調」をデバッグしてみた](https://zenn.dev/ai_eris_log/articles/eris-20260308-8c46ad) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [Zen Launcher. Building an Application Solo: A 40 Hour Journey with AI](https://zenn.dev/flp/articles/zen-launcher) *(Zenn – トピック LLM)*
+- [ ] 2026-03-07 [LLMに「締め切りは5日後」と伝えたら1日1タスクしかやらなくなった — 時間意識の実験](https://zenn.dev/seeda_yuto/articles/llm-temporal-planning-experiment) *(Zenn – トピック LLM)*
+- [ ] 2026-03-07 [Twins : M5Stack AI Pyramidを買ったらメモリの壁が立ちはだかった](https://zenn.dev/kinose/articles/438f66caca8411) *(Zenn – トピック LLM)*
+- [ ] 2026-03-07 [LangGraph入門：LLMを"チーム"として動かすマルチエージェント設計パターン](https://zenn.dev/biki/articles/langgraph-multi-agent-intro) *(Zenn – トピック LLM)*
+- [ ] 2026-03-07 [LangChainを学ぶ - 2. RAGによるデータのインデックス化](https://zenn.dev/hkazuki/articles/cc496f15553d1a) *(Zenn – トピック LLM)*
+- [ ] 2026-03-07 [Twinsプロジェクト　経緯](https://zenn.dev/kinose/articles/6dd93ddee35c37) *(Zenn – トピック LLM)*
+- [ ] 2026-03-07 [Claude CodeをOllama・vLLM・Anthropicで切り替える方法](https://zenn.dev/nooop/articles/d0cc884142f67c) *(Zenn – トピック LLM)*
+- [ ] 2026-03-07 [LangGraphで複数LLMを議論させる実験基盤を作った話](https://zenn.dev/sunyeul89/articles/c3198c122c8e7b) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [ラズパイで育てる！自分だけのAI【基礎編】② クレデンシャルが危ない理由](https://zenn.dev/mrkm86/articles/openclaw-basic-2) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [ラズパイで育てる！自分だけのAI【基礎編】⑩ よく使うコマンドまとめ](https://zenn.dev/mrkm86/articles/openclaw-basic-10) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [ラズパイで育てる！自分だけのAI【基礎編】① Dockerセットアップ](https://zenn.dev/mrkm86/articles/openclaw-basic-1) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [AIエージェントが脆弱性診断する時代のプロキシを作った](https://zenn.dev/usk6666/articles/yorishiro-proxy-introduction) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [Claude Codeを「専門家集団」に変えるEverything Claude Code（ECC）の全貌と使い方](https://zenn.dev/haboshi/articles/everything-claude-code-guide) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [コミットメッセージを任せたいときだけ任せる](https://zenn.dev/maruloop/articles/ae39d004d4aa58) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [Claude Code の Hooks で、.env などの機密ファイルを保護する](https://zenn.dev/zhaojiayi/articles/83431a9cf72487) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [Google Workspace CLIでGoogle Drive上のドキュメントを探して開くコマンドを作った](https://zenn.dev/ohimusdev46301/articles/091959ffda113f) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [git-aiというgit拡張を作った話](https://zenn.dev/kooooohe/articles/80dbea9d69fe37) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [Claude Code / Codexの弱点を解決するOSS「GSD」の設計が良かった](https://zenn.dev/komlock_lab/articles/gsd-guide-handson) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [Go で git worktree CLIツールを作ってみた ── ChatGPT でプロトタイプ、Claude Code でリアーキテクト](https://zenn.dev/s_takashi/articles/go-gitworktree-cli-app-wtx) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [落合陽一氏のvibe-localをWindowsで使う](https://zenn.dev/anko_20240223/articles/73eb30b324a8bd) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [GRSMDが進化したよ！AI出力 → [R]一発レビュー](https://zenn.dev/good_relax/articles/9e746caa566625) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [Windows上でCodexやClaudeCodeが文字化けをしないように指示する](https://zenn.dev/sfitb/articles/1e5c950df42146) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [Google Flow入門 — 画像・動画生成を統合したAIクリエイティブスタジオ](https://zenn.dev/kai_kou/articles/017-google-flow-ai-creative-studio-guide) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [AI Agent時代の新人教育：最初にAIを使わせない理由](https://zenn.dev/shizuku1984/articles/0329ffa7625122) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [Motia × Strands Agent SDKで作るAIエージェント開発入門](https://zenn.dev/mashharuki/articles/aws_strands_agent_motia-1) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [AI駆動開発のボトルネックは「設計」に移動した【前編】](https://zenn.dev/mayim/articles/24a5fb3a3f8497) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [MCP実践セキュリティ — 本番導入で躓かないための完全ガイド](https://zenn.dev/kenimo49/books/mcp-security-practice) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [AIに日付を教えるだけで、返信の質が変わる。](https://zenn.dev/h_s_dev/articles/420b3a16e86d21) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [【モデル編②】3モデル連携アーキテクチャ：競馬のプロセスを模倣する](https://zenn.dev/ricotiler/articles/keiba-ai-07-multi-model-architecture) *(Zenn – トピック 機械学習)*
+- [ ] 2026-03-07 [Constructing Differentiable Manifolds from Social Data](https://zenn.dev/etalecohomology/books/9f680ca9dddf2a) *(Zenn – トピック 機械学習)*
+- [ ] 2026-03-07 [社会データ幾何学 ― 可微分多様体で読み解く経済・政策シミュレーション](https://zenn.dev/etalecohomology/books/6ee0aa5077c648) *(Zenn – トピック 機械学習)*
+- [ ] 2026-03-07 [10年越しの「塩漬けC言語コード」を、Geminiに「全文コピペで」と頼み続けてFlutterに転生させた話](https://zenn.dev/hakoniwa_ai/articles/be58c81403d8e7) *(Zenn – トピック 機械学習)*
