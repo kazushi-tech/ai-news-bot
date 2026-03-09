@@ -41914,3 +41914,90 @@
 - [ ] 2026-03-07 [Constructing Differentiable Manifolds from Social Data](https://zenn.dev/etalecohomology/books/9f680ca9dddf2a) *(Zenn – トピック 機械学習)*
 - [ ] 2026-03-07 [社会データ幾何学 ― 可微分多様体で読み解く経済・政策シミュレーション](https://zenn.dev/etalecohomology/books/6ee0aa5077c648) *(Zenn – トピック 機械学習)*
 - [ ] 2026-03-07 [10年越しの「塩漬けC言語コード」を、Geminiに「全文コピペで」と頼み続けてFlutterに転生させた話](https://zenn.dev/hakoniwa_ai/articles/be58c81403d8e7) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-03-09T00:58:54.987Z
+- [ ] 2026-03-08 [AI allows hackers to identify anonymous social media accounts, study finds](https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-03-08 [The Supreme Court Just Dealt a Crushing Blow to “AI Artists”](https://futurism.com/artificial-intelligence/supreme-court-blow-ai-artists-copyright) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-08 [Study Finds That Execs Are Outsourcing Their Thinking to AI](https://futurism.com/artificial-intelligence/ai-executive-thinking-survey) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-08 [OpenAI’s Pivot Into Shopping Has Been a Disaster](https://futurism.com/artificial-intelligence/openai-pivot-into-shopping-disaster) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-08 [A Machine Learning Engineer Thought He Was Safe From AI Layoffs. Then He Got Some Depressing News](https://futurism.com/artificial-intelligence/machine-learning-engineer-safe-ai-layoffs) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-08 [Using AI to Do Your Taxes Is Likely to Backfire Spectacularly](https://futurism.com/artificial-intelligence/taxes-with-ai-disaster) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-09 [China’s ‘Smart Economy’ Push Spurs Hunt for New Stock Winners](https://www.bloomberg.com/news/articles/2026-03-09/china-s-smart-economy-push-spurs-hunt-for-new-stock-winners) *(Bloomberg Technology)*
+- [ ] 2026-03-08 [<strong>Why the AI Boom Will Make Phones, Cars and Electronics More Expensive</strong>](https://www.bloomberg.com/graphics/2026-ai-boom-memory-chip-shortage/) *(Bloomberg Technology)*
+- [ ] 2026-03-08 [Coming Soon, From the People Behind ICE Detention Camps: Data Center Company Towns](https://gizmodo.com/coming-soon-from-the-people-behind-ice-detention-camps-data-center-company-towns-2000731145) *(Gizmodo – Technology)*
+- [ ] 2026-03-08 [Spider-Man Gets Two New Comics for ‘Brand New Day’ Synergy](https://gizmodo.com/spider-man-gets-two-new-comics-for-brand-new-day-synergy-2000730740) *(Gizmodo – Technology)*
+- [ ] 2026-03-08 [Godzilla’s Early ‘Minus One’ Form Comes to Life in This Action Figure](https://gizmodo.com/godzillas-early-minus-one-form-comes-to-life-in-this-action-figure-2000731053) *(Gizmodo – Technology)*
+- [ ] 2026-03-08 [Report Says More High-End ‘Ultra’ Apple Products Are On Their Way](https://gizmodo.com/report-says-more-high-end-ultra-apple-products-are-on-their-way-2000731044) *(Gizmodo – Technology)*
+- [ ] 2026-03-08 [Pete Docter Defends Cutting LGBTQ Content From Pixar Movies With Cowardice](https://gizmodo.com/pete-docter-defends-cutting-lgbtq-content-from-pixar-movies-with-cowardice-2000731126) *(Gizmodo – Technology)*
+- [ ] 2026-03-08 [‘Dorohedoro’ Brings More Chaos With Season 2 in April](https://gizmodo.com/dorohedoro-brings-more-chaos-with-season-2-in-april-2000731068) *(Gizmodo – Technology)*
+- [ ] 2026-03-08 [NetEase is reportedly pulling funding for Yakuza creator's studio](https://www.engadget.com/gaming/netease-is-reportedly-pulling-funding-for-yakuza-creators-studio-182945690.html?src=rss) *(Engadget)*
+- [ ] 2026-03-08 [Apple is reportedly looking into 3D printing aluminum iPhones and Apple Watches](https://www.engadget.com/mobile/smartphones/apple-is-reportedly-looking-into-3d-printing-aluminum-iphones-and-apple-watches-163721491.html?src=rss) *(Engadget)*
+- [ ] 2026-03-08 [OpenAI's robotics hardware lead resigns following deal with the Department of Defense](https://www.engadget.com/ai/openais-robotics-hardware-lead-resigns-following-deal-with-the-department-of-defense-195918599.html?src=rss) *(Engadget)*
+- [ ] 2026-03-09 [有価証券をデータとして取引する「デジタル証券」、参加者で台帳を分散管理](https://xtech.nikkei.com/atcl/nxt/column/18/01679/020300268/) *(日経クロステック IT)*
+- [ ] 2026-03-09 [被災者の状況確認に「マイナンバーカード」を活用、実証の現場をリポート](https://xtech.nikkei.com/atcl/nxt/column/18/00086/00390/) *(日経クロステック IT)*
+- [ ] 2026-03-09 [担当1年目でも「知らなかった」では済まされない、認証情報の守り方](https://xtech.nikkei.com/atcl/nxt/column/18/03523/022700004/) *(日経クロステック IT)*
+- [ ] 2026-03-09 [快適操作のGoogleドキュメント、「行間が広がる」Wordのストレスとは無縁](https://xtech.nikkei.com/atcl/nxt/column/18/03457/122600017/) *(日経クロステック IT)*
+- [ ] 2026-03-09 [レノボCTO「フィジカルAIに投資」、物理法則の学習で限界突破](https://xtech.nikkei.com/atcl/nxt/column/18/02127/00194/) *(日経クロステック IT)*
+- [ ] 2026-03-09 [ロボットはデータで賢くなる、AIロボット協会の松嶋CTOが描く普及シナリオ](https://xtech.nikkei.com/atcl/nxt/column/18/03076/022400023/) *(日経クロステック IT)*
+- [ ] 2026-03-09 [花王から「DXという言葉をなくす」、生成AIをデジタル戦略の中心に](https://xtech.nikkei.com/atcl/nxt/column/18/01159/022600079/) *(日経クロステック IT)*
+- [ ] 2026-03-09 [ついにAIが人から仕事を奪い始めた、解雇規制を緩和しないと日本は滅びるぞ](https://xtech.nikkei.com/atcl/nxt/column/18/00148/030300425/) *(日経クロステック IT)*
+- [ ] 2026-03-09 [終わらない「2025年の崖」、6割の企業が依然抱えるレガシーの重荷](https://xtech.nikkei.com/atcl/nxt/column/18/03504/030200002/) *(日経クロステック IT)*
+- [ ] 2026-03-09 [普及期を迎えた顔認証システム、プライバシー対策は「丸投げ」しかない？](https://xtech.nikkei.com/atcl/nxt/column/18/01111/030500076/) *(日経クロステック IT)*
+- [ ] 2026-03-09 [BIPROGYが販促支援のカタリナを傘下に、2030年度に600億円売り上げへ](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11554/) *(日経クロステック IT)*
+- [ ] 2026-03-08 [さくらインターネット「さくらのAI検定」を創設　教材も無料公開](https://www.itmedia.co.jp/enterprise/articles/2603/08/news016.html) *(ITmedia AI＋)*
+- [ ] 2026-03-08 [日本人「旅行離れ」の根本原因　インバウンド高騰で泊まれない実態と「AIの限界」](https://www.itmedia.co.jp/business/articles/2603/09/news016.html) *(ITmedia AI＋)*
+- [ ] 2026-03-08 [自分のPCのChrome拡張は安全か？　話題沸騰のAI「Claude Cowork」で権限と挙動をチェックしてみた](https://atmarkit.itmedia.co.jp/ait/articles/2603/09/news010.html) *(ITmedia AI＋)*
+- [ ] 2026-03-09 [デザイナーがClaudeとFigma MCPで試したこと（VibeCoding実践記）｜yiping](https://note.com/20191201yiping/n/ne38e9bd31786) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [AWS、AWS上ですぐ使えるOpenClawを提供開始。仮想プライベートサーバ（VPS）「Amazon Lightsail」のインスタンスイメージとして](https://www.publickey1.jp/blog/26/awsawsopenclawvpsamazon_lightsail.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [OpenAI、「Codex for Windows」正式リリース。Windowsサンドボックス内で安全にAIエージェントを実行、WSLにも対応](https://www.publickey1.jp/blog/26/openaicodex_for_windowswindowsaiwsl.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [Claude Codeが「音声モード」搭載。AIに話しかけながらのコーディングが可能に](https://www.publickey1.jp/blog/26/claude_codeai.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [AIがオープンソースの「鍵」を壊す日――chardet騒動の本質｜情報の灯台](https://note.com/joho_no_todai/n/n0ee446fdff40) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した - Qiita](https://qiita.com/NF0000/items/66510f959b1c22f011a7) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [アンソロピック発表、「AIに奪われにくい仕事」6選とその共通点 \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/93263) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [システムのメモリ・CPU・GPUに合わせて適切なAIモデルを教えてくれるターミナルツール「llmfit」](https://gigazine.net/news/20260308-llmfit/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [OpenAIのロボット部門責任者がアメリカ国防総省との物議をかもす合意に反発して退職](https://gigazine.net/news/20260308-openai-robotics-lead-quits-pentagon-deal/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [ChatGPTから400万人が離脱、需要急増で対応に苦しむアンソロピックClaude \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/93254) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [現代人、深刻な「AI疲労」を発症していることが判明](https://www.sbbit.jp/article/cont1/182151) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [https://www.mckinsey.com/jp/~/media/mckinsey/locations/asia/japan/our%20insights/what%20is%20an%20ai%20agent/what%20is%20an%20ai%20agent___2k_0723.pdf](https://www.mckinsey.com/jp/~/media/mckinsey/locations/asia/japan/our%20insights/what%20is%20an%20ai%20agent/what%20is%20an%20ai%20agent___2k_0723.pdf) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [GitHub - yessGlory17/argus: Claude Code Session Debugger & Performance Analyzer](https://github.com/yessGlory17/argus) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [ジュニアエンジニアの人、AI後はこうしたらええんちゃう？という話｜牛尾　剛](https://note.com/simplearchitect/n/nf00d38494ac3) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-09 [並列開発を支えるtmux, git, zsh設定集](https://zenn.dev/r57ty7/articles/879db0530ad899) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-09 [「それよりもギターに目が行く」娘のスマホを契約した人が「小さいテレビをお付けしますね」と言われ、もらったテレビが全然小さくはなかった](https://togetter.com/li/2672448) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-09 [続【Claude Code】Wordの詳細設計書とどう向き合うか](https://zenn.dev/acntechjp/articles/a7ee3dc65bc4a7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-09 [バンダイのPS1用ゲーム『魔女っ子大作戦』はなんでこんな作品になったのか？ 開発者が「最も奇妙なゲーム開発体験だった」と語る誕生の経緯](https://retro-gamer.jp/?p=42528) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-09 [ファインディのKPIダッシュボードを支えるLookerと段階的データモデリング戦略 - Findy Tech Blog](https://tech.findy.co.jp/entry/2026/03/09/080000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-09 [GitHub - ruvnet/RuView: π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.](https://github.com/ruvnet/RuView?tab=readme-ov-file) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-09 [Principal と器用貧乏のあいだ \| Democratizing Data](https://chezo.uno/post/2026-03-07-2026-03-08-between-principal-and-glue-work/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-09 [GitHub - betterleaks/betterleaks: A Better Secrets Scanner built for configurability and speed](https://github.com/betterleaks/betterleaks) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-09 [GitHub Copilot CLIの/researchが強い - Qiita](https://qiita.com/shyamagu/items/4e2d30a24594c005a02f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-09 [mixi2 Developer Platform β](https://developer.mixi.social/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-08 [Open WebUIをVPSでセルフホストする方法【ローカルLLMをChatGPT風UIで使う】](https://zenn.dev/sandquince/articles/open-webui-selfhost) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [RAG のノイズ耐性を観察してみる](https://zenn.dev/ka_kan/articles/f03fefcd3fc806) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [AutoGen × GraphRAG で類似レポート検索を試してみた](https://zenn.dev/secondselection/articles/autogen_graphrag) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [Portkey AIゲートウェイ実装Deep Dive：条件付きルーティングとコスト最適化戦略](https://zenn.dev/0h_n0/articles/6c55b2409143b2) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [200行のルールを書いても、Claude は同じミスを繰り返す](https://zenn.dev/davidai311/articles/claude-code-200-rules-still-fails) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [AI雑談エージェントを作る](https://zenn.dev/kinon/articles/ce5b673fdad09f) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [AI(LLM)エージェントの実行プロセスを、トヨタ生産方式に基づくフレームワークで制御する「ANDON」を公開](https://zenn.dev/allnew/articles/andon-for-llm-agents) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [蒸留から醸造へ—次世代LLMに必要な設計思想の転換](https://zenn.dev/fdmiruto/articles/b40fc3e093ddcb) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [OpenAI / Anthropic / Google / Microsoft の思想の違い](https://zenn.dev/nullcontroller/articles/5b8a6a1c413e10) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [「生成AI！頼むから記憶してくれ！」をOSS調査で分解すると2つの方向性が見えた](https://zenn.dev/rna4219/articles/071bdfa611d027) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [WSL2 + RTX3080でローカルLLM環境を構築する完全ガイド【Ollama + Open WebUI + Web検索対応】](https://zenn.dev/tests04/articles/f641c2df67826f) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [AIコーディングの原則](https://zenn.dev/takekazuomi/articles/ai-coding-principles) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [事例から学ぶ企業でのコーディングエージェントの内製やハーネスの作り方](https://zenn.dev/r_kaga/articles/13356a9b5eb492) *(Zenn – トピック LLM)*
+- [ ] 2026-03-08 [モデル反転攻撃について [AIセキュリティ]](https://zenn.dev/black_leg/articles/90aee1f6d45251) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [スキルクリエイターにeval自動生成が追加 — Agent Skillsのベンチマークとモデル更新対応が変わる](https://zenn.dev/tenormusica/articles/claude-skill-creator-evals-2026) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [Agent Teams開発に欠けているもの─ロギング・権限・通信を制御するclaude-nagger v3.0](https://zenn.dev/holly_sizzle/articles/d1377b908b405d) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [json-render + MCP Apps で始める Declarative Generative UI](https://zenn.dev/tsuboi/articles/json-render-mcp-apps-declarative-generative-ui) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [生成AIで働かないSierはどう変わるのか、M365 Copilot導入後に価値の重心はどこへ移動する](https://zenn.dev/syoshida07/articles/1a39039ff97e7c) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [How to AI過負荷でcronジョブが全滅しても基幹システムを生かし続ける](https://zenn.dev/anicca/articles/2026-03-03-ai-overload-resilience) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [AI生成記事のPII漏洩を毎朝自動検出する仕組みを作った](https://zenn.dev/yoshiki_ai/articles/pii-auto-scanner-articles) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [11-④[AI][Kaggle][python]Kaggle入門(時系列 4.時系列を特徴とする)](https://zenn.dev/rg687076/articles/2242148605e1db) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [待っていたら間に合わない。見切り発車で作り始めて、なんとかやりきった機能開発](https://zenn.dev/soycha/articles/incremental-development-under-uncertainty) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [Claude Code 2.1.63 の `/batch` コマンドで、134件のエラーを半自動で解消した](https://zenn.dev/kawason/articles/f0030bd026a2bb) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [AI時代の開発スタイル：実装と設計書を往復する「AIスパイラル開発」を試してみた](https://zenn.dev/mono_tec/articles/zenn_ai_spiral_dev) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [Calendly vs TimeRex vs Focalize — 営業自動化ツール徹底比較【2026年版】](https://zenn.dev/joinclass/articles/calendly-timerex-focalize-comparison) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [フィジカルAI最前線2026 — 日本の製造業・モビリティを変革するAIロボティクスの実装ガイド](https://zenn.dev/ai_nexus/articles/physical-ai-japan-2026) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [週刊AI駆動開発 - 2026年03月08日](https://zenn.dev/pppp303/articles/weekly_ai_20260308) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [Claude Codeの活動ログを可視化するダッシュボードを作った](https://zenn.dev/a1yama/articles/claude-activity-dashboard) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [ERPシステムにAIエージェントを組み込む：OpenClaw Gateway × LINE Bot × 権限連携の実装記録](https://zenn.dev/techsfree/articles/2026-03-03_web_erp-ai-agent-integration) *(Zenn – トピック AI)*
+- [ ] 2026-03-08 [【統計の基本】相互情報量とは](https://zenn.dev/qoo/articles/bd16ddcf28e590) *(Zenn – トピック 機械学習)*
