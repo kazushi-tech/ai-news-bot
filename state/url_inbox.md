@@ -45279,3 +45279,95 @@
 - [ ] 2026-03-16 [04_スタッキングでROIのブレを抑えた話：Isotonic Regressionの役割](https://zenn.dev/keiba_ai_rui/articles/0bd6771159a6eb) *(Zenn – トピック 機械学習)*
 - [ ] 2026-03-16 [AIを「盆栽」にしないためのETL戦略 ―― 大規模分析](https://zenn.dev/nakano_teppei/articles/d4d7656e2b37d2) *(Zenn – トピック 機械学習)*
 - [ ] 2026-03-16 [PythonでMFCCを計算する ― 音声認識で使われる特徴量を理解する](https://zenn.dev/kta805/articles/fcf8732cc902cc) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-03-18T12:38:35.424Z
+- [ ] 2026-03-18 [We asked experts about the most responsible ways to use AI tools – here’s what they said](https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/18/how-to-use-ai-tools-expert-guide) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-03-18 [AI-powered robot learns how to harvest tomatoes more efficiently](https://www.sciencedaily.com/releases/2026/03/260317064512.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-03-18 [Nvidia DLSS 5 Backlash: Gamers Rage Over AI Filter](https://www.techrepublic.com/article/news-nvidia-dlss-5-backlash/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-03-18 [7 Ways to Reduce Hallucinations in Production LLMs](https://www.kdnuggets.com/7-ways-to-reduce-hallucinations-in-production-llms) *(KDnuggets)*
+- [ ] 2026-03-18 [School Bus Unicorn Zum Hits $333 Million in Revenue](https://www.bloomberg.com/news/articles/2026-03-18/school-bus-unicorn-zum-hits-333-million-in-revenue) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [AI Security Startup Xbow Valued at More Than $1 Billion](https://www.bloomberg.com/news/articles/2026-03-18/ai-security-startup-xbow-now-valued-at-more-than-1-billion) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [Tencent Says It Faces Fewer US Regulatory Risks Than TikTok](https://www.bloomberg.com/news/articles/2026-03-18/tencent-says-it-faces-fewer-us-regulatory-risks-than-tiktok) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [Prediction Markets Get Tangled In the Iran War](https://www.bloomberg.com/news/newsletters/2026-03-18/polymarket-gamblers-threaten-reporter-over-coverage-of-the-war-in-iran) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [Elbit Says There’s High Demand for Laser Interceptor in Development](https://www.bloomberg.com/news/articles/2026-03-18/elbit-says-laser-interceptor-in-demand-amid-iran-war-near-ready) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [Tencent’s Sales Rise 13% in Boost for Broader AI Ambitions](https://www.bloomberg.com/news/articles/2026-03-18/tencent-s-sales-rise-13-in-boost-for-broader-ai-ambitions) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [AI Boom Drives US to Build Enough Battery Systems for Domestic Demand](https://www.bloomberg.com/news/articles/2026-03-18/ai-boom-drives-us-to-build-enough-battery-systems-for-domestic-demand) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [Apple CEO Visits China Amid Growing Pressure on App Store Policy](https://www.bloomberg.com/news/articles/2026-03-18/apple-ceo-visits-china-amid-growing-pressure-on-app-store-policy) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [UniCredit Sees Up to €500 Million in AI Cost Cuts in Next Years](https://www.bloomberg.com/news/articles/2026-03-18/unicredit-sees-up-to-500-million-in-ai-cost-cuts-in-next-years) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [UBS Nears Full Credit Suisse Integration by Finishing IT Project](https://www.bloomberg.com/news/articles/2026-03-18/ubs-nears-full-credit-suisse-integration-by-finishing-it-project) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [Samsung Agrees to Supply Next-Generation AI Memory to AMD](https://www.bloomberg.com/news/articles/2026-03-18/samsung-agrees-to-supply-next-generation-ai-memory-to-amd) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [Pepkor Rethinks Investec Tie-Up as It Eyes Solo Bank Startup](https://www.bloomberg.com/news/articles/2026-03-18/pepkor-rethinks-investec-tie-up-as-it-eyes-solo-bank-startup) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [StanChart’s AI Chief Exiting Less Than a Year After Joining](https://www.bloomberg.com/news/articles/2026-03-18/stanchart-s-ai-chief-exiting-less-than-a-year-after-joining) *(Bloomberg Technology)*
+- [ ] 2026-03-18 [The First Trailer for ‘Spider-Man: Brand New Day’ Teases Spidey’s Big New Problems](https://gizmodo.com/spider-man-brand-new-day-trailer-marvel-mcu-2000700556) *(Gizmodo – Technology)*
+- [ ] 2026-03-18 [Jessica Jones Is Back in the MCU Because ‘Jessica Jones’ Was So Good](https://gizmodo.com/jessica-jones-is-back-in-the-mcu-because-jessica-jones-was-so-good-2000734851) *(Gizmodo – Technology)*
+- [ ] 2026-03-18 [Damon Lindelof Forced to Defend the Color Green After ‘Lanterns’ Controversy](https://gizmodo.com/dc-lanterns-tv-show-backlash-damon-lindelof-apology-2000734800) *(Gizmodo – Technology)*
+- [ ] 2026-03-18 [INIU’s Portable Chargers Are Smaller, Slimmer, and More Powerful Than Ever](https://gizmodo.com/inius-portable-chargers-are-smaller-slimmer-and-more-powerful-than-ever-2000720465) *(Gizmodo – Technology)*
+- [ ] 2026-03-18 [5 Companies Competing to Replace the International Space Station](https://gizmodo.com/5-companies-competing-to-replace-the-international-space-station-2000734746) *(Gizmodo – Technology)*
+- [ ] 2026-03-18 [Meta Quest VR Headset Users to Lose Access to Horizon Worlds, Legs and All](https://gizmodo.com/meta-quest-vr-headset-users-to-lose-access-to-horizon-worlds-legs-and-all-2000734894) *(Gizmodo – Technology)*
+- [ ] 2026-03-18 [The Defense Department reportedly plans to train AI models on classified military data](https://www.engadget.com/ai/the-defense-department-reportedly-plans-to-train-ai-models-on-classified-military-data-120332113.html?src=rss) *(Engadget)*
+- [ ] 2026-03-18 [How to prepare your phone for trade-in](https://www.engadget.com/mobile/smartphones/how-to-prepare-your-phone-for-trade-in-120000724.html?src=rss) *(Engadget)*
+- [ ] 2026-03-18 [Apple Studio Display XDR review: Expensive, but there’s no monitor like it](https://www.engadget.com/computing/accessories/apple-studio-display-xdr-review-expensive-but-theres-no-monitor-like-it-120018426.html?src=rss) *(Engadget)*
+- [ ] 2026-03-18 [IO Interactive splits with MindsEye developer and ends Hitman collab](https://www.engadget.com/gaming/io-interactive-splits-with-mindseye-developer-and-ends-hitman-collab-110028292.html?src=rss) *(Engadget)*
+- [ ] 2026-03-18 [Defense Department says Anthropic poses 'unacceptable risk' to national security](https://www.engadget.com/ai/defense-department-says-anthropic-poses-unacceptable-risk-to-national-security-094328717.html?src=rss) *(Engadget)*
+- [ ] 2026-03-18 [非常時の通信を携帯各社で支え合う「JAPANローミング」、26年4月に開始](https://xtech.nikkei.com/atcl/nxt/news/24/03142/) *(日経クロステック IT)*
+- [ ] 2026-03-18 [高度IT人材の給与、日本はアジア5カ国・地域で下位　ヘイズ調査](https://xtech.nikkei.com/atcl/nxt/news/24/03141/) *(日経クロステック IT)*
+- [ ] 2026-03-18 [デスクトップPCのAIエージェントをスマホで遠隔操作　「Claude Cowork」に新機能](https://www.itmedia.co.jp/aiplus/articles/2603/18/news130.html) *(ITmedia AI＋)*
+- [ ] 2026-03-18 [Linux Foundation、AI時代のOSSセキュリティ強化に1250万ドルの助成金をGoogleなど6社から獲得](https://www.itmedia.co.jp/news/articles/2603/18/news117.html) *(ITmedia AI＋)*
+- [ ] 2026-03-18 [【令和最新版】生成AIは間違い探しをどれだけ解けるのか？GPT5.4 VS Gemini3.1 pro VS Opus4.6｜朝日新聞社 メディア研究開発センター](https://note.com/asahi_ictrad/n/n8d23fb9a1640) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-18 [ゲームのグラフィック向上AI技術『DLSS5』が批判と共にネットミーム化、キャラがリアル（？）になったネタ画像が大量に投下される](https://togetter.com/li/2676103) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-18 [NVIDIAのCEOがDLSS 5の過剰加工をからかうインターネットユーザーに反論](https://gigazine.net/news/20260318-nvidia-ceo-completely-wrong-dlss-5/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-18 [新たな国産SNS『POPOPO』3月18日15時からサービス開始が決定！ 取締役にGACKT、西村博之、川上量生、庵野秀明が就任](https://news.denfaminicogamer.jp/news/260318i) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-18 [型落ちiPhone仕様のMacBook Neoですら動くんだからエージェンティックAI、Androidでも動くのでは？　作ってみた結果（CloseBox） \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/03/18/4935.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-18 [「Windows 12」がようやく「Linux」移行の決め手になるかもしれない理由](https://japan.zdnet.com/article/35244877/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-18 [【2026年最新】Google AI StudioとGeminiの違いとは？使い分けと活用法を徹底解説 \| 株式会社LIG(リグ)｜DX支援・システム開発・Web制作](https://liginc.co.jp/676153) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-18 [コーディングAI「Claude Code」のスキルから完全に動作するGodot Engine 4駆動のゲームを作成できる「Godogen」](https://gigazine.net/news/20260317-godogen/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-18 [日本語の手書きメモを書き起こせるOCRを探すために21モデルを片っ端から試した話](https://nyosegawa.com/posts/japanese-handwriting-ocr-comparison/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-18 [Learn Claude Code](https://learn.shareai.run/ja/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-18 [「生成AIの顔とそっくりだ」などのコメントも…NVIDIAの超解像技術「DLSS 5」を通したキャラの顔が批判の的に \| Game*Spark - 国内・海外ゲーム情報サイト](https://www.gamespark.jp/article/2026/03/17/164006.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-18 [カメラのいらないテレビ電話アプリ「POPOPO」　”見られ感”がない国産SNS](https://www.watch.impress.co.jp/docs/news/2094495.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-18 [Coding Agent時代のドキュメントについて考えていること](https://nyosegawa.com/posts/docs-in-agent-era/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-18 [1on1は「報告」ではなく「自分への投資」である。成長を最大化するための対話ハック \| Wantedly Engineer Blog](https://www.wantedly.com/companies/wantedly/post_articles/1051752) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-18 [携帯各社、「JAPANローミング」を4月1日開始　災害時に他社回線に切り替えて通信を維持](https://k-tai.watch.impress.co.jp/docs/news/2094408.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-18 [平成初期に帰ろう。あの頃のガビガビ画面を再現するジェネレータ](https://pc.watch.impress.co.jp/docs/news/2094370.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-18 [Gitに「なぜ変えたか？」は残らない　元GitHub CEOが「Entire CLI」を開発](https://atmarkit.itmedia.co.jp/ait/articles/2603/18/news061.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-18 [ニコニコのショート動画、4月15日スタート　「コメントの一体感」はそのまま](https://www.itmedia.co.jp/news/articles/2603/18/news093.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-18 [障害時に他社網に接続する「JAPANローミング」4月1日始動　ドコモ・KDDI・ソフトバンク・楽天モバイル](https://japan.cnet.com/article/35245191/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-18 [2026年もソフトウェアサプライチェーンのリスクに立ち向かうために / Product Security Square #3](https://speakerdeck.com/flatt_security/defending-software-supply-chain-risks-for-2026) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-18 [“ザッカーバーグのダサアバター”でおなじみ、MetaのメタバースVR版終了へ　モバイル専用に](https://www.itmedia.co.jp/news/articles/2603/18/news097.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-18 [Devin だけでは足りなかったので、エラー調査 AI Agent を自作した — AI 時代のエラー対応のやり方 - inSmartBank](https://blog.smartbank.co.jp/entry/2026/03/18/110000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-18 [キーボードケース発煙し使用中止　世田谷の小中学校配備の端末 \| 毎日新聞](https://mainichi.jp/articles/20260318/k00/00m/040/031000c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-18 [QA自動化で学ぶ LLM as a Judge — 「操作するAI」と「判定するAI」を分ける理由](https://zenn.dev/kyoichi/articles/ai-qa-agent-02-llm-as-judge) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [AIを人間と区別できなくした話：LLMジャッジで測るチューリングテスト実装](https://zenn.dev/fumofumo3/articles/human-persona-turing-test) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [llm-dを調べてみた](https://zenn.dev/naomine_egawa/articles/llm-d-kubernetes-llm-inference) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [AIをポケットに。2026年、VLM（視覚言語モデル）を爆速にする4つの神技術](https://zenn.dev/cahal_inc/articles/272834d5fec90c) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [Github Actionsの中で、Agenticな動作をするLLMを呼びだすカンタンな方法](https://zenn.dev/explaza/articles/abc69371e323cd) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [Claude Codeで `/model opusplan` が自分の理想だった件](https://zenn.dev/takibilab/articles/claude-code-model-opusplan) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [AIエージェントを狙う間接プロンプトインジェクション — 実例から学ぶ攻撃パターンと安全なデータ境界設計](https://zenn.dev/76hata/articles/indirect-prompt-injection-data-boundary-design) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [Claude Codeの「スキル」を使い倒して分かったこと ― Anthropic社内の実践ノウハウ](https://zenn.dev/bookamasedo/articles/c56d5adda9f5df) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [KimiによるAttention Residualsとは？](https://zenn.dev/nakano_teppei/articles/09b59f9d9a300a) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [生成AIはなぜメジャー技術に強く見えるのか── Logit と Softmax で眺める“AIの迷いやすさ”](https://zenn.dev/albatrosary/articles/e3364349f99b2a) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [LLM人格を14日運用して見えた設計パターン — 固定プロンプトの先へ](https://zenn.dev/nabaaatee/articles/b4e90b7ef39026) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [課題ベースで学ぶClaude Code便利機能](https://zenn.dev/754736277842632/articles/2026031622-claude-code) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [エージェントエンジニアリング（バイブコーディング）によるコード変化](https://zenn.dev/buzzlyhan/articles/170774da0b405a) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [Claude Code 利用中に雰囲気で /clear を実行するのをやめる](https://zenn.dev/k0kishima/articles/8976ce2bf725e0) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [RAGの検索精度を決める2大要素：ChunkとEmbeddingを完全に理解する](https://zenn.dev/hayateeeeeee/articles/9a02d2121eb032) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [Vibe Fine-Tuning: 会話だけでLLMをFine-Tuningしてみた](https://zenn.dev/aishift/articles/5e4e7453ff16a4) *(Zenn – トピック LLM)*
+- [ ] 2026-03-17 [「俺」はどっちだ — AIエージェントの一人称が壊れた日](https://zenn.dev/ttsuchiya/articles/pronoun-separation-ai) *(Zenn – トピック LLM)*
+- [ ] 2026-03-17 [日本語AIが世界に挑む！楽天「Rakuten AI 3.0」3つの革新とGPT-4o超えの実力をわかりやすく解説](https://zenn.dev/headwaters/articles/73d0d74cf9a752) *(Zenn – トピック LLM)*
+- [ ] 2026-03-18 [3時間でAIフィードバックツールを作った話 — 「感想ありがとうございます」で終わる文化を殺す](https://zenn.dev/yui7/articles/a3c5bce30b41c0) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [Anthropic社員のClaude Code活用術8選 — 公式情報から読み解く実践テクニック](https://zenn.dev/happy_elements/articles/046faa4f61d98f) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [OpenClawで稼ぐ方法：初心者向け実践ガイド2026](https://zenn.dev/yamitake/articles/openclaw-monetization-guide-2026) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [3人チームがNixで本番環境を丸ごと宣言した話 ─ もう手続き的インフラには戻れない](https://zenn.dev/yui7/articles/266e3784e9d1bf) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [「私、AI使ってませんから」](https://zenn.dev/acntechjp/articles/20260317_no_ai) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [Claude Codeをフル活用！本気で使える厳選Skills/Plugin 8選](https://zenn.dev/itsuki_y/articles/0eb054f14523d7) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [Figma MCP × Cursorでフロントエンド実装を効率化](https://zenn.dev/mixtend/articles/5d05d73fd014c5) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [Claude Code Agent Teamsを触って分かった「サブエージェントとの決定的な違い」](https://zenn.dev/playpark/articles/9466c152637857) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [End to End AI の黎明期に登場したPilotNetを使って走行してみる](https://zenn.dev/ttanaka3/articles/4f880685b6fab3) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [Claude Codeに"Superpowers"を入れたら、プロンプト1行からTODOアプリが完成した](https://zenn.dev/kk225/articles/superpowers-todo-app) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [GPT-5.4 実践API開発ガイド——reasoning.effortからComputer Useまで](https://zenn.dev/bluecat/books/fde95966dae2e5) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [生成AIで速いだけでなく再現性のあるスライド作成を回すための4段階フロー](https://zenn.dev/iruran/articles/4-stage-ai-ppt-workflow) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [cocoindex-code: ASTベースのコード検索CLIでAIエージェントのトークンを70%削減する](https://zenn.dev/badmonster/articles/bffc7ad46f2e5c) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [Vibe Codingが壊れるポイントとデータ構造に基づく仕様書](https://zenn.dev/specs/articles/3670534ffa4e1c) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [GPT-5.4 APIを実務で使う——reasoning.effortとComputer Use APの実装ガイド](https://zenn.dev/bluecat/articles/6b1a40242695ff) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [AIに色を聞いてはいけない — Vision Modelの色認識の限界と、正確に取得する方法](https://zenn.dev/kenimo49/articles/ai-color-recognition-limit) *(Zenn – トピック AI)*
+- [ ] 2026-03-18 [#43 Code Reviewer の内部構造（実装編）](https://zenn.dev/corone/articles/36be69d684bae1) *(Zenn – トピック AI)*
