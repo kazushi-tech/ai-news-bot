@@ -46786,3 +46786,101 @@
 - [ ] 2026-03-21 [data augmentation手法のsumixを解説](https://zenn.dev/hirotohorimoto/articles/2ac2de1f268d5b) *(Zenn – トピック 機械学習)*
 - [ ] 2026-03-21 [ADICはどの種類の革新なのか ―― ドリフト監査デモで見る「事後説明」から「通過条件」への移行](https://zenn.dev/ghostdrift/articles/6a4280d6fddd79) *(Zenn – トピック 機械学習)*
 - [ ] 2026-03-21 [（前編）生成AIによる大規模ウォーターフォールはなぜ危ういのか — 局所整合性と全体忠実度の乖離 —](https://zenn.dev/albatrosary/articles/3a12c68d516c76) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-03-23T18:36:04.468Z
+- [ ] 2026-03-23 [AI boom risks widening wealth divide, says BlackRock’s Larry Fink](https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-03-23 [Do we have to keep talking about AI? The machines are always one step ahead \| Zoe Williams](https://www.theguardian.com/commentisfree/2026/mar/23/do-we-have-to-keep-talking-about-ai-the-machines-are-always-one-step-ahead) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-03-23 [Mark Zuckerberg Secretly Training an AI Agent to Do CEO Job](https://futurism.com/artificial-intelligence/zuckerberg-training-an-ai-agent-ceo) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-23 [Microsoft Realizes It’s Epically Screwed Up Windows 11 as Users Rage at Copilot AI Crammed Everywhere](https://futurism.com/artificial-intelligence/microsoft-screwed-up-windows-11-copilot) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-03-23 [Palantir AI to support UK finance operations](https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/) *(Artificial Intelligence News)*
+- [ ] 2026-03-23 [Bezos’ Blue Origin joins race to put AI data centers in space](https://aibusiness.com/data-centers/bezos-blue-origin-joins-race-ai-data-centers-in-space) *(AI Business)*
+- [ ] 2026-03-23 [Alibaba Unveils Enterprise Agent Tool](https://aibusiness.com/agentic-ai/alibaba-unveils-enterprise-agent-tool) *(AI Business)*
+- [ ] 2026-03-23 [Wayve, Uber and Nissan Launch Robotaxi Pilot in Tokyo](https://aibusiness.com/generative-ai/wayve-uber-and-nissan-launch-robotaxi-pilot) *(AI Business)*
+- [ ] 2026-03-23 [Microsoft Cuts Back on Unnecessary Copilot AI in Windows](https://aibusiness.com/generative-ai/microsoft-cuts-back-on-unnecessary-copilot-ai) *(AI Business)*
+- [ ] 2026-03-23 [Your voice, your typing, your sleep – what workplace wellbeing apps are really analysing](https://theconversation.com/your-voice-your-typing-your-sleep-what-workplace-wellbeing-apps-are-really-analysing-277692) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-03-23 [Musk Unites Tesla, SpaceX, xAI for Texas Chip Plant](https://www.techrepublic.com/article/news-musk-tesla-spacex-xai-texas-chip-project/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-03-23 [Perplexity Health Connects Medical Records and Wearables in New AI Push](https://www.techrepublic.com/article/news-perplexity-health-ai/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-03-23 [Google’s AI Is Rewriting Headlines — and Publishers Are Taking Notice](https://www.techrepublic.com/article/news-google-search-rewriting-headlines-ai/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-03-22 [Microsoft Promises Fewer Disruptive Windows Updates, More User Control](https://www.techrepublic.com/article/news-microsoft-windows-update-control-march-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-03-23 [Transforming Data Science With NVIDIA RTX PRO 6000 Blackwell Workstation Edition](https://spectrum.ieee.org/nvidia-rtx-pro-6000-pny) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-03-23 [10 Best X (Twitter) Accounts to Follow for LLM Updates](https://www.kdnuggets.com/10-best-x-twitter-accounts-to-follow-for-llm-updates) *(KDnuggets)*
+- [ ] 2026-03-23 [How to Speed Up Slow Python Code Even If You’re a Beginner](https://www.kdnuggets.com/how-to-speed-up-slow-python-code-even-if-youre-a-beginner) *(KDnuggets)*
+- [ ] 2026-03-23 [Nscale Reaches $14.6 Billion Valuation, Adds Sandberg to Board](https://www.bloomberg.com/news/videos/2026-03-23/nscale-reaches-14-6b-valuation-adds-sandberg-to-board-video) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Strategy Seeks $42 Billion to Accelerate Bitcoin Buying](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Meta Hires Former Google, Stripe Executives Behind AI Startup Dreamer](https://www.bloomberg.com/news/articles/2026-03-23/meta-hires-former-google-stripe-execs-behind-ai-startup-dreamer) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Markets Whipsaw After Trump Delays Iran Strike Deadline \| Open Interest 3/23/2026](https://www.bloomberg.com/news/videos/2026-03-23/open-interest-3-23-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Apple to Start AI Comeback Bid on June 8 With Annual WWDC Conference](https://www.bloomberg.com/news/articles/2026-03-23/when-is-wwdc-2026-apple-announces-ios-27-macos-27-ai-event-held-on-june-8-12) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Sheryl Sandberg Says Nscale and Its CEO Remind Her of Early Facebook](https://www.bloomberg.com/news/articles/2026-03-23/sandberg-says-nscale-and-its-ceo-remind-her-of-early-facebook) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [HPE Assets Struggled With Buyer Interest in Antitrust Divestment](https://www.bloomberg.com/news/articles/2026-03-23/hpe-assets-struggled-with-buyer-interest-in-antitrust-divestment) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Apple Is Set to Put Ads in Apple Maps in Services Push](https://www.bloomberg.com/news/articles/2026-03-23/apple-is-set-to-add-search-advertising-to-maps-in-services-push) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Iran War Drives Surge in Cyberattacks](https://www.bloomberg.com/news/videos/2026-03-23/iran-war-drives-surge-in-cyberattacks-video) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [SpaceX Holder Fidelity Sees Path for Musk’s Data-in-Orbit Vision](https://www.bloomberg.com/news/articles/2026-03-23/spacex-holder-fidelity-sees-path-for-musk-s-data-in-orbit-vision) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [SpaceX Investor Fidelity Likes Musk's Data-in-Space Plan](https://www.bloomberg.com/news/videos/2026-03-23/spacex-investor-fidelity-likes-musk-s-data-in-space-plan-video) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Namibia Turns Down Starlink’s Bid to Operate in the Nation](https://www.bloomberg.com/news/articles/2026-03-23/namibia-turns-down-starlink-s-bid-to-operate-in-the-nation) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [ECB’s Lane Says AI Is Another Reason to Finish EU Savings Union](https://www.bloomberg.com/news/articles/2026-03-23/ecb-s-lane-says-ai-is-another-reason-to-finish-eu-savings-union) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Samsung Phones Can Now Share With iPhones Using Apple’s AirDrop Protocol](https://www.bloomberg.com/news/articles/2026-03-23/samsung-phones-can-now-share-with-iphones-using-apple-s-airdrop-protocol) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Faraday Future Says SEC Not Recommending Enforcement Action](https://www.bloomberg.com/news/articles/2026-03-23/faraday-future-says-sec-not-recommending-enforcement-action) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Isar Aerospace in Talks to Raise €250 Million Ahead of Launch](https://www.bloomberg.com/news/articles/2026-03-23/isar-aerospace-in-talks-to-raise-250-million-ahead-of-launch) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Alphabet’s Wing Drones to Start Silicon Valley Deliveries This Year](https://www.bloomberg.com/news/articles/2026-03-23/alphabet-s-wing-drones-to-start-silicon-valley-deliveries-this-year) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Xi Urges New Flagship City to Lead Tech, Finance Policy Trials](https://www.bloomberg.com/news/articles/2026-03-23/xi-urges-new-flagship-city-to-lead-tech-finance-policy-trials) *(Bloomberg Technology)*
+- [ ] 2026-03-23 [Trump Recounts the Story of the Man Who Invented the Paper Clip](https://gizmodo.com/trump-recounts-the-story-of-the-man-who-invented-the-paper-clip-2000736957) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [Smart Glasses Are Getting Shamed Into Covering Their Cameras](https://gizmodo.com/smart-glasses-are-getting-shamed-into-covering-their-cameras-2000736843) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [This Fan-Made Lego ‘Project Hail Mary’ Rocky Build Is Amaze Amaze Amaze](https://gizmodo.com/this-fan-made-lego-project-hail-mary-rocky-build-is-amaze-amaze-amaze-2000736939) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [Why WWDC 2026 Will Be Apple’s Most Important Developer Conference in Years](https://gizmodo.com/why-wwdc-2026-will-be-apples-most-important-developer-conference-in-years-2000736972) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [Attacker Exploits Crypto Stablecoin for a $25 Million Payday](https://gizmodo.com/attacker-exploits-crypto-stablecoin-for-a-25-million-payday-2000736927) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [‘Starfleet Academy’ Will End After Season 2](https://gizmodo.com/star-trek-starfleet-academy-canceled-paramount-2000736976) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [The New Live-Action ‘Moana’ Trailer Welcomes You to the Rock](https://gizmodo.com/moana-live-action-trailer-dwayne-johnson-maui-disney-2000736955) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [8 Horror Movies to Welcome Spring’s Arrival](https://gizmodo.com/spring-horror-movies-streaming-2000736347) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [King Harold’s Legendary 200-Mile March ‘Never Happened,’ Study Suggests](https://gizmodo.com/king-harolds-legendary-200-mile-march-never-happened-study-suggests-2000736852) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [Russian Spacecraft Glitches Out on Its Way to ISS](https://gizmodo.com/russian-spacecraft-glitches-out-on-its-way-to-iss-2000736839) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [LG Claims Its Latest Laptop Displays Save Nearly 50% Battery Life](https://gizmodo.com/lg-claims-its-latest-laptop-displays-save-nearly-50-battery-life-2000736813) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [Gaze Into the Haunting, Tiny Eyes of Lego Yoda](https://gizmodo.com/lego-star-wars-darth-vader-yoda-busts-price-release-date-2000736834) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [Your Home Could Soon Be Uninsurable If You’re in One of These States](https://gizmodo.com/your-home-could-soon-be-uninsurable-if-youre-in-one-of-these-states-2000736848) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [OnlyFans Owner Dies of Cancer at 43](https://gizmodo.com/onlyfans-owner-dies-of-cancer-at-43-2000736804) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [John Boyega Has Had Talks About a Potential ‘Star Wars’ Return](https://gizmodo.com/john-boyega-dave-filoni-star-wars-2000736630) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [LaGuardia Airport Closed Following Fatal Crash Between a Jet and Fire Truck](https://gizmodo.com/laguardia-airport-closed-following-a-fatal-crash-between-a-jet-and-fire-truck-2000736815) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [‘Last of Us’ Spider Pretends to Be a Zombie Fungus—and It’s Bizarrely Brilliant](https://gizmodo.com/last-of-us-spider-pretends-to-be-a-zombie-fungus-and-its-bizarrely-brilliant-2000736362) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [‘For All Mankind’ Season 5 Beautifully Sets the Series Up for the Future](https://gizmodo.com/for-all-mankind-season-5-beautifully-sets-the-series-up-for-the-future-2000735860) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [I Worked a Shift in a Fictional Video Store and It Was… a Lot of Fun?](https://gizmodo.com/i-worked-a-shift-in-a-fictional-video-store-and-it-was-a-lot-of-fun-2000736113) *(Gizmodo – Technology)*
+- [ ] 2026-03-23 [Apple will reportedly start stuffing ads into the Maps app](https://www.engadget.com/apps/apple-will-reportedly-start-stuffing-ads-into-the-maps-app-182311634.html?src=rss) *(Engadget)*
+- [ ] 2026-03-23 [Wing expands its drone delivery service to the Bay Area](https://www.engadget.com/transportation/wing-expands-its-drone-delivery-service-to-the-bay-area-175748410.html?src=rss) *(Engadget)*
+- [ ] 2026-03-23 [Apple's WWDC 2026 is set for June 8-12](https://www.engadget.com/apps/apples-wwdc-2026-is-set-for-june-8-12-171359493.html?src=rss) *(Engadget)*
+- [ ] 2026-03-23 [Polymarket is cracking down on insider trading with updated rules](https://www.engadget.com/big-tech/polymarket-is-cracking-down-on-insider-trading-with-updated-rules-163928655.html?src=rss) *(Engadget)*
+- [ ] 2026-03-23 [Billionaire OnlyFans owner Leonid Radvinsky has died from cancer at 43](https://www.engadget.com/big-tech/billionaire-onlyfans-owner-leonid-radvinsky-has-died-from-cancer-at-43-163211324.html?src=rss) *(Engadget)*
+- [ ] 2026-03-23 [LG Sound Suite review: Dolby Atmos FlexConnect in a powerful package](https://www.engadget.com/audio/speakers/lg-sound-suite-review-dolby-atmos-flexconnect-in-a-powerful-package-160000544.html?src=rss) *(Engadget)*
+- [ ] 2026-03-23 [Wheely, an on-demand chauffeur app, makes its US debut in NYC](https://www.engadget.com/transportation/wheely-an-on-demand-chauffeur-app-makes-its-us-debut-in-nyc-143233840.html?src=rss) *(Engadget)*
+- [ ] 2026-03-23 [Xbox lines up a Partner Preview showcase for March 26](https://www.engadget.com/gaming/xbox/xbox-lines-up-a-partner-preview-showcase-for-march-26-140117249.html?src=rss) *(Engadget)*
+- [ ] 2026-03-23 [Creating with Sora Safely](https://openai.com/index/creating-with-sora-safely) *(OpenAI News)*
+- [ ] 2026-03-23 [Two different types of agent authorization](https://blog.langchain.com/two-different-types-of-agent-authorization/) *(LangChain Blog)*
+- [ ] 2026-03-23 [[第78話]限界OL霧切ギリ子 - ミートスパ土本 \| 少年ジャンプ＋](https://shonenjumpplus.com/episode/17107094915254021213) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [AWS、Claude Codeにアーキテクチャ設計、コスト見積もり、構成コード生成、デプロイ実行などの能力を組み込む「Agent Plugins for AWS」公開](https://www.publickey1.jp/blog/26/awsclaude_codeagent_plugins_for_aws.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [無料でオープンソースのAIコーディングエージェント「OpenCode」、Windows・Linux・macOSで利用可能でClaude・GPT・Geminiなどにも対応](https://gigazine.net/news/20260323-opencode/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [AIに「道徳を学ぶ上で最も適している話を教えて」といったら](https://anond.hatelabo.jp/20260323202408) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [AIのプロに聞く｢ローカルでAI動かすのに、必要なスペックって？｣](https://www.gizmodo.jp/2026/03/amd-radeon-ai-pro-r9700.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [ノア・スミス「ぼくらは第三次世界大戦の前哨戦を見ている？」（2026年3月11日）｜経済学101](https://note.com/econ101_/n/n7822c84aa9cd) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [Google検索でリンク先タイトルが勝手にAI生成の見出しに変更される事例が報告される](https://gigazine.net/news/20260323-google-headlines-ai/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [TencentがWeChatにOpenClawベースのAIエージェントを統合した「微信ClawBot」を発表、10億人を超えるユーザーがWeCahtを通じてAIエージェントへの指示が可能](https://gigazine.net/news/20260323-tencent-weixin-wechat/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [Breakingviews - コラム：エネルギーショック、ＡＩバブル崩壊を誘発も](https://jp.reuters.com/opinion/breakingviews/XE7BLGJGCRKYVAIQD3GK2LQEYQ-2026-03-23/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [未査読論文リポジトリのarXivがコーネル大学からの独立を宣言](https://gigazine.net/news/20260323-arxiv-independence/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [AIモデルがクリエイティブな文章を書けないのは初期モデルに見られた創造性や独創性を抑制してビジネス用途に特化させたせいだという指摘](https://gigazine.net/news/20260323-ai-writing/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [ロボット犬はもう、データセンターの警備を始めている。1台2800万円でも「2年で投資回収できる」 \| Business Insider Japan](https://www.businessinsider.jp/article/2603-robot-dogs-quadruped-data-center-security-boston-dynamics-ghost-robotics/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [消費者の半数は「生成AIを使用しないブランド」を好む傾向がある](https://gigazine.net/news/20260322-consumers-prefer-brands-avoid-using-genai/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-23 [【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する - Qiita](https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-23 [PO・PdMが感じるスクラムの限界](https://zenn.dev/dp_techblog/articles/5ab783ef029d44) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-23 [【Hothotレビュー】 安さと多コアでRyzenに対抗。「Core Ultra 200S Plus」の実力検証](https://pc.watch.impress.co.jp/docs/column/hothot/2095270.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-23 [DQ1の「ふっかつのじゅもん」の仕組みを全解説 - Qiita](https://qiita.com/musemyuzu/items/eb08f7790df356434e0f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-23 [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-23 [Claude Code の /batch コマンドで同じ作業を6並列で回してみた \| DevelopersIO](https://dev.classmethod.jp/articles/claude-code-batch-parallel/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-23 [AIが脆弱性を見つけて直す時代へ — OpenAI Codex Security の仕組みと実践的な向き合い方 - Qiita](https://qiita.com/AI-SKILL-LAB/items/24dd64f564703c7eb85b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-23 [佐川の荷物の郵便局受け取り、初回配達前から指定可能に](https://www.watch.impress.co.jp/docs/news/2095432.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-23 [タスクバーの縦・上置きにも対応へ ～Microsoft、今年はOSの“作りこみ”に集中すると宣言／きびきびと動作、ノイズを減らし、透明性を確保し、ユーザーに選択肢を](https://forest.watch.impress.co.jp/docs/news/2095202.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-23 [Laravelで学ぶOAuthとOpenID Connectの基礎と実装](https://speakerdeck.com/kyoshidaxx/laraveldexue-buoauthtoopenid-connectnoji-chu-toshi-zhuang) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-23 [cmux 公式スキル完全ガイド — ターミナル制御・ブラウザ自動化・Markdown ビューア](https://zenn.dev/zenchaine/articles/cmux-ide-vol3-official-skills) *(Zenn – トピック AI)*
+- [ ] 2026-03-23 [WSLからWindowsのChromeをagent-browserを使って制御する](https://zenn.dev/buty4649/articles/control-windows-chrome-from-wsl-with-agent-browser) *(Zenn – トピック AI)*
+- [ ] 2026-03-23 [Claude CodeのAgent Teamsで仮説駆動型Bug Bounty自動化システムを構築した話](https://zenn.dev/acntechjp/articles/5505a507b5dd69) *(Zenn – トピック AI)*
+- [ ] 2026-03-23 [AI Music Video Generatorで変わった「MVの作り方」と頭の使い方](https://zenn.dev/nogc/articles/6bd33185b617ff) *(Zenn – トピック AI)*
+- [ ] 2026-03-23 [What AI Can Never Replace: The Human Experience](https://zenn.dev/tingzhu122649/articles/f56a5fb9502467) *(Zenn – トピック AI)*
+- [ ] 2026-03-23 [Everything Claude Code vs Superpowers — AIハーネスの選び方](https://zenn.dev/jodycraft/articles/ecc-vs-superpowers-harness-compare) *(Zenn – トピック AI)*
+- [ ] 2026-03-23 [Coolifyインストールから「プロンプトでデプロイ」まで：Claude Code MCP実践](https://zenn.dev/matsubokkuri/articles/2026-03-14-coolify-claude-code-mcp) *(Zenn – トピック AI)*
+- [ ] 2026-03-23 [40年目のエンジニアがAI協働開発に出会って、2週間で世界が変わった話](https://zenn.dev/keita2399/articles/f005a0201d8b1b) *(Zenn – トピック AI)*
+- [ ] 2026-03-23 [Anthropic Academy②：Extended Thinkingの2ブロック構造を知らなかった](https://zenn.dev/yurukusa/articles/a2dfda43cdf227) *(Zenn – トピック AI)*
