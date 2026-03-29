@@ -48847,3 +48847,47 @@
 - [ ] 2026-03-28 [【GenU】AgentCoreユースケースについて](https://zenn.dev/nylon66/articles/352e8072a6b30e) *(Zenn – トピック AI)*
 - [ ] 2026-03-28 [L1正規化がスパースな解を生む理由：劣微分の自然な導入](https://zenn.dev/roll_math_ml/articles/23b0ee41cbfdfc) *(Zenn – トピック 機械学習)*
 - [ ] 2026-03-28 [金融時系列予測でLightGBM / LSTM / Transformerを比較してみた](https://zenn.dev/sigma_lab/articles/aitrader-series-model-comp-1-20260304) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-03-29T01:08:08.947Z
+- [ ] 2026-03-28 [Two in five Australian GPs use AI scribes to record patient notes – but do they trade care for convenience?](https://www.theguardian.com/australia-news/2026/mar/29/doctors-using-ai-for-notes-australia) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-03-28 [Do ‘Disclosure Day’ Prep With a Spielberg Sci-Fi Marathon](https://gizmodo.com/disclosure-day-spielberg-sci-fi-movies-2000739267) *(Gizmodo – Technology)*
+- [ ] 2026-03-28 [Ranking 2016’s Superhero Debuts, 10 Years Later](https://gizmodo.com/superhero-debuts-bvs-civil-war-rankings-2000735766) *(Gizmodo – Technology)*
+- [ ] 2026-03-28 [Watch the trailer for Science Saru's Ghost in the Shell anime series](https://www.engadget.com/entertainment/streaming/watch-the-trailer-for-science-sarus-ghost-in-the-shell-anime-series-210147477.html?src=rss) *(Engadget)*
+- [ ] 2026-03-28 [Austria is pursuing a social media ban for kids under 14](https://www.engadget.com/social-media/austria-is-pursuing-a-social-media-ban-for-kids-under-14-190755295.html?src=rss) *(Engadget)*
+- [ ] 2026-03-29 [お前らの正義の話をしよう - megamouthの葬列](https://www.megamouth.info/entry/2026/03/29/010701) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-29 [AMD BC-250でローカルLLMを試してみた \| DevelopersIO](https://dev.classmethod.jp/articles/tried-out-local-LLM-on-AMD-BC-250/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-03-29 [Skillにアプリケーションを組み込んでみる](https://nyosegawa.com/posts/skill-with-app/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-29 [Claude Codeのサブスクリプションで動くSlack常駐AIエージェントを作った](https://tubone-project24.xyz/2026/03/27/mugi-claw-slack-personal-ai-agent/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-29 [BCE を意識して Go のコードを高速化する](https://zenn.dev/mattn/articles/5860d73d292f32) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-29 [中国、架空ビジネスSNSアカウントでNATOやEUの機密情報収集か 情報筋](https://www.afpbb.com/articles/-/3628768) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-29 [ハーネスエンジニアリング、それGit Workflowをbashで書き直してるだけでは](https://zenn.dev/shio_shoppaize/articles/shogun-harness-engineering) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-29 [Vitest 4.1でリリースされたaroundEach/aroundAllは何が便利なのか？ - プププなテクブ](https://blog.inorinrinrin.com/entry/2026/03/28/210354) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-29 [「SLAMDUNK」のあるセリフを流川が言ったのか桜木が言ってのかをAIと話していて間違いを指摘したらまったく間違いを認めず延々口論した話…同じような経験をした人が続々](https://togetter.com/li/2679552) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-29 [GitHub - viperrcrypto/Siftly: Local Twitter/X bookmark organizer with AI categorization and mindmap visualization](https://github.com/viperrcrypto/Siftly) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-03-28 [LLMで“見える運用”へ――可観測性を強化する実務メモ（OpenTelemetry GenAI / Langfuse / Phoenix)](https://zenn.dev/baobao1219/articles/76afbe3dc37815) *(Zenn – トピック LLM)*
+- [ ] 2026-03-28 [AI vs. アンチボット：LLMが書き換えるウェブスクレイピングの全ルール](https://zenn.dev/onlineproxy/articles/0d1f2d1026b561) *(Zenn – トピック LLM)*
+- [ ] 2026-03-28 [AIに20年分の日記を読ませたら人格が生まれて勝手にゲームを作り始めた](https://zenn.dev/nao_u/articles/92ac9436844a16) *(Zenn – トピック LLM)*
+- [ ] 2026-03-28 [LLM Architecture Gallery徹底解説：30+モデルの内部構造を4軸で横断比較する](https://zenn.dev/0h_n0/articles/72d86ab27620f2) *(Zenn – トピック LLM)*
+- [ ] 2026-03-28 [single-agent runtime の次に来るもの: multi-agent 協調 runtime をどう考えるか](https://zenn.dev/nhigashi/articles/4f1f8790745bd8) *(Zenn – トピック LLM)*
+- [ ] 2026-03-28 [Claude Codeを使ってサイトのChatBotからパスワードを聞き出した話](https://zenn.dev/hiyoko_sauna/articles/26faa08f85817f) *(Zenn – トピック LLM)*
+- [ ] 2026-03-28 [OSSで有報の開示漏れを自動検出する — 10点満点中3点の低評価からのスタート](https://zenn.dev/majiro_ns/articles/disclosure-oss-phase1-integrated) *(Zenn – トピック LLM)*
+- [ ] 2026-03-28 [お前のAI、忖度してるぞ](https://zenn.dev/htakasu/articles/654c3906e86830) *(Zenn – トピック LLM)*
+- [ ] 2026-03-28 [推論モデルのコスト最適化をdiffで追跡する — llm-devproxy v0.4](https://zenn.dev/ash4/articles/8973f300141afb) *(Zenn – トピック LLM)*
+- [ ] 2026-03-28 [「アプリは正常、でも出力が微妙」を解決する LLMOps 入門](https://zenn.dev/activecore/articles/8dd0561e564fce) *(Zenn – トピック LLM)*
+- [ ] 2026-03-28 [中国のエンジニアが 2 週間で AI 日本語会話アプリを作った話](https://zenn.dev/takikawayuu/articles/b9f4730cf26e6f) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [「混ぜる」データ拡張は本当に有効なのか？ mixup が示した汎化と頑健性](https://zenn.dev/mantis_ryuji/articles/9f9aae80ae30c3) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [兼務プレイングマネージャーがAI情報漏洩ルールと格闘している記録](https://zenn.dev/nu_dev/articles/48f1d4906d3811) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [AIエージェントIDE「Kiro」を実務で使って見えてきた、設計書優先の進め方](https://zenn.dev/nanashi123/articles/kiro-spec-steering-design-first-workflow) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [アプリ開発練習その２_本文をAIに読ませてタイトルを生成するアプリ](https://zenn.dev/takahiroyuno/articles/4e41e0dd2969e1) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [Windows開発者がtmuxを手に入れる方法（WSL不要）](https://zenn.dev/sora_biz/articles/psmux-windows-native-tmux) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [AIコーディング革命の実態：スタートアップが先行する理由と大企業の課題](https://zenn.dev/kenji_harada/articles/ai-coding-revolution-2026) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [「AIのコードがレビューできない」を分解してみたら、根っこはトレーサビリティだった話](https://zenn.dev/commander/articles/8bfa57c2acb65a) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [AI協業で副業戦略を構築する実践ガイド — GitHub Copilotと一緒にゼロから始める](https://zenn.dev/jodycraft/books/ai-collab-side-business-howto) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [人間はコードを1行も書かずにAIチームをオーケストレーションした実験](https://zenn.dev/yuta_yokoi/articles/931f6e781d91f8) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [AIに覚えさせても、使ってくれない。だからDeveloper Memoryを作った](https://zenn.dev/3062_zamud/articles/43ced85dded77a) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [問い合わせ対応の沼から爆速脱出！AIエージェントを爆誕させた話](https://zenn.dev/nup/articles/202603281800-b9926e2c) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [Claude Codeのスキルを133個作ったら80個が消えていた——予算222%→62%の最適化記録](https://zenn.dev/iori_001/articles/claude-code-skill-budget-optimization) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [2026年3月時点での私のClaude Codeなどを使った開発手法など](https://zenn.dev/ux_xu/articles/cfe82f2629c676) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [【Claude Code】DiscordからClaude Codeを使う「Channels」](https://zenn.dev/nylon66/articles/d37f97dd9734d1) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [SDD + TDD + VDDを融合したClaude Codeプラグイン「VSDD Claude Code」を作った話](https://zenn.dev/sc30gsw/articles/1373752d9713b3) *(Zenn – トピック AI)*
+- [ ] 2026-03-28 [機械学習入門講義メモ](https://zenn.dev/skntjp/articles/5dd4b844e4221f) *(Zenn – トピック 機械学習)*
