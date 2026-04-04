@@ -51016,3 +51016,93 @@
 - [ ] 2026-04-03 [AIOはHTMLで終わらない：実装まで一気通貫で設計する、バイナリ層AIO解説](https://zenn.dev/yuta_yokoi/articles/3735dc2683f900) *(Zenn – トピック AI)*
 - [ ] 2026-04-03 [AGENTS.md完全ガイド：Claude Code・Gemini CLI・Cursorを1ファイルで統一管理する](https://zenn.dev/devken/articles/agents-md-ai-cli-guide) *(Zenn – トピック AI)*
 - [ ] 2026-04-03 [「知らない」は武器になる — クーン・SSL・オートポイエーシスが教える生産的無知の技法](https://zenn.dev/4ki_ka9/articles/productive-ignorance-thinking) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-04-04T01:01:15.646Z
+- [ ] 2026-04-03 [UK’s leading AI research institute told to make ‘significant’ changes](https://www.theguardian.com/technology/2026/apr/03/uk-alan-turing-institute-ai-research-underperforming-ukri) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-03 [Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-03 [OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up](https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-03 [Two OpenAI Execs, Including CEO of AGI, Going on Medical Leave](https://futurism.com/health-medicine/openai-execs-medical-leave) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-03 [Sam Altman Opens Up About Telling CEO of Disney That It Had All Been Smoke and Mirrors](https://futurism.com/artificial-intelligence/sam-altman-disney-sora) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-03 [AI-Powered Tractor Startup Burns Through a Quarter Billion Dollars, Fires All Employees in Epic Implosion](https://futurism.com/robots-and-machines/ai-tractor-startup-founders) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-03 [Anthropic Suddenly Cares Intensely About Intellectual Property After Realizing With Horror That It Accidentally Leaked Claude’s Source Code](https://futurism.com/artificial-intelligence/anthropic-suddenly-cares-about-intellectual-property-claude-leak) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-03 [Microsoft to Invest $10B in AI and Cybersecurity in Japan](https://aibusiness.com/generative-ai/microsoft-invest-10b-ai-cybersecurity-japan) *(AI Business)*
+- [ ] 2026-04-03 [Google Launches Open Model Family Gemma 4](https://aibusiness.com/generative-ai/google-launches-open-model-family-gemma-4) *(AI Business)*
+- [ ] 2026-04-03 [Google Vids Just Got a Major AI Upgrade — Here’s What’s New](https://www.techrepublic.com/article/news-google-vids-ai-avatars-update/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-03 [AI Breakthroughs, Security Breaches, and Industry Shakeups Define the Week in Tech](https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-industry-shakeups-define-the-week-in-tech/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-03 [The Most Common Statistical Traps in FAANG Interviews](https://www.kdnuggets.com/the-most-common-statistical-traps-in-faang-interviews) *(KDnuggets)*
+- [ ] 2026-04-03 [OpenAI COO Shifts Out of Role, AGI CEO Taking Medical Leave](https://www.bloomberg.com/news/articles/2026-04-03/openai-coo-shifts-out-of-role-agi-ceo-taking-medical-leave) *(Bloomberg Technology)*
+- [ ] 2026-04-03 [NASA's Artemis II Lifts Off \| Bloomberg Artemis II Special 4/1/2026](https://www.bloomberg.com/news/videos/2026-04-03/nasa-s-artemis-ii-lifts-off-bloomberg-special-video) *(Bloomberg Technology)*
+- [ ] 2026-04-03 [Two Songs We Really Wish Were the Anime Outros for ‘Steel Ball Run’](https://gizmodo.com/steel-ball-run-ending-songs-theories-netflix-2000742132) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [AI Training Data Giant Mercor Is Reportedly Looking to Buy the Work You Did at Your Old Job](https://gizmodo.com/ai-training-data-giant-mercor-is-reportedly-looking-to-buy-the-work-you-did-at-your-old-job-2000742263) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [Utah Is Giving Dr. AI the Power to Renew Drug Prescriptions](https://gizmodo.com/utah-is-giving-dr-ai-the-power-to-renew-drug-prescriptions-2000742164) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [Here’s the Perfect Excuse to See ‘Project Hail Mary’ Again](https://gizmodo.com/project-hail-mary-directors-commentary-theaterears-2000742154) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [US Airlines Are Hiking Bag Fees Amid Iran War Oil Crisis](https://gizmodo.com/us-airlines-are-hiking-bag-fees-amid-iran-war-oil-crisis-2000742260) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [This Ridiculously Simple Trick Might Stop Gulls From Nabbing Your Lunch](https://gizmodo.com/this-ridiculously-simple-trick-might-stop-gulls-from-nabbing-your-lunch-2000742276) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [‘Starfleet Academy’ Season 3 Could Have Done the ‘Voyager’ Sequel Episode of Robert Picardo’s Dreams](https://gizmodo.com/starfleet-academy-season-3-living-witness-sequel-voyager-robert-picardo-2000742076) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [Judge Kills Lawsuit Against Infamous Study That Might Have Increased Teen Suicides](https://gizmodo.com/judge-kills-lawsuit-against-infamous-study-that-might-have-increased-teen-suicides-2000742241) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [Researchers Discover How to Add Psilocybin, DMT, and Other Psychedelics to Tobacco](https://gizmodo.com/researchers-discover-how-to-add-psilocybin-dmt-and-other-psychedelics-to-tobacco-2000742230) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [Fake Videos Are Already Spreading After Two US Air Force Planes Go Down Near Iran](https://gizmodo.com/fake-videos-are-already-spreading-after-two-us-air-force-planes-go-down-near-iran-2000742160) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [We’re Obsessed With the Meta Fits on These New Star Wars Toys](https://gizmodo.com/hasbro-star-wars-black-series-may-4th-figures-price-release-date-2000742191) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [Behold These Breathtaking Views of Earth Captured by the Artemis 2 Astronauts](https://gizmodo.com/behold-these-breathtaking-views-of-earth-captured-by-the-artemis-2-astronauts-2000742213) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [‘Chainsaw Man’ Briefly Returns in ‘Dandadan’](https://gizmodo.com/chainsaw-man-dandadan-cameo-2000742063) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [Meta Smart Glasses Can Now Track All the Food You Put Into Your Mouth](https://gizmodo.com/meta-smart-glasses-can-now-track-all-the-food-you-put-into-your-mouth-2000742036) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [Here’s Who the Mysterious Main Characters Are in ‘Disclosure Day’](https://gizmodo.com/disclosure-day-stephen-spielberg-chacter-details-2000742142) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [Rubin Observatory Spots Over 11,000 Asteroids in Record Haul](https://gizmodo.com/rubin-observatory-spots-over-11000-asteroids-in-record-haul-2000742109) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [Volkswagen CEO Is Standing Up for Physical Buttons in Cars](https://gizmodo.com/volkswagen-ceo-is-standing-up-for-physical-buttons-in-cars-2000742136) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [That Teenage Bout of Mono May Have a Troubling Second Act](https://gizmodo.com/that-teenage-bout-of-mono-may-have-a-troubling-second-act-2000742050) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [We Landed on Mars, A.K.A. the Set of ‘For All Mankind’](https://gizmodo.com/for-all-mankind-season-5-mars-set-visit-interview-2000741027) *(Gizmodo – Technology)*
+- [ ] 2026-04-03 [AI animation studio Toonstar will turn books into digital shows for HarperCollins](https://www.engadget.com/ai/ai-animation-studio-toonstar-will-turn-books-into-digital-shows-for-harpercollins-211419155.html?src=rss) *(Engadget)*
+- [ ] 2026-04-03 [Jason Blundell announces his new-new studio, Magic Fractal](https://www.engadget.com/gaming/jason-blundell-announces-his-new-new-studio-magic-fractal-201055837.html?src=rss) *(Engadget)*
+- [ ] 2026-04-03 [Banks working on the SpaceX IPO reportedly have to subscribe to Grok](https://www.engadget.com/ai/banks-working-on-the-spacex-ipo-reportedly-have-to-subscribe-to-grok-200213071.html?src=rss) *(Engadget)*
+- [ ] 2026-04-03 [The Artemis II crew snapped some mesmerizing photos of Earth](https://www.engadget.com/science/space/the-artemis-ii-crew-snapped-some-mesmerizing-photos-of-earth-183610493.html?src=rss) *(Engadget)*
+- [ ] 2026-04-03 [March Madness 2026: How to watch the Final Four](https://www.engadget.com/entertainment/streaming/march-madness-2026-how-to-watch-the-final-four-154903746.html?src=rss) *(Engadget)*
+- [ ] 2026-04-03 [Take-Two laid off the head its AI division and an undisclosed number of staff](https://www.engadget.com/gaming/take-two-laid-off-the-head-its-ai-division-and-an-undisclosed-number-of-staff-182824338.html?src=rss) *(Engadget)*
+- [ ] 2026-04-03 [Much like the game’s zombies, State of Decay 3 is somehow still alive](https://www.engadget.com/gaming/xbox/much-like-the-games-zombies-state-of-decay-3-is-somehow-still-alive-170709155.html?src=rss) *(Engadget)*
+- [ ] 2026-04-03 [Trump labor board tells Amazon to negotiate with Staten Island warehouse union](https://www.engadget.com/big-tech/trump-labor-board-tells-amazon-to-negotiate-with-staten-island-warehouse-union-161149065.html?src=rss) *(Engadget)*
+- [ ] 2026-04-03 [The Super Mario Galaxy Movie is a black hole of entertainment](https://www.engadget.com/entertainment/tv-movies/the-super-mario-galaxy-movie-is-a-black-hole-of-entertainment-154406362.html?src=rss) *(Engadget)*
+- [ ] 2026-04-03 [How My Agents Self-Heal in Production](https://blog.langchain.com/production-agents-self-heal/) *(LangChain Blog)*
+- [ ] 2026-04-04 [Google、オープンモデルAI「Gemma 4」をリリース](https://ai.watch.impress.co.jp/docs/news/2098941.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-04 [Microsoftが音声生成モデル「MAI-Voice-1」・音声認識モデル「MAI-Transcribe-1」・画像生成モデル「MAI-Image-2」の3つのAI基盤モデルをリリース](https://gigazine.net/news/20260403-microsoft-ai-mai-voice-1-transcribe-image-2/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-04 [Claude Code、最初にこれやっとき｜7つの設定で世界変わるで](https://zenn.dev/masayan1126/books/claude-code-initial-settings) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-04 [マッキンゼーのAIに侵入、2時間3200円　偽回答仕込むハッカーの手口 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN24C450U6A320C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-04 [NEC「Aterm」シリーズに複数の脆弱性　アップデートまたは買い換えを推奨](https://ascii.jp/elem/000/004/387/4387155/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [日テレもBS4K撤退を決定　新たに免許申請せず　「頑張ってきたが、難しい状況」](https://www.itmedia.co.jp/news/articles/2604/02/news127.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [distrolessコンテナイメージの中を覗いて「なんか軽くてセキュアらしい」より理解を深める - エムスリーテックブログ](https://www.m3tech.blog/entry/2026/04/03/180000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [グーグルとBack Marketが米欧で「ChromeOS Flex USBキット」発売、古いPCに無料OS導入しやすく](https://k-tai.watch.impress.co.jp/docs/news/2098858.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [スマホの背面に装着可能。E-ink端末「Xteink X3」が登場！3.7インチで58gという薄型軽量ボディと向上した画素数が魅力。](https://daily-gadget.net/smartphone_tablet/111881/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [WindowsノートPCのクソデカACアダプタと決別できる謎USBケーブル](https://www.gizmodo.jp/2026/04/elecom-usb-trigger-cable-21e-ql6.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [プロジェクトに入ったらまずはExcelのファイルを開いて使われているフォントを見ましょう、それで時代や民度がわかります→その前に拡張子が.xlsだったら逃げろ](https://togetter.com/li/2681895) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [AIの情報を追うこと自体が非効率になっている気がする - Qiita](https://qiita.com/tmaru-eng/items/c78839d3f58ae8db3a0e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [淀川橋梁の部材に溶接不良2万8000カ所、再製作費をカナデビアに請求](https://xtech.nikkei.com/atcl/nxt/column/18/00142/02579/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [「Google Vids」に無料のAI動画生成機能　3分の音楽生成や録画用拡張機能も](https://k-tai.watch.impress.co.jp/docs/news/2098900.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [Bet AIから一年、AI活用の先に見えてきた次の組織のかたち｜Matsumoto Yuki](https://note.com/y_matsuwitter/n/n07706f87cc8d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [Intelの高コスパCPU「Core Ultra 7 270K Plus」が発売、価格は59,800円](https://akiba-pc.watch.impress.co.jp/docs/news/news/2095092.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [“GPUなし”ノートPCで動くLLMで、ローカルAIエージェントを自作する](https://ascii.jp/elem/000/004/386/4386528/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [ついにBlueskyの日本語公式アカウントが開設される、英語以外では初](https://gigazine.net/news/20260403-bluesky-japanese-account/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [Home Maker: Declare Your Dev Tools in a Makefile](https://thottingal.in/blog/2026/03/29/home-maker/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [「Claude Code」に追加されたリモート接続機能は安全？　注意点は？](https://atmarkit.itmedia.co.jp/ait/articles/2604/03/news053.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [量子コンピューターが「仮想通貨を保護する暗号」を想定よりはるかに少ないリソースで解読できるとGoogleの研究者が警告](https://gigazine.net/news/20260402-google-warns-crypto-quantum-risk/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-03 [自律型AIでは、あなたの思考がどれほど関与するのか](https://zenn.dev/analysis/articles/thought-analyzer-autonomous-ai) *(Zenn – トピック LLM)*
+- [ ] 2026-04-03 [LLM埋め込み空間×セマンティック通信 6G時代の通信処理技術を整理する](https://zenn.dev/0h_n0/articles/1712070d7423ca) *(Zenn – トピック LLM)*
+- [ ] 2026-04-03 [Onyx 徹底調査：OSS AI プラットフォームの機能・仕様・導入・運用・API まで](https://zenn.dev/nekohotaru/articles/onyx-research-memo) *(Zenn – トピック LLM)*
+- [ ] 2026-04-03 [AIエージェントフレームワーク比較【LangChain vs CrewAI vs AutoGen】実務で選ぶための完全ガイド【2026年最新](https://zenn.dev/agdexai/articles/df2ed5e8ad1fc3) *(Zenn – トピック LLM)*
+- [ ] 2026-04-03 [【2026年最新】AIエージェントフレームワーク・ツール完全まとめ272選](https://zenn.dev/agdexai/articles/07b045d4b47c5d) *(Zenn – トピック LLM)*
+- [ ] 2026-04-03 [技術調査 - Jina Reader](https://zenn.dev/suwash/articles/jina-reader_20260403) *(Zenn – トピック LLM)*
+- [ ] 2026-04-03 [Google Gemma 4 実践ガイド — Ollama・HuggingFace で動かすマルチモーダル対応オープンモデル](https://zenn.dev/tkou15/articles/google-gemma-4) *(Zenn – トピック LLM)*
+- [ ] 2026-04-03 [想定される人生のバックグラウンドによる語彙の制限による再現された人格の思考誘導アイデア](https://zenn.dev/fruitriin/articles/5571c477cdd974) *(Zenn – トピック LLM)*
+- [ ] 2026-04-03 [蒸留モデルって何？ - DeepSeek R1の登場から1年の節目に振り返る](https://zenn.dev/jun1013/articles/350971329429d3) *(Zenn – トピック LLM)*
+- [ ] 2026-04-03 [VPSに感情モデルを放置したら、罪悪感が育った話](https://zenn.dev/emilia_lab/articles/vps-spirit-neurostate-guilt-grew) *(Zenn – トピック LLM)*
+- [ ] 2026-04-03 [なぜ、画像生成とコード生成とで、プロと素人のAIの利用状況が真逆になるのか？](https://zenn.dev/pdfractal/articles/5fef39bef3a0b9) *(Zenn – トピック LLM)*
+- [ ] 2026-04-03 [ローカルLLM: Gemma 4 をMac Studioで動かしてみる](https://zenn.dev/hidenori3/articles/611f263e02ced8) *(Zenn – トピック LLM)*
+- [ ] 2026-04-03 [Markdown定義のAIエージェントを Azure Functions で動かす ～Declarative Agents～](https://zenn.dev/nomhiro/articles/azure-functions-declarative-agents) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [生成AIはお笑いの面白さを理解できるのか、お笑い評価モデルの実装と数値化できるかを検証してみた](https://zenn.dev/syoshida07/articles/5d3e44f06a464f) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [【ターミナル不要】ブラウザから1秒でSSH接続できる「OpenCloudShell」が神すぎた](https://zenn.dev/mcp/articles/76c0a4e2eaf649) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [【Claude Code × Colab 第5弾】時系列の次は衛星画像──EuroSATでResNet50が97.8%を出した話](https://zenn.dev/niikun/articles/9fba597fb85bf8) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [Claude CodeのComputer Useって何ができるの？CLIからPC操作を自動化する新機能を解説](https://zenn.dev/joemike/articles/claude-code-computer-use-20260403) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [CLIとは結局なんなのか —— エージェント時代に再評価される理由](https://zenn.dev/komlock_lab/articles/cli-for-agents-2026) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [Anthropic公式スキルとプラグイン、全部わかるで｜安全に使い倒す完全ガイド](https://zenn.dev/masayan1126/books/anthropic-skills-plugins-guide) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [AIパイプラインでマレーシアブログを6週間自動運営した全記録 — 303記事の実績と失敗](https://zenn.dev/utanutan5/articles/2026-04-01-ai-blog-pipeline-malaysia) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [AIはコードを書く。でも業務は変わらない](https://zenn.dev/nullcontroller/articles/ecf0bcfd611d7f) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [MLで株価を予測することはできるのか？](https://zenn.dev/shimada_ml/articles/9eec590c915ca8) *(Zenn – トピック 機械学習)*
+- [ ] 2026-04-03 [AIに180回の株価予測実験を丸投げしてわかったこと——「AIだけでは正しく評価できない」という話](https://zenn.dev/yurelu/articles/636cf99d6e8864) *(Zenn – トピック 機械学習)*
+- [ ] 2026-04-03 [PythonではじめるDSP・音声処理 実践入門](https://zenn.dev/kta805/books/dsp-python-intro) *(Zenn – トピック 機械学習)*
