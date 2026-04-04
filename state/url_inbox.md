@@ -51106,3 +51106,116 @@
 - [ ] 2026-04-03 [MLで株価を予測することはできるのか？](https://zenn.dev/shimada_ml/articles/9eec590c915ca8) *(Zenn – トピック 機械学習)*
 - [ ] 2026-04-03 [AIに180回の株価予測実験を丸投げしてわかったこと——「AIだけでは正しく評価できない」という話](https://zenn.dev/yurelu/articles/636cf99d6e8864) *(Zenn – トピック 機械学習)*
 - [ ] 2026-04-03 [PythonではじめるDSP・音声処理 実践入門](https://zenn.dev/kta805/books/dsp-python-intro) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-04-04T06:43:27.545Z
+- [ ] 2026-04-04 [‘Occasionally a picture can change the course of history’: 33 scandalous photos that shocked the world](https://www.theguardian.com/artanddesign/2026/apr/04/occasionally-a-picture-can-change-the-course-of-history-33-scandalous-photos-that-shocked-the-world) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-04 [Say a Prayer for This Startup That’s Replacing Its Developers With OpenClaw](https://futurism.com/artificial-intelligence/startup-replace-developers-with-openclaw) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-04 [The Overlooked Repetitive Lengthening Form in Sentiment Analysis](https://arxiv.org/abs/2604.01268) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Scaling Reasoning Tokens via RL and Parallel Thinking: Evidence From Competitive Programming](https://arxiv.org/abs/2604.01302) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [M2-Verify: A Large-Scale Multidomain Benchmark for Checking Multimodal Claim Consistency](https://arxiv.org/abs/2604.01306) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Preference learning in shades of gray: Interpretable and bias-aware reward modeling for human preferences](https://arxiv.org/abs/2604.01312) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Procedural Knowledge at Scale Improves Reasoning](https://arxiv.org/abs/2604.01348) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [No Attacker Needed: Unintentional Cross-User Contamination in Shared-State LLM Agents](https://arxiv.org/abs/2604.01350) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Open-Domain Safety Policy Construction](https://arxiv.org/abs/2604.01354) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models](https://arxiv.org/abs/2604.01404) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Assessing Pause Thresholds for empirical Translation Process Research](https://arxiv.org/abs/2604.01410) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Adaptive Stopping for Multi-Turn LLM Reasoning](https://arxiv.org/abs/2604.01413) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Cost-Efficient Estimation of General Abilities Across Benchmarks](https://arxiv.org/abs/2604.01418) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [The power of context: Random Forest classification of near synonyms. A case study in Modern Hindi](https://arxiv.org/abs/2604.01425) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Are Finer Citations Always Better? Rethinking Granularity for Attributed Generation](https://arxiv.org/abs/2604.01432) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Wired for Overconfidence: A Mechanistic Perspective on Inflated Verbalized Confidence in LLMs](https://arxiv.org/abs/2604.01457) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [A Dynamic Atlas of Persian Poetic Symbolism: Families, Fields, and the Historical Rewiring of Meaning](https://arxiv.org/abs/2604.01467) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Magic, Madness, Heaven, Sin: LLM Output Diversity is Everything, Everywhere, All at Once](https://arxiv.org/abs/2604.01504) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Read More, Think More: Revisiting Observation Reduction for Web Agents](https://arxiv.org/abs/2604.01535) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Countering Catastrophic Forgetting of Large Language Models for Better Instruction Following via Weight-Space Model Merging](https://arxiv.org/abs/2604.01538) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [DeltaMem: Towards Agentic Memory Management via Reinforcement Learning](https://arxiv.org/abs/2604.01560) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression](https://arxiv.org/abs/2604.01609) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Grounding AI-in-Education Development in Teachers' Voices: Findings from a National Survey in Indonesia](https://arxiv.org/abs/2604.01630) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Fragile Reasoning: A Mechanistic Analysis of LLM Sensitivity to Meaning-Preserving Perturbations](https://arxiv.org/abs/2604.01639) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [What Do Claim Verification Datasets Actually Test? A Reasoning Trace Analysis](https://arxiv.org/abs/2604.01657) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [PRCCF: A Persona-guided Retrieval and Causal-aware Cognitive Filtering Framework for Emotional Support Conversation](https://arxiv.org/abs/2604.01671) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [PRISM: Probability Reallocation with In-Span Masking for Knowledge-Sensitive Alignment](https://arxiv.org/abs/2604.01682) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning](https://arxiv.org/abs/2604.01702) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Development and multi-center evaluation of domain-adapted speech recognition for human-AI teaming in real-world gastrointestinal endoscopy](https://arxiv.org/abs/2604.01705) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Memory in the LLM Era: Modular Architectures and Strategies in a Unified Framework](https://arxiv.org/abs/2604.01707) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Human-Guided Reasoning with Large Language Models for Vietnamese Speech Emotion Recognition](https://arxiv.org/abs/2604.01711) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Detecting Toxic Language: Ontology and BERT-based Approaches for Bulgarian Text](https://arxiv.org/abs/2604.01745) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Taming CATS: Controllable Automatic Text Simplification through Instruction Fine-Tuning with Control Tokens](https://arxiv.org/abs/2604.01779) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [DEFT: Distribution-guided Efficient Fine-Tuning for Human Alignment](https://arxiv.org/abs/2604.01787) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [PLOT: Enhancing Preference Learning via Optimal Transport](https://arxiv.org/abs/2604.01837) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [From Guessing to Placeholding: A Cost-Theoretic Framework for Uncertainty-Aware Code Completion](https://arxiv.org/abs/2604.01849) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Beyond Detection: Ethical Foundations for Automated Dyslexic Error Attribution](https://arxiv.org/abs/2604.01853) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [SURE: Synergistic Uncertainty-aware Reasoning for Multimodal Emotion Recognition in Conversations](https://arxiv.org/abs/2604.01916) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Is Clinical Text Enough? A Multimodal Study on Mortality Prediction in Heart Failure Patients](https://arxiv.org/abs/2604.01924) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [ImplicitBBQ: Benchmarking Implicit Bias in Large Language Models through Characteristic Based Cues](https://arxiv.org/abs/2604.01925) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Reliable News or Propagandist News? A Neurosymbolic Model Using Genre, Topic, and Persuasion Techniques to Improve Robustness in Classification](https://arxiv.org/abs/2604.01936) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [How to measure the optimality of word or gesture order with respect to the principle of swap distance minimization](https://arxiv.org/abs/2604.01938) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite](https://arxiv.org/abs/2604.01957) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [SAFE: Stepwise Atomic Feedback for Error correction in Multi-hop Reasoning](https://arxiv.org/abs/2604.01993) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [$k$NNProxy: Efficient Training-Free Proxy Alignment for Black-Box Zero-Shot LLM-Generated Text Detection](https://arxiv.org/abs/2604.02008) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Why Gaussian Diffusion Models Fail on Discrete Data?](https://arxiv.org/abs/2604.02028) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Tracking the emergence of linguistic structure in self-supervised models learning from speech](https://arxiv.org/abs/2604.02043) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [BidirLM: From Text to Omnimodal Bidirectional Encoders by Adapting and Composing Causal LLMs](https://arxiv.org/abs/2604.02045) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Goose: Anisotropic Speculation Trees for Training-Free Speculative Decoding](https://arxiv.org/abs/2604.02047) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Optimizing RAG Rerankers with LLM Feedback via Reinforcement Learning](https://arxiv.org/abs/2604.02091) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Reliable Control-Point Selection for Steering Reasoning in Large Language Models](https://arxiv.org/abs/2604.02113) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [GaelEval: Benchmarking LLM Performance for Scottish Gaelic](https://arxiv.org/abs/2604.02135) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Brief Is Better: Non-Monotonic Chain-of-Thought Budget Effects in Function-Calling Language Agents](https://arxiv.org/abs/2604.02155) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Adam's Law: Textual Frequency Law on Large Language Models](https://arxiv.org/abs/2604.02176) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Neuro-RIT: Neuron-Guided Instruction Tuning for Robust Retrieval-Augmented Language Model](https://arxiv.org/abs/2604.02194) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Towards Position-Robust Talent Recommendation via Large Language Models](https://arxiv.org/abs/2604.02200) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [CV-18 NER: Augmented Common Voice for Named Entity Recognition from Arabic Speech](https://arxiv.org/abs/2604.02209) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [No Single Best Model for Diversity: Learning a Router for Sample Diversity](https://arxiv.org/abs/2604.02319) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [ReFormeR: Learning and Applying Explicit Query Reformulation Patterns](https://arxiv.org/abs/2604.01417) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [From SWE-ZERO to SWE-HERO: Execution-free to Execution-based Fine-tuning for Software Engineering Agents](https://arxiv.org/abs/2604.01496) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Acoustic and perceptual differences between standard and accented Chinese speech and their voice clones](https://arxiv.org/abs/2604.01562) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [OSCAR: Orchestrated Self-verification and Cross-path Refinement](https://arxiv.org/abs/2604.01624) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [ThinknCheck: Grounded Claim Verification with Compact, Reasoning-Driven, and Interpretable Models](https://arxiv.org/abs/2604.01652) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [From BM25 to Corrective RAG: Benchmarking Retrieval Strategies for Text-and-Table Documents](https://arxiv.org/abs/2604.01733) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Do We Need Bigger Models for Science? Task-Aware Retrieval with Small Language Models](https://arxiv.org/abs/2604.01965) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [LLM-as-a-Judge for Time Series Explanations](https://arxiv.org/abs/2604.02118) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [MTI: A Behavior-Based Temperament Profiling System for AI Agents](https://arxiv.org/abs/2604.02145) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Blinded Radiologist and LLM-Based Evaluation of LLM-Generated Japanese Translations of Chest CT Reports: Comparative Study](https://arxiv.org/abs/2604.02207) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [VISTA: Visualization of Token Attribution via Efficient Analysis](https://arxiv.org/abs/2604.02217) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Analyzing Language Bias Between French and English in Conventional Multilingual Sentiment Analysis Models](https://arxiv.org/abs/2405.06692) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [J-CHAT: Japanese Large-scale Spoken Dialogue Corpus for Spoken Dialogue Language Modeling](https://arxiv.org/abs/2407.15828) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Lexical categories of stem-forming roots in Mapud\"ungun verb forms](https://arxiv.org/abs/2502.07623) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [No Free Labels: Limitations of LLM-as-a-Judge Without Human Grounding](https://arxiv.org/abs/2503.05061) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [SAKE: Structured Agentic Knowledge Extrapolation for Complex LLM Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.15062) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Reviewing Scientific Papers for Critical Problems With Reasoning LLMs: Baseline Approaches and Automatic Evaluation](https://arxiv.org/abs/2505.23824) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [A Comparative Study of Competency Question Elicitation Methods from Ontology Requirements](https://arxiv.org/abs/2507.02989) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Support-Contra Asymmetry in LLM Explanations](https://arxiv.org/abs/2510.21884) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Affect, Body, Cognition, Demographics, and Emotion: The ABCDE of Text Features for Computational Affective Science](https://arxiv.org/abs/2512.17752) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [LLM2Vec-Gen: Generative Embeddings from Large Language Models](https://arxiv.org/abs/2603.10913) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [PAVE: Premise-Aware Validation and Editing for Retrieval-Augmented LLMs](https://arxiv.org/abs/2603.20673) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Tailoring AI-Driven Reading Scaffolds to the Distinct Needs of Neurodiverse Learners](https://arxiv.org/abs/2603.28370) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [ExpertFlow: Efficient Mixture-of-Experts Inference via Predictive Expert Caching and Token Scheduling](https://arxiv.org/abs/2410.17954) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Optimus: A Robust Defense Framework for Mitigating Toxicity while Fine-Tuning Conversational AI](https://arxiv.org/abs/2507.05660) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [AutiHero: Engaging Parents in Creating Personalized, Multi-path~Social Narratives for Autistic Children](https://arxiv.org/abs/2509.17608) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Glia: A Human-Inspired AI for Automated Systems Design and Optimization](https://arxiv.org/abs/2510.27176) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [Sub-exponential Growth Dynamics in Complex Systems: A Piecewise Power-Law Model for the Diffusion of New Words and Names](https://arxiv.org/abs/2511.04106) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [The Reasoning Error About Reasoning: Why Different Types of Reasoning Require Different Representational Structures](https://arxiv.org/abs/2603.21736) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [The Presupposition Problem in Representation Genesis](https://arxiv.org/abs/2603.21745) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-04-04 [思いつきを手軽にメモ。Claudeでアイデアを残し、広げる仕組みを作ってみた。 \| DevelopersIO](https://dev.classmethod.jp/articles/claudememo-20260403/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-04 [Gemma 4 を DGX Spark で動かして日本語とマルチモーダルをベンチマークしてみた \| DevelopersIO](https://dev.classmethod.jp/articles/dgx-spark-gemma4-benchmark/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-04 [apfel - Free AI on Your Mac](https://apfel.franzai.com/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-04 [なぜ、バックエンドエンジニアから先にAIに代替されて行くのがわからない人が多いのか？](https://zenn.dev/pdfractal/articles/7e7deb2d768326) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-04 [NEC Atermのサポート内容に疑問](https://anond.hatelabo.jp/20260404103515) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [【レビュー】10万円以下のMacは意外とアリ?　「MacBook Neo」を普段使いした](https://www.watch.impress.co.jp/docs/review/review/2098562.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [Claude Codeの「ソースコード流出」をどう見るのか](https://blog.lai.so/leak-claude-code/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [GitHub を Terraform でリポジトリ管理しようとしたが断念した話](https://zenn.dev/safie_inc/articles/3d6e800f2487fc) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [HiBy Music、BluetoothでもUSBでも使える小型DAC。MagSafe対応アクセサリも](https://av.watch.impress.co.jp/docs/news/2098640.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [なぜ検知できなかったのか？ Axiosを襲った「遅延型」サプライチェーン攻撃の技術的解析](https://codezine.jp/article/detail/23847) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [Signals, the push-pull based algorithm — Willy Brauner](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [第905回　新年度特別企画 llama.cppでコマンドラインベースのローカルLLM入門［VRAM容量別編］ \| gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0905) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [Windows Terminalを使い込んでみようと思った](https://zenn.dev/maedan/articles/b8be4bd68c09fb) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [【290円×1万個量産】製造方法まで公開、Xで話題のUIAPduino開発者が語る](https://www.youtube.com/watch?v=ijPy3USObEA) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-04 [AIキャラが“暇だから”と勝手に動き出す!? AIの“自律性”に振り切った対話アプリ「Nexus Ark」／記憶し、夢を見て、世界を書き換える【レビュー】](https://forest.watch.impress.co.jp/docs/review/2098195.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-03 [【n8n×生成AI】セミナー後の定型文はNG！参加者の「熱量」を自動分析して個別提案メールを作るAIインサイドセールス](https://zenn.dev/webook/articles/9d771da2651a09) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [Claude Code Computer Useを試してみた — Playwrightと比較して分かった「使いどころ」](https://zenn.dev/joinclass/articles/claude-code-computer-use-review) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [MarkSheet App: External Data Integration Specification](https://zenn.dev/enoiu/articles/a64aecadd1b126) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [マークシート アプリ: 外部データ連携仕様](https://zenn.dev/enoiu/articles/d7a333064ef2b8) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [375件テスト全GREEN、でも遊べない — QDHEフレームワークが見落としたもの](https://zenn.dev/belka_dolphin/articles/3702746398a933) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [Claude Codeで”トークン破産”しないためのコスト最適化とコンテキスト防衛術](https://zenn.dev/heki1224/articles/b849cc85a330aa) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [Claude Codeの会話が突然リセットされるバグ、AI2体と人間が総力戦で挑んで全員ハズレだった話](https://zenn.dev/yurukusa/articles/7debcb931d58e6) *(Zenn – トピック AI)*
+- [ ] 2026-04-03 [Playwright CLI はなぜ「AI 向け」なのか — 設計思想と 55 コマンド検証から読み解く](https://zenn.dev/kwrkb/articles/ddd8b58bcac2ad) *(Zenn – トピック AI)*
