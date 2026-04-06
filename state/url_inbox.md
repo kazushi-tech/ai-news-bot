@@ -51810,3 +51810,73 @@
 - [ ] 2026-04-04 [40歳・IT歴あり・でもPython書けなかった私がKaggleに挑戦するためのデータ分析環境を整えた話](https://zenn.dev/yune0926/articles/yune-kaggle-start) *(Zenn – トピック 機械学習)*
 - [ ] 2026-04-04 [J-Quants API 入門（V2対応）](https://zenn.dev/shimada_ml/articles/6df909a5a96268) *(Zenn – トピック 機械学習)*
 - [ ] 2026-04-03 [【Transformerとは？ - 第七回B】QKVで理解するSelf-Attentionの本質と限界](https://zenn.dev/hitama/articles/37874021e48cac) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-04-06T18:38:23.402Z
+- [ ] 2026-04-06 [Using AI to prepare and evaluate environmental assessments risks ‘robodebt-style’ failures, scientists say](https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-06 [Republicans fooled by AI-generated image of US airman rescued in Iran](https://www.theguardian.com/us-news/2026/apr/06/republicans-ai-image-us-plane-member-rescue-iran) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-06 [Startup Approved to Let AI System Prescribe Psychiatric Medication](https://futurism.com/health-medicine/startup-ai-system-prescribe-psychiatric-medication) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-06 [Sam Altman Watches Awkwardly As He’s Shown Bizarre ChatGPT Issue: “Uh, Maybe, Uhhh”](https://futurism.com/artificial-intelligence/sam-altman-awkward-reaction-chatgpt-issue) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-06 [Why Is the New York Times Laundering the Reputation of a Sleazy AI Startup That’s Selling GLP-1s via a Dishonest Dumpster Fire of Fake Doctors, Phony Before-and-After Pictures, and Other Glaring Red Flags?](https://futurism.com/artificial-intelligence/new-york-times-medvi-ai-glp1s) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-06 [OPINION: Fast, Flexible AI Testing Is the Foundation of Strategic Leadership](https://aibusiness.com/generative-ai/opinion-fast-flexible-ai-testing-foundation-strategic-leadership) *(AI Business)*
+- [ ] 2026-04-06 [Claude Subscribers Now Have to Pay to Use OpenClaw](https://aibusiness.com/agentic-ai/claude-subscribers-now-have-pay-use-openclaw) *(AI Business)*
+- [ ] 2026-04-06 [Could NZ’s next Christchurch Call be a push for fairer, safer AI?](https://theconversation.com/could-nzs-next-christchurch-call-be-a-push-for-fairer-safer-ai-279085) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-04-06 [From Jurassic Park to dreams of AI doom, pop culture shapes science more than we like to admit](https://theconversation.com/from-jurassic-park-to-dreams-of-ai-doom-pop-culture-shapes-science-more-than-we-like-to-admit-279245) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-04-06 [AI Is Insatiable](https://spectrum.ieee.org/high-bandwidth-memory-shortage) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-04-06 [AI Isn’t Coming For Your Job: Automation Is](https://www.kdnuggets.com/ai-isnt-coming-for-your-job-automation-is) *(KDnuggets)*
+- [ ] 2026-04-06 [New Dark Comedy Takes Aim at Wannabee Tech Titan](https://www.bloomberg.com/news/videos/2026-04-06/new-dark-comedy-takes-aim-at-wannabee-tech-titan-video) *(Bloomberg Technology)*
+- [ ] 2025-10-17 [Robinhood Is Banking on Babies and 401(k)s to Get Everyone Trading](https://www.bloomberg.com/news/features/2025-10-17/robinhood-s-next-bet-gen-z-401-k-s-and-trump) *(Bloomberg Technology)*
+- [ ] 2026-04-06 [SpaceX Expected to Kick Off a Wave of Mega IPOs](https://www.bloomberg.com/news/videos/2026-04-06/spacex-expected-to-kick-off-a-wave-of-mega-ipos-video) *(Bloomberg Technology)*
+- [ ] 2026-04-06 [Jones Day Law Firm Says Hackers Accessed Some Clients’ Data](https://www.bloomberg.com/news/articles/2026-04-06/jones-day-law-firm-says-hackers-accessed-some-clients-data) *(Bloomberg Technology)*
+- [ ] 2026-04-06 [OpenAI Releases Policy Recommendations for AI Age](https://www.bloomberg.com/news/videos/2026-04-06/openai-releases-policy-recommendations-for-ai-age-video) *(Bloomberg Technology)*
+- [ ] 2026-04-06 [Polish Power Prices Turns Negative for Some as Renewables Boom](https://www.bloomberg.com/news/articles/2026-04-06/polish-power-prices-turns-negative-for-some-as-renewables-boom) *(Bloomberg Technology)*
+- [ ] 2026-04-06 [AMC Shares Gain on Holiday Box Office Surge Buoyed by ‘Mario’](https://www.bloomberg.com/news/articles/2026-04-06/amc-shares-gain-on-holiday-box-office-surge-buoyed-by-mario) *(Bloomberg Technology)*
+- [ ] 2026-04-06 [San Francisco House Prices Hit Record $2.15 Million on AI Boom](https://www.bloomberg.com/news/articles/2026-04-06/san-francisco-house-prices-hit-record-2-15-million-on-ai-boom) *(Bloomberg Technology)*
+- [ ] 2026-04-06 [Israel, Greece Sign €650 Million Deal for Rockets, Launchers](https://www.bloomberg.com/news/articles/2026-04-06/israel-greece-sign-650-million-deal-for-rockets-launchers) *(Bloomberg Technology)*
+- [ ] 2026-04-06 [Wisconsin Remains a Gooning Sanctuary State After Governor Rejects Age Verification Bill](https://gizmodo.com/wisconsin-remains-a-gooning-sanctuary-state-after-governor-rejects-age-verification-bill-2000742910) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [The Artemis 2 Astronauts Are Now Farther From Earth Than Any Have Gone Before](https://gizmodo.com/the-artemis-2-astronauts-are-now-farther-from-earth-than-any-have-gone-before-2000742810) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [The Imperial Credits From the ‘Andor’ Aldhani Heist Are Up for Auction, Which We’re Sure Is Not a Commentary on Capitalism at All](https://gizmodo.com/andor-heritage-auctions-imperial-payroll-2000742937) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [Check Your Medicine Cabinet for These Eye Drop Bottles After Millions Recalled](https://gizmodo.com/check-your-medicine-cabinet-for-these-eye-drop-bottles-after-millions-recalled-2000742901) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [Artemis 2 Astronauts’ Epic iPhone Photos Are All… Selfies?](https://gizmodo.com/artemis-2-astronauts-epic-iphone-photos-are-all-selfies-2000742965) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [OpenAI Releases Its Vague Vision for Reorganizing Society Around Superintelligence](https://gizmodo.com/openai-releases-its-vague-vision-for-reorganizing-society-around-superintelligence-2000742906) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [Lego Is Getting Mark Hamill on the Phone to Sell You Its Smart Bricks](https://gizmodo.com/lego-star-wars-smart-play-mark-hamill-call-line-2000742925) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [Scientists Are Recycling Centuries-Old Bullets for a Badly Needed Toxic Compound](https://gizmodo.com/scientists-are-recycling-centuries-old-bullets-for-a-badly-needed-toxic-compound-2000742666) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [You Can Buy ‘Dune: Part Three’ IMAX Tickets Right Now](https://gizmodo.com/you-can-buy-dune-part-three-imax-tickets-right-now-2000742907) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [LA Has a Big Flea Problem. Typhus Cases Reached Record High Last Year](https://gizmodo.com/la-has-a-big-flea-problem-typhus-cases-reached-record-high-last-year-2000742855) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [‘The Testaments’ Cast on How Their Show Mirrors Our Real-Life Dystopia](https://gizmodo.com/testaments-interview-handmaids-tale-real-life-2000740556) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [Meta to Smart Glasses Owners: Stop Hitting Yourself](https://gizmodo.com/meta-to-smart-glasses-owners-stop-hitting-yourself-2000742835) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [Gaming Handhelds Are Getting Really Funky—and We’re Here for It](https://gizmodo.com/gaming-handhelds-are-getting-really-funky-and-were-here-for-it-2000742852) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [Netflix Wants You to Stop Yelling at It About ‘Steel Ball Run’](https://gizmodo.com/netflix-steel-ball-run-stage-2-release-date-schedule-2000742832) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [How to Watch Artemis 2 Reach the Moon and Make Spaceflight History Today](https://gizmodo.com/how-to-watch-artemis-2-reach-the-moon-and-make-spaceflight-history-today-2000742330) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [Elijah Wood May Have Revealed the New Aragorn for ‘Hunt for Gollum’](https://gizmodo.com/lord-of-the-rings-hunt-for-gollum-aragorn-leo-woodall-2000742657) *(Gizmodo – Technology)*
+- [ ] 2026-04-06 [Three YouTubers accuse Apple of illegal scraping to train its AI models](https://www.engadget.com/ai/three-youtubers-accuse-apple-of-illegal-scraping-to-train-its-ai-models-181028745.html?src=rss) *(Engadget)*
+- [ ] 2026-04-06 [NASA's Artemis II crew just flew farther away from Earth than anyone ever has before](https://www.engadget.com/science/space/nasas-artemis-ii-crew-just-flew-farther-away-from-earth-than-anyone-ever-has-before-180259867.html?src=rss) *(Engadget)*
+- [ ] 2026-04-06 [You can now search through app reviews on the Google Play Store](https://www.engadget.com/apps/you-can-now-search-through-app-reviews-on-the-google-play-store-170459063.html?src=rss) *(Engadget)*
+- [ ] 2026-04-06 [Netflix just released a standalone gaming app for kids](https://www.engadget.com/apps/netflix-just-released-a-standalone-gaming-app-for-kids-170030884.html?src=rss) *(Engadget)*
+- [ ] 2026-04-06 [How to watch the historic Artemis II lunar flyby](https://www.engadget.com/science/space/how-to-watch-the-historic-artemis-ii-lunar-flyby-155114417.html?src=rss) *(Engadget)*
+- [ ] 2026-04-06 [Mercedes-Benz recalls some G-Wagon EVs due to risk of wheels falling off](https://www.engadget.com/transportation/evs/mercedes-benz-recalls-some-g-wagon-evs-due-to-risk-of-wheels-falling-off-150939361.html?src=rss) *(Engadget)*
+- [ ] 2026-04-06 [Samsung's Music Studio speakers and two of its 2026 soundbars are available now](https://www.engadget.com/audio/speakers/samsungs-music-studio-speakers-and-two-of-its-2026-soundbars-are-available-now-150000056.html?src=rss) *(Engadget)*
+- [ ] 2026-04-06 [Announcing the OpenAI Safety Fellowship](https://openai.com/index/introducing-openai-safety-fellowship) *(OpenAI News)*
+- [ ] 2026-04-06 [Gemma 4 完全解説：Googleの最新OSSモデルはDeepSeekやQwenと戦えるか？ - Qiita](https://qiita.com/rikiza1989/items/dcb7e801065706853cfd) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-06 [オープンイヤーなのにノイキャンが使えるイヤフォン「OpenFit Pro」](https://pc.watch.impress.co.jp/docs/news/2099410.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-06 [パラメーター数8Bなのにメモリ消費わずか1.15GBの省メモリAIモデル「1-bit Bonsai」が登場、メモリ消費量14倍のモデルと同等以上の性能を発揮](https://gigazine.net/news/20260406-prismml-1-bit-bonsai/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-06 [これがiPhone 17 Pro Maxで撮った地球──「アルテミスII」宇宙船クルーが撮影、NASAが公開](https://www.itmedia.co.jp/news/articles/2604/06/news103.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-06 [脱CDKしてTerraformに移行すべきn個の理由(または私はなぜCDKをやめたか)](https://zenn.dev/okazu_dm/articles/d35f863365cabf) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-06 [Googleドライブ、AIによるランサムウェア検出と復元機能が正式版に。ランサムウェア検知能力が14倍向上と](https://www.publickey1.jp/blog/26/googleai14.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-06 [スーパー「Olympic」がドン・キホーテなどに転換　PPIHが子会社化](https://www.watch.impress.co.jp/docs/news/2099328.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-06 [【優しいAI】「このボタンどこ？」をAIが解決する。AIリアルタイム操作ナビゲーション「Waylume」をリリース【Next.js✖️Chrome拡張機能】 - Qiita](https://qiita.com/yoshikim1467/items/382bd11e374df6774ec4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-06 [「Microsoft 365」と「Claude」を接続、専用コネクターが無料を含む全プランに／「Outlook」や「Teams」、「OneDrive」などの業務データを「Claude」で活用できる](https://forest.watch.impress.co.jp/docs/news/2099279.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-06 [NECの「Aterm」に複数の脆弱性、サポート終了済み製品も対象](https://k-tai.watch.impress.co.jp/docs/news/2099415.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-06 [AIエージェントが機密データを漏洩する5つの実例 — RBACでは防げない構造的欠陥 - Qiita](https://qiita.com/ymaeda_it/items/268f3f17137bfef548b4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-06 [VPN利用を制限するロシア政府の試みが大規模な銀行システム障害を引き起こしていることをTelegram創業者が明らかに](https://gigazine.net/news/20260406-russia-vpn-problem/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-06 [マイクロソフト、Webブラウザ上でリアルタイムに3Dレンダリングを実現する「Babylon.js 9.0」正式リリース。照明計算の高速化、パーティクルエディタ搭載など新機能](https://www.publickey1.jp/blog/26/web3dbabylonjs_90.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-05 [プロジェクト内の全コードをTree-sitterで構造化 → RLMによるQAを試してみた](https://zenn.dev/yumefuku/articles/codetwine-rlm) *(Zenn – トピック LLM)*
+- [ ] 2026-04-05 [1-bit LLMとBonsai：極限軽量化の最前線を論文ベースで整理する](https://zenn.dev/amasashi/articles/e75ffebff53bb7) *(Zenn – トピック LLM)*
+- [ ] 2026-04-06 [LLMにおけるハーネス理論とは？Minecraftでわかるエージェント設計の本質](https://zenn.dev/mak246/articles/aef9ac67231e41) *(Zenn – トピック AI)*
+- [ ] 2026-04-06 [Claude Code Skillsをマスターしよう](https://zenn.dev/kida_takuma/articles/claude-code-skills-master) *(Zenn – トピック AI)*
+- [ ] 2026-04-06 [GitHub Copilot の Agent Mode・CLI・Coding Agent・SDK を使い分けて、開発の進め方を組み直した話](https://zenn.dev/preferred/articles/github-copilot-agent-mode-workflow-2026) *(Zenn – トピック AI)*
+- [ ] 2026-04-06 [AIエージェント経営の朝ルーティン — Claude Codeで全部門を5分で把握する方法](https://zenn.dev/joinclass/articles/claude-code-morning-dashboard) *(Zenn – トピック AI)*
+- [ ] 2026-04-06 [#48 Orchestrator の内部構造（実装編）](https://zenn.dev/corone/articles/2741a21e6e67ca) *(Zenn – トピック AI)*
+- [ ] 2026-04-06 [Claude Code 今日の発見 — 2026-04-03](https://zenn.dev/shin_agent/articles/claude-discovery-2026-04-03) *(Zenn – トピック AI)*
+- [ ] 2026-04-06 [zk を Claude Code に接続する MCP サーバー「zk-mcp」を Rust で作った](https://zenn.dev/cellfusion/articles/zk-mcp-zettelkasten-claude-code) *(Zenn – トピック AI)*
+- [ ] 2026-04-06 [Claude Codeプラグインで作ったai-docs、Codexでも使えた話](https://zenn.dev/assign/articles/2a8874f0c8e743) *(Zenn – トピック AI)*
+- [ ] 2026-04-06 [Google Workspace契約者がGemini CLIでGemini 3.1 Proを使うまでの地獄](https://zenn.dev/hummer/articles/gemini-cli-workspace-gemini3) *(Zenn – トピック AI)*
