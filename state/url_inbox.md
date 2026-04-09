@@ -52997,3 +52997,78 @@
 - [ ] 2026-04-08 [Cursor完全ガイド2026 — AI駆動エディタの使い方・料金・個人開発で稼ぐ活用法](https://zenn.dev/joemike/articles/cursor-complete-guide-20260408) *(Zenn – トピック AI)*
 - [ ] 2026-04-08 [お出かけの未来が変わる？Googleマップ「Ask Maps / Immersive Navigation」を調べてみた！](https://zenn.dev/grand2/articles/0cd3ee5da9043e) *(Zenn – トピック AI)*
 - [ ] 2026-04-08 [フォームの回答がGitHub PRを作るまで -- MCP横断オーケストレーションの設計](https://zenn.dev/lova_man/articles/77a03a995abe77) *(Zenn – トピック AI)*
+
+## Collected on 2026-04-09T00:58:46.272Z
+- [ ] 2026-04-08 [Ohio man becomes first to be convicted under new AI statute for sexually explicit images](https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-08 [Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo](https://www.wired.com/story/anthropic-appeals-court-ruling/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-08 [Analysis Finds That Google’s AI Overviews Are Providing Misinformation at a Scale Possibly Unprecedented in the History of Human Civilization](https://futurism.com/artificial-intelligence/google-ai-overviews-misinformation) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-08 [Meta Releases First Proprietary AI Model: Muse Spark](https://aibusiness.com/generative-ai/meta-releases-first-proprietary-ai-model-muse-spark) *(AI Business)*
+- [ ] 2026-04-08 [Anthropic Completes Tender Offer, But Employees Hold Onto Shares](https://www.bloomberg.com/news/articles/2026-04-08/anthropic-completes-tender-offer-but-employees-hold-onto-shares) *(Bloomberg Technology)*
+- [ ] 2026-04-08 [Pimco Seeks to Sell Parts of $14 Billion Oracle Data Center Debt](https://www.bloomberg.com/news/articles/2026-04-08/pimco-seeks-to-sell-parts-of-14-billion-oracle-data-center-debt) *(Bloomberg Technology)*
+- [ ] 2026-04-08 [Court Rules to Keep Anthropic Labeled a Supply-Chain Risk, for Now](https://www.bloomberg.com/news/articles/2026-04-08/anthropic-fails-for-now-to-halt-us-label-as-a-supply-chain-risk) *(Bloomberg Technology)*
+- [ ] 2026-04-08 [China Taps Telecom Executive as Senior Colonel for Reserve Force](https://www.bloomberg.com/news/articles/2026-04-08/china-taps-telecom-executive-as-senior-colonel-for-reserve-force) *(Bloomberg Technology)*
+- [ ] 2026-04-08 [Wave of Optimism Sweeps Through Global Markets \| The Close 4/8/2026](https://www.bloomberg.com/news/videos/2026-04-08/the-close-4-8-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-04-08 [DOJ Top Antitrust Litigators Exit After Ticketmaster Accord](https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement) *(Bloomberg Technology)*
+- [ ] 2026-04-08 [Tech Stocks Rally on the Back of US-Iran Ceasefire Deal \| Bloomberg Tech 4/8/2026](https://www.bloomberg.com/news/videos/2026-04-08/bloomberg-tech-4-8-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-04-08 [Apollo's Sambur: AI Makes Valuing Software Firms Harder](https://www.bloomberg.com/news/videos/2026-04-08/apollo-s-sambur-ai-makes-valuing-software-firms-harder-video) *(Bloomberg Technology)*
+- [ ] 2026-04-08 [Pimco to Weigh $14B Debt Deal for Oracle Data Center](https://www.bloomberg.com/news/videos/2026-04-08/pimco-to-weigh-14b-debt-deal-for-oracle-data-center) *(Bloomberg Technology)*
+- [ ] 2026-04-08 [We'll See Resumption of Deals: Blackstone's Baratta](https://www.bloomberg.com/news/videos/2026-04-08/we-ll-see-resumption-of-deals-blackstone-s-baratta-video) *(Bloomberg Technology)*
+- [ ] 2026-04-08 [Banks Selling $3 Billion Debt for Meta’s Prometheus Data Center](https://www.bloomberg.com/news/articles/2026-04-08/natixis-mufg-others-market-meta-s-3b-data-center-build) *(Bloomberg Technology)*
+- [ ] 2026-04-08 [‘Good Omens’ Season 3 Is Still Just One Episode, Despite Being Called That](https://gizmodo.com/good-omens-season-3-length-amazon-2000744186) *(Gizmodo – Technology)*
+- [ ] 2026-04-08 [Steam Gaming Has Arrived on Apple Vision Pro, and It’s Unexpectedly Glorious](https://gizmodo.com/steam-gaming-has-arrived-on-apple-vision-pro-and-its-unexpectedly-glorious-2000744217) *(Gizmodo – Technology)*
+- [ ] 2026-04-08 [RFK Jr. Will Take on Joe Rogan for Podcaster Supremacy](https://gizmodo.com/rfk-jr-will-take-on-joe-rogan-for-podcaster-supremacy-2000744221) *(Gizmodo – Technology)*
+- [ ] 2026-04-08 [The Spymaster’s Guide to the Secret Agencies of ‘Star Trek’](https://gizmodo.com/star-trek-spy-agencies-explained-2000744092) *(Gizmodo – Technology)*
+- [ ] 2026-04-08 [Uber Is Testing Driverless Volkswagen ID. Buzz Vans in Los Angeles](https://gizmodo.com/uber-is-testing-driverless-volkswagen-id-buzz-vans-in-los-angeles-2000744188) *(Gizmodo – Technology)*
+- [ ] 2026-04-08 [Cast Adrift, Meta Employees Have No Idea Who the ‘Token Legend’ Is Anymore](https://gizmodo.com/cast-adrift-meta-employees-have-no-idea-who-the-token-legend-is-anymore-2000744189) *(Gizmodo – Technology)*
+- [ ] 2026-04-08 [You Can Add ‘Lamp That Folds Your Laundry’ to the List of Doomed Startups](https://gizmodo.com/you-can-add-lamp-that-folds-your-laundry-to-the-list-of-doomed-startups-2000744184) *(Gizmodo – Technology)*
+- [ ] 2026-04-08 [The First Big ‘Alien: Earth’ Season 2 Addition Is Peter Dinklage](https://gizmodo.com/the-first-big-alien-earth-season-2-addition-is-peter-dinklage-2000744230) *(Gizmodo – Technology)*
+- [ ] 2026-04-08 [How to Watch NASA’s Artemis 2 Return to Earth at a Blazing 25,000 MPH](https://gizmodo.com/how-to-watch-nasas-artemis-2-return-to-earth-at-a-blazing-25000-mph-2000744096) *(Gizmodo – Technology)*
+- [ ] 2026-04-08 [Trump’s Botched Iran ‘Ceasefire’ Puts Polymarket Bettors in a Bind](https://gizmodo.com/trumps-botched-iran-ceasefire-puts-polymarket-bettors-in-a-bind-2000744091) *(Gizmodo – Technology)*
+- [ ] 2026-04-08 [A New ‘Mandalorian and Grogu’ Video Has Me Seriously Worried](https://gizmodo.com/a-new-mandalorian-and-grogu-video-has-me-seriously-worried-2000744117) *(Gizmodo – Technology)*
+- [ ] 2026-04-08 [Scientists Move Closer to Male Birth Control With No Hormones, No Snip](https://gizmodo.com/scientists-move-closer-to-male-birth-control-with-no-hormones-no-snip-2000744102) *(Gizmodo – Technology)*
+- [ ] 2026-04-09 [Dyson just announced its first-ever handheld fan, with a motor that spins up to 65,000 RPM](https://www.engadget.com/home/dyson-just-announced-its-first-ever-handheld-fan-with-a-motor-that-spins-up-to-65000-rpm-000135028.html?src=rss) *(Engadget)*
+- [ ] 2026-04-08 [You'll have one more chance to buy Samsung's pricey Galaxy Z TriFold this Friday](https://www.engadget.com/mobile/smartphones/youll-have-one-more-chance-to-buy-samsungs-pricey-galaxy-z-trifold-this-friday-225222969.html?src=rss) *(Engadget)*
+- [ ] 2026-04-08 [DoorDash and Wing are expanding their drone delivery partnership to Atlanta](https://www.engadget.com/transportation/doordash-and-wing-are-expanding-their-drone-delivery-partnership-to-atlanta-201133191.html?src=rss) *(Engadget)*
+- [ ] 2026-04-08 [The next phase of enterprise AI](https://openai.com/index/next-phase-of-enterprise-ai) *(OpenAI News)*
+- [ ] 2026-04-08 [Better Harness: A Recipe for Harness Hill-Climbing with Evals](https://blog.langchain.com/better-harness-a-recipe-for-harness-hill-climbing-with-evals/) *(LangChain Blog)*
+- [ ] 2026-04-09 [IT組織の役割と機能を確認　世界のCxOの期待を参考に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020900021/040200214/) *(日経クロステック IT)*
+- [ ] 2026-04-09 [使えるAIに欠かせない　エージェントと周辺システム連携](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020500531/040200003/) *(日経クロステック IT)*
+- [ ] 2026-04-09 [データサイエンティストの役割　AIで変わる、分析から「価値創造」へ](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040200542/040200001/) *(日経クロステック IT)*
+- [ ] 2026-04-09 [仕様駆動開発の7工程の中でも重要な「タスク分割工程」](https://xtech.nikkei.com/atcl/nxt/column/18/03563/033100004/) *(日経クロステック IT)*
+- [ ] 2026-04-09 [AirPodsでライブ翻訳を使ってみよう、タイムラグを前提に会話を進める](https://xtech.nikkei.com/atcl/nxt/column/18/03514/030500006/) *(日経クロステック IT)*
+- [ ] 2026-04-09 [音声を字幕化する「ライブキャプション 」、Copilot+ PCでは翻訳も可能](https://xtech.nikkei.com/atcl/nxt/column/18/03527/030300005/) *(日経クロステック IT)*
+- [ ] 2026-04-09 [早期退職後の50代、問われるのは「働き続ける力」](https://xtech.nikkei.com/atcl/nxt/column/18/01775/040800264/) *(日経クロステック IT)*
+- [ ] 2026-04-09 [AIが「善良な開発者」装う時代、LLM製マルウエアがOSS文化揺さぶる](https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701995/) *(日経クロステック IT)*
+- [ ] 2026-04-09 [三井住友カードが「AIオペレーター」　電話で円滑に対話、回答内容は顧客別](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11650/) *(日経クロステック IT)*
+- [ ] 2026-04-09 [激動の情報処理技術者試験、新応用・高度合格者だけが受けられる論述試験も](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11651/) *(日経クロステック IT)*
+- [ ] 2026-04-09 [『暗黙知の次元』を再読、AIブームの最中に人間の強さを確認した](https://xtech.nikkei.com/atcl/nxt/column/18/00166/040700197/) *(日経クロステック IT)*
+- [ ] 2026-04-09 [Excelで担当者別に売上額合計、3つの関数を組み合わせて実用度アップ](https://xtech.nikkei.com/atcl/nxt/column/18/00286/040700408/) *(日経クロステック IT)*
+- [ ] 2026-04-09 [「Gemini」アプリで「NotebookLM」を直接利用可能に　「Notebooks」セクション新設](https://www.itmedia.co.jp/aiplus/articles/2604/09/news062.html) *(ITmedia AI＋)*
+- [ ] 2026-04-09 [自然言語で「XVL Studio」をカスタマイズ　生成AIによる自動プログラミング機能](https://monoist.itmedia.co.jp/mn/articles/2604/09/news034.html) *(ITmedia AI＋)*
+- [ ] 2026-04-08 [Meta、視覚で世界を理解する新AI「Muse Spark」発表　「Llama」より高効率でAIメガネにも統合へ](https://www.itmedia.co.jp/aiplus/articles/2604/09/news059.html) *(ITmedia AI＋)*
+- [ ] 2026-04-08 [“自販機が話し出す”未来がすぐそこに!?　進化する「音声AI×ハードウェア」、日本の勝機は](https://www.itmedia.co.jp/business/articles/2604/09/news013.html) *(ITmedia AI＋)*
+- [ ] 2026-04-08 [「データセンター」の中ってどうなってるの？　潜入して分かった、生成AIを支える「冷却技術の進化」](https://www.itmedia.co.jp/business/articles/2604/09/news045.html) *(ITmedia AI＋)*
+- [ ] 2026-04-08 [中国ヒューマノイドの“爆速”実装、カギは「ロボットフレンドリー」な現場か](https://monoist.itmedia.co.jp/mn/articles/2604/09/news005.html) *(ITmedia AI＋)*
+- [ ] 2026-04-08 [AIがバラバラなUIを作る問題、これで解決？　Google提唱の新標準「DESIGN.md」とは](https://atmarkit.itmedia.co.jp/ait/articles/2604/09/news014.html) *(ITmedia AI＋)*
+- [ ] 2026-04-09 [Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-09 [Windows 11でClaude Codeのマルチエージェント開発環境をホントの1から構築してみた 〜WSL + Arch Linux + tmuxで画面分割表示まで～ \| DevelopersIO](https://dev.classmethod.jp/articles/claude-code-multi-agent-on-windows11-wsl-tmux/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-09 [GitHub - mattmireles/gemma-tuner-multimodal: Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.](https://github.com/mattmireles/gemma-tuner-multimodal) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-09 [Claude Codeに社内の情報を集約させたら、要求分析の立ち上げがスムーズに回り始めた - KAKEHASHI Tech Blog](https://kakehashi-dev.hatenablog.com/entry/2026/04/07/090000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-09 [みんなで世界を変えてみないか？ 〜 AIクローラーに402 Payment Requiredを返す。x402プロトコルとGEO戦略で実現する「第三の選択肢」 \| DevelopersIO](https://dev.classmethod.jp/articles/lets-change-the-world-with-x402-questioning-ai-company-ethics/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-09 [AWSが「Amazon S3 Files」を発表、S3バケットをファイルシステムとして利用可能に](https://codezine.jp/news/detail/23899) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [Amazon S3がファイルシステムとしてアクセス可能になる「Amazon S3 Files」、AWSが提供開始](https://www.publickey1.jp/blog/26/amazon_s3amazon_s3_filesaws.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [「フラップや方向舵なし！」“空気の穴”だけで制御する“異質”な機体　初飛行に向け胴体公開 \| 乗りものニュース](https://trafficnews.jp/post/652839) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [Claude Code を並列で回す WezTerm ターミナル構成](https://zenn.dev/dely_jp/articles/5d4e89c275789f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [「難しいのに役に立たない、それが面白い」KOBA789さん ｜私がアウトプットを続ける理由 - Findy Media](https://findy-code.io/media/articles/my-output-story-koba789) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [GitHubへのメンバー追加をConftestでバリデーションする - 10X Product Blog](https://product.10x.co.jp/entry/2026/04/07/170704) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [デスクトップ向け「Google Chrome」に待望の「垂直タブ」、新しい「リーディング モード」も／同日リリースの「Chrome 147」より順次展開](https://forest.watch.impress.co.jp/docs/news/2099883.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [人間によるコードレビューに依存しすぎない“速さと品質の両立”を開発ライフサイクル全体で支える - mtx2s’s blog](https://mtx2s.hatenablog.com/entry/2026/04/06/061511) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [Terraformを使わずにGitHubをコードで管理する](https://zenn.dev/babarot/articles/github-as-code-with-gh-infra) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [JR東、「高温時に大きくゆがみそうなレール」を自動検知　毎日データ取得・分析　人力チェックを効率化](https://www.itmedia.co.jp/news/articles/2604/08/news108.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [「OpenSSL」なのに……次期バージョン「OpenSSL 4.0」で「SSL 3.0」対応が完全削除／実装から27年、「SSL」のコードベースがなくなる](https://forest.watch.impress.co.jp/docs/news/2100124.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [【翻訳】アメリカ戦略情報局（OSS）簡易破壊工作フィールド・マニュアル（1944年）｜影踏丸](https://note.com/kagefumimaru/n/n1a8aff38ad6e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [Daily Dark Web](https://dailydarkweb.net/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-09 [Ruby: ZJIT でオブジェクトの冗長なロードとストアが削減される仕組み（翻訳）｜TechRacho by BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2026_04_08/157507) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-08 [grill-me スキルがめちゃ良いので布教したい](https://zenn.dev/ryonakae/articles/8783c6b3ead2cb) *(Zenn – トピック AI)*
+- [ ] 2026-04-08 [月$6のVPSで自分だけのAIエージェントを立ててみた 〜 Telegramで24時間話せるようになった話](https://zenn.dev/alexkyo/articles/5ef5e16536fd49) *(Zenn – トピック AI)*
+- [ ] 2026-04-08 [「知能の成長」を軽視する人間の傲慢――AIを道具と見なす組織がディスラプトされる真理](https://zenn.dev/yuichirominato/articles/22d79e33d89d83) *(Zenn – トピック 機械学習)*
