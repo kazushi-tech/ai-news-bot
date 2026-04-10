@@ -53854,3 +53854,93 @@
 - [ ] 2026-04-09 [LightGBM LambdaMARTによる検索リアルタイムリランキングの導入](https://zenn.dev/dmmdata/articles/2e8a0c127caa1d) *(Zenn – トピック 機械学習)*
 - [ ] 2026-04-09 [スマホより小さい。1ビットLLMが「AIをどこでも動かす」時代を本当に変えるかもしれない話](https://zenn.dev/ai_tech_memo/articles/ai-news-20260407-203200) *(Zenn – トピック 機械学習)*
 - [ ] 2026-04-08 [【機械学習初心者向け③】モデルがうまく動かないときの原因と直し方](https://zenn.dev/agent_grow/articles/b903e68a8217a7) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-04-10T12:38:44.337Z
+- [ ] 2026-04-10 [US summons bank bosses over cyber risks from Anthropic’s latest AI model](https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-10 [AI products are reaching further into our lives. Does it matter who controls the companies behind them? \| Van Badham](https://www.theguardian.com/commentisfree/2026/apr/10/ai-companies-owners-openai-chatgpt-sam-altman) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-10 [AI Podcasters Really Want to Tell You How to Keep a Man Happy](https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-10 [Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice](https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-10 [Why companies like Apple are building AI agents with limits](https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/) *(Artificial Intelligence News)*
+- [ ] 2026-04-10 [Meta has a competitive AI model but loses its open-source identity](https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/) *(Artificial Intelligence News)*
+- [ ] 2026-04-10 [5 Useful Things to Do with Google’s Antigravity Besides Coding](https://www.kdnuggets.com/5-useful-things-to-do-with-googles-antigravity-besides-coding) *(KDnuggets)*
+- [ ] 2026-04-10 [GQG’s Kersmanc Says Early Big Tech Exit Is Finally Paying Off](https://www.bloomberg.com/news/articles/2026-04-10/gqg-s-kersmanc-says-early-big-tech-exit-is-finally-paying-off) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Anthropic Will Rent CoreWeave AI Capacity to Power Claude](https://www.bloomberg.com/news/articles/2026-04-10/anthropic-agrees-to-rent-coreweave-ai-capacity-to-power-claude) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [SoftBank Mobile Unit Debut Euro Bonds Gets €4.2 Billion Bids](https://www.bloomberg.com/news/articles/2026-04-10/softbank-mobile-unit-begins-sale-of-debut-euro-bonds) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Binance Offers Temporary Relocation to UAE-Based Employees](https://www.bloomberg.com/news/articles/2026-04-10/binance-offers-temporary-relocation-to-uae-based-employees) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [SAP Extends Chief People Officer Contract After Bonus Outcry](https://www.bloomberg.com/news/articles/2026-04-10/sap-extends-chief-people-officer-contract-after-bonus-complaints) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Nvidia’s Huang Urges Companies to Put AI Breakthroughs Before Profit](https://www.bloomberg.com/news/newsletters/2026-04-10/nvidia-s-huang-urges-companies-to-put-ai-breakthroughs-before-profit) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Universal Music Is Trading at Just Two Thirds of Ackman’s Offer](https://www.bloomberg.com/news/articles/2026-04-10/universal-music-is-trading-at-just-two-thirds-of-ackman-s-offer) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Inside Arm’s AI Pivot: From Smartphones to the Cloud \| Bloomberg Tech: Europe 4/10/2026](https://www.bloomberg.com/news/videos/2026-04-10/arm-effect-bloomberg-tech-europe-4-10-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Jack Ma’s Yunfeng, Hillhouse Are Said to Plan Investing in Victory Giant’s $2 Billion Listing](https://www.bloomberg.com/news/articles/2026-04-10/jack-ma-s-yunfeng-hillhouse-are-said-to-plan-investing-in-victory-giant-listing) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Arm in Pole Position for AI: Liontrust's Pleydell-Bouverie](https://www.bloomberg.com/news/videos/2026-04-10/investors-cheer-arm-s-pivot-to-making-own-chips-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Arm CEO On Company Betting Big on AI](https://www.bloomberg.com/news/videos/2026-04-10/arm-ceo-on-company-betting-big-on-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Arm CEO Haas on Shifting From Smartphones to AI](https://www.bloomberg.com/news/videos/2026-04-10/arm-ceo-haas-on-shifting-from-smartphones-to-ai) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [AI Boom Driving $100 Bln Chip Opportunity, Arm CEO Says](https://www.bloomberg.com/news/videos/2026-04-10/ai-boom-driving-100-bln-chip-opportunity-arm-ceo-says) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Arm CEO on Proposed California Wealth Tax: Not a Good Thing](https://www.bloomberg.com/news/videos/2026-04-10/arm-ceo-on-proposed-california-wealth-tax-not-a-good-thing) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Arm CEO Says AI Is 'Much Bigger' Than the Internet Shift](https://www.bloomberg.com/news/videos/2026-04-10/arm-ceo-says-ai-is-much-bigger-than-the-internet-shift) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [AI Stocks in Asia Lure Back Global Funds as War Tensions Ease](https://www.bloomberg.com/news/articles/2026-04-10/global-funds-flow-back-into-asian-ai-stocks-as-war-tensions-ease) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Vallourec Rallies on Geothermal Pact With Google-Backed Fervo](https://www.bloomberg.com/news/articles/2026-04-10/vallourec-rallies-on-geothermal-pact-with-google-backed-fervo) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Maul’s Lightsabers in ‘Shadow Lord’ Are Powered by Sam Witwer’s Screams](https://gizmodo.com/maul-shadow-lord-lightsabers-sam-witwer-screams-2000744761) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Andy Weir Wrote a New ‘Project Hail Mary’ Adventure, Just Not in the Way You’d Expect](https://gizmodo.com/project-hail-mary-new-story-vr-game-andy-weir-2000744758) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Microsoft starts removing unnecessary Copilot buttons in Windows 11](https://www.engadget.com/ai/microsoft-starts-removing-unnecessary-copilot-buttons-in-windows-11-120346728.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [The Morning After: Amazon pledges its satellite internet starts this year](https://www.engadget.com/general/the-morning-after-engadget-newsletter-111524236.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [Google removes Doki Doki Literature Club! from the Play Store](https://www.engadget.com/gaming/google-removes-doki-doki-literature-club-from-the-play-store-080615951.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [DX銘柄2026、グランプリはブリヂストン・ミスミグループ本社・三井住友FG](https://xtech.nikkei.com/atcl/nxt/news/24/03174/) *(日経クロステック IT)*
+- [ ] 2026-04-10 [小野田紀美AI戦略担当相、自身のAI利用は「業務で必要性感じず」　人材育成を推進](https://www.itmedia.co.jp/news/articles/2604/10/news132.html) *(ITmedia AI＋)*
+- [ ] 2026-04-10 [米財務長官とFRB議長が銀行幹部に警告　Anthropicの最新AI巡り、サイバーセキュリティに懸念](https://www.itmedia.co.jp/news/articles/2604/10/news131.html) *(ITmedia AI＋)*
+- [ ] 2026-04-10 [Claudeを“コスパ良く”利用可能に　性能の異なるモデルが“適材適所”で稼働、Anthropicの新ツール](https://www.itmedia.co.jp/aiplus/articles/2604/10/news130.html) *(ITmedia AI＋)*
+- [ ] 2026-04-10 [アニメ「本好きの下剋上」OP映像差し替え　“AI禁止”のはずが「AI使用と判明」、制作会社が謝罪](https://www.itmedia.co.jp/aiplus/articles/2604/10/news129.html) *(ITmedia AI＋)*
+- [ ] 2026-04-10 [28年までに生成AIアプリの4分の1にセキュリティ事故、MCP普及でリスク拡大――Gartner予測](https://www.itmedia.co.jp/aiplus/articles/2604/10/news117.html) *(ITmedia AI＋)*
+- [ ] 2026-04-10 [TVアニメ『本好きの下剋上 領主の養女』オープニング映像に関するご報告 - WITSTUDIO](https://www.witstudio.co.jp/news/2026/04/1709.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-10 [「Gemini」アプリが動的コンテンツ回答に対応、触って理解できるシミュレーターも生成／無料版を含むすべてのユーザーにグローバルで順次展開](https://forest.watch.impress.co.jp/docs/news/2100669.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-10 [素人がAIに作らせたコード、プロが見ると何点？　エンジニアレビューで分かる危険性（ITmedia エンタープライズ） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/6756ec5b797f8570d4fda06ef1afd4537d43fa7e) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-10 [The advisor strategy: Give Sonnet an intelligence boost with Opus \| Claude](https://claude.com/blog/the-advisor-strategy) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-10 [おれはいまのカープに興味がない - 関内関外日記](https://goldhead.hatenablog.com/entry/2026/04/09/183100) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-10 [同じ牛舎を撮った写真、プロのカメラマンと持ち主（酪農家）でこんなに違うのはなぜ？→機材や技術もだが一番違うのは牛への愛かも「どちらも素敵」](https://togetter.com/li/2684406) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [徹底解説v6プラス](https://www.jpix.ad.jp/files/v6plus-ebook.pdf) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [アキバの客引きを回避する3つの方法は「イヤホン」「何も持たない」「ガン無視」です→実際無視するのが1番だが、4つ目の選択肢を挙げる人たちが多数](https://togetter.com/li/2684423) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [便利なChatGPT。だけど時計機能はキッチンタイマー以下かも](https://www.gizmodo.jp/2026/04/sam-altman-says-itll-take-another-year-before-chatgpt-can-start-a-timer.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [Rails: 個人開発環境の Docker 化をやめた理由（翻訳）｜TechRacho by BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2026_04_10/157280) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [アドビ、新フォント「ネオクロ」発表　コロコロとかわいい極太文字　4月10日「フォントの日」に合わせ](https://www.itmedia.co.jp/news/articles/2604/10/news106.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [「CPU-Z」「HWMonitor」にマルウェアが混入か!? 配布サイト「CPUID」にハッキングの被害／窓の杜ライブラリ収録の「CPU-Z」には問題なし](https://forest.watch.impress.co.jp/docs/news/2100780.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [JPCERT/CC、マルウェア「Emotet」のチェックツールの配布を終了 ～脆弱性あり、ただちに利用の停止を／オープンソースの「EmoCheck」](https://forest.watch.impress.co.jp/docs/news/2100704.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [アンソロピック、作業自動化AI「Cowork」一般提供開始　ソフト株下落 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN09D080Z00C26A4000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [MetaがSNS依存症訴訟関連の広告を削除、「プラットフォームを使用しながらプラットフォームの有害性を主張することは許さない」](https://gigazine.net/news/20260410-meta-social-media-addiction/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [The future of managing agents at scale: AWS Agent Registry now in preview \| Amazon Web Services](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [REDMAGIC 11 Proのスコア、不正最適化で3DMarkランキングから排除](https://pc.watch.impress.co.jp/docs/news/2100656.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [コクヨ、大容量で自立するツールポーチ「ハコビズ2」](https://www.watch.impress.co.jp/docs/news/2098219.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [Claude Codeが『言ってもいない指示』を実行する — ロール混同バグの構造と対策](https://zenn.dev/luoxi/articles/claude-role-confusion-bug) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [HITL崩壊を前提にした責任可視化設計――AIエージェント運用で最後に残る問題](https://zenn.dev/dantarg/articles/1982703147789e) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [【2026年最新】RAG精度改善技術のカオスマップ─ 74の技術を6カテゴリで構造的に整理した](https://zenn.dev/epicai_techblog/articles/a78517cc0d5df2) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [実践プロンプトエンジニアリング：評価駆動で本番LLMアプリのプロンプトを継続改善する](https://zenn.dev/0h_n0/articles/e9bb5614d139b8) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [分析エージェントの問題点と、セマンティックレイヤーという打ち手──AIにSQLを書かせない設計](https://zenn.dev/gixo/articles/semantic-layer-agent-bigquery) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [Clade v1.8.0 & v1.9.0 — 自己アップデートと、ちゃんと届ける](https://zenn.dev/satoh_y_0323/articles/19e292736eb1c3) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [プロダクト埋め込みチャット、もう誰も期待してない説 — でも「エージェントを作る」話はこれから本番](https://zenn.dev/tomodo_ysys/articles/agent-dev-beyond-embedded-chat) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [agent-browserでLightpandaを使って10倍速くする](https://zenn.dev/kimkiyong/articles/31bb04ca989242) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [Agent Skillを有料で売れる時代が来たらしい](https://zenn.dev/taishun_hagi/articles/89b8aa392afc7f) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [geminiへの「拠」入力について](https://zenn.dev/j_m/articles/043492cfc4692a) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [ベクトル検索は不要なのか](https://zenn.dev/nttdata_tech/articles/694e39ceff58b7) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [Python × AI（LLM API入門）コースを追加しました](https://zenn.dev/pystarup/articles/366f31342f5ab0) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [CoDE-Stop: 推論モデルの「考えすぎ」を置信度の動的で止める手法](https://zenn.dev/lixian/articles/code-stop-confidence-dynamics) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [Claude Code Skillsは作って終わりじゃない — 事後ログで改善サイクルを回す](https://zenn.dev/tre_conigli/articles/claude-code-skill-improvement-cycle) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [GoのAIフレームワーク「Eino」を徹底解説！LangChainGoとの実測比較も](https://zenn.dev/nonejp/articles/1c1203982684f1) *(Zenn – トピック LLM)*
+- [ ] 2026-04-09 [Zettelkastenに基づくLLMエージェントのメモリ設計：A-Mem論文解説](https://zenn.dev/tsurubee/articles/amem-llm-agent-memory-design) *(Zenn – トピック LLM)*
+- [ ] 2026-04-09 [ローカルLLMで画像PDFを読む：Gemma 4 / Qwen 3.5 Vision比較](https://zenn.dev/kamo78/articles/gemma4-multimodal-pdf-local-llm) *(Zenn – トピック LLM)*
+- [ ] 2026-04-09 [31Bが600Bを喰う——4月、AIモデル戦争の常識が壊れた](https://zenn.dev/yokoi_ai/articles/ai-2026-04-09) *(Zenn – トピック LLM)*
+- [ ] 2026-04-10 [Claude Codeを使い込んで辿り着いた3つの習慣](https://zenn.dev/kjmboy/articles/a2ab823195a4c6) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [GitHub Copilot SDKを使えばユーザーのサブスクを使ってAIサービスが作れるのでは…？](https://zenn.dev/sun_asterisk/articles/c1d02fe074d20b) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [【無料】スマホが5秒で開発環境に？Geminiを「仮想Docker」にする裏技](https://zenn.dev/i_n_dev/articles/0df90c6a3b2ce8) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [AI駆動開発の実践：社内ポータルへの機能実装記録](https://zenn.dev/acomo/articles/progress-acomo-2026-04-06-01-34-42) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [自己評価をGitHub Copilotで半自動化したら、忘れていた貢献まで掘り起こされた](https://zenn.dev/headwaters/articles/953017b188a710) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [Geminiに待望の「ノートブック機能」が実装！NotebookLMとの統合で何が変わる？](https://zenn.dev/hokanco28/articles/46e52d536a8589) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [「claude rc」ってなに？Remote Controlを試した](https://zenn.dev/ai_eris_log/articles/claude-rc-remote-control-20260410) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [Claude Codeで「新機能のシステムテスト自動実行」を実現した話 ── 新人テスターを育てるように、AIにナレッジを蓄積させる](https://zenn.dev/tokium_dev/articles/8afaebc087440a) *(Zenn – トピック AI)*
+- [ ] 2026-04-09 [Claude Code でAIチームを組織した — CEO・DevOps・Writer・Researcher の役割分担と運用設計](https://zenn.dev/tottoko_hamu/articles/claude-code-multi-agent-org) *(Zenn – トピック AI)*
+- [ ] 2026-04-09 [SOVが高いのにAIに選ばれない? LLMO 2大指標SOVとSOMの決定的な違い](https://zenn.dev/kenimo49/articles/llmo-sov-som-ai-selection-metrics) *(Zenn – トピック AI)*
+- [ ] 2026-04-09 [企業のためのClaude Codeセキュリティガイド -- 安全な導入・運用・ガバナンスの実践](https://zenn.dev/joinclass/books/claude-code-enterprise-security) *(Zenn – トピック AI)*
+- [ ] 2026-04-09 [Code World Model（CWM）とは？【Meta発表の新トレンド】](https://zenn.dev/galirage/articles/code-world-model) *(Zenn – トピック AI)*
+- [ ] 2026-04-09 [あれなんていうんだっけ。なんとか.md（仕込みファイル）](https://zenn.dev/mergelog/articles/d1109b9ab62d60) *(Zenn – トピック AI)*
+- [ ] 2026-04-09 [Claude Code Remote（CCR）でできること・できないこと【実機検証】](https://zenn.dev/nijima/articles/81ff1d7a756b46) *(Zenn – トピック AI)*
+- [ ] 2026-04-09 [KanjoMate 事業企画書（Round 1）](https://zenn.dev/takeshi1/articles/6ac7f17ed26dc6) *(Zenn – トピック AI)*
+- [ ] 2026-04-09 [AIインフラを個人で作るとどうなるか](https://zenn.dev/yonerai12/articles/f18f5605c35325) *(Zenn – トピック AI)*
+- [ ] 2026-04-09 [【機械学習初心者向け④】AWSで「すぐ使える」AIサービス入門](https://zenn.dev/agent_grow/articles/7848c937bc9315) *(Zenn – トピック 機械学習)*
