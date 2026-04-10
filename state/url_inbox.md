@@ -53944,3 +53944,115 @@
 - [ ] 2026-04-09 [KanjoMate 事業企画書（Round 1）](https://zenn.dev/takeshi1/articles/6ac7f17ed26dc6) *(Zenn – トピック AI)*
 - [ ] 2026-04-09 [AIインフラを個人で作るとどうなるか](https://zenn.dev/yonerai12/articles/f18f5605c35325) *(Zenn – トピック AI)*
 - [ ] 2026-04-09 [【機械学習初心者向け④】AWSで「すぐ使える」AIサービス入門](https://zenn.dev/agent_grow/articles/7848c937bc9315) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-04-10T18:36:08.902Z
+- [ ] 2026-04-10 [Anthropic’s new AI tool has implications for us all – whether we can use it or not \| Shakeel Hashim](https://www.theguardian.com/technology/2026/apr/10/anthropic-new-ai-model-claude-mythos-implications) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-10 [OpenAI CEO Sam Altman’s home targeted with molotov cocktail](https://www.theguardian.com/technology/2026/apr/10/sam-altman-home-molotov-cocktail) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-10 [‘There’s no shortage of terrifying technology’: how AI became TV drama’s new go-to villain](https://www.theguardian.com/tv-and-radio/2026/apr/10/how-ai-became-tv-dramas-new-go-to-villain) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-10 [This new chip could slash data center energy waste](https://www.sciencedaily.com/releases/2026/04/260409101103.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-04-10 [Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think](https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-10 [Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home](https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-10 [This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts](https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-10 [Someone Just Threw a Molotov Cocktail At Sam Altman’s House](https://futurism.com/artificial-intelligence/molotov-cocktail-sam-altman-house) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-10 [New York Times Makes Substantial Changes to Article That Glazed a Sleazy AI Startup: “Our Piece Should Have Included That Information”](https://futurism.com/artificial-intelligence/new-york-times-edits-medvi-article) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-10 [First AI Model From Zuckerberg’s Wildly Expensive Superintelligence Lab Flops Compared to Virtually All Rivals](https://futurism.com/artificial-intelligence/first-model-zuckerberg-superintelligence-labs-flops) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-10 [Economists Starting to Admit They May Have Been Wrong About AI Never Replacing Human Jobs](https://futurism.com/future-society/economist-ai-job-forecast) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-10 [IBM: How robust AI governance protects enterprise margins](https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/) *(Artificial Intelligence News)*
+- [ ] 2026-04-10 [Anthropic’s Glasswing Highlights AI’s Security Paradox](https://aibusiness.com/generative-ai/anthropic-s-glasswing-highlights-ai-s-security-paradox) *(AI Business)*
+- [ ] 2026-04-10 [Intel Secures New AI Infrastructure Deal With Google](https://aibusiness.com/generative-ai/intel-secures-new-ai-infrastructure-deal-google) *(AI Business)*
+- [ ] 2026-04-10 [South Korean Chipmaker Partners with SKT, Arm for Sovereign AI](https://aibusiness.com/generative-ai/south-korean-chipmaker-partners-skt-arm-sovereign-ai) *(AI Business)*
+- [ ] 2026-04-10 [Alibaba Launches AI Data Center Powered by 10,000 Homegrown Chips](https://www.techrepublic.com/article/news-alibaba-10000-ai-chips-data-center-apac/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-10 [Google Brings NotebookLM to Gemini for Easy Project Organization](https://www.techrepublic.com/article/news-google-gemini-notebooks-update/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-10 [AI Expansion, Security Crises, and Workforce Upheaval Define This Week in Tech](https://www.techrepublic.com/article/ai-expansion-security-crises-and-workforce-upheaval-define-this-week-in-tech/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-10 [Advanced NotebookLM Tips & Tricks for Power Users](https://www.kdnuggets.com/advanced-notebooklm-tips-tricks-for-power-users) *(KDnuggets)*
+- [ ] 2026-04-10 [New Orleans’ Credit Rating Slashed by S&P on Financial Troubles](https://www.bloomberg.com/news/videos/2026-04-10/new-orleans-credit-rating-slashed-by-s-p-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Apple Accused of ‘Union Busting’ Over Store Closure](https://www.bloomberg.com/news/videos/2026-04-10/apple-accused-of-union-busting-over-store-closure-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [In a Brutal Video-Game Industry, Two Indie Developers Are Teaming Up](https://www.bloomberg.com/news/newsletters/2026-04-10/in-a-brutal-video-game-industry-two-indie-developers-are-teaming-up) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [AI Cyber Threats Alarm Wall Street \| Open Interest 4/10/2026](https://www.bloomberg.com/news/videos/2026-04-10/open-interest-4-10-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [NASA’s Artemis Crew Set to Splashdown After Moon Voyage](https://www.bloomberg.com/news/videos/2026-04-10/nasa-s-artemis-crew-set-to-splashdown-after-moon-voyage-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [DeepSeek Looks for Data Center Engineers in Inner Mongolia](https://www.bloomberg.com/news/articles/2026-04-10/deepseek-looks-for-data-center-engineers-in-inner-mongolia) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Trump’s AI Chip Export Push Stymied by Bureaucratic Bottleneck](https://www.bloomberg.com/news/articles/2026-04-10/trump-s-ai-chip-export-push-stymied-by-bureaucratic-bottleneck) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Blackstone Eyes $2 Billion IPO for Data Center Acquisition Firm](https://www.bloomberg.com/news/articles/2026-04-10/blackstone-eyes-2-billion-ipo-for-data-center-acquisition-firm) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [CoreWeave Signs Multibillion-Dollar Deal With Anthropic, CEO Says](https://www.bloomberg.com/news/videos/2026-04-10/coreweave-signs-multibillion-dollar-deal-with-anthropic-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Private Credit Reality Check](https://www.bloomberg.com/news/videos/2026-04-10/private-credit-reality-check-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Mythos AI Sparks Security Fears](https://www.bloomberg.com/news/videos/2026-04-10/mythos-ai-sparks-security-fears-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Bank Earnings Strong, Outlook Uncertain](https://www.bloomberg.com/news/videos/2026-04-10/bank-earnings-strong-outlook-uncertain-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [US Government Pitches Gamers a Career as Air Traffic Controllers](https://www.bloomberg.com/news/articles/2026-04-10/us-government-pitches-gamers-a-career-as-air-traffic-controllers) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [I Rewatched the Live-Action ‘Speed Racer’ to Feel Something Again](https://gizmodo.com/i-rewatched-the-live-action-speed-racer-to-feel-something-again-2000745043) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Microsoft Says You Should Take Copilot Seriously but Not Literally](https://gizmodo.com/microsoft-says-you-should-take-copilot-seriously-but-not-literally-2000745054) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [The Trump Administration Wants Gamers to Step Up and Fill the Air Traffic Controller Shortage](https://gizmodo.com/the-trump-administration-wants-gamers-to-step-up-and-fill-the-air-traffic-controller-shortage-2000745070) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Watch a Comet Get Torn Apart by the Sun and Become a Headless Ghost](https://gizmodo.com/watch-a-comet-get-torn-apart-by-the-sun-and-become-a-headless-ghost-2000745014) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Sam Altman’s Home Hit With Molotov Cocktail, 20-Year-Old Man Arrested](https://gizmodo.com/20-year-old-man-arrested-for-allegedly-throwing-molotov-cocktail-at-sam-altmans-home-2000745072) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [‘Tales From the Crypt’ Is Creeping Onto Streaming for the Very First Time](https://gizmodo.com/tales-from-the-crypt-streaming-shudder-2000745039) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Scientists Used Medieval Poems and Trees to Uncover a 13th-Century Solar Surge](https://gizmodo.com/scientists-used-medieval-poems-and-trees-to-uncover-a-13th-century-solar-surge-2000745017) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [YouTube Premium Jacks Up Prices for the First Time in Years](https://gizmodo.com/youtube-premium-jacks-up-prices-for-the-first-time-in-years-2000745008) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [‘For All Mankind’ Just Had Its Biggest Moment Yet](https://gizmodo.com/for-all-mankind-season-5-ed-death-joel-kinnaman-2000743712) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Artemis 2 Is Coming in Hot Today—Here Are the 4 Critical Phases to Watch](https://gizmodo.com/artemis-2-is-coming-in-hot-today-here-are-the-4-critical-phases-to-watch-2000745006) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Scientist Spots New Meteor Shower Linked to a Disintegrating Asteroid](https://gizmodo.com/scientist-spots-new-meteor-shower-linked-to-a-disintegrating-asteroid-2000745005) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [PC Industry in Dire Straits, ‘Asking You to Own Nothing and Be Happy,’ Says Framework CEO](https://gizmodo.com/pc-industry-in-dire-straits-asking-you-to-own-nothing-and-be-happy-says-framework-ceo-2000744967) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Meta Is Upgrading One of the Worst Parts of Its Smart Glasses](https://gizmodo.com/meta-is-upgrading-one-of-the-worst-parts-of-its-smart-glasses-2000744953) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Wit Studio Apologizes After Being Caught Using Generative AI Background Art Again](https://gizmodo.com/wit-studio-ai-anime-backlash-ascendance-of-a-bookworm-2000744962) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [It’s Already Time to Start the Casting Rumors for Marvel’s ‘X-Men’ Movie](https://gizmodo.com/marvel-x-men-movie-casting-rumors-rogue-beast-2000744825) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Return to ‘Tron: Legacy’ With Hasbro’s Electric New Action Figures (Exclusive)](https://gizmodo.com/hasbro-tron-legacy-figures-lightcycle-price-release-date-2000744782) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [These 1970s Predictions for Inflation in 2026 Show Things Could Be a Lot Worse](https://gizmodo.com/these-1970s-predictions-for-inflation-in-2026-show-things-could-be-a-lot-worse-2000735135) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Amazon Luna ends support for third-party subscriptions and game purchases](https://www.engadget.com/gaming/amazon-luna-ends-support-for-third-party-subscriptions-and-game-purchases-171329996.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [French government says au revoir Windows, bienvenue Linux](https://www.engadget.com/big-tech/french-government-says-au-revoir-windows-bienvenue-linux-165407232.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [Google adds E2E encryption to Gmail for iOS and Android enterprise users](https://www.engadget.com/cybersecurity/google-adds-e2e-to-gmail-for-ios-and-android-enterprise-users-165345116.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [Google has reportedly started to add Polymarket data to News results](https://www.engadget.com/big-tech/google-has-reportedly-started-to-add-polymarket-data-to-news-results-161708462.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [How to watch the Artemis II landing](https://www.engadget.com/science/space/how-to-watch-the-artemis-ii-landing-145344873.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [Sony Bravia Theater Bar 5 review: A basic TV sound booster](https://www.engadget.com/audio/speakers/sony-bravia-theater-bar-5-review-a-basic-tv-sound-booster-140000192.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [YouTube Premium’s US pricing is going up](https://www.engadget.com/social-media/youtube-premiums-us-pricing-is-going-up-132121683.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [Financial services](https://openai.com/academy/financial-services) *(OpenAI News)*
+- [ ] 2026-04-10 [Prompting fundamentals](https://openai.com/academy/prompting) *(OpenAI News)*
+- [ ] 2026-04-10 [Creating images with ChatGPT](https://openai.com/academy/image-generation) *(OpenAI News)*
+- [ ] 2026-04-10 [Using skills](https://openai.com/academy/skills) *(OpenAI News)*
+- [ ] 2026-04-10 [Analyzing data with ChatGPT](https://openai.com/academy/data-analysis) *(OpenAI News)*
+- [ ] 2026-04-10 [AI fundamentals](https://openai.com/academy/what-is-ai) *(OpenAI News)*
+- [ ] 2026-04-10 [ChatGPT for sales teams](https://openai.com/academy/sales) *(OpenAI News)*
+- [ ] 2026-04-10 [Responsible and safe use of AI](https://openai.com/academy/responsible-and-safe-use) *(OpenAI News)*
+- [ ] 2026-04-10 [Personalizing ChatGPT](https://openai.com/academy/personalization) *(OpenAI News)*
+- [ ] 2026-04-10 [ChatGPT for research](https://openai.com/academy/research) *(OpenAI News)*
+- [ ] 2026-04-10 [Getting started with ChatGPT](https://openai.com/academy/getting-started) *(OpenAI News)*
+- [ ] 2026-04-10 [Research with ChatGPT](https://openai.com/academy/search-and-deep-research) *(OpenAI News)*
+- [ ] 2026-04-10 [Working with files in ChatGPT](https://openai.com/academy/working-with-files) *(OpenAI News)*
+- [ ] 2026-04-10 [Applications of AI at OpenAI](https://openai.com/academy/applications-of-ai) *(OpenAI News)*
+- [ ] 2026-04-10 [Using custom GPTs](https://openai.com/academy/custom-gpts) *(OpenAI News)*
+- [ ] 2026-04-10 [Writing with ChatGPT](https://openai.com/academy/writing) *(OpenAI News)*
+- [ ] 2026-04-10 [ChatGPT for finance teams](https://openai.com/academy/finance) *(OpenAI News)*
+- [ ] 2026-04-10 [ChatGPT for marketing teams](https://openai.com/academy/marketing) *(OpenAI News)*
+- [ ] 2026-04-10 [Using projects in ChatGPT](https://openai.com/academy/projects) *(OpenAI News)*
+- [ ] 2026-04-10 [Brainstorming with ChatGPT](https://openai.com/academy/brainstorming) *(OpenAI News)*
+- [ ] 2026-04-10 [ChatGPT for operations teams](https://openai.com/academy/operations) *(OpenAI News)*
+- [ ] 2026-04-10 [ChatGPT for managers](https://openai.com/academy/managers) *(OpenAI News)*
+- [ ] 2026-04-10 [ChatGPT for customer success teams](https://openai.com/academy/customer-success) *(OpenAI News)*
+- [ ] 2026-04-10 [Healthcare](https://openai.com/academy/healthcare) *(OpenAI News)*
+- [ ] 2026-04-10 [謎の高性能動画生成AI「HappyHorse-1.0」はAlibaba製であることが判明、すでに偽サイトが多数公開されており公式Xが注意喚起](https://gigazine.net/news/20260410-happyhorse-1-video-generation-ai-alibaba/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-10 [ひたすら無言でブクマするブクマカこそ、真のブクマカだ](https://anond.hatelabo.jp/20260410213119) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [病院でマイナンバーカードを読み取るやつをLinuxから叩く - 点と接線。](https://riq0h.jp/2026/04/10/170921/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [「AndroidでiPhoneとAirDropできます」、グーグルがXでアピール](https://k-tai.watch.impress.co.jp/docs/news/2100868.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [ワイモバイルが6月から月額料金を値上げ、最大330円増](https://k-tai.watch.impress.co.jp/docs/news/2100759.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [東芝のNAS向けHDDが「選ばれる理由」。妥協しないモノづくりと独自FW「NASLink」の全貌 [Sponsored]](https://pc.watch.impress.co.jp/docs/topic/special/2094351.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [衛星経由でLINE送れる「SoftBank Starlink Direct」発表](https://k-tai.watch.impress.co.jp/docs/news/2100666.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [Anthropic Managed Agents をさくっと触ってみた](https://zenn.dev/sprix_it/articles/3211f5068cec29) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [OpenAI、「ChatGPT Pro」に半額プランを新設、月額100米ドル／「ChatGPT Plus」プランは日常利用向け、「ChatGPT Pro」はヘビーユーザー向けに再編](https://forest.watch.impress.co.jp/docs/news/2100684.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [日本でも Google Nest デバイスで Gemini が利用可能に。設定方法と変更点まとめ \| HelenTech](https://helentech.jp/how-to-enable-gemini-on-google-nest-devices/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [OpenAIがフロリダ州立大学銃撃事件に関連する可能性についてフロリダ州司法長官が調査を開始](https://gigazine.net/news/20260410-florida-ag-to-probe-openai/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [RubyKaigi 2026が近いのでローカルオーガナイザーが函館のご飯を紹介します - Pepabo Tech Portal](https://tech.pepabo.com/2026/04/10/rubykaigi2026-hakodate/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [Ubuntu 26.04（resolute）の開発; 要求スペックの変更とUbuntu Mateの新メンテナ募集 \| gihyo.jp](https://gihyo.jp/admin/clip/01/ubuntu-topics/202604/10) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-10 [GEO対策とは何か｜SEO担当者が今すぐ知るべきAI検索時代の新常識](https://zenn.dev/mistudio/articles/geo_02_seo_tactics) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [Claude Codeで5つのWebサービスを自動化した全記録｜失敗も含めてリアルに語る](https://zenn.dev/mistudio/articles/claudecode_01_5services) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [BYOLを理解する：負例なし学習と崩壊回避のメカニズム](https://zenn.dev/mantis_ryuji/articles/c8076edeeae3b0) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [コピペするだけで売上を予測：SalesCast（FastAPI＋Prophet＋React）](https://zenn.dev/mecharhythm/articles/a7dbfae2a10394) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [Happy Horse 1.0 — 正式発表前にSeedance 2.0を超えたAI動画生成モデルの全貌](https://zenn.dev/evolinkai/articles/0e82b6449f085b) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [プログラミングゼロでAI SaaSを作って月額課金で稼ぐ方法](https://zenn.dev/nup/articles/fromaiunique-zenn-ai-no-code-saas) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [AI学習は若手を弱くする？リオデジャネイロ連邦大学Cognitive Crutch研究が突きつけた現実](https://zenn.dev/syoshida07/articles/a1a77067399d6c) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [責任経路設計は Meaningful Human Control と何が違うのか―軍事AIの accountability 議論との接点とは](https://zenn.dev/dantarg/articles/ef12f2db314a58) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [Anthropicが「強すぎて公開できない」AIを作ってしまった話](https://zenn.dev/burori/articles/42afb887d22037) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [改ざんされない形でブロックした証拠を残す — omamori v0.7](https://zenn.dev/yottayoshida/articles/omamori-audit-log-v070-v075) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [PRが3倍になったのにリリースが増えない — AI時代のボトルネック移動と処方箋](https://zenn.dev/miyan/articles/ai-driven-dev-org-speed-illusion-2026) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [LGTMは品質保証ではない：AIレビューのブレをプロセス設計で扱う](https://zenn.dev/hidetzu/articles/ai-review-why-results-vary) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [Claude Codeで仮想組織を構築する方法](https://zenn.dev/binkraft/articles/4606e4199af3ec) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [14-④[AI][Kaggle][python]Kaggle入門(ゲームAIと強化学習入門 4.深層強化学習)](https://zenn.dev/rg687076/articles/0978c30a568247) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [コード経験ゼロの非エンジニアが、夜1〜2時間×休日の朝だけでお酒SNSアプリをApp Storeに公開した話](https://zenn.dev/hariwan/articles/fedbd5e17ec9a9) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [AIを開発ワークフローに組み込む設計パターン — awesome-copilotエージェント定義から学ぶ分離・構造化・品質ゲート](https://zenn.dev/headwaters/articles/be8e6d370e7032) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [AIに「ちゃんとやらせる」ためのプロンプト技法 — エージェント定義から抽出した実践パターン](https://zenn.dev/headwaters/articles/96f6b78d73a376) *(Zenn – トピック AI)*
