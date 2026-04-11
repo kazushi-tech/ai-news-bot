@@ -54056,3 +54056,71 @@
 - [ ] 2026-04-10 [コード経験ゼロの非エンジニアが、夜1〜2時間×休日の朝だけでお酒SNSアプリをApp Storeに公開した話](https://zenn.dev/hariwan/articles/fedbd5e17ec9a9) *(Zenn – トピック AI)*
 - [ ] 2026-04-10 [AIを開発ワークフローに組み込む設計パターン — awesome-copilotエージェント定義から学ぶ分離・構造化・品質ゲート](https://zenn.dev/headwaters/articles/be8e6d370e7032) *(Zenn – トピック AI)*
 - [ ] 2026-04-10 [AIに「ちゃんとやらせる」ためのプロンプト技法 — エージェント定義から抽出した実践パターン](https://zenn.dev/headwaters/articles/96f6b78d73a376) *(Zenn – トピック AI)*
+
+## Collected on 2026-04-11T06:44:39.699Z
+- [ ] 2026-04-10 [OpenAI Says Not to Worry About UBI, Because It Has Another Idea](https://futurism.com/artificial-intelligence/openai-ubi-superintelligence) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-10 [Samsung Eyes Vietnam for $4B Semiconductor Packaging Project](https://www.techrepublic.com/article/news-samsung-vietnam-semiconductor-packaging-apac/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-11 [OpenAI Accuses Musk of ‘Ambush’ as $100 Billion-Plus Trial Looms](https://www.bloomberg.com/news/articles/2026-04-11/openai-accuses-musk-of-ambush-as-100-billion-plus-trial-looms) *(Bloomberg Technology)*
+- [ ] 2026-04-11 [Japan Bets $16 Billion to Propel Startup Rapidus Into AI Chips](https://www.bloomberg.com/news/articles/2026-04-11/japan-bets-16-billion-to-propel-startup-rapidus-into-ai-chips) *(Bloomberg Technology)*
+- [ ] 2026-04-11 [Artemis II Safely Returns to Earth After Historic Moon Mission](https://www.bloomberg.com/news/videos/2026-04-11/artemis-ii-safely-returns-to-earth-after-historic-trip-video) *(Bloomberg Technology)*
+- [ ] 2026-04-11 [Apple Hires Uber’s Asia-Pacific Government Relations Chief](https://www.bloomberg.com/news/articles/2026-04-11/apple-hires-uber-s-asia-pacific-government-relations-chief) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [PJM Targets 15 Gigawatts of New Power for Data Center Boom](https://www.bloomberg.com/news/articles/2026-04-10/pjm-targets-15-gigawatts-of-new-power-to-feed-data-center-boom) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Bank of Canada, Major Lenders Met on Anthropic AI Cyber Risk](https://www.bloomberg.com/news/articles/2026-04-10/bank-of-canada-major-lenders-meet-on-anthropic-ai-cyber-risk) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Wall Street Banks Try Out Anthropic’s Mythos as US Urges](https://www.bloomberg.com/news/articles/2026-04-10/wall-street-banks-try-out-anthropic-s-mythos-as-us-urges-testing) *(Bloomberg Technology)*
+- [ ] 2026-03-20 [Bond Traders Weigh Rate Hikes, MTA Threatens to Sue US \| Real Yield 3/20/2026](https://www.bloomberg.com/news/videos/2026-03-20/real-yield-3-20-2025-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Blackstone Digital Infrastructure Trust Files for IPO](https://www.bloomberg.com/news/videos/2026-04-10/blackstone-digital-infrastructure-trust-files-for-ipo-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Interactive Brokers Founder on Entering the Prediction Space](https://www.bloomberg.com/news/videos/2026-04-10/interactive-brokers-founder-on-entering-the-prediction-space) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Harvard’s Kreiman Seeks $100 Million to Build AI Memory Tech](https://www.bloomberg.com/news/articles/2026-04-10/harvard-s-kreiman-seeks-100-million-to-build-ai-memory-tech) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Cyber Security In Focus As Bank CEO's Race to DC](https://www.bloomberg.com/news/videos/2026-04-10/cyber-security-in-focus-as-bank-ceo-s-race-to-dc-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Why Officials Are So Worried About Mythos, Anthropic’s New AI](https://www.bloomberg.com/news/articles/2026-04-10/mythos-why-anthropic-s-new-ai-has-officials-worried) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Wall Street CEOs Summoned to Discuss Anthropic AI Risks \| Bloomberg Tech 4/10/2026](https://www.bloomberg.com/news/videos/2026-04-10/bloomberg-tech-4-10-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-04-10 [Tensions Between Meloni and Ousted Leonardo CEO Built Over Time](https://www.bloomberg.com/news/articles/2026-04-10/tensions-between-meloni-and-ousted-leonardo-ceo-built-over-time) *(Bloomberg Technology)*
+- [ ] 2026-04-11 [Picture Perfect: Artemis 2 Returns Home After a Stellar 10 Days in Space](https://gizmodo.com/picture-perfect-artemis-2-returns-home-after-a-stellar-10-days-in-space-2000745069) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [It Sure Looks Like This Is the End for the Current Era of ‘Star Trek’](https://gizmodo.com/star-trek-strange-new-worlds-sets-torn-down-paramount-2000745184) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [Before ‘KPop Demon Hunters’ Blew Up, Disney Scrapped a Pixar Movie With a Similar Vibe](https://gizmodo.com/before-kpop-demon-hunters-blew-up-disney-scrapped-a-pixar-movie-with-a-similar-vibe-2000745248) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [‘Doomsday’ Asteroids Could Have Kickstarted Life on Our Planet](https://gizmodo.com/doomsday-asteroids-could-have-kickstarted-life-on-our-planet-2000745176) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [What on Earth Is Happening With ‘Doctor Who’?](https://gizmodo.com/doctor-who-christmas-2026-filming-bbc-disney-2000745167) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [France to Ditch Microsoft Windows as Europe’s War on American Tech Rages On](https://gizmodo.com/france-to-ditch-microsoft-windows-as-europes-war-on-american-tech-rages-on-2000745152) *(Gizmodo – Technology)*
+- [ ] 2026-04-10 [I Can’t Decide Which ‘Resident Evil Requiem’ Perspective I Liked More](https://gizmodo.com/i-cant-decide-which-resident-evil-requiem-perspective-i-liked-more-2000745076) *(Gizmodo – Technology)*
+- [ ] 2026-04-11 [The Artemis II astronauts are back after a 10-day journey around the moon](https://www.engadget.com/science/space/the-artemis-ii-astronauts-are-back-after-a-10-day-journey-around-the-moon-033800654.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [Epic is reportedly building an extraction shooter for Disney](https://www.engadget.com/gaming/epic-is-reportedly-building-an-extraction-shooter-for-disney-220401382.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [The FAA is encouraging gamers to get jobs in air traffic control](https://www.engadget.com/gaming/the-faa-is-encouraging-gamers-to-get-jobs-in-air-traffic-control-230308014.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [A man allegedly threw a Molotov cocktail at Sam Altman's house](https://www.engadget.com/ai/a-man-allegedly-threw-a-molotov-cocktail-at-sam-altmans-house-210444731.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [Estonia is the rare EU country opposing child social media bans](https://www.engadget.com/social-media/estonia-is-the-rare-eu-country-opposing-child-social-media-bans-194620916.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [Garmin may be working on a Whoop competitor](https://www.engadget.com/wearables/garmin-may-be-working-on-a-whoop-competitor-191802041.html?src=rss) *(Engadget)*
+- [ ] 2026-04-10 [Our response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise) *(OpenAI News)*
+- [ ] 2026-04-10 [経産省、30社を「DX銘柄2026」に認定　3年連続選出のSMBCは500億円超投資、成果は？](https://www.itmedia.co.jp/business/articles/2604/11/news018.html) *(ITmedia AI＋)*
+- [ ] 2026-04-10 [AI代替で消える新卒枠……中途も影響半数で「売り手市場」に暗雲](https://monoist.itmedia.co.jp/mn/articles/2604/11/news019.html) *(ITmedia AI＋)*
+- [ ] 2026-04-11 [MLSharp ヘルプ - 3DGS ビューアー & 生成アプリ](https://suto.bex.jp/mac/mlsharp/indexj.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-11 [メルカリのClaude Codeセキュリティ設定の組織配布戦略 - Claude Code Meetup Japan #4](https://speakerdeck.com/hi120ki/claude-code-organization-settings) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-11 [Maestri · A new kind of terminal app](https://www.themaestri.app/en) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-11 [Anthropic、「Claude Cowork」の一般提供を開始 ～すべての有料プランで利用可能／Windows/Macのデスクトップ作業を指示通りに代行](https://forest.watch.impress.co.jp/docs/news/2100803.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-11 [Claude Code × draw.io公式Skillで、AWSアーキテクチャ図の生成を自動化してみた \| DevelopersIO](https://dev.classmethod.jp/articles/claude-code-trying-out-drawio-skill-for-aws-architecture/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-11 [あらゆるAIの脆弱性をスキャンするツール「0DIN AI Scanner」をMozillaがオープンソースでリリース](https://gigazine.net/news/20260410-mozilla-0din-ai-scanner/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-11 [Webデザイナー必読！ DESIGN.md とは？ AIデザインツール Google Stitch で DESIGN.md を使ってみる。【Web Design Talk】｜How many designs](https://note.com/howmanydesigns/n/nae3dfff16e30) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-11 [GitHub Copilot CLIの「Rubber Duck」を試してみた。異なるAIモデルがコードをレビューする \| DevelopersIO](https://dev.classmethod.jp/articles/github-copilot-cli-rubber-duck-cross-model-review/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-11 [自作OS 超軽量10KB！MQTT/TLS/Shell完備の「TinyOS」を開発しました！](https://zenn.dev/knbzyh/articles/9fe23dd9486175) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-11 [バックエンドをLambdaにするかECS（Fargate）にするかの判断基準 - Qiita](https://qiita.com/teshimaaaaa1101/items/61ab31dc9d43d533de38) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-11 [Canvas 内に直接 HTML を描画できる HTML in Canvas API について](https://azukiazusa.dev/blog/html-in-canvas-api/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-11 [米金融界が震える非公開AI「Mythos」　銀行システムの弱点突く - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN10CK20Q6A410C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-11 [月間7000万PV*の「PR TIMES」がサービスドメインを「prtimes.com」へ今秋移行](https://prtimes.jp/main/html/rd/p/000001644.000000112.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-11 [60年前から存在するメモリの欠陥を克服し、レイテンシーを削減する新たな手法「Tailslayer」が登場](https://gigazine.net/news/20260410-dram-latency-tailslayer/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-11 [グーグルのスマートホームがGeminiベースに　「Gemini for Home」が日本対応開始](https://www.watch.impress.co.jp/docs/news/2100364.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-11 [30分で光る！遊べる！オリジナル基板「Board43」で体験するPicoRubyワークショップ #rubykaigi #Board43 - inSmartBank](https://blog.smartbank.co.jp/entry/picoruby_workshop_board43) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-11 [AI需要が爆発的に増加も計算能力が制約に、大規模に投資していたOpenAIが巻き返しをはかる](https://gigazine.net/news/20260410-anthropic-openai-compute-capacity/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-11 [NASAがアルテミスIIの宇宙船に搭載したコンピュータをとにかく故障させない「フェイルサイレントアーキテクチャ」とは？](https://gigazine.net/news/20260410-artemis-ii-computer/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-11 [もっと早く買えばよかった!!　デスクワークの肩こり対策にマッサージガンを使ったら気持ちよすぎてクセになった件 【テレワークグッズ・ミニレビュー 第159回】](https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2100632.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-11 [Claude Code の便利な使い方 7選——知らないと損する実践テクニック](https://zenn.dev/techquant/articles/claude-code-hidden-features) *(Zenn – トピック AI)*
+- [ ] 2026-04-11 [Claude Codeのskillエコシステムは、どこまで来ているのか ── thought-analyzerが見つけた鏡像](https://zenn.dev/analysis/articles/thought-analyzer-skill-ecosystem) *(Zenn – トピック AI)*
+- [ ] 2026-04-11 [「賢いLLMほど上手に嘘をつく」という皮肉 -- Sonnet 4 vs Haiku 3で見えたハルシネーションの逆説](https://zenn.dev/kenimo49/articles/llm-larger-models-lie-better) *(Zenn – トピック AI)*
+- [ ] 2026-04-11 [0→1設計が苦手なエンジニアがAIと一緒にGmailサブスク検出アプリを作って公開した話](https://zenn.dev/ukei/articles/9823f7a99528e0) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [VEXIS-CLI-REMOTEの使い方](https://zenn.dev/ainohogosya/articles/7cff4517639b8b) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [依存を減らそう。私たちにはAIがいる](https://zenn.dev/noname_art/articles/4e5422ef1032bf) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [なぜAIコードのレビューは崩壊するのか ― 「事後検査」から「事前統治」への転換](https://zenn.dev/yun_bow/articles/2c06479d3ff590) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [/add_zenを作った日：AIに仕事させるむずかしさ](https://zenn.dev/hirasec/articles/20260410-add-zen-ai-control) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [#04 解剖台の上で](https://zenn.dev/fumofumo3/articles/04-on-the-dissection-table) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [あなたがAIに疲れる理由は、あなたが「翻訳」を押しつけられているからだ](https://zenn.dev/faketurn/articles/c185c63a70679a) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [Agent-OSでGitHub PRの自動レビューを構築した話](https://zenn.dev/taka888/articles/article-20260411034738) *(Zenn – トピック AI)*
+- [ ] 2026-04-10 [PostToolUseフックで品質を自動チェックする——7つの実践パターン](https://zenn.dev/yurukusa/articles/posttooluse-7-quality-patterns) *(Zenn – トピック AI)*
+- [ ] 2026-04-11 [僕がKaggleで挫折してメダル🏅を取るまでの軌跡 ~「LAIME Kaggle Dojo」への招待](https://zenn.dev/surumen/articles/b534f0918ebb95) *(Zenn – トピック 機械学習)*
+- [ ] 2026-04-10 [効率的フロンティアの数理とPython実装 -- マーコウィッツの平均分散モデルを理論から導出する](https://zenn.dev/shimada_ml/articles/52d09c551c6101) *(Zenn – トピック 機械学習)*
