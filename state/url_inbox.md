@@ -57624,3 +57624,95 @@
 - [ ] 2026-04-16 [はじめての AIエージェントツール（Claude Code / Codex CLI）](https://zenn.dev/kasacchiful/books/ai-agent-tools-workshop) *(Zenn – トピック AI)*
 - [ ] 2026-04-16 [誰も教えてくれない"否定"のない組織が詰む理由](https://zenn.dev/acntechjp/articles/20260416_negation_destruction) *(Zenn – トピック AI)*
 - [ ] 2026-04-16 [IQテストをChatGPTに解かせたらIQ 152。俺が解いたら89。もう生きる意味がわからない](https://zenn.dev/iq_algo_lab/articles/344fcd9fe37781) *(Zenn – トピック AI)*
+
+## Collected on 2026-04-17T01:14:07.651Z
+- [ ] 2026-04-16 [Allbirds Stock Now Crashing as Reality Sets in About Its Delusional AI Pivot](https://futurism.com/artificial-intelligence/allbirds-stock-now-crashing) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-16 [NAACP Sues Elon Over His Noxious AI Data Center](https://futurism.com/artificial-intelligence/naacp-sues-xai-elon-musk-jpg) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-16 [Anthropic Releases Good but not Great Claude Opus 4.7](https://aibusiness.com/generative-ai/anthropic-releases-good-not-great-claude-opus-4-7) *(AI Business)*
+- [ ] 2026-04-16 [NTT Research Launches Scale Academy to Bring Lab Technology to Market](https://www.techrepublic.com/article/news-ntt-research-scale-academy/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-16 [Sequoia’s New Leaders Raise About $7 Billion for Firm’s Biggest Bets](https://www.bloomberg.com/news/articles/2026-04-16/sequoia-s-new-leaders-raise-about-7-billion-for-firm-s-biggest-bets) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Permian Landowner EagleRock Files for Initial Public Offering](https://www.bloomberg.com/news/articles/2026-04-16/permian-landowner-eaglerock-files-for-initial-public-offering) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Nvidia Alum Rides China’s Robotics Wave to $150 Million Debut](https://www.bloomberg.com/news/articles/2026-04-16/nvidia-alum-rides-china-s-robotics-wave-to-150-million-debut) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Netflix Earnings Forecast Misses, Reed Hastings Steps Down](https://www.bloomberg.com/news/articles/2026-04-16/netflix-revenue-beats-estimates-as-hastings-steps-down) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Musk Asks Suppliers to Move at ‘Light Speed’ on Terafab Plan](https://www.bloomberg.com/news/videos/2026-04-16/musk-asks-suppliers-to-move-fast-on-terafab-plan-video) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Netflix Will Be Top Player in Entertainment Forever, Ross Gerber Says](https://www.bloomberg.com/news/videos/2026-04-16/netflix-is-in-a-phenomenal-position-ross-gerber-says-video) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [SpaceX Moves Up Vesting Schedule for Employee Shares Before IPO](https://www.bloomberg.com/news/articles/2026-04-16/spacex-moves-up-vesting-schedule-for-employee-shares-before-ipo) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [How AI Is Being Used To Detect Cancer at The Earliest Stage](https://www.bloomberg.com/news/videos/2026-04-16/how-ai-is-being-used-to-detect-cancer-at-early-stages-video) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [The $10 Billion Startup Training AI to Replace the White-Collar Workforce](https://www.bloomberg.com/news/features/2026-04-16/ai-company-hiring-on-linkedin-wants-to-train-your-replacement-at-work) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Anthropic Unveils Updated Opus 4.7 Model \| Bloomberg Tech 4/16/2026](https://www.bloomberg.com/news/videos/2026-04-16/bloomberg-tech-4-16-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Netflix Is Still a Growth Stock Despite Q2 Forecast, Seaport's Joyce Says](https://www.bloomberg.com/news/videos/2026-04-16/netflix-is-still-a-growth-stock-seaport-s-joyce-says-video) *(Bloomberg Technology)*
+- [ ] 2026-04-15 [Apple, Google Offer ‘Nudify’ Apps Despite Policies Against Them](https://www.bloomberg.com/news/articles/2026-04-15/apple-google-offer-nudify-apps-despite-policies-against-them) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Anthropic’s Mythos a ‘Potent’ Tool for Cyber, Early Testers Say](https://www.bloomberg.com/news/newsletters/2026-04-16/anthropic-s-mythos-a-potent-tool-for-cyber-early-testers-say) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Madison Air Soars After Raising $2.23 Billion in IPO](https://www.bloomberg.com/news/videos/2026-04-16/madison-air-soars-after-raising-2-23-billion-in-ipo-video) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Musk Asks Suppliers to Move at "Light Speed" on Terafab Plan](https://www.bloomberg.com/news/videos/2026-04-16/musk-asks-suppliers-to-move-at-light-speed-for-terafab-video) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Goldman Sachs' Bordlemay on AI Investment and Inflation Caused by Market Uncertainty](https://www.bloomberg.com/news/videos/2026-04-16/bordlemay-on-inflation-caused-by-market-uncertainty-video) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Tiger Global-Backed Upscale AI in Talks for $2 Billion Valuation](https://www.bloomberg.com/news/articles/2026-04-16/tiger-global-backed-upscale-ai-in-talks-for-2-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [OpenAI Takes on Google With New AI Model Aimed at Drug Discovery](https://www.bloomberg.com/news/articles/2026-04-16/openai-takes-on-google-with-new-ai-model-aimed-at-drug-discovery) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [UK AI Minister Hits Back at OpenAI for Pausing Stargate Project](https://www.bloomberg.com/news/articles/2026-04-16/uk-ai-minister-hits-back-at-openai-for-pausing-stargate-project) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Slash CEO on Displacing ‘Legacy’ Banks With AI Agents](https://www.bloomberg.com/news/videos/2026-04-16/slash-ceo-on-displacing-legacy-banks-with-ai-agents-video) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Vista, Elliott’s Cloud Software Speeds Results to Calm AI Fears](https://www.bloomberg.com/news/articles/2026-04-16/vista-elliott-s-cloud-software-speeds-results-to-calm-ai-fears) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [AI Cyber Race Is a Fight for Governance, Says Redpoint’s Brescia](https://www.bloomberg.com/news/videos/2026-04-16/ai-cyber-race-a-fight-for-governance-redpoint-s-brescia-video) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [The Daily Wire Is Still Very, Very Popular](https://www.bloomberg.com/news/newsletters/2026-04-16/the-daily-wire-backs-trump-on-iran-war-and-remains-very-very-popular) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Anthropic Releases AI Model With Weaker Cyber Skills Than Mythos](https://www.bloomberg.com/news/videos/2026-04-16/anthropic-releases-updated-opus-ai-model-video) *(Bloomberg Technology)*
+- [ ] 2026-04-16 [Software Deals to Come Back This Year: Citi's Goel](https://www.bloomberg.com/news/videos/2026-04-16/software-deals-to-come-back-this-year-citi-s-goel-video) *(Bloomberg Technology)*
+- [ ] 2026-04-17 [We’ve Seen Doctor Doom in Action for ‘Avengers: Doomsday’](https://gizmodo.com/avengers-doomsday-trailer-cinemacon-footage-description-2000747676) *(Gizmodo – Technology)*
+- [ ] 2026-04-16 [We’ve Seen the First 18 Minutes of ‘The Mandalorian and Grogu’](https://gizmodo.com/weve-seen-the-first-18-minutes-of-the-mandalorian-and-grogu-2000744833) *(Gizmodo – Technology)*
+- [ ] 2026-04-16 [The New ‘Mandalorian and Grogu’ Trailer Amps Up the Nostalgia](https://gizmodo.com/mandalorian-and-grogu-final-trailer-cinemacon-star-wars-2000747659) *(Gizmodo – Technology)*
+- [ ] 2026-04-16 [Hollywood’s First Big Budget AI-Generated Movie Is About Bitcoin, of Course](https://gizmodo.com/hollywoods-first-big-budget-ai-generated-movie-is-about-bitcoin-of-course-2000747573) *(Gizmodo – Technology)*
+- [ ] 2026-04-16 [White House Is Reportedly Ready to Drop Its Anthropic Beef and Embrace the Spooky New Model](https://gizmodo.com/white-house-is-reportedly-ready-to-drop-its-anthropic-beef-and-embrace-the-spooky-new-model-2000747561) *(Gizmodo – Technology)*
+- [ ] 2026-04-16 [A Critical Ocean Current System May Be Unraveling Faster Than We Thought](https://gizmodo.com/a-critical-ocean-current-system-may-be-unraveling-faster-than-we-thought-2000747593) *(Gizmodo – Technology)*
+- [ ] 2026-04-16 [Lana Del Rey Just Released the First Bond Theme We’ll Hear for Years](https://gizmodo.com/007-first-light-theme-lana-del-rey-james-bond-2000747578) *(Gizmodo – Technology)*
+- [ ] 2026-04-16 [Tesla Wants a $50,000 Penalty for Anyone Who Tries to Resell Its Signature Model S and X](https://gizmodo.com/tesla-wants-a-50000-penalty-for-anyone-who-tries-to-resell-its-signature-model-s-and-x-2000747590) *(Gizmodo – Technology)*
+- [ ] 2026-04-16 [Google Wants to Put Gucci Smart Glasses on Your Face](https://gizmodo.com/google-wants-to-put-gucci-smart-glasses-on-your-face-2000747582) *(Gizmodo – Technology)*
+- [ ] 2026-04-16 [Disneyland Makes Up for That Han Solo Situation With a Lovely Leia Look](https://gizmodo.com/disneyland-star-wars-galaxys-edge-leia-reveal-2000747572) *(Gizmodo – Technology)*
+- [ ] 2026-04-16 [The Cockroach of Dinosaurs Likely Survived Extinction Because of Its Big Wet Eggs](https://gizmodo.com/the-cockroach-of-dinosaurs-likely-survived-extinction-because-of-its-big-wet-eggs-2000745388) *(Gizmodo – Technology)*
+- [ ] 2026-04-16 [Why Fans Are Calling ‘Apocalypse Hotel’ the Real Anime of the Year](https://gizmodo.com/why-fans-are-calling-apocalypse-hotel-the-real-anime-of-the-year-2000747408) *(Gizmodo – Technology)*
+- [ ] 2026-04-17 [Bluesky blames DDoS attack for server outages](https://www.engadget.com/social-media/bluesky-blames-ddos-attack-for-server-outages-150515882.html?src=rss) *(Engadget)*
+- [ ] 2026-04-16 [Reed Hastings is leaving Netflix after 29 years](https://www.engadget.com/entertainment/streaming/reed-hastings-is-leaving-netflix-after-29-years-213136444.html?src=rss) *(Engadget)*
+- [ ] 2026-04-16 [Perplexity brings its Personal Computer AI assistant to Mac](https://www.engadget.com/ai/perplexity-brings-its-personal-computer-ai-assistant-to-mac-202045969.html?src=rss) *(Engadget)*
+- [ ] 2026-04-16 [Call of Duty movie arrives on June 30, 2028](https://www.engadget.com/entertainment/tv-movies/call-of-duty-movie-arrives-on-june-30-2028-200033481.html?src=rss) *(Engadget)*
+- [ ] 2026-04-16 [Blackmagic Camera for iOS now has a companion Watch app](https://www.engadget.com/apps/blackmagic-camera-for-ios-now-has-a-companion-watch-app-194529980.html?src=rss) *(Engadget)*
+- [ ] 2026-04-16 [Meta is giving Threads on web a redesign that finally adds direct messages](https://www.engadget.com/social-media/meta-is-giving-threads-on-web-a-redesign-that-finally-adds-direct-messages-192903284.html?src=rss) *(Engadget)*
+- [ ] 2026-04-16 [The European Commission wants Google to share search engine data with competitors](https://www.engadget.com/big-tech/the-european-commission-wants-google-to-share-search-engine-data-with-competitors-192709530.html?src=rss) *(Engadget)*
+- [ ] 2026-04-16 [Introducing GPT-Rosalind for life sciences research](https://openai.com/index/introducing-gpt-rosalind) *(OpenAI News)*
+- [ ] 2026-04-17 [AIエージェントをビジネス活用、知っておくべきRAGとマルチモーダルの基本](https://xtech.nikkei.com/atcl/nxt/column/18/03568/040800006/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [「Pixel 10a」の性能は前機種とほぼ同じ、日本限定色の価値は評価されるか](https://xtech.nikkei.com/atcl/nxt/column/18/00745/041000248/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [Copilotに情報収集させてリポートを書かせるには？](https://xtech.nikkei.com/atcl/nxt/column/18/03580/00005/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [モバイルバッテリーをリコールしたアンカー、製造体制の見直しで信頼回復へ](https://xtech.nikkei.com/atcl/nxt/column/18/03531/030300005/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [長文のPDFやWeb記事をAIで要約、複数文書をまとめるならNotebookLMが便利](https://xtech.nikkei.com/atcl/nxt/column/18/03532/030300002/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [写真や画像の加工をAIに任せる時代に、「Photoshop」の操作補助機能がすごい](https://xtech.nikkei.com/atcl/nxt/column/18/02737/041200056/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [個人情報保護法改正案、「連絡可能個人関連情報」など類型追加で増す複雑さ](https://xtech.nikkei.com/atcl/nxt/column/18/00989/041500206/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [実はAIで大成功していたMeta、広告売上高がGoogle超えとの予測も](https://xtech.nikkei.com/atcl/nxt/column/18/00692/041600186/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [新人育成にAIツール　模擬営業に1on1支援、研修準備時間も激減](https://xtech.nikkei.com/atcl/nxt/column/18/03537/033000005/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [ERPはAI活用の基盤に、SAPジャパンの堀川新社長](https://xtech.nikkei.com/atcl/nxt/column/18/02893/041500017/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [優秀な人を「火消し要員」に戻す職場、ケジメないマルチアサインを避ける3つの施策](https://xtech.nikkei.com/atcl/nxt/column/18/03162/033100015/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [「AIと協働」が必要なスキル、SHIFTが解くシステムテストのこれから](https://xtech.nikkei.com/atcl/nxt/column/18/03524/041600007/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [IT企業のNTTデータが建物改修に3Dプリンター、建設費削減で挑戦](https://xtech.nikkei.com/atcl/nxt/column/18/00154/02788/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [デンソーの半導体メーカー宣言にロームなど3社の統合協議、混沌の先を占う](https://xtech.nikkei.com/atcl/nxt/column/18/03520/041600007/) *(日経クロステック IT)*
+- [ ] 2026-04-17 [OpenAI、「Codex」刷新　PCの直接操作に対応し汎用作業エージェントへ](https://www.itmedia.co.jp/aiplus/articles/2604/17/news071.html) *(ITmedia AI＋)*
+- [ ] 2026-04-17 [AI見積もりシステムの類似図面検索機能が3D CAD図面に対応](https://monoist.itmedia.co.jp/mn/articles/2604/17/news017.html) *(ITmedia AI＋)*
+- [ ] 2026-04-16 [AIとデータを企業の壁越えて共有する「AIスペース」構想　実現に向けてソフトバンク、富士通など団体設立](https://www.itmedia.co.jp/aiplus/articles/2604/17/news060.html) *(ITmedia AI＋)*
+- [ ] 2026-04-16 [「190万行の表計算ファイル」と格闘していたカインズ、AI搭載のデータ基盤で発注・在庫管理を自動化](https://www.itmedia.co.jp/aiplus/articles/2604/17/news059.html) *(ITmedia AI＋)*
+- [ ] 2026-04-16 [アサヒ・アスクルを襲った「PC1台の死角」　日本HPが説くセキュリティ投資の真意](https://www.itmedia.co.jp/business/articles/2604/17/news030.html) *(ITmedia AI＋)*
+- [ ] 2026-04-16 [もう入門書はいらない？　Colabに統合されたGeminiの学習モードを使ってみた](https://atmarkit.itmedia.co.jp/ait/articles/2604/17/news018.html) *(ITmedia AI＋)*
+- [ ] 2026-04-17 [「1.58ビットに進化したから8GBで十分ですよ。任せてくださいよ」とBonsaiが言うのでMacBook Neoに組み込んでその性能差を体感。iPhoneでも楽々動くしで、ローカルAIが超進化中（CloseBox） \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/04/17/4997.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-17 [アンソロピック辞めた研究者｢世界は危機に｣　AI開発競争で理念が無力化 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN14CLZ0U6A410C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-17 [AI エージェント向けのパッケージマネージャー apm](https://azukiazusa.dev/blog/apm-package-manager/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-17 [Best practices for using Claude Opus 4.7 with Claude Code \| Claude](https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-17 [「Claude Opus 4.7」公開　指示追従性や画像認識を高めた上位モデル](https://www.watch.impress.co.jp/docs/news/2102378.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-17 [「MONTAGEM HIKARI」の作者BellyJayやドバイのレーベルに取材してわかったこと \| 徹底検証「Japanese Funk」 （後編） - 音楽ナタリー コラム](https://natalie.mu/music/column/668584) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-17 [OpenAI「Codex」週間300万ユーザー突破——「ハーネスエンジニアリング」が示すAIコーディング最前線](https://codezine.jp/article/detail/23911) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-17 [シニアエンジニアリングリーダーのしごと](https://www.oreilly.co.jp//books/9784814401680/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-17 [俺が生きてるうちに不老不死の技術ができてほしい](https://anond.hatelabo.jp/20260416220849) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-17 [PATも秘密鍵も管理せずにGoogle CloudからGitHub APIにアクセスする - 10X Product Blog](https://product.10x.co.jp/entry/2026/04/15/163802) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-17 [ログイン用の認証コードが絵文字なの本当にありえない「機種で表示が違いすぎて混乱」「迷ってたらタイムオーバー」「ロックされたら責任取ってくれんの？」](https://togetter.com/li/2686741) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-17 [Intel、最大6コアでNPU付きの廉価CPU「Coreシリーズ3」を正式発表](https://pc.watch.impress.co.jp/docs/news/2102376.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-17 [aws login で AWS CLI の認証がこう変わる - サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/aws-cli-login-command) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-17 [【やじうまPC Watch】 早稲田大ら、極超音速実験機のマッハ5飛行を想定した燃焼実験に成功](https://pc.watch.impress.co.jp/docs/news/yajiuma/2102318.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-17 [「npm install」は任意コード実行のようなもの？ Trivyやaxiosへのサプライチェーン攻撃を踏まえた、開発環境への新たな向き合い方](https://www.publickey1.jp/blog/26/npm_install_trivyaxios.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-17 [Manage agent skills with GitHub CLI - GitHub Changelog](https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-17 [【大原雄介の半導体業界こぼれ話】 NPUって要するに何？AI処理でGPUが限界を迎え、専用プロセッサが台頭する理由](https://pc.watch.impress.co.jp/docs/column/tidbit/2101870.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-17 [オフィスネットワークへの向き合い方：SansanのNW診断・改善アプローチ - Sansan Tech Blog](https://buildersbox.corp-sansan.com/entry/2026/04/14/100000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-17 [After abundance（和訳） - CADDi Tech Blog](https://caddi.tech/2026/04/16/132838) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-17 [特殊部隊向け装備品通販サイト｜田村装備開発](https://tamurasoubi.co.jp/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-16 [HBM3Eで9.2TB/s、異種材料集積を解剖する](https://zenn.dev/plasmon/articles/20260409-article-52b202) *(Zenn – トピック 機械学習)*
