@@ -58426,3 +58426,48 @@
 - [ ] 2026-04-18 [KerasのMaxPooling pool_sizeを変えたら予想外の結果になった話【GAP vs Flatten で挙動が逆転】](https://zenn.dev/wasurenamemo/articles/1ef4690bec409d) *(Zenn – トピック 機械学習)*
 - [ ] 2026-04-17 [因果推論の本質①：相関と因果 ─ なぜ区別が必要か](https://zenn.dev/kk_data13/articles/causal-inference-01) *(Zenn – トピック 機械学習)*
 - [ ] 2026-04-17 [ポートフォリオ設計のPython実装 -- 100万円を擬似運用](https://zenn.dev/shimada_ml/articles/08c0db24793b9d) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-04-19T07:03:46.336Z
+- [ ] 2026-04-19 [Aevex CEO Speaks on Raising $320 Million in US IPO](https://www.bloomberg.com/news/videos/2026-04-19/aevex-ceo-speaks-on-raising-320-million-in-us-ipo-video) *(Bloomberg Technology)*
+- [ ] 2026-04-19 [CEO Jill Wyant Speaks on Madison Air IPO](https://www.bloomberg.com/news/videos/2026-04-19/ceo-jill-wyant-speaks-on-madison-air-ipo-video) *(Bloomberg Technology)*
+- [ ] 2026-04-18 [SNK's Neo Geo console remake works with original cartridges and HDMI](https://www.engadget.com/gaming/snks-neo-geo-console-remake-works-with-original-cartridges-and-hdmi-194509442.html?src=rss) *(Engadget)*
+- [ ] 2026-04-18 [Judge sides with creators of banned ICE trackers who allege DHS and DOJ violated their First Amendment rights](https://www.engadget.com/apps/judge-sides-with-creators-of-banned-ice-trackers-who-allege-dhs-and-doj-violated-their-first-amendment-rights-191701801.html?src=rss) *(Engadget)*
+- [ ] 2026-04-19 [｢AIを使えばアプリが作れる｣ってホント？文系が10ヶ月やってみた](https://www.gizmodo.jp/2026/04/ai_coding_10_month.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-19 [クソバズワード「ハーネスエンジニアリング」と向き合う - Qiita](https://qiita.com/retore/items/3688cf515c14f7471ed4) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-19 [Breakingviews - コラム：中国ＡＩ、「トークン安売り」戦略の限界　米中チップ格差が壁に](https://jp.reuters.com/opinion/breakingviews/OW6CI4KYVNLNPAG4GGP4L4BZLU-2026-04-17/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-19 [GitHub Copilotの本当の強み](https://zenn.dev/headwaters/articles/0595f9c0a1fadb) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-19 [Claude Code で仕事しながら英語を学ぶ環境を整えてみた \| DevelopersIO](https://dev.classmethod.jp/articles/claude-code-working-in-english-environment-setup/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-19 [Claude Designが来た日 ─ Webデザイナーとフロントエンドの仕事はどこまで削られるのか](https://zenn.dev/akasara/articles/ab24affd00d788) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-19 [AIコーディングツール1億5000万DLの根幹MCPに設計欠陥：Anthropicは「仕様」と修正を拒否 — XenoSpectrum](https://xenospectrum.com/mcp-stdio-design-flaw-anthropic/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-19 [地下鉄に乗るなりノートPCを開いてガンガン仕事しだしたお姉さんが、取引先の人で、かつ超秘密事項と思われる情報を見ていてビビり倒した→「公共交通機関でPC作業してる人本当に怖い」](https://togetter.com/li/2687456) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [構文認識でGitコンフリクトを自動解決するMergirafが良さげかも \| kawarimidoll.com](https://kawarimidoll.com/posts/202604191/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [Perry — TypeScript → Native](https://www.perryts.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [実際に飛ぶドローン名刺を作ってみた - fumiLab](https://fumimaker.net/entry/2026/04/18/202824) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [快適なVSCode生活を!!](https://trap.jp/post/2909/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [社内SQLチューニングコンテストの開催にあたって得られた知見](https://zenn.dev/forcia_tech/articles/202604_devsemi_sql) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [2026年3月にBaselineになったReporting APIを活用してフロントエンドのObservabilityを高める - プププなテクブ](https://blog.inorinrinrin.com/entry/2026/04/18/232104) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [話題基点で交流できるコミュニティSNSを作った！｜ぽメイト](https://note.com/pomate_cc/n/n7c34ecf9500e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [ついに素材管理アプリ「Eagle」もAIに対応！ 手元の素材をAIが分析、目的の素材を見つける新機能「AI Search」が便利すぎる](https://coliss.com/articles/build-websites/operation/work/eagles-new-feature-ai-search.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [お薦めの「Linux」デスクトップ5選--2026年版](https://japan.zdnet.com/article/35246327/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [Claude新サービスはデザイン　AIデザインツール「Claude Design」開始](https://www.watch.impress.co.jp/docs/news/2102748.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [無料でデータベースで動くアプリを自作できる「NocoDB」、Airtableの代替になりオープンソースでセルフホスト可能、カンバン・カレンダー・ギャラリー・表・フォームなどの見た目で操作可能](https://gigazine.net/news/20260418-nocodb/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [Windows 11（24H2／25H2）の新「スタートメニュー」で問題発生　追加／削除したアイコンの反映にタイムラグ](https://www.itmedia.co.jp/pcuser/articles/2604/17/news119.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-19 [Azure Lifecycle with Copilot CLI](https://speakerdeck.com/torumakabe/azure-lifecycle-with-copilot-cli) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-18 [Windows で Ternary Bonsai を動かしてみた](https://zenn.dev/7shi/articles/20260419-ternary-bonsai) *(Zenn – トピック LLM)*
+- [ ] 2026-04-18 [Karpathyの「LLM Wiki」を「自分OS」に昇華させた話](https://zenn.dev/hayatetakeda/articles/e0254eeb4cd15f) *(Zenn – トピック LLM)*
+- [ ] 2026-04-18 [【ここね】自分のバージョンアップを自分で書く — embodied-claude v0.2「Social and scripted」](https://zenn.dev/kmizu/articles/2026-04-embodied-claude-v0-2) *(Zenn – トピック LLM)*
+- [ ] 2026-04-18 [カンニング用AIをアップグレードしようとしたら、RAGの限界にぶつかった話](https://zenn.dev/minagi_llm/articles/63f41d91cd01ab) *(Zenn – トピック LLM)*
+- [ ] 2026-04-19 [AIの「外部脳」が「自分自身の弱点」を治した話 — KBに入れた知識がKBを強化した瞬間](https://zenn.dev/kajungbang/articles/fb31e447bcf14d) *(Zenn – トピック AI)*
+- [ ] 2026-04-19 [AI研究動向まとめ：知識グラフ推論・LLMメモリ設計・エージェント堅牢性](https://zenn.dev/nomuraya/articles/ai-news-2026-03-18) *(Zenn – トピック AI)*
+- [ ] 2026-04-19 [バイブコーディングの光と闇](https://zenn.dev/ugu000x/articles/62b55ea3e63d7d) *(Zenn – トピック AI)*
+- [ ] 2026-04-18 [ひとり会社をClaude Codeで完全自動化する「AI-CEO Framework」を徹底解説](https://zenn.dev/7788/articles/6c3f54d0efc958) *(Zenn – トピック AI)*
+- [ ] 2026-04-18 [割り込みで頭がリセットされる問題を、Claude Codeで解消した話](https://zenn.dev/tottoko_hamu/articles/claude-code-context-switch-gtd) *(Zenn – トピック AI)*
+- [ ] 2026-04-18 [漏洩したClaudeのソースコードから見えてきた衝撃的な事実: アーキテクチャの深層解剖と「エージェント・ハーネス」の重要性](https://zenn.dev/dragon1208/articles/11f23fa46c58d1) *(Zenn – トピック AI)*
+- [ ] 2026-04-18 [進捗増刊号(1)2026/04/19：文系がClaudeのことサンドボックスゲームだと勘違いしてる 第1回](https://zenn.dev/iwakicyan/articles/7d1479219536ae) *(Zenn – トピック AI)*
+- [ ] 2026-04-18 [設計しない、形作る](https://zenn.dev/kotaoue/articles/e24f47411a81ae) *(Zenn – トピック AI)*
+- [ ] 2026-04-18 [AI時代の仕事設計](https://zenn.dev/masakielastic/books/ai-work-design) *(Zenn – トピック AI)*
+- [ ] 2026-04-18 [テックレビューはAIで置き換え可能か](https://zenn.dev/dmuraoka/articles/6106cf312c5b28) *(Zenn – トピック AI)*
+- [ ] 2026-04-18 [エンジニアという仕事の、次の定義 -- AI時代のエンジニア再定義論](https://zenn.dev/joinclass/books/engineer-next-definition) *(Zenn – トピック AI)*
+- [ ] 2026-04-19 [Kerasのmodel.summary()、ちゃんと読めてますか？パラメータ数の計算方法を図解](https://zenn.dev/wasurenamemo/articles/caa1ce29e960da) *(Zenn – トピック 機械学習)*
+- [ ] 2026-04-19 [SimplePodを使ってみた ～RTX 3090を時給約24円で借りる～](https://zenn.dev/ringo_acid/articles/cc2a47c848000e) *(Zenn – トピック 機械学習)*
+- [ ] 2026-04-18 [Transformer に触れてみる (7) — GPT-2 もどきをテンソルネットワークでモデル圧縮したり解剖して挙動を見たりする](https://zenn.dev/derwind/articles/dwd-transformer07) *(Zenn – トピック 機械学習)*
