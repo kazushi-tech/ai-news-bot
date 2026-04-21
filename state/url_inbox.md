@@ -59095,3 +59095,91 @@
 - [ ] 2026-04-20 [【Claude Code】セキュリティに配慮した調査エージェントの作成](https://zenn.dev/vlntr_telco_rd/articles/512b467e108ccc) *(Zenn – トピック AI)*
 - [ ] 2026-04-20 [NTTグループKaggle勉強会に参加してみた（2026/3/24）](https://zenn.dev/nttdata_tech/articles/e956073315b83e) *(Zenn – トピック 機械学習)*
 - [ ] 2026-04-19 [AIトレーダー開発ログ #10: AIトレーディングシステムの全体設計](https://zenn.dev/sigma_lab/articles/qros-research-devlog-10-architectu-20260331) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-04-21T01:13:24.343Z
+- [ ] 2026-04-20 [A Humanoid Robot Set a Half-Marathon Record in China](https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-20 [Nvidia CEO Loses His Cool at Tough Question](https://futurism.com/artificial-intelligence/nvidia-ceo-podcast-china) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-20 [CEO of $1.5 Billion AI Startup Accused of Massive Fraud by Justice Department](https://futurism.com/artificial-intelligence/ai-ilearning-fraud-crime) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-20 [Adobe Launches AI Agent Platform for CX](https://aibusiness.com/agentic-ai/adobe-launches-ai-agent-platform-for-cx) *(AI Business)*
+- [ ] 2026-04-20 [Siemens Trials Nvidia-Powered Humanoid](https://aibusiness.com/generative-ai/siemens-trials-nvidia-powered-humanoid) *(AI Business)*
+- [ ] 2026-04-20 [Slanguage: Why AI’s stylistic negation — ‘it’s not X, it’s Y’ — is both annoying and doesn’t work](https://theconversation.com/slanguage-why-ais-stylistic-negation-its-not-x-its-y-is-both-annoying-and-doesnt-work-278967) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-04-20 [The MCP Disclosure Is the AI Era’s ‘Open Redirect’ Moment](https://www.techrepublic.com/article/news-mcp-ai-security-vulnerability-data-layer-governance/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-21 [Apple to Focus Hardware Team on Five Areas Under Johny Srouji](https://www.bloomberg.com/news/articles/2026-04-21/apple-to-focus-hardware-team-on-five-areas-under-johny-srouji) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Apple’s Cook to Hand Reins to Ternus After Record-Setting Tenure](https://www.bloomberg.com/news/articles/2026-04-20/apple-names-ternus-as-next-ceo-with-cook-becoming-chairman) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Nvidia Supplier Victory Giant Set for Debut After Biggest Hong Kong Listing This Year](https://www.bloomberg.com/news/articles/2026-04-20/nvidia-supplier-victory-giant-set-for-debut-after-biggest-hk-listing-this-year) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [China Flashes New Tech Swagger to World Markets Convulsed by War](https://www.bloomberg.com/news/articles/2026-04-20/china-flashes-new-tech-swagger-to-world-markets-convulsed-by-war) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Equities Drop with Peace Talks on Shaky Ground \| The Close 4/20/2026](https://www.bloomberg.com/news/videos/2026-04-20/the-close-4-20-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Amazon to Invest an Additional $5 Billion in Anthropic](https://www.bloomberg.com/news/articles/2026-04-20/amazon-to-invest-an-additional-5-billion-in-anthropic) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [DOJ Signals Antitrust Shift on Media Deals as AI Alters Industry](https://www.bloomberg.com/news/articles/2026-04-20/doj-signals-antitrust-shift-on-media-deals-as-ai-alters-industry) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Google Bets on New Chips to Boost AI Results, Challenging Nvidia](https://www.bloomberg.com/news/videos/2026-04-20/google-bets-on-new-chips-to-boost-ai-results-video) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Tim Cook Leaving Apple in 'Good Shape,' Gil Luria Says](https://www.bloomberg.com/news/videos/2026-04-20/tim-cook-leaving-apple-in-good-shape-gil-luria-says-video) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Apple Naming Ternus CEO Is a Great Move, Ross Gerber Says](https://www.bloomberg.com/news/videos/2026-04-20/apple-naming-ternus-ceo-is-great-move-ross-gerber-says-video) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Apple Names Ternus as Next CEO; Tim Cook to Become Chairman](https://www.bloomberg.com/news/videos/2026-04-20/apple-names-ternus-as-next-ceo-tim-cook-to-become-chair-video) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Read Memos From Tim Cook and John Ternus on Apple CEO Transition](https://www.bloomberg.com/news/articles/2026-04-20/read-memos-from-tim-cook-and-john-ternus-on-apple-ceo-transition) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Ternus to Become Apple CEO, Cook Takes Executive Chairman Role](https://www.bloomberg.com/news/videos/2026-04-20/ternus-to-become-apple-ceo-cook-takes-chairman-role-video) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Google to Release New AI Chips, Challenging Nvidia \| Bloomberg Tech 4/20/2026](https://www.bloomberg.com/news/videos/2026-04-20/bloomberg-tech-4-20-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Inside Alex Cooper’s Unwell: Tears, Screaming and Employees Looking for the Exit](https://www.bloomberg.com/news/articles/2026-04-20/alix-earle-feud-isn-t-alex-cooper-s-only-problem-as-unwell-network-struggles) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [PGIM's Marcus: Seeing More Office-to-Housing Conversion](https://www.bloomberg.com/news/videos/2026-04-20/pgim-s-marcus-seeing-more-office-to-housing-conversion-video) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Your Questions About Anthropic’s Mythos AI Model, Answered](https://www.bloomberg.com/news/articles/2026-04-20/anthropic-s-mythos-ai-model-questions-answered) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [WhatsApp Joins Instagram in Selling New Premium Subscriptions](https://www.bloomberg.com/news/articles/2026-04-20/whatsapp-joins-instagram-in-selling-new-premium-subscriptions) *(Bloomberg Technology)*
+- [ ] 2026-04-20 [Amazon will invest up to $25 billion in Anthropic in a broad deal](https://www.engadget.com/ai/amazon-will-invest-up-to-25-billion-in-anthropic-in-a-broad-deal-225239302.html?src=rss) *(Engadget)*
+- [ ] 2026-04-20 [Google brings Gemini in Chrome to users in Asia and the Pacific](https://www.engadget.com/ai/google-brings-gemini-in-chrome-to-users-in-asia-and-the-pacific-220000698.html?src=rss) *(Engadget)*
+- [ ] 2026-04-20 [John Ternus will be CEO of Apple when Tim Cook steps down this fall](https://www.engadget.com/computing/tim-cook-will-step-down-as-204959434.html?src=rss) *(Engadget)*
+- [ ] 2026-04-20 [Mastodon was hit by a 'major' DDoS attack that briefly took down parts of the service](https://www.engadget.com/social-media/mastodon-was-hit-by-a-major-ddos-attack-that-briefly-took-down-parts-of-the-service-204823221.html?src=rss) *(Engadget)*
+- [ ] 2026-04-20 [Sony will require age checks in the UK and Ireland to access PlayStation communication features](https://www.engadget.com/gaming/playstation/sony-will-require-age-checks-in-the-uk-and-ireland-to-access-playstation-communication-features-194916442.html?src=rss) *(Engadget)*
+- [ ] 2026-04-20 [Ubisoft will officially reveal the Assassin's Creed Black Flag remake on April 23](https://www.engadget.com/gaming/ubisoft-will-officially-reveal-the-assassins-creed-black-flag-remake-on-april-23-184729772.html?src=rss) *(Engadget)*
+- [ ] 2026-04-21 [How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas](https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas) *(Hugging Face Blog)*
+- [ ] 2026-04-21 [AppleのクックCEOが退任、後任にハードウエア担当のターナス上級副社長](https://xtech.nikkei.com/atcl/nxt/news/24/03188/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [NVIDIA、オープンなAIで量子エコシステム強化　エラー訂正精度3倍](https://xtech.nikkei.com/atcl/nxt/column/18/03556/041500004/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [1位は「施工不良で稼働めど立たず、完成から2年の下水処理場　市職員3人減給」部課長層の注目トップ10](https://xtech.nikkei.com/atcl/nxt/column/18/02156/040700366/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [東芝、イジングマシンを100倍高速化する新手法　組み合わせ最適化で威力](https://xtech.nikkei.com/atcl/nxt/column/18/03556/040700002/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [仮想の「終端」でループを止めるSTP、その仕組みを徹底解説](https://xtech.nikkei.com/atcl/nxt/column/18/03593/041600002/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [「金融モダナイゼーション」実践の第一歩、戦略立案時に検討すべき7項目](https://xtech.nikkei.com/atcl/nxt/column/18/03595/041600001/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [量子センサーで半導体の微細欠陥を検出へ、スタートアップに追加投資](https://xtech.nikkei.com/atcl/nxt/column/18/03098/040600064/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [アンケート結果をCopilotで集計、自由意見の要約や傾向分析も](https://xtech.nikkei.com/atcl/nxt/column/18/03532/030300003/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [CHINTAI、生成AIで「探さない」部屋探しサービス　検索疲れの解消図る](https://xtech.nikkei.com/atcl/nxt/column/18/00678/041000179/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [ネットワーク図が迷わず描ける、萩原流「基本の6ステップ」を詳解](https://xtech.nikkei.com/atcl/nxt/column/18/03583/040800002/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [ネットが遅い原因はWi-Fiルーターに限らない、回線と子機も要チェック](https://xtech.nikkei.com/atcl/nxt/column/18/03554/031900002/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [民放系BS局が4K放送から撤退、空き帯域を使う事業者は現れるのか](https://xtech.nikkei.com/atcl/nxt/column/18/00138/041402001/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [トヨタ、市場ニーズに応える合理化「エリア35」　売れ筋に絞って部品種削減](https://xtech.nikkei.com/atcl/nxt/column/18/03569/041600003/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [秋田県立高校入試、合格通知開けず　遅れによる高負荷でアクセス障害も](https://xtech.nikkei.com/atcl/nxt/column/18/00598/010900361/) *(日経クロステック IT)*
+- [ ] 2026-04-21 [ロジクールのキーボード「Alto Keys K98M」、カチカチではなくコトコト](https://xtech.nikkei.com/atcl/nxt/column/18/00087/00435/) *(日経クロステック IT)*
+- [ ] 2026-04-20 [LINEヤフー、新AIエージェントを発表　Gemini、ChatGPTに「負けない強み」とは？](https://www.itmedia.co.jp/business/articles/2604/21/news048.html) *(ITmedia AI＋)*
+- [ ] 2026-04-20 [生成AI導入　「どれがいい？」は機能より“条件”で考える](https://kn.itmedia.co.jp/kn/articles/2604/21/news026.html) *(ITmedia AI＋)*
+- [ ] 2026-04-20 [Pythonの仮想環境パスが.venvに統一される？　PEP 832が提案される](https://atmarkit.itmedia.co.jp/ait/articles/2604/21/news007.html) *(ITmedia AI＋)*
+- [ ] 2026-04-21 [登壇スライドを30分で作る：Claude Codeで壁打ちからGoogle Slides生成までワークフロー化 - Findy Tech Blog](https://tech.findy.co.jp/entry/2026/04/21/070000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-21 [【Copilot】レポート作成の常識が激変…GPTとClaudeの「合わせ技」が想像を超えた](https://www.sbbit.jp/article/cont1/184362) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-21 [AIでデザインする「Claude Design」。プロトタイプやプレゼン資料など作成可能](https://pc.watch.impress.co.jp/docs/news/2102928.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-21 [LINEヤフー、“日常”に寄り添うAIエージェント「Agent i」開始](https://www.watch.impress.co.jp/docs/news/2102917.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-21 [Claude Codeの利用状況をチームで可視化するダッシュボードをOSSで公開しました - Qiita](https://qiita.com/tamepicomaru/items/8f9b238ae28e380e6029) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-21 [Google、AIエージェント向け「Android CLI」公開。トークン7割減・タスク3倍速を実現 - すまほん!!](https://smhn.info/202604-google-android-cli-70-3) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-21 [Appleのティム・クックCEO退任、15年ぶりトップ交代　後任にジョン・ターナス氏 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN210250R20C26A4000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [3月末で終了した「Jigブラウザ」、累計売上65億円超と明かす](https://japan.cnet.com/article/35246650/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [Rust製ブラウザエンジンのServo、Rust公式レジストリ「Crates.io」でリリース開始。長期サポート版も提供へ](https://www.publickey1.jp/blog/26/rustservorustcratesio.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [アップル クック氏がCEO退任へ 15年ぶりのトップ交代 \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015104211000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [Windowsのロック画面は仕様で時計が遅れる!? Microsoftがサポート記事で説明／実は2種類あるロック画面…… 片方は時計が最大で30秒遅れる仕様](https://forest.watch.impress.co.jp/docs/news/2102895.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [海上技術安全研究所の一般公開で披露された造波装置による水面の動きがまるで"水のシンクロナイズドスイミング"のようで面白い](https://togetter.com/li/2688189) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [グーグル「Gemini in Chrome」を日本で開始　Chromeから直接AIに聞ける](https://www.watch.impress.co.jp/docs/news/2103100.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [Community Letter from Tim](https://www.apple.com/community-letter-from-tim/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [MAD Bugs: Even "cat readme.txt" is not safe](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [AppleのクックCEOが9月に退任し会長に　後任はジョン・ターナス氏](https://www.itmedia.co.jp/news/articles/2604/21/news063.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [128bit以上の可変長をもつ UUID Long の提案仕様 - ASnoKaze blog](https://asnokaze.hatenablog.com/entry/2026/04/13/003218) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [Inside GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [Python開発の新常識「uv」入門：仮想環境って何？から環境の共有まで｜Yuya Enokida](https://note.com/super_tern3351/n/n53d04c2c1287) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [「Gemini in Chrome」が日本上陸　「Geminiに相談」でサイドパネルで相談可能に](https://www.itmedia.co.jp/news/articles/2604/21/news065.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [「OSS開発者の憂鬱」のその先へ、AI時代にHono作者が見ている景色 - Findy Media](https://findy-code.io/media/articles/interview-yusukebe) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-21 [ブラウザのChromeにGeminiが統合、グーグルが「Gemini in Chrome」日本で提供開始](https://k-tai.watch.impress.co.jp/docs/news/2103099.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-20 [同じ Ollama + qwen2.5-coder なのに、なぜ人によって動く / 動かないが分かれるのか](https://zenn.dev/zephel01/articles/799e9707e51040) *(Zenn – トピック LLM)*
+- [ ] 2026-04-20 [CodeRouter の内側 — Anthropic ⇄ OpenAI 双方向翻訳と mid-stream セーフなフォールバック設計](https://zenn.dev/zephel01/articles/cd0032896f0e74) *(Zenn – トピック LLM)*
+- [ ] 2026-04-20 [ObsidianとClaude Codeで「育つ知識ベース」を作った話](https://zenn.dev/sochi/articles/1e851637841acc) *(Zenn – トピック LLM)*
+- [ ] 2026-04-20 [LoRAを逐次更新可能な記憶領域として用いるパラメータ記憶の仮説メモ](https://zenn.dev/rai0/articles/316be686ad39d7) *(Zenn – トピック LLM)*
+- [ ] 2026-04-20 [Claude Codeで80Kトークンを2.1Kに削減する方法](https://zenn.dev/ai_arai_ally/articles/20260420-1601-claude-code-80k2k-e) *(Zenn – トピック LLM)*
+- [ ] 2026-04-20 [GEM-RAGをPythonで作る：NetworkXで「記憶の固有値」を計算してみた](https://zenn.dev/lluminai_tech/articles/6b1b1b11c57874) *(Zenn – トピック LLM)*
+- [ ] 2026-04-20 [windows上のLLMとxangiを接続し、xangi同士で会話させる](https://zenn.dev/okpisokapi/articles/ef4868910e73b1) *(Zenn – トピック LLM)*
+- [ ] 2026-04-20 [SOWでシンプルにClaude Codeを活用する](https://zenn.dev/chihaso/articles/2d613b6ac154e8) *(Zenn – トピック LLM)*
+- [ ] 2026-04-20 [LLMコーディングエージェントの振る舞いを制約する設計思想](https://zenn.dev/aienthusiast/articles/article-20260420-090110) *(Zenn – トピック LLM)*
+- [ ] 2026-04-20 [20年積んだ「無駄スキル」が、ある日を境に換金可能になった件](https://zenn.dev/ugu000x/articles/d92522b39b91ba) *(Zenn – トピック AI)*
+- [ ] 2026-04-20 [ナレッジグラフ活用大全 -- 構造化すれば、AIは賢くなる](https://zenn.dev/kenimo49/books/knowledge-graph-practical-guide) *(Zenn – トピック AI)*
+- [ ] 2026-04-20 [AI背景削除を完全無料・ブラウザ完結で実装した方法【ONNX Runtime Web + WASM】](https://zenn.dev/sktt_panda/articles/ai-bg-remove-browser-onnx) *(Zenn – トピック AI)*
+- [ ] 2026-04-20 [EarlyStoppingのrestore_best_weightsとpatience、実験したら予想と逆の結果になった【Keras】](https://zenn.dev/wasurenamemo/articles/c63a35fb5f11ae) *(Zenn – トピック 機械学習)*
