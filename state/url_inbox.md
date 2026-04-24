@@ -62211,3 +62211,58 @@
 - [ ] 2026-04-24 [Android CLI と Android Skills の概要：Googleが提唱する『エージェント・ファースト』な開発環境を紐解く](https://zenn.dev/sonicmoov/articles/2d6b8de8da0c14) *(Zenn – トピック AI)*
 - [ ] 2026-04-24 [AIに「書かせない」コードを決めた話](https://zenn.dev/dely_jp/articles/99991b5b445272) *(Zenn – トピック AI)*
 - [ ] 2026-04-23 [Adamのlearning_rateを変えたら3パターン全部挙動が違った【Keras×CIFAR-10実験】](https://zenn.dev/wasurenamemo/articles/60507e21ca5e1f) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-04-24T18:33:15.079Z
+- [ ] 2026-04-24 [Officials hugely underestimated impact of AI datacentres on UK carbon emissions](https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-24 [‘Look, no hands’: China chases the driverless dream at Beijing car show](https://www.theguardian.com/technology/2026/apr/24/china-chases-driverless-dream-beijing-car-show-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-24 [AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials](https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-24 [Apple's Next CEO Needs to Launch a Killer AI Product](https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-24 [Palantir’s Employees Are in Crisis](https://futurism.com/artificial-intelligence/palantirs-employees-crisis) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-24 [Tech Companies Are Using Insidious Tactics to Build Data Centers on Indigenous Lands, Activists Say](https://futurism.com/artificial-intelligence/data-centers-tribal-communities) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-24 [The Horrible Economics of AI Are Starting to Come Crashing Down](https://futurism.com/artificial-intelligence/economics-ai-tokens-crashing-down) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-24 [Google Exec Says Your Favorite Video Games Are Secretly Made With AI](https://futurism.com/artificial-intelligence/google-exec-video-games-secretly-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-24 [Why AI agents need interaction infrastructure](https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/) *(Artificial Intelligence News)*
+- [ ] 2026-04-24 [Canadian, German AI Startups Join Forces to Challenge US Dominance](https://aibusiness.com/generative-ai/canadian-german-ai-startups-forces-challenge-us-dominance) *(AI Business)*
+- [ ] 2026-04-24 [GPT-5.5 Boasts Coding Advancements, But Falls Short of Opus 4.7](https://aibusiness.com/generative-ai/gpt-5-5-boasts-coding-advancements-falls-short-opus-4-7) *(AI Business)*
+- [ ] 2026-04-24 [The AI Race Is Becoming an Infrastructure Contest](https://aibusiness.com/generative-ai/the-ai-race-becoming-infrastructure-contest) *(AI Business)*
+- [ ] 2026-04-24 [You probably wouldn’t notice if an AI chatbot slipped ads into its responses](https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-04-24 [AI Upgrades, Security Breaches, and Corporate Shakeups Define the Week in Tech](https://www.techrepublic.com/article/ai-upgrades-security-breaches-and-corporate-shakeups-define-the-week-in-tech/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-23 [White House Says China-Linked Actors Tried to ‘Steal American AI’](https://www.techrepublic.com/article/news-white-house-china-ai-theft-apac/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-24 [Meta, Microsoft Cuts Could Hit 23,000 Jobs](https://www.bloomberg.com/news/videos/2026-04-24/meta-microsoft-cuts-could-hit-23-000-jobs-video) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [Kushner’s Thrive Widens Bets With Investment in MLB’s Giants](https://www.bloomberg.com/news/articles/2026-04-24/kushner-s-thrive-bets-on-san-francisco-giants-with-new-company) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [SpaceX, Anduril Among Companies to Win Golden Dome Contracts](https://www.bloomberg.com/news/articles/2026-04-24/spacex-anduril-among-companies-to-win-space-interceptor-deals) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [Some Of This Year’s Best Video Games Find Joy In Losing](https://www.bloomberg.com/news/newsletters/2026-04-24/saros-and-titanium-court-video-games-lean-into-loss) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [DOJ Joins Musk’s xAI Suit Against Colorado AI Discrimination Law](https://www.bloomberg.com/news/articles/2026-04-24/doj-joins-musk-s-xai-suit-against-colorado-ai-discrimination-law) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [Amazon-Backed X-Energy Climbs 31% After $1.02 Billion US IPO](https://www.bloomberg.com/news/articles/2026-04-24/amazon-backed-x-energy-climbs-31-after-1-02-billion-us-ipo) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [Google Plans to Invest up to $40 Billion in Anthropic](https://www.bloomberg.com/news/videos/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic-video) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [China’s DeepSeek Unveils New Model a Year After Shock Launch](https://www.bloomberg.com/news/videos/2026-04-24/deepseek-unveils-new-model-a-year-after-shock-launch-video) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [Google Plans to Invest Up to $40 Billion in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [US Government Stake in Intel Has Jumped 300% to $36 Billion](https://www.bloomberg.com/news/articles/2026-04-24/us-government-stake-in-intel-has-jumped-300-to-36-billion) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [Hut 8 Readies High-Grade Bond Sale for Google-Backed Data Center](https://www.bloomberg.com/news/articles/2026-04-24/hut-8-readies-high-grade-bond-sale-for-google-backed-data-center) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [Finma Says Immediate Mythos Access Would Pose Systemic Bank Risk](https://www.bloomberg.com/news/articles/2026-04-24/finma-says-immediate-mythos-access-would-pose-systemic-bank-risk) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [Texas Ranch Lures Futuristic Startups to Revive US Manufacturing](https://www.bloomberg.com/features/2026-proto-town-texas/) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [The Breakup That Wasn’t: Live Nation Keeps Ticketmaster](https://www.bloomberg.com/news/videos/2026-04-24/the-breakup-that-wasn-t-live-nation-keeps-ticketmaster-video) *(Bloomberg Technology)*
+- [ ] 2026-04-24 [The MacBook Neo is a glimpse into John Ternus's Apple](https://www.engadget.com/computing/laptops/the-macbook-neo-is-a-glimpse-into-john-ternuss-apple-170000842.html?src=rss) *(Engadget)*
+- [ ] 2026-04-24 [デジタル庁、ガバメントAI「源内」をオープンソース公開](https://www.watch.impress.co.jp/docs/news/2104446.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-24 [How LLMs Work — A Visual Deep Dive](https://ynarwal.github.io/how-llms-work/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-24 [FILCOブランドを展開していたダイヤテックが閉業、「Majestouch」キーボードなどを手掛けた老舗](https://akiba-pc.watch.impress.co.jp/docs/news/news/2104663.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-24 [「Metaアカウント」がリニューアル、Facebook・インスタなど一元管理でパスキーも](https://k-tai.watch.impress.co.jp/docs/news/2104401.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-24 [Next.js を SSG 化しようとして、最終的に React SPA に落ち着いた理由](https://zenn.dev/ctag/articles/nextjs-ssg-to-react-spa-on-cloudflare) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-24 [開発者が“刑務所に3年入る”のでアプデ停止中だったゲーム、「仮釈放」により開発再開へ。パソコンに触れるようになり、まずは近況報告 - AUTOMATON](https://automaton-media.com/articles/newsjp/20260424-439542/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-24 [ガバメントAI「源内」をオープンソースとして公開します｜デジタル庁](https://digital-gov.note.jp/n/n84aeba282e60) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-24 [コーディングでGPT-5.4超え「DeepSeek-V4」無償公開](https://pc.watch.impress.co.jp/docs/news/2104454.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-24 [ガバメントAI「源内」｜デジタル庁](https://www.digital.go.jp/policies/genai) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-24 [Incident with Pull Requests](https://www.githubstatus.com/incidents/zsg1lk7w13cf) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-24 [Agents CLI in Agent Platform: create to production in one CLI- Google Developers Blog](https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-24 [Going Full Time on Open Source](https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-24 [[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）] MWC26から「桜色」iPhone 17eまで――2026年春のスマホ勢力図を読み解く](https://k-tai.watch.impress.co.jp/docs/column/congress/2103450.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-24 [思考スタイルが違うから、合うAIが違う。6タイプの診断サービスを作って気づいたこと](https://zenn.dev/kompasskompass/articles/b6ae20cc3ccfaf) *(Zenn – トピック AI)*
+- [ ] 2026-04-24 [Responsibility Pathway Layer――AIエージェントに責任経路を実装する最小構成](https://zenn.dev/dantarg/articles/33825ca3f8c0e6) *(Zenn – トピック AI)*
+- [ ] 2026-04-24 [AI Agentはこう設計する：実務で使える5つのパターンとその限界](https://zenn.dev/acntechjp/articles/db05c4e9f6d35f) *(Zenn – トピック AI)*
+- [ ] 2026-04-24 [『エンジニアという仕事の、次の定義』レビュー——AI時代に「何者であるか」を問い直す一冊](https://zenn.dev/7788/articles/bde477e6dc5404) *(Zenn – トピック AI)*
+- [ ] 2026-04-24 [Claude Code品質低下バグ、本当に直ったか検証してみた — 2.1.98 vs 2.1.119実測比較](https://zenn.dev/mtk0/articles/claude-code-2198-vs-21119-comparison) *(Zenn – トピック AI)*
+- [ ] 2026-04-24 [Claude Code品質低下、本当に直ったか検証してみた — 2.1.98 vs 2.1.119実測比較](https://zenn.dev/mtk0/articles/claude-code-2198-vs-21119-benchmark) *(Zenn – トピック AI)*
+- [ ] 2026-04-24 [「Vibe Coding」はもう古い。2026年のエンジニアに必要なのは、AIが動ける環境を設計する力だ](https://zenn.dev/heftykoo/articles/d9e776ec5fe665) *(Zenn – トピック AI)*
+- [ ] 2026-04-24 [【GitHub日報】GPT-Image-2プロンプト集が初登場、AIエージェント系が席巻 — 2026-04-24](https://zenn.dev/gitken/articles/20260424_github_trend_report) *(Zenn – トピック AI)*
+- [ ] 2026-04-24 [Claude Code品質低下、本当に直ったか検証してみた — 2.1.98 vs 2.1.119実測比較](https://zenn.dev/mtk0/articles/claude-code-version-quality-benchmark) *(Zenn – トピック AI)*
+- [ ] 2026-04-24 [Claude Code で20年前の商用ゲームを書き直さずにブラウザ移植するまで](https://zenn.dev/puppy123/articles/d38f98a4e017ea) *(Zenn – トピック AI)*
