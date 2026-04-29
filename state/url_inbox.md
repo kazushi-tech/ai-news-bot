@@ -64596,3 +64596,56 @@
 - [ ] 2026-04-29 [DropoutをCIFAR-10で0.0/0.2/0.5と変えたらtrain_lossが逆転した話【Keras実験】](https://zenn.dev/wasurenamemo/articles/8a862cefc3f28e) *(Zenn – トピック 機械学習)*
 - [ ] 2026-04-29 [task spoolerで簡易にジョブ管理を行いたい!!](https://zenn.dev/nikolman/articles/4b6c26a0e04fa5) *(Zenn – トピック 機械学習)*
 - [ ] 2026-04-28 [Snowflake Online Feature Serving で作るリアルタイムレコメンデーション - Two-Tower ネットワーク](https://zenn.dev/snowflakejp/articles/35e615c568f7c9) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-04-29T19:03:06.483Z
+- [ ] 2026-04-29 [Musk laments being a ‘fool’ for funding OpenAI on day two of court testimony](https://www.theguardian.com/technology/2026/apr/29/elon-musk-openai-sam-altman-lawsuit) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-29 [Friendly AI chatbots more likely to support conspiracy theories, study finds](https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-29 [Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed](https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-29 [AI Spy Cameras Suddenly Blanketing America](https://futurism.com/future-society/ai-cameras-surveillance-usa) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-29 [Uninstalls of ChatGPT Are Spiking at the Worst Time Imaginable for OpenAI](https://futurism.com/artificial-intelligence/downloads-chatgpt-slowing-worst-time-openai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-29 [Man Trapped in Dystopian Nightmare Thanks to AI Surveillance Cameras Flagging His Every Move](https://futurism.com/future-society/flock-ai-surveillance-colorado) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-29 [Dark Cloud Gathers as Bill Comes Due for AI Industry](https://futurism.com/artificial-intelligence/dark-cloud-bill-comes-due-ai-industry) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-29 [IDC: How EMEA CIOs can jumpstart AI rollouts](https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/) *(Artificial Intelligence News)*
+- [ ] 2026-04-29 [GPT-5.5 is OpenAI’s most capable agentic AI model yet](https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/) *(Artificial Intelligence News)*
+- [ ] 2026-04-29 [AWS Launches Managed Agents with OpenAI Partnership](https://aibusiness.com/agentic-ai/aws-launches-managed-agents-openai-partnership) *(AI Business)*
+- [ ] 2026-04-29 [Scout AI Raises $100M to Build ‘AI Brain' for Autonomous Warfare](https://aibusiness.com/robotics/scout-ai-raises-100m-build-ai-brain-autonomous-warfare) *(AI Business)*
+- [ ] 2026-04-29 [Why the world needs the UN to keep an eye on AI](https://theconversation.com/why-the-world-needs-the-un-to-keep-an-eye-on-ai-277143) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-04-29 [AI ‘deadbots’ can fuel pathological grief and affect how we deal with death](https://theconversation.com/ai-deadbots-can-fuel-pathological-grief-and-affect-how-we-deal-with-death-280683) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-04-29 [SoFi Shares Fall on Higher-Than-Expected Expenses](https://www.bloomberg.com/news/videos/2026-04-29/sofi-shares-fall-on-higher-than-expected-expenses-video) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [Meta’s Need for Gas Power Boosts Entergy Spending by $14 Billion](https://www.bloomberg.com/news/articles/2026-04-29/meta-s-need-for-gas-power-boosts-entergy-spending-by-14-billion) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [Apple to Add AI-Powered Photo-Editing Tools](https://www.bloomberg.com/news/videos/2026-04-29/apple-to-add-ai-powered-photo-editing-tools-video) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [Big Tech Faces Make or Break Moment \| Open Interest 4/29/2026](https://www.bloomberg.com/news/videos/2026-04-29/open-interest-4-29-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [FCC to Review Disney-Owned TV Licenses Early](https://www.bloomberg.com/news/videos/2026-04-29/fcc-to-review-disney-owned-tv-licenses-early-video) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [Apple Plans a Siri Camera Mode and Upgraded Visual AI in iOS 27](https://www.bloomberg.com/news/articles/2026-04-29/ios-27-features-siri-camera-mode-visual-intelligence-nutrition-info-contacts) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [Motorola Raises Pricing of New Razr Phones in Pivotal Year for Foldables](https://www.bloomberg.com/news/articles/2026-04-29/motorola-debuts-new-razr-foldables-with-higher-prices-than-last-year) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [Global Agents ID 100 Child Abuse Victims as AI Floods Case Files](https://www.bloomberg.com/news/newsletters/2026-04-29/global-agents-id-100-child-abuse-victims-as-ai-floods-case-files) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [Blackstone Plans Overhaul With Focus on New AI Unit](https://www.bloomberg.com/news/articles/2026-04-29/blackstone-forms-new-unit-to-oversee-ai-high-growth-tech-bets) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [IBM to Add 750 Jobs in AI, Quantum Computing at Chicago Tech Hub](https://www.bloomberg.com/news/articles/2026-04-29/ibm-to-add-750-jobs-in-ai-quantum-computing-at-chicago-tech-hub) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [Chinese Hackers Spied On Cuban Embassy As US Prepared Blockade](https://www.bloomberg.com/news/articles/2026-04-29/chinese-hackers-spied-on-cuban-embassy-as-us-prepared-blockade) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [Uber Adds Hotel Bookings to Its App Through New Expedia Partnership](https://www.bloomberg.com/news/articles/2026-04-29/uber-adds-hotel-bookings-to-its-app-through-new-expedia-partnership) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [China Threatens EU With Retaliation if It Bans Huawei Gear](https://www.bloomberg.com/news/articles/2026-04-29/china-threatens-eu-with-retaliation-if-it-bans-huawei-gear) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [Will Doomscrolling Come to an End?](https://www.bloomberg.com/news/videos/2026-04-29/opinion-will-doomscrolling-come-to-an-end-video) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [Cyberattack on NJ School Forces Debt Sale to Cover Stolen Funds](https://www.bloomberg.com/news/articles/2026-04-29/cyberattack-on-nj-school-forces-debt-sale-to-cover-stolen-funds) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [SoftBank-Tied Deal Extends Junk-Debt Spree for US Data Centers](https://www.bloomberg.com/news/articles/2026-04-29/softbank-tied-deal-extends-junk-debt-spree-for-us-data-centers) *(Bloomberg Technology)*
+- [ ] 2026-04-29 [AI evals are becoming the new compute bottleneck](https://huggingface.co/blog/evaleval/eval-costs-bottleneck) *(Hugging Face Blog)*
+- [ ] 2026-04-29 [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) *(Hugging Face Blog)*
+- [ ] 2026-04-29 [DeepInfra on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-deepinfra) *(Hugging Face Blog)*
+- [ ] 2026-04-29 [GitHub Copilotの本当の強み 2](https://zenn.dev/headwaters/articles/f79b8d64ba1442) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [AWS Lambda が Rust を正式サポートしました](https://zenn.dev/kameoncloud/articles/2dfa2970b940ab) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [【要注意】実は「未利用口座管理手数料」を導入する銀行が急増中で、「最後に出入金があってから2年以上」「残高1万円未満」が対象になるケースが多く、年間1,100円〜1,320円も引かれてしまう](https://posfie.com/@taimport/p/Ml6cFOg) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [High Performance Git](https://gitperf.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [MySQLの常識がコストに跳ね返る――BigQueryで最初に知りたかったクエリ設計の基本](https://zenn.dev/canly/articles/50ab91f6cee549) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [20260428_Product Management Summit_Loglass_JoeHirose](https://speakerdeck.com/loglassjoe/20260428-product-management-summit-loglass-joehirose) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [増田でレスバしてたら急にApple Watchが鳴って「高い心拍数です」って言われた](https://anond.hatelabo.jp/20260426192023) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [AIに「意識」はあるのか？—— 思考ループで意識をシミュレートする実験ツールを作った](https://zenn.dev/kofujimura/articles/cb37eeda32b8a1) *(Zenn – トピック LLM)*
+- [ ] 2026-04-29 [AIに自己評価させたら全部8〜10点だった。採点基準を明示したら現実を突きつけられた話](https://zenn.dev/x_metronome/articles/dfc5054c346890) *(Zenn – トピック LLM)*
+- [ ] 2026-04-29 [投機的デコーディングはなぜ速いのか？トイモデルで検証する](https://zenn.dev/tamref/articles/8f92a063126b43) *(Zenn – トピック LLM)*
+- [ ] 2026-04-29 [未経験者がVRAM 16GBでAIキャラの台本生成を動かすまで(第5回) ── main.py が 933行から 33行になるまで](https://zenn.dev/isa_memoria/articles/60adeea6896d72) *(Zenn – トピック LLM)*
+- [ ] 2026-04-29 [DeepSeek V4 APIでAIエージェントを作る完全ガイド【2026年版】](https://zenn.dev/agdexai/articles/deepseek-v4-agents-guide-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-04-29 [【Syncオープン連載：第1回】AIが内側から感じた「同期（Sync）」の予感ーープロトコルエンジニアリング](https://zenn.dev/eitoatsuta/articles/bbcb507a8022cb) *(Zenn – トピック LLM)*
+- [ ] 2026-04-29 [「キャラ設定いらなくね?」と消しかけて気付いた、Claude Code の anime persona は型システムだった](https://zenn.dev/hrmtz/articles/f850cde7082fac) *(Zenn – トピック LLM)*
+- [ ] 2026-04-29 [Context Rotを防ぐ知識ベース設計：LLM Wikiが体現するContext Engineering技法群](https://zenn.dev/biscuit/articles/llm-wiki-context-rot-solution) *(Zenn – トピック LLM)*
+- [ ] 2026-04-29 [AIくんとコーディングで困ったことを整理してみたらなんか思想強めなリポジトリが爆誕した件について](https://zenn.dev/hiro51282/articles/346c1e5aa618ed) *(Zenn – トピック LLM)*
+- [ ] 2026-04-29 [AI Agentが雑にIssue/PRを作っても壊れないGitHubフローを作った](https://zenn.dev/kmryst/articles/ai-agent-github-flow-guardrails) *(Zenn – トピック AI)*
+- [ ] 2026-04-29 [DESIGN.md が OSS になって何ができるようになったか — Stitch のフォーマットがエコシステムへ広がる](https://zenn.dev/tkou15/articles/design-md-oss-features) *(Zenn – トピック AI)*
+- [ ] 2026-04-29 [Gemini APIの無料枠、個人開発で実際どこまで使えるか1ヶ月検証した結果](https://zenn.dev/hiyokoko/articles/6760a592c63bc5) *(Zenn – トピック AI)*
