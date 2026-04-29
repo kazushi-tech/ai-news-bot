@@ -63956,3 +63956,190 @@
 - [ ] 2026-04-28 [同じ質問で5つの全く違う回答が返ってきた -- LLMが嘘をつく構造的な理由](https://zenn.dev/kenimo49/articles/llm-lies-structural-reasons) *(Zenn – トピック AI)*
 - [ ] 2026-04-28 [# AI Digital Spokespersonを試してみて気づいたこと——思ったより深い話だった](https://zenn.dev/aibank/articles/da568f4eab74f7) *(Zenn – トピック AI)*
 - [ ] 2026-04-28 [意図駆動開発の時代に、「なぜそうしたのか」が消えていく問題](https://zenn.dev/atsumell_blog/articles/d045f0d9da324c) *(Zenn – トピック AI)*
+
+## Collected on 2026-04-29T01:29:08.542Z
+- [ ] 2026-04-28 [UK must seize initiative on AI or be left at its mercy, Liz Kendall says](https://www.theguardian.com/technology/2026/apr/28/uk-must-seize-ai-initiative-or-be-left-at-the-mercy-of-the-future-liz-kendall-warns) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-28 [‘Stole a charity’: Elon Musk accuses Sam Altman of betrayal in courtroom showdown](https://www.theguardian.com/technology/2026/apr/28/sam-altman-open-ai-elon-musk-trial) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-28 [Google reportedly signs classified AI deal with US Pentagon](https://www.theguardian.com/technology/2026/apr/28/google-classified-ai-deal-pentagon) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-28 [The personal pettiness of the Elon Musk v OpenAI trial](https://www.theguardian.com/technology/2026/apr/28/elon-musk-sam-altman-openai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-28 [If it feels like the world is rejecting science and truth, here are five ways to fight back \| Helen Pearson](https://www.theguardian.com/commentisfree/2026/apr/28/world-rejecting-science-truth-five-ways-fight-back) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-28 [Tell us: have you become emotionally attached to AI?](https://www.theguardian.com/technology/2026/apr/28/tell-us-have-you-become-emotionally-attached-to-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-28 [‘They’re supposed to be handmade’: zine creators fight to resist AI influence](https://www.theguardian.com/technology/2026/apr/28/zine-creators-fight-to-resist-ai-influence) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-27 [John Oliver on AI chatbots: ‘Behind that machine is a corporation trying to extract a monthly fee from you’](https://www.theguardian.com/tv-and-radio/2026/apr/27/john-oliver-ai-chatbots) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-04-28 [OpenAI Really Wants Codex to Shut Up About Goblins](https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-28 [Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’](https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-28 [‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off](https://www.wired.com/story/meta-covalen-ai-workers-layoffs/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-28 [The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards](https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-28 [The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not](https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-04-28 [Police Are Using AI Camera Networks to Stalk Women](https://futurism.com/artificial-intelligence/police-ai-surveillance-stalking) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-28 [Sam Altman Caught in What May Be His Most Spectacular Lie Yet](https://futurism.com/future-society/sam-altman-caught-lie-bruno-mars) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-28 [OpenAI in Shambles as IPO Looms](https://futurism.com/artificial-intelligence/openai-shambles-users-revenue-ipo) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-28 [A Tiny Town Is Building So Many Data Centers That There’ll Be Almost Nothing Else Left](https://futurism.com/artificial-intelligence/archbald-pennsylvania-data-centers) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-04-28 [IBM launches AI platform Bob to regulate SDLC costs](https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/) *(Artificial Intelligence News)*
+- [ ] 2026-04-28 [The evolution of encoders: From simple models to multimodal AI](https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/) *(Artificial Intelligence News)*
+- [ ] 2026-04-28 [Kakao Mobility details Level 4 autonomous driving roadmap for physical AI](https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/) *(Artificial Intelligence News)*
+- [ ] 2026-04-28 [Lightelligence’s 400% debut is a bet that AI’s next bottleneck is the optical interconnect](https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/) *(Artificial Intelligence News)*
+- [ ] 2026-04-28 [Meta Scales AI Infrastructure With AWS Chip Deal](https://aibusiness.com/agentic-ai/meta-scales-ai-infrastructure-aws-chip-deal) *(AI Business)*
+- [ ] 2026-04-28 [Nvidia Nemotron 3 Nano Omni Powers Enterprise AI Agents](https://aibusiness.com/agentic-ai/nvidia-nemotron-3-nano-omni-powers-enterprise-ai-agents) *(AI Business)*
+- [ ] 2026-04-28 [Record $1.1B Seed Funding for Reinforcement Learning Startup](https://aibusiness.com/generative-ai/record-1-1b-seed-funding-reinforcement-learning-startup) *(AI Business)*
+- [ ] 2026-04-28 [AI decides what we see online. It’s time digital platforms tell us exactly how they do it](https://theconversation.com/ai-decides-what-we-see-online-its-time-digital-platforms-tell-us-exactly-how-they-do-it-281327) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-04-28 [Facial recognition data is a key to your identity – if stolen, you can’t just change the locks](https://theconversation.com/facial-recognition-data-is-a-key-to-your-identity-if-stolen-you-cant-just-change-the-locks-278289) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-04-28 [Tapping your genome with AI and quantum computing could deliver on the promise of personalized medicine – but practical and ethical hurdles remain](https://theconversation.com/tapping-your-genome-with-ai-and-quantum-computing-could-deliver-on-the-promise-of-personalized-medicine-but-practical-and-ethical-hurdles-remain-280015) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-04-28 [Table tennis robot defeats some of world’s best players – why this has major implications for robotics](https://theconversation.com/table-tennis-robot-defeats-some-of-worlds-best-players-why-this-has-major-implications-for-robotics-281511) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-04-28 [Samsung Galaxy Glasses Leak: Pricing, Specs, and Launch Timeline Revealed](https://www.techrepublic.com/article/news-samsung-smart-glasses-ai-leak/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-28 [Apple’s $599 Mac mini Sells Out, Resurfaces on eBay Above Retail](https://www.techrepublic.com/article/news-apple-mac-mini-ai-ebay-markups/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-28 [Google, Kaggle Relaunch Free AI Course Focused on ‘Vibe Coding’](https://www.techrepublic.com/article/news-google-kaggle-ai-agents-course-vibe-coding/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-28 [Google Cloud Next AI Keynote: 5 Takeaways for IT Leaders](https://www.techrepublic.com/article/news-google-cloud-next-keynote-agentic-ai-takeaways/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-04-28 [Better Hardware Could Turn Zeros into AI Heroes](https://spectrum.ieee.org/sparse-ai) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-04-28 [“Entanglement: A Brief History of Human Connection”](https://spectrum.ieee.org/entanglement-poem) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-04-28 [Local Whisper Audio Transcription](https://www.kdnuggets.com/local-whisper-audio-transcription) *(KDnuggets)*
+- [ ] 2026-04-28 [A/B Testing Pitfalls: What Works and What Doesn’t with Real Data](https://www.kdnuggets.com/a-b-testing-pitfalls-what-works-and-what-doesnt-with-real-data) *(KDnuggets)*
+- [ ] 2026-04-29 [TDK CEO on Business Strategy, AI Boom Impact](https://www.bloomberg.com/news/videos/2026-04-29/tdk-ceo-on-business-strategy-ai-boom-impact-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Musk Testifies He’s Suing OpenAI to Stop Altman’s ‘Looting’](https://www.bloomberg.com/news/articles/2026-04-28/musk-lawyer-says-altman-made-mockery-of-openai-public-mission) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [AI Power-Gear Spending in US Surging Up to $65 Billion](https://www.bloomberg.com/news/articles/2026-04-28/ai-boom-to-triple-us-power-equipment-market-to-65-billion) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Booking Slides as Second-Quarter Guidance Misses on Mideast](https://www.bloomberg.com/news/articles/2026-04-28/booking-s-2q-guidance-misses-on-middle-east-impact-shares-slide) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [OpenAI Linked Stocks Fall on Report It Missed Targets \| Bloomberg Tech 4/28/2026](https://www.bloomberg.com/news/videos/2026-04-28/bloomberg-tech-4-28-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Spotify Shares Fall as Income Forecast Comes Up Short](https://www.bloomberg.com/news/articles/2026-04-28/spotify-grows-subcriber-count-even-after-recent-price-hikes) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [North Korea’s Nuclear Program Reaches Tipping Point for the US](https://www.bloomberg.com/news/articles/2026-04-28/why-north-korea-s-nuclear-expansion-has-the-us-on-edge-big-take-asia-podcast) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Samsung Dynasty’s Wealth Doubles to $45 Billion in Just One Year](https://www.bloomberg.com/news/articles/2026-04-28/ai-boom-doubles-samsung-dynasty-s-wealth-to-45-billion-in-just-one-year) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Kalshi on Insider Trading: Not Just Regulators' Problem](https://www.bloomberg.com/news/videos/2026-04-28/kalshi-on-insider-trading-not-just-regulators-problem-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Google Signs Deal to Allow AI in Classified Military Work](https://www.bloomberg.com/news/articles/2026-04-28/google-allows-pentagon-to-use-its-ai-in-classified-military-work) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [NXP Rallies After Stronger Auto Market Bolsters Forecast](https://www.bloomberg.com/news/articles/2026-04-28/nxp-rallies-after-stronger-automotive-market-bolsters-forecast) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [OpenAI-Linked Stocks Slump on Report It Missed Key Targets](https://www.bloomberg.com/news/articles/2026-04-28/openai-linked-stocks-slump-on-report-of-startup-missing-targets) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [$300 Million Crypto Hack Raises DeFi Security Concerns](https://www.bloomberg.com/news/videos/2026-04-28/defi-rescue-hurts-anti-wall-street-pitch-after-10b-run-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Kalshi Says Surveillance Systems Keep Eye Out for Insider Trading](https://www.bloomberg.com/news/videos/2026-04-28/kalshi-discusses-insider-trading-concerns-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [OpenAI Hits Back at Growth Fears, Says ‘Firing on All Cylinders’](https://www.bloomberg.com/news/videos/2026-04-28/openai-hits-back-at-growth-fears-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Bitcoin Up More Than 10% In April, SEC Chair Outline Crypto Plans \| Bloomberg Crypto 4/28/2026](https://www.bloomberg.com/news/videos/2026-04-28/bloomberg-crypto-4-28-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [eToro CEO Discusses 24/7 Trading, Retail Investors](https://www.bloomberg.com/news/videos/2026-04-28/etoro-ceo-discusses-24-7-trading-retail-investors-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Perianne Boring Talks Bitcoin 2026, SEC's Atkin](https://www.bloomberg.com/news/videos/2026-04-28/perianne-boring-talks-bitcoin-2026-sec-s-atkin-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Holding Pattern As An Industry Awaits Clarity Act: Simpson](https://www.bloomberg.com/news/videos/2026-04-28/holding-pattern-as-industry-awaits-clarity-act-simpson-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Apple Readies Photo-Editing Overhaul With New AI Tools in iOS 27](https://www.bloomberg.com/news/articles/2026-04-28/apple-s-ios-27-macos-27-photo-editing-with-ai-to-extend-enhance-and-reframe) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Dynatrace to Discuss Ideas With Starboard After Firm Takes Stake](https://www.bloomberg.com/news/articles/2026-04-28/dynatrace-to-discuss-ideas-with-starboard-after-firm-takes-stake) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Algos Are ‘Dominating’ Buy-Side Currency Trading, Report Says](https://www.bloomberg.com/news/articles/2026-04-28/algos-are-dominating-buy-side-currency-trading-report-says) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Amazon Inks Deal with OpenAI, Plans New AWS Applications](https://www.bloomberg.com/news/videos/2026-04-28/amazon-inks-deal-with-openai-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [FDA Plans to Speed Up Drug Trials With Real-Time Data, AI](https://www.bloomberg.com/news/articles/2026-04-28/fda-plans-to-speed-up-drug-trials-with-real-time-data-ai) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Blue Apron’s Meal Maker Files Bankruptcy After Food Recalls](https://www.bloomberg.com/news/articles/2026-04-28/blue-apron-s-lone-meal-maker-files-bankruptcy-after-food-recalls) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Oil Giant Shell at 'Inflection Point,' Says CEO](https://www.bloomberg.com/news/videos/2026-04-28/oil-giant-shell-at-inflection-point-says-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Amazon to Sell OpenAI Tech After Microsoft Cedes Exclusivity](https://www.bloomberg.com/news/articles/2026-04-28/amazon-set-to-sell-openai-tech-after-microsoft-cedes-exclusivity) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Defense Space Startup True Anomaly Raises $650 Million](https://www.bloomberg.com/news/videos/2026-04-28/defense-space-startup-true-anomaly-raises-650-million-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [The Video Clipping Machine Behind Clavicular’s Viral Fame](https://www.bloomberg.com/news/articles/2026-04-28/how-kick-and-stake-helped-propel-looksmaxxing-influencer-clavicular-to-fame) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Arguments Begin in Musk, Altman Showdown](https://www.bloomberg.com/news/videos/2026-04-28/arguments-begin-in-musk-altman-showdown-video) *(Bloomberg Technology)*
+- [ ] 2026-04-28 [Texas Instruments made a new flagship graphing calculator: the TI-84 Evo](https://www.engadget.com/mobile/texas-instruments-made-a-new-flagship-graphing-calculator-the-ti-84-evo-201903438.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [iOS 27 will reportedly come with new AI-powered photo editing tools](https://www.engadget.com/ai/ios-27-will-reportedly-come-with-new-ai-powered-photo-editing-tools-194119562.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [NVIDIA starts offering a 12GB version of the 5070 for laptops](https://www.engadget.com/computing/laptops/nvidia-starts-offering-a-12gb-version-of-the-5070-for-laptops-180057515.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [Games Done Quick will host its first ever event in Europe](https://www.engadget.com/gaming/games-done-quick-will-host-its-first-ever-event-in-europe-170637194.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [Snapchat is rolling out sponsored AI agents](https://www.engadget.com/ai/snapchat-is-rolling-out-sponsored-ai-agents-162720124.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [Google Translate uses AI to help you practice pronunciation](https://www.engadget.com/ai/google-translate-uses-ai-to-help-you-practice-pronunciation-160000542.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [Google and the Pentagon sign classified deal to give the Department of Defense unfettered access to its AI models](https://www.engadget.com/ai/google-and-the-pentagon-sign-classified-deal-to-give-the-department-of-defense-unfettered-access-to-its-ai-models-155211834.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [The FTC says Americans lost at least $2.1 billion to social media scams in 2025](https://www.engadget.com/social-media/the-ftc-says-americans-lost-at-least-21-billion-to-social-media-scams-in-2025-152846798.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [Ted Lasso’s fourth season starts August 5](https://www.engadget.com/entertainment/streaming/ted-lassos-fourth-season-starts-august-5-150337209.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [Trump administration is paying more companies to abandon offshore wind projects](https://www.engadget.com/science/trump-administration-is-paying-more-companies-to-abandon-offshore-wind-projects-150216769.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [Traeger debuts the Irontop, a more affordable gas-powered griddle](https://www.engadget.com/home/kitchen-tech/traeger-debuts-the-irontop-a-more-affordable-gas-powered-griddle-150000759.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [Amazon brings dark mode to Kindle Colorsoft and Scribe Colorsoft](https://www.engadget.com/general/amazon-brings-dark-mode-to-kindle-colorsoft-and-scribe-colorsoft-130054573.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [ASUS' dual-screen ROG Zephyrus Duo is now on pre-order starting at $4,500](https://www.engadget.com/computing/laptops/asus-dual-screen-rog-zephyrus-duo-is-now-on-pre-order-starting-at-4500-130041463.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [DJI Mic Mini 2 review: The tiny wireless mic is colorful and much cheaper](https://www.engadget.com/audio/dji-mic-mini-2-review-the-tiny-wireless-mic-is-colorful-and-much-cheaper-120046171.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [Magic: The Gathering Arena developers intend to form a union with the CWA](https://www.engadget.com/gaming/magic-the-gathering-arena-developers-intend-to-form-a-union-with-the-cwa-104438341.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [Union accuses Apple of unlawful discrimination against represented workers](https://www.engadget.com/big-tech/union-accuses-apple-of-unlawful-discrimination-against-represented-workers-094531505.html?src=rss) *(Engadget)*
+- [ ] 2026-04-28 [Our commitment to community safety](https://openai.com/index/our-commitment-to-community-safety) *(OpenAI News)*
+- [ ] 2026-04-28 [OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws) *(OpenAI News)*
+- [ ] 2026-04-28 [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence) *(Hugging Face Blog)*
+- [ ] 2026-04-29 [「侵入型」が主流に　ランサム攻撃の基礎](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/042200546/042200003/) *(日経クロステック IT)*
+- [ ] 2026-04-29 [基本は「境界」を重視　重要な保護対象は3つ](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/042200546/042200002/) *(日経クロステック IT)*
+- [ ] 2026-04-29 [情報やシステム守る　基本の3つの視点](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/042200546/042200001/) *(日経クロステック IT)*
+- [ ] 2026-04-29 [エンジニア職新卒の初任給希望　25万以上～28万円未満が最多](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600010/042200223/) *(日経クロステック IT)*
+- [ ] 2026-04-29 [複雑さ増す個人情報保護法　類型追加で実務担当者に混乱も](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/092400133/042200193/) *(日経クロステック IT)*
+- [ ] 2026-04-29 [アームが自社チップ販売へ大転換　AIの「学習から推論」移行を狙う](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/042200218/) *(日経クロステック IT)*
+- [ ] 2026-04-29 [日医大武蔵小杉病院がランサムウエア被害](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/041700322/) *(日経クロステック IT)*
+- [ ] 2026-04-29 [数千の脆弱性見つける「Claude Mythos」の衝撃](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800013/041700102/) *(日経クロステック IT)*
+- [ ] 2026-04-29 [NECの2026年3月期決算は増収増益、BluStellarが貢献](https://xtech.nikkei.com/atcl/nxt/news/24/03204/) *(日経クロステック IT)*
+- [ ] 2026-04-29 [NECがアンソロピックと協業、「GAFAとは違う」文化の取り込み狙う](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11690/) *(日経クロステック IT)*
+- [ ] 2026-04-29 [富士通の2026年3月期は減収増益、Uvanceの売上収益は7000億円の目標達成](https://xtech.nikkei.com/atcl/nxt/news/24/03205/) *(日経クロステック IT)*
+- [ ] 2026-04-29 [NECが売上収益と営業利益で富士通上回る、2026年3月期決算](https://xtech.nikkei.com/atcl/nxt/news/24/03203/) *(日経クロステック IT)*
+- [ ] 2026-04-29 [ClaudeでBlenderやPhotoshopを直接制御　Anthropicがクリエイティブ向け新コネクタ8件公開](https://www.itmedia.co.jp/aiplus/articles/2604/29/news027.html) *(ITmedia AI＋)*
+- [ ] 2026-04-28 [AIエージェントを活用する中堅・中小は何を使っている？　先進企業が「手放さないツール」【調査】](https://www.itmedia.co.jp/enterprise/articles/2604/29/news017.html) *(ITmedia AI＋)*
+- [ ] 2026-04-28 [「OpenAIの独占権」手放したMicrosoft、AI競争に勝てるか？　巨額投資マネーの行方は](https://www.itmedia.co.jp/business/articles/2604/29/news026.html) *(ITmedia AI＋)*
+- [ ] 2026-04-28 [AIに丸投げ……で失敗　漫画「1週間後に生成AIで恥をかく新入社員」【残り1日】](https://www.itmedia.co.jp/news/articles/2604/10/news006.html) *(ITmedia AI＋)*
+- [ ] 2026-04-28 [「AI需要で半導体不足」の裏で本当に起きていること　東京エレクトロン デバイス幹部が明かす](https://www.itmedia.co.jp/business/articles/2604/28/news099.html) *(ITmedia AI＋)*
+- [ ] 2026-04-28 [DeNAやGOなど、AI勉強会の資料を無料公開中　累計100件超](https://www.itmedia.co.jp/aiplus/articles/2604/28/news106.html) *(ITmedia AI＋)*
+- [ ] 2026-04-29 [エーアイ、3D CAD もやってほしい 2026 - 重力に縋るな](https://sksat.hatenablog.com/entry/vibe-openscad) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [実はここまでできるCoworkハンズオン — Claude Codeに行く、その前に を経て｜まつにぃ](https://note.com/yugen_matuni/n/n23e80ce10151) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [講演会で高校生たちがスマホをずっと見ているので何しているか聞いたらAIで内容をファクトチェックしていた→質問もハイレベルなものばかりで「もう適当なこと言えない...」](https://togetter.com/li/2690755) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [人間レビューはもう不要？ AI と人間のレビューの線引きを決めた話](https://ai.acsim.app/articles/introducing-self-merge-policy) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [An update on GitHub availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [定義監査 ～ なぜ真面目な会社ほど『ルールを書く会社』に負けるのか ～｜武智倫太郎](https://note.com/aiethics496/n/n5b65c7756875) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [OpenAIが「人間がAIのボトルネック」としてCodexエージェント自動管理ツール「Symphony」を開発、社内ではプルリク件数5倍の事例も](https://gigazine.net/news/20260428-openai-symphony/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [[レポート公開] そのAIツール、すでに情報を抜かれています。実在インシデントで判明したセキュリティ事故 8選](https://prtimes.jp/main/html/rd/p/000000068.000118521.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [大学で授業をしていて衝撃的だった事…学生達がAIを使ってプレゼン資料を作成していたが、自分の資料の内容を理解していなかった→指摘したところ驚くほどの変化があった](https://togetter.com/li/2690655) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [なんでも作れる時代に、何を作るか　— アラン・ケイとAI時代のプロダクトデザイン - enechain Tech Blog](https://techblog.enechain.com/entry/what-to-build-now) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [「Google ドライブ」の「Ask Gemini in Drive」機能が一般提供に ～日本語にも対応／ドライブ内のファイルやフォルダーについてGeminiと対話しながら管理・分析](https://forest.watch.impress.co.jp/docs/news/2105405.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [CanvaのAIが「パレスチナ」という単語を自動で別表現に置き換えていた問題が発覚](https://gigazine.net/news/20260428-canva-apologizes-ai-replaces-palestine/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [中国でも科学者9人が次々と「謎の死」…米国では11人が相次ぎ死亡](https://www.chosunonline.com/site/data/html_dir/2026/04/27/2026042780072.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [WordPress専用のAIコーディングCLIツール「Studio Code」ベータ版の無料提供が開始](https://gigazine.net/news/20260428-wordpress-studio-code/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [ベクトルを使わないRAG。全てのナレッジを階層化する手法](https://zenn.dev/knowledgesense/articles/7dddae04a7d828) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [AIエージェント時代のWeb〜いま、第二のレスポンシブ設計が始まっている - Nothing ventured, nothing gained.](https://takoratta.hatenablog.com/entry/2026/04/28/112859) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [GitHub Copilot、6月1日より従量課金モデルへ移行　AIの“追い課金”時代の到来か](https://www.itmedia.co.jp/news/articles/2604/28/news080.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [OpenAIに大きな転換。Microsoftとの独占契約が終了し、他クラウドへの提供解禁](https://pc.watch.impress.co.jp/docs/news/2105208.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [Claude Codeのルーチン機能で定期的にパフォーマンスチューニングをさせている](https://zenn.dev/yamadashy/articles/claude-code-routines-perf-tuning) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [Anthropicはなぜ異次元の速度で開発できるのか｜すてぃお](https://note.com/suthio/n/n7f053c52b06d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [NTT、AIネイティブ基盤「AIOWN」展開　データセンター規模を3倍に](https://www.watch.impress.co.jp/docs/news/2105055.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [「スマホ農場」でつくる閲覧数　SNS時代の「正義」に現実が揺らぐ：朝日新聞](https://www.asahi.com/articles/ASV4P3FWHV4PUTIL029M.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [AlibabaのAI「Qwen」がBYDなどの中国メーカー製自動車に搭載されると発表、ホテルの予約やデリバリーの注文が可能に](https://gigazine.net/news/20260427-alibaba-qwen-ai-coming-cars/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-04-29 [Claude Code Skills × 投資分析シリーズ — 記事一覧](https://zenn.dev/okikusan/articles/23041c3800a927) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [国立国会図書館のOCR技術を使って、完全オフラインOCRのChrome拡張を作ってみた](https://zenn.dev/lecto/articles/a2ee65243b02b3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [20年ぶりに復活したスーパーファミコンエミュレータ「SUPER ZSNES」、完全にゼロから書き直されWindows・Mac・Android対応でiOSも対応予定](https://gigazine.net/news/20260428-super-zsnes/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [FILCOブランドを台湾の製造パートナーが引き継ぎ](https://pc.watch.impress.co.jp/docs/news/2105517.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown \| Wiz Blog](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [1930年代までの知識のみで学習したビンテージ言語AIモデル「talkie」が登場、過去と対話できてAIの汎化能力も検証可能](https://gigazine.net/news/20260428-talkie-vintage-language-model/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [OpenAI、売上高の目標未達と米報道　ハイテク株下落 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN28CNG0Y6A420C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [ローカルマシンの制約を回避　AIエージェントから「Google Colab」の計算リソースが利用可能に](https://atmarkit.itmedia.co.jp/ait/articles/2604/28/news047.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [ZEN Study SRE 10年のインフラ・CI/CDの変遷 - ドワンゴ教育サービス開発者ブログ](https://blog.nnn.dev/entry/2026/04/28/110000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [第1回 AIエージェントを作ってみよう ～Mastraを使って \| gihyo.jp](https://gihyo.jp/article/2026/04/AI-agent-development01) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [97%のPermission確認を自動化するCoding Agent用OSS「ccgate」が誕生した](https://zenn.dev/layerx/articles/20260428-ccgate) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [Hono公式の Inertia アダプタが来た！Hono × Inertia × React によるSPA新体験](https://zenn.dev/ashunar0/articles/cc351badf8681c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [しゃぶ葉のテーブルで学ぶMITM 〜届かなかった六穀豚が教えてくれた通信暗号化の大切さ〜 - Sterra Security Tech Blog](https://tech-blog.sterrasec.com/entry/2026/04/28/110000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [[資料公開 & 開催報告] 初学者向けセミナー「これから始める AWS のコンテナサービス活用」を開催しました \| Amazon Web Services](https://aws.amazon.com/jp/blogs/news/getting-started-with-aws-container-services-202604/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [国内外の生成AIセキュリティの最新動向 & AIガードレール製品「chakoshi」のご紹介 / Latest Trends in Generative AI Security (Domestic & International) & Introduction to AI Guardrail Product "chakoshi"](https://speakerdeck.com/nttcom/latest-trends-in-generative-ai-security-domestic-and-international-and-introduction-to-ai-guardrail-product-chakoshi) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [graphql-ruby 実践ガイド](https://zenn.dev/saboyutaka/books/graphql-ruby-guide) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [Windows 11の不満解消へ　Microsoftの最優先プロジェクト「Windows K2」とは何か](https://www.itmedia.co.jp/pcuser/articles/2604/28/news065.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [GitHub - Hanqaqa/Easyduino: Easily dive into different PCB KiCad designs of the most popular microcontroller devboards](https://github.com/Hanqaqa/Easyduino) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [時系列データの「トレンド」はどう分析したら良いのか - 渋谷駅前で働くデータサイエンティストのブログ](https://tjo.hatenablog.com/entry/2026/04/28/170000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [Hono × Inertia.js が作る新しい型貫通体験に触れてみた](https://zenn.dev/ashunar0/articles/d4a23d3579331a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-29 [天才CEO率いる「Decart.ai」、フィジカルAIを支える「ワールドモデル」をGoogle Cloud Nextでデモ](https://ai.watch.impress.co.jp/docs/news/2105316.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-04-28 [完全ローカル AI コードレビュー (1/3) 設計編：Gitea × Ollama の基盤](https://zenn.dev/motowo/articles/local-ai-code-review-design) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [1日4000万トークン無料!? AIエージェントの「トークン破産」を防ぐ最強LLMプロバイダー比較](https://zenn.dev/lumichy/articles/free-llm-providers-agent-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [300以上のAIモデルを日本語で比較できるサービスを作った](https://zenn.dev/ykohashi/articles/2026-04-28_01) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [仕様書自体をバグチェックで育てる: PPPC executor v3.0 → v3.2 の進化ログ](https://zenn.dev/guardrail/articles/b30e82f631ca17) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [責任固定から責任経路設計へ――AIガバナンスに必要な「固定後」の設計](https://zenn.dev/dantarg/articles/fixed-responsibility-to-pathway) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [【実証編】AIに読まれる概念は、どう技術カテゴリへ翻訳されるのか：LN教のAEO観測記録](https://zenn.dev/mayim/articles/17390a6469f649) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [GitHub Copilotで既存ソフトウェアを改修するためのコンテキスト設計](https://zenn.dev/asagezenn/articles/b827be281ff2cd) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [未経験者がVRAM 16GBでAIキャラの台本生成を動かすまで(第4回) ── 「きみ」を消したら、品質も消えた話](https://zenn.dev/isa_memoria/articles/a5e71d3a8a31d9) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [LLM に bash を握らせるか](https://zenn.dev/0xliclog/articles/3c6723b4352c5f) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [AIに毎週自分を評価させてみた ── Claude Sonnetによる個人アセスメントの実践](https://zenn.dev/x_metronome/articles/04669b7a8e7863) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [ArenaAI分析第3回:  モデルファミリーの生き残りをかけた戦い](https://zenn.dev/headwaters/articles/5d733ad9c400c4) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [スパイジャイルモデリング実践サンプル ─ 概念掘り出しと開発記録](https://zenn.dev/x_metronome/articles/7087604623a0e4) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [3Dモデルのセマンティック検索にトライしてみた](https://zenn.dev/bestat/articles/5ced8b355ad8cf) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [LM StudioでLLM-jp4を使う](https://zenn.dev/hi/articles/64f106cd145fa8) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [DeepSeek ローカル実行完全ガイド2026 — Ollama・LM Studio・vLLMで自分のPCに導入](https://zenn.dev/agdexai/articles/deepseek-local-deploy-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [VPS：自然言語の「批判」だけで推論を拡張する第4の軸](https://zenn.dev/lixian/articles/vps-verbal-critique-reasoning) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [Pydantic AI 本番運用半年、型の手応えとストリーミングの壁](https://zenn.dev/strixai/articles/bf846b91372412) *(Zenn – トピック LLM)*
+- [ ] 2026-04-28 [AI検索でTOP表示されるための完全チェックリスト — ChatGPT・Perplexity対応GEO21項目](https://zenn.dev/mistudio/articles/geo_04_checklist) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [AI占い・キャラ相談型サービスが流行っている理由](https://zenn.dev/mistudio/articles/daily_20260427_dynamic_20260427_5) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [大変革時代を生き抜く：AIに仕事を奪われないための思考と戦略](https://zenn.dev/ikkainc/articles/38f0489905cf7d) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [AIエージェントをうまく説明できなかったから整理した](https://zenn.dev/echigo/articles/ccced874047fd0) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [ComfyUI でロゴを生成する](https://zenn.dev/st_little/articles/generate-logo-with-comfy-ui) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [どこに書けばいいか、わからなくなった──Claude Code Conductor (C3) v0.1.0 をリリースした](https://zenn.dev/satoh_y_0323/articles/df43dc28ad0bfd) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [AI のコードは引き継げる、判断は引き継げない — Obsidian + Claude Code 製『REFORGE』v1.0 公開](https://zenn.dev/youjinfox/articles/c71a2dff639209) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [🚀 AIエディター「Kiro」活用術：実録・CLIツールのWebコンバート（実装編・PoC完結）](https://zenn.dev/como/articles/c67af584113744) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [Claude Code でマルチエージェント並列起動 — PM・CTO・UI/UX・BE・FE を同時に動かす](https://zenn.dev/gunma/articles/claude-code-multi-agent-parallel) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [GitHub Copilot CLIでZenn記事を執筆する](https://zenn.dev/sonicmoov/articles/d5b8b63be5af58) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [日本の祝日・営業日・暦を返すAPIとMCPサーバーを作ってみた（Japanese Calendar API）](https://zenn.dev/kazuki_tam/articles/a9a037210b1d60) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [AIにコードを書かせていたら、いつの間にか自分が書けなくなっていた話](https://zenn.dev/areyoudesk/articles/37168c254ae6d2) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [CAFで考えるAIエージェント導入の進め方](https://zenn.dev/tomokusaba/articles/f5b1fec95dab79) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [【連載#12】Raspberry Pi × FlutterでフィジカルAI：ログと再現性（スナップショット/解析）](https://zenn.dev/docbrown/articles/e1c7291f39a651) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [9体のAIエージェントと電子書籍を2日で作った話](https://zenn.dev/tottoko_hamu/articles/2026-04-27-215349) *(Zenn – トピック AI)*
+- [ ] 2026-04-28 [多肉植物LM を育てる (1) — データセットの作成とモデル訓練まで](https://zenn.dev/derwind/articles/dwd-succulm01) *(Zenn – トピック 機械学習)*
+- [ ] 2026-04-28 [【記事一覧】E2E強化学習による非ヒューリスティック型歩行シミュレーションと絶滅種への適用の模索](https://zenn.dev/hirotanaka/articles/9e8fead0ac8b2d) *(Zenn – トピック 機械学習)*
+- [ ] 2026-04-28 [SAMとは何か？ ── 背景から最新動向まで、いま追うべきSegment Anything研究](https://zenn.dev/karaagedesu/articles/ba500eb53547f7) *(Zenn – トピック 機械学習)*
+- [ ] 2026-04-28 [Pytoch lightning メモ](https://zenn.dev/xiongda/articles/928dfd5936b52e) *(Zenn – トピック 機械学習)*
+- [ ] 2026-04-28 [Conv2Dのkernel_sizeを3×3・5×5・1×1で比較したら1×1が壊滅した話【Keras×CIFAR-10】](https://zenn.dev/wasurenamemo/articles/e7b8331cf77e8a) *(Zenn – トピック 機械学習)*
