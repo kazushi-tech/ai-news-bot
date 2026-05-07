@@ -67435,3 +67435,71 @@
 - [ ] 2026-05-07 [Claude Code を使っていて、“記憶”が足りないと感じる瞬間について](https://zenn.dev/memorylakeai/articles/71271ea03f3521) *(Zenn – トピック AI)*
 - [ ] 2026-05-07 [動画広告の制作で「顔出しの呪縛」から解放された話。時間とメンタルを守るAI活用術](https://zenn.dev/aibank/articles/9df0781b51bf81) *(Zenn – トピック AI)*
 - [ ] 2026-05-07 [実践Claude Code入門を読んでわかった、指示追従性を上げる3つの仕組み](https://zenn.dev/shotaonishi/articles/2026-05-07-claude-code-slash-skill-hook) *(Zenn – トピック AI)*
+
+## Collected on 2026-05-07T19:20:34.003Z
+- [ ] 2026-05-07 [The Guardian view on facial recognition technology: mistaken identities are a political issue \| Editorial](https://www.theguardian.com/commentisfree/2026/may/07/the-guardian-view-on-facial-recognition-technology-mistaken-identities-are-a-political-issue) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-07 [Financial stability risks are rising as AI fuels cyber-attacks, IMF warns; oil below $100 on Iran peace hopes – as it happened](https://www.theguardian.com/business/live/2026/may/07/iran-deal-shell-profits-oil-gas-stock-markets-business-live) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-07 [ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'](https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-05-07 [Under Threat of Perjury, OpenAI’s Former CTO Is Admitting Some Very Interesting Stuff About Sam Altman](https://futurism.com/artificial-intelligence/perjury-openai-cto-murati-altman) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-07 [CEOs Say AI Gives Them Only Two Options, and Both Are Bad News for Employees](https://futurism.com/artificial-intelligence/ceos-ai-two-decisions) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-07 [You’ll Never Guess Trade Unions’ Position on AI Data Centers](https://futurism.com/artificial-intelligence/union-labor-data-center) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-07 [James Cameron Accused of Stealing 14-Year-Old Girl’s Face for Main Character of Billion-Dollar “Avatar” Films](https://futurism.com/future-society/james-cameron-accused-stealing-face-avatar) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-07 [The Situation With Richard Dawkins’ AI Girlfriend Just Got Way Weirder](https://futurism.com/artificial-intelligence/richard-dawkins-ai-girlfriend-weirder) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-07 [AWS Launches Agentic AI Payment Capabilities](https://aibusiness.com/agentic-ai/aws-launches-agentic-ai-payment-capabilities) *(AI Business)*
+- [ ] 2026-05-07 [EU Nations Approve Deal to Roll Back AI Restrictions](https://aibusiness.com/ai-policy/eu-nations-approve-deal-roll-back-ai-restrictions) *(AI Business)*
+- [ ] 2026-05-07 [Anthropic and SpaceX Agree to Major Compute Capacity Deal](https://aibusiness.com/generative-ai/anthropic-spacex-agree-major-compute-capacity-deal) *(AI Business)*
+- [ ] 2026-05-07 [The AI scientist: now academic papers can be fully automated, what does this mean for the future of research?](https://theconversation.com/the-ai-scientist-now-academic-papers-can-be-fully-automated-what-does-this-mean-for-the-future-of-research-282161) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-05-07 [Mac Studio, Mac mini Buyers Are Losing Options Amid AI Demand](https://www.techrepublic.com/article/news-apple-cuts-high-memory-mac-options-ai-demand/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-07 [Alphabet Poised to Overtake Nvidia as the World’s Most Valuable Public Company](https://www.techrepublic.com/article/news-alphabet-nvidia-market-value-ai-cloud/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-07 [Elon Musk’s Texas Chip Plant Could Cost $119B, Filings Show](https://www.techrepublic.com/article/news-musk-texas-terafab-chip-plant-119b/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-07 [Android 17: Everything We Know About Google’s Biggest Year Yet](https://www.techrepublic.com/article/news-android-17-rumors-google-io-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-06 [Anthropic, SpaceX Deal Boosts Claude Compute and Points to Space-Based AI](https://www.techrepublic.com/article/news-anthropic-spacex-claude-compute-colossus-1/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-06 [OpenAI’s Rumored ‘AI Agent Phone’ Could Arrive Sooner Than Expected](https://www.techrepublic.com/article/news-openai-ai-agent-phone-2027-production/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-06 [Cisco: AI Growth Is Turning Wi-Fi Into Enterprise Infrastructure](https://www.techrepublic.com/article/news-ai-enterprise-wifi-cisco-wireless-report/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-06 [More Tech Layoffs: Coinbase Cuts 14% of Workforce in AI Push](https://www.techrepublic.com/article/news-coinbase-layoffs-ai-workforce-cuts/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-06 [AI Chatbot Cheat Sheet: Comparing ChatGPT, Gemini, Copilot, and More](https://www.techrepublic.com/article/news-ai-chatbot-cheat-sheet-overview/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-07 [Building Modern EDA Pipelines with Pingouin](https://www.kdnuggets.com/building-modern-eda-pipelines-with-pingouin) *(KDnuggets)*
+- [ ] 2026-05-07 [<strong>La informalidad impulsa el reinado del efectivo en México</strong>](https://www.bloomberg.com/news/features/2026-05-07/informalidad-impide-a-fintechs-desplazar-el-efectivo-en-mexico) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [HawkEye 360 Goes Public In Latest Sign of IPO Demand](https://www.bloomberg.com/news/videos/2026-05-07/hawkeye-360-goes-public-in-latest-sign-of-ipo-demand-video) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [Tech Sector Layoffs Keep Mounting As Cuts in Other Sectors Fall](https://www.bloomberg.com/news/videos/2026-05-07/tech-sector-layoffs-mount-as-cuts-in-other-sectors-fall-video) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [Apple’s Camera-Equipped AirPods Reach Late Testing in AI Device Push](https://www.bloomberg.com/news/articles/2026-05-07/apple-s-camera-equipped-airpods-reach-advanced-testing-stage-in-ai-device-push) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [Everyone Wants a Piece of Ina Garten’s Forthcoming Podcast](https://www.bloomberg.com/news/newsletters/2026-05-07/ina-garten-s-forthcoming-podcast-is-touching-off-a-frenzy) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [Apollo’s Marc Rowan Warns of Fallout From ‘Massive Geopolitical’ Shift](https://www.bloomberg.com/news/articles/2026-05-07/marc-rowan-warns-of-fallout-from-massive-geopolitical-shift) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [Arm CEO Sees AI Demand While Smartphone Business Slumps](https://www.bloomberg.com/news/videos/2026-05-07/arm-ceo-sees-ai-demand-while-smartphone-business-slumps-video) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [MNTN CEO: TV Remains Dominant Medium as Streaming Grows](https://www.bloomberg.com/news/videos/2026-05-07/mntn-ceo-tv-remains-dominant-medium-as-streaming-grows-video) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [Arm Sees ‘Explosion’ in CPU Demand on AI Amid Smartphone Slump](https://www.bloomberg.com/news/articles/2026-05-07/arm-sees-explosion-in-cpu-demand-on-ai-amid-smartphone-slump) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [TD’s eBay Financing Assumes GameStop Wins Longshot Credit Rating](https://www.bloomberg.com/news/articles/2026-05-07/td-s-ebay-financing-assumes-gamestop-wins-longshot-credit-rating) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [Why AI Isn’t a Threat to Wall Street Traders Just Yet](https://www.bloomberg.com/news/videos/2026-05-07/why-ai-isn-t-a-threat-to-wall-street-traders-just-yet-video) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [Israeli Shekel at 32-Year High Is Causing Angst in Tech Industry](https://www.bloomberg.com/news/articles/2026-05-07/israeli-shekel-at-32-year-high-is-causing-angst-in-tech-industry) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [AI Boom Drives Earnings Growth](https://www.bloomberg.com/news/videos/2026-05-07/ai-boom-drives-earnings-growth-video) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [The Messy, Humiliating Courtroom Drama Between Elon Musk and OpenAI](https://www.bloomberg.com/news/articles/2026-05-07/in-musk-v-openai-elon-musk-and-chatgpt-founders-risk-reputation) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [Datadog Shares Soar by Most in Six Years on Higher Outlook](https://www.bloomberg.com/news/articles/2026-05-07/datadog-shares-soar-by-most-in-over-six-years-on-higher-outlook) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [Google Launches $100 Fitbit Air Without a Screen to Rival Whoop](https://www.bloomberg.com/news/articles/2026-05-07/google-fitbit-air-100-price-whoop-comparison-features-subscription) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [AMD Rallies After AI Demand Fuels Blockbuster Forecast](https://www.bloomberg.com/news/videos/2026-05-07/amd-rallies-after-ai-demand-fuels-blockbuster-forecast) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [Amazon Luna's May lineup includes Guardians of the Galaxy and the Resident Evil 2 remake](https://www.engadget.com/2167238/amazon-lunas-may-lineup-includes-guardians-of-the-galaxy-and-the-resident-evil-2-remake/) *(Engadget)*
+- [ ] 2026-05-07 [Valve will open reservations on May 8 for the second wave of Steam Controllers](https://www.engadget.com/2167230/valve-will-open-reservations-on-may-8-for-the-second-wave-of-steam-controllers/) *(Engadget)*
+- [ ] 2026-05-07 [Cozy city builder Town to City leaves early access on May 26](https://www.engadget.com/2167194/cozy-city-builder-town-to-city-leaves-early-access-on-may-26/) *(Engadget)*
+- [ ] 2026-05-07 [The Ploopy Bean is a travel-friendly mouse with a ThinkPad-style nub](https://www.engadget.com/2167138/the-ploopy-bean-is-a-travel-friendly-mouse-with-a-thinkpad-style-nub/) *(Engadget)*
+- [ ] 2026-05-07 [Teenage Engineering just released a stereo mixer that physically connects to its EP-series samplers](https://www.engadget.com/2167044/teenage-engineering-just-released-a-stereo-mixer-that-physically-connects-to-its-ep-series-samplers/) *(Engadget)*
+- [ ] 2026-05-07 [Spotify now lets AI agents like OpenClaw generate personal podcasts](https://www.engadget.com/2166997/spotify-now-lets-ai-agents-like-openclaw-generate-personal-podcasts/) *(Engadget)*
+- [ ] 2026-05-07 [Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech](https://www.engadget.com/2166994/qualcomm-reveals-two-new-affordable-phone-chips-with-smooth-motion-ui-tech/) *(Engadget)*
+- [ ] 2026-05-07 [Angry Birds and FIFA International Soccer join the World Video Game Hall of Fame](https://www.engadget.com/2164266/angry-birds-and-fifa-international-soccer-join-the-world-video-game-hall-of-fame/) *(Engadget)*
+- [ ] 2026-05-07 [Spotify's AI-powered personal DJ expands to more languages and countries](https://www.engadget.com/2166965/spotify-ai-powered-personal-dj-expands-to-more-languages-and-countries/) *(Engadget)*
+- [ ] 2026-05-07 [Google is turning the Fitbit app into a unified portal for your health and fitness data](https://www.engadget.com/2166841/google-unifies-health-fitness-apps-fitbit/) *(Engadget)*
+- [ ] 2026-05-07 [The survival horror game Hollowbody launches for PS5 and Xbox Series X/S on June 5](https://www.engadget.com/2166372/survival-horror-game-hollowbody-launches-for-ps5-and-xbox-june-5/) *(Engadget)*
+- [ ] 2026-05-07 [The Google Fitbit Air is an AI-infused take on Whoop wearables](https://www.engadget.com/2166645/the-google-fitbit-air-is-an-ai-infused-take-on-whoop-wearables/) *(Engadget)*
+- [ ] 2026-05-07 [Advancing voice intelligence with new models in the API](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api) *(OpenAI News)*
+- [ ] 2026-05-07 [Introducing Trusted Contact in ChatGPT](https://openai.com/index/introducing-trusted-contact-in-chatgpt) *(OpenAI News)*
+- [ ] 2026-05-07 [Google、画面がないフィットネストラッカー「Fitbit Air」発表　Geminiが“専任コーチ”に](https://www.itmedia.co.jp/news/articles/2605/08/news050.html) *(ITmedia AI＋)*
+- [ ] 2026-05-07 [昔からファンタジーRPGにおける"性の排除"の不自然さが気になって集中できない→"職場"の"仕事仲間"なのでないのも不思議じゃないのでは「ダンジョン飯だと描かれてる」](https://togetter.com/li/2694371) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-07 [VAIO事業が絶好調のノジマ、第4四半期の出荷台数は過去最高に　「AI PC」需要で次期も成長を見込む](https://www.itmedia.co.jp/pcuser/articles/2605/07/news109.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-07 [新人エンジニアこそ「個人開発」をやろう。完全無料で始めるCloudflareスタック入門 - Qiita](https://qiita.com/t0hara/items/8a669c6e0a76d9b1875d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-07 [Remix v3 beta を触ってみる - React 経験者からみたフルスタックの新しい選択肢](https://zenn.dev/coji/articles/remix-3-beta-firstlook) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-07 [OpenAPIという間接的な型共有をやめてoRPCを導入した話](https://zenn.dev/dress_code/articles/9040b2e3532693) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-07 [中国DeepSeekは「米国AIの8カ月遅れ」　米調査機関が分析 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGM071D90X00C26A5000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-07 [AI時代にプロダクトマネージャーは消滅するのか？ 及川卓也×吉羽龍太郎が問う「最後に決断する人間」の価値](https://productzine.jp/article/detail/4267) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-07 [VS Code、無断でCopilotを「共同著作者」に追加：開発者の猛反発で設定撤回へ \| XenoSpectrum](https://xenospectrum.com/vs-code-copilot-co-author-backlash-rollback/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-07 [「最近、どうですか？」を、自分にも向けてみる 〜エンジニアのための自己管理入門・著者ノート〜｜dora_e_m](https://note.com/dora_e_m/n/nfa97654f7aae) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-07 [AIエージェントの用語まとめ](https://zenn.dev/somewhere_panda/articles/b746fd12a6f12c) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-07 [Snowflakeネイティブ機能だけで実現する水平連合学習（HFL）アーキテクチャ](https://zenn.dev/snowflakejp/articles/a9b551d3203957) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-07 [Google Earth Engineで始める衛星画像解析　〜Sentinel-2とDeepLabV3+で「雪」を自動検出してみた](https://zenn.dev/pdata_analytics/articles/cf3e740d74d572) *(Zenn – トピック 機械学習)*
