@@ -68334,3 +68334,84 @@
 - [ ] 2026-05-08 [AIコーディングツールで痛い目を見た話3選——個人開発者が学んだ教訓](https://zenn.dev/hiyokoko/articles/db665990aa16c5) *(Zenn – トピック AI)*
 - [ ] 2026-05-08 [AIに全部任せるな — 静的解析と AI の役割分担で品質を守る](https://zenn.dev/unito_tech/articles/9ac7b9ab87853e) *(Zenn – トピック AI)*
 - [ ] 2026-05-08 [26年SEだった私が、Claude Codeの記事を読んで『置いていかれる』と感じる理由](https://zenn.dev/tottoko_hamu/articles/2026-05-07-120000) *(Zenn – トピック AI)*
+
+## Collected on 2026-05-08T18:59:57.733Z
+- [ ] 2026-05-08 [AI-powered surveillance company Palantir created a chore coat. Great, now I have no choice but to burn mine \| Van Badham](https://www.theguardian.com/technology/commentisfree/2026/may/08/palantir-chore-coat-jacket-merch) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-08 [White House calls Mark Hamill ‘sick’ for posting AI image of Trump in a grave](https://www.theguardian.com/us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-08 [The fight against AI data centers isn’t just about tech – it’s about democracy \| Astra Taylor and Saul Levin](https://www.theguardian.com/commentisfree/2026/may/08/ai-datacenters-democracy) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-08 [Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’](https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-05-08 [There’s a Long-Shot Proposal to Protect California Workers From AI](https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-05-08 [Meta Has Entered Its Death Spiral](https://futurism.com/artificial-intelligence/meta-death-spiral) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-08 [Cursed New AI Service Writes a Mother’s Day Card and Mails It to Your Mom, Without Any Human Involvement Except Inputting Your Credit Card Details](https://futurism.com/artificial-intelligence/mothers-day-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-08 [RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist](https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/) *(Artificial Intelligence News)*
+- [ ] 2026-05-08 [Prompt: AI Agents Are Becoming Operational Infrastructure](https://aibusiness.com/agentic-ai/prompt-ai-agents-becoming-operational-infrastructure) *(AI Business)*
+- [ ] 2026-05-08 [Stop Wasting Tokens: A Smarter Alternative to JSON for LLM Pipelines](https://www.kdnuggets.com/stop-wasting-tokens-a-smarter-alternative-to-json-for-llm-pipelines) *(KDnuggets)*
+- [ ] 2026-05-08 [Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-05-08/google-s-isomorphic-labs-to-raise-over-2-billion-in-new-funding) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Why the 'SpaceMob' Is So Bullish on AST](https://www.bloomberg.com/news/videos/2026-05-08/why-the-spacemob-is-so-bullish-on-ast-video) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Impact of AI on Hiring, Workforce Trends](https://www.bloomberg.com/news/videos/2026-05-08/impact-of-ai-on-hiring-workforce-trends-video) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Musk, Altman Management Styles Come Under Fire at OpenAI Trial](https://www.bloomberg.com/news/articles/2026-05-08/musk-altman-management-styles-come-under-fire-at-openai-trial) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [NYC School District Hit by Malware Attack as Well as Canvas Hack](https://www.bloomberg.com/news/articles/2026-05-08/canvas-hack-on-nyc-schools-comes-amid-separate-malware-attack) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Thiel-Backed Olympics Competitor Goes Public](https://www.bloomberg.com/news/videos/2026-05-08/thiel-backed-olympics-competitor-goes-public-video) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Anthropic Inks $1.8 Billion Computing Deal With Akamai](https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [gamma. CEO Larry Jackson on Music Career, Ye's Comeback](https://www.bloomberg.com/news/videos/2026-05-08/gamma-ceo-larry-jackson-on-music-career-ye-s-comeback-video) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [MercadoLibre Dives As Profits Miss on Rapid Growth Push](https://www.bloomberg.com/news/articles/2026-05-07/mercadolibre-revenue-beats-estimates-on-strong-e-commerce-demand) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [‘Grand Theft Auto VI’ Publisher Looks to be ‘Smarter’ at Making Games](https://www.bloomberg.com/news/newsletters/2026-05-08/-grand-theft-auto-vi-publisher-looks-to-be-smarter-at-making-games) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Three Mile Island Gets an AI Makeover](https://www.bloomberg.com/news/videos/2026-05-08/three-mile-island-gets-an-ai-makeover-video) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Yahoo Pays Up to Refinance $1.6 Billion Debt Tied to Apollo Deal](https://www.bloomberg.com/news/articles/2026-05-08/yahoo-pays-up-to-refinance-1-6-billion-debt-tied-to-apollo-deal) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Giant Virginia Data Center Project Upended by Clerical Error](https://www.bloomberg.com/news/articles/2026-05-08/giant-data-center-project-in-virginia-upended-by-clerical-error) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Some College Finals Delayed After Canvas Online Platform Hacked](https://www.bloomberg.com/news/articles/2026-05-08/some-college-finals-delayed-after-popular-online-platform-hacked) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Saudi Delivery App Ninja Taps Banks for $1 Billion IPO](https://www.bloomberg.com/news/articles/2026-05-08/saudi-delivery-app-ninja-taps-banks-for-1-billion-ipo) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [OnlyFans Sells 16% Stake Weeks After Death of Owner Radvinsky](https://www.bloomberg.com/news/articles/2026-05-08/onlyfans-sells-16-stake-weeks-after-death-of-owner-radvinsky) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [CoreWeave's Q1 Earnings Were 'Transformational,' CEO Says](https://www.bloomberg.com/news/videos/2026-05-08/coreweave-s-q1-earnings-transformational-ceo-says-video) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Akamai Shares Jump on $1.8 Billion AI Cloud Deal](https://www.bloomberg.com/news/videos/2026-05-08/akamai-s-1-8b-ai-power-move-video) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Siemens Scores Win on EU Push to Streamline Industrial AI Rules](https://www.bloomberg.com/news/articles/2026-05-08/siemens-scores-win-on-eu-push-to-streamline-industrial-ai-rules) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [Airbnb Boosts Annual Sales Outlook While Spending Picks Up](https://www.bloomberg.com/news/articles/2026-05-07/airbnb-boosts-2026-revenue-outlook-on-increased-bookings) *(Bloomberg Technology)*
+- [ ] 2026-05-07 [CoreWeave Shares Drop After Forecast Sparks Growth Fears](https://www.bloomberg.com/news/articles/2026-05-07/coreweave-posts-wider-loss-as-it-spends-heavily-on-data-centers) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Summer Travel Is a Mess. The Points Guy Tells Us How to Hack It](https://www.bloomberg.com/news/videos/2026-05-08/summer-travel-is-a-mess-the-points-guy-tells-us-how-to-hack-it) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Online Mob Fuels 6,000% Stock Rally in Obscure SpaceX Rival](https://www.bloomberg.com/news/features/2026-05-08/spacex-rival-ast-spacemobile-asts-proves-meme-stock-mania-is-back) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Online Mob Fuels 6,000% Rally in Obscure SpaceX Rival AST SpaceMobile](https://www.bloomberg.com/news/videos/2026-05-08/zealots-drive-6-000-stock-rally-in-tiny-spacex-rival-video) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Department of War sets up UFO website, but there isn't much to see](https://www.engadget.com/2168147/department-of-war-sets-up-ufo-website-but-there-isnt-much-to-see/) *(Engadget)*
+- [ ] 2026-05-08 [InMusic will acquire Native Instruments, putting it under the same umbrella as Akai](https://www.engadget.com/2168045/inmusic-will-acquire-native-instruments-putting-it-under-the-same-umbrella-as-akai/) *(Engadget)*
+- [ ] 2026-05-08 [Shoot up Xenomorphs in Aliens: Fireteam Elite 2, arriving this summer](https://www.engadget.com/2168040/shoot-up-xenomorphs-in-aliens-fireteam-elite-2-arriving-this-summer/) *(Engadget)*
+- [ ] 2026-05-08 [Intel has reportedly signed a preliminary deal to produce chips for Apple](https://www.engadget.com/2168036/intel-signs-preliminary-chip-deal-apple/) *(Engadget)*
+- [ ] 2026-05-08 [Resident Evil Requiem gets a new Leon Must Die Forever mode, out today](https://www.engadget.com/2168035/resident-evil-requiem-gets-a-new-leon-must-die-forever-mode-today/) *(Engadget)*
+- [ ] 2026-05-08 [Legendary Nintendo designer Takashi Tezuka is seemingly retiring from the company](https://www.engadget.com/2167956/legendary-nintendo-designer-takashi-tezuka-is-seemingly-retiring-from-the-company/) *(Engadget)*
+- [ ] 2026-05-08 [The studio that (technically) made Disco Elysium just dropped a trailer for its new game](https://www.engadget.com/2167928/the-studio-that-technically-made-disco-elysium-just-dropped-a-trailer-for-its-new-game/) *(Engadget)*
+- [ ] 2026-05-08 [How to watch The Android Show: Google I/O Edition on May 12](https://www.engadget.com/2167858/how-to-watch-the-android-show-google-io-edition-on-may-12/) *(Engadget)*
+- [ ] 2026-05-08 [Sony and Bandai get into bed with generative AI](https://www.engadget.com/2167841/sony-and-bandai-get-into-bed-with-generative-ai/) *(Engadget)*
+- [ ] 2026-05-08 [Boox announces Tappy, a wireless page-turning remote](https://www.engadget.com/2167086/boox-announces-tappy-a-wireless-page-turning-remote/) *(Engadget)*
+- [ ] 2026-05-08 [Engadget Podcast: Gamestop's wild eBay gamble](https://www.engadget.com/2167771/engadget-podcast-gamestops-wild-ebay-gamble/) *(Engadget)*
+- [ ] 2026-05-08 [Blackmagic Camera hands-on: Apple Watch compatibility gives vloggers remote control](https://www.engadget.com/2167733/blackmagic-camera-hands-on-apple-watch-compatibility-gives-vloggers-remote-control/) *(Engadget)*
+- [ ] 2026-05-06 [How ChatGPT learns about the world while protecting privacy](https://openai.com/index/how-chatgpt-protects-privacy) *(OpenAI News)*
+- [ ] 2026-05-05 [Advancing youth safety and wellbeing in EMEA](https://openai.com/index/advancing-youth-safety-in-emea) *(OpenAI News)*
+- [ ] 2026-05-08 [CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b) *(Hugging Face Blog)*
+- [ ] 2026-05-08 [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo) *(Hugging Face Blog)*
+- [ ] 2026-05-08 [Rubyを単一バイナリ化し実行速度を最大87倍にする「Spinel」：Matz氏がAIと協働し、わずか数週間で開発 \| XenoSpectrum](https://xenospectrum.com/spinel-ruby-aot-compiler/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-08 [Firefoxの脆弱性271件をClaude Mythos Previewで発見したシステムについてMozillaが解説](https://gigazine.net/news/20260508-mozilla-claude-mythos-preview-security/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-08 [OpenAI、CodexからMac/WindowsのGoogle Chromeブラウザを直接操作できるようにするChrome機能拡張「Codex」の提供を開始。](https://applech2.com/archives/20260508-codex-chrome-extension.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-08 [悩みの相談相手など 利用広がる生成AI 注意点は【Q＆A】 \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015116201000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-08 [なぜPCのCPUファンで「黒色」バージョンを作るのに時間がかかるのかをNoctuaが説明](https://gigazine.net/news/20260508-black-cpu-fan-long-time/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-08 [【注意喚起】PayPayでの送金へ誘導するなどのなりすましメールにご注意ください - Yahoo!メール新着情報](https://whatsnewmail.yahoo.co.jp/yahoo/20260508a.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-08 [Claude Mythos、Firefoxの271件のバグを修正　20年前のバグも](https://www.watch.impress.co.jp/docs/news/2107200.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-08 [仮想ディスクツール「DAEMON Tools Lite」のインストールパッケージが改竄／サプライチェーン攻撃か](https://forest.watch.impress.co.jp/docs/news/2107234.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-08 [ubuntu.comへのDDoSとその対処、“copyfail”問題への対応、Ubuntu 26.10 “Stonking Stingray”の開発 / ドキュメント公開サイトの整理 \| gihyo.jp](https://gihyo.jp/admin/clip/01/ubuntu-topics/202605/08) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-08 [Copilot StudioをClaude Code化したら、Copilot Studio自身でPower Platformを構築できた話 - Qiita](https://qiita.com/katohiro_fi/items/9acccd181ca2f1a75f3c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-08 [『三国志』を使って簡単なRAGを作ってみた](https://zenn.dev/wqy/articles/45e8daf4a8b6c9) *(Zenn – トピック LLM)*
+- [ ] 2026-05-08 [【Reincarnation Engineering】忘却のAI工学 ― Part1.実践編](https://zenn.dev/paseri_kurosawa/articles/ef152c2bd47a0b) *(Zenn – トピック LLM)*
+- [ ] 2026-05-08 [トップAI企業が未だにコーディング面接を行なっている件](https://zenn.dev/tech_nnyannya/articles/e4e097f69cac5a) *(Zenn – トピック LLM)*
+- [ ] 2026-05-08 [🪡Praxia — 個人の暗黙知を組織知に自動昇格させるマルチエージェントOSSを作った](https://zenn.dev/gen99/articles/88a84eddc21ce5) *(Zenn – トピック LLM)*
+- [ ] 2026-05-08 [探索しないAIエージェントは、効く施策ではなく「見たことがある施策」を選ぶ](https://zenn.dev/dai540/articles/70d17b5419ae58) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [AIの基礎であり奥義](https://zenn.dev/fuchimog/articles/ebad11831955e3) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [Claude Code × OCI Always Free 完全構築ガイド](https://zenn.dev/sin9_ha/books/claude-code-oci) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [NotebookLM × Gem で実現する「指示ゼロAI」── 毎回のプロンプト入力から解放される設計術](https://zenn.dev/bentenweb_fumi/articles/gthrwleogibb) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [CloudFront + Lambda@Edgeでつくるx402 AI Agent](https://zenn.dev/mashharuki/articles/web3_solana_aiagent-2) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [AIエージェントに施策を任せるなら、報酬をクリック率にしてはいけない](https://zenn.dev/dai540/articles/0175446d119d64) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [AWS + Mastra + Phantomで作るSolana AI Agent](https://zenn.dev/mashharuki/articles/web3_solana_aiagent-1) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [Claude Codeを"使いこなす"ための個人ルール設定 - 実際にやって効果が高かった設定](https://zenn.dev/dotdtech_blog/articles/92348ee48cc692) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [Codex vs Claude Code 2026 ── 判断軸とやらない判断](https://zenn.dev/miyan/articles/ai-code-codex-vs-claude-code-2026) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [今週のAIニュース（2026-05-08週）](https://zenn.dev/outloukick777/articles/ai-news-2026-05-08) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [AI時代こそ、エンジニアは「師匠」が要る](https://zenn.dev/acntechjp/articles/2e8d38ad383dd3) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [「user 12345 を削除しました」と言うのに DB が変わってない — AIエージェントの後付け検証 API を作った話](https://zenn.dev/ardev/articles/aecfab260f9432) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [自分の KIOKU はちゃんと動いてる? Wiki は腐ってない? — 2 つの自己診断機能を追加した話](https://zenn.dev/megaphone_tokyo/articles/f08739ff1c9892) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [Anthropic の 5 パターンで Claude Code エージェント設計を分類する](https://zenn.dev/motowo/articles/anthropic-multi-agent-coordination-patterns-guide) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [AI 自動化を 9ヶ月運用して気づいた、Validator 設計の 3 つの落とし穴](https://zenn.dev/pikuto/articles/ai-validator-3-pitfalls) *(Zenn – トピック AI)*
