@@ -68415,3 +68415,36 @@
 - [ ] 2026-05-08 [自分の KIOKU はちゃんと動いてる? Wiki は腐ってない? — 2 つの自己診断機能を追加した話](https://zenn.dev/megaphone_tokyo/articles/f08739ff1c9892) *(Zenn – トピック AI)*
 - [ ] 2026-05-08 [Anthropic の 5 パターンで Claude Code エージェント設計を分類する](https://zenn.dev/motowo/articles/anthropic-multi-agent-coordination-patterns-guide) *(Zenn – トピック AI)*
 - [ ] 2026-05-08 [AI 自動化を 9ヶ月運用して気づいた、Validator 設計の 3 つの落とし穴](https://zenn.dev/pikuto/articles/ai-validator-3-pitfalls) *(Zenn – トピック AI)*
+
+## Collected on 2026-05-09T01:27:09.955Z
+- [ ] 2026-05-08 [In Irony-Soaked Incident, Amazon Data Center Shuts Down Due to High Temperatures](https://futurism.com/artificial-intelligence/amazon-data-center-temperatures) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-08 [Judge to Review Musk, SEC Settlement Deal in Twitter Stake Case](https://www.bloomberg.com/news/articles/2026-05-08/judge-to-review-musk-sec-settlement-deal-in-twitter-stake-case) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Chip Stock Surge Sends Markets to Record Highs \| The Close 5/8/2026](https://www.bloomberg.com/news/videos/2026-05-08/the-close-5-8-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Honeywell-Backed Computing Firm Quantinuum Files for US IPO](https://www.bloomberg.com/news/articles/2026-05-08/honeywell-backed-computing-firm-quantinuum-files-for-us-ipo) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Nvidia Names Goldman Sachs Veteran Suzanne Nora Johnson to Board](https://www.bloomberg.com/news/articles/2026-05-08/nvidia-names-goldman-sachs-veteran-suzanne-nora-johnson-to-board) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Carlyle Global Research Head on AI's Economic Impact](https://www.bloomberg.com/news/videos/2026-05-08/carlyle-global-research-head-on-ai-s-economic-impact-video) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Burry Buys MercadoLibre After Slump, Eyes 15% Returns](https://www.bloomberg.com/news/articles/2026-05-08/burry-buys-mercadolibre-after-slump-eyes-15-returns) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Momentum Trade at New Extremes Is Drawing Wall Street Warnings](https://www.bloomberg.com/news/articles/2026-05-08/momentum-trade-at-new-extremes-is-drawing-wall-street-warnings) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [AI Chipmaker Cerebras Is Said to Plan Raising IPO Price Range](https://www.bloomberg.com/news/articles/2026-05-08/ai-chipmaker-cerebras-is-said-to-plan-raising-ipo-price-range) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [QVC Shareholders Claim Firm Giving Away Their Value to Creditors](https://www.bloomberg.com/news/articles/2026-05-08/qvc-shareholders-claim-firm-giving-away-their-value-to-creditors) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [CoreWeave Shares Drop After Forecast Sparks Growth Fears \| Bloomberg Tech 5/8/2026](https://www.bloomberg.com/news/videos/2026-05-08/bloomberg-tech-5-8-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-05-08 [Discord is recovering from an outage that took some users offline](https://www.engadget.com/2168231/discord-is-down-for-some-users/) *(Engadget)*
+- [ ] 2026-05-08 [Prime Video is adding a TikTok-like feed](https://www.engadget.com/2168176/prime-video-is-adding-a-tiktok-like-feed/) *(Engadget)*
+- [ ] 2026-05-08 [Running Codex safely at OpenAI](https://openai.com/index/running-codex-safely) *(OpenAI News)*
+- [ ] 2026-05-09 [仮説階層モデル - kawasima](https://scrapbox.io/kawasima/%E4%BB%AE%E8%AA%AC%E9%9A%8E%E5%B1%A4%E3%83%A2%E3%83%87%E3%83%AB) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-09 [Coding Agent比較用の独自のベンチマーク、Harness Benchを作ってみた話](https://nyosegawa.com/posts/harness-bench/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-09 [GitHub - microsoft/waza: CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness](https://github.com/microsoft/waza) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-09 [AIで雑に量産されたコンテンツがオンラインコミュニティを壊しているとの指摘](https://gigazine.net/news/20260508-ai-slop-online-community/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-09 [OpenAIがリアルタイム会話・通訳・文字起こしAIをリリース、「GPT-Realtime-2」「GPT-Realtime-Translate」「GPT-Realtime-Whisper」の3種](https://gigazine.net/news/20260508-gpt-realtime-2-translate-whisper/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-09 [Claude Codeを120%使いこなす設定3選【ECC・Memory.md・Obsidian連携】 - Qiita](https://qiita.com/manchan/items/63745b9198f1989c2a15) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-09 [HTTPS公開直後にBotが来る理由 ─ CT Log監視Botの研究を読む - Qiita](https://qiita.com/___nix___/items/4db6c2515098b3ef06d9) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-09 [oss-security - Copy Fail 2 / Dirty Frag — n-day from public commit, not embargo break](https://www.openwall.com/lists/oss-security/2026/05/07/12) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-09 [【研究成果】原始生命を模した分子進化実験で絶滅に向かう進化を観察 ──絶滅から知る生命の起源の条件── - 総合情報ニュース - 総合情報ニュース](https://www.c.u-tokyo.ac.jp/info/news/topics/20260508130000.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-09 [Cloudflareが1100人以上を解雇、CEOは「コスト削減ではない」と説明](https://gigazine.net/news/20260508-cloudflare-lay-off-1100/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-09 [ClaudeのWord・Excel・PowerPoint拡張機能が一般公開される＆OutlookをClaudeで動かす拡張機能も登場](https://gigazine.net/news/20260508-collaborate-with-claude/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-09 [吉野家に国産牛を使った「絶品牛重」が登場したので食べてみた、脂とろける柔らか牛肉がグッド](https://gigazine.net/news/20260508-yoshinoya-zeppin-gyujyu/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-09 [Linuxの主要ディストリビューションに影響がある深刻な脆弱性「Dirty Frag」](https://gigazine.net/news/20260508-dirty-frag-universal-linux-lpe/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-08 [AIは仕事を奪うのか？ザッカーバーグ発言から読み解く「コストが下がると雇用が増える」のメカニズム](https://zenn.dev/bentenweb_fumi/articles/kaomziwqzgkk) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [AIトレーダー開発ログ #1: LightGBM + LSTMアンサンブルで金融時系列予測は安定するのか？](https://zenn.dev/sigma_lab/articles/qros-research-devlog-01-ensemble-20260509) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [AIエージェントで仕様修正が反映されない問題の原因と解決（セッション分離設計）](https://zenn.dev/kerotablog/articles/20260509-unity_ai_session) *(Zenn – トピック AI)*
+- [ ] 2026-05-08 [自前ハーネスを持つ意味: AgentCore managed harnessとの分業線](https://zenn.dev/genda_jp/articles/9efddf3b1d7324) *(Zenn – トピック AI)*
