@@ -68591,3 +68591,56 @@
 - [ ] 2026-05-09 [Claude Code の known-failures.md を育てる — 書き方・読ませ方・陳腐化対処の運用設計](https://zenn.dev/ojt/articles/claude-code-known-failures-operation) *(Zenn – トピック AI)*
 - [ ] 2026-05-09 [C-3PO、自己観測と学習の輪を閉じる ── DuckDB と Thompson Sampling で v1.0 を超えた話](https://zenn.dev/satoh_y_0323/articles/7a2ea5069cf542) *(Zenn – トピック AI)*
 - [ ] 2026-05-09 [Markdownに説明もコードも直接書けばいいのでは、と思ってCLIを作った](https://zenn.dev/owodra/articles/de473d5ec8b572) *(Zenn – トピック AI)*
+
+## Collected on 2026-05-10T12:44:49.770Z
+- [ ] 2026-05-10 [Vibe Coded Apps Are Spilling Users’ Personal Information Directly Into the Maw of Greedy Hackers](https://futurism.com/artificial-intelligence/vibe-coded-apps-spilling-personal-information) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-10 [Man Who Invented Roomba Moves Into Household Demon Market](https://futurism.com/robots-and-machines/roomba-inventor-moves-into-demon-market) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-10 [Why Stablecoins Are Crypto’s Real Payments Test](https://www.bloomberg.com/news/videos/2026-05-10/why-stablecoins-are-crypto-s-real-payments-test-video) *(Bloomberg Technology)*
+- [ ] 2026-05-10 [CodexをローカルLLMで駆動する](https://zenn.dev/robustonian/articles/codex_with_local_llm) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [[アップデート] AWS公式 AIコーディングエージェント向けのSkill集「Agent Toolkit for AWS」の提供を開始！ \| DevelopersIO](https://dev.classmethod.jp/articles/20260506-agent-toolkit-for-aws/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [なぜ「こどもAI教室」ではなく「AIゲームセンター」であるべきなのか｜shi3z](https://note.com/shi3zblog/n/nd3c1de46eb7b) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [AI開発でPostgreSQLが定番になった”切実な”理由](https://techtarget.itmedia.co.jp/tt/news/2605/08/news07.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [モンキー・Ｄ・ルフィと反キリスト　惑星的なものにかんする覚書 第7回｜ユク・ホイ　訳＝伊勢康平](https://webgenron.com/articles/article20260507_01) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [sqlfu](https://sqlfu.dev/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [TransformerのSelf AttentionのQKVを直感的に解説する - Qiita](https://qiita.com/kenmatsu4/items/1b3853a3314ab66eb2a3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [｢自作キーボード｣界隈のおとなり｢論理配列｣界隈。日本語の入力効率を爆上げしてくぜ](https://www.gizmodo.jp/2026/05/naginata-ime.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [「1人社長×AI」時代の到来](https://project.nikkeibp.co.jp/onestep/keyperson/00063/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [ゼロからデータ基盤構築をした時の失敗談：すべては要件定義できまる](https://zenn.dev/ivry/articles/data-engineer-principles) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [00年代のIT業界最大のバズワード「XML」は現在どうなったのか？](https://zenn.dev/pdfractal/articles/89b1943aef64fe) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [バグハンター視点によるソフトウェアサプライチェーン入門 - blog of morioka12](https://scgajge12.hatenablog.com/entry/supplychain_bughunter) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [SSHポートフォワーディングを劇的に快適にする「MolePort」完全ガイド【導入から活用まで】](https://zenn.dev/nonejp/articles/moleport-introduction) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [Beancountによるテキストベース家計簿 - 辺境の日々 (旧:世界線航跡蔵)](https://blog.yugui.jp/entry/2026/05/09/121739) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [GoogleのAI「AlphaEvolve」が1年でDNA解析・電力網・量子計算・物流まで最適化、アルゴリズム発見AIの実績まとめ](https://gigazine.net/news/20260508-google-deepmind-alphaevolve/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [テスラのCybertruckがまたもやリコール、2024～2026年に販売された18インチスチールホイール装着モデルでホイール故障のリスクあり](https://gigazine.net/news/20260510-cybertruck-recall-tesla-rotor-cracks/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [RAGのRetrieve戦略 — Adaptive RAGの変遷](https://zenn.dev/senna/articles/4f48c1d4d71163) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [「Context is the New Code」を実装に落とす：Patrick Debois の CDLC をチームに導入する設計メモ](https://zenn.dev/aerign/articles/35e44677478bf4) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [自分のトーン規約を LLM に教える — プロンプトでどこまで届くか](https://zenn.dev/giteki/articles/003-prompt-tuning-for-tone) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [AIエージェントが「役職者」、「相棒」になる日](https://zenn.dev/daishiro/articles/ai-agent-enterprise-personal-session) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [CachyOSでllama.cppをコンパイルして動かす](https://zenn.dev/craftgear/articles/7789a677af2ae4) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [RubyLLM × さくらのAI Engine — 「OpenAI 互換」でハマったこと](https://zenn.dev/takeyuwebinc/articles/daec34094c21ce) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [ローカルLLM3モデルを物性物理の質問でファクトチェック｜Qwen3・LLM-jp-4・Gemma3](https://zenn.dev/black_lotus/articles/2f68d0790002d9) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [Human Return Point――HITLと人間監督の再設計](https://zenn.dev/dantarg/articles/human-return-point) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [プロンプト改善をガチャにしない——LLMによるレビューをGround Truthで評価する](https://zenn.dev/bloomblock_blog/articles/llm-system-evaluation) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [モデル使い分けの「固定費」って、どこから割に合うんだろう](https://zenn.dev/jeeee/articles/2026-05-10-model-routing-threshold) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [brepl で始める Clojure × Claude Code ハンズオン](https://zenn.dev/shinseitaro/articles/brepl-clojure-claude-handson) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [リアルタイム性を優先した場合の MacOS における Local STT ベンチ比較](https://zenn.dev/t0yohei/articles/5aecc668e4e9c6) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [たった一行のプロンプトの修正、どうテストする？](https://zenn.dev/toohsk/articles/6b74053b699c7a) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [LangGraphでReActエージェント実装してみた](https://zenn.dev/mori373/articles/20260508-react-agent) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [AI入門 2026年度講義ノート](https://zenn.dev/kogikun/books/ai-introduction-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [名探偵 Bonsai はシーザー暗号を解けるのか？！](https://zenn.dev/lpvnvsbtf/articles/detective-bonsai) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [未成年向け『橋渡しAI』の設計図と叩き台 ── 実装してくださる方への仕様共有](https://zenn.dev/aimar/articles/c9091aa7978e35) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [AI完全自律型ゲームスタジオの限界と未来：WISDOMプロジェクト事後検証](https://zenn.dev/haruaigamedev/articles/wisdom-post-mortem) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [AIと対話しながら技術記事を半自動生成する：プロジェクト「Clio」の舞台裏](https://zenn.dev/haruaigamedev/articles/clio-automation-process) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [ISUNARABE合同演習2026に参加しました(INUCON チーム)](https://zenn.dev/mazrean/articles/27fc724fde1b88) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [Martin Fowlerの『暗黙のハーネス』 コードベース自体に内在する制約の総体](https://zenn.dev/kenimo49/articles/martin-fowler-implicit-harness) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [Claude Code を並列で動かす：git worktree でセッションを分離する最小運用](https://zenn.dev/syrsan/articles/claude-code-parallel-worktree) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [Claude CodeもGemini CLIも、みんな仲良く働いてほしい](https://zenn.dev/sonicmoov/articles/577f3de925f3c4) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [Gemini 3.5 Pro (Experimental) 爆誕！驚愕した「論理推論」の深化と活用術](https://zenn.dev/hokanco28/articles/44902be0ea6854) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [「作れるは作れる」だけど限界もある——AIと3ヶ月でSQL学習サイトを育てた話](https://zenn.dev/eisaku/articles/article-draft-zenn-v2) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [CodexのBrowser Useによる効率化](https://zenn.dev/nana/articles/286536cf9ecec3) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [5.年齢の特徴量エンジニアリングで、年齢(Age)をRandomForestRegressorで推測するやり方を深堀りする](https://zenn.dev/rg687076/articles/e98b6772e230c3) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [Cursor 3.3 vs Claude Code — PRレビュー設計の判断基準](https://zenn.dev/miyan/articles/ai-code-cursor-claude-pr-review-2026) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [AIを使ったプロダクト開発も結局大量の意思決定だけが残ってしまった話、あるいは「作って学ぶ」話](https://zenn.dev/kusuke/articles/1c3ffeecbb7761) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [Claude Code の AskUserQuestion で業務委託の要件ヒアリングを構造化する](https://zenn.dev/ino_h/articles/2026-05-10-claude-code-askuserquestion-hearing) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [俺はAI Chatbotを自作したい③ - マイクで音量を測ってみる](https://zenn.dev/yuppon/articles/64a8dcf3b34e49) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [なぜ、AI化のせいで10年後にはITエンジニアが士業化している可能性が高いのか？](https://zenn.dev/pdfractal/articles/fa426a0085b477) *(Zenn – トピック AI)*
