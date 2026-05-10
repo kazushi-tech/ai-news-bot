@@ -68644,3 +68644,51 @@
 - [ ] 2026-05-10 [Claude Code の AskUserQuestion で業務委託の要件ヒアリングを構造化する](https://zenn.dev/ino_h/articles/2026-05-10-claude-code-askuserquestion-hearing) *(Zenn – トピック AI)*
 - [ ] 2026-05-10 [俺はAI Chatbotを自作したい③ - マイクで音量を測ってみる](https://zenn.dev/yuppon/articles/64a8dcf3b34e49) *(Zenn – トピック AI)*
 - [ ] 2026-05-10 [なぜ、AI化のせいで10年後にはITエンジニアが士業化している可能性が高いのか？](https://zenn.dev/pdfractal/articles/fa426a0085b477) *(Zenn – トピック AI)*
+
+## Collected on 2026-05-10T18:41:08.654Z
+- [ ] 2026-05-10 [Mistaking AI behaviour for conscious being \| Letter](https://www.theguardian.com/technology/2026/may/10/mistaking-ai-behaviour-for-conscious-being) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-10 [I knew my writing students were using AI. Their confessions led to a powerful teaching moment \| Micah Nathan](https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-10 [Residents Furious After Their Town Board Rejected an OpenAI Data Center, But a Billionaire Developer Forced It Through Anyway](https://futurism.com/artificial-intelligence/data-center-openai-residents) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-10 [ChatGPT Is Saying VWeird Things in Chinese](https://futurism.com/artificial-intelligence/chatpgt-weird-chinese) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-10 [Researchers Alarmed by AI That Can Self-Replicate Into Another Machine](https://futurism.com/artificial-intelligence/researchers-teach-ai-self-replicate) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-10 [Startup Wants to Run AI Inference From Space](https://spectrum.ieee.org/orbital-inference-data-center) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-05-10 [Apple to Make Design Changes in macOS 27 to Address Tahoe Quirks](https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m) *(Bloomberg Technology)*
+- [ ] 2026-05-10 [Microsoft’s African Data Center Falters on Payment Demands](https://www.bloomberg.com/news/articles/2026-05-10/microsoft-s-african-data-center-falters-on-payment-demands) *(Bloomberg Technology)*
+- [ ] 2026-05-10 [Safari's latest trick could be automatically organizing your tabs into groups](https://www.engadget.com/2169076/safari-latest-trick-could-be-automatically-organizing-your-tabs-into-groups/) *(Engadget)*
+- [ ] 2026-05-10 [Liquid Glass tweaks are reportedly coming in the next macOS](https://www.engadget.com/2169037/liquid-glass-tweaks-are-reportedly-coming-in-the-next-macos/) *(Engadget)*
+- [ ] 2026-05-10 [A new Subnautica 2 gameplay trailer just dropped ahead of its Early Access release](https://www.engadget.com/2169030/a-new-subnautica-2-gameplay-trailer-just-dropped-ahead-of-its-early-access-release/) *(Engadget)*
+- [ ] 2026-05-10 [Claude Codeでの個人開発とセキュリティ管理](https://zenn.dev/btiw/articles/4420d8b95d3e09) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [128GB超メモリMac専用の巨大LLMエンジン「ds4」はローカル推論の常識をどう書き換えるのか。284BのDeepSeek V4 FlashをM4 Max 128GB MacBook Proの自作AIに組み込んでみた（CloseBox） \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/05/10/5049.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [ISUNARABE 合同演習 2026 やったこと - ichyo::blog](https://blog.ichyo.jp/posts/isunarabe2026) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [AIはなぜ「日本」を選び続けるのか　研究で浮かんだ“謎の日本偏重”](https://newsphere.jp/technology/20260508-1/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [サポート終了の古いKindle、捨てる前に試したい「第2の活用法」 \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2605how-to-jailbreak-your-kindle/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [Terraform 変更を安全にレビューする — plan の読み方・CI destroy 検知・承認フロー設計](https://zenn.dev/ojt/articles/terraform-review-flow-design) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [中国で自動運転タクシー100台が公道で一斉停止、大パニックに \| 自動運転ラボ](https://jidounten-lab.com/u_60534) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [AWS X-Ray SDK / Daemon の OpenTelemetry への移行 \| Amazon Web Services](https://aws.amazon.com/jp/blogs/news/aws-x-ray-sdks-daemon-migration-to-opentelemetry/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [AI生成画像の背景を透明化するのに役立つ画像背景削除ツール「Rembg」](https://gigazine.net/news/20260510-rembg/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [「生成AIインフルエンサー」がトランプ氏後押し 中間選挙控える米国](https://www.afpbb.com/articles/-/3634496) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [エージェントは、Cloudflare アカウントの作成、ドメインの購入、デプロイができるようになりました](https://blog.cloudflare.com/ja-jp/agents-stripe-projects/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [LLMの深淵と意味の体系](https://zenn.dev/ulp/books/918844a3d83627) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [AIで紐解くAI-DLC：ワークフローの概念](https://zenn.dev/takeshishimada/articles/a3c0af504d6964) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [AIで紐解くAI-DLC：ルールの原則と構造](https://zenn.dev/takeshishimada/articles/2f7978d5a7990a) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [AIで紐解くAI-DLC：ワークフローの思想](https://zenn.dev/takeshishimada/articles/284dfde21abbcb) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [AIで紐解くAI-DLC：拡張ルールの作り方](https://zenn.dev/takeshishimada/articles/18922fbce42976) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [AIで紐解くAI-DLC：はじめに](https://zenn.dev/takeshishimada/articles/15fad52ea92732) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [書籍のOCRにLLMを組み合わせることで精度を上げるだけでなく文書構造や図も表現した記録](https://zenn.dev/phpmyadmin/articles/0dba6fef411e21) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [ReDel 再現実装：LLMが自ら委譲する再帰マルチエージェントの仕組みと実装](https://zenn.dev/sonder01/articles/redel-recursive-delegation-multi-agent-4c401942e7) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [semantic chunkingが負けていた — RAGチャンク戦略を論文ベースで整理した](https://zenn.dev/archfill/articles/rag-chunk-strategy-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [推論速度を最大 3 倍にした Gemma 4 の MTP drafter とは何か](https://zenn.dev/senna/articles/5737586098b4c2) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [AI-Traderを最小再現する：自律エージェント金融ベンチマークをPythonで組む](https://zenn.dev/sonder01/articles/ai-trader-benchmark-repro) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [Gemma 4 を Intel NPU (Lunar Lake) で動かす — OpenVINO 2026 + openvino-genai](https://zenn.dev/jkudo/articles/ae85d7d099e672) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [LLMエージェント時代の上場企業データインフラ設計 — 4つの原則](https://zenn.dev/edinetdb/articles/edinetdb-llm-agent-data-infrastructure) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [「1-bit 8B×8 と Q4×1 の比較がないと意味ないだろ」と言われたのでRTX 4080で実測した](https://zenn.dev/seeda_yuto/articles/bonsai-8b-vs-qwen-q4-humaneval) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [MacBook Pro M シリーズで始める ローカル LLM ハンズオン](https://zenn.dev/ppgm/books/mac-local-llm-hands-on) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [LLM の動き〜Structured Output確認〜](https://zenn.dev/yy7613/articles/5c275d885343fb) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [宇宙工学と視覚ハックでLLMを飼い慣らす。ソースコードを外部に送らないIDEの完全自律リファクタリング成功の裏側](https://zenn.dev/verantyx/articles/fdfd6143c6ab44) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [LLMエージェントはどこまでゲームを作れるのか？ ── Voxel Sandbox自律開発記録](https://zenn.dev/naoyoshinori/articles/982e1f30896848) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [📈Praxia × 営業業務 — 商談準備 6h → 1h、提案合意率 +15〜20pt](https://zenn.dev/gen99/articles/d9e8e4e33e0330) *(Zenn – トピック LLM)*
+- [ ] 2026-05-10 [問いを持つエンジニア](https://zenn.dev/marvel/articles/dfaac40c51d360) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [「顔を検出するAI」から紐解くCNN](https://zenn.dev/ringo_acid/articles/3ebcc64dae7d90) *(Zenn – トピック AI)*
+- [ ] 2026-05-10 [🌌AIアライメントの構造的欠陥と「非同化型知性」の幾何学的要請🌌](https://zenn.dev/junlucis/articles/c29df3292afad0) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-10 [dmol-book を読む — 分子・材料データの深層学習を1章ずつ動かす](https://zenn.dev/amana/books/dmol-reading) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-10 [ロジスティックILFM（Infinite Latent Feature Model）はどこで効く—2 つの購買データで見えた地形と立ち位置](https://zenn.dev/momen8/articles/ddafabc775d259) *(Zenn – トピック 機械学習)*
