@@ -68541,3 +68541,53 @@
 - [ ] 2026-05-09 [「実装はAIに任せた。でも精度は出なかった」](https://zenn.dev/beckento/articles/a000216f224e53) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-09 [kaggle参戦記録V0.5](https://zenn.dev/ken_0421/articles/dba5c6ea8e5502) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-09 [機械学習はどうやって「効くファクター」を見つけるのか](https://zenn.dev/shimada_ml/articles/5379638bf28fee) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-05-10T07:50:10.763Z
+- [ ] 2026-05-10 [Film Star Vijay Forms New Government in India’s Key iPhone Hub](https://www.bloomberg.com/news/articles/2026-05-10/film-star-vijay-forms-new-government-in-india-s-key-iphone-hub) *(Bloomberg Technology)*
+- [ ] 2026-05-10 [Malaysia Mulls Steps Against Meta on Fake Royal Accounts: Report](https://www.bloomberg.com/news/articles/2026-05-10/malaysia-mulls-steps-against-meta-on-fake-royal-accounts-report) *(Bloomberg Technology)*
+- [ ] 2026-05-09 [Banks and Crypto Backers Tussle as Senators Eye Landmark Digital Asset Bill](https://www.bloomberg.com/news/articles/2026-05-09/banks-and-crypto-backers-tussle-as-senators-eye-stablecoin-bill) *(Bloomberg Technology)*
+- [ ] 2026-05-09 [NASA is set to begin training with a prototype of Blue Origin's crew moon lander](https://www.engadget.com/2168702/nasa-is-set-to-begin-training-with-a-prototype-of-blue-origin-crew-moon-lander/) *(Engadget)*
+- [ ] 2026-05-09 [The electric scooter rental company Lime has filed for IPO](https://www.engadget.com/2168669/the-electric-scooter-rental-company-lime-has-filed-for-ipo/) *(Engadget)*
+- [ ] 2026-05-10 [「え、就職の面接官がAIだって？」　普及する“AI面接官”への困惑と改善要望【調査】](https://www.itmedia.co.jp/enterprise/articles/2605/09/news020.html) *(ITmedia AI＋)*
+- [ ] 2026-05-10 [人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する](https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [無料で使えるAI｢ローカルLLM｣の進化がすごいよって話](https://www.gizmodo.jp/2026/05/2026_local_llm_matome.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [Gemma 4 MTP を DGX Spark で動かして日本語生成の高速化を実測してみた \| DevelopersIO](https://dev.classmethod.jp/articles/dgx-spark-gemma4-mtp-multi-token-prediction-bench/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [ブルーアーカイブ ゲーム開発部だいぼうけん! 37話　(原作／ブルーアーカイブ　漫画／水あさと) \| ガンガンONLINE](https://www.ganganonline.com/title/1851/chapter/124908) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [AIが書くならMarkdownじゃなくHTMLのほうがいいのでは、という話 - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/05/09/164006) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [ChatGPT Pro は高いので Codex + GitHub Copilot でお小遣いを守りたい - Qiita](https://qiita.com/faunsu/items/f6edd279d32102e6f5a8) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [バグだらけの「新しいX Android」一度切り替えたが最後、元に戻せなくなりX民に絶望広がる](https://posfie.com/@nemchan_nel/p/jZRMTq3) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [Perplexity AI、AIエージェントをMac上で自律動作させられるPersonal Computerに対応した新しい「Perplexity Mac」アプリを全Macユーザー向けに提供開始。](https://applech2.com/archives/20260508-perplexity-personal-computer-for-all-mac-user-hero.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [AIエージェント時代のDB設計をTursoが書き換えに来ている話](https://zenn.dev/emuni/articles/6eef9f97f564b4) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-10 [スローHTTPがWebサーバーのリソースに与える影響の検証 - Qiita](https://qiita.com/prograti/items/79584e12b0788ef100f8) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [ユーザーストレスを低減するローディング体験の4原則](https://zenn.dev/akfm/articles/better-loading-ux) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [中国政府、自動運転を「全てストップ」 百度が原因か \| 自動運転ラボ](https://jidounten-lab.com/u_62109) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた - Qiita](https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [ヤマハ、DXはなぜ失敗した？「大きなDX」と「小さなDX」で再構築へ](https://news.mynavi.jp/techplus/article/20260403-4258506/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [トマト農家をやっていて、ネットに廃棄トマトの画像を載せると「子ども食堂とかに提供したらいいんじゃないですか？」と言われることがあるけど、それってこっちにメリットある？](https://togetter.com/li/2695060) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [GitHubだけで配布されているAndroid用アプリをF-Droidのようにインストールして管理＆自動更新できる「Obtainium」レビュー](https://gigazine.net/news/20260509-obtainium/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [レガシーシステムとチェスタトンのフェンス（Chesterton's Fence）──変えていいもの、変えるべきでないもの - そこに仁義はあるのか(仮)](https://syobochim.hatenablog.com/entry/2025/02/23/165022) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [GitHub - antirez/ds4: DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [『セクシー女優さんにおっぱい揉ませてもらって募金するイベントがあるんだって！』と無邪気に妻に話したら『絶対に行くなよ』ってめちゃめちゃ怖い顔で言われた事がある](https://togetter.com/li/2694942) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-10 [Just Fucking Use Go - Blain Smith](https://blainsmith.com/articles/just-fucking-use-go/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-09 [自律性と厳密性を両立するAI Agent基盤としてのA2A Protocol、そしてWeb3の役割](https://zenn.dev/cancan007/articles/b9acae584c33ae) *(Zenn – トピック LLM)*
+- [ ] 2026-05-09 [グラフDB・GraphRAG・GNN ローカル環境ハンズオン](https://zenn.dev/ppgm/books/graphdb-graphrag-gnn-hands-on) *(Zenn – トピック LLM)*
+- [ ] 2026-05-09 [ISUNARABE合同演習2026とかいう最高のイベントに参加してきた](https://zenn.dev/rail44/articles/932a22e70ef98d) *(Zenn – トピック LLM)*
+- [ ] 2026-05-09 [LLMエージェントはなぜ壊れるのか ——モデル性能に依存しない自律型ワークフローの構築](https://zenn.dev/naoyoshinori/books/6856a81987ccb0) *(Zenn – トピック LLM)*
+- [ ] 2026-05-09 [APIUserAbortError extends APIError を知らずに CI を 1 件落とした話](https://zenn.dev/iori_001/articles/openai-apierror-instanceof-trap) *(Zenn – トピック LLM)*
+- [ ] 2026-05-09 [Codex に大きめの改修を任せた話(会話ログ付き)](https://zenn.dev/mfactory_uh/articles/6ff283fc71cb38) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [6本のSaaSを本番に乗せた後でわかった：AIコーディング普及後の個人開発の現実を全部書く](https://zenn.dev/mintototo1/articles/observation-ai-coding-saas-reality-2026) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [Claude Code Skillsで1人SNS運用チームを作った話](https://zenn.dev/hinaworks/articles/c03cff3628c8d4) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [【Google Antigravity】最近使い倒してる自作 Skills を紹介するよ](https://zenn.dev/shooh/articles/291910cd2afb41) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [Harness Engineering とは何か ― 2026年2月から90日で業界共通語になった概念の正体](https://zenn.dev/zztomcat/articles/6ceaa1abea7f52) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [【30分で構築】Docker × Apache Teaclaveで始めるIntel SGX (Rust) 開発環境（2026年最新版）](https://zenn.dev/nezu511/articles/3d0b570cc4b60c) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [ルール準拠を自動チェックする（後編）— Claude Codeに『オレたち流』を守らせる](https://zenn.dev/sonicgarden/articles/claude-code-custom-rules-part3) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [Go製ツールの配布で気づいた、ショートカット起動とexeパスの落とし穴](https://zenn.dev/kodak_diary/articles/1d2b67ef79bbce) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [Codex リモートコントロール完全ガイド｜スマホからAIコーディングする手順【2026年5月】](https://zenn.dev/totsu_ai_lab/articles/codex-remote-control-guide-2026-05) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [Chrome Extension を Hybrid SaaS Architecture に進化させた話](https://zenn.dev/daccot/articles/c391db0793d073) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [Claude Code のエージェントを3人に分けた話(あえて細かく分けすぎなかった理由)](https://zenn.dev/techno_bibi/articles/a5948bd12b2ad6) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [Claude Mythos徹底解剖：50ドルで27年モノのゼロデイ脆弱性を発見、既存の防壁はなぜ崩壊したか](https://zenn.dev/lumichy/articles/claude-mythos-zeroday-2026) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [Claude MCPサーバー自作ハンズオン｜TS版・公開まで【無料サンプル2個公開】](https://zenn.dev/aoi___ei/articles/claude-mcp-ts-2-moya6yny) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [Claude MCPサーバー自作キット｜日本語PDF＋雛形4種【無料サンプル2個公開】](https://zenn.dev/aoi___ei/articles/claude-mcp-pdf-4-2-moya5def) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [Claude Code の known-failures.md を育てる — 書き方・読ませ方・陳腐化対処の運用設計](https://zenn.dev/ojt/articles/claude-code-known-failures-operation) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [C-3PO、自己観測と学習の輪を閉じる ── DuckDB と Thompson Sampling で v1.0 を超えた話](https://zenn.dev/satoh_y_0323/articles/7a2ea5069cf542) *(Zenn – トピック AI)*
+- [ ] 2026-05-09 [Markdownに説明もコードも直接書けばいいのでは、と思ってCLIを作った](https://zenn.dev/owodra/articles/de473d5ec8b572) *(Zenn – トピック AI)*
