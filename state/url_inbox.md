@@ -71180,3 +71180,65 @@
 - [ ] 2026-05-12 [分断されたDocs・Chat・Meetingをどう繋ぐか？マルチAIエージェント時代の「Shared Memory Layer」設計論](https://zenn.dev/memorylakeai/articles/c2fa4e6a4f6ac8) *(Zenn – トピック AI)*
 - [ ] 2026-05-12 [AI時代におけるプロダクト作りの「センス」とは何か。──「サブスク会計学」を読んで改めて考えてみた話](https://zenn.dev/peoplex_blog/articles/6e3bc62dcb76c8) *(Zenn – トピック AI)*
 - [ ] 2026-05-12 [I Tested WAN 2.7 for AI Video Generation — Here’s What I Learned](https://zenn.dev/emilyjones/articles/ade4462e3bc453) *(Zenn – トピック AI)*
+
+## Collected on 2026-05-12T13:28:44.272Z
+- [ ] 2026-05-12 [Chasing Utopia review – renegade Google exec Mo Gawdat searches for ethical AI in alarming insider warning](https://www.theguardian.com/film/2026/may/12/chasing-utopia-review-renegade-google-exec-mo-gawdat-searches-for-ethical-ai-in-alarming-insider-warning) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-12 [AI Is Giving Your Boss Tools to Be More Monstrous Than Ever Before](https://futurism.com/artificial-intelligence/ai-boss-surveillance) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-12 [Laserfiche unveils AI agents for natural language workflows](https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/) *(Artificial Intelligence News)*
+- [ ] 2026-05-12 [Button-pushing explorers: How to grasp that AI agents can do amazing things while knowing nothing](https://theconversation.com/button-pushing-explorers-how-to-grasp-that-ai-agents-can-do-amazing-things-while-knowing-nothing-281498) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-05-12 [Self-driving cars struggle to see at night or in fog – but imitating the human brain can make them safe](https://theconversation.com/self-driving-cars-struggle-to-see-at-night-or-in-fog-but-imitating-the-human-brain-can-make-them-safe-282284) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-05-12 [Your Next AI Query May Travel Where the Power Is](https://spectrum.ieee.org/distributed-inference-data-centers) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-05-12 [5 Useful Python Scripts for Time Series Analysis](https://www.kdnuggets.com/5-useful-python-scripts-for-time-series-analysis) *(KDnuggets)*
+- [ ] 2026-05-12 [NetEase Veteran Raises $100 Million, Backs Gaming Royalty for ‘Star-Wars’-Led Comeback](https://www.bloomberg.com/news/articles/2026-05-12/netease-veteran-raises-100-million-for-star-wars-led-comeback) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Tech Firm CGI Picks Tim Hurlebaus as CEO After AI Fears Crush Share Price](https://www.bloomberg.com/news/articles/2026-05-12/tech-firm-cgi-picks-hurlebaus-as-ceo-after-ai-fears-crush-share-price) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [CME to Create Futures Market for Computing Power Backing AI](https://www.bloomberg.com/news/articles/2026-05-12/cme-to-create-futures-market-for-computing-power-backing-ai) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Deutsche Bank, Nasdaq Back Crypto Firm Elliptic in $120 Million Round](https://www.bloomberg.com/news/articles/2026-05-12/deutsche-bank-nasdaq-back-crypto-firm-elliptic-in-120-million-round) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Stock Futures Drop on Hotter-Than-Forecast Core CPI, Oil Climbs](https://www.bloomberg.com/news/articles/2026-05-12/stock-futures-retreat-from-highs-as-cpi-data-looms-oil-climbs) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [EDF Said to Plan Sale of Chinese Renewables Amid Nuclear Shift](https://www.bloomberg.com/news/articles/2026-05-12/edf-said-to-plan-sale-of-chinese-renewables-amid-nuclear-shift) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [SAP Invests in AI Automation Startup N8n at $5.2 Billion Value](https://www.bloomberg.com/news/articles/2026-05-12/sap-invests-in-ai-automation-startup-n8n-at-5-2-billion-value) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Waymo Recalls Robotaxis After Vehicle Drove on a Flooded Road](https://www.bloomberg.com/news/articles/2026-05-12/waymo-recalls-robotaxis-after-vehicle-drove-on-a-flooded-road) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Instructure Reaches Deal With Hackers to Return Canvas User Data](https://www.bloomberg.com/news/articles/2026-05-12/instructure-reaches-deal-with-hackers-to-return-canvas-user-data) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [EBay Spurns GameStop’s Bid as ‘Neither Credible Nor Attractive’](https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [BlackRock’s Koesterich Sees an Earnings Driven Market Enticing Investors](https://www.bloomberg.com/news/videos/2026-05-12/earnings-driven-market-enticing-investors-koesterich-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [JPMorgan's Sanjay Jhamna: Software Shock is Over](https://www.bloomberg.com/news/videos/2026-05-12/jpmorgan-s-sanjay-jhamna-software-shock-is-over-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Nvidia’s Huang Loses Out on Trump’s China Travel Plans](https://www.bloomberg.com/news/newsletters/2026-05-12/nvidia-s-jensen-huang-misses-out-on-trump-s-china-summit-entourage) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Intel’s $440 Billion Six-Week Surge Has Short Sellers Circling](https://www.bloomberg.com/news/articles/2026-05-12/intel-s-440-billion-six-week-surge-has-short-sellers-circling) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Sea Tops Profit Estimates After Fending Off E-Commerce Rivals](https://www.bloomberg.com/news/articles/2026-05-12/sea-tops-profit-estimates-after-fending-off-e-commerce-rivals) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [China Earns $500 Million an Hour From Exports Supercharged by AI](https://www.bloomberg.com/news/articles/2026-05-12/china-earns-500-million-per-hour-from-export-supercharged-by-ai) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [JD Profit Beats Estimates After China Curbs Food Delivery War](https://www.bloomberg.com/news/articles/2026-05-12/jd-profit-beats-estimates-after-china-curbs-food-delivery-war) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Water Made From Air Aims to Help Drought-Ravaged Communities](https://www.bloomberg.com/news/videos/2026-05-12/startup-has-means-to-harvest-drinkable-water-from-air-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Goldman Says Trend Toward Non-US Debt Is Accelerating](https://www.bloomberg.com/news/videos/2026-05-12/goldman-says-trend-toward-non-us-debt-is-accelerating-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Telenor Sells Stake in Internet-of-Things Business to Verdane](https://www.bloomberg.com/news/articles/2026-05-12/telenor-sells-stake-in-internet-of-things-business-to-verdane) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [TikTok adds in-app travel booking services](https://www.engadget.com/2170275/tiktok-adds-in-app-travel-booking-services/) *(Engadget)*
+- [ ] 2026-05-12 [Sega cancels its 'Super Game' plan](https://www.engadget.com/2170629/saga-cancels-its-super-game-plan/) *(Engadget)*
+- [ ] 2026-05-12 [Spotify is celebrating its 20th birthday with a Wrapped-like feature that covers your entire time on the app](https://www.engadget.com/2170063/spotify-is-celebrating-its-20th-birthday-with-a-wrapped-feature/) *(Engadget)*
+- [ ] 2026-05-12 [eBay rejects GameStop's offer, calling it 'neither credible nor attractive'](https://www.engadget.com/2170578/ebay-rejects-gamestop-offer/) *(Engadget)*
+- [ ] 2026-05-12 [The Steve Jobs $1 coin goes on sale today starting at $61 for a roll](https://www.engadget.com/2170555/steve-jobs-coin-on-sale-today/) *(Engadget)*
+- [ ] 2026-05-12 [Lotus will return to combustion engines for its cars](https://www.engadget.com/2170515/lotus-vision-2030-type-135/) *(Engadget)*
+- [ ] 2026-05-12 [インテル、MPUのテコ入れ鮮明　低価格品も最先端1.8ナノで](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11722/) *(日経クロステック IT)*
+- [ ] 2026-05-12 [「AI製ゼロデイ攻撃」ついに出現か　Google、攻撃者による生成AI悪用の新局面を報告](https://www.itmedia.co.jp/aiplus/articles/2605/12/news147.html) *(ITmedia AI＋)*
+- [ ] 2026-05-12 [警視庁、「シャドーAI」に注意喚起　リスクをゆるめの図で解説](https://www.itmedia.co.jp/aiplus/articles/2605/12/news144.html) *(ITmedia AI＋)*
+- [ ] 2026-05-12 [第一三共「世界トップ5」へ　AI活用で挑む「売上収益3兆円」「コスト2000億円削減」の青写真](https://www.itmedia.co.jp/business/articles/2605/12/news089.html) *(ITmedia AI＋)*
+- [ ] 2026-05-12 [NVIDIA“一強”を突き崩すか　AMDのAIソフトウェア「ROCm」と次世代GPU「Instinct MI400」がもたらす新たな選択肢](https://www.itmedia.co.jp/pcuser/articles/2605/12/news122.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-12 [OCR・音声・構造化出力などの定型タスクに特化したAIモデル「Interfaze」登場](https://gigazine.net/news/20260512-interfaze-new-model-architecture/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-12 [複数のClaude Codeを1画面で管理できる公式機能「agent view」が登場＆Claudeの全機能がAWS経由で使用可能に](https://gigazine.net/news/20260512-claude-code-agent-view-aws/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-12 [AI駆動PMの5原則と12の具体例 — Claude Code × Obsidian](https://zenn.dev/assign/articles/4ba3d41bf59a61) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-12 [アップデートした ChatGPT の画像生成機能「ChatGPT Images 2.0」を試してみた！法務 DX 事例を漫画化したら想像以上だった話。 \| iret.media](https://iret.media/196008) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-12 [コードを書かなくなった我々は何者か —— Product / Platform / Evaluate の3職責でエンジニアの役割を再定義する](https://zenn.dev/tokium_dev/articles/engineer-role-triangle-map) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-12 [【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた - Qiita](https://qiita.com/miruky/items/cef8169b4a10cdd790b5) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [高市総理のレジ改修をめぐる「日本として恥ずかしい」に、エンジニアたちが「侮辱している」と怒り→そもそも複雑すぎるうえにコロコロ変える制度要件を決めたのは…](https://togetter.com/li/2696145) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [「PowerToys 0.99」が公開 ～「つかんで移動」と「Power Display」が追加／「コマンド パレット ドック」や「キーボード マネージャー」もアップデート](https://forest.watch.impress.co.jp/docs/news/2107870.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [AI時代の新規プロダクト立ち上げ 〜バクラク給与の開発で見えたこと〜 - LayerX エンジニアブログ](https://tech.layerx.co.jp/entry/2026/05/12/125409) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [とほほのClaude入門 - とほほのWWW入門](https://www.tohoho-web.com/ai/claude.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [はじめての RubyKaigi - Harukasan-dot-dev](https://harukasan.dev/posts/diary/20260512-rubykaigi2026) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [Google検索がサーバーエラーで不安定に　「ググれない……」との声相次ぐ](https://www.itmedia.co.jp/mobile/articles/2605/12/news106.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [サイトへの誘導は果たして増える？ Google検索、AI概要により多くの参照元リンクを追加へ【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2107782.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [大容量ローカルLLMの革命児ds4が『DwarfStar 4』に改名、CUDA対応でDGX Sparkでも動いた。Macとの棲み分けは？（CloseBox） \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/05/12/5055.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [Xcodeのコーディングエージェントを使う - cockscomblog?](https://cockscomb.hatenablog.com/entry/using-xcode-coding-agent) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [LINE iOSアプリにおけるMergeable Libraryの段階的導入](https://techblog.lycorp.co.jp/ja/20260511b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [シャドーITのススメ](https://zenn.dev/yuta_enginner/articles/08b775eb6873df) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [スキーマでアーキテクチャを縛る ── 人間とAIを同じルールで動かす - ZOZO TECH BLOG](https://techblog.zozo.com/entry/architecture-codegen-pipeline) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [Inside #Board43: 基板編 #rubykaigi - inSmartBank](https://blog.smartbank.co.jp/entry/inside-board43-pcb) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [コンパニオンAIの感情を、ラベルじゃなく経路で作った話](https://zenn.dev/haru0416/articles/d107ea122be434) *(Zenn – トピック LLM)*
+- [ ] 2026-05-12 [AIは絵を描けるのに、CADの線は引けない](https://zenn.dev/0xliclog/articles/fd193ac074be51) *(Zenn – トピック LLM)*
+- [ ] 2026-05-12 [変分推論におけるELBOよりタイトな目的関数](https://zenn.dev/misgnros/articles/6f94f2387b68ee) *(Zenn – トピック 機械学習)*
