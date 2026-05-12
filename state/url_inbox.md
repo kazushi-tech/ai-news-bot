@@ -71242,3 +71242,97 @@
 - [ ] 2026-05-12 [コンパニオンAIの感情を、ラベルじゃなく経路で作った話](https://zenn.dev/haru0416/articles/d107ea122be434) *(Zenn – トピック LLM)*
 - [ ] 2026-05-12 [AIは絵を描けるのに、CADの線は引けない](https://zenn.dev/0xliclog/articles/fd193ac074be51) *(Zenn – トピック LLM)*
 - [ ] 2026-05-12 [変分推論におけるELBOよりタイトな目的関数](https://zenn.dev/misgnros/articles/6f94f2387b68ee) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-05-12T19:24:18.951Z
+- [ ] 2026-05-12 [Film industry cannot fight rise of artificial intelligence, says Demi Moore](https://www.theguardian.com/film/2026/may/12/film-world-must-not-resist-artificial-intelligence-demi-moore) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-12 [Google announces raft of free upgrades for Android phones](https://www.theguardian.com/technology/2026/may/12/google-upgrades-gemini-intelligence-android-phones) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-12 [AI has cut my pay as a memoir writer in half \| Letter](https://www.theguardian.com/books/2026/may/12/ai-has-cut-my-pay-as-a-memoir-writer-in-half) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-12 [Stephen Colbert on Trump’s 22ft gold statue at his golf club: ‘recreational idolatry’](https://www.theguardian.com/culture/2026/may/12/stephen-colbert-trump-statue-iran-peace-plan) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-12 [The end of typing? Why workers are suddenly ditching their keyboards](https://www.theguardian.com/technology/2026/may/12/end-of-typing-workers-ditching-keyboards-voicepilling-ai-dictation) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-12 [US workers overwhelmingly support union-backed policies on AI, poll says](https://www.theguardian.com/us-news/2026/may/12/workers-ai-policy-unions) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-11 [‘A consistent pattern of lying’: Musk v OpenAI trial exposes what insiders think of Sam Altman](https://www.theguardian.com/us-news/2026/may/11/musk-v-openai-altman-trial) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-12 [OpenAI Sued Over ChatGPT Medical Advice That Allegedly Killed College Student](https://futurism.com/artificial-intelligence/openai-sued-chatgpt-medical-advice-killed-student) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-12 [New York Times Issues Stark Warning About AI Use to Its Freelancers After String of Incidents](https://futurism.com/artificial-intelligence/new-york-times-freelancers-ai-rules) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-12 [Researchers Put Google Gemini in Charge of an Entire Coffee Shop, and It’s Inexorably Driving It Out of Business](https://futurism.com/artificial-intelligence/google-gemini-runs-entire-coffee-shop) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-12 [Man Behind Simulation Hypothesis Warns That Extinction of Humanity Is a Risk We Have to Take](https://futurism.com/artificial-intelligence/simulation-hypothesis-ai-extinction-humanity) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-12 [Unitree Shows Off Fully Functional Mecha Suit](https://futurism.com/artificial-intelligence/unitree-mecha-suit) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-12 [Husband Alarmed as Wife Starts Whispering Quietly to Her Computer](https://futurism.com/artificial-intelligence/husband-alarmed-wife-whispering) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-12 [JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability](https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/) *(Artificial Intelligence News)*
+- [ ] 2026-05-12 [Hugging Face hosted malicious software masquerading as OpenAI release](https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/) *(Artificial Intelligence News)*
+- [ ] 2026-05-12 [Startup That Aims to Widen Access to Compute Draws $1.3B](https://aibusiness.com/data-centers/startup-that-aims-widen-access-compute-draws-1-3b) *(AI Business)*
+- [ ] 2026-05-12 [Nokia Launches Agentic AI for Networks](https://aibusiness.com/agentic-ai/nokia-launches-agentic-ai-networks) *(AI Business)*
+- [ ] 2026-05-12 [Nscale Gets $790M in Financing for Norway AI Buildout](https://aibusiness.com/data-centers/nscale-gets-790m-financing-norway-ai-buildout) *(AI Business)*
+- [ ] 2026-05-12 [AI doesn’t create bias, it inherits it – how do we ensure fairness when it comes to automated decisions?](https://theconversation.com/ai-doesnt-create-bias-it-inherits-it-how-do-we-ensure-fairness-when-it-comes-to-automated-decisions-280927) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-05-12 [Hacking the bomb? What Claude Mythos AI reveals about the gamble of nuclear deterrence](https://theconversation.com/hacking-the-bomb-what-claude-mythos-ai-reveals-about-the-gamble-of-nuclear-deterrence-282614) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-05-12 [Is your AI chatbot manipulating you? Subtly reshaping your opinions?](https://theconversation.com/is-your-ai-chatbot-manipulating-you-subtly-reshaping-your-opinions-280800) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-05-12 [6 Best ChatGPT Photo Editing Trends in 2026 (With Prompts to Try)](https://www.techrepublic.com/article/news-chatgpt-photo-editing-trends-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-12 [Google Says Hackers Used AI to Build Zero-Day Exploit](https://www.techrepublic.com/article/news-google-hackers-ai-zero-day-exploit/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-12 [Powering Progress: The Economics of The Dell AI Factory](https://www.techrepublic.com/article/powering-progress-the-economics-of-the-dell-ai-factory/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-12 [Why AI Agents Are A Top Priority](https://www.techrepublic.com/article/why-ai-agents-are-a-top-priority/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-12 [How AI Is Supporting Nurses](https://www.techrepublic.com/article/how-ai-is-supporting-nurses/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-12 [The Shift to Agentic AI](https://www.techrepublic.com/article/the-shift-to-agentic-ai/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-12 [How Agentic AI Is Changing Work](https://www.techrepublic.com/article/how-agentic-ai-is-changing-work/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-12 [Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads](https://spectrum.ieee.org/gigascale-ai-datacenter-power) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-05-01 [Video Friday: Figure, 1X Ramp Up Humanoid Robot Production](https://spectrum.ieee.org/video-friday-humanoid-robot-production) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-05-12 [Using Polars Instead of Pandas: Performance Deep Dive](https://www.kdnuggets.com/using-polars-instead-of-pandas-performance-deep-dive) *(KDnuggets)*
+- [ ] 2026-05-12 [Samsung Fails to Reach Labor Deal, Yonhap Says, as Strike Looms](https://www.bloomberg.com/news/articles/2026-05-12/samsung-fails-to-reach-labor-deal-yonhap-says-as-strike-looms) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [JPMorgan’s Crypto Push Deepens With Filing for Tokenized Fund](https://www.bloomberg.com/news/articles/2026-05-12/jpmorgan-s-crypto-push-deepens-with-filing-for-tokenized-fund) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [CME Plans Computing Power Futures Market](https://www.bloomberg.com/news/videos/2026-05-12/cme-plans-computing-power-futures-market-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Kalshi's $22B Valuation, DraftKings' Prediction Push](https://www.bloomberg.com/news/videos/2026-05-12/kalshi-s-22b-valuation-draftkings-prediction-push-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Petrobras Completes First Phase of $470 Million Data Center Plan](https://www.bloomberg.com/news/articles/2026-05-12/petrobras-completes-first-phase-of-470-million-data-center-plan) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Crypto Acceptance Becoming Easier: WalletConnect CEO](https://www.bloomberg.com/news/videos/2026-05-12/crypto-acceptance-becoming-easier-walletconnect-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [SocGen Takes USD Stablecoin to Millions of Crypto Wallet Users](https://www.bloomberg.com/news/videos/2026-05-12/socgen-takes-usd-stablecoin-to-millions-of-crypto-users-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [A-Star: Small Bets Still Crucial for VC-Style Returns](https://www.bloomberg.com/news/videos/2026-05-12/a-star-small-bets-still-crucial-for-vc-style-returns-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Google in Talks to Use SpaceX to Launch Space Data Centers, Report Says](https://www.bloomberg.com/news/articles/2026-05-12/google-in-talks-to-use-spacex-to-launch-space-data-centers-wsj) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Dubai Positioned Well For Crypto: McHugh](https://www.bloomberg.com/news/videos/2026-05-12/dubai-positioned-well-for-crypto-mchugh-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [SAP Unveils Automation Suite Amid Software Market Doubts](https://www.bloomberg.com/news/videos/2026-05-12/sap-unveils-automation-suite-amid-software-market-doubts-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Deutsche Bank, Nasdaq Back Elliptic in $120M Round](https://www.bloomberg.com/news/videos/2026-05-12/deutsche-bank-nasdaq-back-elliptic-in-120m-round-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Structure Bill Will Make US More Competitive: Calvert](https://www.bloomberg.com/news/videos/2026-05-12/structure-bill-will-make-us-more-competitive-calvert-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [What's Inside the Digital Asset Structure Bill](https://www.bloomberg.com/news/videos/2026-05-12/what-s-inside-the-digital-asset-structure-bill-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Altman Testifies About ‘Hair-Raising’ AI Safety Chat With Musk](https://www.bloomberg.com/news/articles/2026-05-12/altman-testifies-about-hair-raising-ai-safety-chat-with-musk) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Google Debuts Android ‘Googlebook’ Laptop Platform, Reentering Hot Market](https://www.bloomberg.com/news/articles/2026-05-12/google-debuts-android-googlebook-laptops-with-dell-hp-to-counter-macbook-neo) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Anthropic Expands Push Into Legal Industry With New AI Tools](https://www.bloomberg.com/news/articles/2026-05-12/anthropic-expands-push-into-legal-industry-with-new-ai-tools) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Google Unveils New Android AI Features Ahead of Apple’s Siri Revamp](https://www.bloomberg.com/news/articles/2026-05-12/google-unveils-android-ai-updates-ahead-of-apple-s-siri-revamp) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [EBay Spurns GameStop’s Offer as Not Credible, Attractive](https://www.bloomberg.com/news/videos/2026-05-12/ebay-spurns-gamestop-s-offer-as-not-credible-attractive-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Anthropic Warns Investors to Avoid Certain Secondary Market Sellers](https://www.bloomberg.com/news/articles/2026-05-12/anthropic-warns-investors-to-avoid-certain-secondary-market-sellers) *(Bloomberg Technology)*
+- [ ] 2026-05-11 [US Tech Stocks Still Dominate European Funds: ESG Investing](https://www.bloomberg.com/news/articles/2026-05-11/us-tech-stocks-still-dominate-european-funds-esg-investing) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Delivery Hero CEO to Resign After Activist Raises Stake](https://www.bloomberg.com/news/articles/2026-05-12/delivery-hero-ceo-to-resign-after-activist-investor-raises-stake) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [JPMorgan’s Dimon Weighs In on Markets, Iran War and AI](https://www.bloomberg.com/news/videos/2026-05-12/jpmorgan-s-dimon-weighs-in-on-markets-iran-war-and-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-05-12 [Tekken director Katsuhiro Harada is back with his own studio under SNK](https://www.engadget.com/2171217/tekken-director-katsuhiro-harada-is-back-with-his-own-studio-under-snk/) *(Engadget)*
+- [ ] 2026-05-12 [Google is reportedly considering working with SpaceX on orbital data centers](https://www.engadget.com/2171194/google-is-reportedly-considering-working-with-spacex-on-orbital-data-centers/) *(Engadget)*
+- [ ] 2026-05-12 [Waymo recalls nearly 4,000 robotaxis after a car drove directly into a flooded road](https://www.engadget.com/2171165/waymo-recalls-nearly-4000-robotaxis-after-a-car-drove-directly-into-a-flooded-road/) *(Engadget)*
+- [ ] 2026-05-12 [Apple acquired another company that could help build out its Creator Studio subscription](https://www.engadget.com/2171141/apple-acquired-another-company-that-could-help-build-out-its-creator-studio-subscription/) *(Engadget)*
+- [ ] 2026-05-12 [Threads users are pissed they can't block Meta's new AI chatbot](https://www.engadget.com/2171113/threads-users-are-pissed-they-cant-block-metas-new-ai-chatbot/) *(Engadget)*
+- [ ] 2026-05-12 [Spotify is down for some users](https://www.engadget.com/2171078/spotify-is-down-for-some-users/) *(Engadget)*
+- [ ] 2026-05-12 [Panasonic's L10 camera honors 25 years of Lumix](https://www.engadget.com/2171075/panasonics-l10-camera-honors-25-years-of-lumix/) *(Engadget)*
+- [ ] 2026-05-12 [Everything announced at The Android Show: I/O 2026 edition](https://www.engadget.com/2171038/everything-announced-at-android-show-google-io-2026/) *(Engadget)*
+- [ ] 2026-05-12 [Google announces upcoming security tools for Android, including enhanced protection against banking scam calls](https://www.engadget.com/2169750/google-announces-upcoming-security-tools-for-android/) *(Engadget)*
+- [ ] 2026-05-12 [Googlebooks are the Android-based evolution of the Chromebook](https://www.engadget.com/2170814/googlebooks-are-the-android-based-evolution-of-the-chromebook/) *(Engadget)*
+- [ ] 2026-05-12 [Instagram's in-app camera will support Ultra HDR and Night Sight on Android](https://www.engadget.com/2170145/instagrams-in-camera-app-will-support-ultra-hdr-and-night-sight-on-android/) *(Engadget)*
+- [ ] 2026-05-12 [Gemini in Chrome arrives on Android devices in June](https://www.engadget.com/2169854/gemini-in-chrome-arrives-on-android-devices-in-june/) *(Engadget)*
+- [ ] 2026-05-12 [Gemini Intelligence brings app automation to Android](https://www.engadget.com/2170770/gemini-intelligence-brings-app-automation-to-android/) *(Engadget)*
+- [ ] 2026-05-12 [Android 17 includes better iOS file sharing and a forced break for addictive apps](https://www.engadget.com/2170845/android-17-includes-better-ios-file-sharing-and-a-forced-break-for-addictive-apps/) *(Engadget)*
+- [ ] 2026-05-12 [Android Auto is getting a big makeover for 2026](https://www.engadget.com/2170136/android-auto-is-getting-a-big-makeover-for-2026/) *(Engadget)*
+- [ ] 2026-05-12 [Nintendo just announced a $500 Switch 2 bundle that includes a first-party game](https://www.engadget.com/2170994/nintendo-just-announced-a-dollar500-switch-2-bundle-that-includes-a-first-party-game/) *(Engadget)*
+- [ ] 2026-05-12 [Lord of the Rings: The Rings of Power returns to Prime Video in November](https://www.engadget.com/2170934/lord-of-the-rings-the-rings-of-power-returns-to-prime-video-in-november/) *(Engadget)*
+- [ ] 2026-05-12 [Alan Wake comes to horror game Phasmophobia](https://www.engadget.com/2170857/alan-wake-comes-to-horror-game-phasmophobia/) *(Engadget)*
+- [ ] 2026-05-12 [Rivian is rolling out its AI-powered voice assistant](https://www.engadget.com/2170527/rivian-ai-voice-assistant/) *(Engadget)*
+- [ ] 2026-05-12 [Amazon rolls out its new 30-minute delivery option in a number of cities across the US](https://www.engadget.com/2170754/amazon-rolls-out-its-new-30-minute-delivery-option-in-more-cities-across-the-us/) *(Engadget)*
+- [ ] 2026-05-12 [What Parameter Golf taught us about AI-assisted research](https://openai.com/index/what-parameter-golf-taught-us) *(OpenAI News)*
+- [ ] 2026-05-12 [ショートカットを覚えずに効率化、ボタン36個のElgato「Stream Deck + XL」](https://xtech.nikkei.com/atcl/nxt/column/18/00087/00437/) *(日経クロステック IT)*
+- [ ] 2026-05-12 [AI時代に枯渇するデータと天然資源、なぜ今「データスペース」が必要なのか](https://xtech.nikkei.com/atcl/nxt/column/18/00138/042802011/) *(日経クロステック IT)*
+- [ ] 2026-05-12 [ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ](https://zenn.dev/todesking/articles/fba4cc93baf0a9) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-12 [とほほのClaude Code入門 - とほほのWWW入門](https://www.tohoho-web.com/ai/claude-code.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-12 [妻が勝手にAIスクールに入校していた](https://anond.hatelabo.jp/20260512114002) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [人気歌手がサムスンを提訴、テレビ外箱に肖像を「無断で利用」](https://japan.cnet.com/article/35247375/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [最大2℃冷たく進化したソニーのウェアラブル冷温デバイス「REON POCKET 6」](https://pc.watch.impress.co.jp/docs/news/2107806.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [Slack上でインフラのトラブルシューティングができるAgentの設計と実装](https://zenn.dev/ubie_dev/articles/b712ec880ac038) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [毎週数百万回ダウンロードされる人気JavaScriptライブラリ群「TanStack」にサプライチェーン攻撃、問題のあるバージョンをインストールした開発環境では認証情報流出の恐れ](https://gigazine.net/news/20260512-tanstack-supply-chain-attack/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [「デフォルトブラウザを選ぶ画面」でFirefoxを選択するユーザーが600万人に達し10秒に1回選ばれる状況に](https://gigazine.net/news/20260512-firefox-browser-choice/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [KDDI松田社長、楽天モバイルへのauローミングは「当初の役割終えた」](https://k-tai.watch.impress.co.jp/docs/news/2107962.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [iPhone向けに「iOS 26.5」配信開始、暗号化されたRCSに対応](https://k-tai.watch.impress.co.jp/docs/news/2107847.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [Appleが「iOS 26.5」を公開、AndroidとのRCSメッセージ暗号化に対応](https://www.itmedia.co.jp/mobile/articles/2605/12/news062.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-12 [SQLだけで時系列予測（BigQuery × TimesFM）](https://zenn.dev/nttdata_tech/articles/696be475b58ca6) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-12 [ログの違和感をグラフ構造で見抜く](https://zenn.dev/nttdata_tech/articles/2314a5f980ed94) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-12 [CKA(Centered Kernel Alignment)について](https://zenn.dev/songren/articles/c79f59b9c4f3f5) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-12 [INT8量子化でCNNをエッジ推論向けに最適化する — ONNX Runtime PTQ 実践記](https://zenn.dev/ux_xu/articles/ort-int8-ptq-cnn) *(Zenn – トピック 機械学習)*
