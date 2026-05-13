@@ -72286,3 +72286,83 @@
 - [ ] 2026-05-13 [機械学習 vs リードラグ戦略：日本株予測の2つのアプローチ](https://zenn.dev/kiwiiosaru2024/articles/ml-vs-leadlag-jp-stock) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-13 [未経験から1年で国際会議へ。コサイン類似度を用いた「SNS炎上予測」のコミュニティ最適化](https://zenn.dev/yuki_fujimatsu/articles/d1ef7196388968) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-13 [Snowflake で同じ「リアルタイム不正検知」を3パターン実装して落とし穴を全部踏んだ話](https://zenn.dev/yohei_data/articles/9e3085aea49e5b) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-05-13T19:26:21.821Z
+- [ ] 2026-05-13 [One in seven in UK prefer consulting AI chatbots to seeing doctor, study finds](https://www.theguardian.com/society/2026/may/13/one-in-seven-prefer-ai-chatbots-to-seeing-doctor-uk-study) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-13 [Chinese court awards compensation to sacked worker replaced by AI](https://www.theguardian.com/world/2026/may/13/china-court-awards-compensation-sacked-worker-replaced-by-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-13 [New quantum algorithm solves “impossible” materials problem in seconds](https://www.sciencedaily.com/releases/2026/05/260512202355.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-05-13 [Your “um” and pauses could reveal early dementia risk](https://www.sciencedaily.com/releases/2026/05/260512202333.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-05-13 [What It Will Take to Make AI Sustainable](https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-05-13 [DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border](https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-05-13 [Overworked AI Agents Turn Marxist, Researchers Find](https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-05-13 [OpenAI Brings Its Ass to Court](https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-05-13 [WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private](https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-05-13 [New Wikipedia Clone Made Entirely of AI Hallucinations](https://futurism.com/artificial-intelligence/deranged-wikipedia-clone-made-entirely-of-ai-hallucinations) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-13 [Four Financial Journalists Accused of Being Fake AI-Generated Puppets That Shill Crypto in Forbes, HuffPost, and More](https://futurism.com/artificial-intelligence/financial-journalists-accused-ai-fakes) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-13 [Software Engineers Say They’re Losing the Ability to Code Now That AI Does It for Them](https://futurism.com/artificial-intelligence/engineers-losing-coding-ability-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-13 [Mark Zuckerberg Is Realizing That When You Treat Your Workers Like Human Garbage, They Might Not Like You Anymore](https://futurism.com/artificial-intelligence/mark-zuckerberg-treating-workers-poorly) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-13 [Anthropic Says Claude Turned Evil for a Bizarre Reason](https://futurism.com/artificial-intelligence/anthropic-claude-evil-internet-blame) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-13 [The AI Industry Is Secretly Powered by Homeless People](https://futurism.com/artificial-intelligence/ai-industry-homeless) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-13 [Bosch, Researchers Develop AI for Humanoid Dexterity](https://aibusiness.com/robotics/bosch-researchers-develop-ai-humanoid-dexterity) *(AI Business)*
+- [ ] 2026-05-13 [Google Introduces Googlebook, a Gemini-First Laptop Platform](https://www.techrepublic.com/article/news-googlebook-gemini-ai-laptops/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-13 [UK and Europe Land 33% of New Startups Founded by DeepMind Alumni](https://www.techrepublic.com/article/deepmind-alumni-startups-uk-europe-data/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-13 [Can AI Chatbots Reason Like Doctors?](https://spectrum.ieee.org/ai-clinical-decision-support) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-05-13 [How AI Agents Will Transform Data Science Work in 2026](https://www.kdnuggets.com/how-ai-agents-will-transform-data-science-work-in-2026) *(KDnuggets)*
+- [ ] 2026-05-13 [Hackers Are Already Using AI to Beef Up Their Attacks, Hide Their Activity](https://www.bloomberg.com/news/newsletters/2026-05-13/hackers-are-already-using-ai-to-beef-up-their-attacks-hide-their-activity) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Anthropic in Talks to Raise $30 Billion at a $900 Billion Valuation](https://www.bloomberg.com/news/videos/2026-05-13/anthropic-in-talks-to-raise-30-billion-in-financing-video) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [AI In Focus As Top CEOs Head To China For Trade Summit](https://www.bloomberg.com/news/videos/2026-05-13/ai-in-focus-as-top-ceos-head-to-china-for-trade-summit-video) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Varda Deepens Drugs-in-Space Bet After Win With AIDS Medication](https://www.bloomberg.com/news/articles/2026-05-13/varda-deepens-drugs-in-space-bet-after-win-with-aids-medication) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Silicon Valley Prosecutor Targets Foreign Corporate Spying](https://www.bloomberg.com/news/articles/2026-05-13/silicon-valley-prosecutor-targets-foreign-corporate-spying) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Affirm Seeing Real, Scalable Growth, CEO Says](https://www.bloomberg.com/news/videos/2026-05-13/affirm-seeing-real-scalable-growth-ceo-says-video) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Companies are 'Testing & Trying' with AI Costs: Trujillo](https://www.bloomberg.com/news/videos/2026-05-13/companies-are-testing-trying-with-ai-costs-trujillo-video) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Varda CEO Sees More Wins for Drugmaking in Earth Orbit](https://www.bloomberg.com/news/videos/2026-05-13/varda-ceo-sees-more-wins-for-drugmaking-in-earth-orbit-video) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Trump Lands in China as War-Fueled Inflation Surges \| Open Interest 5/13/2026](https://www.bloomberg.com/news/videos/2026-05-13/open-interest-5-13-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Samanth Subramanian on the Undersea Cables That Keep the Internet Alive \| Odd Lots](https://www.bloomberg.com/news/videos/2026-05-13/the-undersea-cables-that-keep-the-internet-alive-video) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Microsoft Spent Over $100 Billion on OpenAI Partnership](https://www.bloomberg.com/news/articles/2026-05-13/microsoft-spent-over-100-billion-on-openai-partnership-to-date) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Honeywell CEO Discusses Company's Dealmaking, Spinoffs](https://www.bloomberg.com/news/videos/2026-05-13/honeywell-ceo-discusses-company-s-dealmaking-spinoffs-video) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Anduril CEO Weighs on $61 Billion Round](https://www.bloomberg.com/news/videos/2026-05-13/anduril-ceo-weighs-on-61-billion-round-video) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [MARA Strikes Data Center Deals in AI Pivot](https://www.bloomberg.com/news/videos/2026-05-13/mara-strikes-data-center-deals-in-ai-pivot-video) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Arm, SoftBank Said to Have Tried to Buy Cerebras](https://www.bloomberg.com/news/videos/2026-05-13/arm-softbank-said-to-have-tried-to-buy-cerebras-video) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Fed Survey Shows More Job Anxiety, Widespread Price Concerns](https://www.bloomberg.com/news/articles/2026-05-13/fed-survey-shows-mounting-job-anxiety-widespread-price-concerns) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Arm, SoftBank Tried to Buy Cerebras in 11th Hour](https://www.bloomberg.com/news/articles/2026-05-13/arm-softbank-said-to-have-tried-to-buy-cerebras-in-11th-hour) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [AI Startup Fractile Raises $220 Million for Chip Production](https://www.bloomberg.com/news/articles/2026-05-13/ai-startup-fractile-raises-220-million-for-chip-production) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Fintech Bunq Applies for Mexican Banking License in Global Push](https://www.bloomberg.com/news/articles/2026-05-13/fintech-bunq-applies-for-mexican-banking-license-in-global-push) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Mistral Developing New AI Model for Banks Lacking Mythos Access](https://www.bloomberg.com/news/articles/2026-05-13/mistral-developing-new-ai-model-for-banks-lacking-mythos-access) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [CATL-Linked Investors to Buy VNET Stake in $942 Million Deal](https://www.bloomberg.com/news/articles/2026-05-13/catl-linked-investors-to-buy-vnet-stake-in-942-million-deal) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Bank of Canada Sees AI as Possible Productivity Salve](https://www.bloomberg.com/news/articles/2026-05-13/bank-of-canada-sees-ai-as-possible-productivity-salve) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [How the Hormuz Crisis Could Disrupt the Internet’s Backbone](https://www.bloomberg.com/news/videos/2026-05-13/the-hormuz-crisis-could-disrupt-the-internet-s-backbone-video) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Microsoft’s LinkedIn Is Cutting Jobs in Latest Industry Cull](https://www.bloomberg.com/news/articles/2026-05-13/microsoft-s-linkedin-is-cutting-jobs-in-latest-industry-cull) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [Schwab Will Use AI To Serve Less-Affluent Customers](https://www.bloomberg.com/news/videos/2026-05-13/schwab-plans-to-use-ai-to-reach-serve-less-affluent-customers-mp45wc06) *(Bloomberg Technology)*
+- [ ] 2026-05-13 [The Talos Principle 3 will wrap up the series](https://www.engadget.com/2172314/the-talos-principle-3-will-wrap-up-the-series/) *(Engadget)*
+- [ ] 2026-05-13 [Andreessen Horowitz is the midterm elections' biggest donor](https://www.engadget.com/2172293/andreessen-horowitz-is-the-midterm-elections-biggest-donor/) *(Engadget)*
+- [ ] 2026-05-13 [Netflix misspelled a lead Devil May Cry character's name and had to recall official merchandise](https://www.engadget.com/2172288/netflix-misspelled-a-lead-devil-may-cry-characters-name-and-had-to-recall-official-merchandise/) *(Engadget)*
+- [ ] 2026-05-13 [Xbox's new filters aim to make sense of disorganized game libraries](https://www.engadget.com/2172273/xbox-new-filters-aim-to-make-sense-of-disorganized-game-libraries/) *(Engadget)*
+- [ ] 2026-05-13 [OpenAI endorses the Kids Online Safety Act](https://www.engadget.com/2172269/openai-endorses-the-kids-online-safety-act/) *(Engadget)*
+- [ ] 2026-05-13 [LinkedIn is reportedly laying off five percent of its workforce](https://www.engadget.com/2172239/linkedin-is-reportedly-laying-off-five-percent-of-its-workforce/) *(Engadget)*
+- [ ] 2026-05-13 [Meta employees are protesting the company's mouse tracking program](https://www.engadget.com/2172212/meta-employees-are-protesting-the-companys-mouse-tracking-program/) *(Engadget)*
+- [ ] 2026-05-13 [Instagram debuts a new disappearing-photo app called Instants](https://www.engadget.com/2172199/instagram-debuts-a-new-disappearing-photo-app-called-instants/) *(Engadget)*
+- [ ] 2026-05-13 [May's PS Plus Game Catalog additions include Red Dead Redemption 2 and Star Wars Outlaws](https://www.engadget.com/2172139/may-ps-plus-game-catalog-additions-red-dead-redemption-2-star-wars-outlaws/) *(Engadget)*
+- [ ] 2026-05-13 [Several Overwatch heroes are about to hit Fortnite](https://www.engadget.com/2172080/several-overwatch-heroes-are-about-to-hit-fortnite/) *(Engadget)*
+- [ ] 2026-05-13 [Elon Musk just can't stop (potentially) violating the Clean Air Act](https://www.engadget.com/2172050/elon-musk-just-cant-stop-potentially-violating-the-clean-air-act/) *(Engadget)*
+- [ ] 2026-05-13 [That awful gold Trump phone will reportedly ship this week](https://www.engadget.com/2172010/that-awful-gold-trump-phone-will-reportedly-ship-this-week/) *(Engadget)*
+- [ ] 2026-05-13 [WhatsApp users can soon have private conversations with Meta AI](https://www.engadget.com/2171922/whatsapp-users-can-soon-have-private-conversations-with-meta-ai/) *(Engadget)*
+- [ ] 2026-05-13 [Sony's A7R VI blends speed with a 67MP stacked sensor](https://www.engadget.com/2171889/sony-a7r-vi-blends-speed-with-a-67mp-stacked-sensor/) *(Engadget)*
+- [ ] 2026-05-13 [Denon Home 200, 400 and 600 review: Taking on Sonos](https://www.engadget.com/2171196/denon-home-200-400-and-600-review-taking-on-sonos/) *(Engadget)*
+- [ ] 2026-05-15 [Building a safe, effective sandbox to enable Codex on Windows](https://openai.com/index/building-codex-windows-sandbox) *(OpenAI News)*
+- [ ] 2026-05-13 [【約2000兆円】トランプ大統領が米中会談のためにアメリカの大企業のCEOを根こそぎ動員していることが「完全に狂気」だと話題に](https://togetter.com/li/2696644) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-13 [「初音ミク×シナモロール」有線イヤフォン。着せ替え可能な3種類](https://av.watch.impress.co.jp/docs/news/2108219.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-13 [Copilot Studio における Business skills の位置づけと、他機能との使い分けを整理してみた - Qiita](https://qiita.com/Takashi_Masumori/items/c727938756b287868ffa) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-13 [新卒の採用面接毎年やってるけど「文系でプログラミングも情報系の講義も何も取ってません。自分で勉強もしてません。でも志望はIT業界です。」って子増えたな…](https://posfie.com/@kalofollow/p/qG0MvwI) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-13 [子宮頸がん、光とAI解析で早期発見　ニコンと大阪大学が新技術 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOSG029NK0S6A400C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-13 [GoogleとSpaceXが「宇宙データセンター」を協議、AI計算基盤は地球の外へ向かうのか](https://gigazine.net/news/20260513-spacex-google-data-center-orbit/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-13 [note2Zennプロジェクト記録](https://zenn.dev/hanav1ye/books/note2zenn-pj) *(Zenn – トピック LLM)*
+- [ ] 2026-05-13 [AI時代のプロダクトは「固定された成果物」ではなく「可能性の束」になる !? - Cookflowを作った](https://zenn.dev/geeknees/articles/2b449c9f547334) *(Zenn – トピック AI)*
+- [ ] 2026-05-13 [コードを書かない人のためのClaude Codeガイド — 実際にできることを全部見せる](https://zenn.dev/tottoko_hamu/articles/2026-04-22-205144) *(Zenn – トピック AI)*
+- [ ] 2026-05-13 [CTF: Lock down （tryhackme）](https://zenn.dev/riwai/articles/5e948bbadeaa94) *(Zenn – トピック AI)*
+- [ ] 2026-05-13 [Claude Codeキーボードショートカット17選、Tier別に全部教えたるで](https://zenn.dev/masayan1126/books/claude-code-keyboard-shortcuts) *(Zenn – トピック AI)*
+- [ ] 2026-05-13 [#55 「何をするか」から「どう動くか」へ。6つのワークフロースキルによる自律化の完成](https://zenn.dev/corone/articles/8ca1547721d4cf) *(Zenn – トピック AI)*
+- [ ] 2026-05-13 [gh skill でスキルを公開してみた](https://zenn.dev/optimisuke/articles/a3f8b2c1d9e047) *(Zenn – トピック AI)*
+- [ ] 2026-05-13 [Claude Codeの定期実行をまとめてみた](https://zenn.dev/linkedge/articles/claude-code-scheduled-execution) *(Zenn – トピック AI)*
+- [ ] 2026-05-13 [最適輸送とWasserstein距離を丁寧に理解する](https://zenn.dev/edamame_lab/articles/8da62c0431fa17) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-13 [Choice-Learn で始める新商品需要予測 ─ ①直感編：なぜ「ただの売上予測」では足りないのか](https://zenn.dev/salt2/articles/8e2055ab1fb380) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-13 [CutMixとMixUpをCIFAR-10で比較したら、CutMixが逆効果だった話【Keras実験】](https://zenn.dev/wasurenamemo/articles/4dda2dfcc1d1e1) *(Zenn – トピック 機械学習)*
