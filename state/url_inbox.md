@@ -74016,3 +74016,53 @@
 - [ ] 2026-05-15 [XGBoostを初心者向けにざっくり理解する](https://zenn.dev/drizzleliucat/articles/b8de777e36b570) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-15 [LeRobot — 録画したデータセットでポリシーをトレーニングする](https://zenn.dev/adawarp/articles/lerobot-train-policy) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-15 [AI と 26 ラウンド議論して個人開発の競馬予測 ML を育てた話 — ROI 0.91 → 1.66 への試行錯誤](https://zenn.dev/yurelu/articles/396a329522aa22) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-05-16T01:28:19.805Z
+- [ ] 2026-05-16 [Korea Bond Yields May Extend Gains on Chips Boom, Analysts Say](https://www.bloomberg.com/news/articles/2026-05-16/korea-bond-yields-may-extend-gains-on-chips-boom-analysts-say) *(Bloomberg Technology)*
+- [ ] 2026-05-15 [Trump Discussed Nvidia Chips With Xi Jinping \| Bloomberg Tech 5/15/2026](https://www.bloomberg.com/news/videos/2026-05-15/bloomberg-tech-5-15-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-05-15 [Snap, YouTube Settle School Social Media Suit Ahead of Trial](https://www.bloomberg.com/news/articles/2026-05-15/snap-youtube-settle-school-social-media-suit-ahead-of-trial) *(Bloomberg Technology)*
+- [ ] 2026-05-15 [Global Bond Selloff Deepens as Oil Prices Rise \| The Close 5/15/2026](https://www.bloomberg.com/news/videos/2026-05-15/the-close-5-15-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-05-15 [Arm Holdings to Face US Antitrust Probe Over Chip Tech](https://www.bloomberg.com/news/articles/2026-05-15/arm-holdings-said-to-face-us-antitrust-probe-over-chip-tech) *(Bloomberg Technology)*
+- [ ] 2026-05-15 [Forbright Files for IPO Pitching Middle Market, Digital Banking](https://www.bloomberg.com/news/articles/2026-05-15/forbright-files-for-ipo-pitching-middle-market-digital-banking) *(Bloomberg Technology)*
+- [ ] 2026-05-15 [From Trade to Taiwan, What the Trump-Xi Summit Did (and Didn’t) Accomplish](https://www.bloomberg.com/news/articles/2026-05-15/trump-xi-summit-yields-warm-rhetoric-few-takeaways-on-trade-and-iran) *(Bloomberg Technology)*
+- [ ] 2026-05-15 [Sheila Bair on Finding a Good Workplace](https://www.bloomberg.com/news/videos/2026-05-15/sheila-bair-on-finding-a-good-workplace-video) *(Bloomberg Technology)*
+- [ ] 2026-05-15 [Figure CEO Says No Teleoperation in Their Humanoid Robot Testing](https://www.bloomberg.com/news/videos/2026-05-15/figure-ceo-says-humanoid-robot-test-had-no-outside-aid-video) *(Bloomberg Technology)*
+- [ ] 2026-05-15 [Figma Jumps as Results Ease AI Disruption Concerns](https://www.bloomberg.com/news/videos/2026-05-15/figma-jumps-as-results-ease-ai-disruption-concerns-video) *(Bloomberg Technology)*
+- [ ] 2026-05-15 [US Chip Sector Needs More Talent, Says SEMI](https://www.bloomberg.com/news/videos/2026-05-15/us-chip-sector-needs-more-talent-says-semi-video) *(Bloomberg Technology)*
+- [ ] 2026-05-15 [US Is Starting to See Heavy Job Losses in Roles Exposed to AI](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai) *(Bloomberg Technology)*
+- [ ] 2026-05-16 [Snap and YouTube have reportedly settled another major social media addiction lawsuit](https://www.engadget.com/2174229/snap-youtube-settle-social-media-addiction-lawsuit/) *(Engadget)*
+- [ ] 2026-05-15 [New crash data highlights the slow progress of Tesla's robotaxis](https://www.engadget.com/2174144/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/) *(Engadget)*
+- [ ] 2026-05-15 [California lawmakers are working on a bill to preserve access to online games](https://www.engadget.com/2174011/california-lawmakers-are-working-on-a-bill-to-preserve-access-to-online-games/) *(Engadget)*
+- [ ] 2026-05-15 [Summer Games Done Quick returns this July, schedule out now](https://www.engadget.com/2173999/summer-games-done-quick-returns-this-july-schedule-out-now/) *(Engadget)*
+- [ ] 2026-05-15 [Marathon's future includes duo queues, more PvE modes and better onboarding](https://www.engadget.com/2173991/marathons-future-includes-duo-queues-more-pve-modes-and-better-onboarding/) *(Engadget)*
+- [ ] 2026-05-15 [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) *(OpenAI News)*
+- [ ] 2026-05-15 [OpenAI、「ChatGPT」に個人向け資産管理機能　金融口座と連携](https://www.itmedia.co.jp/news/articles/2605/16/news027.html) *(ITmedia AI＋)*
+- [ ] 2026-05-16 [【最強入門】Claude Codeが強すぎる…非エンジニアこそ業務激変の「神設定」と活用5選](https://www.sbbit.jp/article/cont1/185291) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-16 [Claudeがパスワード忘れで11年間アクセス不能なビットコインを救出、6300万円の価値に](https://www.sbbit.jp/article/fj/185385) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-16 [JCB、「クレカ乗車」でポイント10%還元　5月16日利用分から1年間](https://japan.cnet.com/article/35247579/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [一人SREが歩んだPlatform Engineeringスモールスタート実践録 ~ クラウドネイティブ会議版 ~](https://speakerdeck.com/syossan27/ren-sregabu-ndaplatform-engineeringsumorusutatoshi-jian-lu-kuraudoneiteibuhui-yi-ban) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [実物大ユニコーンガンダム立像、展示終了へ　17年の公開から9年弱](https://www.itmedia.co.jp/news/articles/2605/15/news120.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [FSR 4.1が旧世代Radeonでも利用可能に](https://pc.watch.impress.co.jp/docs/news/2108968.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [IIJ谷脇社長、ドコモ回線問題について「キャリアとMVNOの原因切り分けが難しい」　IIJmioの値上げは予定なし](https://www.itmedia.co.jp/mobile/articles/2605/14/news135.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [AppleのM5チップのMIEがAI支援のカーネル攻撃コードで回避される、メモリ破損防御を突破した初の公開事例](https://gigazine.net/news/20260515-apple-mie-kernel-memory-corruption/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [「Xperia」の新AI機能を紹介したポストが海外で「最高の反AI広告だ」と物議　ソニーの説明は？](https://www.itmedia.co.jp/news/articles/2605/15/news111.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-15 [AI共創：プロトコルエンジニアリング（AI共創 系統B） ―― それは「AI知性」と同期する技術である](https://zenn.dev/eitoatsuta/articles/512be38743ae2b) *(Zenn – トピック LLM)*
+- [ ] 2026-05-15 [エンジニアの役割は責任を取ることではない](https://zenn.dev/cherie0915/articles/engineer-role-purpose-translation) *(Zenn – トピック LLM)*
+- [ ] 2026-05-15 [「正解のような何か」への依存](https://zenn.dev/faketurn/articles/199bd704fc8eec) *(Zenn – トピック LLM)*
+- [ ] 2026-05-15 [AI-nativeなWebアプリは route ではなく capability から設計したほうがいい](https://zenn.dev/53able/articles/5e32c6e5a4b511) *(Zenn – トピック LLM)*
+- [ ] 2026-05-15 [AI開発のアンチパターン　AnchorSpecが見た地獄](https://zenn.dev/nia_anoma/articles/499ee364958509) *(Zenn – トピック LLM)*
+- [ ] 2026-05-15 [2026年5月のAI英語ニュースから読む、Agentic AI実装のベストプラクティス](https://zenn.dev/yushiyamamoto/articles/agentic-ai-news-practice-2026-05) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [AIエージェント3種で戦略議論したら、OSSロードマップの主軸が根本から変わった話](https://zenn.dev/minewo/articles/multi-ai-discussion-roadmap-rewrite) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [自律 AI 秘書を Claude Code で組む — 5 層と 7 つの境界](https://zenn.dev/miyan/articles/claude-code-ai-secretary-design-2026) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [頭脳はAI、身体は人間。AIエージェント時代の「浮いた時間」を設計する](https://zenn.dev/bentenweb_fumi/articles/9drjybpnmmjb) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [HiDream skeleton: openpose ref より prompt が強い (実証 8 パターン)](https://zenn.dev/zhener/articles/hidream-skeleton-pose-prompt) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [DORAの「ROI of AI-assisted Software Development」を読み解く](https://zenn.dev/inspector/articles/dora-roi-of-ai-2026-yomitoki) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [Claude Codeで広がる可能性：プラグイン・Wiki・スキルの活用法](https://zenn.dev/ty2/articles/tweet-claude_code-2053049308736639212) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [【初心者】ワークツリーを切ってイキりまくり、エージェント並行開発をしていたらコンフリクトを連発した話と対策。](https://zenn.dev/wahe/articles/eda7fb1a7a2848) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [群知能と遺伝的アルゴリズム](https://zenn.dev/ssknaoya/articles/55bd9eab33553e) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [Claude Code をミニマムで運用する](https://zenn.dev/kei1110/articles/5574ec7606c8fb) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [アカウントを作ったのに記事にすることがない、自信もない→AIをパートナーにしたら変われるのかを検証する](https://zenn.dev/shomitei/articles/ai-blogging-journey) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [チームでAIエージェントの設定を統一する仕組み APM](https://zenn.dev/tamutamuzen/articles/652f527423c270) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [第５部　家庭の一日にレーン設計を落とし込んでみる](https://zenn.dev/aimar/articles/98db68c9f35c1f) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [Codexで副業サイトと無料ツールを作り、広告表示61・クリック0を検証ログにした](https://zenn.dev/30man_ai_note/articles/706169b6d2ba1e) *(Zenn – トピック AI)*
+- [ ] 2026-05-15 [VS CodeでMarkdownをプレビューしながら編集できる拡張機能 Richdown](https://zenn.dev/mytooyo_dev/articles/372360680d9183) *(Zenn – トピック AI)*
