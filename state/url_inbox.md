@@ -74066,3 +74066,37 @@
 - [ ] 2026-05-15 [第５部　家庭の一日にレーン設計を落とし込んでみる](https://zenn.dev/aimar/articles/98db68c9f35c1f) *(Zenn – トピック AI)*
 - [ ] 2026-05-15 [Codexで副業サイトと無料ツールを作り、広告表示61・クリック0を検証ログにした](https://zenn.dev/30man_ai_note/articles/706169b6d2ba1e) *(Zenn – トピック AI)*
 - [ ] 2026-05-15 [VS CodeでMarkdownをプレビューしながら編集できる拡張機能 Richdown](https://zenn.dev/mytooyo_dev/articles/372360680d9183) *(Zenn – トピック AI)*
+
+## Collected on 2026-05-16T07:44:02.897Z
+- [ ] 2026-05-16 [China Data Centers Tap Spot Power Trading First Time: Report](https://www.bloomberg.com/news/articles/2026-05-16/china-data-centers-tap-spot-power-trading-first-time-report) *(Bloomberg Technology)*
+- [ ] 2026-05-16 [Europe Lacks Everything Needed to Make Its Stock Market a Winner](https://www.bloomberg.com/news/articles/2026-05-16/europe-lacks-everything-needed-to-make-its-stock-market-a-winner) *(Bloomberg Technology)*
+- [ ] 2026-05-16 [SpaceX Holders Sign Off on 5-for-1 Stock Split Ahead of IPO](https://www.bloomberg.com/news/articles/2026-05-16/spacex-shareholders-approve-5-for-1-split-of-common-stock) *(Bloomberg Technology)*
+- [ ] 2026-05-16 [YouTube's AI deepfake detection tool is now available to all creators 18 and older](https://www.engadget.com/2174282/youtube-likeness-detection-ai-deepfakes-expansion/) *(Engadget)*
+- [ ] 2026-05-15 [How sales teams use Codex](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) *(OpenAI News)*
+- [ ] 2026-05-15 [How business operations teams use Codex](https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex) *(OpenAI News)*
+- [ ] 2026-05-15 [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) *(OpenAI News)*
+- [ ] 2026-05-16 [本物のモネの絵の一部を出して「あの睡蓮をAI生成したよ」と言ったら、みんなが「本物とは似ても似つかない」とダメ出ししまくった](https://togetter.com/li/2697618) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-16 [ユーザーの7割が女性、1日250万人・月間1億人が利用する「AIロマンタジー」サイト \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/97250) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-16 [Claude Codeにリポジトリを1枚のワークフロー図にしてもらうプロンプト](https://zenn.dev/acntechjp/articles/b82cebfa0e4d50) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-16 [Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル - Qiita](https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-16 [「涼宮ハルヒの憂鬱」の視聴順を巡る4chan匿名ユーザーの投稿→うっかり数学の未解決問題で歴史的発見　2021年に論文化](https://www.itmedia.co.jp/news/articles/2605/16/news003.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [意味が重複した単語](https://alpha3166.github.io/blog/20111225.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [vimハラに負けないための心得 〜エディタ選択の自由を守る〜](https://zenn.dev/yamitake/articles/survive-vim-harassment-mindset) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [Google's Guide to Optimizing for Generative AI Features on Google Search \| Google Search Central  \|  Documentation  \|  Google for Developers](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [【さすがソニー】最強級キーボードにJIS配列モデル　これはうれしすぎる！ (1/5)](https://ascii.jp/elem/000/004/401/4401042/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [GitHub - Andyyyy64/whichllm: Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.](https://github.com/Andyyyy64/whichllm) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [都心にもデータセンター 建設ラッシュいったいなぜ？ \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015121461000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-16 [ハーネスエンジニアリングを2軸の座標で見直す](https://zenn.dev/cherie0915/articles/harness-engineering-coordinate-space) *(Zenn – トピック LLM)*
+- [ ] 2026-05-16 [PMO専門エージェント vs 汎用LLM：同じお題で比較したら「実務の解像度」に決定的な差が出た](https://zenn.dev/sin260/articles/pmo-vs-generic-llm) *(Zenn – トピック LLM)*
+- [ ] 2026-05-16 [handoff.mdで十分？ AIエージェントの作業引き継ぎにA2CRを使う理由](https://zenn.dev/a2cr/articles/86612e29894ea6) *(Zenn – トピック LLM)*
+- [ ] 2026-05-16 [初学者視点で機械学習を食事・脂肪・筋肉・便秘度で例えてみた](https://zenn.dev/i_n_dev/articles/afd9cffe75b4b3) *(Zenn – トピック AI)*
+- [ ] 2026-05-16 [Claude仕事術 — 今日から使えるAI実践ワークフロー](https://zenn.dev/amu_lab/books/claude-business-skills-guide) *(Zenn – トピック AI)*
+- [ ] 2026-05-16 [Claude Cowork Dispatch のセットアップガイド──QR ペアリング廃止後の最新フロー](https://zenn.dev/and_dot/articles/e42520784892a2) *(Zenn – トピック AI)*
+- [ ] 2026-05-16 [生成AIをスマホで学ぶためのアプリ導線を整理する](https://zenn.dev/burningtribe/articles/0869f1e421f89a) *(Zenn – トピック AI)*
+- [ ] 2026-05-16 [「ファナック × Google」フィジカルAI協業の衝撃とインフラの未来](https://zenn.dev/hokanco28/articles/ab874c92afbbda) *(Zenn – トピック AI)*
+- [ ] 2026-05-16 [AIと人間が使うDartメトリクスツール dartrics](https://zenn.dev/koji_1009/articles/f4dd2cb293856b) *(Zenn – トピック AI)*
+- [ ] 2026-05-16 [消したはずの claude -p が残っていた ── C3 v2.6.1〜v2.7.0](https://zenn.dev/satoh_y_0323/articles/b22b7893e6feed) *(Zenn – トピック AI)*
+- [ ] 2026-05-16 [持たざる者のLLM学習理論](https://zenn.dev/strixai/articles/1d36ed2aed59e4) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-16 [Xのおすすめ欄はどう決まるのか？公開されたアルゴリズムを読んでみた](https://zenn.dev/murakumo/articles/x-algorithm-how-feed-works) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-16 [26Mパラメータの衝撃——エージェント蒸留と信頼性の壁](https://zenn.dev/lingmu/articles/2026-05-14-needle-agent-trust) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-16 [画像の間違い探しをDuckDBでできる拡張機能を作った](https://zenn.dev/amana/articles/li9e653etwh9v8) *(Zenn – トピック 機械学習)*
