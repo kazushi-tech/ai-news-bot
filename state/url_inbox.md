@@ -74247,3 +74247,26 @@
 - [ ] 2026-05-17 [AI Skillについて](https://zenn.dev/dvdandbluray/articles/1224708c605a7d) *(Zenn – トピック AI)*
 - [ ] 2026-05-17 [表形式データ合成と拡張の基礎知識](https://zenn.dev/haruto_big6/articles/2fb7e7c25153c2) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-17 [Logistic タイプの無限潜在特徴モデル pg_ilfm を公開しました](https://zenn.dev/momen8/articles/0ec0ea2d60c106) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-05-17T18:46:19.932Z
+- [ ] 2026-05-17 [The Guardian view on policing the internet: Ofcom must push harder on illegal content \| Editorial](https://www.theguardian.com/commentisfree/2026/may/17/the-guardian-view-on-policing-the-internet-ofcom-must-pusher-harder-on-content) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-17 [Rowing through the fog: how to increase your tolerance for uncertainty](https://www.theguardian.com/wellness/2026/may/17/author-simone-stolzoff) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-17 [Mayor Eats His Words After Admitting He’s Delegating Work to 11 AI Agents](https://futurism.com/artificial-intelligence/ai-ken-sim-vancouver-work) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-17 [Oops: Bosses Realize Their Companies Have Been Swarmed by Legions of Redundant AI Agents](https://futurism.com/artificial-intelligence/bosses-realize-companies-swarmed-ai-agents) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-17 [Apple’s New ChatGPT-Like Siri App Will Have Auto-Deleting Chats](https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr) *(Bloomberg Technology)*
+- [ ] 2026-05-17 [1047 Games' spiritual successor to Titanfall will reportedly be called Empulse](https://www.engadget.com/2174946/1047-games-spiritual-successor-to-titanfall-will-reportedly-be-called-empulse/) *(Engadget)*
+- [ ] 2026-05-17 [Apple's new Siri app will reportedly offer auto-deleting chat options](https://www.engadget.com/2174928/apple-new-siri-app-will-reportedly-offer-auto-deleting-chat-options/) *(Engadget)*
+- [ ] 2026-05-17 [This new Mac app locks the keyboard to prevent chaos when your cat tramples all over it](https://www.engadget.com/2174922/cats-lock-mac-app-locks-keyboard-to-prevent-chaos-when-your-cat-tramples-all-over-it/) *(Engadget)*
+- [ ] 2026-05-17 [誰でもできる！ Geminiを使った「プロンプト講座」：似合う髪型がひと目でわかる『髪型コラージュ画像』の作り方](https://rocketnews24.com/2026/05/17/2760885/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-17 [「作品としてのVTuber」とその鑑賞を検討する。｜gobu](https://note.com/gobu81/n/nffb810a04ec0) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-17 [環境条件を制御　世界初の密閉型植物栽培装置　日本発フードテックで世界へ　月刊Biz](https://www.sankei.com/article/20260517-FZGTQE2REVILNPSCFET7TGSSXI/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-17 [AIモデルでブラウザを自動操作できる「Browser-Use」、オープンソースで開発され自然言語で簡単に指示可能](https://gigazine.net/news/20260517-browser-use/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-17 [Transformer / GPT の内部処理をブラウザ上で可視化して学ぶ transformer-explainer - macでインフォマティクス](https://kazumaxneo.hatenablog.com/entry/2026/05/15/143854) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-17 [筋が悪そうに見える方針に口を出す - Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2026/05/16/092704) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン - Qiita](https://qiita.com/ennagara128/items/aeaee3e64e75076503fe) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [エンタメ情報誌「ぴあ」復活！　創業者「矢内廣社長」インタビュー　AI時代にあえて“紙の雑誌”をパラパラとめくって探す「偶然の出会い」の魅力 \| デイリー新潮](https://www.dailyshincho.jp/article/2026/05170805/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [無料でウェブサイトの変化を自動チェックし通知で教えてくれるセルフホスト可能な監視ツール「changedetection.io」はどんなツールなのかレビュー](https://gigazine.net/news/20260517-changedetection-io/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [社内にLiteLLM Proxy（OSS版）を導入してマルチプロバイダLLM運用基盤を作った話 - Hatena Developer Blog](https://developer.hatenastaff.com/entry/2026/05/14/173453) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [Claude Code を大規模コードベースで使うベストプラクティス - izanami](https://izanami.dev/post/af045ef8-eff9-4317-b05a-abce17e14f55) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [AI使い脆弱性点検、システム提供元に要請　国の「ミュトス」対応案 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA170RS0X10C26A5000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [Microsoft Entra の登録キャンペーンを理解する ～パスキー導入に向けた挙動と展開のポイント～ - Qiita](https://qiita.com/carol0226/items/4ad04ffe2141f43ad6a1) *(はてなブックマーク – IT 人気エントリ)*
