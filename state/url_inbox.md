@@ -74205,3 +74205,45 @@
 - [ ] 2026-05-17 [生成AI時代の暗黙知を問い直す - 暗黙知の再定義と新たに発生するタスク](https://zenn.dev/takunisf/articles/2e5fe6fbb198e7) *(Zenn – トピック AI)*
 - [ ] 2026-05-16 [中小企業のDX支援で最初に自動化すべき3つの業務](https://zenn.dev/joinclass/articles/dx-3-20260515220005-2181) *(Zenn – トピック AI)*
 - [ ] 2026-05-16 [AIで紐解くAI-DLC：Component の読み解き方](https://zenn.dev/takeshishimada/articles/f77077bfe01fcf) *(Zenn – トピック AI)*
+
+## Collected on 2026-05-17T12:46:02.722Z
+- [ ] 2026-05-17 [‘Nobody’s negotiating for the people here’: comedian Charlie Berens takes on AI datacenters](https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-17 [Being a Crappy Boss to AI Chatbots Pushes Them Toward Spouting Marxist Rhetoric and Organizing With Their Compatriots, Researchers Find](https://futurism.com/artificial-intelligence/crappy-boss-ai-marxist) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-17 [China’s Energy Boom Could Give It the AI Edge](https://www.bloomberg.com/news/videos/2026-05-17/china-s-energy-boom-could-give-it-the-ai-edge-video) *(Bloomberg Technology)*
+- [ ] 2026-05-17 [“AI堕ち”とボコボコに叩かれたイラストレーター「七瀬葵」…それでも「コミケから生成AIの創作物を排除しちゃダメ」と語る理由（デイリー新潮） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/b2dff02a96014664f86ce66ffaefc5cbaf6675b4) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-17 [“コミケの女帝”と呼ばれたイラストレーター「七瀬葵」が語り明かす…90年代コミックマーケット「伝説」と「騒動」の真相 \| デイリー新潮](https://www.dailyshincho.jp/article/2026/05171100/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-17 [Claude Code / Codex / Kiro に AWS 権限を 渡すとき、何を設計すべきか](https://speakerdeck.com/k_adachi_01/kiro-ni-aws-quan-xian-wo-du-sutoki-he-woshe-ji-subekika) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-17 [データエンジニア向け Mermaid データモデル図 記法ガイド](https://zenn.dev/yuichi_dev/articles/217f4d3165d59f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [AI時代のコンピューター技術書 - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2026/05/17/170605) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [GitHub - ip-arch/NESLab: Educational materials for Embedded systems with NES](https://github.com/ip-arch/NESLab) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [「GitHubから離れる」—オランダ政府と個人開発者が同時にForgejoを選んだ理由](https://techfeed.io/entries/6a04e692b77ff536fc1f90d6) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [Windows has a better Notepad hiding on the Microsoft Store — and it's free](https://www.makeuseof.com/windows-has-better-notepad-hiding-on-microsoft-store-its-free/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [データセンターの雄叫び](https://zenn.dev/tokium_dev/articles/shouting-in-the-datacenter) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [【TypeScript】値・型・名前空間の「三重定義」でReactコンポーネントをより柔軟に設計する](https://zenn.dev/bmth/articles/ts-companion-object) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [ハーネスエンジニアリングとは一体何なのか。](https://newspicks.com/news/16607103/body/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [【Claude Code VS Codex】同じSkillsでオセロ対戦させたら、56-8で○○が完敗した話](https://zenn.dev/acntechjp/articles/cc97075e985938) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [データ分析は自動化できる。でも本体はチャットUIではなくメタデータだった - 今日もデータで飯を食う。](https://datamesi.hatenablog.com/entry/data-agents-need-context) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-17 [Snowflake AI_COMPLETE 関数で動画と音声を直接分析](https://zenn.dev/snowflakejp/articles/794ce748589765) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [OpenAIはどうやって低遅延ボイスAIをスケールさせているのか](https://zenn.dev/aienthusiast/articles/article-20260515-090000) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [Kagentでコンテキストエンジニアリングを導入してみた — トークン消費を16万→8万に削減](https://zenn.dev/ukrocksre/articles/kagent-context-engineering) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [ひと月で ADR を 40 本近く書いたら何が変わったか — Claude Code 規範運用 1 ヶ月の失敗録](https://zenn.dev/karasuda_lab/articles/71dca437c7a153) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [ChatGPT・Claude・Gemini・Grokを4つ同時に動かして、意見が割れた箇所だけハイライするツールを作った（MultipleC](https://zenn.dev/mellisaoez/articles/ff450d230b8260) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [KG×LLMを本番に入れて気づいた評価・更新の現実 エンタープライズ運用5つの落とし穴](https://zenn.dev/kenimo49/articles/enterprise-kg-operation-5-pitfalls) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [LLMは発散させ、人間は収束させる — LLMはアイデアを思い付けない](https://zenn.dev/n314/articles/f73eddf02c28cb) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [Adaptive Survivable Verification System (ASVS) に基づく技術監査フレームワーク](https://zenn.dev/kafka2306/articles/5c3c93f798da3f) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [視覚化された哲学者の思考から問いに繋げるアプリを作ってみた](https://zenn.dev/mizunadad/articles/e36ba96c1e1ecc) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [26Mパラメータが巨人を超える日——AIの「蒸留革命」が開発を民主化する](https://zenn.dev/lingmu/articles/2026-05-16-model-distillation-agentic-era) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [ソクラテスRAGでシラバスを作る ── 喋ってたら学習計画ができてた話](https://zenn.dev/mizunadad/articles/c3532c6e5f053b) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [OpenRouterドキュメントに書いていないこと](https://zenn.dev/ren255/articles/56d32713c80eb7) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [Raspberry Pi 5 + M.2 HAT + LLM8850 で NPU を使おうとして DKMS ビルドに阻まれた話](https://zenn.dev/koounosuke/articles/45a24758b6feb8) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [生成速度2倍は本当か？Qwen3.6のMTPを試す](https://zenn.dev/craftgear/articles/982acf1805e9c5) *(Zenn – トピック LLM)*
+- [ ] 2026-05-17 [最初は「上手い下手」を判定したかった](https://zenn.dev/rifflog/articles/c0e9c42a1b3806) *(Zenn – トピック AI)*
+- [ ] 2026-05-17 [Google MapsのAsk Mapsから着想して、CodexでAI経路提案デモを作ってみた](https://zenn.dev/highthreee/articles/08b5d2f7be3a19) *(Zenn – トピック AI)*
+- [ ] 2026-05-17 [AIゴールドラッシュで生まれる「持てる者」と「持たざる者」の格差](https://zenn.dev/quotidia/articles/a744580ba1ee92) *(Zenn – トピック AI)*
+- [ ] 2026-05-17 [コード読解の認知負荷を減らすための Skill + Neovim プラグインを作った](https://zenn.dev/pnd/articles/walkthrough-skill) *(Zenn – トピック AI)*
+- [ ] 2026-05-17 [3つの内部構造量から量子・古典・重力を統合する最小構造モデル](https://zenn.dev/ab_ab/articles/7b167be61f6f4a) *(Zenn – トピック AI)*
+- [ ] 2026-05-17 [AI を使ってテスト設計をしてみる〜 Part1](https://zenn.dev/cazzenn/articles/0e67c56d0e5527) *(Zenn – トピック AI)*
+- [ ] 2026-05-17 [AIでアプリが作れる時代に、我々は何を作るのか — そして私は避難所管理アプリを作ってみた](https://zenn.dev/ttsuchiya/articles/what-to-build-in-ai-era) *(Zenn – トピック AI)*
+- [ ] 2026-05-17 [AI Skillについて](https://zenn.dev/dvdandbluray/articles/1224708c605a7d) *(Zenn – トピック AI)*
+- [ ] 2026-05-17 [表形式データ合成と拡張の基礎知識](https://zenn.dev/haruto_big6/articles/2fb7e7c25153c2) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-17 [Logistic タイプの無限潜在特徴モデル pg_ilfm を公開しました](https://zenn.dev/momen8/articles/0ec0ea2d60c106) *(Zenn – トピック 機械学習)*
