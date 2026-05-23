@@ -78710,3 +78710,35 @@
 - [ ] 2026-05-22 [「glacier-alpha」って結局なんなんですか、という話。](https://zenn.dev/tadayuu/articles/7612983470e8a6) *(Zenn – トピック AI)*
 - [ ] 2026-05-22 [表形式データ拡張手法：SMOTE-NC](https://zenn.dev/haruto_big6/articles/ced3ff19f71e8a) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-22 [MLIR 入門 — AI推論最適化の仕組みを低レベルから理解する（vec_add Lowering 体験）](https://zenn.dev/ux_xu/articles/mlir-intro-vec-add-lowering) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-05-23T01:45:43.951Z
+- [ ] 2026-05-22 [Starbucks Scraps Disastrous AI Tool](https://futurism.com/artificial-intelligence/starbucks-scraps-disastrous-ai-tool) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-22 [Southwest Bans Humanoid Robots After Viral Passenger Flights](https://www.techrepublic.com/article/news-southwest-bans-humanoid-robots-flights/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-22 [Anthropic Reportedly Reaches Profitability as Claude Wins Over Businesses](https://www.techrepublic.com/article/news-anthropic-first-profitable-quarter-enterprise-ai/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-22 [10 Gemini Tricks to Try in Google Docs](https://www.techrepublic.com/article/news-how-to-use-gemini-google-docs/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-22 [AI Overhauls, IPOs, and Cyberthreats Define This Week in Tech](https://www.techrepublic.com/article/ai-overhauls-ipos-and-cyberthreats-define-this-week-in-tech/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-23 [SpaceX Starship Successfully Lifts Off and Returns to Earth](https://www.bloomberg.com/news/videos/2026-05-23/spacex-starship-successfully-lifts-off-returns-to-earth-video) *(Bloomberg Technology)*
+- [ ] 2026-05-22 [SpaceX Starship Rocket Takes Off From Texas](https://www.bloomberg.com/news/videos/2026-05-22/spacex-starship-rocket-takes-off-from-texas-video) *(Bloomberg Technology)*
+- [ ] 2026-05-22 [S&P 500 Set for Longest Weekly Rally Since 2023 \| The Close 5/22/2026](https://www.bloomberg.com/news/videos/2026-05-22/the-close-5-22-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-05-22 [SpaceX Starship Lifts Off in High-Stakes Test](https://www.bloomberg.com/news/videos/2026-05-22/spacex-starship-lifts-off-in-high-stakes-test-video) *(Bloomberg Technology)*
+- [ ] 2026-05-22 [Zoom’s Anthropic Investment Has Netted the Company $1 Billion](https://www.bloomberg.com/news/articles/2026-05-22/zoom-s-anthropic-investment-has-netted-the-company-1-billion) *(Bloomberg Technology)*
+- [ ] 2026-05-22 [Governance Concerns Over SpaceX IPO & the Upside of Financing AI](https://www.bloomberg.com/news/videos/2026-05-22/nyc-comptroller-on-governance-concerns-over-spacex-ipo-video) *(Bloomberg Technology)*
+- [ ] 2026-05-22 [Stellantis, Qualcomm Expand Partnership for Vehicle Tech](https://www.bloomberg.com/news/videos/2026-05-22/stellantis-qualcomm-expand-partnership-for-vehicle-tech-video) *(Bloomberg Technology)*
+- [ ] 2026-05-22 [US Weighs Chip Tariffs to Spur Domestic Growth, Trade Chief Says](https://www.bloomberg.com/news/articles/2026-05-22/us-weighs-chip-tariffs-to-spur-domestic-growth-trade-chief-says) *(Bloomberg Technology)*
+- [ ] 2026-05-22 [Bezos’ Blue Origin Plans $600 Million Expansion in Florida](https://www.bloomberg.com/news/articles/2026-05-22/bezos-blue-origin-plans-600-million-expansion-in-florida) *(Bloomberg Technology)*
+- [ ] 2026-05-22 [AI’s Expanding Market Grip Traps Active Managers on Wall Street](https://www.bloomberg.com/news/articles/2026-05-22/ai-s-expanding-market-grip-traps-active-managers-on-wall-street) *(Bloomberg Technology)*
+- [ ] 2026-05-22 [Anthropic to Close Over $30 Billion Round as Soon as Next Week](https://www.bloomberg.com/news/articles/2026-05-22/anthropic-to-close-over-30-billion-round-as-soon-as-next-week) *(Bloomberg Technology)*
+- [ ] 2026-05-22 [Google is currently struggling to define words like disregard, stop and ignore](https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/) *(Engadget)*
+- [ ] 2026-05-22 [How Virgin Atlantic ships faster with Codex](https://openai.com/index/virgin-atlantic) *(OpenAI News)*
+- [ ] 2026-05-23 [Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models](https://huggingface.co/blog/nvidia/nemotron-labs-diffusion) *(Hugging Face Blog)*
+- [ ] 2026-05-23 [津田健次郎さんの「低音ボイス」生成ＡＩで模倣、動画削除求めティックトック提訴…声無断利用で初の訴訟か](https://www.yomiuri.co.jp/national/20260522-GYT1T00290/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-23 [AIエージェントがChromeを操作するデバッグツール「Chrome DevTools for agents」が安定版として提供開始／ユーザー操作の再現、Webサイトの品質評価、拡張機能の開発などに](https://forest.watch.impress.co.jp/docs/news/2110721.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-23 [月額780円→0円！グーグル、月額2900円のAIプランで「YouTube Premium Lite」を無料に](https://ascii.jp/elem/000/004/403/4403860/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-23 [テレ朝、鈴木紗理奈事務所と「誠意をもってやりとり」明かす　あのちゃんが番組で「嫌い」名指し放送、「配慮が足りず」](https://www.j-cast.com/2026/05/22514970.html?p=all) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-23 [OSSサプライチェーン汚染の連鎖：今起きている異変 \| LAC WATCH](https://www.lac.co.jp/lacwatch/alert/20260522_004729.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-23 [エージェント向けの Chrome DevTools  \|  Chrome for Developers](https://developer.chrome.com/docs/devtools/agents?hl=ja) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-23 [GitHub - domcyrus/rustnet: Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.](https://github.com/domcyrus/rustnet) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-23 [Googleが処理しているトークン量は月間3200兆、1年間で7倍に増大](https://gigazine.net/news/20260520-google-monthly-tokens-processed/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-23 [リリースされたばかりの「Firefox 151」に不具合、Intel Raptor Lake環境でクラッシュ／修正版のv151.0.1が公開](https://forest.watch.impress.co.jp/docs/news/2110903.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-23 [[三井公一の「スマホカメラでブラブラ」] 街で何度も声をかけられた──Nothing Phone (4a) Proで撮り歩いて分かったこと](https://k-tai.watch.impress.co.jp/docs/column/mitsui/2109837.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-23 [ChatGPTでPowerPointを自動操作してスライドを作れる「ChatGPT for PowerPoint」が登場](https://gigazine.net/news/20260522-chatgpt-for-powerpoint/) *(はてなブックマーク – IT 人気エントリ)*
