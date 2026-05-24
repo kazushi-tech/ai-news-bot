@@ -78851,3 +78851,18 @@
 - [ ] 2026-05-23 [multiCLI-discord-bridgeができるまで](https://zenn.dev/harunamix/articles/multicli-discord-bridge-story-20260524) *(Zenn – トピック AI)*
 - [ ] 2026-05-23 [表形式データ拡張：SMOTE-N](https://zenn.dev/haruto_big6/articles/bc8912cacd2c44) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-23 [SEブロックとResidual接続を組み合わせたら予想外の結果に【Keras×CIFAR-10実験】](https://zenn.dev/wasurenamemo/articles/a056a3141bd575) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-05-24T12:52:04.975Z
+- [ ] 2026-05-24 [These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin](https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-05-24 [Hackers Find That Inaudible Sounds Hidden in Podcasts or Random Videos Can Hijack Your AI Voice Chatbot](https://futurism.com/artificial-intelligence/hackers-inaudible-recordings-hijack-ai-voice-chatbots) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-24 [人型ロボが「走る・闘う・ダンスする」、Unitree G1を動作デモ展示](https://xtech.nikkei.com/atcl/nxt/column/18/03585/052000008/) *(日経クロステック IT)*
+- [ ] 2026-05-24 [ダイナミックオントロジー、データに意味を与えて柔軟に結び付ける](https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/051100315/) *(日経クロステック IT)*
+- [ ] 2026-05-24 [AI需要で急増するデータセンター、気温を「4度上昇」させる可能性 \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/97939) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-24 [Claude Code に質の高いPR書かせる Google Engineering Practices 食わせたスキル - izanami](https://izanami.dev/post/e63c7bfd-cc85-4421-a4e7-776e93fb8720) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-24 [Windowsの標準スクリプト言語であるPowerShellの現状をあらためて紹介する (1/2)](https://ascii.jp/elem/000/004/404/4404554/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-24 [カバンに抱きつく“チラ見”ロボットが世界でヒット　「かわいさ」はなぜ売れるのか](https://www.itmedia.co.jp/business/articles/2605/24/news004.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-24 [DevOps を閉じる ―― オブザーバビリティとは何か](https://zenn.dev/ntk221/articles/ff6f235208cfcd) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-24 [個人開発でシステムを作る場合の注意点その1（HTTP、クッキー、パスワードの管理、XSS、HttpOnle属性、API権限） -Higtyの開発日記-](https://www.higlabo.ai/blog/higty-tech/indie-dev-security-mistakes-1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-24 [Defuddle — Get the main content of any page as Markdown.](https://defuddle.md/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-24 [TSKaigi 2026 発表資料まとめ](https://zenn.dev/yasse/articles/a7240304af804c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-24 [Googleの「Gemini」のスマホアプリに “使用量メーター” が新登場！ どこでチェックできるか手順を解説](https://rocketnews24.com/2026/05/22/2764304/) *(はてなブックマーク – IT 人気エントリ)*
