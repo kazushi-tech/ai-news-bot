@@ -83591,3 +83591,61 @@
 - [ ] 2026-05-29 [Bunのコアを100万行リライト？AI主導でRust移行を果たした大規模リファクタの裏側](https://zenn.dev/you2h/articles/20260516-article-de8f72c7) *(Zenn – トピック AI)*
 - [ ] 2026-05-29 [【全13回】時系列予測の最前線——ARIMAからFoundation Models・LLMまで、実務で「どの手法を選ぶか」を決める](https://zenn.dev/salt2/articles/time-series-prediction-book-intro) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-29 [表形式データ拡張 part12：MWMOTE](https://zenn.dev/haruto_big6/articles/e93d37c8406882) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-05-30T12:55:37.819Z
+- [ ] 2026-05-30 [Americans echo Pope Leo’s concerns about AI: ‘It threatens workers, privacy and human life’](https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-30 [Do You Actually Need to Pay for Transcription Software?](https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-05-28 [Top 5 Prompt Engineering Certifications That Are Worth Taking (2026)](https://www.techrepublic.com/article/top-prompt-engineering-certifications/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-05-30 [AI Dangers Eclipse Nuclear Weapons at Singapore Defense Forum](https://www.bloomberg.com/news/articles/2026-05-30/ai-dangers-eclipse-nuclear-weapons-at-singapore-defense-forum) *(Bloomberg Technology)*
+- [ ] 2026-05-30 [Anthropic Cuts Unauthorized Platform List by Half After Pushback](https://www.bloomberg.com/news/articles/2026-05-30/anthropic-cuts-unauthorized-platform-list-by-half-after-pushback) *(Bloomberg Technology)*
+- [ ] 2026-05-30 [MiniMax Eyes China Listing, Takes on AI Rivals Like DeepSeek](https://www.bloomberg.com/news/articles/2026-05-30/minimax-plans-china-ipo-as-it-eyes-local-rivals-like-deepseek) *(Bloomberg Technology)*
+- [ ] 2026-05-30 [25 African Startups to Watch \| Bloomberg Next Africa](https://www.bloomberg.com/news/videos/2026-05-30/25-african-startups-to-watch-bloomberg-next-africa) *(Bloomberg Technology)*
+- [ ] 2026-05-30 [Meta is reportedly working on an AI pendant and more smart glasses](https://www.engadget.com/2184224/meta-developing-ai-pendant-more-smart-glass-models/) *(Engadget)*
+- [ ] 2026-05-30 [Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more](https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/) *(Engadget)*
+- [ ] 2026-05-30 [Mina the Hollower, a Sims alternative and other new indie games worth checking out](https://www.engadget.com/2183989/mina-the-hollower-a-sims-alternative-and-other-new-indie-games-worth-checking-out/) *(Engadget)*
+- [ ] 2026-05-30 [Meta, other social networks will pay $27 million to settle Kentucky school district lawsuit](https://www.engadget.com/2184229/meta-tiktok-snap-youtube-settle-kentucky-school-social-media-addiction-lawsuit/) *(Engadget)*
+- [ ] 2026-05-30 [AI 時代のソフトウェア設計の学び方](https://speakerdeck.com/masuda220/ai-shi-dai-nosohutoueashe-ji-noxue-bifang) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-30 [AIモデル ミュトス 利用企業 “ゲームチェンジ起こす能力” \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015135931000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-30 [映像に「いつ・誰が・どう編集したか」を刻む技術、NHK技研が開発　来歴情報で“AIフェイク”も判別可能](https://www.itmedia.co.jp/news/articles/2605/30/news025.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-30 [バイブコーダーに辟易の開発者、自らのオープンソースアプリにプロンプトインジェクションを仕込む \| Codebook｜Security News](https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/45828/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-30 [アンソロピック、数週間以内にMythos級の新AIモデルを広く公開へ（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/6a31b1f3af6df64741d05feac870c62913c39bb3) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-30 [トルエン出荷7割減、供給網に機能不全](https://www.logi-today.com/958275) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [仕事以外の鬱の要因について - Blue-Periodさんの日記](https://blue-period.hatenadiary.org/entry/2026/05/30/180818) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [Magic: The Gatheringで Linuxを動かす](https://speakerdeck.com/sbite0138/magic-the-gatheringde-linuxwodong-kasu) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [なぜ今「オントロジー」なのか？PalantirとLLMが変えるデータ活用の常識](https://zenn.dev/channnnsm/articles/035b612ac973ab) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [NVIDIA製Windows向けCPUついに登場か。関連3社が意味深な投稿](https://pc.watch.impress.co.jp/docs/news/2113133.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [TSKaigi 2026 でデコレータの現状について話しました - Object.create(null)](https://susisu.hatenablog.com/entry/2026/05/30/164040) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [欧州発のオープンソース「Euro-Office」は6月公開、米国SaaSを代替](https://japan.zdnet.com/article/35248212/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [TCPの輻輳制御](https://zenn.dev/haan/articles/5da263faf54038) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [Snowflakeとdbtでモデルの依存関係にガバナンスを効かせる - LayerX エンジニアブログ](https://tech.layerx.co.jp/entry/dbt-authorized-models) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [GitHub - fujibee/agmsg](https://github.com/fujibee/agmsg) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [Claude Opus 4.8登場、Claude Codeの「ダイナミックワークフロー」機能もリリース \| gihyo.jp](https://gihyo.jp/article/2026/05/claude-opus-4-8) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [Waymoが第6世代自動運転技術搭載ロボタクシー「Ojai」の一般向けサービス展開を開始](https://gigazine.net/news/20260529-waymo-ojai/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [よりよい方を選ぶ - Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2026/05/30/084618) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選 - Qiita](https://qiita.com/TMiyamoto/items/47a13155032f716a43bd) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [進むAI活用　"実験"から"日常使い"へ ～TBSの試み～ #683](https://www.nhk.or.jp/bunken-blog/100/675644.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [DiffsHub, from Pierre](https://diffshub.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [MLエンジニアのための本質から理解するLLM推論: LLM Inference Benchmarking](https://zenn.dev/kaz20/articles/8034f0587633f3) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [DevRev Knowledge Graphアーキテクチャ解剖：精度・速度・具体性の源泉](https://zenn.dev/knowledge_graph/articles/devrev-kg-architecture-deep-dive) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [RAGマルチエージェント実装ガイド（草案）](https://zenn.dev/dx_junkyard/articles/rag-multiagent-guide-summary) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [【イベントレポート】HUMAN × AI SESSION NAGOYA #1 〜生成AI時代、“ヒト”が“人”であり続けるために〜](https://zenn.dev/taiichiro_y/articles/a4d86ba226c653) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [ファインチューニングの前に、まず汎用AIにつなぐ時代になってきたのか](https://zenn.dev/hknote/articles/add47f1694b1cf) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [Arca の探索グラフ：探索の記録を repo に残すための scaffold](https://zenn.dev/sisiodos/articles/c11580fb40978a) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [LangSmithによるエージェント/RAG評価入門](https://zenn.dev/highthreee/articles/d323f4dcfdc493) *(Zenn – トピック LLM)*
+- [ ] 2026-05-29 [打ちエンジニアリング 軸①〜③（無料公開）— 前提共有・問いの粒度・答えの種類](https://zenn.dev/sidecraft/articles/f0c2c516a67a0d) *(Zenn – トピック LLM)*
+- [ ] 2026-05-29 [# Opus 4.8（Mythos級アライメント）をSonnet 4.6が突っ込んだ日](https://zenn.dev/masato7suzuki/articles/f5029ad84808f4) *(Zenn – トピック LLM)*
+- [ ] 2026-05-29 [DGX Spark + Docker + SGLang + Qwen3.6-35B-A3B-FP8 環境構築](https://zenn.dev/supertaro/articles/571b74acb26724) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [Claude Codeを使う前に知っておきたい、AIコーディングの限界と強み](https://zenn.dev/ryu_takatsukasa/articles/bbf46f211cedc2) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [AIエージェントにAngular→React移行させて気づいたアンチパターン集](https://zenn.dev/raamenwakamatu/articles/angular-react-migration-ai-antipatterns) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [YouCam APIが気になったので調べてみた - ARと生成AIで美容体験を作るとは](https://zenn.dev/long910/articles/2026-05-30-youcam-api-investigation) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [巨大フレームワークをAIと作って気づいた、開発哲学を『明文化』する技術](https://zenn.dev/kent8192/articles/philosophy-driven-development) *(Zenn – トピック AI)*
+- [ ] 2026-05-29 [Claude Opus 4.8を実務で使い倒す：APIから見るコーディング性能の進化](https://zenn.dev/kairosai/articles/6e333e06d0571e) *(Zenn – トピック AI)*
+- [ ] 2026-05-29 [CodexにZenn記事の企画から下書き作成まで任せてみた](https://zenn.dev/miyagawayuu/articles/c061fa1a5df209) *(Zenn – トピック AI)*
+- [ ] 2026-05-29 [ソロ OSS の npm 公開直前: mainnet 実弾 + 5 層脅威モデルを、Claude に CTO レビュアー役で通すまで](https://zenn.dev/k0yote/articles/b908a4ffbb8144) *(Zenn – トピック AI)*
+- [ ] 2026-05-29 [`gemma-skills` へようこそ！](https://zenn.dev/bebechien/articles/a-warm-welcome-to-gemma-skills) *(Zenn – トピック AI)*
+- [ ] 2026-05-29 [DomainBed 論文解説: ドメイン汎化研究における評価設計の問題](https://zenn.dev/mantis_ryuji/articles/d3f865ccb42028) *(Zenn – トピック AI)*
+- [ ] 2026-05-29 [Skillsが「プロジェクト専用」になる問題を3層コンフィグで解消した話](https://zenn.dev/playpark/articles/claude-code-skills-portable-ecosystem) *(Zenn – トピック AI)*
+- [ ] 2026-05-29 [【Agent Hackathon】DNS変更作業をAIエージェントで証跡化する ChangeProof Agent を作った](https://zenn.dev/kaiedakensuke/articles/changeproof-agent-hackathon) *(Zenn – トピック AI)*
+- [ ] 2026-05-29 [ローカルLLM（Qwen3.6 / Gemma4 / DeepSeek V4 Flash）+ Claude ベンチマーク比較](https://zenn.dev/keitayamamoto/articles/4380d3f64c8bf1) *(Zenn – トピック AI)*
+- [ ] 2026-05-29 [Claude「Computer Use」を本番環境で安定稼働させるための実践ガイド](https://zenn.dev/ty2/articles/tweet-claudedevs-2056835339193561170) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [自動運転ミニカーバトル参加体験記](https://zenn.dev/virtualcraft/articles/autonomous-minicar-2025) *(Zenn – トピック 機械学習)*
