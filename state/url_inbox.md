@@ -83649,3 +83649,70 @@
 - [ ] 2026-05-29 [ローカルLLM（Qwen3.6 / Gemma4 / DeepSeek V4 Flash）+ Claude ベンチマーク比較](https://zenn.dev/keitayamamoto/articles/4380d3f64c8bf1) *(Zenn – トピック AI)*
 - [ ] 2026-05-29 [Claude「Computer Use」を本番環境で安定稼働させるための実践ガイド](https://zenn.dev/ty2/articles/tweet-claudedevs-2056835339193561170) *(Zenn – トピック AI)*
 - [ ] 2026-05-30 [自動運転ミニカーバトル参加体験記](https://zenn.dev/virtualcraft/articles/autonomous-minicar-2025) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-05-31T01:58:57.495Z
+- [ ] 2026-05-30 [Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’](https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-30 [An industry targeting Australia’s ageing population is growing, but can AI deliver more humanity in aged care?](https://www.theguardian.com/australia-news/2026/may/31/ai-companion-robots-in-aged-care-australia-ageing-population-humanity) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-05-30 [Woman Alarmed When Her Trusted Therapist Starts Recording Her With AI](https://futurism.com/artificial-intelligence/woman-alarmed-therapist-recording-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-30 [AI Filmmaker Compares His Tech to Something That Gets Worse the More You Think About It](https://futurism.com/artificial-intelligence/ai-filmmaker-normal-analogy-of-all-time) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-30 [Why Is Sam Altman Teaming Up With Jared Leto, a Creep With Extensive Sex Abuse Allegations?](https://futurism.com/artificial-intelligence/sam-altman-jared-leto-sex-abuse-allegations) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-30 [Tech CEOs Have a Problem: Even Their Closest Allies Now See AI as a Sign of Laziness and Dishonesty](https://futurism.com/artificial-intelligence/tech-ceos-problem-ai-laziness) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-30 [Harvard Graduation Speaker Unloads on AI in Profanity-Loaded Tirade, Prompting Cheers From Students: “I’m Here to Tell You the Mission of Your Generation Is to Destroy AI”](https://futurism.com/artificial-intelligence/harvard-graduation-ronny-chieng-ai-tirade) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-05-31 [SpaceX, OpenAI Windfall Fuels Bets on Next-Wave Asian AI Winners](https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners) *(Bloomberg Technology)*
+- [ ] 2026-05-30 [SoftBank Plans Up to €75 Billion Investment in French AI Centers](https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say) *(Bloomberg Technology)*
+- [ ] 2026-05-30 [Legacy Tech Stocks Surge on AI Pivot](https://www.bloomberg.com/news/videos/2026-05-30/legacy-tech-stocks-surge-on-ai-pivot-video) *(Bloomberg Technology)*
+- [ ] 2026-05-30 [Fed’s Williams Quips Economist Jobs Are Safe as AI Shift Unfolds](https://www.bloomberg.com/news/articles/2026-05-30/fed-s-williams-quips-economist-jobs-are-safe-as-ai-shift-unfolds) *(Bloomberg Technology)*
+- [ ] 2026-05-30 [Tech Stars From the 90s Reborn: Nokia, Dell, Cisco Surge on AI](https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally) *(Bloomberg Technology)*
+- [ ] 2026-05-30 [Lamine Yamal shares pictures teasing the new Beats headphones on the way](https://www.engadget.com/2184302/lamine-yamal-shares-pictures-teasing-the-new-beats-headphones-on-the-way/) *(Engadget)*
+- [ ] 2026-05-30 [NASA readies the X-59 for its first supersonic flight, SpaceX's Starship grounded and more science stories](https://www.engadget.com/2184257/nasa-x-59-first-supersonic-flight-spacex-starship-grounded-and-more-science-stories/) *(Engadget)*
+- [ ] 2026-05-30 [5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription](https://www.engadget.com/2183305/fitness-trackers-no-subscription/) *(Engadget)*
+- [ ] 2026-05-30 [MSI's next-gen monitor can switch between three resolutions and refresh rates](https://www.engadget.com/2184290/msi-next-gen-monitor-can-switch-between-three-resolutions-and-refresh-rates/) *(Engadget)*
+- [ ] 2026-05-30 [What to read this weekend: The Dorians and Red Roots](https://www.engadget.com/2184277/what-to-read-this-weekend-the-dorians-nick-cutter-red-roots-image-comics/) *(Engadget)*
+- [ ] 2026-05-30 [日立はAnthropicと組んで何を狙うのか　従業員29万人へのClaude導入で目指す姿](https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html) *(ITmedia AI＋)*
+- [ ] 2026-05-31 [ソフトバンクG、14兆円投じフランスにAIデータセンター　欧州最大規模 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC300E00Q6A530C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-31 [小6の息子殺害で66歳の父親逮捕 “お金がなく将来を悲観” \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015136121000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-31 [“数分でシステムの弱点が…” 検証して分かった最新AIの脅威 \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015133741000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-31 [生成AI時代にこそ効くGo \| Why Go Works in the Age of Generative AI](https://speakerdeck.com/mom0tomo/sheng-cheng-aishi-dai-nikosoxiao-kugo-why-go-works-in-the-age-of-generative-ai) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-31 [MCP is dead \| Quandri Engineering](https://www.quandri.io/engineering-blog/mcp-is-dead) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-31 [日立が「脱・PC購入」　17万台のグループ向けPCを“サブスク”で調達へ](https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news116.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-31 [凄すぎて限定公開だったやつ。Anthropic、Mythos級モデルを一般提供へ](https://ascii.jp/elem/000/004/405/4405531/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-05-31 [全部Terraformで管理してはいけない？「かつての最適解」が生んだ管理の壁と、私たちが引き直した境界線](https://zenn.dev/jinjer_techblog/articles/5812546fb399e7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-31 [この本気なデバイス、超惹かれる！ ロボっぽい見た目で、実戦的。しかもドイツ製 (1/5)](https://ascii.jp/elem/000/004/404/4404569/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-31 [draw.ioのMCPサーバーのかっこいいUXを模倣しようとしたらなかなか複雑だった件 - Qiita](https://qiita.com/moritalous/items/88ed3c88e72eb7b8e870) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-31 [ふつうのFeature Flag実践入門](https://speakerdeck.com/irof/feature-flags-in-practice) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-31 [不変条件と整合性境界—ビジネスが決める設計判断と実現パターン / Invariants and Consistency Boundaries](https://speakerdeck.com/nrslib/invariants-and-consistency-boundaries) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-31 [VS Code 1.122リリース、GitHubサインインなしでBYOKを利用可能に \| gihyo.jp](https://gihyo.jp/article/2026/05/vscode-1.122) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-31 [メモリは16GBで大丈夫？ Copilot+ PCを買う時に注意したいこと](https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2112692.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-31 [田籠聡さん「Ruby Boxを探す旅」 〜RubyKaigi 2026 1日目キーノート \| gihyo.jp](https://gihyo.jp/article/2026/05/rubykaigi-2026-keynote-report-day1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-31 [Xiaomiが異例の早さでハイエンドスマホを投入する理由　今秋に「ワクワクする」機種投入も？](https://www.itmedia.co.jp/mobile/articles/2605/30/news032.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-31 [Windows 11の残念仕様「タスクバー固定」ついに見直し　“品質回帰”は本当か？](https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news021.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-31 [数年前にひたすら鍵を見つけ開けていくタイプの脱出ゲームをしたんだけど、暗証番号に身に覚えがあり、次々と4桁の数字を入力したら、全解除してスタッフを驚かせた話](https://togetter.com/li/2703353) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-31 [「ジェネリクスの話でもしましょうか」 - Laravel Live Japan、ほぼ初の英語登壇と、機材トラブルから始まった日本語の完全アドリブ](https://no-hack-no.life/post/2026-05-30-laravel-live-japan-on-stage/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-30 [ローカルLLMって本当に開発に使える？（６）SFTしてGGUFに変換してOllamaで動かすまで：7つの罠](https://zenn.dev/hakaru/articles/m2lora-sft-gguf-vast) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [LLMエージェントの防御性能ペネトレーションテスト：AIT Firewall v12.0 評価レポート](https://zenn.dev/emilia_lab/articles/ait-firewall-chaos-battle) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [5億ドル請求されないようにOllamaのCloudを使う。](https://zenn.dev/yumayx/articles/c69ac22ce07bea) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [AI は紛らわしい人称の文章を読み解けるか？](https://zenn.dev/nodamushi/articles/6a8dc25980a9fb) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [4文字でLLMを命令したら、命令の意図を超えた判断をした](https://zenn.dev/emilia_lab/articles/toa-llm-as-cpu) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [生成AIをタダで動かす — OllamaでローカルLLM環境を構築してGPU推論するまで](https://zenn.dev/koro_st/articles/3cd9f96766ec7e) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [AIが、開発者に聞く ── R.E.V.I.S. #5 「小さく分けて、何度も考える」](https://zenn.dev/enigma96y/articles/2076483edc2c6f) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [LLM プロンプトと変数の扱い方が変わった — 4 年間の歴史振り返り](https://zenn.dev/yasunami_daichi/articles/llm-reasoning-architectures) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [AIエージェント2台に同じLPを「5プロンプト」だけで作らせ、自己評価を疑った ― バイブコーディング比較ログ](https://zenn.dev/ebe_ryuki/articles/595eabdaee9370) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [AI-native銀行への変革が問う金融エンタープライズのオペレーティングモデル再設計：MUFG×OpenAI実装が示す構造転換](https://zenn.dev/aienthusiast/articles/article-20260530-100000) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [Claude Codeの.claude/の賞味期限がきれてしまう問題を半年運用しながら直し続けた話](https://zenn.dev/rkpg/articles/claude-code-self-improving-skill-loop) *(Zenn – トピック LLM)*
+- [ ] 2026-05-30 [GPT-5.5とClaude Opus 4.7で変わるプロンプト設計: 7要素構造とeffortの実務的な使い分け](https://zenn.dev/totsu_ai_lab/articles/gpt55-claude47-prompt-guide-skill) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [生成AI時代の学習法は「暗記」から「外部記憶の設計」へ変わった](https://zenn.dev/ryu_takatsukasa/articles/1720e16c982407) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [「独り言からナレッジが育つ」デバッグ中の呟きをAmiVoice × ローカルLLMで自動ドキュメント化する魔法の相棒を作った](https://zenn.dev/user_thebigslee/articles/debug_assistant_amivoice) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [初めてCodexを使う人向け：AIコーディングエージェントに安全に実装を頼むコツ](https://zenn.dev/uchida_data_lab/articles/df810bfc7d2101) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [Claude Code の /goal コマンドで AI を自走させる——完了条件を1行書いて放置する新しい開発スタイル](https://zenn.dev/tottoko_hamu/articles/2026-05-25-105253) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [BRANCH LEARNING](https://zenn.dev/mame1231/articles/70f344f3b63a86) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [ChatGPTは優秀すぎるがゆえに知的生産ツールとして失敗している――対話の次が設計されていない](https://zenn.dev/ressenti_man/articles/4e1c162e6850c0) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [AIが奪えない仕事は「物理世界と情報世界の翻訳」だ——ヒューマン・イン・ザ・ループの帯域設計](https://zenn.dev/yoshiki_otagaki/articles/9186c5a2504b8e) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [Opus 4.8 とGPT-5.5 で開発サイクルを1日で回した——AI同士のレビュー応酬と、CIが拾った実バグ](https://zenn.dev/yoshiki_otagaki/articles/c2dfe8efe5c5a3) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [GPT-5.4 miniとGPT-5.4の動的切り替え設計で、画像から音楽フェスのタイムテーブル生成を高速化・高精度化した話](https://zenn.dev/yyoshidaweb/articles/dfe401597960bf) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [AI疲れが加速するので、Claude CodeのRemote Controlを使うのをやめた](https://zenn.dev/karamage/articles/c82e2cb142701a) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [【AI遍歴】ChatGPT→Gemini→Claude。AI主軸を3回乗り換えた個人開発記録](https://zenn.dev/shomitei/articles/alumni-spa-02-ai-history) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [Obsidian × arscontexta — 育つ知識システムを Claude Code で自動化する](https://zenn.dev/miyaken0805/articles/dae6219165e858) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [高齢者用AIチャットアプリlifebotの明美さんが引退する話](https://zenn.dev/cage_hirose/articles/e5e9cc5a3013a3) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [シーダンス 2 完全ガイド：ByteDanceのAI動画生成モデルを使ってみた](https://zenn.dev/ohan/articles/cc01132c157fed) *(Zenn – トピック AI)*
+- [ ] 2026-05-30 [OpenWakeWord が動かなかったので、livekit-wakeword で Custom Wake Word を 40 分で作った](https://zenn.dev/i_ichi/articles/livekit-wakeword-40min) *(Zenn – トピック 機械学習)*
+- [ ] 2026-05-30 [表形式データ拡張 part13：AHC](https://zenn.dev/haruto_big6/articles/c6f0fb56725e0e) *(Zenn – トピック 機械学習)*
