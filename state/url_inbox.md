@@ -84634,3 +84634,70 @@
 - [ ] 2026-06-01 [IDが壊れただけでAIの順位が全部1位になったので、CSV監査ツールをOSS化した](https://zenn.dev/lupy/articles/9f8c22dbd3530b) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-01 [AGIは『幻想』か？Yann LeCunらが放つ新概念『SAI（超人間的適応知能）』を徹底解説](https://zenn.dev/lluminai_tech/articles/d4a4954a8a93f4) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-31 [バックテストを78%削減した — LightGBMサロゲートモデルで仮想通貨Bot候補を事前フィルタリングする実装](https://zenn.dev/ai_jidoka_lab/articles/zenn_surrogate_bt_filter_20260529) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-01T21:17:57.694Z
+- [ ] 2026-06-01 [Can you stop AI datacenters? Comedian Charlie Berens thinks so – Stateside with Kai and Carter](https://www.theguardian.com/us-news/video/2026/jun/01/ai-datacenters-charlie-berens) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-01 [Anthropic Confidentially Files for What Could Be the Largest IPO Ever](https://www.wired.com/story/anthropic-files-s1-ipo-sec/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-01 [Meta’s AI Support Bot Is Giving Hackers Access to Other People’s Instagram Accounts Just by Asking](https://futurism.com/future-society/meta-ai-support-bot-hackers-access-instagram-accounts) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-01 [Anthropic’s IPO Filing and How It Affects Its Responsible AI Stance](https://aibusiness.com/generative-ai/anthropic-s-ipo-filing-how-affects-responsible-ai-stance) *(AI Business)*
+- [ ] 2026-06-01 [Nvidia Taps Unitree for Humanoid Robot Platform](https://aibusiness.com/robotics/nvidia-taps-unitree-humanoid-robot-platform) *(AI Business)*
+- [ ] 2026-06-01 [SoftBank Plans €75B AI Data Center Buildout in France](https://www.techrepublic.com/article/news-softbank-france-ai-data-centers-75b/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-01 [Nvidia, Microsoft Launch RTX Spark PCs for AI Agents](https://www.techrepublic.com/article/news-nvidia-microsoft-launch-rtx-spark-pcs-ai-agents/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-01 [Acer’s New $699 Laptop Is a Budget-Friendly Swing at Apple’s MacBook Neo](https://www.techrepublic.com/article/news-acer-swift-air-14-ai-laptop/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-01 [Major AI Models Consistently Break EU Regulations, Study Shows](https://www.techrepublic.com/article/ai-models-break-eu-regulations-study-shows/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-01 [Google Eases Gemini Usage Limits After Complaints](https://www.techrepublic.com/article/news-google-gemini-usage-limits-complaints/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-01 [Alphabet to Raise $80 Billion in Equity for AI Spending](https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [HPE Surges After Intense Demand for AI Buoys Sales Forecast](https://www.bloomberg.com/news/articles/2026-06-01/hpe-sees-strong-growth-over-next-18-months-on-server-demand) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Nvidia’s AI Chips Sought by Chinese Labs With Ties to Military](https://www.bloomberg.com/news/articles/2026-06-01/nvidia-s-ai-chips-sought-by-chinese-labs-with-ties-to-military) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Mach Industries Valued at $1.8 Billion in Latest Funding Deal](https://www.bloomberg.com/news/articles/2026-06-01/mach-industries-valued-at-1-8-billion-in-latest-funding-deal) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Vast Space Expands Into Europe With French Astronaut Missions](https://www.bloomberg.com/news/articles/2026-06-01/vast-space-expands-into-europe-with-french-astronaut-missions) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Torrid Rally in Rocket Stocks Falters as SpaceX IPO Nears](https://www.bloomberg.com/news/articles/2026-06-01/torrid-rally-in-rocket-stocks-falters-as-spacex-ipo-draws-close) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Meredith Whitney on Economy, AI, Credit, Housing Markets](https://www.bloomberg.com/news/videos/2026-06-01/meredith-whitney-on-economy-ai-credit-housing-markets-video) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [GoPro Warns of Going-Concern Risk Amid AI-Fueled Memory Crunch](https://www.bloomberg.com/news/articles/2026-06-01/gopro-warns-of-going-concern-risk-amid-ai-fueled-memory-crunch) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [For Goldman’s Top Bankers, It’s All AI Data Centers All the Time](https://www.bloomberg.com/news/articles/2026-06-01/for-goldman-s-top-bankers-it-s-all-ai-data-centers-all-the-time) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Moyo: We Could Be in Early Innings of New World Order](https://www.bloomberg.com/news/videos/2026-06-01/moyo-we-could-be-in-early-innings-of-new-world-order-video) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Anthropic Files Confidentially for IPO in Race With OpenAI](https://www.bloomberg.com/news/videos/2026-06-01/anthropic-files-confidentially-for-ipo-in-race-with-openai) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Apple Readies Feature to Split Bills by Taking Photo of a Receipt](https://www.bloomberg.com/news/articles/2026-06-01/ios-27-watchos-27-apple-cash-feature-to-split-bills-using-receipt-photo) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [How SpaceX's IPO Is Reshaping Wall Street](https://www.bloomberg.com/news/videos/2026-06-01/how-spacex-s-ipo-is-reshaping-wall-street-video) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Luma AI Launches Physical AI Lab](https://www.bloomberg.com/news/videos/2026-06-01/luma-ai-launches-physical-ai-lab-video) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [NYC Tech Week Showcases New York's Tech Playbook](https://www.bloomberg.com/news/videos/2026-06-01/nyc-tech-week-showcases-new-york-s-tech-playbook-video) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Humanoid Hands Are AI’s Real Test](https://www.bloomberg.com/news/videos/2026-06-01/opinion-humanoid-hands-are-ai-s-real-test-video) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Nvidia Gets Into the PC Market With New Chip \| Bloomberg Tech 6/1/2026](https://www.bloomberg.com/news/videos/2026-06-01/bloomberg-tech-6-1-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [True Crime Podcaster Audiochuck Replaces CEO With SoulCycle Head](https://www.bloomberg.com/news/articles/2026-06-01/true-crime-podcaster-audiochuck-replaces-ceo-with-soulcycle-head) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Meta's AI support chatbot made it ridiculously easy for hackers to take over Instagram accounts](https://www.engadget.com/2185225/meta-ai-support-chatbot-made-it-ridiculously-easy-for-hackers-to-take-over-instagram-accounts/) *(Engadget)*
+- [ ] 2026-06-01 [Theos: Cities of Myth is the spiritual successor to the one of the great city builders of the early 2000s](https://www.engadget.com/2185161/theos-cities-of-myth-is-the-spiritual-successor-to-one-of-the-great-city-builders-games/) *(Engadget)*
+- [ ] 2026-06-01 [Randy Pitchford says his friend found an unannounced Pixel Watch 5 in the sea](https://www.engadget.com/2185217/randy-pitchford-says-his-friend-found-an-unannounced-pixel-watch-5-in-the-sea/) *(Engadget)*
+- [ ] 2026-06-01 [A California bill that preserves access to video games achieves its first victory](https://www.engadget.com/2185206/a-california-bill-that-preserves-access-to-video-games-achieves-its-first-victory/) *(Engadget)*
+- [ ] 2026-06-01 [The Streets of Rage movie has new writers and a director](https://www.engadget.com/2185186/streets-of-rage-movie-has-new-writers-and-a-director/) *(Engadget)*
+- [ ] 2026-06-01 [Building the infrastructure for the Intelligence Age in Michigan](https://openai.com/index/stargate-michigan-data-center) *(OpenAI News)*
+- [ ] 2026-06-01 [「米軍パイロット救助で量子センサー使用」の真偽、最新研究で探る](https://xtech.nikkei.com/atcl/nxt/column/18/03098/051100069/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [W＆B Weaveを導入、LLMを評価して可視化する](https://xtech.nikkei.com/atcl/nxt/column/18/03601/042100002/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [薬や健診結果の疑問を「Gemini」に聞く、お金の疑問や節約相談も回答](https://xtech.nikkei.com/atcl/nxt/column/18/03588/041400019/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [千葉興業銀行、対面の本人確認にJPKI利用　顧客の利便性を向上](https://xtech.nikkei.com/atcl/nxt/column/18/00678/052200182/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [メール・SMS・SNSが詐欺の入り口に、フィッシングから投資詐欺まで](https://xtech.nikkei.com/atcl/nxt/column/18/03598/042000002/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [IBM、量子で薬の開発短縮　タンパク質モデル化「検証段階を超えた」](https://xtech.nikkei.com/atcl/nxt/column/18/03556/060100005/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [GMOあおぞらネット銀行が「AI銀行」宣言　3領域で推進、事業規模倍増狙う](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11780/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [応用広がる「高温超電導体」、Supremaは欧州最大規模の製造工場の建設へ](https://xtech.nikkei.com/atcl/nxt/column/18/03088/052900021/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [ユニバーサル ミュージック、顧客情報310万件流出　調査完了も原因示さず](https://xtech.nikkei.com/atcl/nxt/column/18/00598/010900366/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [ビジネス向け「Dell Pro Essential 14」、実用性は高いがキーボードに弱点](https://xtech.nikkei.com/atcl/nxt/column/18/00087/00440/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [AIエージェント13体を操るSansan幹部、実務変える活用のカギ](https://xtech.nikkei.com/atcl/nxt/column/18/00138/052802030/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [AIデータセンター投資は既に破綻しているのか](https://eetimes.itmedia.co.jp/ee/articles/2606/01/news014.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [NVIDIAが新型プロセッサ「RTX Spark」でWindows PCに“再挑戦”　搭載PCは2026年秋に登場](https://www.itmedia.co.jp/pcuser/articles/2606/01/news125.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [ベンキュー、集中力を切らさないプログラミング専用27型モニター](https://pc.watch.impress.co.jp/docs/news/2113051.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [Poisoning Claude Code: One GitHub Issue to Break the Supply Chain](https://flatt.tech/research/posts/poisoning-claude-code-one-github-issue-to-break-the-supply-chain/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [AIになりたい・背景をぼかして実在しない漢字のTシャツを着ればAI生成のような写真になるはず](https://dailyportalz.jp/kiji/i-want-to-be-an-ai/page/2) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】 - Qiita](https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [生成AI時代に問われるのは「評価する力」である](https://zenn.dev/shotakikuchi/articles/ai-evaluation-in-generative-ai-era) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [RAGは検索して終わりではない：TiDB Cloudで作る監査可能なAIメモリ基盤](https://zenn.dev/tomyuk/articles/29956f1aebc719) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [コードを書けない私がClaude Codeで「AIチーム」と書き続けるまで](https://zenn.dev/tottoko_hamu/books/writing-with-ai-team-without-code) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [ASX駆動開発（アスクス）：エージェントに「何があればできる？」と聞く](https://zenn.dev/toshiz_t/articles/452cf43b0750b8) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [オフィス勤務への回帰、雑談力を鍛えなきゃ！ というわけで、AIがあなたの雑談力をコーチします。VR対応！](https://zenn.dev/catkawaii/articles/6f4f5cfd62dc87) *(Zenn – トピック AI)*
+- [ ] 2026-06-01 [AI時代の生産性は「平価トークンあたり貢献」で測られるかもしれない](https://zenn.dev/cherie0915/articles/contribution-per-parity-token) *(Zenn – トピック AI)*
+- [ ] 2026-06-01 [AIコードレビューの効果を5つのメトリクスで計測する話 (GitHub API)](https://zenn.dev/kenimo49/articles/review-metrics-5-signals-github-api) *(Zenn – トピック AI)*
+- [ ] 2026-06-01 [ClaudeCodeの仕様駆動開発のdocsフォルダ構成のベストプラクティスの模索](https://zenn.dev/mukuil_blog/articles/1796a8b0f3cd48) *(Zenn – トピック AI)*
+- [ ] 2026-06-01 [「とりあえずAI入れる」時代の終わり——次の勝負はデータ基盤で決まる](https://zenn.dev/shintaroamaike/articles/72c12510a712f0) *(Zenn – トピック AI)*
+- [ ] 2026-06-01 [建設現場の図面と写真をつなぐ、品質確認付きAIエージェントを作ってみた【Microsoft Agent Hackathon】](https://zenn.dev/shuichiro_n/articles/378f5c356972f6) *(Zenn – トピック AI)*
+- [ ] 2026-06-01 [How I Turn a Rough Idea Into a Video Using Gemini Omni](https://zenn.dev/emilyjones/articles/6eb54389f534a1) *(Zenn – トピック AI)*
+- [ ] 2026-06-01 [PdMの脳みそをClaude Codeに移植した仕組み](https://zenn.dev/tokium_dev/articles/pdm-brain-on-claude-code) *(Zenn – トピック AI)*
+- [ ] 2026-06-01 [AIエージェントにウォレットを持たせるための実行レイヤー「Kova」を作った](https://zenn.dev/komlock_lab/articles/kova-agent-wallet-2026) *(Zenn – トピック AI)*
+- [ ] 2026-06-01 [AIブログの再現性はカーネルに預けろ](https://zenn.dev/generald/articles/ai-blog-repro-kernel-sandbox) *(Zenn – トピック AI)*
