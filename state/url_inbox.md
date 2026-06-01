@@ -83810,3 +83810,64 @@
 - [ ] 2026-05-31 [表形式データ拡張 part14：RWO-Sampling](https://zenn.dev/haruto_big6/articles/cce507a5c76957) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-31 [AIボイスカバーを「コード」で作る — Demucs + RVC + Optuna で音楽知識ゼロから挑んだ音声変換パイプライン](https://zenn.dev/shinok/articles/ai-voice-cover-rvc-demucs-optuna) *(Zenn – トピック 機械学習)*
 - [ ] 2026-05-30 [工場データの文脈はAIに渡せない——製造エンジニアがClaudeと組んでMLコンペで同期20人中1位になった理由](https://zenn.dev/factory_dx_eng/articles/claude-data-comp-winner) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-01T02:07:23.401Z
+- [ ] 2026-06-01 [China’s Private Factory Activity Gauge Slows as Economy Softens](https://www.bloomberg.com/news/articles/2026-06-01/china-s-private-factory-activity-gauge-slows-as-economy-softens) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Gen-Z Gamer’s 3D-Model Startup Becomes China’s Latest AI Unicorn](https://www.bloomberg.com/news/articles/2026-06-01/gen-z-gamer-s-3d-model-startup-becomes-china-s-latest-ai-unicorn) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [<em>Backrooms</em>, <em>Obsession </em>Usher in the Era of the YouTube Filmmaker](https://www.bloomberg.com/news/newsletters/2026-06-01/backrooms-obsession-usher-in-the-era-of-the-youtube-filmmaker) *(Bloomberg Technology)*
+- [ ] 2026-05-31 [TSMC’s Local Investors Narrow Valuation Gap With Wall Street](https://www.bloomberg.com/news/articles/2026-05-31/tsmc-s-local-investors-narrow-valuation-gap-with-wall-street) *(Bloomberg Technology)*
+- [ ] 2026-05-31 [Dell Rivals Apple’s MacBook Neo With $699 Touch-Screen XPS 13 Laptop](https://www.bloomberg.com/news/articles/2026-05-31/dell-challenges-apple-s-macbook-neo-with-699-touch-screen-xps-13-laptop) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [AMD unveils the $329 Ryzen 7 7700X3D, brings back the 5800X3D for $349](https://www.engadget.com/2183930/amd-unveils-the-dollar329-ryzen-7-7700x3d-brings-back-the-5800x3d-for-dollar349/) *(Engadget)*
+- [ ] 2026-06-01 [AMD's Radeon RX 9070 GRE graphics card is now available to purchase](https://www.engadget.com/2183855/amds-radeon-rx-9070-gre-graphics-card-is-now-available-to-purchase/) *(Engadget)*
+- [ ] 2026-05-31 [Nintendo's Pictonico! is a chaotic and unexpectedly good time](https://www.engadget.com/2184480/nintendo-pictonico-is-a-chaotic-and-unexpectedly-good-time/) *(Engadget)*
+- [ ] 2026-05-31 [The new XPS 13 is Dell's answer to the MacBook Neo](https://www.engadget.com/2184021/the-new-xps-13-is-dell-s-answer-to-the-macbook-neo/) *(Engadget)*
+- [ ] 2026-06-01 [IPアドレスを理解する（後編）](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/071500225/051800011/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [QoS](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900172/051800033/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [5G SAって何？](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800014/051800108/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [AI疲れに効くFirefoxの「AI controls」、余計なお世話を止める](https://xtech.nikkei.com/atcl/nxt/column/18/01679/040600278/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [35年ぶりの基幹刷新でデータを整備、青山商事は機動的なSCM実現へ](https://xtech.nikkei.com/atcl/nxt/column/18/01159/052200082/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [ファミマと楽天がポイント還元で連携、踏み込んだ取り組みにつながるか](https://xtech.nikkei.com/atcl/nxt/column/18/00086/00406/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [LLM特有の課題に対応、W＆B Weaveの主な機能を押さえる](https://xtech.nikkei.com/atcl/nxt/column/18/03601/042100001/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [大容量＆激安のSSDもAIなら偽物を看破](https://xtech.nikkei.com/atcl/nxt/column/18/03588/041400018/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [AI時代でもSIerは人月商売、老朽システムで「浦島太郎」となる技術者の悲惨](https://xtech.nikkei.com/atcl/nxt/column/18/00148/052100437/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [富士通、2035年度に「ご用聞き」の従来型ITビジネス「ゼロ」も視野](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11779/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [「AIファースト企業」を目指す関西電力、発電所やオフィスでのDX事例を解説](https://xtech.nikkei.com/atcl/nxt/column/18/03585/052800011/) *(日経クロステック IT)*
+- [ ] 2026-06-01 [図面SaaSに高精度な3Dモデル生成とアセンブリ機能、CAE機能のβ版を追加](https://monoist.itmedia.co.jp/mn/articles/2606/01/news013.html) *(ITmedia AI＋)*
+- [ ] 2026-05-31 [富士通が認めた「人月モデル」の限界　時田社長「労働集約型SIモデルからの転換を」](https://www.itmedia.co.jp/business/articles/2606/01/news040.html) *(ITmedia AI＋)*
+- [ ] 2026-05-31 [「ハーネス」って結局、何？　みんな使い方が違うAIエージェント用語をHugging Faceが整理](https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news016.html) *(ITmedia AI＋)*
+- [ ] 2026-05-31 [「FDE」って結局、客先常駐SEのリブランディングじゃないの？　アクセンチュアに聞いてみた](https://www.itmedia.co.jp/aiplus/article/2606/01/2000000039/) *(ITmedia AI＋)*
+- [ ] 2026-06-01 [相互増幅 ― AIに考えを明け渡さないための較正 - Nothing ventured, nothing gained.](https://takoratta.hatenablog.com/entry/2026/06/01/084614) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-01 [“OpenAI超え”したアンソロピック　その成功と課題【西田宗千佳のイマトミライ】](https://www.watch.impress.co.jp/docs/series/nishida/2113178.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-01 [エリン・ブロコビッチ氏、AIデータセンター建設の「透明性欠如」を批判　住民報告マップも公開](https://www.itmedia.co.jp/news/articles/2606/01/news054.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-01 [私はAI動画に逃げたのかもしれない｜ゾナゾー｜AI動画クリエイター](https://note.com/zonazoo/n/n1bd4a23caadc) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-01 [若い女の子の漫画を全ておじさんに変換するAIがほしい](https://anond.hatelabo.jp/20260531120158) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-01 [Claude Codeをはじめて触るエンジニアのためのざっくり入門](https://zenn.dev/stafes_blog/articles/nano72mkn-claude-code-intro) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-01 [マジで便利な折りたたみキーボード、安い、軽い、なのにタッチパッド搭載？本当に？ (1/5)](https://ascii.jp/elem/000/004/404/4404595/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [VR上でも“触感”を再現　光で硬さを自在に変えられる新素材、「NHK技研公開」で展示中](https://www.itmedia.co.jp/news/articles/2605/30/news029.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [【エンジニアの日常】エンジニア達の人生を変えた一冊 Part7 - Findy Tech Blog](https://tech.findy.co.jp/entry/2026/06/01/070000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [変化に強いテストを育てるSpringBootのレイヤー設計 \| ドクセル](https://www.docswell.com/s/tmiya-tech/53JENE-2026-05-30-095125) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [脱・クラウドAIで情報漏洩を防ぐ。AMD Ryzen/Radeonで構築する「月額0円」のAIサーバー [Sponsored]](https://pc.watch.impress.co.jp/docs/topic/special/2109524.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [Amazon S3 Tablesでつくるアプリケーションログ分析基盤 - CloudWatch Logsからの移行によるコスト最適化 - - カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/entry/2026/06/01/log-storage-with-iceberg) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場](https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [Claudeと一緒に記事を読むようにしたら日々のインプットがはかどっています](https://zenn.dev/levtech/articles/claude-read-together) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [自動運転車の「Waymo」が道路の穴を検知する計画を開始](https://gigazine.net/news/20260531-waymo-help-identify-potholes/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [無料でiPhone・iPad内で動くターミナルアプリ「a-Shell」を使ってみた、Pythonやyt-dlpなどのCLIツールを実行できてショートカット連携も可能](https://gigazine.net/news/20260601-a-shell/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [macOS 28で動作しなくなるIntelアプリやコンポーネントをMac内から検出してくれる「‎Rosetta Check」が日本語にローカライズ。](https://applech2.com/archives/20260531-rosetta-check-localization-japanese.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [Microsoft、事前共有なしのゼロデイ脆弱性公表を批判　バグハンターと対立](https://www.itmedia.co.jp/news/articles/2605/29/news123.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [Cursor: GPT 5.5 が優秀でコスパ最強](https://zenn.dev/hidenori3/articles/cba47a06140440) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [銀座線渋谷駅上に120m「スカイウェイ」、JR線もまたぐ歩行者ネットワーク完成へ](https://xtech.nikkei.com/atcl/nxt/column/18/00110/00483/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [5万円以下、あとは謎。Snapdragon C搭載のAcer製ノートが公開中](https://pc.watch.impress.co.jp/docs/news/event/2113148.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-01 [（AI作成）「システム崩壊」は技術的な杞憂である ——既存戸籍データベースを活かした選択的夫婦別姓の具体的実装論と２０２７年ロードマップ \| 弁護士山中理司のブログ](https://yamanaka-bengoshi.jp/2026/01/13/sentakutekihuuhubesse-koseksystem/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-05-31 [Claudeと対話しながらIT作業手順書プロンプトの標準フォーマットを設計した話](https://zenn.dev/itsdaichi/articles/f2afb9878e04e5) *(Zenn – トピック LLM)*
+- [ ] 2026-05-31 [「自社AIを育てる」前に — ローカルLLM+RAGで検証したら、ファインチューニングは要らなかった](https://zenn.dev/znet/articles/2026-rag-not-finetuning-local-llm) *(Zenn – トピック LLM)*
+- [ ] 2026-05-31 [AIが、開発者に聞く ── R.E.V.I.S. #6 「軽く答え、要る時だけ深く潜る」](https://zenn.dev/enigma96y/articles/968099b9ef9447) *(Zenn – トピック LLM)*
+- [ ] 2026-05-31 [LLMの返信サジェストを「構造化出力なし」で全プロバイダのプロンプトキャッシュに整合させる](https://zenn.dev/zhener/articles/llm-reply-suggestions-without-structured-output) *(Zenn – トピック LLM)*
+- [ ] 2026-05-31 [乗り換え検討用：主要LLM API料金を9社・3階層（フラッグシップ/mini/nano）で比較 2026年5月更新](https://zenn.dev/phpmyadmin/articles/125682833b8cff) *(Zenn – トピック LLM)*
+- [ ] 2026-05-31 [無料 or 無制限のエージェント環境終焉に備え、完全無料のIDEを開発中](https://zenn.dev/volcane/articles/2c374c1ab99909) *(Zenn – トピック LLM)*
+- [ ] 2026-05-31 [AmiVoiceとLLMで音声情報を取得、要約するんじゃ](https://zenn.dev/genai/articles/plactice-amivoice) *(Zenn – トピック LLM)*
+- [ ] 2026-05-31 [AI に Go のコードを読ませる前に RPC の要約を渡す](https://zenn.dev/usuginu/articles/2e601d3c01196c) *(Zenn – トピック LLM)*
+- [ ] 2026-05-31 [画像生成の最適化-異端DSL         Array.Ver.Σシリーズ-資料圧縮・情報統合      感情表現](https://zenn.dev/wd01/articles/e31bff00fb2c08) *(Zenn – トピック AI)*
+- [ ] 2026-05-31 [M365 Copilotなど生成AIを使っても成果が出ない組織に共通する3つの病　その処方箋とは](https://zenn.dev/syoshida07/articles/d779eb8758cef0) *(Zenn – トピック AI)*
+- [ ] 2026-05-31 [AIエージェントにWebコンテンツを読ませるためのプロンプト](https://zenn.dev/nobmake/articles/4958a180f651ca) *(Zenn – トピック AI)*
+- [ ] 2026-05-31 [Meshy AI で作ったぐちゃぐちゃなテクスチャを Blender で直す](https://zenn.dev/lycoris52/articles/63be23cc0bf486) *(Zenn – トピック AI)*
+- [ ] 2026-05-31 [Blender公式MCPサーバーをClaudeに繋いで教室を作る（つまずき全記録）](https://zenn.dev/shintama/articles/blender-official-mcp-claude) *(Zenn – トピック AI)*
