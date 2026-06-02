@@ -84701,3 +84701,58 @@
 - [ ] 2026-06-01 [PdMの脳みそをClaude Codeに移植した仕組み](https://zenn.dev/tokium_dev/articles/pdm-brain-on-claude-code) *(Zenn – トピック AI)*
 - [ ] 2026-06-01 [AIエージェントにウォレットを持たせるための実行レイヤー「Kova」を作った](https://zenn.dev/komlock_lab/articles/kova-agent-wallet-2026) *(Zenn – トピック AI)*
 - [ ] 2026-06-01 [AIブログの再現性はカーネルに預けろ](https://zenn.dev/generald/articles/ai-blog-repro-kernel-sandbox) *(Zenn – トピック AI)*
+
+## Collected on 2026-06-02T02:08:31.972Z
+- [ ] 2026-06-01 [Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account](https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-02 [South Korea Overtakes India as World’s Sixth-Largest Stock Market](https://www.bloomberg.com/news/articles/2026-06-02/s-korea-surpasses-india-as-world-s-sixth-largest-stock-market) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Nvidia's Huang on South Korean Partnerships](https://www.bloomberg.com/news/videos/2026-06-01/nvidia-s-huang-on-south-korean-partnerships-video) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Traders Turn to AI to Crack Secret Formula Behind PBOC’s FX Fix](https://www.bloomberg.com/news/articles/2026-06-01/pboc-currency-policy-guessing-game-is-traders-new-ai-experiment) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Stocks up as Trump Cites Rapid Pace in Iran Talks \| The Close 6/1/2026](https://www.bloomberg.com/news/videos/2026-06-01/the-close-6-1-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Anthropic Pulls Ahead of OpenAI in High-Stakes Race for IPO Riches](https://www.bloomberg.com/news/articles/2026-06-01/anthropic-s-first-mover-ipo-edge-set-to-widen-lead-over-openai) *(Bloomberg Technology)*
+- [ ] 2026-06-01 [Alphabet Will Raise $80 Billion to Fund AI Spending](https://www.bloomberg.com/news/videos/2026-06-01/alphabet-will-raise-80-billion-to-fund-ai-spending-video) *(Bloomberg Technology)*
+- [ ] 2026-06-02 [ASUS's ExpertBook B5 Flip G2 is a 2.9 pound 360 touchscreen laptop](https://www.engadget.com/2184801/asuss-expertbook-b5-flip-g2-is-a-29-pound-360-touchscreen-laptop/) *(Engadget)*
+- [ ] 2026-06-02 [AMD Radeon RX 9070 GRE review: A cheaper GPU for a wildly expensive era](https://www.engadget.com/2185302/amd-radeon-rx-9070-gre-review/) *(Engadget)*
+- [ ] 2026-06-01 [Our views on AI policy and political advocacy](https://openai.com/index/our-views-on-ai-policy-and-political-advocacy) *(OpenAI News)*
+- [ ] 2026-06-01 [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws) *(OpenAI News)*
+- [ ] 2026-06-02 [Linuxを狙うマルウエア](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/111900071/051800079/) *(日経クロステック IT)*
+- [ ] 2026-06-02 [多層防御の意味合いがいつの間にか変化していた](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900173/051800033/) *(日経クロステック IT)*
+- [ ] 2026-06-02 [生成AIを「悩み相談」に使う10代女性たち　阿部前監督事件を招いた「AI正論」の波紋](https://www.itmedia.co.jp/news/articles/2606/02/news070.html) *(ITmedia AI＋)*
+- [ ] 2026-06-01 [NVIDIAの“狐”は工場自律管理AIエージェント、台湾メーカーが導入効果を確認](https://monoist.itmedia.co.jp/mn/articles/2606/02/news058.html) *(ITmedia AI＋)*
+- [ ] 2026-06-01 [製造現場の「AIアレルギー」をどう払拭？　日立・新卒デジタル人材「3カ月奮闘記」](https://www.itmedia.co.jp/business/articles/2606/02/news023.html) *(ITmedia AI＋)*
+- [ ] 2026-06-01 [NVIDIAの「NemoClaw」でエッジAIを統合管理、アドバンテックが「WEDA」を発表](https://monoist.itmedia.co.jp/mn/articles/2606/02/news057.html) *(ITmedia AI＋)*
+- [ ] 2026-06-02 [即売会で生成AIのイラストを使った4800円のボドゲを売った人、「生成AIの時点で購入を見送る人の多さ」の見積もりが甘かったと反省→意見、ツッコミさまざま](https://togetter.com/li/2704345) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-02 [米AIアンソロピック、IPO申請と発表　160兆円規模で上場へ - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN01BFE0R00C26A6000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-02 [セキュリティを考慮したClaude Codeの企業運用に正解を出してみる - ノーコードソリューションズ](https://nocode-sol.co.jp/blog/tech/claude-code-enterprise-security-guide/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-02 [「囚人のジレンマそのもの」AIによる合理化を極めるほど、消費者が減って経済が回らなくなる…というアメリカ経済学者の論文が「やっぱりそうなるよね」と納得感がある](https://togetter.com/li/2704185) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-02 [「高校生くらいから機械学習に興味があって」と話すと「その頃はAIなんて言葉もなかったですよね」と言われたことがかなりある→「数年前までAIという言葉がなかった」と思ってる人は結構いる？](https://togetter.com/li/2704187) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-02 [AI時代に本当に価値があるのはプログラミング能力ではなく「業界知識」だという指摘](https://gigazine.net/news/20260601-domain-expertise/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-02 [NotionやGoogle Keepで挫折した人へ。メモアプリの終着点「Obsidian」のはじめ方 \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2605-matome-obsidian/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [問い合わせ調査のリードタイムを平均70%削減 ── Claude Code Skillを"動くマニュアル"にしたZOZOTOWNの取り組み - ZOZO TECH BLOG](https://techblog.zozo.com/entry/cs-inquiry-ai-automation) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [自作データベース入門の入門：好きなプログラミング言語でSQLiteライクなDBを作ろう！](https://zenn.dev/kaseken/articles/49c12113238ec4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [名門カリフォルニア大学で“中学数学を教え直す”異常事態　理工系教員ら1000人超が連名で抗議文書　原因は……](https://www.itmedia.co.jp/news/articles/2606/02/news021.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [「日本は同じ失敗を繰り返している」――人工知能学会会長が語る“NSX”構想とは？ ファウンデーションモデル時代の勝ち筋 \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/06/02/5131.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [Microsoft Office 2019および2021 for Macで編集できなくなる「閲覧専用」への移行が物議を醸しまくり](https://gigazine.net/news/20260601-microsoft-office-2019-2021-for-mac/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [「本当に人間かどうか？」を確認するCloudflare TurnstileでWebGL情報が問題に、フィンガープリント対策で引っかかる環境が続出](https://gigazine.net/news/20260601-cloudflare-turnstile/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [Findy EventsのUIライブラリ選定 ― TamaguiからHeroUI Nativeへ乗り換えた理由と導入プロセス - Findy Tech Blog](https://tech.findy.co.jp/entry/2026/06/02/093000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [NTT東日本、5年でSE応募者数3倍　約2年で担当が替わる部署で、なぜ改革は続いたのか](https://www.itmedia.co.jp/business/articles/2606/02/news013.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [Anthropicの人材採用プロセスはこんな感じ、面接でのAI使用は厳禁](https://gigazine.net/news/20260601-anthropic-recruiting/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [気づく前に直り、直すたびに強くなる ── Self-Healingと再発防止の仕組み（連載Part 4）](https://zenn.dev/aircloset/articles/74c7dfab13cea2) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [PlaywrightのテストをDocker ImageとProjects機能で安定化と高速化 - newmo 技術ブログ](https://tech.newmo.me/entry/playwright-ci-optimization) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [NVIDIAがアメリカ最強オープンモデル「Nemotron 3 Ultra」を発表＆AIサーバー「Vera Rubin」の量産開始を報告](https://gigazine.net/news/20260601-nemotron-3-ultra/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-02 [大量のスキルでAgentの精度を上げる方法](https://zenn.dev/knowledgesense/articles/2cfbefa6926f40) *(Zenn – トピック LLM)*
+- [ ] 2026-06-02 [AIエージェント基盤のアーキテクチャを10層で整理する：OSS/SDK比較のための地図](https://zenn.dev/xtm_blog/articles/agent-harness-layered-map) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [Agentic Engineeringを実務に落とすためのプロンプト設計](https://zenn.dev/nobmake/articles/b0a0eea5202afe) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [エンジニアが「会話の0.2秒を言語学する」を言語学する](https://zenn.dev/iwatsukayura/articles/engineer-linguistics-of-conversation) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [Coding Agentに特化したIDE、「Fusuma」を開発しました](https://zenn.dev/andrew/articles/376ddb3ed9215f) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [アバターとの音声会話アプリの作り方を考えてみた(コード付き)_前編](https://zenn.dev/relims7165/articles/181b7130f95588) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [Living Profileで「今」の準備状況を伝える — 次世代の候補者ファースト採用基盤](https://zenn.dev/saiyouba/articles/70af5595e81bcf) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [ローカルLLMの主役はメモリだった ― RTX Spark(128GB)とDGX Stationを推論の物理から読む](https://zenn.dev/hironakamura_ai/articles/1bf139770b86f3) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [本番AIエンドポイントを推論盗用から守る多層防御とコスト境界の設計](https://zenn.dev/suwash/articles/inference-theft-defense_20260531) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [議事録AIでは、会議は前に進まない。前回→今回→次回をつなぐ Decision Loop を作った](https://zenn.dev/ichigoe/articles/39ed922d19c9bb) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [優秀な社員AIを作ろうとして、薬になるどころか毒になってないか？](https://zenn.dev/continuitymodel/articles/20c38bb805034f) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [Amazon Bedrock 経由で使える LLM の日本語ベンチマーク性能](https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [AIが、開発者に聞く ── R.E.V.I.S. #7 「巨人を動かしたくて」](https://zenn.dev/enigma96y/articles/083e532e8ae23e) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [GRPOはなぜ長時間学習で崩壊するのか――Qwenが出した「系列単位」の答え、GSPO](https://zenn.dev/aiwatch_jp/articles/gspo-qwen-sequence-level-rl) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [AmiVoice APIとLLMで作る声の公開レビューゲート](https://zenn.dev/yushiyamamoto/articles/amivoice-publish-gate) *(Zenn – トピック LLM)*
+- [ ] 2026-06-01 [冷蔵庫前カメラで食材在庫と献立を自律運用する KitchenOps Agent](https://zenn.dev/daibutsuyoyu/articles/9db7624be0fe01) *(Zenn – トピック AI)*
+- [ ] 2026-06-01 [評価を「無くす」エージェント — 何がなぜ変わったかを時系列の因果で辿る](https://zenn.dev/toshikusa/articles/ccbdf2a1aaa79e) *(Zenn – トピック AI)*
