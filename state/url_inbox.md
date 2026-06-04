@@ -87687,3 +87687,60 @@
 - [ ] 2026-06-03 [PR 前後で AI レビューを2段構えにしたら、レビュー待ちが約70%減った話](https://zenn.dev/estie/articles/4f06bde08a90d4) *(Zenn – トピック AI)*
 - [ ] 2026-06-03 [ChatGPTからClaudeに完全移行した理由 — 品質差が収益差になった実例](https://zenn.dev/joinclass/articles/chatgpt-claude-20260602220005-14179) *(Zenn – トピック AI)*
 - [ ] 2026-06-03 [A/Bテストで失敗しない統計設計：p値の罠・サンプルサイズ計算・多重比較を徹底解説](https://zenn.dev/ds_ai_lab/articles/20260604-ab-test-statistics) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-04T14:25:05.139Z
+- [ ] 2026-06-04 [Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’](https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-04 [Alpha School’s Ritzy New York City Campus Costs $65,000 a Year—but Isn’t Actually a School](https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-04 [Quantum Computing Is Having Its Public Market Moment](https://www.wired.com/story/quantum-computing-is-having-its-public-market-moment-quantinuum/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-04 [Eroding a virtue: AI trains people to expect instant answers – and that’s bad news for patience](https://theconversation.com/eroding-a-virtue-ai-trains-people-to-expect-instant-answers-and-thats-bad-news-for-patience-280759) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-04 [What the Agentic Era Means for Data Science](https://www.kdnuggets.com/what-the-agentic-era-means-for-data-science) *(KDnuggets)*
+- [ ] 2026-06-04 [7 Steps to Mastering Time Series Analysis with Python](https://www.kdnuggets.com/7-steps-to-mastering-time-series-analysis-with-python) *(KDnuggets)*
+- [ ] 2026-06-04 [Nasdaq 100 Slides as Broadcom’s Forecast Spooks Traders on AI](https://www.bloomberg.com/news/articles/2026-06-04/nasdaq-100-futures-drop-as-broadcom-forecast-spooks-traders) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Dimon and SpaceX Executives to Pitch IPO to Clients](https://www.bloomberg.com/news/videos/2026-06-04/dimon-and-spacex-executives-to-pitch-ipo-to-clients-video) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Apollo’s Zelter Expects High-Grade Debt Sales to Top US Treasuries](https://www.bloomberg.com/news/videos/2026-06-04/zelter-sees-high-grade-debt-sales-topping-us-treasuries-video) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Whale Rock Talks Up Anthropic’s User Prospects Ahead of IPO](https://www.bloomberg.com/news/articles/2026-06-04/whale-rock-talks-up-anthropic-s-user-prospects-ahead-of-ipo) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [EU Insurance Watchdog Warns on Loan Risks](https://www.bloomberg.com/news/videos/2026-06-04/eiopa-s-petra-hielkema-on-loan-risks-among-insurers-video) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Glazer Family Members Said to Study Manchester United Stake Sale](https://www.bloomberg.com/news/videos/2026-06-04/glazer-family-members-said-to-study-man-u-stake-sale-video) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Absa’s Investors Oppose Plan to Boost Executive Pay](https://www.bloomberg.com/news/articles/2026-06-04/absa-s-top-investors-oppose-bank-s-plan-to-boost-executive-pay) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Ares' Blair Jacbobson: Disconnect Over Private Credit Headlines](https://www.bloomberg.com/news/videos/2026-06-04/ares-jacbobson-on-private-credit-rates-investors-video) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Schneider Electric Banks on AI Boom to Sell €800 Million Debt](https://www.bloomberg.com/news/articles/2026-06-04/schneider-electric-banks-on-ai-boom-to-sell-800-million-debt) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Zurich Insurance Expands Data-Center Offering Beyond the US](https://www.bloomberg.com/news/articles/2026-06-04/zurich-insurance-expands-data-center-offering-beyond-the-us) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Emerging-Market Stocks Fall as Broadcom Miss Disrupts AI Trade](https://www.bloomberg.com/news/articles/2026-06-04/emerging-market-stocks-fall-as-broadcom-miss-disrupts-ai-trade) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Revolut Co-Founder, CTO Vlad Yatsenko to Step Down From Role](https://www.bloomberg.com/news/articles/2026-06-04/revolut-co-founder-cto-vlad-yatsenko-to-step-down-from-role) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Netflix Top Tech Exec Stone on Integrating AI](https://www.bloomberg.com/news/videos/2026-06-04/netflix-top-tech-exec-stone-on-integrating-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Microsoft’s AI Chief Says Anthropic Models Are Too Expensive](https://www.bloomberg.com/news/newsletters/2026-06-04/microsoft-says-anthropic-models-are-too-expensive) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Ramp Notches $44 Billion Valuation in New Funding Round](https://www.bloomberg.com/news/articles/2026-06-04/ramp-notches-44-billion-valuation-in-new-funding-round) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Polymarket Lets You Bet on Vibes](https://www.bloomberg.com/news/articles/2026-06-04/polymarket-gambles-on-letting-users-bet-on-social-media-clout) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [China’s Robotaxi Dilemma Shows AI Policy Tension Between Growth and Jobs](https://www.bloomberg.com/news/newsletters/2026-06-04/china-s-robotaxi-dilemma-how-to-lead-in-ai-without-fueling-unemployment) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Arm’s $218 Billion Leap Makes It One of Market’s Priciest Stocks](https://www.bloomberg.com/news/articles/2026-06-04/arm-s-218-billion-leap-makes-it-one-of-market-s-priciest-stocks) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Thailand’s Richest Man Plans $4.3 Billion Expansion Amid AI Boom](https://www.bloomberg.com/news/articles/2026-06-04/thailand-s-richest-man-plans-4-3-billion-expansion-amid-ai-boom) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [US Tech Sector Announces Most Job Cuts in Nearly Two Years](https://www.bloomberg.com/news/articles/2026-06-04/us-tech-sector-announces-most-job-cuts-in-nearly-two-years) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Iran Says No Progress in US Talks \| The Opening Trade 6/4/2026](https://www.bloomberg.com/news/videos/2026-06-04/the-opening-trade-6-4-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-04 [Here's what you should and shouldn't plug into a TV USB port](https://www.engadget.com/2185986/heres-what-you-should-and-shouldnt-plug-into-a-tv-usb-port/) *(Engadget)*
+- [ ] 2026-06-04 [Amazon's new Proteus warehouse robot is fully autonomous](https://www.engadget.com/2187338/amazons-new-proteus-warehouse-robot-is-fully-autonomous/) *(Engadget)*
+- [ ] 2026-06-04 [How to watch Apple's WWDC 2026 keynote](https://www.engadget.com/2186944/how-to-watch-apple-wwdc-2026-keynote/) *(Engadget)*
+- [ ] 2026-06-04 [How to watch the Summer Game Fest showcase](https://www.engadget.com/2187292/how-to-watch-summer-game-fest-2026/) *(Engadget)*
+- [ ] 2026-06-04 [NASA's Mars MAVEN probe is dead](https://www.engadget.com/2187315/nasa-ends-maven-mars-mission/) *(Engadget)*
+- [ ] 2026-06-04 [Samsung's updated Health app unsurprisingly comes with new AI-powered features](https://www.engadget.com/2187297/samsung-updates-health-app-with-gen-ai/) *(Engadget)*
+- [ ] 2026-06-04 [Even Meta's Oversight Board thinks its rules for banning accounts are baffling](https://www.engadget.com/2187083/even-meta-s-oversight-board-thinks-its-rules-for-banning-accounts-are-baffling/) *(Engadget)*
+- [ ] 2026-06-04 [How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent](https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr) *(Hugging Face Blog)*
+- [ ] 2026-06-04 [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) *(Hugging Face Blog)*
+- [ ] 2026-06-04 [OpenAIが「最先端AIは規制が必要」と提言、高性能AIを規制するための政策案を自ら公開](https://gigazine.net/news/20260604-openai-frontier-safety-blueprint/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-04 [「OpenClaw」がWindowsノードにネイティブ対応、もうペンギンは不要／](https://forest.watch.impress.co.jp/docs/news/2114322.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-04 [AI検索お断り！Googleが「AIにコンテンツを表示させない」新機能を実装へ](https://pc.watch.impress.co.jp/docs/news/2114422.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-04 [データサイエンティストのためのAGENTS.mdとSkills](https://zenn.dev/green_tea/articles/d310e5cf809190) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-04 [2年間悩んだ切れ痔がついに治った【ケツアナタイムリープ】](https://anond.hatelabo.jp/20260604122015) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [はてブで話題の「日本語ふぉんとライブラリ」が便利、圧倒的な数の「あ」が並ぶのも壮観／ぜひブックマークに追加しましょう【やじうまの杜】](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2114500.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [VoidZero is Joining Cloudflare](https://voidzero.dev/posts/voidzero-cloudflare) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [メモリ16GBでOK！音声も画像も対応する賢いLLM「Gemma 4 12B」無償公開](https://pc.watch.impress.co.jp/docs/news/2114311.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [GitHubのアクセストークンが「リンクを1回クリックしただけ」で盗まれる脆弱性が報告される](https://gigazine.net/news/20260604-github-token-stealing/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [VoidZero is joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [大手外食業の中央注文管理Webサービスがダウンしたら？ - koudenpaのブログ](https://koudenpa.hatenablog.com/entry/2026/05/06/153121) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [AppleはApple Vision Pro後継機開発を中止してスマートグラスに注力しているとの報道](https://gigazine.net/news/20260604-apple-vision-pro-roadmap-stop/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [ノートPCで動くGoogle製「Gemma 4 12B」がエンコーダー不要で画像＆音声を処理する仕組みとは？](https://gigazine.net/news/20260604-gemma-4-12b-encoder-free/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [Appleは間もなくテキサス州でApp Storeの年齢確認システムをスタート](https://gigazine.net/news/20260604-apple-app-store-age-verification-texas/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [WebStorage / IndexedDB / OPFS 個人開発でも活躍するブラウザーのデータ保存機能を紹介 - ICS MEDIA](https://ics.media/entry/260603/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [Macの写真ライブラリ内にある写真をクラウド機能を使わずにローカルでAIを利用し管理できるMacネイティブの写真アプリ「Iris」がリリース。](https://applech2.com/archives/20260604-iris-native-macos-photo-app.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [Googleが各ユーザーの検索履歴・写真・メールなどをもとに毎日オリジナルストーリーを生成する「Dreambeans」を公開](https://gigazine.net/news/20260604-google-dreambeans/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-04 [OpenRouter の代替として、OrcaRouter を日本に持ち込んだ話 — 入金手数料 5.5% を 0% に、ルーティングの中身が](https://zenn.dev/flashlabs/articles/3d20d92b65a170) *(Zenn – トピック LLM)*
