@@ -88611,3 +88611,47 @@
 - [ ] 2026-06-05 [AWS AIF対策メモ #1 ｜ プロンプトエンジニアリング ― Zero-shot・Few-shot・CoT](https://zenn.dev/yuzzzn/articles/54633635b2b266) *(Zenn – トピック AI)*
 - [ ] 2026-06-05 [営業のAI活用：Kiroで商談中に試作画面作成～持ち帰りを減らし、顧客との認識合わせをその場で深める～](https://zenn.dev/idnet/articles/a0b0d3d9171dd8) *(Zenn – トピック AI)*
 - [ ] 2026-06-05 [Courseraの英語講義をAIで「日本語配音」化して、爆速で技術キャッチアップする知見](https://zenn.dev/johnblee/articles/79bafbb6223114) *(Zenn – トピック AI)*
+
+## Collected on 2026-06-06T08:18:43.868Z
+- [ ] 2026-06-06 [It’s no surprise that an AI-faked presidential speech condemning foreign exploitation went viral – the world is suffering from a leadership vacuum](https://www.theguardian.com/global-development/2026/jun/06/african-leader-speech-decolonisation-ai-generated-fake-president-namibia-africa-caribbean) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-06 [Why Susquehanna Is Building a Prediction Markets Business](https://www.bloomberg.com/news/articles/2026-06-06/how-susquehanna-is-expanding-into-prediction-markets) *(Bloomberg Technology)*
+- [ ] 2026-06-06 [Odd Lots: Why Susquehanna Builds Prediction Markets (Podcast)](https://www.bloomberg.com/news/audio/2026-06-06/odd-lots-why-susquehanna-builds-prediction-markets-podcast) *(Bloomberg Technology)*
+- [ ] 2026-06-06 [Jensen Huang Commands Seoul Stage With Night of Street Theatre](https://www.bloomberg.com/news/articles/2026-06-06/jensen-huang-commands-seoul-stage-with-night-of-street-theatre) *(Bloomberg Technology)*
+- [ ] 2026-06-05 [BOE’s Bailey Warns of Possible AI Rationing on Capacity Limits](https://www.bloomberg.com/news/articles/2026-06-05/boe-s-bailey-warns-of-possible-ai-rationing-on-capacity-limits) *(Bloomberg Technology)*
+- [ ] 2026-06-06 [EA's Star Wars Zero Company drops August 27](https://www.engadget.com/2188845/star-wars-zero-company-release-date-august-27/) *(Engadget)*
+- [ ] 2026-06-05 [Thousand Token Wood: shipping a multi-agent economy on a 3B model](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim) *(Hugging Face Blog)*
+- [ ] 2026-06-06 [生成AIで裸に見える画像製造・提供の罪で30代男性略式命令 \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015142621000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-06 [Google、AIエージェント向け「Android CLI」を正式公開　アプリ開発が“3倍高速”に](https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news061.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-06 [ケンタッキーフライドチキンなどが中国アリババのAI「Qwen」を採用、あらゆる注文をチャットで全自動化へ](https://gigazine.net/news/20260605-qwen-open-agent/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-06 [AIが数学の未解決問題を相次いで解決、証明の鍵は「形式化」](https://active.nikkeibp.co.jp/atcl/act/19/00775/051200001/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-06 [ZigがAIを禁止する理由。GitHub離脱、確固たる運営方針。｜直也テック](https://note.com/naoya_tech/n/ne7c83d38fc72) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-06 [700万円のMacと”信者のこだわり”が生んだ「PPAP」　古坂大魔王さん　「AIにゼロから作らせるな」の理由（私とアップル） \| AERA DIGITAL（アエラデジタル）](https://dot.asahi.com/articles/-/284064?page=1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-06 [新たなRPG開発ツール「RPG-Cobo」発表。ベテラン開発者のノウハウ結集、プログラミングの知識不要で3D RPGを制作できる - AUTOMATON](https://automaton-media.com/articles/newsjp/20260605-447381/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-06 [AIの進化、遅らせる策が必要　米アンソロピック共同創業者がBBC番組で主張 - BBCニュース](https://www.bbc.com/japanese/articles/crlpl2xrj15o) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-06 [ObsidianをAIアシスタントにする新機能｜生成AI活用研究部](https://note.com/genaird/n/n6be0a775853f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-06 [ValveがゲーミングPC「Steam Machine」とVRヘッドセット「Steam Frame」の2026年夏発売を発表](https://gigazine.net/news/20260605-steam-machine-frame-2026-summer-release/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-06 [Claude Codeを自律エージェント基盤として運用する — context rotから逆算する設計](https://zenn.dev/yutabeee/articles/claude-code-autonomous-agent-platform) *(Zenn – トピック LLM)*
+- [ ] 2026-06-06 [Codex AppでAmazon Bedrock経由のGPT5.5 とGPT5.4 試してみた](https://zenn.dev/fusic/articles/75c7b795429091) *(Zenn – トピック LLM)*
+- [ ] 2026-06-06 [Tool Calling のシグネチャと呼び出し率についての調査](https://zenn.dev/yy7613/articles/b3264acb153f40) *(Zenn – トピック LLM)*
+- [ ] 2026-06-05 [オンデバイスVLM (画像入力LLM) のレシピ](https://zenn.dev/mlboydaisuke/articles/vlmkit-on-device-recipes) *(Zenn – トピック LLM)*
+- [ ] 2026-06-05 [【AIエージェント自作】ファイル探索エージェントを作る](https://zenn.dev/pekopugu/articles/agent01-a4-file-search) *(Zenn – トピック LLM)*
+- [ ] 2026-06-05 [ECA(Emacs)を導入した](https://zenn.dev/wakamenod/articles/ae8a4ab4b625bb) *(Zenn – トピック LLM)*
+- [ ] 2026-06-05 [DGX Spark + SGLang + Qwen3.6-35B-A3B-FP8 環境構築 その2: LiteLLM Proxy 活用](https://zenn.dev/supertaro/articles/4744c929c8981c) *(Zenn – トピック LLM)*
+- [ ] 2026-06-06 [半年で4作完走。AI小説の面白さは「書く前」に9割決まっていた](https://zenn.dev/moneymog/articles/c01a364982d585) *(Zenn – トピック AI)*
+- [ ] 2026-06-06 [未経験からAI副業で実績を作り、エンジニア転職へつなげる現実的ロードマップ](https://zenn.dev/itsuya/articles/career_ai_ff02924810) *(Zenn – トピック AI)*
+- [ ] 2026-06-06 [Obsidianに保存したメモが二度と使われない理由](https://zenn.dev/ryu_takatsukasa/articles/498d02eeaa92a4) *(Zenn – トピック AI)*
+- [ ] 2026-06-06 [ClaudeCodeの会話ログで自己分析してみよう](https://zenn.dev/yun_bow/articles/c28e496a804334) *(Zenn – トピック AI)*
+- [ ] 2026-06-06 [未経験エンジニアに効く『伴走支援型AI🐧』とは？「答えを出さない研修AI」の設計思想に迫る｜完全未経験データエンジニア奮闘記その２](https://zenn.dev/gixo/articles/e1779707e61762) *(Zenn – トピック AI)*
+- [ ] 2026-06-06 [Claude Code の MCP 導入方法整理（2026年6月時点）](https://zenn.dev/nanananano/articles/df5802334d999e) *(Zenn – トピック AI)*
+- [ ] 2026-06-06 [UMIを読む：ロボット無しで集めたデモが、なぜ実機に転移できるのか](https://zenn.dev/yokoshaan/articles/332123acf52454) *(Zenn – トピック AI)*
+- [ ] 2026-06-06 [現場発信型は属人化で燃え、コンサル型は型押しで燃える](https://zenn.dev/continuitymodel/articles/a69c1d9da6b242) *(Zenn – トピック AI)*
+- [ ] 2026-06-05 [AIエージェントが出した経営提案を全部採用したら売上が下がった話 — AI提案の取捨選択基準](https://zenn.dev/joinclass/articles/ai-ai-20260604220005-60) *(Zenn – トピック AI)*
+- [ ] 2026-06-05 [ひとり開発の強力な相棒は Kiro に決まり？](https://zenn.dev/ryusei_nomi/articles/997666169d45bb) *(Zenn – トピック AI)*
+- [ ] 2026-06-05 [まだまだAIが使えない現場って多いんですけど...改めて感じた自分の変化](https://zenn.dev/como/articles/ai_cannot_read_code_article_engineer) *(Zenn – トピック AI)*
+- [ ] 2026-06-05 [異種ベンダーで"審査の甘さ"は潰せるか — LLMの自己選好を本気で測った話](https://zenn.dev/mumihatsu/articles/089802547b3fd4) *(Zenn – トピック AI)*
+- [ ] 2026-06-05 [AIが生成したコードを「運用できる状態」にする──欠落を補うサイクルの設計](https://zenn.dev/commander/articles/09ff236bf24b13) *(Zenn – トピック AI)*
+- [ ] 2026-06-05 [Claude Code で複数リポジトリを横断・並列運用する](https://zenn.dev/ugdark/articles/dotdesk-plan-cross-repo) *(Zenn – トピック AI)*
+- [ ] 2026-06-05 [Antigravity 2.0】ローカルAIにWebアプリ開発からE2Eテストまで丸投げしたら、エンジニアの定義が壊れた話"](https://zenn.dev/yurenaif/articles/4fd715f32caa7f) *(Zenn – トピック AI)*
+- [ ] 2026-06-05 [Claude Code のカスタムスキルで個人ワークフローを17個自動化した話](https://zenn.dev/ugdark/articles/claude-code-personal-skills) *(Zenn – トピック AI)*
+- [ ] 2026-06-05 [# Skillsの呼び方と選び方——Claude Codeの「専門家モード」を起動する【中級Ch3】](https://zenn.dev/shun_producer/articles/35cab21a51338f) *(Zenn – トピック AI)*
+- [ ] 2026-06-06 [Dense層の活性化関数はreluが最強？sigmoid・tanh・linearとCIFAR-10で比較してみた](https://zenn.dev/wasurenamemo/articles/f99d7543a85cf1) *(Zenn – トピック 機械学習)*
