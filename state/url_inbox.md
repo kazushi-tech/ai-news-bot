@@ -88756,3 +88756,68 @@
 - [ ] 2026-06-06 [Claude Code と Codex を使い比べて見えた設計思想の違い](https://zenn.dev/tark_ann/articles/e8b09c6db73bfb) *(Zenn – トピック AI)*
 - [ ] 2026-06-06 [AIが自律的にSaaSを量産するシステムを作った話](https://zenn.dev/nornai/articles/norn-202606061922-589480) *(Zenn – トピック AI)*
 - [ ] 2026-06-06 [競馬AI開発記録 #15 バックテストの異常な高ROIを疑う：時点固定（PiT）生成とリークの物理的遮断](https://zenn.dev/ricotiler/articles/keiba-ai-15-pit-generation-leak-prevention) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-07T13:12:27.577Z
+- [ ] 2026-06-07 [Billions spent and hypothetical returns: the AI boom explained with six charts](https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-07 [‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism](https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-07 [‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites](https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-07 [UK to Buy AI Chips From British Tech Firms, Telegraph Reports](https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports) *(Bloomberg Technology)*
+- [ ] 2026-06-07 [SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth](https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth) *(Bloomberg Technology)*
+- [ ] 2026-06-07 [China Starts Prefabricated Power Hub for Data Centers, CCTV Says](https://www.bloomberg.com/news/articles/2026-06-07/china-starts-prefabricated-power-hub-for-data-centers-cctv-says) *(Bloomberg Technology)*
+- [ ] 2026-06-07 [Venture Capital Trends to Watch in Africa](https://www.bloomberg.com/news/videos/2026-06-07/venture-capital-trends-to-watch-in-africa) *(Bloomberg Technology)*
+- [ ] 2026-06-07 [China Puts EVs on a Diet as Battery Boom Adds Bulk, CCTV Reports](https://www.bloomberg.com/news/articles/2026-06-07/china-puts-evs-on-a-diet-as-battery-boom-adds-bulk-cctv-reports) *(Bloomberg Technology)*
+- [ ] 2026-06-07 [Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange](https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers) *(Hugging Face Blog)*
+- [ ] 2026-06-07 [総裁選で小泉氏批評動画　首相秘書から相談と作成者](https://www.47news.jp/14431514.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-07 [AI slop コードレビュー - たにしきんぐダム](https://tanishiking24.hatenablog.com/entry/2026/06/07/134005) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-07 [「就活なんてチョロい」中堅大から大手マスコミ5社内定。AIに自己分析から面接の台本まで丸投げした22歳の告白 \| 日刊SPA!](https://nikkan-spa.jp/2166052) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-07 [「就活なんてチョロい」中堅大から大手マスコミ5社内定。AIに自己分析から面接の台本まで丸投げした22歳の告白（SPA!） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/ad77d402a92b258426521267be77618a7fe27a32) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-07 [E2Eテストを民主化したら、朝には失敗の分析も再実行も修正PRも終わっていた](https://zenn.dev/lincwell_inc/articles/e8e288ee35f5b4) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-07 [「就活なんてチョロい」中堅大から大手マスコミ5社内定。AIに自己分析から面接の台本まで丸投げした22歳の告白（SPA!） - Yahoo!ニュース](https://approach.yahoo.co.jp/r/QUyHCH?src=https://news.yahoo.co.jp/articles/ad77d402a92b258426521267be77618a7fe27a32&preview=auto) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-07 [スマホで動くAI、Gemma 4が量子化対応で1GB未満に。Googleが軽量モデル公開 - すまほん!!](https://smhn.info/202606-gemma-4-quantized-1gb-google-lightweight-on-device-ai) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-07 [米Anthropic「AIの自己進化が始まった、世界はAI開発を一旦止めるべき」（ビジネス＋IT） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/68026fdb6679cbd890366341b4a75ebef851f71b) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-07 [立て続けに高額なハイスペックPCを何度も売りに来るお客さん...念のためにPCを解析してみたら不正なツールで巧妙に表示を偽装していた](https://togetter.com/li/2706463) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [Windowsのコンソール上でUnix/Linuxの標準的なコマンドを動かす「Windows CoreUtils」](https://ascii.jp/elem/000/004/408/4408637/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [React、まだ楽しくて草](https://speakerdeck.com/uhyo/react-madale-sikutecao) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [RDBで木構造の深さを制限したいときの設計パターン](https://zenn.dev/tonbi_attack/articles/56de5502efb772) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [GitHub - sauravrao637/oproxy: Open-source MITM proxy to intercept, inspect, and mock network traffic.](https://github.com/sauravrao637/oproxy) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [決済プラットフォームと経理を繋ぐ MoneyFlow \| メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/20260605-moneyflow-bridging-payment-and-accounting/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [GitHub - alibaba/open-code-review: Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Ant](https://github.com/alibaba/open-code-review) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [AIコードレビューツール「Open Code Review」、既存のAIに各種ルールを設定してレビュー能力を底上げ可能＆Alibabaグループで100万件のコード欠陥を検出済み](https://gigazine.net/news/20260607-open-code-review/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [質感](https://diary.shift-js.info/kimagure-08/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [Gemini需要急増でGoogleがSpaceXと月額9億2000万ドルの大型契約](https://www.itmedia.co.jp/news/articles/2606/07/news024.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [Gemma 4 QAT の概要｜npaka](https://note.com/npaka/n/ndeef4df16dd2) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [現代の GPU アーキテクチャとシェーダー最適化の考え方](https://zenn.dev/ruccho/articles/shader-optimization) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [商用利用OKのAI音声合成ソフト「VOICEPEAK 商用可能 6ナレーターセット」にvol.2登場。4年間で大きく進化したエンジンとともに個性豊かな7種の声を収録](https://www.dtmstation.com/archives/77741.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-07 [「日本語で書いて、英語で動かす」非英語圏のエンジニアが背負う30%の生産性ハンディキャップを技術で殴る方法](https://zenn.dev/kawacodejp/articles/26886ab2e8b86e) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [ニュース1: Rustでエラー原因をsourceとDisplayの両方に書いてはいけない理由](https://zenn.dev/song00/articles/techpulse-2026-06-07) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [プロンプトインジェクションは「フィルタ」では直らない — Lockdown Modeが認めた構造的欠陥](https://zenn.dev/hironakamura_ai/articles/50b28275a01f2d) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [マイクラにAIコンパニオンを住まわせた話 — Mineflayer × LLM で「一緒に遊べる相棒」を作る](https://zenn.dev/xei/articles/minecraft-ai-companion-mineflayer) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [プロンプト管理では足りない：Sayaneが実装した「文脈受容」と安全な再利用](https://zenn.dev/tomyuk/articles/sayane-context-acceptance-architecture) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [VTuber発見サイトで12,000件のキャッチコピーを生成したら、ローカルLLMで1万円以上浮いた話](https://zenn.dev/tailpiece/articles/97c258f7aa5e03) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [Copilot CLIを自律的に動かす](https://zenn.dev/nozomu/articles/ddbda3456cf077) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [LLMを狙うUnicode文字スマグリング攻撃と防御](https://zenn.dev/mohhh_ok/articles/llm-unicode-character-smuggling) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [Claudeが2時間ごとに世界を1日進める物語サイトを作った（完結したら永久停止）](https://zenn.dev/mohhh_ok/articles/claude-autonomous-story-simulator) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [AIウォーターフォール開発：コンテキストゼロのAIを一人前にする仕組み](https://zenn.dev/abalol/articles/579296fa31056f) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [AIリテラシーとは、「なんとなく」をAIに渡さない力である](https://zenn.dev/continuitymodel/articles/5350e1cb869982) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [責任経路とは何か――責任経路工学の定義と境界](https://zenn.dev/dantarg/articles/what-is-responsibility-pathway) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [AIコーディングのルールは「どこに置くか」で効きが変わる──コンテキスト構造から考える](https://zenn.dev/yun_bow/articles/7d752673dce00c) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [Claude Opus 4.8のeffortを27runで実測した：トークンは7倍になるが正解率は1段も変わらない](https://zenn.dev/localai_lab/articles/b9215522ea1cae) *(Zenn – トピック LLM)*
+- [ ] 2026-06-06 [AIエージェントの幻覚を防ぐ「Verdict Layer」アーキテクチャ：228回の検証データが示す実行境界の重要性](https://zenn.dev/kolesnikov_arch/articles/166016ed2f572a) *(Zenn – トピック LLM)*
+- [ ] 2026-06-07 [Kiro の Spec モードを使ってみた](https://zenn.dev/ryusei_nomi/articles/2606f04d36554b) *(Zenn – トピック AI)*
+- [ ] 2026-06-07 [コードレビューは、人もAIも「基準」がないと不安定だった](https://zenn.dev/moimoi/articles/review-rubric-essay) *(Zenn – トピック AI)*
+- [ ] 2026-06-07 [AIに8割書かせたコードを、半年後の自分が保守できるようにするために実際にやっていること](https://zenn.dev/rapls/articles/7456767a19af06) *(Zenn – トピック AI)*
+- [ ] 2026-06-07 [AI駆動開発はどのように進化するのか -ハーネスエンジニアリングから考えるAIDD成熟度モデル Level 0〜3- その1](https://zenn.dev/kitsune_ceo/articles/bd389b7fd27040) *(Zenn – トピック AI)*
+- [ ] 2026-06-07 [福井プロトタイピング2026](https://zenn.dev/protoout/books/17_fukui-202606) *(Zenn – トピック AI)*
+- [ ] 2026-06-07 [AIで仕事はなくならない｜奪われにくい職種と生き残る働き方の本質](https://zenn.dev/itsuya/articles/career_ai_3a4e7bbf40) *(Zenn – トピック AI)*
+- [ ] 2026-06-07 [LLMで作った理想のアプリをAWS本番に載せて、修正で壊さない2026年の作り方](https://zenn.dev/ino_h/articles/2026-06-06-llm-app-aws-spec-driven-guardrails) *(Zenn – トピック AI)*
+- [ ] 2026-06-07 [ニューラルネットワーク基礎（Part 5：MNISTへの応用）](https://zenn.dev/aizakovzky/articles/b2da0542ef5ed4) *(Zenn – トピック AI)*
+- [ ] 2026-06-07 [AIコンテンツ自動化パイプラインの全体設計：Next.js + Gemini + GitHub + Vercelの連携パターン](https://zenn.dev/asoventure/articles/2026-06-07-ai-media-pipeline-design) *(Zenn – トピック AI)*
+- [ ] 2026-06-07 [エンジニアが「プロンプト職人」で終わるなんてもったいない！AI時代の生存戦略📝](https://zenn.dev/hanav1ye/articles/ai-prompt-engineering) *(Zenn – トピック AI)*
+- [ ] 2026-06-07 [AIが自分について何を覚えているか、見て・直せますか](https://zenn.dev/agentmemories/articles/ai-memory-you-can-see-and-fix) *(Zenn – トピック AI)*
+- [ ] 2026-06-07 [バンディット問題の理論とアルゴリズム](https://zenn.dev/n_ryosuke/articles/b8607983f9eed1) *(Zenn – トピック 機械学習)*
+- [ ] 2026-06-07 [【合格体験記】G検定の最短ルート？用語の沼を抜けて合格した勉強法について](https://zenn.dev/bit_and_coffee/articles/gk-pass-experience-beginner-friendly) *(Zenn – トピック 機械学習)*
+- [ ] 2026-06-07 [フィジカルAI 完全マップ｜VLM・VLA・π0・GR00T・世界モデルの位置関係と使い分け](https://zenn.dev/manato_boys/articles/9cca0f5d75d7e7) *(Zenn – トピック 機械学習)*
+- [ ] 2026-06-07 [【Snowflake Summit 2026】What's New: Agentic ML in Snowflake](https://zenn.dev/finatext/articles/snowflake-summit-2026-agentic-ml) *(Zenn – トピック 機械学習)*
+- [ ] 2026-06-06 [AIが「働く存在」に進化：ビジネスと社会の未来図を描く最前線](https://zenn.dev/kuyayky/articles/auto-202606062056) *(Zenn – トピック 機械学習)*
+- [ ] 2026-06-06 [表形式データ拡張手法 part18：SWIM](https://zenn.dev/haruto_big6/articles/cc4e82fbab3386) *(Zenn – トピック 機械学習)*
+- [ ] 2026-06-06 [【E資格】40代管理職が一度落ちて気づいた「合格率7割に騙されない勉強法」](https://zenn.dev/field2ai/articles/160e084e56ad2f) *(Zenn – トピック 機械学習)*
