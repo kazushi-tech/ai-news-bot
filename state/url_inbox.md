@@ -89387,3 +89387,126 @@
 - [ ] 2026-06-07 [競馬AI開発記録 #16 リークなき環境でエッジを掘り当てる：動的特徴量と「凡走サイン」の特定](https://zenn.dev/ricotiler/articles/keiba-ai-16-dynamic-features-and-negative-signs) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-07 [scikit-learnパイプラインで作る、再現性のある機械学習モデル](https://zenn.dev/ds_ai_lab/articles/20260606-sklearn-pipeline) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-07 [Jリーグの順位を予測してみよう ― 第5回：チームの「タイプ分け」で昇格クラブの強度推定を改善する](https://zenn.dev/nonokuno/articles/227325957f3f35) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-08T19:56:04.651Z
+- [ ] 2026-06-08 [Artists are making ‘anti-slop’ to rebel against AI: ‘It’s been rammed down our throats’](https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-08 [The Guardian view on children and the internet: rolling back big tech’s untrammelled power \| Editorial](https://www.theguardian.com/commentisfree/2026/jun/08/the-guardian-view-on-children-and-the-internet-rolling-back-big-techs-untrammelled-power) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-08 [Let’s call it what it is: antisocial media \| Brief letters](https://www.theguardian.com/media/2026/jun/08/lets-call-it-what-it-is-antisocial-media) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-08 [A mother’s work has enormous value \| Letter](https://www.theguardian.com/society/2026/jun/08/a-mothers-work-has-enormous-value) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-08 [If Australian data centres are going to power the AI revolution, we deserve a fair return \| David Pocock](https://www.theguardian.com/commentisfree/2026/jun/09/australia-datacentres-artificial-intelligence-ai-revolution-industry-fairness) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-08 [Majority of US’s new AI datacenters to be built on drought-hit land](https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-08 [Apple’s New Siri AI Is Ready to Get Personal](https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-08 [The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech](https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-08 [Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report](https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-08 [Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men](https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-08 [Zoo Officials Horrified by AI Data Center Menacing Their Endangered Animals](https://futurism.com/artificial-intelligence/zoo-officials-horrified-ai-data-center-animals) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-08 [Company Behind AI School Surveillance System in Major Trouble After It Fails to Spot Armed Student Walking In to Commit Mass Shooting](https://futurism.com/artificial-intelligence/ai-school-surveillance-system-in-trouble) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-08 [Meta Furious Over Bombshell Smart Glasses Revelation](https://futurism.com/artificial-intelligence/meta-furious-smart-glasses) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-08 [How Enterprises Should Combat the Growing Shadow AI Problem](https://aibusiness.com/generative-ai/how-enterprises-should-combat-growing-shadow-ai-problem) *(AI Business)*
+- [ ] 2026-06-08 [Google to Pay SpaceX $30B for AI Compute](https://aibusiness.com/generative-ai/google-pay-spacex-30-billion-ai-compute) *(AI Business)*
+- [ ] 2026-06-08 [If AI is addictive, where does the responsibility lie – with big tech or its users?](https://theconversation.com/if-ai-is-addictive-where-does-the-responsibility-lie-with-big-tech-or-its-users-283810) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-08 [Will AI really make banking better for customers?](https://theconversation.com/will-ai-really-make-banking-better-for-customers-281487) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-08 [5 ways data centers endanger their local communities and the country as a whole](https://theconversation.com/5-ways-data-centers-endanger-their-local-communities-and-the-country-as-a-whole-282348) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-08 [OpenAI Expands ChatGPT Lockdown Mode to Millions of Eligible Users](https://www.techrepublic.com/article/news-openai-expands-chatgpt-lockdown-mode-millions-users/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-08 [South Korea’s AI Push Leans on Nvidia Infrastructure](https://www.techrepublic.com/article/news-nvidia-ai-deals-apac-south-korea/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-08 [Samsung Health Update Leaves Galaxy Watch Owners Waiting on Key AI Features](https://www.techrepublic.com/article/news-samsung-health-watch-features/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-08 [Why Do LLMs Corrupt Your Documents When You Delegate?](https://www.kdnuggets.com/why-do-llms-corrupt-your-documents-when-you-delegate) *(KDnuggets)*
+- [ ] 2026-06-08 [Anthropic’s Complete Guide to Claude Skills Building](https://www.kdnuggets.com/anthropics-complete-guide-to-claude-skills-building) *(KDnuggets)*
+- [ ] 2026-06-08 [5 Must-Know Python Concepts for AI Engineers](https://www.kdnuggets.com/5-must-know-python-concepts-for-ai-engineers) *(KDnuggets)*
+- [ ] 2026-06-08 ['No Momentum in Labor Market' Says LinkedIn's Kory Kantenga](https://www.bloomberg.com/news/videos/2026-06-08/-no-momentum-in-labor-market-says-kory-kantenga-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Apple Investors Tepid About New AI Platform](https://www.bloomberg.com/news/videos/2026-06-08/apple-investors-tepid-about-new-ai-platform-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Apple Unveils Next Generation of AI Platform, Including New Siri](https://www.bloomberg.com/news/videos/2026-06-08/apple-unveils-next-generation-of-ai-platform-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [FTX Co-Founder Sam Bankman-Fried Applies for Trump Pardon](https://www.bloomberg.com/news/articles/2026-06-08/ftx-co-founder-bankman-fried-formally-applies-for-trump-pardon) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Cipher Sells Junk Debt for Amazon-Tied Data Center Project](https://www.bloomberg.com/news/articles/2026-06-08/cipher-sells-junk-bonds-to-fund-amazon-tied-data-center-project) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Here Are the Key Takeaways From Apple WWDC](https://www.bloomberg.com/news/articles/2026-06-08/key-takeaways-from-apple-wwdc-2026-toplive) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Amazon to Raise C$14 Billion in Record Canadian Dollar Bond Sale](https://www.bloomberg.com/news/articles/2026-06-08/amazon-kicks-off-canadian-dollar-investment-grade-bond-offering) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [German Police Investigate Arson Attack at Power Substation](https://www.bloomberg.com/news/articles/2026-06-08/german-police-investigate-arson-attack-at-power-substation) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Apple Investors Give Lukewarm Reaction to New Siri, AI Platform](https://www.bloomberg.com/news/articles/2026-06-08/apple-unveils-next-generation-of-ai-platform-including-new-siri) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [What Apple's 2025 iPhone App of the Year Founders Want From Siri](https://www.bloomberg.com/news/videos/2026-06-08/what-apple-s-iphone-app-of-year-founders-want-from-siri-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Early Stage Investing in the Age of Huge Pre-IPO Rounds](https://www.bloomberg.com/news/videos/2026-06-08/early-stage-investing-in-the-age-of-huge-pre-ipo-rounds-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Apple Unveils New AI Platform and Siri Upgrades](https://www.bloomberg.com/news/videos/2026-06-08/apple-unveils-new-ai-platform-and-siri-upgrades-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Developers Hope for Big Leaps From Apple's AI](https://www.bloomberg.com/news/videos/2026-06-08/developers-hope-for-big-leaps-from-apple-s-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Expectations From Apple’s Big AI, Siri Launch](https://www.bloomberg.com/news/videos/2026-06-08/expectations-from-apple-s-big-ai-siri-launch-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Apple’s Big AI, Siri and Software Launch \| Bloomberg Tech 6/8/2026](https://www.bloomberg.com/news/videos/2026-06-08/bloomberg-tech-6-8-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Inside a Brain-Chip Startup in China](https://www.bloomberg.com/news/videos/2026-06-08/inside-a-brain-chip-startup-in-china) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [SpaceX IPO Is Well Oversubscribed With Orders Closing Wednesday](https://www.bloomberg.com/news/articles/2026-06-08/spacex-ipo-is-said-to-be-well-oversubscribed-orders-close-wed) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Intel Gains on Report That Google Will Use It to Make Chips](https://www.bloomberg.com/news/articles/2026-06-08/google-tapped-intel-for-over-3-million-chips-information-says) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Apple Investors Look for AI Overhaul to Power Next Leg of Gains](https://www.bloomberg.com/news/articles/2026-06-08/apple-investors-look-for-ai-overhaul-to-power-next-leg-of-gains) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Chicago’s Clout Takes Another Hit as Bears Plan Move to Indiana](https://www.bloomberg.com/news/articles/2026-06-08/chicago-s-clout-takes-another-hit-as-bears-plan-move-to-indiana) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Apple’s Revamped AI Smashes Against Down Market](https://www.bloomberg.com/news/videos/2026-06-08/apple-s-revamped-ai-smashes-against-down-market-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [When Should Your Kid Get a Smartphone? Scientists Have an Answer](https://www.bloomberg.com/news/articles/2026-06-08/when-should-your-kid-get-a-smartphone-scientists-have-an-answer) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Brain Implants Are Unlocking a New Human-Machine Reality](https://www.bloomberg.com/news/articles/2026-06-08/brain-implants-unlock-new-human-machine-interactions) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Susquehanna’s Head of Prediction Markets on Market-Making](https://www.bloomberg.com/news/videos/2026-06-08/susquehanna-s-head-of-prediction-markets-on-market-making) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Redemption Angst Spills Into Private Equity](https://www.bloomberg.com/news/videos/2026-06-08/redemption-angst-spills-into-private-equity-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Why Can't Young People Find Jobs?](https://www.bloomberg.com/news/videos/2026-06-08/opinion-why-can-t-young-people-find-jobs-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Apple Shares Slide After AI Offering Leaves Investors Unimpressed](https://www.bloomberg.com/news/live-blog/2026-06-08/apple-wwdc-2026-live-updates) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Wall Street Preps for the SpaceX IPO](https://www.bloomberg.com/news/videos/2026-06-08/wall-street-preps-for-the-spacex-ipo-video) *(Bloomberg Technology)*
+- [ ] 2026-06-08 [Reminder: macOS 27 won't work on Intel Macs](https://www.engadget.com/2189939/reminder-macos-27-won-t-work-on-intel-macs/) *(Engadget)*
+- [ ] 2026-06-08 [The first iOS, iPadOS and macOS 27 developer betas are available now](https://www.engadget.com/2189933/the-first-ios-ipados-and-macos-27-developer-betas-are-available-now/) *(Engadget)*
+- [ ] 2026-06-08 [Siri AI for iPhones and iPads will be delayed indefinitely in the EU](https://www.engadget.com/2189932/siri-ai-for-iphones-and-ipads-will-be-delayed-indefinitely-in-the-eu/) *(Engadget)*
+- [ ] 2026-06-08 [watchOS 27 gets a Siri upgrade and perimenopause features](https://www.engadget.com/2189896/watchos-27-gets-a-siri-upgrade-and-perimenopause-features/) *(Engadget)*
+- [ ] 2026-06-08 [visionOS 27 brings the new Siri to Apple's headset](https://www.engadget.com/2189857/visionos-27-brings-the-new-siri-to-apples-headset/) *(Engadget)*
+- [ ] 2026-06-08 [AirPods are getting a customizable EQ in iOS 27](https://www.engadget.com/2189850/airpods-are-getting-a-customizable-eq-in-ios-27/) *(Engadget)*
+- [ ] 2026-06-08 [iOS 27 gets new AI photo editing tools](https://www.engadget.com/2189828/ios-27-gets-new-ai-photo-editing-tools/) *(Engadget)*
+- [ ] 2026-06-08 [Apple Intelligence is coming to the Shortcuts app](https://www.engadget.com/2189795/apple-intelligence-is-coming-to-the-shortcuts-app/) *(Engadget)*
+- [ ] 2026-06-08 [Apple is adding Apple Intelligence across its default apps](https://www.engadget.com/2189789/apple-is-adding-apple-intelligence-across-its-default-apps/) *(Engadget)*
+- [ ] 2026-06-08 [Siri is getting an all new app experience later this year](https://www.engadget.com/2189787/siri-is-getting-an-all-new-app-experience-later-this-year/) *(Engadget)*
+- [ ] 2026-06-08 [macOS Golden Gate puts Siri AI into Spotlight](https://www.engadget.com/2189760/macos-golden-gate-puts-siri-ai-into-spotlight/) *(Engadget)*
+- [ ] 2026-06-08 [Apple reintroduces the AI-powered Siri it announced at WWDC 2024](https://www.engadget.com/2189744/apple-reintroduces-the-ai-powered-siri-it-announced-at-wwdc-2024/) *(Engadget)*
+- [ ] 2026-06-08 [Apple expands parental controls to include automatic image filtering](https://www.engadget.com/2189728/apple-expands-parental-controls-to-include-automatic-image-filtering/) *(Engadget)*
+- [ ] 2026-06-08 [Apple's new OSes are getting a massive speed boost](https://www.engadget.com/2189714/apples-new-oses-are-getting-a-massive-speed-boost/) *(Engadget)*
+- [ ] 2026-06-08 [Everything announced at Apple's WWDC 2026 keynote](https://www.engadget.com/2189698/everything-announced-at-apples-wwdc-2026-keynote/) *(Engadget)*
+- [ ] 2026-06-08 [Apple updates Liquid Glass to be more readable and customizable](https://www.engadget.com/2189693/apple-updates-liquid-glass-to-be-more-readable-and-customizable/) *(Engadget)*
+- [ ] 2026-06-08 [Indie game Dogpile is coming to Switch and mobile](https://www.engadget.com/2187897/indie-game-dogpile-is-coming-to-switch-and-mobile/) *(Engadget)*
+- [ ] 2026-06-08 [Sega wants Virtua Fighter Crossroads to be more than just another fighting game](https://www.engadget.com/2189178/virtua-fighter-crossroads-much-more-than-just-another-fighting-game/) *(Engadget)*
+- [ ] 2026-06-08 [Nintendo will pay a $40 million fine for faulty Joy-Cons](https://www.engadget.com/2189455/nintendo-will-pay-a-dollar40-million-fine-for-faulty-joy-cons/) *(Engadget)*
+- [ ] 2026-06-08 [Here are the IMAX theaters that can play 'The Odyssey' in true 70mm](https://www.engadget.com/2189436/here-are-the-imax-theaters-that-can-play-the-odyssey-in-true-70mm/) *(Engadget)*
+- [ ] 2026-06-08 [Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange) *(OpenAI News)*
+- [ ] 2026-06-08 [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) *(Hugging Face Blog)*
+- [ ] 2026-06-08 [「Siri AI」新登場　「Apple Intelligence」大幅刷新、Googleと共同開発　年内に英語版](https://www.itmedia.co.jp/aiplus/article/2606/09/2000000069/) *(ITmedia AI＋)*
+- [ ] 2026-06-08 [「AIが私のソフトウェアエンジニアとしてのキャリアを侵食しておりどうすればいいか分からない」という投稿が大きな反響を呼ぶ](https://gigazine.net/news/20260608-llms-eroding-career/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-08 [高市首相、新たな中傷動画報道も否定　「面識」とは「名刺交換し…」：朝日新聞](https://www.asahi.com/articles/ASV683DZ3V68ULFA02MM.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-08 [オードリー・タン × 東浩紀「プルラリティ・AI・民主主義 —喧騒と幻想を巡って— 」【日本財団HUMAIプログラム Spring Camp 2026】](https://www.youtube.com/watch?v=tSySgu7CFFI) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-08 [Apple Siliconはなぜ「オンデバイスAI」に強いのか？　NVIDIA「RTX Spark」との比較で読み解くシリコン設計の哲学](https://www.itmedia.co.jp/pcuser/articles/2606/08/news096.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-08 [生成AI時代のエンジニアの生存戦略](https://zenn.dev/counterworks/articles/62667be5a186b8) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-08 [《高市陣営“中傷動画”》ジャーナリスト津田大介氏が語った「ダークサイドビジネスと化すネット選挙」 \| 文春オンライン](https://bunshun.jp/articles/-/89303) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-08 [最新コードレビュー事情 - Object.create(null)](https://susisu.hatenablog.com/entry/2026/06/07/195909) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-08 [「ほぼ全九州」電力契約情報、漏洩の恐れ　九電送配、最大1千万件超：朝日新聞](https://www.asahi.com/articles/ASV6832MLV68ULFA00ZM.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [嵐ラストライブ配信はなぜ落ちなかった？大規模同時配信の仕組みをネットワークエンジニアが解説 \| ponflog](https://ponflog.com/arashi-live-streaming-network/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [アサヒ、植物由来素材のコーラ「green cola」全国発売](https://www.watch.impress.co.jp/docs/news/2115321.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [Ubuntu、サンドボックス化された開発環境をコマンド一発で構築。新機能「Workshop」リリース](https://www.publickey1.jp/blog/26/ubuntuworkshop.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [GoランタイムにおけるGCのタイミングを知っておこう](https://zenn.dev/yuta_kakiki/articles/db96a8f79e6c01) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [「サーバ室にあるはずの記憶媒体が行方不明」　九電子会社　最大1090万件分の顧客情報を保存　キャビネット施錠せず](https://www.itmedia.co.jp/news/articles/2606/08/news135.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [UQモバイルで娘のスマホを契約したら、電話番号の前の持ち主が相当やばかったらしく、カード会社や金融系の怖い人からめっちゃ電話かかってくる](https://togetter.com/li/2706938) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [macOS Tahoe で動くネイティブAPI経由での翻訳 cli を作った - A Day in the Life](https://secon.dev/entry/2026/06/08/080000-mac-translate-cli-trn/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [九州電力送配電、最大1090万件の個人情報漏えいのおそれ、バックアップ媒体が所在不明に](https://internet.watch.impress.co.jp/docs/news/2115399.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [「NTLM」の廃止、「Kerberos」への移行は第2フェイズへ ～Microsoftが発表／「IAKerb」「LocalKDC」が今月にもCanaryチャネルでパブリックプレビュー](https://forest.watch.impress.co.jp/docs/news/2115339.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [『サブスク会計学』 - Don't Repeat Yourself](https://blog-dry.com/entry/2026/06/07/222135) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [#iPhone18Pro バッテリー増加は控えめ？容量より実使用に注目](https://kaden-box.jp/A16330090488) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [NHK、サグラダ・ファミリア メインタワー完成“世紀の瞬間”生中継。総合テレビ6月11日22時](https://av.watch.impress.co.jp/docs/news/2115207.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [寝不足になるほど面白い　ローカルAIと音声合成をつないだら、キャラが普通にしゃべり始めた (2/5)](https://ascii.jp/elem/000/004/408/4408692/2/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [Rebuild: 427: Tokenmaxxing (twada)](https://rebuild.fm/427/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [Microsoft、「WSL containers」を発表 ～数カ月内にパブリックプレビュー／サードパーティ製ツール不要、CLI/APIで「Linuxコンテナー on Windows」を実現](https://forest.watch.impress.co.jp/docs/news/2115127.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [Google、メモリ1GB未満で品質劣化少ないGemma 4が動くQATモデル無償提供](https://pc.watch.impress.co.jp/docs/news/2115168.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-08 [【AIエージェント自作】コマンド実行ツールの実装と全7本ツール完成](https://zenn.dev/pekopugu/articles/agent01-a6-run-command) *(Zenn – トピック LLM)*
+- [ ] 2026-06-08 [情報分析官AIの裏取り失敗報告——LLMはどこでファクトチェックに失敗するか](https://zenn.dev/echosphere/articles/llm-fact-check-failure-report) *(Zenn – トピック LLM)*
+- [ ] 2026-06-08 [AI で楽してキャッチアップしたい人向けの Microsoft Build 2026 まとめ](https://zenn.dev/openjny/articles/64dfd5707240b7) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [Moodle 4.5にChatGPT（OpenAI API）を連携してAI機能を使う方法](https://zenn.dev/rublix/articles/faea285063637c) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [【2026年版】無料で使えるAIコーディングツール比較 - Claude Code, Gemini CLI, Kiro](https://zenn.dev/devex12/articles/ai-coding-tools-comparison-devex12) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [WWDC 2026前にFoundation Modelsの基本を触ってみた](https://zenn.dev/azuritul/articles/article-apple-foundation-models) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [脳も心も身体もある。しかし居場所はつくれない](https://zenn.dev/mizshirai/articles/c5baaa0d3adb56) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [この春、AIから離れて本を読み始めた話](https://zenn.dev/ryukoeng/articles/spring-reading-network-book) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [EVO-X1 + RTX 4090でおうちAIサーバーを作った話](https://zenn.dev/sileader/articles/9b1593114012af) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [「AIで速い」と「エンジニアとして強い」は同じか？ AI Engineering Summit Tokyo 2026で考えたこと](https://zenn.dev/tomokusaba/articles/a3f7c92bd6410e) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [AIで脆弱性が増えた今、実際に悪用されているのは何なのか?](https://zenn.dev/acntechjp/articles/32c9e28ae49e43) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [どこからでもAIで仕事をできるようにしたけど、疲れてやめた話](https://zenn.dev/g2/articles/7aeb22e8ebbf82) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [Claude Code 週次アップデートまとめ（2026/06/06週）](https://zenn.dev/tottoko_hamu/articles/2026-06-06-090000) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [ローカルAI Gatewayに Policy Engine を実装しました](https://zenn.dev/hisa_tech_2973/articles/70ccb2b48fa301) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [AI 時代の見積もりで失敗した話](https://zenn.dev/t0yohei/articles/8b43dd7c148127) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [VibeUIでAIエージェント向けAPIキー認証を設計した話](https://zenn.dev/taketake_skills/articles/vibeui-api-key-auth-design) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [半分しかわからない人のためのClaude Code入門](https://zenn.dev/shun_producer/books/ec714f88e8b148) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [業界特化SaaSをMCP化する: なぜ配車とキャストシフトから始めたか](https://zenn.dev/edhiblemeer/articles/mcp-saas-dispatch-castshift-design) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [AIコーディングエージェントの品質を上げる Plan・Advisor・Review の使い分け](https://zenn.dev/kent_kamome/articles/02565409281cd9) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [【Claude Code超入門】どこから使う？ 初心者向けの入り口を1つだけ選ぶ](https://zenn.dev/sawamura_sp/articles/cca9006ede1c16) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [AIエージェント時代、開発者の仕事は「許可する環境」を設計することになる](https://zenn.dev/heftykoo/articles/1c647688784214) *(Zenn – トピック AI)*
+- [ ] 2026-06-08 [Claude Codeのハーネス設計 -- 「禁止事項だけを決め、hooksで強制する」ブラックリスト戦略](https://zenn.dev/awesome_kou/articles/claude-code-harness-deny-hooks) *(Zenn – トピック AI)*
