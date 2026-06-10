@@ -90615,3 +90615,105 @@
 - [ ] 2026-06-09 [表形式データ拡張手法 part20：Radius-SMOTE](https://zenn.dev/haruto_big6/articles/9c43167ffe7dc1) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-09 [【決定版】XGBoost vs LightGBM vs CatBoost：3大GBDTの深層解剖](https://zenn.dev/mkawa_pani/articles/05eab23d9e2fba) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-09 [【Kaggle入門】Playgroundコンペから始める機械学習〜初心者が1位を獲るまでの戦略〜](https://zenn.dev/mkawa_pani/articles/d110c4b71543c9) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-10T01:57:28.335Z
+- [ ] 2026-06-09 [Anthropic releases ‘safe’ version of Claude Mythos AI model to public](https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-10 [How do you want to live? Both James Valentine and the pope have offered a challenge to humanity at a crossroads \| Peter Lewis](https://www.theguardian.com/commentisfree/2026/jun/10/james-valentine-pope-ai-magnifica-humanitas-challenge-humanity-at-crossroads) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-10 [Seattle enacts year-long ban on new AI datacenters](https://www.theguardian.com/us-news/2026/jun/09/seattle-ai-datacenters-ban) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-09 [The Price Enterprises Will Pay for Anthropic Claude Fable 5](https://aibusiness.com/generative-ai/the-price-enterprises-will-pay-anthropic-claude-fable-5) *(AI Business)*
+- [ ] 2026-06-09 [Waymo Pays $220M for Apple’s Abandoned Self-Driving Car Test Ground](https://aibusiness.com/generative-ai/waymo-pays-220m-apple-s-abandoned-self-driving-car-test-ground) *(AI Business)*
+- [ ] 2026-06-09 [OpenAI’s IPO: Navigating Profitability and Market Dynamics](https://aibusiness.com/generative-ai/openai-s-ipo-navigating-profitability-market-dynamics) *(AI Business)*
+- [ ] 2026-06-09 [Amazon Taps Fiber Optics Producer Corning for Data Center Expansion](https://aibusiness.com/generative-ai/amazon-taps-fiber-optics-producer-corning-data-center-expansion) *(AI Business)*
+- [ ] 2026-06-09 [AI Adoption in the UK is Booming, but Transformation is Stalling](https://aibusiness.com/generative-ai/ai-adoption-the-uk-is-booming-transformation-stalling) *(AI Business)*
+- [ ] 2026-06-09 [As SpaceX, OpenAI and Anthropic plan blockbuster launches, will it make AI giants more accountable?](https://theconversation.com/as-spacex-openai-and-anthropic-plan-blockbuster-launches-will-it-make-ai-giants-more-accountable-284665) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-09 [Taiwan Eyes Curbs on AI Chip Sales to China to Align With US](https://www.bloomberg.com/news/articles/2026-06-09/taiwan-mulls-curbs-on-ai-chip-exports-to-china-to-align-with-us) *(Bloomberg Technology)*
+- [ ] 2026-06-10 [Singapore Court Moves to Seize Capital A’s Assets in Dispute](https://www.bloomberg.com/news/articles/2026-06-10/singapore-court-moves-to-seize-capital-a-s-assets-in-dispute) *(Bloomberg Technology)*
+- [ ] 2026-06-10 [Nintendo Shares Slide After 2026 Game Showcase Disappoints](https://www.bloomberg.com/news/articles/2026-06-10/nintendo-shares-slide-after-2026-game-showcase-disappoints) *(Bloomberg Technology)*
+- [ ] 2026-06-09 [ASML’s Surge to Record High Masks Lowball Valuation Versus Peers](https://www.bloomberg.com/news/articles/2026-06-09/asml-s-surge-to-record-high-masks-lowball-valuation-versus-peers) *(Bloomberg Technology)*
+- [ ] 2026-06-09 [Stocks Pare Tech-Led Drop as Rotation Gains Speed \| The Close 6/9/2026](https://www.bloomberg.com/news/videos/2026-06-09/the-close-6-9-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-09 [Leonardo’s New CEO Sees Green Light for Space Venture Next Year](https://www.bloomberg.com/news/articles/2026-06-09/leonardo-s-new-ceo-sees-green-light-for-space-venture-next-year) *(Bloomberg Technology)*
+- [ ] 2026-06-09 [Super Micro Seeks $7 Billion in Equity Deal for AI Equipment](https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment) *(Bloomberg Technology)*
+- [ ] 2026-06-09 [Lumentum CEO: See Huge Opportunity for Optics Industry](https://www.bloomberg.com/news/videos/2026-06-09/lumentum-ceo-see-huge-opportunity-for-optics-industry-video) *(Bloomberg Technology)*
+- [ ] 2026-06-09 [IBM CEO: AI Won’t Necessarily Lead To Smaller Headcount](https://www.bloomberg.com/news/videos/2026-06-09/ibm-ceo-ai-won-t-necessarily-lead-to-smaller-headcount-video) *(Bloomberg Technology)*
+- [ ] 2026-06-09 [FIS President & CEO: We’re All Part of an Integrated Ecosystem](https://www.bloomberg.com/news/videos/2026-06-09/fis-s-ferris-we-re-part-of-an-integrated-ecosystem-video) *(Bloomberg Technology)*
+- [ ] 2026-06-09 [Bloomberg Crypto 6/9/2026](https://www.bloomberg.com/news/videos/2026-06-09/bloomberg-crypto-6-9-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-09 [Conan O'Brien is hosting educational videos for an AI cybersecurity company](https://www.engadget.com/2191051/conan-o-brien-is-hosting-educational-videos-for-an-ai-cybersecurity-company/) *(Engadget)*
+- [ ] 2026-06-09 [Kalshi will require employment info for some bets as an insider trading precaution](https://www.engadget.com/2190989/kalshi-will-require-employment-info-for-some-bets-as-an-insider-trading-precaution/) *(Engadget)*
+- [ ] 2026-06-09 [GM's EVs will soon support more kinds of public chargers](https://www.engadget.com/2190840/gms-evs-will-soon-support-more-kinds-of-public-chargers/) *(Engadget)*
+- [ ] 2026-06-09 [Anthropic's Fable AI brings the capabilities of its unreleased Mythos model to regular users](https://www.engadget.com/2190934/anthropic-fable-ai-brings-the-capabilities-of-its-unreleased-mythos-model-to-regular-users/) *(Engadget)*
+- [ ] 2026-06-09 [How engineers at Nextdoor use Codex to build without limits](https://openai.com/index/nextdoor) *(OpenAI News)*
+- [ ] 2026-06-09 [Introducing North Mini Code: Cohere’s First Model For Developers](https://huggingface.co/blog/CohereLabs/introducing-north-mini-code) *(Hugging Face Blog)*
+- [ ] 2026-06-09 [Migrating Your GitHub CI to Hugging Face Jobs](https://huggingface.co/blog/github-ci-hf-jobs) *(Hugging Face Blog)*
+- [ ] 2026-06-10 [AnthropicがMythosクラス「Fable」を公開、悪用リスクには他モデルが応答](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11815/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [くまモンにファミペイ　強み生かし特定層へ](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/060300553/060300003/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [「統合」が差異化の鍵　決済起点に囲い込み](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/060300553/060300002/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [英郵便局、Horizonの呪縛から脱出へ　アクセンチュアを選び、富士通と決別](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/060400221/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [TLS証明書の有効期間が短縮　2029年3月には最長47日へ](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/092400133/060300196/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [参入、撤退、再編　地歩固めるPayPay](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/060300553/060300001/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [顔認証の利用経験は50％　66％が手ぶらでの本人確認に期待](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600010/060400226/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [AIによる人員削減の功罪を検証](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/060400030/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [クアルコム、6Gは最初からIoTもサポート　5Gの反省生かす](https://xtech.nikkei.com/atcl/nxt/column/18/02928/060400099/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [プロフェッショナルデジタルスキル試験予想問題、アーキテクチャー変更編](https://xtech.nikkei.com/atcl/nxt/column/18/03632/060300004/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [2位は「壁厚3cmのトンネル施工不良、再施工に加え1億8000万円請求へ」経営層の注目トップ10](https://xtech.nikkei.com/atcl/nxt/column/18/02156/060300381/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [Microsoftやバイドゥ、OpenClawサービス続々　課題克服し企業導入を容易に](https://xtech.nikkei.com/atcl/nxt/column/18/03617/060300006/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [AIが経営を決める日　企業を圧倒的勝者と敗者に二分](https://xtech.nikkei.com/atcl/nxt/column/18/03604/060800003/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [4G設備の影響を受けない「5G SA」、安定したサービス提供が可能に](https://xtech.nikkei.com/atcl/nxt/column/18/01842/051900111/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [アカウント乗っ取りを防ぐ基本、「パスキー」と多要素認証を使う](https://xtech.nikkei.com/atcl/nxt/column/18/03598/042000007/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [Microsoft 365のホームタブから消えた「Copilot」、右下アイコンから利用](https://xtech.nikkei.com/atcl/nxt/column/18/01787/060800222/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [破れたジーンズ、短パンはありか？　ITエンジニアの服装に起因するトラブル](https://xtech.nikkei.com/atcl/nxt/column/18/00084/00423/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [2025年の脆弱性は4万8000件、本当に危険なのは58件　優先順位付けが重要に](https://xtech.nikkei.com/atcl/nxt/column/18/00676/060500226/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [雪印メグミルクがNotes/DominoをServiceNowに、3つの課題を克服](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11810/) *(日経クロステック IT)*
+- [ ] 2026-06-10 [IBM、量子コンピューターで「NVIDIAの立ち位置」狙う　100億ドル超投資](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11789/) *(日経クロステック IT)*
+- [ ] 2026-06-09 [大阪ガスが日本IBM、オージス総研とパートナーシップ締結　AIを軸としたシステム変革とは](https://www.itmedia.co.jp/enterprise/articles/2606/10/news036.html) *(ITmedia AI＋)*
+- [ ] 2026-06-09 [考えるSaaSは死に、SoRが生き残る──急成長中Sansan「Contract One」から読み解くリーガルテックの明暗](https://www.itmedia.co.jp/business/articles/2606/10/news014.html) *(ITmedia AI＋)*
+- [ ] 2026-06-09 [“机の下でこっそり”AI使う――セールスフォース社長のAIエージェント活用術とは](https://www.itmedia.co.jp/business/articles/2606/10/news032.html) *(ITmedia AI＋)*
+- [ ] 2026-06-09 [「猫も杓子もAI」な現状は今後も続くのか？【後編】AI時代に必要な3つの検討事項](https://monoist.itmedia.co.jp/mn/articles/2606/10/news010.html) *(ITmedia AI＋)*
+- [ ] 2026-06-09 [政府・著名人のInstagramアカウントが次々に乗っ取り被害　原因はMetaのAIアシスタント？](https://www.itmedia.co.jp/news/articles/2606/10/news015.html) *(ITmedia AI＋)*
+- [ ] 2026-06-09 [AIがシステムの弱点を暴き、AIが攻撃する時代へ　自治体サイバー防衛の「新・生存戦略」](https://www.itmedia.co.jp/business/articles/2606/10/news017.html) *(ITmedia AI＋)*
+- [ ] 2026-06-09 [Anthropic、最上位「ミュトス」級モデルを一般提供　悪用防ぐ保護機能を備えた「Claude Fable 5」](https://www.itmedia.co.jp/aiplus/article/2606/10/2000000073/) *(ITmedia AI＋)*
+- [ ] 2026-06-10 [「速く作る」から「正しく作る」へ ─ AI活用レベル3段階のロードマップ｜AI Engineering Summit Tokyo 2026 登壇レポート - Findy Tech Blog](https://tech.findy.co.jp/entry/2026/06/10/100000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-10 [データ基盤における最大の課題「構築する人材不足」を解決！新機能「Architecture AI データ基盤」をリリース](https://prtimes.jp/main/html/rd/p/000000243.000045379.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-10 [AIがデータ基盤アーキテクチャを自動提案 \| Findy Architecture AI](https://findy-tools.io/data_architecture_proposal/new) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-10 [Anthropic、「Claude Fable 5」をリリース ～噂の「Mythos」級モデルを一般向けに／「Fable 5」の一部安全制限を解除した「Claude Mythos 5」も同時発表](https://forest.watch.impress.co.jp/docs/news/2115807.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-10 [「Claude Fable 5」 アンソロピックのミュトス級の新AI、一般提供 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN09C3S0Z00C26A6000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-10 [サイバー攻撃性能が高すぎるAI「Claude Mythos Preview」は公開済みの脆弱性「N-day」から数時間で攻撃を開発できるため「N-dayからN-hourに常識が変わる」とAnthropicが指摘](https://gigazine.net/news/20260609-anthropics-mythos-exploit/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-10 [ClaudeCodeが出してくるWebデザインの"The定番感"を希釈する（続編 会社のWebサイトをClaude Codeで刷新）｜モルク技術部｜中小企業経営者がAIで業務効率化](https://note.com/at_hirabayashi/n/n83b77ea94ddc) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-10 [バーナード嬢曰く。 百四十九冊目 / 施川ユウキ](https://manga.nicovideo.jp/watch/mg1045373) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-10 [実装は速くなった、レビューはどうする？ ― 自身のレビューをAIで再現させるサーヴァントエンジニアリングのすゝめ / Implementation got faster. So what about reviews? — An invitation to Servant Engineering: Recreating your own code reviews with AI](https://speakerdeck.com/nrslib/implementation-got-faster-so-what-about-reviews-an-invitation-to-servant-engineering-recreating-your-own-code-reviews-with-ai) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-10 [グレース・ホッパーならどう言うだろう ─ COBOLの歴史から見る、民主化された後に残る仕事 - Nothing ventured, nothing gained.](https://takoratta.hatenablog.com/entry/cobol-lessons-for-the-ai-era) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-10 [AIで「平凡な答え」しか出ない人へ…ノーベル賞級の思考法を入手する、禁断プロンプト](https://www.sbbit.jp/article/cont1/185594) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-10 [次世代「Apple Intelligence」登場　AIで進化するアップルのソフトウェア基盤](https://www.watch.impress.co.jp/docs/news/2115441.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-10 [【特集】 有機ELテレビをPCモニターに5年使った結果。避けられなかった焼き付きとその顛末](https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [難解な条文すら関西弁なら理解できる説。試せるサイト「おおさかけんぽう」を作った話](https://zenn.dev/kako_jun/articles/4fe547a1b95b1e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [敵は、あなたに嘘を信じさせなくてもいい ——「パーセプション・ハッキング」という情報戦｜一田和樹のメモ帳](https://note.com/ichi_twnovel/n/n63b755c5426c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [Upcoming breaking changes for npm v12 - GitHub Changelog](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [Cloudflare で実装するハンドルネーム重複判定](https://wbsb.dev/articles/56c3b219-813c-4fcc-90dc-4fe457d94f23) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [ネットに蔓延るサポート詐欺について (その1 観察編) - コーヒーサーバは香炉である](https://blog.maripo.org/2026/06/tech-support-scam-0/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [macOS 27ではAppleシリコンが必須となりIntel Macのサポートがついに終了](https://gigazine.net/news/20260609-macos-27-intel-mac/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [Google「NotebookLM」をGemini 3.5とAntigravityで強化　ソース探索や高度な分析に対応](https://news.mynavi.jp/article/20260609-4558529/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [ローカル端末から「Google Colab」を操作する「Colab CLI」が登場／スキルも同梱、「Antigravity」だけでなく「Claude Code」や「Codex」なども使いこなせる](https://forest.watch.impress.co.jp/docs/news/2115132.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [アメリカが「中国人民解放軍を支援する企業のリスト」にAlibaba・Baidu・BYD・Unitreeなどを追加](https://gigazine.net/news/20260609-china-military-pentagon-alibaba-byd-baidu/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [GitHub - NVIDIA/SkillSpector: Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.](https://github.com/nvidia/skillspector) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [Appleが認めた10代の日本人アプリ開発者　ティム・クックCEOとジョン・ターナス次期CEOも絶賛](https://news.mynavi.jp/article/20260608-4555514/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [Google Chromeと瞬足がまさかのコラボ　「ブラウザで差をつけろ」特製シューズ爆誕](https://www.itmedia.co.jp/news/articles/2606/09/news131.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [SpaceXがいよいよ株式公開　個人も参加できる大型上場](https://www.watch.impress.co.jp/docs/topic/2115709.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-10 [4. まだharnessがagentを強くしたとは言えない。でもPRでagent workの境界、検証結果、再利用できる証拠を記録し始めた](https://zenn.dev/yuuaan/articles/c31015e9e8b9e5) *(Zenn – トピック AI)*
+- [ ] 2026-06-10 [転職支援AIエージェントをClaude Codeで自作したら、API換算で月15万円だった話](https://zenn.dev/mtstring/articles/claude-code-job-search-agent) *(Zenn – トピック AI)*
+- [ ] 2026-06-10 [WWDC26を見て考えたこと：AIが「実装」から「インフラ」へ変わる日](https://zenn.dev/hsylife/articles/0714a13f50e577) *(Zenn – トピック AI)*
+- [ ] 2026-06-10 [プロジェクト雛形を作って終わりにしない：Codexで更新差分を安全に扱う](https://zenn.dev/tohru_ohnishi/articles/fa3add2652d99a) *(Zenn – トピック AI)*
+- [ ] 2026-06-10 [Anthropic、Claude Fable 5 と Claude Mythos 5 を発表](https://zenn.dev/shirochan/articles/ced2da1916ca48) *(Zenn – トピック AI)*
+- [ ] 2026-06-10 [Claude Fable 5 公開——「Opus の上」に来た新ティアは GPT-5.5 と何が違うのか](https://zenn.dev/kakuremi/articles/claude-fable-5-vs-gpt-5-5) *(Zenn – トピック AI)*
+- [ ] 2026-06-10 [「何でも作れる時代」に問われるのは設計力と柔軟性 ── Scott Hanselman @ AI Engineering Summit To](https://zenn.dev/takechanel/articles/fcccb49778a3a0) *(Zenn – トピック AI)*
+- [ ] 2026-06-10 [Claude Fable 5 まとめ — 料金・API 利用・Bedrock 対応](https://zenn.dev/shintaroamaike/articles/5477a14e36cec9) *(Zenn – トピック AI)*
+- [ ] 2026-06-10 [取材音声を Google に渡している、という感覚 — 外部AIに送らない文字起こしSaaSを作った理由](https://zenn.dev/penne_inc/articles/privacy-first-transcription-design) *(Zenn – トピック AI)*
+- [ ] 2026-06-10 [製造業のデータサイロをNangoで統合：AIに必要なデータだけを通す実践構成](https://zenn.dev/yutaka8484/articles/kobayashi-20260610-nango-unify-apis-dx) *(Zenn – トピック AI)*
+- [ ] 2026-06-10 [手順書をエージェントに実行させる——5年使ったWindowsからMacへの移行を「RUNBOOK as Code」で乗り切った話](https://zenn.dev/tokium_dev/articles/runbook-as-prompt-agent-migration) *(Zenn – トピック AI)*
+- [ ] 2026-06-09 [AIエージェントのコンテキスト消費を80%削減するCLIツール「ctxpack」を作った](https://zenn.dev/pepabo/articles/ctxpack-ai-context-extractor) *(Zenn – トピック AI)*
+- [ ] 2026-06-09 [grepを毎回起動するの、もうやめたい。FFFでAIの検索体験を速くする](https://zenn.dev/masato13/articles/d4fc8961b9c9d9) *(Zenn – トピック AI)*
+- [ ] 2026-06-09 [弱いAIで強いAIと戦う方法 — Semgrepの検証パイプラインに学ぶ、低資本時代の個人開発設計論](https://zenn.dev/nobmake/articles/7c04f8cad98eff) *(Zenn – トピック AI)*
+- [ ] 2026-06-09 [Claude Code のコスト削減を実測に落とす — 1施策ずつ段階投入して前週比を測る運用設計](https://zenn.dev/ojt/articles/claude-code-cost-reduction-canary-measurement) *(Zenn – トピック AI)*
+- [ ] 2026-06-09 [SDV移行で失敗する企業の3つの共通点](https://zenn.dev/naoki_hashimoto/articles/sdv-transition-failure-patterns) *(Zenn – トピック AI)*
+- [ ] 2026-06-09 [Claude Fable 5 — Opus の上に来た新ティアを実装者目線で整理する](https://zenn.dev/yutabeee/articles/claude-fable-5-developer-guide) *(Zenn – トピック AI)*
+- [ ] 2026-06-09 [AIとはハードスキルではなくソフトスキルを写す鏡である](https://zenn.dev/jins/articles/ef73f2613423e6) *(Zenn – トピック AI)*
+- [ ] 2026-06-09 [【前編】Claude Opus 4.8で考え、Sonnet 4.6に書かせる ── CLAUDE.mdに「AIへのルール」を置いてClaud](https://zenn.dev/hi_met/articles/b2c1ba0cd921bd) *(Zenn – トピック AI)*
+- [ ] 2026-06-09 [board の請求・見積を AI から操作する MCP サーバを作った（非公式OSS / TypeScript）](https://zenn.dev/breakedge/articles/6997e3ff46f1a5) *(Zenn – トピック AI)*
