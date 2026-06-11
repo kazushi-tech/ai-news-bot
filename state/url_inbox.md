@@ -92047,3 +92047,76 @@
 - [ ] 2026-06-10 [大阪のカフェ市場を分析して出店診断アプリを作ってみた](https://zenn.dev/kenji0115/articles/5f6df91b4e1992) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-10 [生成AIを使いこなすエンジニアと、使いこなせないエンジニアの差 ―― AIは知能の代替ではなく、思考と設計の増幅器である](https://zenn.dev/albatrosary/articles/33d3818371246d) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-10 [論文メモ：Patch Forcingのパッチ別timestepと適応サンプリング](https://zenn.dev/kas_blog/articles/20260610-patch-forcing-adaptive-sampling) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-11T15:25:20.980Z
+- [ ] 2026-06-11 [AI wealth boom sending San Francisco home prices surging: ‘It’s ridiculous’](https://www.theguardian.com/us-news/2026/jun/11/ai-wealth-boom-san-francisco-home-prices) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-11 [AI absolutism is breaking our brains. The apocalyptic future we’re being sold isn’t inevitable](https://www.theguardian.com/technology/2026/jun/11/ai-absolutism-apocalyptic-future) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-11 [Those tedious errands, tasks and chores that AI wants to replace? They help keep you fit \| Manoush Zomorodi and Keith Diaz](https://www.theguardian.com/commentisfree/2026/jun/11/ai-tasks-errands-health) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-11 [AI's Hidden Energy Bill: Why Visibility is Becoming Critical for Enterprises](https://aibusiness.com/generative-ai/ai-s-hidden-energy-bill-why-visibility-becoming-critical-enterprises) *(AI Business)*
+- [ ] 2026-06-11 [Neura Robotics Raises $1.4B for Physical AI](https://aibusiness.com/robotics/neura-robotics-raises-1-4b-physical-ai) *(AI Business)*
+- [ ] 2026-06-11 [Startup Gets OpenAI Backing to Overhaul Enterprise AI Automation](https://aibusiness.com/generative-ai/startup-openai-backing-overhaul-enterprise-ai-automation) *(AI Business)*
+- [ ] 2026-06-11 [AI doesn’t just help us think, it thinks instead of us: what this means for the process of learning](https://theconversation.com/ai-doesnt-just-help-us-think-it-thinks-instead-of-us-what-this-means-for-the-process-of-learning-284038) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-11 [How Pennsylvania towns are protecting themselves from the noise, heat and utility costs of massive data centers](https://theconversation.com/how-pennsylvania-towns-are-protecting-themselves-from-the-noise-heat-and-utility-costs-of-massive-data-centers-282126) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-11 [Drone use poised to soar as FAA homes in on rule change allowing pilots to fly them out of sight](https://theconversation.com/drone-use-poised-to-soar-as-faa-homes-in-on-rule-change-allowing-pilots-to-fly-them-out-of-sight-268350) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-11 [India’s AI Hardware Scrutiny Puts Biometric Devices in Focus](https://www.techrepublic.com/article/news-ai-biometric-hardware-controls-apac-india/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-11 [How a Google DeepMind Spinoff Hunts Hidden Drug Targets](https://spectrum.ieee.org/isomorphic-labs-ai-drug-discovery) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-06-11 [Feature Stores from Scratch: A Minimal Working Implementation](https://www.kdnuggets.com/feature-stores-from-scratch-a-minimal-working-implementation) *(KDnuggets)*
+- [ ] 2026-06-11 [7 Best Ways to Get Funding for Your Startup Idea](https://www.kdnuggets.com/7-best-ways-to-get-funding-for-your-startup-idea) *(KDnuggets)*
+- [ ] 2026-06-11 [OpenAI to Acquire Cloud Platform Ona to Support AI Agents](https://www.bloomberg.com/news/articles/2026-06-11/openai-to-acquire-cloud-platform-ona-to-support-ai-agents) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [NTT Unit Said to Seek $1 Billion to Develop Data Centers in US](https://www.bloomberg.com/news/articles/2026-06-11/ntt-unit-said-to-seek-1-billion-to-develop-data-centers-in-us) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Richards Says SpaceX Is Biggest Rising Star of All Time](https://www.bloomberg.com/news/videos/2026-06-11/richards-says-spacex-is-biggest-rising-star-of-all-time-video) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Crusoe Pushed Aside at Wyoming AI Project After Google Concerns](https://www.bloomberg.com/news/articles/2026-06-11/crusoe-pushed-aside-at-wyoming-ai-project-after-google-concerns) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [True 'FOMO' Is Still Ahead of Us, Emanuel Says](https://www.bloomberg.com/news/videos/2026-06-11/true-fomo-is-still-ahead-of-us-emanuel-says-video) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Software Stock Reversal Has Traders Bracing for More Pain Ahead](https://www.bloomberg.com/news/articles/2026-06-11/software-stock-reversal-has-traders-bracing-for-more-pain-ahead) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [DoorDash Built an AI Chatbot to Help With Orders, Reservations and Grocery Lists](https://www.bloomberg.com/news/articles/2026-06-11/doordash-s-ask-doordash-ai-chatbot-can-help-with-orders-groceries-reservations) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Amazon Says Its Data Centers Use 2.5 Billion Gallons of Water](https://www.bloomberg.com/news/articles/2026-06-11/amazon-says-its-data-centers-use-2-5-billion-gallons-of-water) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [OpenAI's Osborne on Governments Adopting AI](https://www.bloomberg.com/news/videos/2026-06-11/openai-s-osborne-on-governments-adopting-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [SpaceX IPO Draws More Than $70 Billion in Retail Orders](https://www.bloomberg.com/news/articles/2026-06-11/spacex-ipo-said-to-draw-more-than-70-billion-in-retail-orders) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [UK Energy Regulator Warns Data Centers Are Hoarding Grid Capacity](https://www.bloomberg.com/news/articles/2026-06-11/uk-energy-regulator-warns-data-centers-are-hoarding-grid-capacity) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Apollo Is Screening All Software Investments for AI Threat Risk](https://www.bloomberg.com/news/articles/2026-06-11/apollo-is-screening-all-software-investments-for-ai-threat-risk) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Anduril Open to Building Weapons Hub Outside US, CEO Says](https://www.bloomberg.com/news/videos/2026-06-11/anduril-open-to-building-weapons-hub-outside-us-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Tech Investor’s $18 Billion Fundraising Haul Defies AI Fears](https://www.bloomberg.com/news/articles/2026-06-11/francisco-partners-defies-ai-fears-with-18-billion-buyout-haul) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [US Premarket Movers for June 11, 2026](https://www.bloomberg.com/news/articles/2026-06-11/us-stock-futures-today-chipmakers-dana-eaton-intel-oracle) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Anduril CEO Says He’s Open to Building Weapons Hub Outside of US](https://www.bloomberg.com/news/articles/2026-06-11/anduril-ceo-says-he-s-open-to-building-weapons-hub-outside-of-us) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Data Center Battery Maker ZincFive to Merge With SparkLabs SPAC](https://www.bloomberg.com/news/articles/2026-06-11/data-center-battery-maker-zincfive-to-merge-with-sparklabs-spac) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Tether Chief Business Officer Habbel Departs Stablecoin Giant](https://www.bloomberg.com/news/articles/2026-06-11/tether-chief-business-officer-habbel-departs-stablecoin-giant) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [ShopMy Turns Everyone Into an Influencer Seeking a Commission](https://www.bloomberg.com/news/newsletters/2026-06-11/shopmy-turns-everyone-into-an-influencer-seeking-a-commission) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [The Cost of AI Is Showing Up in Inflation](https://www.bloomberg.com/news/newsletters/2026-06-11/ai-boom-drives-computer-memory-prices-up-200-adding-to-us-inflation) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Grindr CEO Wants His Dating App to Become a Gay Culture Hub](https://www.bloomberg.com/news/features/2026-06-11/grindr-ceo-george-arison-wants-the-dating-app-to-become-a-gay-culture-hub) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [SpaceX IPO Will Mint Billions for a New Silicon Valley Hierarchy](https://www.bloomberg.com/news/articles/2026-06-11/spacex-ipo-will-mint-billions-for-a-new-silicon-valley-hierarchy) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Warren Wants Wall Street to Disclose Data on AI Firm Exposure](https://www.bloomberg.com/news/articles/2026-06-11/warren-wants-wall-street-to-disclose-data-on-ai-firm-exposure) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Oracle Falls as Data Center Costs Exceed Estimates](https://www.bloomberg.com/news/videos/2026-06-11/oracle-falls-as-data-center-costs-exceed-estimates-video) *(Bloomberg Technology)*
+- [ ] 2026-06-11 [Stranger than Heaven hands-on: Harder than Yakuza?](https://www.engadget.com/2191763/stranger-than-heaven-hands-on-harder-than-yakuza/) *(Engadget)*
+- [ ] 2026-06-11 [I'm glad Apple isn't hyping up agentic AI (yet)](https://www.engadget.com/2192124/im-glad-apple-isnt-hyping-up-agentic-ai-yet/) *(Engadget)*
+- [ ] 2026-06-11 [Artemis III's life support: How a spacesuit keeps astronauts alive on the moon](https://www.engadget.com/2191840/artemis-iii-s-life-support-how-a-spacesuit-keeps-astronauts-alive-on-the-moon/) *(Engadget)*
+- [ ] 2026-06-11 [Former Fitbit executive unveils new necklace that tracks UV exposure](https://www.engadget.com/2191594/former-fitbit-executive-unveils-new-necklace-that-tracks-uv-exposure/) *(Engadget)*
+- [ ] 2026-06-11 [Tomb Raider: Legacy of Atlantis is a vivid, high-pace remake of a classic](https://www.engadget.com/2189096/tomb-raider-legacy-of-atlantis-is-a-vivid-high-pace-remake-of-a-classic/) *(Engadget)*
+- [ ] 2026-06-11 [Engadget's favorite Game Boy Advance games](https://www.engadget.com/2191800/engadget-s-favorite-game-boy-advance-games/) *(Engadget)*
+- [ ] 2026-06-11 [Bluesky will launch Reddit-style communities this year](https://www.engadget.com/2192047/bluesky-will-launch-communities-this-year/) *(Engadget)*
+- [ ] 2026-06-11 [Deezer now helps users find AI music on other streaming platforms](https://www.engadget.com/2192024/deezer-ai-music-detector/) *(Engadget)*
+- [ ] 2026-06-11 [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](https://huggingface.co/blog/torch-mlp-fusion) *(Hugging Face Blog)*
+- [ ] 2026-06-11 [積水化学工業の基幹システム刷新、AI活用に向けた業務の標準化とデータ整備](https://xtech.nikkei.com/atcl/nxt/column/18/03585/061100020/) *(日経クロステック IT)*
+- [ ] 2026-06-11 [NECとAnthropic、三井住友FGなど金融8社と協業　金融業界のAI実装拡大へ](https://xtech.nikkei.com/atcl/nxt/news/24/03264/) *(日経クロステック IT)*
+- [ ] 2026-06-11 [情報処理安全確保支援士試験予想問題、ファイアウオール編](https://xtech.nikkei.com/atcl/nxt/column/18/03632/060400005/) *(日経クロステック IT)*
+- [ ] 2026-06-11 [Claude Cowork、3層管理でリスク回避　「便利だが危ない」を克服する処方箋](https://xtech.nikkei.com/atcl/nxt/column/18/03617/060200005/) *(日経クロステック IT)*
+- [ ] 2026-06-11 [身体性で考えるキーボードとマウス](https://xtech.nikkei.com/atcl/nxt/column/18/00138/052702029/) *(日経クロステック IT)*
+- [ ] 2026-06-11 [米SnowflakeのCEO「Mythosは脅威であり機会」、Anthropicと提携拡大](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11807/) *(日経クロステック IT)*
+- [ ] 2026-06-11 [アメリカ政府がAIの脅威に対処するため最も深刻な脆弱性の対応期限を「3日」に設定](https://gigazine.net/news/20260611-cisa-prioritizing-security/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-11 [AIもフィッシング詐欺に引っかかることが判明、上司を装ったメール1通でAWS認証情報を外部へ送信](https://gigazine.net/news/20260611-openclaw-ai-phishing/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-11 [OpenAIとVisaが提携してAIエージェントが自動でオンラインの購入手続きを完了可能に](https://gigazine.net/news/20260611-visa-openai-partners-ai-commerce/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-11 [「AIに書けない文章」はある。でも「AIと書けない文章」はない。 - あたまの中を循環する](https://ichi06ka.hatenablog.com/entry/20260611/1781166600) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-11 [Google、検索サービスのプライバシー設定を刷新　レンズ画像や音声もデフォルトで保存対象に](https://www.itmedia.co.jp/news/articles/2606/11/news113.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-11 [「Claude Fable 5」をAIの開発に利用するとこっそり性能が制限されることが判明、セキュリティ対策も厳しすぎて不満が続出](https://gigazine.net/news/20260611-claude-fable-safeguards-rule/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-11 [Anthropicが高度なAIシステムによる壊滅的なリスクへの対処方法と労働市場の混乱への対応方法に関する政策提言を発表](https://gigazine.net/news/20260611-anthropic-ai-policy/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-11 [創造のサイクルとの調和がとれたAI利活用の実現に向けて \| JASRAC](https://www.jasrac.or.jp/aboutus/ai.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-11 [Claude Fable 5が、どうやっても再現できなかったゲームを忠実に作ってくれた（CloseBox） \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/06/11/5171.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-11 [将来有望なサッカー選手の才能をAIで発掘することはできるのか？](https://gigazine.net/news/20260611-can-ai-spot-next-football-superstar/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-11 [「作詞が人間、作曲はAI」にも著作権　JASRACが方針を公表：朝日新聞](https://www.asahi.com/articles/ASV6B5CQYV6BPTIL015M.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-11 [Dario Amodei — Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-11 [俺はヨドバシのことをAmazonの帝国支配に対する確かな野党だと思ってるけど、いかんせんUIが2007年すぎる「困ってないからそのままでいて欲しい」](https://togetter.com/li/2708057) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-11 [iPhoneがもっと便利になる！おすすめショートカット10選 \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2606-10-apple-shortcuts-hacks-every-iphone-user-should-know/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-11 [「npm install」だけでコードが実行される時代が終了へ、npmが自動スクリプト実行を標準で停止する予定](https://gigazine.net/news/20260611-npm-install-script/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-11 [YAPC::Tokyo 2026](https://yapcjapan.org/2026tokyo/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-11 [大切なのは「時間」以上に「心」の余裕。OSS活動を続けるために私が“やらないこと” - Findy Media](https://findy-code.io/media/articles/list-koic) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-11 [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-11 [Anthropic、「Fable 5」のガードレールの仕組みを説明　課金の仕組みや設定変更方法など](https://www.itmedia.co.jp/news/articles/2606/11/news104.html) *(はてなブックマーク – IT 人気エントリ)*
