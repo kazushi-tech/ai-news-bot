@@ -92690,3 +92690,55 @@
 - [ ] 2026-06-12 [Stable Diffusionからの概念消去㉚: SPEED（論文）](https://zenn.dev/fmuuly/articles/e1b25383a7779d) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-12 [行列積の低レベル最適化 — 手書き NEON で Register Blocking](https://zenn.dev/ux_xu/articles/mlir-matmul-register-blocking) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-12 [あなたの競馬 AI の backtest は既に壊れている — データリーク自動検出 3 つのコード](https://zenn.dev/punch_cola/articles/b5c0e08bff4789) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-13T19:02:24.032Z
+- [ ] 2026-06-13 [Meta Employee Laid Off, Immediately Detained by ICE](https://futurism.com/artificial-intelligence/meta-employee-laid-off-detained-ice) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-13 [Visa Officially Allowing AI Agents to Go Ham With Your Credit Card](https://futurism.com/artificial-intelligence/visa-allowing-ai-use-credit-card) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-13 [Why the US Is Investing in Quantum Computing](https://www.bloomberg.com/news/videos/2026-06-13/why-the-us-is-investing-in-quantum-computing-video) *(Bloomberg Technology)*
+- [ ] 2026-06-13 [The Creepshow video game is coming out this summer](https://www.engadget.com/2193718/creepshow-shudder-video-game-adaptation-is-coming-out-this-summer/) *(Engadget)*
+- [ ] 2026-06-13 [Why your cardiologist might tell you to skip AirPods](https://www.engadget.com/2193554/airpods-pacemakers-magnet-interference/) *(Engadget)*
+- [ ] 2026-06-13 [How to use AirPods to control your iPhone camera](https://www.engadget.com/2193237/airpods-control-iphone-camera-how-to/) *(Engadget)*
+- [ ] 2026-06-13 [Parker Solar Probe makes another flyby of the sun, solar energy bags a win, and more science stories](https://www.engadget.com/2193686/parker-solar-probe-makes-another-flyby-of-the-sun-solar-energy-bags-a-win-science-news/) *(Engadget)*
+- [ ] 2026-06-13 [Why some USB ports are purple (and why they're rarely sold in the US)](https://www.engadget.com/2190885/why-some-usb-ports-are-purple-and-why-they-re-rarely-sold-in-the-us/) *(Engadget)*
+- [ ] 2026-06-13 [Claude Codeに人生を管理させて3ヶ月、一番効いたのは自動化じゃなかった - Qiita](https://qiita.com/ktdatascience/items/3c8949b62ce1dfe7a024) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-13 [How to Setup a Local Coding Agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-13 [AI Agent Conference 2026 参加レポート - ZOZO TECH BLOG](https://techblog.zozo.com/entry/ai-agent-conference-2026) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-13 [1on1、雑談タイム──これらが失敗に終わるのはなぜか \| サイボウズ式](https://cybozushiki.cybozu.co.jp/articles/m006330.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-13 [第99回五月祭公式ウェブサイト](https://visitor.gogatsusai.jp/news/20260613/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-13 [Build Agents on Cloudflare](https://developers.cloudflare.com/agents/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-13 [GitHub、Copilot CLI向け「LSP Setup」スキルを紹介、定義ジャンプや型情報でコード理解を支援 \| gihyo.jp](https://gihyo.jp/article/2026/06/github-copilot-cli-lsp-setup) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-13 [WASI 0.3 Launched](https://bytecodealliance.org/articles/WASI-0.3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-13 [CLAUDE.mdに書いたのに守られない——その正体は「渡す場所」の設計だった（Zenn Book Vol.4「仕組みを渡すまで」）](https://zenn.dev/tottoko_hamu/articles/2026-06-11-173500) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [LLMは長文を本当に読めているのか？「Lost in the Middle」から考えるRAG設計](https://zenn.dev/japan/articles/73ad921caeb0bd) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [LLMOps学習でBedrock + Claudeを動かしてみた](https://zenn.dev/yukika/articles/20260613_bedrock_claude_first_step) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [多層プロンプトスキーマ（Hierarchical Prompt Schema）](https://zenn.dev/yoshi_katakura/articles/3b1952f0096a64) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [構造化パースはBM25よりdense検索を助ける — 日本語文書で計測、差は2倍に広がった](https://zenn.dev/elvisyao/articles/ddb59295fc5b31) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [検索結果を増やす前に見るRAG設計](https://zenn.dev/mofuteq/books/a2fff004033f5b) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [AIエージェントのツール実装に関して](https://zenn.dev/shuzan/articles/5f83a5ab3fbcd8) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [ローカルLLM × 自作ギャル声で雑談CLIを作ったのでおしゃべりしてみた](https://zenn.dev/koizumiiiii/articles/3a566668b65b03) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [Ollama(オラマ)で月額0円のローカルLLM環境を構築してみた](https://zenn.dev/phinata/articles/ollama-local-llm) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [DiffusionGemmaの「生成途中の揺らぎ」で概念の矛盾を測る](https://zenn.dev/tesla/articles/9e618eb27c01ff) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [Sayane Chrome Extensionで始める：LLMの言葉を文脈候補として持ち帰る](https://zenn.dev/tomyuk/articles/sayane-02-chrome-extension) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [「字幕なし動画」はほぼ存在しなかった — n8n＋ローカルWhisperで個人メディアのネタ収集を自動化した話](https://zenn.dev/hanappu3/articles/ba4d191b342544) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [Agent Zero、Hermes Agent、OpenClaw の比較と開発思想](https://zenn.dev/nobmake/articles/ca1c79f991fb01) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [Claude Fable 5 はどんなコーディング特性だったのか——Opus 4.8 と統計的に比較した記録（オトナの自由研究 #26）](https://zenn.dev/nnakapa/articles/lab-26-fable5-opus48-coding-traits) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [`claude-fable-5` が一晩で404になった日：モデルID固定をやめて退避ルートを設計する](https://zenn.dev/hironakamura_ai/articles/1a6f1ff1157ab5) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [AIタロット占いアプリを作ったら、AIが想像以上のポエマーだった話](https://zenn.dev/chiaki25/articles/284cd8afb8d1ce) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [MLflowでLLMエージェントのトレースを記録する：実験管理とデバッグを一元化する](https://zenn.dev/libercraft/articles/20260613-mlflow-agent-tracing) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [あなたのAIサービスはEU AI法 第50条の対象? 3分でわかる適用判定フローと最小対応](https://zenn.dev/akagifreeez/articles/eu-ai-act-art50-intro) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [DESIGN.md入門：AIのUIを「それっぽい」から抜け出させる設計ファイル](https://zenn.dev/53able/articles/2eddeed153c41c) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [Fable 5にローカルLLMで動くコーディングエージェントを作らせてた話](https://zenn.dev/yy7613/articles/173404d60a6150) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [Codex の MCP 導入方法整理 — config.toml / Claude Code との比較（2026年6月時点）](https://zenn.dev/nanananano/articles/b8022ca6aa1cc4) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [ニューラルネットワークは FizzBuzz を「理解」できるのか――未知の桁数への外挿実験](https://zenn.dev/mantis_ryuji/articles/fizz-buzz-exp) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [なぜAI生成コードは危ないのか — スキャナを作って見えた現実](https://zenn.dev/numarn/articles/73fa473c161361) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [topics.txtを書くだけ。arXivの最新論文をPDFで届けるツール作った](https://zenn.dev/schhrcat/articles/1d15251a3b4311) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [AIに書かせた関係図を、そのままブラウザで動かせる「FlowLite」を作りました](https://zenn.dev/flowlite/articles/92113846ea8e02) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [LLMの出力の出し方](https://zenn.dev/sog00/articles/logits-parameter) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [所属・担当・武勇伝を能力と誤認しないためのエンジニア評価設計 - 構造で育てるプロダクト組織付録17](https://zenn.dev/kanaria007/articles/f08d3ce5951141) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [2026年5月 AIビジビリティランキング — 104社のECサイトを4つのAI APIで殴って引用パターンを調べた](https://zenn.dev/pulse_digital/articles/ai-visibility-2026-05-ranking) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [5年止まっていた個人開発が Kiro / Cursor で動き出した話](https://zenn.dev/harusaki_saku/articles/5d942dfd602398) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [PRレビューのワークフローにAI秘書を挟む ― 「どのPRを見るか」の管理をAIに任せる](https://zenn.dev/pivotmedia/articles/scheduled-ai-pr-review-triage) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [リリースノート用のスクショを短いデモ動画にするAI活用メモ](https://zenn.dev/seemagicai/articles/7af5878364f61a) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [AIエージェントのPRは「差分」ではなく「意思決定ログ」としてレビューする](https://zenn.dev/heftykoo/articles/2ef4dac14f86bc) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [Claude Code の /goal で「完了まで自律実行」を実現する](https://zenn.dev/tatsuqumo/articles/d10494cb4a440e) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [agent-browser実践入門：SkillsとProcedureで学ぶAIブラウザ業務自動化](https://zenn.dev/tu_hayaoki/books/agent-browser-practical) *(Zenn – トピック AI)*
