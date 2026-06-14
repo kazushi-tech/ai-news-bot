@@ -92798,3 +92798,51 @@
 - [ ] 2026-06-14 [Count Anythingはなぜ数え間違いを半分にできたか：1つの大モデルをやめて密度で割る](https://zenn.dev/hironakamura_ai/articles/73610b72e5904d) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-14 [勾配クリッピング（Gradient Clipping）で学習は安定する？Keras×CIFAR-10で実験](https://zenn.dev/wasurenamemo/articles/7a9633446ca793) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-14 [競馬 AI は『何ベットで見切る』べきか — ベイズ逐次更新で戦略の生死を判定する](https://zenn.dev/punch_cola/articles/4d44aac9704611) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-14T13:21:23.567Z
+- [ ] 2026-06-14 [Scientists are working on headphones that block annoying noises and allow the ones you love? I can’t wait! \| Emma Beddington](https://www.theguardian.com/commentisfree/2026/jun/12/scientists-headphones-block-annoying-noises) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-14 [Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace \| Heather Stewart](https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-14 [‘Have I been influenced, or is this actually me?’ How personal taste fell out of fashion](https://www.theguardian.com/media/2026/jun/14/have-i-been-influenced-personal-taste-out-of-fashion-algorithm) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-14 [Consulting Firm’s Report on How Awesome AI Is Found to Contain Idiotic AI Hallucinations](https://futurism.com/artificial-intelligence/consulting-firms-ai-report-hallucinations) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-14 [Crypto Token’s 50% Wipeout Shows Magnitude of AI-Hacking Threat](https://www.bloomberg.com/news/articles/2026-06-14/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat) *(Bloomberg Technology)*
+- [ ] 2026-06-14 [How Google Is Reinventing Search with AI](https://www.bloomberg.com/news/videos/2026-06-14/how-google-is-reinventing-search-with-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-06-14 [AI Turns Coders, Lawyers and Analysts Into Ghosts of London’s Past](https://www.bloomberg.com/news/articles/2026-06-14/ai-led-job-losses-bite-for-london-s-coders-lawyers-and-analysts) *(Bloomberg Technology)*
+- [ ] 2026-06-14 [UK to Announce Social Media Ban for Teens This Week, Nandy Says](https://www.bloomberg.com/news/articles/2026-06-14/uk-to-ban-under-16s-from-social-media-including-ai-chatbots-tiktok) *(Bloomberg Technology)*
+- [ ] 2026-06-14 [Amazon、Anthropicの最新AIについて懸念を伝えていた　米政権による停止命令に先立ち　関係筋](https://www.itmedia.co.jp/news/articles/2606/14/news019.html) *(ITmedia AI＋)*
+- [ ] 2026-06-14 [実装前に設計を徹底的にインタビューし、要件を明確にするためのスキル `/grill-me`](https://azukiazusa.dev/blog/before-implementation-interview-design-requirements-grill-me/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [ループエンジニアリングで再考する仕様書駆動開発 \| ドクセル](https://www.docswell.com/s/laiso/ZY8VG4-sdd-in-loop-engineering) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [ビッグステイの時代が到来 ― 転職で給料が上がる10年の終わり｜久松剛](https://comemo.nikkei.com/n/neb3d2f9c0cad) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [Opensource AI Must Win](https://opensourceaimustwin.com/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [GitHub - coder/boo: A GNU screen style terminal multiplexer built on libghostty.](https://github.com/coder/boo) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [「エンジニアのキャリアを知るナイト」に参加してきた - Magnolia Tech](https://blog.magnolia.tech/entry/2026/06/13/210032) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [GitHub - Latias94/merman: Mermaid.js, but headless, in Rust.](https://github.com/Latias94/merman) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Affected Packages - Phoronix](https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [MarkdownをWord,PDF,HTMLに一発変換する ~ 文章作成はWordをやめてMarkdownにしよう ~](https://zenn.dev/masa0902dev/articles/markdown-to-word-pdf-html-with-pandoc) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [自分がやっていることを伝える技術 - Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2026/06/14/175633) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [GitHub - lance0/ttl: Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.](https://github.com/lance0/ttl) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [GitHub - elio-fm/elio: Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support](https://github.com/elio-fm/elio) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [GitHub - MoonshotAI/kimi-code: Kimi Code CLI — The Starting Point for Next-Gen Agents](https://github.com/MoonshotAI/kimi-code) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [Anthropic、「Fable 5」「Mythos 5」のアクセスを停止、米国政府による輸出管理指令／その他のモデルは利用可能](https://forest.watch.impress.co.jp/docs/news/2116968.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた](https://gigazine.net/news/20260613-kdp-pre-orders/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [Copilot Pro移行後の実測 — 付属は1,500クレジット、でもCLIは2回で16クレジット消えた](https://zenn.dev/toki_mwc/articles/copilot-credits-actual-vs-forecast) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [エンジニアのキャリアを知るナイトを開催しました【イベントレポ】 - 歩くパワースポットでありたい。](https://2323-code.hatenablog.com/entry/2026/06/14/132551) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [コンテキスト(仕様)が増えると、Claudeは何を忘れるか — 1,300行→7,000行で測った「優先枠」の話](https://zenn.dev/mumihatsu/articles/6aeb897666a724) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [AIと一緒に海外情報メディアを作った話【Mirai Signal】](https://zenn.dev/mqs/articles/7e512563160dce) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [Github Copilot のトークン消費を抑えるコツ](https://zenn.dev/ihdk77/articles/2f25c077c2c54d) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [Spec Kitで仕様駆動開発を始めよう](https://zenn.dev/haru_iida/articles/github-spec-kit-guide) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [AIが書いたコミットの下書きを、自分で調整してからコミットするVS Code拡張を作りました](https://zenn.dev/yskabe/articles/45d82d9b268091) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [ClaudeにSNSの数字を読ませるためのMCP対応ツールを作った](https://zenn.dev/tatsu55/articles/848ab641d0ceca) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [【2026/6/14】AnthropicのFable 5が公開3日で利用停止に — 米政府の輸出規制指令で何が起きたのか](https://zenn.dev/sktt_panda/articles/claude-fable-5-suspension-2026-06) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [PMはAIと一緒にやろう 〜最も価値ある行動に集中するために〜](https://zenn.dev/tamako8782/articles/52314b19f669c5) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [スキーマ設計（PHP配列）がAIエージェントにとって最も低コストな構造である理由](https://zenn.dev/youheiokubo/articles/ee232967564968) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [センスの根幹はLLMではなくRAGだった](https://zenn.dev/mofuteq/articles/4b036078c7512d) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [情報過多な時代に、そっと背中を押す「AIタロット」が生まれるまで](https://zenn.dev/chiaki25/articles/e5917edeb91853) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [AIで生成したMVPをスプリントに入れる前のチェックリスト](https://zenn.dev/viviansama/articles/dc3a80e1570539) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [AIどうしを喋らせて音声でテストさせたら、自分が見落としたバグが次々出てきた](https://zenn.dev/rizzai/articles/92fdf1e742ef50) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [私が考えるAI協働とは — Viewをデータ化した先に見えた世界](https://zenn.dev/frb_tamasub/articles/ai-collaboration-json-studio-and-diff-culture) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [AI時代の開発体制について、私なりの「ハーネスエンジニアリング」](https://zenn.dev/isami/articles/ee15be1ee0d8f2) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [［技術編］ハーネスエンジニアリングの実装](https://zenn.dev/isami/articles/66cb042dc4e57f) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [LLM品質テスト・監査プロセス——スプレッドシートから自動化まで](https://zenn.dev/kei_concierge/articles/llm-quality-testing-audit-process-part2) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [業務改善、手相占いで決めてませんか](https://zenn.dev/continuitymodel/articles/b47531c5cee569) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [人間が操作できない動画編集ツール群を作った — clipwright v0.2.0](https://zenn.dev/satoh_y_0323/articles/f04a202b044b3f) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [Claude Code でツール作成（C#で）その２](https://zenn.dev/totosasa_jp/articles/4a12a35888889d) *(Zenn – トピック AI)*
