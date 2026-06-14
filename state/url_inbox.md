@@ -92773,3 +92773,28 @@
 - [ ] 2026-06-13 [GA した GitHub Copilot SDK (.NET) を試してみた](https://zenn.dev/microsoft/articles/github-copilot-sdk-dotnet-ga) *(Zenn – トピック AI)*
 - [ ] 2026-06-13 [社内ガイドラインが効かない、情報漏洩は安易な個人AI利用からはじまる](https://zenn.dev/syoshida07/articles/baa36522c872e6) *(Zenn – トピック AI)*
 - [ ] 2026-06-13 [Gradient Surgery for Multi-Task Learning](https://zenn.dev/oyatomo/articles/6da8bc0d7900cd) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-14T08:57:20.135Z
+- [ ] 2026-06-14 [Jack Ma-Backed Ant Group Set for High-Stakes Overhaul of Billion-User App](https://www.bloomberg.com/news/articles/2026-06-14/jack-ma-backed-ant-set-for-high-stakes-overhaul-of-billion-user-alipay-app) *(Bloomberg Technology)*
+- [ ] 2026-06-14 [SpaceX Surge Further Boosts Saudi Billionaire Prince’s Fortune](https://www.bloomberg.com/news/articles/2026-06-14/spacex-surge-further-boosts-saudi-billionaire-prince-s-fortune) *(Bloomberg Technology)*
+- [ ] 2026-06-14 [Starmer to Meet Japan’s Takaichi as Fighter Jet Funding Sputters](https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-meet-japan-s-takaichi-as-fighter-jet-funding-sputters) *(Bloomberg Technology)*
+- [ ] 2026-06-14 [「とうとうChatGPTがBANされてしまった」3年間の歴史が一通のメールで全て消えたというポスト主…同情の声が集まるが、その理由を知って納得「当たり前すぎる」](https://togetter.com/li/2709159) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [Meta's months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it \| TechCrunch](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [AI開発なら本人同意なく提供　個人情報保護法改正案の問題点とは？：朝日新聞](https://www.asahi.com/articles/ASV6D2RYSV6DULZU008M.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [田んぼ不要で年6回も収穫。ミニ＆スピーディなお米で稲作の歴史は変わるのか？ \| ギズモード・ジャパン](https://www.gizmodo.jp/article/rice-factory-jrt/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [100万トークン対応コーディングLLM「GLM-5.2」公開、来週オープンソース化](https://pc.watch.impress.co.jp/docs/news/2116962.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [「幕末」の数学者たち: AIと数学｜R. Shimada](https://note.com/rshimada/n/n776da2f06fc8) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [「SaaSの死」に会計ソフトfreeeが逆張りして見えた、AIエージェント時代の「正解」【Code with Claude 2026】 \| Business Insider Japan](https://www.businessinsider.jp/article/2606-freee-beyond-the-death-of-saas/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [はてなブックマークは「Togetterブックマーク」に名前を変えるべき](https://anond.hatelabo.jp/20260614112126) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [言語の庭 — ことばを育てて、言語をつくる](https://kmizu.github.io/cs-edu-site/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [AIはもうクラウド不要？Googleが公開したローカルAIモデル『Gemma 4 12B』の衝撃 \| DXマガジン](https://dxmagazine.jp/news/ykmt26/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [GitHub - Paca-AI/paca: AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizabl](https://github.com/Paca-AI/paca) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [「反移民」唱道の兆万長者マスク氏、北アイルランド暴動めぐり批判される](https://www.afpbb.com/articles/-/3639452) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [Personal AI AgentのためのPersonal Context Hub実装 - yutashx.log](https://yutashx.hatenablog.com/entry/2026/06/13/154510) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [水産卸の現場で、自律AIエージェントを本番で『統治』する](https://zenn.dev/manahazime/articles/governing-autonomous-agents) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [日記アプリのAIに「解釈」させない設計 — 事実エンジンと、検証済みの事実だけを言語化する仕組み](https://zenn.dev/casti/articles/56d984bf48bad7) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [pandasのDataFrameをLLMに渡して分析を自動化する：実装パターン3選](https://zenn.dev/libercraft/articles/20260614-pandas-llm-analysis) *(Zenn – トピック LLM)*
+- [ ] 2026-06-13 [日本語RAGに向く中国製オープンソースパーサーはどれか — クロスオーバーだった。BM25ならDeepDoc、denseならMinerU](https://zenn.dev/elvisyao/articles/930a510164a798) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [Count Anythingはなぜ数え間違いを半分にできたか：1つの大モデルをやめて密度で割る](https://zenn.dev/hironakamura_ai/articles/73610b72e5904d) *(Zenn – トピック 機械学習)*
+- [ ] 2026-06-14 [勾配クリッピング（Gradient Clipping）で学習は安定する？Keras×CIFAR-10で実験](https://zenn.dev/wasurenamemo/articles/7a9633446ca793) *(Zenn – トピック 機械学習)*
+- [ ] 2026-06-14 [競馬 AI は『何ベットで見切る』べきか — ベイズ逐次更新で戦略の生死を判定する](https://zenn.dev/punch_cola/articles/4d44aac9704611) *(Zenn – トピック 機械学習)*
