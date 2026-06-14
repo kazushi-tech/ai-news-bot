@@ -92742,3 +92742,34 @@
 - [ ] 2026-06-13 [AIエージェントのPRは「差分」ではなく「意思決定ログ」としてレビューする](https://zenn.dev/heftykoo/articles/2ef4dac14f86bc) *(Zenn – トピック AI)*
 - [ ] 2026-06-13 [Claude Code の /goal で「完了まで自律実行」を実現する](https://zenn.dev/tatsuqumo/articles/d10494cb4a440e) *(Zenn – トピック AI)*
 - [ ] 2026-06-13 [agent-browser実践入門：SkillsとProcedureで学ぶAIブラウザ業務自動化](https://zenn.dev/tu_hayaoki/books/agent-browser-practical) *(Zenn – トピック AI)*
+
+## Collected on 2026-06-14T02:07:36.406Z
+- [ ] 2026-06-14 [ミュトス「抜け穴」リスク、Amazon幹部が米政府に伝達　停止の背景に - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN1334C0T10C26A6000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [NVIDIAのCEO、日本を素通り　歴訪の韓国・台湾に劣るパートナーの魅力 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN091C60Z00C26A6000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [サッカーW杯の優勝予測、時代は「予言タコ」から「生成AI」に](https://www.afpbb.com/articles/-/3639482) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [Obsidian Web Clipperで保存するときにURLごとにタグを自動で付ける \| DevelopersIO](https://dev.classmethod.jp/articles/obsidian-web-clipper-url-tags/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [スマホにかざすと光るNFC LEDコイルを自作する \| kame404 blog](https://kame404.com/posts/diy-nfc-led-coil/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [デバッガーがプログラマーにバグ報告をするとき伝え方で反応が全く変わることがあったが何がダメだったんだ？「言っていることは同じ？」「このケースだと明らかに違う」](https://togetter.com/li/2708806) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [シャープが「AQUOS」を中高価格帯へシフトする理由　メモリ高騰が直撃するエントリースマホの限界](https://www.itmedia.co.jp/mobile/articles/2606/13/news022.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [天王洲の運河に3年放置された「謎のHDD」、ロマンある存在として話題になるも翌日に消失…「その真相」があまりにも無粋すぎて落胆が広がり、新たな信仰が生まれそう](https://togetter.com/li/2708952) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [knowledge-catalog/okf/SPEC.md at main · GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [CL4R1T4S/ANTHROPIC/CLAUDE-FABLE-5.md at main · elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/CLAUDE-FABLE-5.md) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [Claude Code の Dynamic Workflow で「数十エージェント並列」を手に入れる](https://zenn.dev/tatsuqumo/articles/5f2568b355dfcb) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [自分だけの競馬予想AIを作ろう ～データ収集からAIモデル設計まで～](https://zenn.dev/asaki/books/49a6b5aa05a407) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [WordPress → Next.js 移行で失敗しないためのチェックリスト：SEO・リダイレクト・ビルド時間](https://zenn.dev/asoventure/articles/2026-06-14-wordpress-nextjs-migration-guide) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [AIはなぜ存在しない攻撃を報告したのか ── 3つのエージェント暴走事例から考える「作話」のメカニズム](https://zenn.dev/i_ichi/articles/ai-agent-confabulation) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [韓国クリニックのカウンセリングを、AmiVoice×Geminiで日本語に変えてみた](https://zenn.dev/ashell/articles/5d2730dae985e4) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [個人開発はなぜ誰も使わないのか──AIで「作る壁」が消えた時代に大事になること](https://zenn.dev/yun_bow/articles/6e6bcbf127072a) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [自分のコードを自分でレビューできない — Evaluatorが実際に何を捕まえたか](https://zenn.dev/yamada_ai_dev/articles/claude-code-evaluator-real-catches) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [AI Agentは実装前に1コマンド打て](https://zenn.dev/tadkud/articles/ai-agent-environment-verification-rule) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [競馬AI開発記録 #19 期待値運用の数学的敗北：なぜ「ケリー基準」で資産が溶けたのか](https://zenn.dev/ricotiler/articles/keiba-ai-19-kelly-criterion-overconfidence) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [「原則」を Rules / Skills にして運用してみた](https://zenn.dev/tingtt/articles/fc05c73f8265e4) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [AI時代、エンジニアの脳汁駆動開発は実装から設計へ移る](https://zenn.dev/hi_kuma79/articles/81a7ab9178d31f) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [AIエージェント時代の品質保証 ― 監査駆動フィードバック開発という考え方](https://zenn.dev/ichikawa_y/articles/audit-driven-feedback-development) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [AIの返事を「必ずJSON」にする——Claude構造化出力入門](https://zenn.dev/shun_producer/articles/claude-structured-outputs-beginner) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [GitHub Copilot 難民 ～ Cluade Code ～ Google AI Studio ～ そして Codex へ](https://zenn.dev/ssknaoya/articles/d9becba1164230) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [「モダリティ間の不一致を検知して作り直す」が特許になった日本でマルチモーダルエージェントを作る話](https://zenn.dev/yasunami_daichi/articles/voice-multimodal-check-patent-jp) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [情報を抜き取るには表示が必要だとは限らない](https://zenn.dev/kerukudo1/articles/feb8f71f1bf2a9) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [GA した GitHub Copilot SDK (.NET) を試してみた](https://zenn.dev/microsoft/articles/github-copilot-sdk-dotnet-ga) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [社内ガイドラインが効かない、情報漏洩は安易な個人AI利用からはじまる](https://zenn.dev/syoshida07/articles/baa36522c872e6) *(Zenn – トピック AI)*
+- [ ] 2026-06-13 [Gradient Surgery for Multi-Task Learning](https://zenn.dev/oyatomo/articles/6da8bc0d7900cd) *(Zenn – トピック 機械学習)*
