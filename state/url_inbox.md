@@ -92846,3 +92846,52 @@
 - [ ] 2026-06-14 [業務改善、手相占いで決めてませんか](https://zenn.dev/continuitymodel/articles/b47531c5cee569) *(Zenn – トピック AI)*
 - [ ] 2026-06-14 [人間が操作できない動画編集ツール群を作った — clipwright v0.2.0](https://zenn.dev/satoh_y_0323/articles/f04a202b044b3f) *(Zenn – トピック AI)*
 - [ ] 2026-06-14 [Claude Code でツール作成（C#で）その２](https://zenn.dev/totosasa_jp/articles/4a12a35888889d) *(Zenn – トピック AI)*
+
+## Collected on 2026-06-14T19:02:11.455Z
+- [ ] 2026-06-14 [Carney Says Anthropic Ban Shows Risk of Relying on Big AI Models](https://www.bloomberg.com/news/articles/2026-06-14/carney-says-anthropic-ban-shows-risk-of-relying-on-big-ai-models) *(Bloomberg Technology)*
+- [ ] 2026-06-14 [Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis](https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook) *(Bloomberg Technology)*
+- [ ] 2026-06-14 [Apple reportedly has three more iOS 27 features coming in the fall](https://www.engadget.com/2193891/apple-reportedly-has-three-more-ios-27-features-coming-in-the-fall/) *(Engadget)*
+- [ ] 2026-06-14 [Anbernic now has a store page where you can buy replacement parts for its handhelds](https://www.engadget.com/2193871/anbernic-now-has-a-store-page-where-you-can-buy-replacement-parts-for-its-handhelds/) *(Engadget)*
+- [ ] 2026-06-14 [Your Kindle could unlock thousands of free books: These are the best places to find them](https://www.engadget.com/2192697/kindle-free-books-guide/) *(Engadget)*
+- [ ] 2026-06-14 [Apple TV 4K multiview: How to watch four live sports feeds at once](https://www.engadget.com/2192442/apple-tv-4k-multiview-sports-live-events/) *(Engadget)*
+- [ ] 2026-06-13 [Apple Watch alternatives that will last for 7 days on a charge](https://www.engadget.com/2192635/apple-watch-alternatives-7-day-battery/) *(Engadget)*
+- [ ] 2026-06-14 [「超かぐや姫！」を Claude Mythos (Fable) に見せて感想聞いたら現実がSFになった｜とりしま日記](https://note.com/sumisutori/n/nd5a035ad9526) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [AIのLLMアーキテクチャの新技法「KV共有」「mHC」「圧縮アテンション」とは何か？](https://gigazine.net/news/20260614-recent-developments-in-llm-architectures/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-14 [「AIを使うほど人はバカになる」は本当か？　研究が示す思考力低下のリスクと3つの対策](https://www.itmedia.co.jp/business/articles/2606/13/news006.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [Gemma 4 31B + S3 Vectors + AgentCore で低コストな RAG を構築してみた \| DevelopersIO](https://dev.classmethod.jp/articles/gemma4-s3vectors-agentcore-rag/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [AI駆動開発が変える、大規模開発の前提 ーHuman in the Loop から Human on the Loop へ / AIE2026](https://speakerdeck.com/visional_engineering_and_design/aie2026) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [10倍の生産性を実現するAI駆動並列エージェントのすべて](https://speakerdeck.com/kumaiu/10bei-nosheng-chan-xing-woshi-xian-suruaiqu-dong-bing-lie-ezientonosubete) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [頭のいい人だけが知っている「ChatGPT×スマホ」のすごい使い方No.1](https://diamond.jp/articles/-/392034) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-14 [LM StudioでローカルLLM環境を構築してみた](https://zenn.dev/phinata/articles/lm-studio-local-llm) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [Ryzen AI Max+ 395でローカルLLMの地獄を見たの巻](https://zenn.dev/shuzan/articles/0605b909fb23e4) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [Harness Starter Kit が Codex と Claude Code に対応しました](https://zenn.dev/yuuaan/articles/3c2f2a8211b610) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [Attention](https://zenn.dev/zak2718/articles/attention-and-transformers) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [Claude APIで日本の1,741市区町村すべての物語を生成して、Webサービスにした](https://zenn.dev/naga999/articles/14bd8c2759464e) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [なぜ、「ギュラれる」と「シンギュラリティ」は意味が非常に遠いのか？](https://zenn.dev/pdfractal/articles/288dafc1f9eba2) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [X参加型の合戦ゲームを作ってみた](https://zenn.dev/mohhh_ok/articles/x-interactive-ai-battle-game) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [Claude Code の常駐コンテキストを 62% 削減した話 — prompt caching 時代のハーネス設計](https://zenn.dev/tarowhitey/articles/claude-code-resident-context-diet) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [どうすれば月2億円分のトークンを燃やせるのか](https://zenn.dev/r_kaga/articles/340fba67527789) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [GitHub Actionsの失敗ログをLLMで診断するOSS「Flakehound」を作った](https://zenn.dev/rendaman0215/articles/f03cf66e7da1d3) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [AIエージェントとは何か ― 実行型と学習型、2つの世界観の地図【プロンプトで読み解くAIエージェント #1】](https://zenn.dev/nobmake/articles/f8000c94e2ccaf) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [「Claude Codeヤバい」は本当？ Copilotとの違いを内部設計から調べてみた](https://zenn.dev/ihdk77/articles/a21fd481bc152e) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [超精密インデックス「PageIndex」で実現する推論ベースRAG（JTC版）](https://zenn.dev/snaga/articles/2026-06-14-doctools-with-pageindex) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [日本語LLM事前学習のためのWebデータ前処理](https://zenn.dev/podtech/articles/7c8d696f574889) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [Windows11 RTX 5090 で AI Agent 用 Qwen3.6-27B LLM 環 その2: チューニング](https://zenn.dev/supertaro/articles/618ea37a7819c6) *(Zenn – トピック LLM)*
+- [ ] 2026-06-14 [AI時代のソフトウェア開発で求められる組織設計](https://zenn.dev/daiksud/articles/ai-era-organization-design) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [LLMを阿頼耶識として読む — 唯識から考えるAIの学習設計](https://zenn.dev/40ki/articles/79e2a1aa3b2df5) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [Codex Fable5 Skill を作りました。](https://zenn.dev/yuuaan/articles/0238d5cfdfca2a) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [AI秘書で高品位議事録を自動化 — Mac mini で複数LLMを比較](https://zenn.dev/znet/articles/2026-local-meeting-minutes-moe-comparison) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [使っているAIコーディングエージェントのコンテキストファイルまとめ](https://zenn.dev/azuritul/articles/article-agent-instructions-across-ai-agents) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [実装を説明させる時の便利なプロンプト](https://zenn.dev/t_kuni_0/articles/ad06a19a565023) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [AIが作った関係図を、ワンクリックでさわれるように](https://zenn.dev/flowlite/articles/dcf9118033525a) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [AIエージェントのPRが太る前に止める: Ponytailで「書かない判断」をレビュー基準にする](https://zenn.dev/53able/articles/66616005d7aaf4) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [Claude Code 個人開発環境の備忘録（2026.06）](https://zenn.dev/elettrocannone/articles/claude-code-management-design) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [AIに自分を覚えさせたら、毎日どう育てる？](https://zenn.dev/hobomokha/articles/e4225ad7811e4b) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [1M をやめた瞬間、自作の『セッション保存』機能が自分の首を絞めていた話（C3 v2.35.0〜v2.36.0）](https://zenn.dev/satoh_y_0323/articles/8bcdc387cba5e7) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [Claude Code サブエージェントの歩き方 — Explore が read-only な理由と切替の仕組み](https://zenn.dev/mdtechknowledge/articles/claude-code-subagent-readonly-switch) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [Claudeのマルチエージェント3系統 — Dynamic Workflows / Agent View / Managed Agents](https://zenn.dev/mdtechknowledge/articles/claude-code-agent-view-guide) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [自己進化型ナレッジ（Self-Evolving Knowledge）](https://zenn.dev/pansan/articles/305ff8ea604253) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [AI時代のアジャイル：ソフトウェアは「変更に強い」から「構造を作り替えられる」へ](https://zenn.dev/kooooohe/articles/b51bb8db473bc6) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [Snowflake Summit26に参加してブースを全部回ってみた話](https://zenn.dev/truestar/articles/4d026fdd4d39fa) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [AIが第一の書き手になったら、プログラミング言語の設計原理は反転する](https://zenn.dev/a_1ro/articles/c837a5cf46be88) *(Zenn – トピック AI)*
+- [ ] 2026-06-14 [日本語RAGで8B欧米モデルはなぜ弱いのか — 日本語ファインチューンが決定的だった](https://zenn.dev/elvisyao/articles/d46cc52f2063c1) *(Zenn – トピック 機械学習)*
