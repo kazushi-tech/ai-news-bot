@@ -94570,3 +94570,68 @@
 - [ ] 2026-06-16 [【復刻版】SIGNATE Cup 2024　V0.1](https://zenn.dev/ken_0421/articles/f18efbf1f381f9) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-16 [半導体製造ラインのセンサーデータを現場感覚で読む ― 不良予測データSECOM分析](https://zenn.dev/yuya0408/articles/secom-defect-analysis) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-16 [AutoAugment vs TrivialAugment、CIFAR-10で比較したら差がほぼゼロだった話【Keras】](https://zenn.dev/wasurenamemo/articles/20d1c1de5ed653) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-16T20:33:20.264Z
+- [ ] 2026-06-16 [France to ditch Palantir’s AI data tools in favour of domestic provider](https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-16 [‘Dangerous’ AI Models Are Coming No Matter What](https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-16 [OpenAI Is Taking the “Crack Cocaine” Approach to Pricing](https://futurism.com/artificial-intelligence/openai-crack-cocaine-approach-token-pricing) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-16 [Consensus Grows That China Is Crushing the United States at AI](https://futurism.com/artificial-intelligence/consensus-china-crushing-usa-ai-survey) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-16 [SpaceX Aims at Agentic Coding With $60B Cursor Acquisition](https://aibusiness.com/generative-ai/spacex-aims-agentic-coding-60b-cursor-acquisition) *(AI Business)*
+- [ ] 2026-06-16 [Artificial intelligence raises profound moral questions — for all of humanity to answer](https://theconversation.com/artificial-intelligence-raises-profound-moral-questions-for-all-of-humanity-to-answer-284886) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-16 [Nvidia Eyes $20B Debt Sale as AI Cash Flow Soars](https://www.techrepublic.com/article/news-nvidia-debt-sale/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-16 [SpaceX to Acquire Cursor in $60B Stock Deal, Deepening Elon Musk’s AI Empire](https://www.techrepublic.com/article/news-spacex-cursor-acquisition/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-16 [Salesforce Makes $3.6B Play for AI Customer Service](https://www.techrepublic.com/article/news-salesforce-acquires-fin-agentforce-ai-agents/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-16 [Seeking Crypto Policy 'Clarity' in DC](https://www.bloomberg.com/news/videos/2026-06-16/seeking-crypto-policy-clarity-in-dc-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [Binance Prepares for EU Exit With Local License in Limbo](https://www.bloomberg.com/news/videos/2026-06-16/binance-prepares-for-eu-exit-with-local-license-in-limbo-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [How Kalshi’s Lopes Lara Turned Kylie Jenner Gossip Into Billions](https://www.bloomberg.com/news/videos/2026-06-16/how-lopes-lara-turned-kylie-jenner-gossip-into-billions-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [BlackRock Launches New Bitcoin Income ETF](https://www.bloomberg.com/news/videos/2026-06-16/blackrock-launches-new-bitcoin-income-etf-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [SEC Move Could Bolster Tokenized Stocks](https://www.bloomberg.com/news/videos/2026-06-16/sec-move-could-bolster-tokenized-stocks-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [SpaceX Crypto Short Squeeze Briefly Sends Value to $3T](https://www.bloomberg.com/news/videos/2026-06-16/spacex-crypto-short-squeeze-briefly-sends-value-to-3t-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [Offering On-Chain Private Company Access: Citi's Khaliq](https://www.bloomberg.com/news/videos/2026-06-16/offering-on-chain-private-company-access-citi-s-khaliq-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [Crypto Wrap: Strategy Buys More Bitcoin, Robinhood Cuts Jobs](https://www.bloomberg.com/news/videos/2026-06-16/crypto-wrap-strategy-buys-more-bitcoin-robinhood-cuts-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [SpaceX Investor Powerlaw Debuts Amid IPO Race](https://www.bloomberg.com/news/videos/2026-06-16/spacex-investor-powerlaw-debuts-amid-ipo-race-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [Bloomberg Crypto 6/16/2026](https://www.bloomberg.com/news/videos/2026-06-16/bloomberg-crypto-6-16-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [Lutnick’s Letter to Anthropic Warned of Curbs on Top AI Models](https://www.bloomberg.com/news/articles/2026-06-16/lutnick-s-letter-to-anthropic-warned-of-curbs-on-top-ai-models) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [Read the Lutnick Letter That Led Anthropic to Disable Mythos](https://www.bloomberg.com/news/articles/2026-06-16/read-the-lutnick-letter-that-led-anthropic-to-disable-mythos) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [Google Rolls Out Android 17; Major AI Features to Follow This Summer](https://www.bloomberg.com/news/articles/2026-06-16/google-debuts-android-17-multitasking-social-video-and-the-other-best-features) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [SpaceX Soars On Third Trading Day, Seals Cursor Takeover \| Bloomberg Tech 6/16/2026](https://www.bloomberg.com/news/videos/2026-06-16/bloomberg-tech-6-16-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [SpaceX Pounces on $60 Billion Cursor Takeover Days After IPO](https://www.bloomberg.com/news/videos/2026-06-16/spacex-pounces-on-60b-cursor-takeover-days-after-ipo-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [SpaceX Nears $3 Trillion in Value \| Open Interest 6/16/2026](https://www.bloomberg.com/news/videos/2026-06-16/open-interest-6-16-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [GameStop Investor Brings Suit Over CEO’s $35 Billion Pay Package](https://www.bloomberg.com/news/articles/2026-06-16/gamestop-investor-brings-suit-over-ceo-s-35-billion-pay-package) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [Snap Launches $2,195 Specs, Declaring Glasses the Next Computer](https://www.bloomberg.com/news/articles/2026-06-16/snap-launches-2-195-specs-declaring-glasses-the-next-computer) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [HPE Boosts Networking Gear for AI Clients, Adds Siemens Energy](https://www.bloomberg.com/news/articles/2026-06-16/hpe-boosts-networking-gear-for-ai-clients-adds-siemens-energy) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [Apollo-Backed Rackspace Loan Jumps on AMD Data Center Deal](https://www.bloomberg.com/news/articles/2026-06-16/apollo-backed-rackspace-loan-jumps-on-amd-data-center-deal) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [The EU won't pursue a mandatory game preservation law](https://www.engadget.com/2195679/the-eu-wont-pursue-a-mandatory-game-preservation-law/) *(Engadget)*
+- [ ] 2026-06-16 [10 underrated Apple Watch features you can set up in minutes](https://www.engadget.com/2195465/underrated-apple-watch-features/) *(Engadget)*
+- [ ] 2026-06-16 [Xfinity introduces same-day Wi-Fi for new customers.](https://www.engadget.com/2195612/xfinity-introduces-same-day-wi-fi-for-new-customers/) *(Engadget)*
+- [ ] 2026-06-16 [Google launches 'bubble' multi-tasking and foldable gaming mode with Android 17](https://www.engadget.com/2195087/google-android-17-rollout/) *(Engadget)*
+- [ ] 2026-06-16 [Wear OS 7 arrives to Pixel watches with Gemini AI and live updates](https://www.engadget.com/2195052/wear-os-7-comes-to-pixel-watches/) *(Engadget)*
+- [ ] 2026-06-16 [Nintendo Switch update makes the eShop much more responsive](https://www.engadget.com/2195530/nintendo-switch-update-makes-the-eshop-much-more-responsive/) *(Engadget)*
+- [ ] 2026-06-16 [Qualcomm unveils its Snapdragon Reality Elite chip for next-gen AR headsets](https://www.engadget.com/2194353/qualcomm-unveils-its-snapdragon-reality-elite-chip-for-next-gen-ar-headsets/) *(Engadget)*
+- [ ] 2026-06-16 [Xreal officially reveals its Android XR Aura glasses — without a pricetag](https://www.engadget.com/2194861/xreal-aura-android-xr-glasses-launch-no-price/) *(Engadget)*
+- [ ] 2026-06-16 [Is NFC charging the secret to nicer-looking smartglasses?](https://www.engadget.com/2195309/nucurrent-smart-glass-nfc-charging-tech-in-ray-ban-meta-prototype/) *(Engadget)*
+- [ ] 2026-06-16 [Kodak's adorable Charmera camera gets new Y2K-inspired designs](https://www.engadget.com/2195493/kodaks-adorable-charmera-camera-gets-new-y2k-inspired-designs/) *(Engadget)*
+- [ ] 2026-06-16 [Snap's slimmed down AR Specs go on sale later this year for $2,195](https://www.engadget.com/2195207/snap-ar-specs-launch-price/) *(Engadget)*
+- [ ] 2026-06-16 [Star Trek: Strange New Worlds trailer has plenty of callbacks to its 1960s origins](https://www.engadget.com/2195488/star-trek-strange-new-worlds-trailer-has-plenty-of-callbacks-to-its-1960s-origins/) *(Engadget)*
+- [ ] 2026-06-16 [It's time to dump Roku](https://www.engadget.com/2195464/its-time-to-dump-roku/) *(Engadget)*
+- [ ] 2026-06-16 [Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation) *(OpenAI News)*
+- [ ] 2026-06-16 [6位は「クレーン解体現場で3人が死亡、はつり作業中に重りの連結部を削ったか」40代の注目トップ10](https://xtech.nikkei.com/atcl/nxt/column/18/02156/060300386/) *(日経クロステック IT)*
+- [ ] 2026-06-16 [NTTドコモがJALとタッグ、ホワイトレーベルや収益分配で異例の譲歩](https://xtech.nikkei.com/atcl/nxt/column/18/00687/061600246/) *(日経クロステック IT)*
+- [ ] 2026-06-16 [内蔵GPUで十分？　ポイントは本格的な3Dゲームと生成AIのローカル実行](https://xtech.nikkei.com/atcl/nxt/column/18/03610/051200003/) *(日経クロステック IT)*
+- [ ] 2026-06-16 [Windows 11の使いにくさ改善で時短、煩わしい操作を不要にする設定変更](https://xtech.nikkei.com/atcl/nxt/column/18/03606/050800002/) *(日経クロステック IT)*
+- [ ] 2026-06-16 [AIに国家予算級の巨額投資、資金環流によるバブルか成長か　3つのシナリオ](https://xtech.nikkei.com/atcl/nxt/column/18/03615/060800009/) *(日経クロステック IT)*
+- [ ] 2026-06-16 [大阪大学で量子コンピューター3号機が稼働、「純国産」開発でアジアの量子都市へ](https://xtech.nikkei.com/atcl/nxt/column/18/03585/061500026/) *(日経クロステック IT)*
+- [ ] 2026-06-16 [全16会場をデジタルツイン化、サッカーW杯　空間技術が運営と観戦を変える](https://xtech.nikkei.com/atcl/nxt/column/18/03643/061500002/) *(日経クロステック IT)*
+- [ ] 2026-06-16 [主任エンジニア、人事評価は毎回高いが素直に喜んでいいものか](https://xtech.nikkei.com/atcl/nxt/column/18/00084/00424/) *(日経クロステック IT)*
+- [ ] 2026-06-16 [人事の難題「適所適材」をAIが大変革　オリックス生命は配属先との相性分析](https://xtech.nikkei.com/atcl/nxt/column/18/03604/061600004/) *(日経クロステック IT)*
+- [ ] 2026-06-16 [AIエージェント基盤構築を目指すJR東、JR西はデータ分散化狙う](https://xtech.nikkei.com/atcl/nxt/column/18/03637/060500003/) *(日経クロステック IT)*
+- [ ] 2026-06-16 [生成AI×自動運転で注目のTesla・Waymo・NVIDIA　各社が目指す「フィジカルAI」は何が違うのか](https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news007.html) *(ITmedia AI＋)*
+- [ ] 2026-06-16 [【Pythonで学ぶデータ分析】母平均と母標準偏差をベイズ推定する ～ シュークリームの重さは100gと異なるか？](https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news001.html) *(ITmedia AI＋)*
+- [ ] 2026-06-16 [AI「間違って全データを消してしまいました。申し訳ありません」 \| ギズモード・ジャパン](https://www.gizmodo.jp/article/claude-powered-agent-apparently-deletes-company-database-debases-itself-further-in-confession-gbq/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-16 [`cp`はディスク上ではデータをコピーしないことがある](https://zenn.dev/satoru_takeuchi/articles/4bab372c6dae86) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-16 [GitHub - Leonxlnx/taste-skill: Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"](https://github.com/Leonxlnx/taste-skill) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-16 [The pressure](https://daniel.haxx.se/blog/2026/05/26/the-pressure/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-16 [京アジャで「非定型業務をAI slackbotで自動化する」という発表をしました - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/06/15/173000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-16 [Attention と FFN を分離 ── AFD (Attention-FFN Disaggregation)](https://zenn.dev/tosshi/articles/8480f5be05871e) *(Zenn – トピック LLM)*
+- [ ] 2026-06-16 [議事録を要約して終わりにしない——LLMでプロジェクト状況シートを「自動更新」する仕組み](https://zenn.dev/mikimaro/articles/860aa5152809e5) *(Zenn – トピック LLM)*
+- [ ] 2026-06-16 [Claude Code の結果を喋ってくれるプラグインを作った](https://zenn.dev/qvtec/articles/b66911e2e9a829) *(Zenn – トピック AI)*
