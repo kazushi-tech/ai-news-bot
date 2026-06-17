@@ -94635,3 +94635,50 @@
 - [ ] 2026-06-16 [Attention と FFN を分離 ── AFD (Attention-FFN Disaggregation)](https://zenn.dev/tosshi/articles/8480f5be05871e) *(Zenn – トピック LLM)*
 - [ ] 2026-06-16 [議事録を要約して終わりにしない——LLMでプロジェクト状況シートを「自動更新」する仕組み](https://zenn.dev/mikimaro/articles/860aa5152809e5) *(Zenn – トピック LLM)*
 - [ ] 2026-06-16 [Claude Code の結果を喋ってくれるプラグインを作った](https://zenn.dev/qvtec/articles/b66911e2e9a829) *(Zenn – トピック AI)*
+
+## Collected on 2026-06-17T02:11:11.787Z
+- [ ] 2026-06-16 [Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit](https://www.theguardian.com/technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-17 [HSBC’s Jain on Hormuz Strait Reopening](https://www.bloomberg.com/news/videos/2026-06-17/hsbc-s-jain-on-hormuz-strait-reopening-video) *(Bloomberg Technology)*
+- [ ] 2026-06-17 [HSBC Expects Over $100 Million Gains From Using Google AI Tools](https://www.bloomberg.com/news/articles/2026-06-17/hsbc-google-ai-partnership-set-to-add-over-100-million-gains) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [SoftBank Scales Back Latin America Tech Bets as Venture Capital Boom Fades](https://www.bloomberg.com/news/articles/2026-06-16/softbank-scales-back-latin-america-tech-bets-as-venture-capital-boom-fades) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [Kalshi's Mansour Sees Uptick in Small Business Use of Hedging](https://www.bloomberg.com/news/videos/2026-06-16/kalshi-s-mansour-sees-uptick-in-small-business-hedging-video) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [Brookfield-Backed Data Center Firm Csquare Files for US IPO](https://www.bloomberg.com/news/articles/2026-06-16/brookfield-backed-data-center-firm-csquare-files-for-us-ipo) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [AI Can Play 'Significant' Role in Tech for Managing Diabetes, Says David Roman](https://www.bloomberg.com/news/videos/2026-06-16/ai-can-play-significant-role-in-tech-for-managing-diabetes-says-david-roman) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [Amazon Faces Billions in Penalties From Potential FTC Ad Suit](https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit) *(Bloomberg Technology)*
+- [ ] 2026-06-16 [The Dell XPS 13 laptop is available starting today](https://www.engadget.com/2195930/dell-xps-13-available/) *(Engadget)*
+- [ ] 2026-06-16 [The Webb telescope has captured its first 'bulge fossil fragment'](https://www.engadget.com/2195892/the-webb-telescope-has-captured-its-first-bulge-fossil-fragment/) *(Engadget)*
+- [ ] 2026-06-16 [Evan Spiegel doesn't want you to call Snap Specs AI glasses](https://www.engadget.com/2195862/snap-specs-ceo-evan-spiegel-interview-at-awe-2026/) *(Engadget)*
+- [ ] 2026-06-16 [Around a fifth of Steam Next Fest demos have a generative AI disclosure](https://www.engadget.com/2195840/around-a-fifth-of-steam-next-fest-demos-have-a-generative-ai-disclosure/) *(Engadget)*
+- [ ] 2026-06-17 [村田製作所、Synopsysの電磁界／熱解析ツールを介したシミュレーションモデル提供](https://monoist.itmedia.co.jp/mn/articles/2606/17/news046.html) *(ITmedia AI＋)*
+- [ ] 2026-06-16 [「生成AIは大手なら安心」とは限らない？　突然の提供停止が招くリスク顕在化](https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news041.html) *(ITmedia AI＋)*
+- [ ] 2026-06-16 [財務諸表だけでは勝てない　ブルームバーグ日本トップが語る「非構造化データ」の重要性](https://www.itmedia.co.jp/business/articles/2606/16/news016.html) *(ITmedia AI＋)*
+- [ ] 2026-06-16 [セルフ給油、実はスタッフが手動で許可していた!?　コスモ石油の「AI監視」は消えゆくガソリンスタンドを救うか](https://www.itmedia.co.jp/business/articles/2606/17/news012.html) *(ITmedia AI＋)*
+- [ ] 2026-06-16 [月間売上1億円超、“推しAI”アプリ「Zeta」がオタク女子わしづかみ　ただし危うさも](https://www.itmedia.co.jp/news/articles/2606/17/news020.html) *(ITmedia AI＋)*
+- [ ] 2026-06-16 [東芝の組み込み向け量子インスパイアード技術が進化、高速化と安定性を両立](https://monoist.itmedia.co.jp/mn/articles/2606/17/news062.html) *(ITmedia AI＋)*
+- [ ] 2026-06-17 [査読は「ほぼ破綻」している――生成AI時代の研究成果公開を、もう一度設計し直す：JSAI2026 企画セッション「生成AI・プレプリント時代における研究成果公開の再設計」開催報告｜一般社団法人 情報科学技術協会（INFOSTA）](https://note.com/infosta/n/nb717c9c3c3d0) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-17 [かつてインターネットが起こし、今度はAIが起こす「破壊的イノベーション」を乗り越える～IIJ　「自由」と「デジタル主権」をめぐる未来への課題](https://internet.watch.impress.co.jp/docs/special/30thinterview/2115078.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-17 [フランス旅行の写真を投稿したら「空にいるおじさん、なに？」という反応が...嘘コラでもされたのかと思いきや本当におじさんが写っていて笑いが止まらない](https://togetter.com/li/2710026) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-17 [AIで女性を裸にしてしまうヌード化ツールがXアカウントで宣伝されている](https://gigazine.net/news/20260616-ai-nudify-tools/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-17 [「日本を守る」　ソフトバンクとOpenAIが重要インフラのサイバー防御を提案](https://www.watch.impress.co.jp/docs/news/2117614.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-17 [5万スターのClaude Code Tips集、本質は2つだけ](https://zenn.dev/acntechjp/articles/5409d8e2ad0767) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-17 [数学分野でシンギュラリティ到来か？AIによる相次ぐ未解決難問証明で数学者が緊急声明（ビジネス＋IT） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/8e8c447c19418e58faaf6f0f7a8a6a938b9c1770) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-17 [テクノロジー業界のリーダーたちが「魅力的なオタク」から「嫌な金持ち」へと変貌を遂げた経緯とは？](https://gigazine.net/news/20260616-nerds-technology-industry-leader-terrifying-overlord/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [証券システムをゼロから作るには？ RubyとGoで「複雑性」を切り分けるブルーモ証券のアーキテクチャ](https://codezine.jp/article/detail/24322) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [誰もが「つくれる」時代、価値はどこに宿るのか── 『INSPIRED』Marty Cagan氏が語る、AI時代のプロダクトづくり - Findy Media](https://findy-code.io/media/articles/product-management-summit-keynote) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [ディスク利用内訳を爆速で可視化「xlnk File Visualizer」、最強ファイル検索「Everything」と連携／テラバイト級ドライブでも快適、サンバースト図でドリルダウン【レビュー】](https://forest.watch.impress.co.jp/docs/review/2117356.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [EPUBファイルに何も問題がないのにKoboで非対応となるのはAdobeが原因だった](https://gigazine.net/news/20260616-epub-kobo-adobe/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [GitHub - DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.](https://github.com/DietrichGebert/ponytail) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [複数のAIを組み合わせてClaude Fable超えの性能を実現するシステム「Fusion」をOpenRouterがリリース](https://gigazine.net/news/20260616-openrouter-ai-fusion/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [【エンジニアの日常】これが私のご褒美ランチ！〜日々の開発を支えるおすすめの店〜 Part2 - Findy Tech Blog](https://tech.findy.co.jp/entry/2026/06/17/070000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [RFC 10008: The HTTP QUERY Method \| RFC Editor](https://www.rfc-editor.org/info/rfc10008/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [求人オファーに見せかけて「バックドアを仕込んだGitHubリポジトリ」を送りつけられたという体験談](https://gigazine.net/news/20260616-backdoor-job-offer/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [Making HTTP requests from a container that has no curl, using bash /dev/tcp](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [Friends Don't Let Friends Use Ollama \| Sleeping Robots](https://sleepingrobots.com/dreams/stop-using-ollama/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-17 [FBIが建設したサイバー攻撃をシミュレーションするための小さな町「Kinetic Cyber Range」の内部が公開される](https://gigazine.net/news/20260616-fbi-cyber-range/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-16 [AIの記憶にオーナーと状態を持たせる設計](https://zenn.dev/agentmemories/articles/ai-memory-owner-state-machine) *(Zenn – トピック LLM)*
+- [ ] 2026-06-16 [マクロなしの業務帳票に踏み込む ─ xlsm_devkit の .xlsx 対応と、AI による数式査読](https://zenn.dev/minipoisson/articles/xlsm-devkit-xlsx-support) *(Zenn – トピック AI)*
+- [ ] 2026-06-16 [エージェントの競争力は、モデルより「データ基盤」で決まる ― Data + AI Summit 2026 基調講演レポート](https://zenn.dev/genda_jp/articles/14f9bf021d0af0) *(Zenn – トピック AI)*
+- [ ] 2026-06-16 [Data + AI Summit 2026  初日Keynote：Genie Ontology を現地スライドで読み解く](https://zenn.dev/kazushi6/articles/3d58cfe511bcc3) *(Zenn – トピック AI)*
+- [ ] 2026-06-16 [自作MCPサーバーに記憶を食わせたら、3プロジェクト横断でバグが11件見つかった](https://zenn.dev/hakaru/articles/memdream-multi-agent-review-ecosystem) *(Zenn – トピック AI)*
+- [ ] 2026-06-16 [表形式データ拡張手法 part25：LR-SMOTE](https://zenn.dev/haruto_big6/articles/84bb9a67f43bdf) *(Zenn – トピック 機械学習)*
