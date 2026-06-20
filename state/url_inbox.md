@@ -96424,3 +96424,96 @@
 - [ ] 2026-06-18 [AI時代の権力交代が始まった](https://zenn.dev/lingmu/articles/2026-06-19-openai-talent-chemistry-ai) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-18 [カードビジネスと信用リスク：与信モデルの出発点](https://zenn.dev/han901104/articles/401af308ebf82d) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-18 [作ってみたで終わらせない日次の株価予測AI 実行コード付き実践キット](https://zenn.dev/aoichan401/books/3d20bfc45bcd63) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-20T19:04:13.732Z
+- [ ] 2026-06-20 [A viral doomsday scenario aims to shake Europe out of its AI complacency](https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-20 [Lloyds Banking Group to hire 300 tech experts to work on AI](https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-20 [How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’](https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-20 [Granta stops publishing short story award winners over AI controversy](https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-20 [Siri AI Hands On: A Smart, Helpful Assistant](https://www.wired.com/story/siri-ai-hands-on-iphone/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-20 [TikTok Has Been Completely Taken Over by AI Slop](https://futurism.com/artificial-intelligence/tiktok-taken-over-ai-slop) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-20 [College Students Consumed by “Resignation and Despair” as They’re Relentlessly Pressured to Use AI](https://futurism.com/artificial-intelligence/college-students-resignation-despair) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-20 [Millions in Brazil Get Fake Government Mobile Alert After Hack](https://www.bloomberg.com/news/articles/2026-06-20/millions-in-brazil-get-fake-government-mobile-alert-after-hack) *(Bloomberg Technology)*
+- [ ] 2026-06-20 [Jio Platforms Plans $3 Billion Debt Reduction from IPO Proceeds](https://www.bloomberg.com/news/articles/2026-06-20/jio-platforms-plans-3-billion-debt-reduction-from-ipo-proceeds) *(Bloomberg Technology)*
+- [ ] 2026-06-20 [BYD Rejects Claims It Violated Hungary’s Environmental Rules](https://www.bloomberg.com/news/articles/2026-06-20/byd-rejects-claims-it-violated-hungary-s-environmental-rules) *(Bloomberg Technology)*
+- [ ] 2026-06-20 [NASA is testing a rover that can drive faster and lift its wheels to climb obstacles](https://www.engadget.com/2198367/nasa-is-testing-ernest-rover-that-can-drive-faster-and-lift-its-wheels-to-climb-obstacles/) *(Engadget)*
+- [ ] 2026-06-20 [Epic is working on a 'ground-up rebuild' of its launcher that will be 5x faster](https://www.engadget.com/2198357/epic-is-working-on-a-ground-up-rebuild-of-its-launcher-that-will-be-5x-faster/) *(Engadget)*
+- [ ] 2026-06-20 [NASA's Swift Boost mission will launch later this month to rescue a falling telescope](https://www.engadget.com/2198352/nasa-swift-boost-mission-will-launch-later-this-month-to-rescue-a-falling-telescope/) *(Engadget)*
+- [ ] 2026-06-20 [Claude Guillemot, one of Ubisoft's co-founders, has died in a plane crash](https://www.engadget.com/2198346/claude-guillemot-one-of-ubisoft-co-founders-has-died-in-a-plane-crash/) *(Engadget)*
+- [ ] 2026-06-20 [How to personalize the screensaver on your Kindle](https://www.engadget.com/2198274/how-to-customize-kindle-screensaver-guide/) *(Engadget)*
+- [ ] 2026-06-20 [Car manufacturers are ditching Android Auto in 2026: Here's why](https://www.engadget.com/2197854/why-car-manufacturers-ditching-android-auto-explained/) *(Engadget)*
+- [ ] 2026-06-20 [Nothing's budget brand CMF won't be releasing a new phone this year](https://www.engadget.com/2198323/nothing-budget-brand-cmf-new-new-phone-this-year/) *(Engadget)*
+- [ ] 2026-06-20 [Steam Next Fest demos, a Virtual Boy-inspired shooter and other new indie games worth checking out](https://www.engadget.com/2198112/steam-next-fest-demos-a-virtual-boy-inspired-shooter-and-other-new-indie-games-worth-checking-out/) *(Engadget)*
+- [ ] 2026-06-20 [Claude Codeをどのように キャッチアップしているか](https://speakerdeck.com/oikon48/claude-codewodonoyouni-kiyatutiatupusiteiruka) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [伝わる発信のつくりかた](https://yoshiko-pg.github.io/talks/zennfes-2026/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [3分の720p動画を5分かつ無料で生成。再生しながらプロンプトで改変もできる、中国アリババ製ワールドモデル「HappyOyster」が凄すぎる（CloseBox） \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/06/20/5207.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [GitHub - iOfficeAI/OfficeCLI: OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.](https://github.com/iOfficeAI/OfficeCLI) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題](https://toyokeizai.net/articles/-/948348?page=2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [小説の書評を書いたnote記事に、作者自身が「本をまったく読まずに書いた感想だということだけはわかりました」と言及…AI作成の記事ではないかと疑いが強まる](https://togetter.com/li/2711395) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [最前線知る専門家が徹底解説 AIが変える未来 \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015153411000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した - Qiita](https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [ターミナルでMarkdownをリッチに見られるleafが良さげかも \| kawarimidoll.com](https://kawarimidoll.com/posts/202606192/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [今だから押さえておきたいソフトウェア工学のベストプラクティス](https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [GitHubでトロイの木馬を配布するリポジトリ約1万件が見つかる、正規プロジェクトを複製して検索結果に紛れ込む](https://gigazine.net/news/20260619-github-malware-distribution/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [理研、AI特化スパコンの名称は「理究(りきゅう)」に　7月稼働](https://www.watch.impress.co.jp/docs/news/2118669.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [自己推薦の「おすすめ記事」はもう通用しない？ AI検索で進む引用と推薦の分離](https://www.suzukikenichi.com/blog/self-promotional-best-of-listicles-no-longer-work-ai-search-is-separating-citations-from-recommendations/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [Record & Replay – Codex \| OpenAI Developers](https://developers.openai.com/codex/record-and-replay) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [Googleが蚊を駆除「デバッグ」計画　AI活用、生態系への影響は - 日本経済新聞](https://www.nikkei.com/article/DGXZQOSG0500D0V00C26A6000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [捨てるつもりで作ったシステムが、本稼働している〜 自治体がVibe Codingで「書かない窓口」を内製し、OSSとして公開するまで 〜｜memuro-DX-oss](https://note.com/memuro_dx_oss/n/nf982351d30ef) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-20 [ソフトウェア開発をシンプルにする技術 - プププなテクブ](https://blog.inorinrinrin.com/entry/2026/06/20/162658) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [技術記事、 専門家としてのプログラマ、 言語化](https://speakerdeck.com/mizchi/ji-shu-ji-shi-zhuan-men-jia-tositenopurogurama-yan-yu-hua) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [leaf : Terminal Markdown previewer — GUI-like experience.](https://leaf.rivolink.mg/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法](https://zenn.dev/sta/articles/2026-06-20-vscode-scb) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [GitHub - socktainer/socktainer: Docker-compatible REST API on top of Apple container](https://github.com/socktainer/socktainer) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [TLS Configurator](https://configurator.tlsref.org/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [“つながらない”声あふれる楽天モバイル、「WiFiスポット」でかつての“ソフトバンク戦法”を踏襲か](https://www.itmedia.co.jp/mobile/articles/2606/19/news139.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [AI以後の受託システム開発はどうなっていくのか（2026年6月版）](https://zenn.dev/terurou/articles/eb9e7a4ca7b364) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [楽天モバイル、契約者向けフリーWi-Fiの提供を開始、まずは関東のイオンモールやアトレから](https://internet.watch.impress.co.jp/docs/news/2118686.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [仕事が劇的に捗るClaudeの隠れた実力派ツール10選 \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2606-10-hacks-every-claude-user-should-know/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [エックスのアカウントを消した - 珍獣ヒネモスの枝毛](https://mikimiyamiki.hatenablog.com/entry/2026/06/20/181926) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [AI エージェントフレームワーク eve を試してみた](https://azukiazusa.dev/blog/ai-agent-framework-eve/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [GitHub - arnica/depsguard: Harden your package manager configs against supply chain attacks.](https://github.com/arnica/depsguard) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [Create PlanetScale Postgres and MySQL databases, billed to your Cloudflare account](https://developers.cloudflare.com/changelog/post/2026-06-18-planetscale-databases-cloudflare-billing/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [第915回　aptの新機能あれこれ［Ubuntu 26.04 LTS版］ \| gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0915) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [無料でブラウザからSSH・RDP・VNCができる「Pangolin」、オープンソースでセルフホスト可能](https://gigazine.net/news/20260620-pangolin/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [Apple container で docker compose を動かす](https://zenn.dev/7kaji/articles/370a8dd7f678d1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [AI需要の高まりでTSMCの生産能力が限界へ、Google・NVIDIA・AMD・テスラなどはSamsungを代替パートナーとして検討中](https://gigazine.net/news/20260619-samsung-foundry-booming-tsmc-alternatives/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [ローカルLLMでどこまでコードが書けるか -拡張版 /　How much code can be written on a local LLM Extended](https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-extended) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-20 [AIエージェントの知識ベースを自己更新させる設計](https://zenn.dev/tadkud/articles/ai-agent-sqlite-rag-self-updating) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [AI彼女アプリを作っていたら、なぜか「夢」が出てきた](https://zenn.dev/mitsukida/articles/5272616b02c2a2) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [Dify Chatflow設計を自動化する：Claude Codeスキルで設計書を生成する](https://zenn.dev/okzaq/books/dify-chatflow-skill-book) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [AIエージェントの「承認ラッシュ」は、権限を“知らせる”だけで消えるのか](https://zenn.dev/pngr/articles/agent-approval-rush-permission-awareness) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [MCPサーバーの権限を絞ったら、AIが触れる範囲が初めて見えた](https://zenn.dev/kenimo49/articles/mcp-permission-scope-minimization-design) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [システムプロンプト ― エージェントの人格と行動規範をプロンプトで定義する【プロンプトで読み解くAIエージェント #3](https://zenn.dev/nobmake/articles/45f0ae31e0eeee) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [自己成長するサブエージェントを「評価」してみた——本当の戦いは作った後だった](https://zenn.dev/tai_chii_dev/articles/eval-subagent) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [Claude Code のスキルに「人間らしさチェック」を足した──AI発信自動化の改善サイクルを回す](https://zenn.dev/muramasa0228/articles/2026-06-20-skill-human-touch) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [Microsoftの新機能CodeActは、ツールを1個ずつ呼ばせない](https://zenn.dev/okssusucha/articles/20260620-microsoft-agent-framework-codeact-hyperli) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [OpenCodeを試してみた！WSL2からOllamaへ接続してローカルAIコーディング環境を構築](https://zenn.dev/merume/articles/39240f2432eb49) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [Vercel Eve を分解する：「エージェント＝ディレクトリ」設計が効く3つの理由](https://zenn.dev/hironakamura_ai/articles/298d9c4b3ece53) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [AIエージェントが Windows でトークンを溶かす理由 ── Bash の手癖と PowerShell 5.1](https://zenn.dev/yun_bow/articles/e0689d0fc6c908) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [AIキャラは遊びではない。Shazeerの移籍から考える、仕事相棒AIという認知インターフェース](https://zenn.dev/lifona/articles/96fff37381d17f) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [スピナーすら出ない！LLM長大コンテキストでブラウザ（DOM）がクラッシュ挙動と、新スレッドへ「最終回答コピペ」で復帰・最強ワークアラウンド](https://zenn.dev/jun1_nk/articles/19c2ba2fa47717) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [データサイエンティストがAIエンジニアに転換する際に確認すべき3つの設計判断](https://zenn.dev/libercraft/articles/20260620-ds-to-ai-engineer) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [品質「最大化」をやめる ― AIを確率論的コンパイラとして扱う開発プロセス L2A-SCP](https://zenn.dev/cognitiveosmdl/articles/856e4031d151b3) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [（火の車編）AI居酒屋：LLMと愚痴りながら学習しよう](https://zenn.dev/taimonya/articles/ce8852da8a46bb) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [プロンプトインジェクションについてのポエム](https://zenn.dev/earthha11queen/articles/e7067042fbbd2d) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [まだ名前のない開発形態 ― AIソフトウェアファウンドリが開く第四象限](https://zenn.dev/cognitiveosmdl/articles/4a3ad03d3eb5bf) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [AIを乗り換えたら、また一から説明し直しだった](https://zenn.dev/agentmemories/articles/carry-memory-when-you-switch-ai) *(Zenn – トピック LLM)*
+- [ ] 2026-06-20 [「それっぽく作れる人」ではなく「なぜを保持できる人」が残る ― AI時代のエンジニア生存戦略](https://zenn.dev/revo1290/articles/engineer-survival-ai-era) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 ["「そろそろ切れる頃では？」で、客は“値段だけ”では逃げない。AIに“先回り”させる——仕組みも、毎朝の設置も、最後まで書く"](https://zenn.dev/hiroshift/articles/8b11c5784dd4cd) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [【続編】Kiroを「完全オート」にする設定 ― Autopilot×Steering×Hooksで承認ゼロ運用](https://zenn.dev/devex12/articles/kiro-full-autopilot-setup) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [作り手から、作り手を増やす側へ](https://zenn.dev/kamayla/articles/ai-engineer-01) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [AWS WAF が「AIボットへの課金」機能を追加 — HTTP 402 と x402 で実現するコンテンツ収益化](https://zenn.dev/awesome_kou/articles/aws-waf-ai-traffic-monetization) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [9割は良いのに最後に直してしまう理由をAWS Summit New Yorkで気づけた](https://zenn.dev/philosophum/articles/d41aec707d051f) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [【Claude Design】AI時代に実践するデザインシステム駆動開発](https://zenn.dev/dragon1208/articles/081ac7e5c125b9) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [画像データを隠してモデルの推論証明！「AI推論のゼロ知識証明」入門②](https://zenn.dev/niikun/articles/39db2616855ea5) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [ADR を 57本書いて半年運用したら、何が機能して何が形骸化したか](https://zenn.dev/karasuda_lab/articles/57-adrs-when-decision-log-works) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [10秒音声で7言語ゼロショット生成比較（F5・XTTS・OpenVoice・ElevenLabs）](https://zenn.dev/mohhh_ok/articles/2026-06-multilingual-voice-cloning-benchmark) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [Flue vs eve — 同日ベータリリースされた2つのTypeScript AIエージェントフレームワークを比較する](https://zenn.dev/417/articles/masakazu-flue-vs-eve-agent-framework-20260620) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [GBP API 60日待ちに完成させたもの全部: LLMの癖・通知設計・グローバル対応](https://zenn.dev/yosiki/articles/meo-harness-backend-global) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [Gergely Orosz氏の投稿を見て、AI時代のコードレビューを考えた](https://zenn.dev/taketake_skills/articles/gergely-ai-diff-review) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [MiroFishとGeminiとEAの役割を分けて考えた話](https://zenn.dev/taketake_skills/articles/ea-mirofish-gemini-role-split) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [HITL から HOTL を目指したら、結局 SDD に戻ってきた](https://zenn.dev/kok1eeeee/articles/flywheel-hitl-to-hotl-cc-sdd) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [LazyCodexを今導入するメリットは「Codexを賢くすること」ではなかった](https://zenn.dev/53able/articles/c0f9268ab6d45b) *(Zenn – トピック AI)*
+- [ ] 2026-06-20 [論文メモ：GPU行列積はなぜtile化するのか](https://zenn.dev/kas_blog/articles/gpu-tiled-gemm-warp-tensor-core) *(Zenn – トピック 機械学習)*
+- [ ] 2026-06-20 [【実測】7GBのローカルAIに、自分のコードと請求書を食わせてみた ― Gemma 4 E4B QAT](https://zenn.dev/aiwatch_jp/articles/gemma4-e4b-qat-local-hands-on) *(Zenn – トピック 機械学習)*
