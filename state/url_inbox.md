@@ -96726,3 +96726,81 @@
 - [ ] 2026-06-21 [Claude Codeハーネスに「自己修復ループ」を実装した話](https://zenn.dev/yamada_ai_dev/articles/claude-code-self-healing-harness) *(Zenn – トピック AI)*
 - [ ] 2026-06-21 [pi-coding-agent用拡張記憶pi-gl-mem を作ってみました(テストレベル)](https://zenn.dev/tanadeyu/articles/7d39bad0afffb5) *(Zenn – トピック AI)*
 - [ ] 2026-06-21 [お水ちょうだい！マリーゴールドと会話する新しい見守りのカタチ。会話もセンサーも記録できる優れもの](https://zenn.dev/yuichirominato/articles/d67f165a5630a5) *(Zenn – トピック AI)*
+
+## Collected on 2026-06-22T16:20:54.459Z
+- [ ] 2026-06-22 [AI models that can take down governments and business months away, rare Five Eyes statement warns](https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-22 [New York City House primary emerges as key battleground in ‘AI civil war’](https://www.theguardian.com/us-news/2026/jun/22/new-york-city-house-primary-race) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-22 [World Model AI Lab Odyssey Now Valued at $1.45 Billion](https://aibusiness.com/generative-ai/world-model-ai-lab-odyssey-valued-at-1-45-billion) *(AI Business)*
+- [ ] 2026-06-22 [Compete to survive, cooperate to exist: the sovereignty paradox at the heart of Europe’s defence industry](https://theconversation.com/compete-to-survive-cooperate-to-exist-the-sovereignty-paradox-at-the-heart-of-europes-defence-industry-285293) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-22 [Anyone can fake a scientific image with AI, tricking even academic journals – and undermining trust in science](https://theconversation.com/anyone-can-fake-a-scientific-image-with-ai-tricking-even-academic-journals-and-undermining-trust-in-science-281853) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-22 [Mukesh Ambani’s Reliance AI Roadmap Puts Jio CallAgent Inside the Network](https://www.techrepublic.com/article/news-reliance-jio-callagent-ai-apac-india/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-22 [Anthropic’s Fable 5 Withdrawal Underscores Importance and Difficulty of ‘sovereign AI’ Strategies](https://www.techrepublic.com/article/fable-5-withdrawal-underscores-difficulty-sovereign-ai/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-22 [Here’s What Everyone Gets Wrong About Agentic AI](https://www.kdnuggets.com/heres-what-everyone-gets-wrong-about-agentic-ai) *(KDnuggets)*
+- [ ] 2026-06-22 [3 NLTK Tricks for Advanced Text Preprocessing & Linguistic Analysis](https://www.kdnuggets.com/3-nltk-tricks-for-advanced-text-preprocessing-linguistic-analysis) *(KDnuggets)*
+- [ ] 2026-06-22 [Alphabet Shares Drop After Second AI Star Departs for a Rival](https://www.bloomberg.com/news/articles/2026-06-22/alphabet-shares-drop-after-second-ai-star-departs-for-a-rival) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [JPMorgan's Sundar Discusses AI Investment Opportunities](https://www.bloomberg.com/news/videos/2026-06-22/jpmorgan-s-sundar-discusses-ai-investment-opportunities-video) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Groq Raises $650 Million to Aid in Pivot After Nvidia Deal](https://www.bloomberg.com/news/articles/2026-06-22/groq-raises-650-million-to-help-startup-pivot-after-nvidia-deal) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [How Eli Lilly Became a $1 Trillion Company](https://www.bloomberg.com/news/videos/2026-06-22/how-eli-lilly-became-a-1-trillion-company-video) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [How AI Is Reshaping Retail Discounts](https://www.bloomberg.com/news/videos/2026-06-22/how-ai-is-reshaping-retail-discounts-video) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Kazakh $1 Billion Fund Backs Startups as Region Lures Investment](https://www.bloomberg.com/news/articles/2026-06-22/kazakh-1-billion-fund-backs-startups-as-region-lures-investment) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [SpaceX Inks Multibillion-Dollar Computing Deal With Reflection AI](https://www.bloomberg.com/news/articles/2026-06-22/spacex-inks-multibillion-dollar-computing-deal-with-reflection-ai) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [How Anthropic Weighs the Risk of Human Extinction](https://www.bloomberg.com/news/videos/2026-06-22/how-anthropic-weighs-the-risk-of-human-extinction) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Two Plead Guilty to Hacking Transport for London While Teenagers](https://www.bloomberg.com/news/articles/2026-06-22/two-plead-guilty-to-hacking-transport-for-london-while-teenagers) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Using AI to Develop New Drugs](https://www.bloomberg.com/news/videos/2026-06-22/using-ai-to-develop-new-drugs) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [SpaceX Kicks Off Debut High-Grade Bond Sale](https://www.bloomberg.com/news/videos/2026-06-22/spacex-kicks-off-debut-high-grade-bond-sale-video) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [SpaceX Bankers Kick Off Marketing for Debut High-Grade Bond Sale](https://www.bloomberg.com/news/articles/2026-06-22/spacex-kicks-off-debut-us-dollar-investment-grade-bond-offering) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Nvidia Seeks to Make Humanoid AI Robots Safer Around Humans](https://www.bloomberg.com/news/articles/2026-06-22/nvidia-seeks-to-make-humanoid-ai-robots-safer-around-humans) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Meta Taps New WhatsApp Boss as Part of $900 Million Investment](https://www.bloomberg.com/news/articles/2026-06-22/meta-taps-new-whatsapp-boss-as-part-of-900-million-investment) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Robinhood Seeks to Raise $2 Billion in Convertible Bond Sale](https://www.bloomberg.com/news/articles/2026-06-22/robinhood-seeks-to-raise-2-billion-in-convertible-bond-sale) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Amazon Prime Day Spending Expected to Rise 9% to $26.3 Billion](https://www.bloomberg.com/news/articles/2026-06-22/amazon-prime-day-spending-expected-to-rise-9-to-26-3-billion) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Uber-Backed Electric Bike Firm Lime Seeks $180.9 Million in IPO](https://www.bloomberg.com/news/articles/2026-06-22/uber-backed-electric-bike-firm-lime-seeks-180-9-million-in-ipo) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Tesla in autopilot crashed into Texas home, killing one](https://www.engadget.com/2198847/tesla-in-autopilot-crashed-into-texas-home-killing-one/) *(Engadget)*
+- [ ] 2026-06-22 ['Fungalpunk' RPG Signet City isn't afraid to be weird and political](https://www.engadget.com/2198793/fungalpunk-rpg-signet-city-isnt-afraid-to-be-weird-and-political/) *(Engadget)*
+- [ ] 2026-06-22 [Instagram for TV is now available on Samsung TVs in the US](https://www.engadget.com/2198313/instagram-for-tv-samsung-tvs-us/) *(Engadget)*
+- [ ] 2026-06-22 [OpenAI signs deal to show Getty's images in ChatGPT results](https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/) *(Engadget)*
+- [ ] 2026-06-22 [Chinese-style EV battery swap stations are coming to Europe](https://www.engadget.com/2198629/chinese-style-ev-battery-swap-stations-are-coming-to-europe/) *(Engadget)*
+- [ ] 2026-06-22 [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) *(Hugging Face Blog)*
+- [ ] 2026-06-22 [AIのモデル崩壊と多様性 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ](https://joisino.hatenablog.com/entry/collapse) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-22 [OpenAIも注目、非エンジニア農家がCodexで進める「農業のDX」。ハウス自動化から翻訳LINE Botまで \| Business Insider Japan](https://www.businessinsider.jp/article/2606-openai-codex-farm-automation/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-22 [Notion \| Where teams and agents work together](https://opsbr.notion.site/AI-Builder-38753e0a1e4080cfa771d4ba22dc27e2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-22 [「タンパク質構造予測」でノーベル賞を受賞したジョン・ジャンパー氏が約9年間勤めたGoogle DeepMindを離れAnthropicに入社すると発表](https://gigazine.net/news/20260622-john-jumper-leave-google-deepmind-for-anthropic/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-22 [Sakana AIがClaude Fable超えをアピールするマルチエージェントシステム「Sakana Fugu」を発表](https://gigazine.net/news/20260622-sakana-fugu-multi-agent-system-ai/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-22 [文学賞受賞者のAI使用疑惑を受けて受賞作品を掲載していた文芸誌が「編集権のない出版提携から撤退する」と発表](https://gigazine.net/news/20260622-prize-ai-story/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-22 [「iPhone 17e」「Pixel 10a」を徹底比較　10万円以下で手に入る高バランスモデルの性能差はどれほど？](https://www.itmedia.co.jp/mobile/articles/2606/22/news068.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-22 [「危険なAI」の証拠はあったのか？　Anthropic「Fable 5」規制に広がる疑問の声](https://atmarkit.itmedia.co.jp/ait/articles/2606/22/news026.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-22 [「みどりの窓口」に生成AI、新幹線は1分で発券…JR東日本「3つの乗車券改革」の最大の難関とは](https://diamond.jp/articles/-/392821) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-22 [Claude Design ↔ Claude Code を行き来して作った資産ポートフォリオダッシュボード](https://zenn.dev/unsoluble_sugar/articles/fd73c7b67d80ce) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [サカナAIが新サービス「フグ」、複数AI束ねプログラミングで高性能 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC2265B0S6A620C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [ITエンジニアはどうしてサクラエディタを使うのか？「会社が許可してる数少ないエディタだから」「先輩たちが使ってたから」など便利以外の理由もあった](https://togetter.com/li/2712257) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [apple/container で worktree 並行開発を快適にするツールを作ってみた - エムスリーテックブログ](https://www.m3tech.blog/entry/2026/06/22/170000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [JapaneseIdolSpeechCorpus](https://www.kecl.ntt.co.jp/people/yuto.kondo/corpus.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [⚡️【8万バズ】寝てても動くGemini。「Workspace Studio」が一般公開！Gmail、Drive、スプシを早速自動化してみた｜たてばやし淳.エクセル兄さん@ ８万部ヒット「生成AI最速仕事術」著者](https://note.com/on_consul/n/n103dc815653d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [楽天モバイルが「楽天モバイルWiFiスポット」開始、データ消費なし](https://k-tai.watch.impress.co.jp/docs/news/2118878.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [JR西日本、決済サービス「Wesmo!」がモバイルICOCAチャージやオンライン決済対応](https://www.watch.impress.co.jp/docs/news/2118976.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [Sakana AI、「Fable 5」や「Mythos」に匹敵するAIモデルをリリース、「Fugu」「Fugu Ultra」／複数のAIを連携、『集合知』を得る仕組み、「輸出規制のリスクを負うことなく、フロンティアレベルの実力を発揮する」](https://forest.watch.impress.co.jp/docs/news/2118969.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [Bot-created pull requests can run workflows if approved - GitHub Changelog](https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [TBSラジオ、AIが音声広告を1分で作成　ポッドキャストの広告主開拓 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC158ZP0V10C26A6000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [「iPhone・iPadがこっそり公開している情報」で広告やウェブサイトがユーザーの行動を個別に追跡する仕組みが垣間見える「Loupe」](https://gigazine.net/news/20260622-loupe-for-ios/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [[スタパ齋藤の「スタパトロニクスMobile」] 俺のステッカーづくりが止まらない!!!　自動型抜き機「PixCut S1」自腹検証でわかった画質と自作手順](https://k-tai.watch.impress.co.jp/docs/column/stapa/2116489.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [CSV を顧客に配るのは、想像よりずっと難しい](https://zenn.dev/dress_code/articles/csv-for-customers) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [複数のAIを束ねてFable 5/Mythos級の性能を実現した「Fugu Ultra」](https://pc.watch.impress.co.jp/docs/news/2119021.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [AI駆動開発研究日誌 #2 — Studioくん、画面定義まで食べ始める](https://zenn.dev/frb_tamasub/articles/ai-driven-development-diary-02-studio-eats-viewdef) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [脅威インテリジェンス×LLMで「使える」脆弱性管理CIを作る — SBOMからKEV優先度付け、AIトリアージまで](https://zenn.dev/12ban/articles/2026-06-22-vuln-triage-ci) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [【DX推進パスポート】工学修士卒、応用情報取得済みでITパスポートを受験した話](https://zenn.dev/paka00/articles/e52bc51f945389) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [「話したいけど、誰かに迷惑をかけたくない」——そんな人のためにAIを作った](https://zenn.dev/kazuokamoto/articles/betaship-launch) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [Mythos・PRISMA・AI Arms and Influenceが描く新たな脅威モデル、AIによる脆弱性推定の体系化](https://zenn.dev/syoshida07/articles/087e2e9978def8) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 ["「梅田店」宛の特典が、広島へ送られかけた——発送明細の“店名↔住所”の食い違いを、AIを使わず手元だけで点検する"](https://zenn.dev/hiroshift/articles/941248f5076716) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [Grok 4.3はBedrockのConverseで呼べない。OpenAI互換Mantle経由だけ](https://zenn.dev/okssusucha/articles/20260622-grok-4-3-bedrock-mantle-openai-compatible) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [AIに読ませる知識ノートは「言い切り」に注意 — 判断軸で書いて誤動作を防ぐ](https://zenn.dev/takna/articles/ai-knowledge-notes-judgment-axis) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [で、結局その処理、AIでやる価値あります？](https://zenn.dev/continuitymodel/articles/f31801b3d00ab0) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [Sakana Fugu を opencode で使う最短手順](https://zenn.dev/mohhh_ok/articles/2026-06-sakana-fugu-opencode-setup) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [Apache 2.0 な多言語 voice clone OSS を Mac で試す（Qwen3-TTS / CosyVoice 2・3）](https://zenn.dev/mohhh_ok/articles/2026-06-cosyvoice-qwen3-tts-apache2-mac) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [AIエージェントのOpenTelemetryは、other 46.7%を見つけてからが運用だった](https://zenn.dev/seeda_yuto/articles/ai-agent-otel-schema-maintenance) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [AIサブエージェントは何に効くのか: 高リスクレビューで試した運用メモ](https://zenn.dev/kota_suzuki/articles/ai-subagent-high-risk-review) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [消えたFableが教えてくれたこと ― 最強AIの停止と、これから人間に残る仕事](https://zenn.dev/kotakotahiro/articles/d39300d8cc3e51) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [3つのAIエージェントを連携させて全自動開発パイプラインを構築するアーキテクチャ【Claude / Codex / AGY】](https://zenn.dev/cutlet_of_pork/articles/three-agent-orchestration) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [ローカルAI Gatewayに Provider Adapter を実装した](https://zenn.dev/hisa_tech_2973/articles/cada005f5e26fe) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [AIの手順書を、問題集でテストしてみた。Waza風evalをCodexで回す話](https://zenn.dev/noprogllama/articles/4f1a53c1e9b779) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [CursorでAI開発したら、気づいたら設計が崩壊していた話](https://zenn.dev/fabricon_tech/articles/30b18a425bc98c) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [【2026年最新】Claude Codeトークン削減ツール完全整理 — rtk・headroom・lean-ctx・h5iの使い分け](https://zenn.dev/amu_lab/articles/claude-code-token-tools-guide-2026) *(Zenn – トピック AI)*
+- [ ] 2026-06-22 [ちゃんとした2人の写真がまだないとき、最初の1枚はどう作るか](https://zenn.dev/songlyricslab/articles/57ea9f14fa0955) *(Zenn – トピック AI)*
