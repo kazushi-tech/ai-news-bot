@@ -96996,3 +96996,99 @@
 - [ ] 2026-06-23 [Codex & Claude Codeに共通の長期記憶をもたせるGitベースの手軽なツールを作りました](https://zenn.dev/abalol/articles/adcac492e40e95) *(Zenn – トピック AI)*
 - [ ] 2026-06-23 [【第11回】Hermes Agentに最新情報を自動取得させる方法](https://zenn.dev/sora_biz/articles/hermes-vps-11-web-search) *(Zenn – トピック AI)*
 - [ ] 2026-06-23 [AI時代のナレッジ管理手法 - Googleの「OKF」を解説](https://zenn.dev/knowledgesense/articles/14a874a9f423bb) *(Zenn – トピック AI)*
+
+## Collected on 2026-06-23T14:12:30.371Z
+- [ ] 2026-06-23 [You’re only supposed to blow the bloody hooves off: AI Michael Caine narrates Odyssey audiobook](https://www.theguardian.com/film/2026/jun/23/youre-only-supposed-to-blow-the-bloody-hooves-off-ai-michael-caine-narrates-odyssey-audiobook) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-23 [AI in the classroom prompts tide of concern from US parents and experts](https://www.theguardian.com/education/2026/jun/23/ai-us-schools-students) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-23 [Majority of datacenters are vulnerable to climate threats like floods and fires, study finds](https://www.theguardian.com/us-news/2026/jun/23/datacenters-climate-hazards-study) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-23 [Australia ‘sleepwalking’ into AI crisis and ‘tech bro free-for-all’, says Greens senator](https://www.theguardian.com/technology/2026/jun/23/david-pocock-urges-albanese-to-stop-tech-companies-training-ai-models-using-australian-content) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-23 [Tech Stocks Are Abruptly Collapsing](https://futurism.com/space/tech-stocks-collapsing-spacex) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-23 [A24 Fans in Meltdown After It Enters AI Partnership With Google](https://futurism.com/artificial-intelligence/a24-fans-meltdown-google-ai-partnership) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-23 [Getty Images Enters Into Content Deal With OpenAI](https://aibusiness.com/generative-ai/getty-images-enters-content-deal-with-openai) *(AI Business)*
+- [ ] 2026-06-23 [The danger of confusing AI mental health support with therapy](https://theconversation.com/the-danger-of-confusing-ai-mental-health-support-with-therapy-285431) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-23 [AI Is Learning to Read the Room](https://spectrum.ieee.org/emotion-ai-context) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-06-23 [Here’s Why WebMCP is Exciting](https://www.kdnuggets.com/heres-why-webmcp-is-exciting) *(KDnuggets)*
+- [ ] 2026-06-23 [5 Essential Approaches to Robust Outlier Detection](https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection) *(KDnuggets)*
+- [ ] 2026-06-23 [Supreme Court Puts New Curbs on Human-Rights Suits in Cisco Win](https://www.bloomberg.com/news/articles/2026-06-23/supreme-court-puts-new-curbs-on-human-rights-suits-in-cisco-win) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [SpaceX Loses $600 Billion in Value Over Three Days](https://www.bloomberg.com/news/videos/2026-06-23/spacex-loses-600-billion-in-value-over-three-days-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Meta Debuts Glasses Under Its Own Brand at Lower $299 Price](https://www.bloomberg.com/news/articles/2026-06-23/meta-launches-299-in-house-adventure-fury-kylie-jenner-starfire-glasses) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Early Anthropic Backer Menlo Lands $3 Billion in Its Largest-Ever Haul](https://www.bloomberg.com/news/articles/2026-06-23/anthropic-backer-menlo-ventures-lands-3-billion-in-its-largest-ever-haul) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Games Industry Faces More Painful Months Ahead](https://www.bloomberg.com/news/newsletters/2026-06-23/tencent-and-microsoft-add-to-painful-adjustment-for-games-industry) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Gracias’ Valor to Raise $2.5 Billion Fund Amid SpaceX Win](https://www.bloomberg.com/news/articles/2026-06-23/gracias-valor-to-raise-2-5-billion-fund-amid-spacex-win) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Abu Dhabi’s MGX Raises About $50 Billion to Accelerate AI Deals](https://www.bloomberg.com/news/articles/2026-06-23/abu-dhabi-s-mgx-raises-about-50-billion-to-accelerate-ai-deals) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Julian Emanuel Remains Bullish as Tech Selloff Deepens](https://www.bloomberg.com/news/videos/2026-06-23/julian-emanuel-remains-bullish-as-tech-selloff-deepens-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Getty Just Became an AI Company. It Now Has to Perform Like One](https://www.bloomberg.com/news/newsletters/2026-06-23/getty-images-stock-soars-145-after-openai-content-licensing-deal) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Masayoshi Son Dismisses Musk’s Orbital Data Centers Idea](https://www.bloomberg.com/news/videos/2026-06-23/masayoshi-son-dismisses-musk-s-orbital-data-centers-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Oracle Slashed 21,000 in 12 Months as AI Replaces Some Roles](https://www.bloomberg.com/news/videos/2026-06-23/oracle-slashed-21-000-in-12-months-as-ai-replaces-roles-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [BBVA Offloads AI Risk With $2 Billion Infrastructure-Linked SRT](https://www.bloomberg.com/news/articles/2026-06-23/bbva-offloads-ai-risk-with-2-billion-infrastructure-linked-srt) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Google Taps Employee Alumni Network With AI Startup Incubator](https://www.bloomberg.com/news/articles/2026-06-23/google-taps-employee-alumni-network-with-ai-startup-incubator) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [The Growing Crisis for America's Child Abuse Investigators](https://www.bloomberg.com/features/2026-ai-mental-health-crisis-law-enforcement/) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Stocks Hit by Tech Selloff as Korean Shares Plunge](https://www.bloomberg.com/news/videos/2026-06-23/stocks-hit-by-tech-selloff-as-korean-shares-plunge-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Why SpaceX Shares Are Under Pressure](https://www.bloomberg.com/news/videos/2026-06-23/why-spacex-shares-are-under-pressure-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [EU to Escalate Meta Probe Into Addictive Design That Hooks Kids](https://www.bloomberg.com/news/articles/2026-06-23/eu-to-escalate-meta-probe-into-addictive-design-that-hooks-kids) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Allianz CIO Sees Markets Pricing 'Darwinian Effect of AI'](https://www.bloomberg.com/news/videos/2026-06-23/allianz-sees-markets-pricing-darwinian-effect-of-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [How to get the most out of your Apple TV+ subscription](https://www.engadget.com/2199297/get-the-most-out-of-apple-tv-plus-subscription/) *(Engadget)*
+- [ ] 2026-06-23 [Meta Glasses hands-on: Ray-Ban is out, Kylie Jenner is in](https://www.engadget.com/2199519/meta-ai-glasses-hands-on-kylie-jenner-edition/) *(Engadget)*
+- [ ] 2026-06-23 [MSI Claw 8 EX AI+ review: Big money for big performance](https://www.engadget.com/2199163/msi-claw-8-ex-ai-review/) *(Engadget)*
+- [ ] 2026-06-23 [China takes back top spot in latest supercomputer ranking](https://www.engadget.com/2199608/china-lineshine-supercomputer-is-worlds-fastest/) *(Engadget)*
+- [ ] 2026-06-23 [Oracle laid off 21,000 employees over the past year, citing AI as one of the reasons](https://www.engadget.com/2199604/oracle-laid-off-21000-employees-in-the-last-year/) *(Engadget)*
+- [ ] 2026-06-23 [The Oversight Board says Meta needs to do more to protect regular people from sexualized deepfakes](https://www.engadget.com/2198368/oversight-board-meta-regular-people-needs-more-protection-from-sexualized-deepfakes/) *(Engadget)*
+- [ ] 2026-06-23 [Amazon ordered to bargain with Teamsters in case that could set back union progress](https://www.engadget.com/2199578/amazon-ordered-to-bargain-with-teamsters/) *(Engadget)*
+- [ ] 2026-06-23 [OpenAI's new Daybreak⁠ initiative will help open-source projects fend off bugs](https://www.engadget.com/2199569/openai-new-daybreak-initiative-open-source-projects-bugs/) *(Engadget)*
+- [ ] 2026-06-23 [Build real agentic apps using CUGA: two dozen working examples on a lightweight harness](https://huggingface.co/blog/ibm-research/cuga-apps) *(Hugging Face Blog)*
+- [ ] 2026-06-23 [KDDI提供のISP向けメールシステムに不正アクセス、最大1422万件が漏洩か](https://xtech.nikkei.com/atcl/nxt/news/24/03272/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [“地上のあなた” 余命10か月の女性とAIの最期の対話記録 \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015155721000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [OpenAIがClaude Mythos 5超えのセキュリティー特化AI「GPT-5.5-Cyber」のアップデートを発表＆セキュリティー特化Codexプラグイン「Codex Security」もアップデート](https://gigazine.net/news/20260623-openai-gpt-cyber-codex-security-daybreak/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [複数の写真から3Dシーンを生成するAIモデル「ArtiFixer」をNVIDIAが発表、写真にない部分も生成処理で補完可能](https://gigazine.net/news/20260623-nvidia-artifixer-3d-representation/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [Google、映画スタジオA24に121億円を投資　AIを活用した映画制作ツールを共同開発](https://kai-you.net/article/95765) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [AIが飲み込む水、アフリカ13億人の生活用水に匹敵――国連大学が警告、「丁寧すぎる指示」も負荷に（36Kr Japan） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/4dbb169ae0749782f30fca561ffb2d2e5aa4ac27) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [AIコーディングではコードではなく検証プロセスをレビューする](https://zenn.dev/mkj/articles/56245f7a34539c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [死ぬ前にこれだけは言っておくけどエアコンを買うなら6畳・10畳・14畳から選ぶのがええ…あとどうしてもいいやつが欲しかったらダイキンを選ぶんじゃ](https://togetter.com/li/2712645) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [KDDI基盤に不正アクセス、ニフティやビッグローブなど最大1422万件のメール・パスワード漏洩の可能性](https://k-tai.watch.impress.co.jp/docs/news/2119354.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [｢話が通じない日本人｣が急増している本当の理由　｢相手の説明を理解できない人｣に共通する欠点とは？](https://toyokeizai.net/articles/-/948660?display=b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [マネーフォワード、新たに顧客や従業員の個人データが流出した可能性を確認。GitHub不正アクセスの調査を完了](https://internet.watch.impress.co.jp/docs/news/2119307.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Honoでのサプライチェーン侵害対策 〜 3つのライブラリに学ぶ](https://speakerdeck.com/yusukebe/honodenosapuraitienqin-hai-dui-ce-3tunoraiburarinixue-bu) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [とある「銅化合物」が脳の“ゴミ掃除ポンプ”を修繕、マウス実験で記憶力が約44%向上　アルツハイマー病治療に期待](https://www.itmedia.co.jp/news/articles/2606/23/news028.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [[fit] Hardening npm Publishing](https://azu.github.io/slide/2026/hardening-npm-publishing/slide.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Anthropicが日本でClaudeコミュニティアンバサダーの募集を開始、Claudeの利用を拡散するために無料APIクレジットを利用可能](https://gigazine.net/news/20260623-claude-community-ambassadors/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [出身地鑑定!! 方言チャート EXTRA ～ 1000万件のデータをもとにアップデートしちゃいましたバージョン～](https://hougen.sanseido-publ.co.jp/hougen/hougen100plus/index.php) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Vite 8.1 is out!](https://vite.dev/blog/announcing-vite8-1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [第313回 TPU製造を巡るGoogleとIntelの賭け――AIが強いる「ハード使い捨て」の過酷な舞台裏](https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news018.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [｢話が通じない日本人｣が急増している本当の理由　｢相手の説明を理解できない人｣に共通する欠点とは？](https://toyokeizai.net/articles/-/948660?page=3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Paseo – Run Claude Code, Codex, Copilot, OpenCode from anywhere](https://paseo.sh/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Sakana Fuguを22ドルだけお試し導入してみた記録](https://zenn.dev/yamadatt/articles/20260623-sakana-fugu-trial) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [LiteLLM + OpenCode + ローカルLLM でagentic coding 環境を構築する](https://zenn.dev/omohikane/articles/opencode-localllm-config) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [Sakana Fugu と Claude Code/Codex を同じプロンプトで回して比べた — いま乗り換えないと判断した理由](https://zenn.dev/marvelousu/articles/sakana-fugu-vs-claude-codex) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [📊チャットから編集可能な PowerPoint を吐く LLM パイプラインの設計 — Vision-LLM レビューループ付き](https://zenn.dev/gen99/articles/8fa5cab946b514) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [Claude Codeのauto modeは git reset --hard を勝手に実行しない](https://zenn.dev/okssusucha/articles/20260623-claude-code-auto-mode-safety) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [AIに開発もテストもお任せしたら、テストはオールグリーン。でもアプリは起動しなかった。](https://zenn.dev/daimo0120/articles/d9626b78d5323a) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [Google翻訳をオンにしたら、Hyperagentが壊れた](https://zenn.dev/ara_ai/articles/188cdd1bbfd3a7) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [Ollamaで画像入力が効かないときに見るチェックリスト（Windows / PowerShell）](https://zenn.dev/localai_lab/articles/65eb15ee26bb1d) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [【Zenn収録】ミッションクリティカルな現場から見た、AIとの「方式設計」付き合い方](https://zenn.dev/jun1_nk/articles/ff9f4ef41726c4) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [Anthropic公式に学ぶ AIエージェント設計20の原則](https://zenn.dev/takna/articles/anthropic-ai-agent-design-20-principles) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [個人開発で『AIに読書傾向を語らせる』ために、ユーザーの機微情報を守る三段防御を設計した話](https://zenn.dev/mirreapp/articles/mirre-llm-pii-3layer-defense) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [なぜ LLM に大喜利が難しいのか](https://zenn.dev/nttdata_tech/articles/3241a46dca47b2) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [Prompt Cachingで APIコストを90%削減する——初心者向け実装ガイド](https://zenn.dev/shun_producer/articles/claude-prompt-caching-beginner-guide) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [Claude Code でAIチームを設計する ─ 増やしても破綻させない5層モデルと3原則](https://zenn.dev/takna/articles/claude-code-ai-team-design) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [AIエージェントの評価は『軌跡』で見る — タスク成否だけでは足りない理由](https://zenn.dev/hiro_hamada/articles/llm-agent-eval-trajectory) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [AIループの主役は、生成ではなく評価だ](https://zenn.dev/ryok/articles/loop-engineering-eval) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [操作を一度見せるとCodexがSKILL.mdを書き起こすRecord & Replay](https://zenn.dev/okssusucha/articles/20260623-codex-record-and-replay-skill-generation) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [【決定版】Pythonの「たった1文字」で3時間溶けた話。開発者は頭がおかしいのか？](https://zenn.dev/jun1_nk/articles/ec68700b3c08d8) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [スマホだけでAI脳になる！ 未経験でもAIと作るローカルLLM ～標準音声チャット編～](https://zenn.dev/kinotex/articles/43e6697e057759) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [フォーム回答ダッシュボードをイベントログから作る設計](https://zenn.dev/lova_man/articles/f8a98f05bba188) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [Loop Engineering、kajiでもできますよ](https://zenn.dev/kamo78/articles/kaji-loop-engineering-before-name) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [壁打ちスキルを grill-me から grilling に乗り換えた話](https://zenn.dev/kjmboy/articles/3d4960a3ffbbf3) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [動画生成ジョブをNext.jsとPrismaで管理する設計メモ](https://zenn.dev/tairagiang612/articles/cd75a31c58288b) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [コードから仕様書を逆生成するWebアプリ「cc-rsg-web」を公開しました](https://zenn.dev/daishiro/articles/cc-rsg-web-release) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [「産地証明書の期限切れ」「アレルゲン見落とし」を防ぐ食品規格書管理システムを作った話](https://zenn.dev/hapifoodlab/articles/2e4188fb1c04d2) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [食品工場の異物事故をデジタル管理する「FoodEye」を個人開発した話](https://zenn.dev/hapifoodlab/articles/580f8b35df91d1) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [AIに『3人の専門家会議』をさせる ― マルチエージェントAI鏡『トリアージュ』を支える4つの実装](https://zenn.dev/kenya0126/articles/triage-multiagent-mirror) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [LLMを使ったシステムのリスク：プロンプトインジェクションとその対策](https://zenn.dev/sun_asterisk/articles/a11520b914e058) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [Scail 2 AI Video Generatorで動画生成結果をレビューする実装メモ](https://zenn.dev/fabryluka142/articles/db864c8047ee5b) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [Claude Code / CursorのAPI料金を70%削減する、シニアエンジニアのコンテキスト管理術](https://zenn.dev/agdexai/articles/agentic-coding-cost-optimization-2026) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [【FLUX × Rokid AI Glasses Hackathon開催レポート】 — スマートグラスをテーマに社内ハッカソンを仕掛けた話](https://zenn.dev/_flux/articles/3a0b1a9339edb7) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [「プロンプトすら書かない未来」の解像度を上げたくて、LoopエンジニアリングとHarnessエンジニアリングについて考えてみた](https://zenn.dev/henteko/articles/f65485dac55599) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [複数のAIエージェントでmainがカオスになったので、PRの管制塔をGitHub Appにした](https://zenn.dev/veripsa/articles/veripsa-parallel-pr-collision) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [AIOS Design Philosophy](https://zenn.dev/ronos/articles/bbff54067fcf32) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [AI コーディングの『なぜ』を git に残す — ADR と handoff という外部記憶](https://zenn.dev/skipbit/articles/2026-06-22-adr-handoff) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [Claudeのプロジェクト機能を資格勉強の専属チューターにしたら、Google Cloud PMLEに合格できた話](https://zenn.dev/gixo/articles/claude-project-pmle) *(Zenn – トピック 機械学習)*
