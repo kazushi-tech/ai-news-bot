@@ -97092,3 +97092,59 @@
 - [ ] 2026-06-23 [AIOS Design Philosophy](https://zenn.dev/ronos/articles/bbff54067fcf32) *(Zenn – トピック AI)*
 - [ ] 2026-06-23 [AI コーディングの『なぜ』を git に残す — ADR と handoff という外部記憶](https://zenn.dev/skipbit/articles/2026-06-22-adr-handoff) *(Zenn – トピック AI)*
 - [ ] 2026-06-23 [Claudeのプロジェクト機能を資格勉強の専属チューターにしたら、Google Cloud PMLEに合格できた話](https://zenn.dev/gixo/articles/claude-project-pmle) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-23T19:45:29.354Z
+- [ ] 2026-06-23 [US AI stock sell-off shakes markets from Wall Street to Asia](https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-23 [AI Companies Are Trying to Seize Control of Elections](https://futurism.com/artificial-intelligence/ai-companies-elections-midterms) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-23 [Amazon Just Pulled Something Absolutely Craven to Avoid Embarrassing Its Friends at OpenAI](https://futurism.com/future-society/amazon-craven-avoid-embarrassing-friends-openai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-23 [New Paper Proposes What Really Causes AI Psychosis](https://futurism.com/artificial-intelligence/paper-proposes-ai-psychosis) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-06-23 [How AI is Reshaping Europe's Digital Sovereignty Debate](https://aibusiness.com/ai-policy/how-ai-reshaping-europe-s-digital-sovereignty-debate) *(AI Business)*
+- [ ] 2026-06-23 [Unis are going back to in-person exams. But some students are finding new ways to cheat](https://theconversation.com/unis-are-going-back-to-in-person-exams-but-some-students-are-finding-new-ways-to-cheat-285801) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-23 [Oracle Cuts 21,000 Jobs as It Rebuilds Around AI](https://www.techrepublic.com/article/news-oracle-cuts-21000-jobs-rebuilds-around-ai/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-23 [Apple’s iOS 27 Beta 2: New Siri, RCS, and Wallet Changes Arrive](https://www.techrepublic.com/article/news-ios-27-beta-2-write-with-siri-rcs-upgrades/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-23 [OTC Glucose Monitors Make Wellness Tracking More Personal — and More Complicated](https://www.techrepublic.com/article/news-otc-glucose-monitors-wearable-tech/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-23 [The Math Skills Every Aspiring Data Scientist Needs to Master Before Writing a Single Line of Code](https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code) *(KDnuggets)*
+- [ ] 2026-06-23 [Strive Is Buying Bitcoin Hand-Over-Fist, CEO Says](https://www.bloomberg.com/news/videos/2026-06-23/strive-is-buying-bitcoin-hand-over-fist-ceo-says-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Meta Building Prediction Market App That Wouldn’t Wager Money](https://www.bloomberg.com/news/articles/2026-06-23/meta-building-prediction-market-app-that-wouldn-t-wager-money) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Sequoia Backs Drone Startup Stark at €3.2 Billion Valuation](https://www.bloomberg.com/news/articles/2026-06-23/sequoia-founders-fund-back-german-drone-startup-stark-at-3-5-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [PNC's Agati Sees Healthy Reset After Tech Rally](https://www.bloomberg.com/news/videos/2026-06-23/pnc-s-agati-sees-healthy-reset-after-tech-rally-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Quantum Computing Is Finally Here. But What Is It?](https://www.bloomberg.com/news/articles/2026-06-23/what-is-quantum-computing-and-what-can-quantum-computers-do) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [SpaceX’s Shortest-Dated Debt Is Biggest Lure in $25 Billion Sale](https://www.bloomberg.com/news/articles/2026-06-23/spacex-draws-89-billion-demand-for-debut-high-grade-bond-sale) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Alibaba Sues the US, Seeking Removal From Pentagon’s Blacklist](https://www.bloomberg.com/news/articles/2026-06-23/alibaba-sues-the-us-seeking-removal-from-pentagon-s-blacklist) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Anthropic Wants Claude to Be Your New Slack Coworker](https://www.bloomberg.com/news/articles/2026-06-23/anthropic-wants-claude-to-be-your-new-slack-coworker) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [SpaceX Wavers Near $2 Trillion Market Cap After 3-Day Rout \| Bloomberg Tech 6/23/2026](https://www.bloomberg.com/news/videos/2026-06-23/bloomberg-tech-6-23-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [SpaceX Draws $89 Billion Demand for Debut Bond Offering](https://www.bloomberg.com/news/videos/2026-06-23/spacex-draws-89-billion-demand-for-debut-bond-offering-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Siemens CEO on Industrial AI's Future](https://www.bloomberg.com/news/videos/2026-06-23/siemens-ceo-on-industrial-ai-s-future-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Meta Debuts Glasses Under Its Own Brand](https://www.bloomberg.com/news/videos/2026-06-23/meta-debuts-glasses-under-its-own-brand-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Menlo Ventures' Ganesan on Anthropic Bet, Backing AI Startups](https://www.bloomberg.com/news/videos/2026-06-23/menlo-ventures-ganesan-on-anthropic-bet-ai-startups-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Netflix Unveils New Horror Game to Jumpstart Interactive Offerings](https://www.bloomberg.com/news/articles/2026-06-23/netflix-unveils-new-horror-game-unhinged-to-jumpstart-interactive-offerings) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Cyber Firm Varonis Weighs Sale After Takeover Interest](https://www.bloomberg.com/news/articles/2026-06-23/cyber-firm-varonis-is-said-to-weigh-sale-after-takeover-interest) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Tech Selloff Starts With Korean Chipmakers and Continues Into US Session](https://www.bloomberg.com/news/videos/2026-06-23/tech-selloff-in-korea-continues-in-us-trading-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [AI is Most Transformative Technology of our Times Says Former SEC Chair Gary Gensler](https://www.bloomberg.com/news/videos/2026-06-23/ai-is-most-transformative-tech-of-our-time-says-gensler-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Here's why cables for Thunderbolt 4 and 5 ports cost so much](https://www.engadget.com/2200040/why-thunderbolt-4-5-port-cables-cost-so-much/) *(Engadget)*
+- [ ] 2026-06-23 [Meta reportedly dips its pathetic toes into the prediction market space](https://www.engadget.com/2199962/meta-reportedly-dips-its-pathetic-toes-into-the-prediction-market-space/) *(Engadget)*
+- [ ] 2026-06-23 [Netflix's new horror game taps into your phone for deeper immersion](https://www.engadget.com/2199931/netflixs-new-horror-game-taps-into-your-phone-for-deeper-immersion/) *(Engadget)*
+- [ ] 2026-06-23 [Sorry, Slackbot. Claude is taking your job](https://www.engadget.com/2199619/anthropic-announces-claude-tag-for-slack/) *(Engadget)*
+- [ ] 2026-06-23 [Don't let the Star Wars branding put you off Galactic Racer](https://www.engadget.com/2199602/star-wars-galactic-racer-hands-on/) *(Engadget)*
+- [ ] 2026-06-23 [How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery](https://openai.com/index/gpt-5-immunology-mystery) *(OpenAI News)*
+- [ ] 2026-06-23 [Experimenting with the proposed Cross-Origin Storage API in Transformers.js](https://huggingface.co/blog/cross-origin-storage) *(Hugging Face Blog)*
+- [ ] 2026-06-23 [ＡＩへの煽りランキング](https://anond.hatelabo.jp/20260623230231) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [NotebookLMの限界を突破する代替ツール「Open Notebook」が自由すぎた \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2606-notebooklm-finally-has-an-open-source-rival-and-im-hooked/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [「馬鹿とハサミは使いようだ…」あえて能力の低いAIにマニュアルを実行させ、「賢いAIなら補完してしまう暗黙知をポンコツAIにあぶり出させる」アイデアが目からウロコ](https://togetter.com/li/2712705) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [Claude Code に「7人の意地悪なQA」を仕込んでテストケースの観点漏れを潰した](https://zenn.dev/nexta_/articles/be13a2395a5d2a) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [“AIメタルバンド”がフロアを沸かせる現在──NEON ONIが提示するAI音楽×身体性の可能性](https://premium.kai-you.net/article/991) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [ゼロから作るな。パクれ。｜すてぃお](https://note.com/suthio/n/nb8b4f0ef655c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで - Qiita](https://qiita.com/kamome_susume/items/467446c5a6cbd10a5ffa) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [初代ウォークマンの内部が「どうやって量産化したか謎なくらいに複雑で意味不明」→配線だらけで現代とは考えられない手作り感に、往年のものづくりの凄まじさを思い知る](https://togetter.com/li/2712751) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [高速ファイルコピーツール「TeraCopy」が9年ぶりのメジャー更新、v4.0に。「LocalSend」受信に対応／「Pro」ライセンスは6月30日まで50％オフ](https://forest.watch.impress.co.jp/docs/news/2119180.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [KDDI基盤に不正アクセス、ニフティやビッグローブなど最大1422万件のメール・パスワード漏洩の可能性 - ライブドアニュース](https://news.livedoor.com/article/detail/31632353/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [【重要・至急】不正アクセス発生に関するお詫びと、パスワード変更のお願い：BIGLOBE会員サポート](https://support.biglobe.ne.jp/news/news796.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Webセキュリティラボで出会ったHTTP リクエストスマグリングという知らなかった概念について](https://zenn.dev/bun913/articles/e51dac1dcb7b8d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [FBIが作った「偽の町」　病院もデータセンターもまるで本物　約2000平米の巨大空間でサイバー捜査を訓練](https://www.itmedia.co.jp/news/articles/2606/23/news094.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [なぜEIZOのモニターは壊れにくいのか？「7年間保証」にまでいたった最強の品質とその理由を解明 [Sponsored]](https://pc.watch.impress.co.jp/docs/topic/special/2108827.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [ループエンジニアリングは、サイバネティクスの再発見だ - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/06/23/215158) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Claude Codeに「昨日の続き」を覚えさせる — 人間の記憶構造をMarkdown＋BM25で実装した話](https://zenn.dev/answer_philo/articles/2410b4271ee46e) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [はじめまして](https://zenn.dev/cc_systems/articles/1f5a2b482fbb39) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [LINE公式アカウント × Geminiで作る FAQ自動応答Botハンズオン](https://zenn.dev/memolab/books/86eb3309b2cccc) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [複数AIエージェント時代のWorkspace Orchestrationを組んでみた](https://zenn.dev/soichiyo/articles/5f663abafb4e39) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [友達から久々にLINEが来たので、マルチ勧誘リスクを機械学習で判定してみた](https://zenn.dev/terasawa/articles/146141d79806e2) *(Zenn – トピック 機械学習)*
