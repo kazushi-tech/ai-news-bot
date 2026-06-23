@@ -96804,3 +96804,114 @@
 - [ ] 2026-06-22 [CursorでAI開発したら、気づいたら設計が崩壊していた話](https://zenn.dev/fabricon_tech/articles/30b18a425bc98c) *(Zenn – トピック AI)*
 - [ ] 2026-06-22 [【2026年最新】Claude Codeトークン削減ツール完全整理 — rtk・headroom・lean-ctx・h5iの使い分け](https://zenn.dev/amu_lab/articles/claude-code-token-tools-guide-2026) *(Zenn – トピック AI)*
 - [ ] 2026-06-22 [ちゃんとした2人の写真がまだないとき、最初の1枚はどう作るか](https://zenn.dev/songlyricslab/articles/57ea9f14fa0955) *(Zenn – トピック AI)*
+
+## Collected on 2026-06-23T01:53:16.852Z
+- [ ] 2026-06-22 [HR consultant wins English court case using AI lawyer in apparent legal first](https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-22 [Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-22 [Meta Exposed Data Internally From Its Controversial Employee-Tracking Program](https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-22 [OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos](https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-06-22 [SpaceX Signs Compute Deal With Open Source Model Provider](https://aibusiness.com/generative-ai/spacex-signs-compute-deal-open-source-model-provider) *(AI Business)*
+- [ ] 2026-06-22 [Anthropic Aims to Transform Enterprise Collaboration With Artifacts](https://aibusiness.com/generative-ai/anthropic-aims-transform-enterprise-collaboration-artifacts) *(AI Business)*
+- [ ] 2026-06-22 [Nvidia Launches System to Make Robots Safer](https://aibusiness.com/robotics/nvidia-launches-system-make-robots-safer) *(AI Business)*
+- [ ] 2026-06-22 [Apple’s iPhone 18 Pro Features: Everything We Know So Far](https://www.techrepublic.com/article/news-apple-iphone-18-pro-features-what-we-know-so-far/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-22 [X Targets ‘Neglected’ Meta Engineers in Public Recruiting Pitch](https://www.techrepublic.com/article/news-x-meta-recruiting-snack-budget-layoffs/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-22 [Apple Supplier Bets on Robots, AI Servers in $1.1B Hong Kong Listing](https://www.techrepublic.com/article/news-apple-supplier-lingyi-ai-robotics-apac-china/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-22 [India’s Ultrahuman Launches No-Prescription Glucose Tracking Platform in the US](https://www.techrepublic.com/article/news-ultrahuman-m2-live-glucose-tracking-us/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-06-22 [Commemorating 70 Years of Artificial Intelligence](https://spectrum.ieee.org/70-years-of-artificial-intelligence) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-06-22 [ChatLLM by Abacus AI Review: A Multi-Model AI Workspace Built for Daily Work](https://www.kdnuggets.com/2026/06/abacus/abacus-ai-chatllm-review) *(KDnuggets)*
+- [ ] 2026-06-22 [WiseTech Chairman White Denies Human Trafficking Involvement](https://www.bloomberg.com/news/articles/2026-06-22/wisetech-says-founder-white-denies-human-trafficking-involvement) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Internet Stocks Will Be Next Area of AI Cycle, Standard Chartered Says](https://www.bloomberg.com/news/videos/2026-06-23/internet-stocks-will-be-next-area-of-ai-cycle-stanchart-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [SpaceX Fall Continues, Erasing Billions in Market Value](https://www.bloomberg.com/news/videos/2026-06-23/spacex-fall-continues-erasing-billions-in-market-value-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [India’s Biggest Equity Fund Makes Contrarian Bet on IT Stocks](https://www.bloomberg.com/news/articles/2026-06-23/india-s-biggest-equity-fund-makes-contrarian-bet-on-it-stocks) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Gas Stations Accused of Using AI to Boost California Prices](https://www.bloomberg.com/news/articles/2026-06-22/gas-stations-accused-of-using-ai-to-inflate-prices-in-california) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Tech Selloff Drags Stocks Lower \| The Close 6/22/2026](https://www.bloomberg.com/news/videos/2026-06-22/the-close-6-22-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles](https://www.bloomberg.com/news/articles/2026-06-22/oracle-layoffs-fueled-by-ai-reduces-workforce-by-21-000) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Vimeo Parent Bending Spoons, Backers Seek $1.62 Billion in IPO](https://www.bloomberg.com/news/articles/2026-06-22/vimeo-parent-bending-spoons-backers-seek-1-62-billion-in-ipo) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Media Consolidation in Its ‘Middle Innings’: Tom Ara](https://www.bloomberg.com/news/videos/2026-06-22/media-consolidation-in-its-middle-innings-tom-ara-video) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Qualcomm Nears Deal for AI Chip Startup Modular](https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Columbia Threadneedle's Wade Sees AI Buoying Tech Rally](https://www.bloomberg.com/news/videos/2026-06-22/tech-sector-leads-market-gains-video) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [SpaceX Kicks Off High-Grade Bond Sale \| Bloomberg Tech 6/22/2026](https://www.bloomberg.com/news/videos/2026-06-22/bloomberg-tech-6-22-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [AI-Services Startup Baseten Nabs $13 Billion Valuation](https://www.bloomberg.com/news/videos/2026-06-22/ai-services-startup-baseten-nabs-13-billion-valuation-video) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Valve Prices Steam Machine Video Game Console Above $1,000, Citing Component Shortage](https://www.bloomberg.com/news/articles/2026-06-22/valve-prices-steam-machine-games-console-above-1-000-citing-component-shortage) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Apple’s New CEO Must Restore Company’s Design Edge: Power On](https://www.bloomberg.com/news/videos/2026-06-22/apple-s-new-ceo-must-restore-company-s-design-edge-video) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Microsoft, Chevron Sign Power Deal for Texas Data Center](https://www.bloomberg.com/news/videos/2026-06-22/microsoft-chevron-sign-power-deal-for-texas-data-center-video) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Kids’ Online Safety Bill Deal Struck by House GOP, Democrats](https://www.bloomberg.com/news/articles/2026-06-22/kids-online-safety-bill-deal-struck-by-house-gop-democrats) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Tech Rally Is Seen Having More Runway as AI Spending Gains Speed](https://www.bloomberg.com/news/articles/2026-06-22/tech-rally-is-seen-having-more-runway-as-ai-spending-gains-speed) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Centrica CEO Eyes US for More LNG Deals and Trading Expansion](https://www.bloomberg.com/news/articles/2026-06-22/centrica-ceo-eyes-us-for-more-lng-deals-and-trading-expansion) *(Bloomberg Technology)*
+- [ ] 2026-06-22 [Meta is 'pausing' employee tracking program after it let the whole company see sensitive data](https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/) *(Engadget)*
+- [ ] 2026-06-22 [iOS 27 beta 2 is out now, here's what's new](https://www.engadget.com/2199312/ios-27-beta-2-is-out-now-here-s-what-s-new/) *(Engadget)*
+- [ ] 2026-06-22 [Ray-Ban Meta Optics review: A better fit comes with a higher price](https://www.engadget.com/2199194/ray-ban-meta-optics-review/) *(Engadget)*
+- [ ] 2026-06-22 [Uber's board sued for alleged poor oversight that led to sexual abuse of its passengers](https://www.engadget.com/2199149/uber-board-sued-for-alleged-poor-oversight-that-led-to-sexual-abuse-of-its-passengers/) *(Engadget)*
+- [ ] 2026-06-22 [Valve's Steam Machine starts at $1,049 with 512GB storage and no controller](https://www.engadget.com/2199144/valve-steam-machine-starts-at-1049-with-512gb-storage-and-no-controller/) *(Engadget)*
+- [ ] 2026-06-22 [A24 takes on Google money to build AI tools](https://www.engadget.com/2199010/a24-takes-on-google-money-help-build-ai-tools/) *(Engadget)*
+- [ ] 2026-06-22 [Patch the Planet: a Daybreak initiative to support open source maintainers](https://openai.com/index/patch-the-planet) *(OpenAI News)*
+- [ ] 2026-06-22 [Daybreak: Tools for securing every organization in the world](https://openai.com/index/daybreak-securing-the-world) *(OpenAI News)*
+- [ ] 2026-06-22 [Codex-maxxing for long-running work](https://openai.com/index/codex-maxxing-long-running-work) *(OpenAI News)*
+- [ ] 2026-06-23 [中外とアステラス　日本の製薬業の挑戦](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700005/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [pLMと機械学習併用　最新AIにこだわらず](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700004/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [抗体LLMを独自開発　「失敗」データも学習](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700003/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [プロテインAIとは？　7つの疑問でひも解く](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700002/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [信託事業が成長市場であると証明　上流の内製率100％を掲げ成長を加速](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600001/061800211/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [システム内製は重要課題　鍵は人材育成とAI活用](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600003/061800107/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [ビッグテックも大注目　フィジカルAIの次](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700001/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [5年越しのクラウド移行を達成　性能問題を解消し、可用性を向上](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600004/061800211/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [シスコ、量子ネットワークの実現へ　「量子スイッチ」を試作](https://xtech.nikkei.com/atcl/nxt/column/18/03098/051100071/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [速度低下の原因はOneDrive？　転送速度の上限や同期範囲の設定を見直そう](https://xtech.nikkei.com/atcl/nxt/column/18/03606/050800006/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [液晶パネルの駆動方式は3種類　事務作業や画像編集ならIPS、ゲーム向きはTN](https://xtech.nikkei.com/atcl/nxt/column/18/03610/051200006/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [暗号の利用目的は紀元前から変わらない、基本の仕組みは鍵とアルゴリズム](https://xtech.nikkei.com/atcl/nxt/column/18/03656/061900001/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [ネットワークエンジニアは生成AIを何に使うのか](https://xtech.nikkei.com/atcl/nxt/column/18/00138/062002053/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [主要15社の25年度ITサービス売上高　AIの恩恵限定的か、多くが1桁増どまり](https://xtech.nikkei.com/atcl/nxt/column/18/00848/00190/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [じげん、不審アクセス80万件を数分で分類　40超のWebサービスをAIログ分析](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11837/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [UPSIDERが主要サービス一時停止、不正プログラム混入のOSS利用が攻撃起点](https://xtech.nikkei.com/atcl/nxt/column/18/00598/010900369/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [2in1ノートPC「HP OmniBook X Flip 14-kc」、濃い茶色で性能バランスも良い](https://xtech.nikkei.com/atcl/nxt/column/18/00087/00443/) *(日経クロステック IT)*
+- [ ] 2026-06-22 [Copilotの“元”は取れるのか問題、ついに決着？　住友商事、京都市が掴んだ「AI活用の勝ち筋」](https://www.itmedia.co.jp/enterprise/articles/2606/23/news034.html) *(ITmedia AI＋)*
+- [ ] 2026-06-22 [AIに詳しくなくても大丈夫、月額制で中小企業のAI活用をプロが支える新サービス](https://kn.itmedia.co.jp/kn/articles/2606/23/news042.html) *(ITmedia AI＋)*
+- [ ] 2026-06-22 [経営者は「何を捨てるか考えて」――中東紛争“サイバー戦”のリアルが突き付ける、無視できない脅威](https://www.itmedia.co.jp/business/articles/2606/23/news011.html) *(ITmedia AI＋)*
+- [ ] 2026-06-22 [Excelの10万行データを3分でAIに処理させる、M365 Copilotの使い方](https://kn.itmedia.co.jp/kn/articles/2606/23/news043.html) *(ITmedia AI＋)*
+- [ ] 2026-06-22 [「取引先経由」のサイバー攻撃が増加　狙われる中小企業が見直すべき「セキュリティ対策」の3ステップ](https://www.itmedia.co.jp/business/articles/2606/23/news032.html) *(ITmedia AI＋)*
+- [ ] 2026-06-22 [ダイハツがAI品質検査システムを共同開発、アルミ加工穴内部の目視検査を自動化](https://monoist.itmedia.co.jp/mn/articles/2606/23/news046.html) *(ITmedia AI＋)*
+- [ ] 2026-06-22 [ループエンジニアリングとは？　チャットとAIコーディングの往復から卒業する新しい開発スタイル](https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news017.html) *(ITmedia AI＋)*
+- [ ] 2026-06-23 [【Hothotレビュー】 買ってすぐローカルLLMが動く！64GBメモリPanther Lake搭載のAI特化ミニPC「EVO-T2S」](https://pc.watch.impress.co.jp/docs/column/hothot/2118806.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [GitHub、AIによる雑なプルリクエストを抑制へ。ユーザー当たりのプルリクエスト数の上限を設定できる新機能導入](https://www.publickey1.jp/blog/26/githubai_1.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [Cloudflare の一時アカウントを使って即座にデプロイできるようになった](https://azukiazusa.dev/blog/cloudflare-temporary-account-deploy/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [エージェントスキルを評価する仕組みを作ってみる \| フューチャー技術ブログ](https://future-architect.github.io/articles/20260622a/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [「仕事のための仕事」を撲滅せよ　95％失敗するAI導入、Notionが語る「レベル2の壁」とは？](https://www.itmedia.co.jp/business/articles/2606/22/news132.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [MicrosoftのAIターミナル「Intelligent Terminal」に初の更新、Windows 10にも対応／PowerShell以外にも、bash/WSLをサポート](https://forest.watch.impress.co.jp/docs/news/2118764.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [旋盤工場の83歳の職人おじいちゃんは、金属を削る道具も材料や形に合わせて何でも作ってしまう。技術をどう継いでいくか…「数値化できたら」「AIに教育するんや」](https://togetter.com/li/2712264) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [「SaaSの死」は起こっていない？　2つの調査から見えてきたAIで代替できない、代替すべきではない業務](https://www.itmedia.co.jp/news/articles/2606/22/news086.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [WBSという至高ツールで、このAI時代をサバイブする](https://zenn.dev/piguolabo/articles/99b5b30a028f80) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など](https://forest.watch.impress.co.jp/docs/news/2118762.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [「センスがない」人に、救いはあるのか。](https://blog.tinect.jp/?p=91223) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [Raspberry Pi + Cloudflare Tunnel で安価で安全な自宅 Web サーバーを手に入れる](https://zenn.dev/xin9le/articles/1340941f739745) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [新試験制度のサンプル問題について \| 試験情報 \| IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/shiken/syllabus/henkou/2026/20260622.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [正しい捨て方も分かる「リチウムイオン電池総合対策ポータルサイト」公開、総務省消防庁ら](https://internet.watch.impress.co.jp/docs/news/2119031.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Japanese visual symbols](https://arun.is/blog/japan-symbols/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [トランポリンパークがGoogleマップに付いた低評価レビューに対して反応してバズると、本人を名乗る人物が現れて反論へ…しかし言葉遣いが荒すぎるのも気になる](https://togetter.com/li/2712394) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [VSCode + Continue + Ollama で構築するローカルMCP開発環境（その１）](https://zenn.dev/usagi1975/articles/2026-06-21-000_mcp1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [北区の小学校火災では消防士が懸命の援護注水で煙と熱から子どもたちを守り抜いた「すごい技術だ」「本当にありがとう」](https://togetter.com/li/2712392) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [日本版GPS「みちびき」、偽測位信号に対抗する空間証明システム実証へ](https://www.watch.impress.co.jp/docs/news/2119072.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [「Claude Code」がアーティファクトに対応 ～セッションを“見える化”してチーム共有／「Team」「Enterprise」向けにベータ提供](https://forest.watch.impress.co.jp/docs/news/2118791.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Astro 7.0 \| Astro](https://astro.build/blog/astro-7/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [GitHub - piguo45/single-file-wbs: 単一HTMLで動く WBS/ガント＋イナズマ線ビューア。データはJSON1枚・Claude Codeで保守 / Single-file WBS & Gantt viewer with inazuma (progress) line. Zero dependencies, AI-maintainable.](https://github.com/piguo45/single-file-wbs) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Amazon BedrockのLLM呼び出しコストをApplication inference profileでAI機能別に可視化する - カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/entry/2026/06/23/application-inference-profile) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [AIがコードを書ける時代だからこそ、Jrエンジニアに「AIを疑う力」を育てた話 - MonotaRO Tech Blog](https://tech-blog.monotaro.com/entry/2026/06/23/090000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [46リポジトリに跨るコードベースを、静的解析で一つのナレッジグラフにした話（前編）](https://zenn.dev/aircloset/articles/a7cf65cc035572) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs \| Amazon Web Services](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [AIエージェントだけでCloudflareへの一時的なデプロイを可能にして人間による作業を減らせる機能「Temporary Cloudflare Accounts for Agents」が登場](https://gigazine.net/news/20260622-cloudflare-temporary-accounts/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [東京都庁でリチウムイオン電池回収、AI自動分別リサイクルボックスを6月26日から設置～KDDIら　古い携帯電話のデータを復元する「おもいでケータイ再起動」も併催](https://internet.watch.impress.co.jp/docs/news/2118597.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [マツダはなぜデータ分析基盤にClickHouseを使うのか――データをためるより「取り出す」こそ問題だった](https://atmarkit.itmedia.co.jp/ait/articles/2606/22/news013.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-22 [Claude Code でOpusを使い切る——設計はSonnet、実装はプロジェクト直起動](https://zenn.dev/muramasa0228/articles/2026-06-22-claude-code-opus-pattern) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [Mastraを触る前に整理した概念マップ——TypeScriptでLLMをif-elseの代わりに使う](https://zenn.dev/muramasa0228/articles/2026-06-22-mastra-pre-study) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [スマホだけでAI脳になる！ 未経験でもAIと作るローカルLLM ～カメラ連携とデバッグ編～](https://zenn.dev/kinotex/articles/c2c0001122dfaa) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [Sakana Fugu を読み解く：マルチエージェントを「1つのモデル」として出す設計と、叩く側に効く3つの変化](https://zenn.dev/hironakamura_ai/articles/22c54ab7490ea3) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [日本語LLM事後学習データセットの構築方法の整理](https://zenn.dev/podtech/articles/c61d9ec6810264) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [[論文解説] Agent Red Teaming：180万件の攻撃から見えたAIエージェントの脆弱性](https://zenn.dev/serada/articles/20260622-agent-red-teaming-art) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [ChatGPT/LLMによる自然言語処理入門 を読んだ実務エンジニアの正直レビュー — どこが効いてどこは古いか](https://zenn.dev/itsuya/articles/book-8e0da227e226f7) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [Sakana AI「Fugu」正式リリース——マルチエージェントを1本のAPIとして届ける新プロダクト](https://zenn.dev/acntechjp/articles/c0ffbdf3d5c5d4) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [弱いモデルのための足場が、賢いモデルの檻になる話](https://zenn.dev/methylone/articles/899fd30c93f55a) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [AIエージェント時代のSRE — 監視・評価・自律運用設計](https://zenn.dev/shoebill_dev27/books/ai-agent-sre-ops) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [ContractOps：契約オペレーションのためのサーバーレス・マルチエージェント基盤](https://zenn.dev/finatext/articles/c064796889cae8) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [ターミナルを閉じてもタスクが続くOpenCode、その正体はHTTPサーバー](https://zenn.dev/okssusucha/articles/20260622-opencode-server-architecture) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [限度枠を上げると貸し倒れは増えるのか? 公開データ3種で検証した記録](https://zenn.dev/han901104/articles/d4445c9f4e470f) *(Zenn – トピック 機械学習)*
+- [ ] 2026-06-22 [脳の記憶構造を模した「記憶セルグラフ」でIrisを分類してみた](https://zenn.dev/doragonkipa/articles/cd383375e3a736) *(Zenn – トピック 機械学習)*
+- [ ] 2026-06-22 [オンデバイスAI検索の精度を上げるための備忘録。30文字制限とタイトルブーストの実装｜Exa-Vision日記 #3](https://zenn.dev/gitmame00/articles/a238cc72338438) *(Zenn – トピック 機械学習)*
