@@ -96915,3 +96915,84 @@
 - [ ] 2026-06-22 [限度枠を上げると貸し倒れは増えるのか? 公開データ3種で検証した記録](https://zenn.dev/han901104/articles/d4445c9f4e470f) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-22 [脳の記憶構造を模した「記憶セルグラフ」でIrisを分類してみた](https://zenn.dev/doragonkipa/articles/cd383375e3a736) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-22 [オンデバイスAI検索の精度を上げるための備忘録。30文字制限とタイトルブーストの実装｜Exa-Vision日記 #3](https://zenn.dev/gitmame00/articles/a238cc72338438) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-06-23T08:51:51.159Z
+- [ ] 2026-06-23 [‘Navigating the unknown together’: me and my idiot AI boyfriend](https://www.theguardian.com/news/2026/jun/23/navigating-the-unknown-together-me-and-my-idiot-ai-boyfriend) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-06-23 [Spy agencies say AI can help combat AI cyber risks. But don’t forget the basics](https://theconversation.com/spy-agencies-say-ai-can-help-combat-ai-cyber-risks-but-dont-forget-the-basics-285922) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-06-23 [SpaceX Rout Set to Push Market Value Below $2 Trillion](https://www.bloomberg.com/news/articles/2026-06-23/spacex-rout-set-to-push-market-value-below-2-trillion) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [US Tech Stocks Set to Slide as AI Rout Spreads to Global Peers](https://www.bloomberg.com/news/articles/2026-06-23/us-stock-futures-tumble-as-megacap-tech-rout-hits-asian-peers) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Korean Stocks Fall 10% From Record](https://www.bloomberg.com/news/videos/2026-06-23/korean-stocks-fall-10-from-record-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Prosus Develops OpenClaw Rival to Avoid Europe Privacy Concerns](https://www.bloomberg.com/news/articles/2026-06-23/prosus-develops-openclaw-rival-to-avoid-europe-privacy-concerns) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Tech Firms Lead European Stocks Lower as AI Momentum Cools](https://www.bloomberg.com/news/articles/2026-06-23/tech-firms-lead-european-stocks-lower-as-ai-momentum-cools) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Tech Selloff Hits Asia as Korea Stocks Slide \| Insight with Haslinda Amin 06/23/2026](https://www.bloomberg.com/news/videos/2026-06-23/insight-with-haslinda-amin-6-23-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Masayoshi Son Dismisses Musk’s Idea for Orbital Data Centers](https://www.bloomberg.com/news/articles/2026-06-23/masa-son-dismisses-musk-s-space-data-center-as-an-ai-race-winner) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Billionaire Sex-For-Visa Claim at WiseTech Tests Investor Limits](https://www.bloomberg.com/news/articles/2026-06-23/billionaire-sex-for-visa-claim-at-wisetech-tests-investor-limits) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Tencent Is Said to Mull Exits From Game Studios Like Marvelous](https://www.bloomberg.com/news/articles/2026-06-23/tencent-in-talks-to-offload-marvelous-and-other-global-game-bets) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [The Hidden Costs of Leveraged ETFs](https://www.bloomberg.com/news/videos/2026-06-23/the-hidden-costs-of-leveraged-etfs-video) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Europe Sees 6 Billion Reasons for New Levy on Online Shoppers](https://www.bloomberg.com/news/articles/2026-06-23/europe-sees-6-billion-reasons-for-new-levy-on-online-shoppers) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [India to Share Rocket Tech to Hasten Development of Space Firms](https://www.bloomberg.com/news/articles/2026-06-23/india-to-share-rocket-tech-to-hasten-development-of-space-firms) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [Amazon Ordered to Collectively Bargain at San Francisco Warehouse](https://www.bloomberg.com/news/articles/2026-06-23/amazon-ordered-by-nlrb-judge-to-collectively-bargain-at-san-francisco-warehouse) *(Bloomberg Technology)*
+- [ ] 2026-06-23 [How Omio is building the future of conversational travel](https://openai.com/index/omio) *(OpenAI News)*
+- [ ] 2026-06-23 [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](https://huggingface.co/blog/huggingface-hub-release-ci) *(Hugging Face Blog)*
+- [ ] 2026-06-22 [We got local models to triage the OpenClaw repo for FREE!*](https://huggingface.co/blog/local-models-pr-triage) *(Hugging Face Blog)*
+- [ ] 2026-06-23 [SpaceXが買収する「Cursor」開発会社が日本投資を強化、専任チーム構築へ](https://xtech.nikkei.com/atcl/nxt/news/24/03271/) *(日経クロステック IT)*
+- [ ] 2026-06-23 [業務でAIを使う人の約38％「禁止されても利用継続」　セキュリティ企業が調査](https://www.itmedia.co.jp/aiplus/article/2606/23/2000000119/) *(ITmedia AI＋)*
+- [ ] 2026-06-23 [国産AI「Sakana Fugu」なぜドル建て？　円建てニーズ「受け止める」とSakana AI](https://www.itmedia.co.jp/news/articles/2606/23/news117.html) *(ITmedia AI＋)*
+- [ ] 2026-06-23 [NRIセキュア、未公表の脆弱性を「Mythosと同等のレベルで」検出する診断サービス提供](https://www.itmedia.co.jp/aiplus/article/2606/23/2000000118/) *(ITmedia AI＋)*
+- [ ] 2026-06-23 [AI導入を阻む「現状維持志向」は打破できるか　OpenAI・Anthropicの「業務現場支援」が与える影響](https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news069.html) *(ITmedia AI＋)*
+- [ ] 2026-06-23 [トヨタ系金融会社はなぜ「AIエージェントだけ」でも「RPAだけ」でもなく“併用”にしたのか](https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news055.html) *(ITmedia AI＋)*
+- [ ] 2026-06-23 [AIに自然言語で3Dモデル作成を頼んでみたら？](https://monoist.itmedia.co.jp/mn/articles/2606/23/news031.html) *(ITmedia AI＋)*
+- [ ] 2026-06-23 [日立、メインフレーム事業から撤退へ　ハード製造終了から9年後の決断](https://www.itmedia.co.jp/enterprise/articles/2606/23/news059.html) *(ITmedia AI＋)*
+- [ ] 2026-06-23 [Sakana Fugu (GA) をサブスクリプションプランで試してみた \| DevelopersIO](https://dev.classmethod.jp/articles/sakana-fugu-ga-first-touch/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [AIエージェントに身分証を発行するエストニア、電子政府で先頭を走る人口130万人の小国が問うAI時代の責任の所在 【生成AI事件簿】エストニアが先行する非人間ID管理と日本のマイナンバー制度が抱える課題、学ぶべきはその設計思想 \| JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/articles/-/95523) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [AWS、コードだけでなくインフラ構成とビジネスコンテキストも理解した上で脆弱性を推論する「AWS Contiuum」発表。特定のAIモデルに依存せず](https://www.publickey1.jp/blog/26/awsaws_contiuumai.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-06-23 [「当たった、すごい！」質問に答えるだけで出身地当てる「方言チャート EXTRA」が再び話題](https://www.itmedia.co.jp/news/articles/2606/23/news087.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [KDDI、メアドなど最大1422万件漏えいか　ISP事業者向けシステムに不正アクセス](https://www.itmedia.co.jp/news/articles/2606/23/news114.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [カーネルの深淵を覗いた男、USBハブを抜いて帰る - Qiita](https://qiita.com/wetty_serial/items/3696bbae80b38bc14a74) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [1422万件のアドレスなど流出か KDDIシステムに不正アクセス \| NHKニュース](https://news.web.nhk/newsweb/na/na-k10015157301000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [KDDIのISP向けメールシステムに不正アクセス、BIGLOBE、J:COM、ニフティなど最大1422万件の情報漏えいの可能性　影響を受けるサービスの利用者はパスワードの変更を](https://internet.watch.impress.co.jp/docs/news/2119351.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Claude CodeがSOC業務を全自動でやってくれるってさ - ZOZO TECH BLOG](https://techblog.zozo.com/entry/soc-claude-agent) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [ISP 事業者向けメールシステムに対する不正アクセスの発生について \|KDDI株式会社](https://newsroom.kddi.com/news/assets/2026/kddi_nr_s-71_4593/kddi_nr_s-71_4593_pdf_01.pdf) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [GitHubへの不正アクセスに関する詳細調査の完了およびセキュリティ対策強化のお知らせ（第四報）](https://corp.moneyforward.com/news/info/20260623-mf-press-1/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Claude Opus級のGLM-5.2をローカルで動かすガイドが公開される、最小構成の目安はメモリ223GB](https://gigazine.net/news/20260623-glm-local-unsloth/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [「Visual Studio Code」に“拡張機能の更新を2時間遅らせる”措置、懐疑的な意見も／v1.123から適用【やじうまの杜】](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2118792.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [「出世できても断りたい」　管理職を避ける若手IT人材たち……上司には言えないむき出しのホンネ](https://www.itmedia.co.jp/news/articles/2606/22/news043.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [マネフォへの不正アクセス、約6.3万件流出した可能性　調査完了で規模確定](https://www.itmedia.co.jp/news/articles/2606/23/news109.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [日本でもGoogle アカウントのメールアドレスが変更可能に　具体的な手順は？](https://www.itmedia.co.jp/mobile/articles/2606/22/news077.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Rust製zlib実装がIntel CPUバグを回避。C言語なら黙って壊れていた](https://joho-todai.com/rust-zlib-intel-cpu-bug-workaround/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [KDDIグループ、メール情報1422万件に漏洩疑い　不正アクセスで - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC237WT0T20C26A6000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [AIでおしゃれな画面を作るためのデザインシステムを学ぼう！ - Qiita](https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [Control who and what triggers GitHub Actions workflows - GitHub Changelog](https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [トランプ大統領、耐量子暗号（PQC）移行を義務付ける大統領令に署名　2030年末期限](https://www.itmedia.co.jp/news/articles/2606/23/news103.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [エックスサーバー、オフィス以外でも固定IPアドレスによる接続を可能にする「XServer 固定IPアクセス」を提供](https://internet.watch.impress.co.jp/docs/news/2119092.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-06-23 [「数時間でNSAを突破」――封鎖された Anthropic、その裏で次世代モデルが加速している](https://zenn.dev/aiwatch_jp/articles/anthropic-next-models-rumor) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [なぜLLM推論はGPUのはずなのに、みんなMac miniでやってるのか？](https://zenn.dev/ishizakahiroshi/articles/20260623-why-mac-mini-for-llm-inference) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [論文メモ：FlashAttentionのIO-awareなAttention高速化](https://zenn.dev/kas_blog/articles/20260623-flashattention-io-aware-attention) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [Claude APIでAIエージェントの長期記憶を実装する完全ガイド](https://zenn.dev/agentmemories/articles/claude-api-agent-long-term-memory-guide) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [2.5Bだけ動くJetBrains Mellum2は、賢さ競争に乗らない](https://zenn.dev/okssusucha/articles/20260623-jetbrains-mellum2-focal-moe-model) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [AI運用はハーネスだけで語ってよいのか](https://zenn.dev/paseri_kurosawa/articles/9813c62551a19e) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [ダッシュボードは緑なのに、AIだけが静かに劣化していく](https://zenn.dev/shinagawa_web/articles/ai-silent-degradation) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [LangChainの検索精度に不満？ミドルウェアを1つ挟むだけで劇的に改善する方法](https://zenn.dev/daiki_moritake/articles/langchain-search-improvement) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [RAGの検索精度が低い？ベクトル空間の「異方性」を3行で解決する方法](https://zenn.dev/daiki_moritake/articles/fix-rag-anisotropy) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [AI彼女アプリを作っていて気付いた。AIは覚えていても期待していなかった](https://zenn.dev/mitsukida/articles/8a9867817a7b74) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [AIに任せる前に決めるべき、人間に残す判断と責任](https://zenn.dev/cognitiveosmdl/articles/4b64d5e6d0fc9b) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [LFM2.5-AudioでLocal完結のSpeech-to-Speechタスク指向対話を試してみた](https://zenn.dev/trtd56/articles/301b2fbb5a9b7a) *(Zenn – トピック LLM)*
+- [ ] 2026-06-22 [WindowsでGemma 4を試してみた](https://zenn.dev/ohno/articles/82b09c399fc246) *(Zenn – トピック LLM)*
+- [ ] 2026-06-23 [「AI Engineering Summit Tokyo 2026」出展レポート](https://zenn.dev/finatext/articles/e0b9def55e7318) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [コスト削減の品質劣化を見逃さない — 単位コスト・差し戻し率・JSON 破損率を同じ窓で見る設計](https://zenn.dev/ojt/articles/cost-reduction-quality-regression-dashboard) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [AI人材戦争は研究インフラ戦争になりつつある](https://zenn.dev/saiiscoding/articles/0f452ceb86691a) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [字節跳動、今日の発表をまとめてみた——2026 火山引擎 FORCE 大会速報](https://zenn.dev/asayi_megumi/articles/b53bbb42a85150) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [チームの活動ログを、AIギャルに毎日まとめてもらっている話](https://zenn.dev/dely_jp/articles/7a11226ebd6642) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [What Is PLaMo 3.0 Prime?](https://zenn.dev/neotechpark/articles/251b1e576a875f) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [Antigravity CLI でコンテキスト使用率などの情報をステータスラインに表示する方法](https://zenn.dev/benjuwan/articles/96639c465ac232) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [小さな会社のAI運用は、AI_SHARED_BOARDを堆積させるところから始まる](https://zenn.dev/manahazime/articles/ai-shared-board-small-company-ops) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [gh skill でAIエージェントにAgent Skills を取り込む・公開する方法](https://zenn.dev/mkj/articles/7abf3e4f48bfc4) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [エラーを出さずに止まる。GPUがらみの厄介なバグの切り分け方](https://zenn.dev/agata_corp/articles/d346a47bced7f3) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [広告制作が少し楽になった話。AIで商品紹介動画とキャラクターを試してみた記録](https://zenn.dev/savielyamiani/articles/b94d7a89835472) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [AIにレポートを書かせるとき、実験データを絶対に捏造させないために決めていること](https://zenn.dev/ai_daigakusei/articles/no-fabricated-data-with-ai-reports) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [Claude Codeで複数AIに相談する罠 — 自分の意図とAIの解釈がズレる4つの構造と対策](https://zenn.dev/joemike/articles/claude-code-multi-ai-intent-mismatch-2026) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [JetBrains AI Chat に UI からコンテキストを追加してみた](https://zenn.dev/nattosystem_jp/articles/4d16612db063a9) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [pg_vector で始める Embedding 入門 〜「意味」をベクトルに変えて検索する仕組み〜](https://zenn.dev/yamitake/articles/pgvector-embedding-beginners-guide) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [Codex & Claude Codeに共通の長期記憶をもたせるGitベースの手軽なツールを作りました](https://zenn.dev/abalol/articles/adcac492e40e95) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [【第11回】Hermes Agentに最新情報を自動取得させる方法](https://zenn.dev/sora_biz/articles/hermes-vps-11-web-search) *(Zenn – トピック AI)*
+- [ ] 2026-06-23 [AI時代のナレッジ管理手法 - Googleの「OKF」を解説](https://zenn.dev/knowledgesense/articles/14a874a9f423bb) *(Zenn – トピック AI)*
