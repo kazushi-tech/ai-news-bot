@@ -101427,3 +101427,82 @@
 - [ ] 2026-07-01 [Rayfinとカブトガニ](https://zenn.dev/piroyoung/articles/9f16ae1f3b19d5) *(Zenn – トピック AI)*
 - [ ] 2026-07-01 [論文メモ：GPUとNPUの違いを行列積dataflowで整理](https://zenn.dev/kas_blog/articles/gpu-vs-npu-architecture-dataflow) *(Zenn – トピック 機械学習)*
 - [ ] 2026-06-30 [SIGNATE: 木材の含水率を予測するだけ、のはずだったのに未知樹種汎化で考えすぎた件](https://zenn.dev/mantis_ryuji/articles/e17b4d223cd7da) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-01T19:25:41.153Z
+- [ ] 2026-07-01 [We can live without AI, but can we live without clean water? \| Letters](https://www.theguardian.com/technology/2026/jul/01/we-can-live-without-ai-but-can-we-live-without-clean-water) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-01 [Trump accused of ‘disgusting’ greed after earning over $2bn since return to office](https://www.theguardian.com/us-news/2026/jul/01/trump-accused-one-billion-dollars-crypto-venture) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-01 [You Can Now Sound the Alarm on AI Behaving Badly](https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-07-01 [Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces](https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-07-01 [CEO Says He’ll Fire Any Employee Who Sends Him More AI Slop](https://futurism.com/future-society/ceo-fire-employee-email-chatpgt-ai-slop) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-01 [Thieves Are Absolutely Loving All of These New Data Center Projects](https://futurism.com/artificial-intelligence/data-center-steal-millions-cargo) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-01 [Restrictions on Fable 5, Mythos 5 Lifted, as Anthropic Launches Sonnet 5](https://aibusiness.com/generative-ai/restrictions-fable-5-mythos-5-lifted-anthropic-launches-sonnet-5) *(AI Business)*
+- [ ] 2026-07-01 [As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration](https://spectrum.ieee.org/ai-energy-systems-melbourne) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-07-01 [AOL Owner Bending Spoons Jumps After $1.68 Billion IPO](https://www.bloomberg.com/news/videos/2026-07-01/aol-owner-bending-spoons-jumps-after-1-68-billion-ipo-video) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Alibaba, Payment Firm Will Pay $600 Million to Resolve US Probe](https://www.bloomberg.com/news/articles/2026-07-01/alibiba-payment-firm-will-pay-600-million-to-resolve-us-probe) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Finance App Network Maker Plaid Is Said to Consider US IPO](https://www.bloomberg.com/news/articles/2026-07-01/finance-app-network-maker-plaid-is-said-to-consider-us-ipo) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Meta to Build Cloud Business to Sell Excess AI Compute \| Bloomberg Tech 7/01/2026](https://www.bloomberg.com/news/videos/2026-07-01/bloomberg-tech-7-01-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [What’s Behindthe US Dollar’s “Explosive” Rally?](https://www.bloomberg.com/news/videos/2026-07-01/what-s-behind-the-us-dollar-s-explosive-rally-video) *(Bloomberg Technology)*
+- [ ] 2026-06-27 [AI Power Crunch Has Investors Seeking Next IPO Winners](https://www.bloomberg.com/news/articles/2026-06-27/wall-street-bets-billions-on-power-firms-as-ai-boom-drives-ipo-rush) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Marlinspike Raises New Fund to Back Defense, Industrial Startups](https://www.bloomberg.com/news/videos/2026-07-01/marlinspike-raises-fund-for-defense-industrial-startups-video) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Uber-Backed Lime Raises $174 Million in Public Debut](https://www.bloomberg.com/news/videos/2026-07-01/uber-backed-lime-raises-174-million-in-public-debut-video) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [US Lifts Export Restrictions on Anthropic's Fable 5](https://www.bloomberg.com/news/videos/2026-07-01/us-lifts-export-restrictions-on-anthropic-s-fable-5-video-mr2azjde) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Inside Meta’s $900 Million India Gamble](https://www.bloomberg.com/news/videos/2026-07-01/opinion-inside-meta-s-900-million-india-gamble-video) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Private Equity Bets on AI Growth](https://www.bloomberg.com/news/videos/2026-07-01/private-equity-bets-on-ai-growth-video) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [National Grid's Big Bet on US AI Power Firm](https://www.bloomberg.com/news/videos/2026-07-01/national-grid-s-big-bet-on-us-ai-power-firm-video) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [WhatsApp’s New Feature Has Defenses Against Scams, Meta Says](https://www.bloomberg.com/news/articles/2026-07-01/whatsapp-s-new-feature-has-defenses-against-scams-meta-says) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Meta Cloud Business; NASA Lunar Lander Contracts \| Stock Movers](https://www.bloomberg.com/news/videos/2026-07-01/meta-cloud-business-nasa-lunar-lander-contracts-video) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Meta Is Planning Cloud Business to Take on Amazon, Google](https://www.bloomberg.com/news/videos/2026-07-01/meta-is-planning-cloud-business-to-sell-ai-compute-power-video) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Nissan CEO on Autonomous Driving, Making Cars in US](https://www.bloomberg.com/news/videos/2026-07-01/nissan-ceo-on-autonomous-driving-making-cars-in-us-video) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Krafton Agrees to Pay ‘Subnautica 2’ Bonuses as Developer’s CEO Resigns](https://www.bloomberg.com/news/articles/2026-07-01/krafton-agrees-to-pay-subnautica-2-bonuses-as-developer-s-ceo-resigns) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Uber Shakes Up AI Data Labeling Business, Dismissing Top Leaders](https://www.bloomberg.com/news/articles/2026-07-01/uber-shakes-up-ai-data-labeling-business-dismissing-top-leaders) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Lagarde Says Risks to Inflation, Growth More Broadly Balanced](https://www.bloomberg.com/news/videos/2026-07-01/lagarde-says-risks-to-inflation-growth-more-balanced-video) *(Bloomberg Technology)*
+- [ ] 2026-07-01 [Meta is reportedly building its own cloud business](https://www.engadget.com/2206249/meta-is-reportedly-building-its-own-cloud-business/) *(Engadget)*
+- [ ] 2026-07-01 [Future Hyundai and Kia cars might never need air fresheners thanks to UV tech](https://www.engadget.com/2205298/hyundai-kia-reveal-uv-car-system/) *(Engadget)*
+- [ ] 2026-07-01 [Visa, Mastercard and Coinbase have launched a new global stablecoin](https://www.engadget.com/2206043/visa-mastercard-and-coinbase-have-launched-a-new-global-stablecoin/) *(Engadget)*
+- [ ] 2026-07-01 [Fufjilm launches special waterproof and black-and-white editions of its retro QuickSnap instant cameras](https://www.engadget.com/2206038/fujifilm-launches-special-waterproof-and-black-and-white-editions-of-its-retro-quicksnap-instant-cameras/) *(Engadget)*
+- [ ] 2026-07-01 [Messy Subnautica 2 saga ends with Unknown Worlds CEO departing again](https://www.engadget.com/2206022/messy-subnautica-2-saga-ends-with-unknown-worlds-ceo-departing-again/) *(Engadget)*
+- [ ] 2026-07-01 [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai) *(Hugging Face Blog)*
+- [ ] 2026-07-01 [M365 Copilotを使って、好きなパワーポイントアイコンをつくろう - Qiita](https://qiita.com/shyamagu/items/3081df80ec8505b5ac72) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-01 [10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由](https://zenn.dev/canly/articles/428767121d7dc2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-01 [DeepSeek、LLM推論を最大85%高速化する新手法「DSpark」](https://pc.watch.impress.co.jp/docs/news/2121040.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-01 [PayPay、他社カード利用を8月末で終了　新方式「他社カード利用券」](https://www.watch.impress.co.jp/docs/news/2121682.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-01 [Announcing Box3D :: Box2D](https://box2d.org/posts/2026/06/announcing-box3d/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-01 [Claude Desktop on Linux (beta) - Claude Code Docs](https://code.claude.com/docs/en/desktop-linux) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-01 [優秀な人ばかりなのに、組織が重い ── AI時代に複利で膨らむ『認識負債』の話](https://zenn.dev/canly/articles/0c01a3124b8480) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-01 [Hey, N00b, We Didn't Hire You to Complete Tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-01 [グーグル、4秒で画像生成する「Nano Banana 2 Lite」　最速・低コスト](https://www.watch.impress.co.jp/docs/news/2121482.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-01 [ゲームエンジンUnity、いきなり規約改訂で「サードパーティー製AIツール」利用を制限か。ただし公式は“データ収集対策”と説明 - AUTOMATON](https://automaton-media.com/articles/newsjp/20260701-452836/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-01 [スマホで頼んでローソンで受け取れる「Ponta薬局」誕生　仕事帰りや育児の合間に](https://www.itmedia.co.jp/mobile/articles/2607/01/news102.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-01 [Reward hacking is swamping model intelligence gains · Cursor](https://cursor.com/blog/reward-hacking-coding-benchmarks) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-01 [Durable_evidence_beats_unattended_agent_loops](https://zenn.dev/wagahai_nekojit/articles/98385e8ba8bae1) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [AIに「Figma通りに直して」と頼んだら、サイト全体のCSSを消された](https://zenn.dev/tk_tk_tk/articles/dac717b0bca2fc) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [Hao AI Labの研究プロジェクト総まとめ：LLM推論高速化・並列デコーディング・長文脈AIの最前線](https://zenn.dev/copperbean/articles/07137a62e6b8c5) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [コーディングAIの記憶喪失を直すagentmemoryとclaude-memの設計差](https://zenn.dev/okssusucha/articles/20260630-cross-agent-persistent-memory-agentmemory) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [【LLM生成記事】ソフトバンクはOpenAIに出資し、国はNoetra(ノエトラ :ソフトバンク系企業)に出資する──これは「普通」なのか？](https://zenn.dev/motikan2010/articles/0aacd2fe133d66) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [非エンジニアがMulmoClaudeで自分専用アプリを作ってみた](https://zenn.dev/kusui26/articles/96f7ba8b7efd56) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [潜在思考の公理化：全候補が全公理を満たせない構造的崩壊](https://zenn.dev/lixian/articles/axiomatic-latent-thought-representation) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [会議の「アクションアイテム」をLLMで自動抽出する — プロンプト設計と、つまずいた3つの落とし穴](https://zenn.dev/kaigiai/articles/ebc9fa9ec3de24) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [Claude Sonnet 5へ移行する前に見る3つのコスト罠](https://zenn.dev/hironakamura_ai/articles/9555ae387a1854) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [OCR+LLMの誤抽出を「一度直せば二度目から自動補正」する](https://zenn.dev/kurojica/articles/9c85f24e9fec31) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [デスクトップ音声入力でSTT/LLMをBYOK化するときの設計メモ](https://zenn.dev/tover0314/articles/160a75d74ff196) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [投機的デコーディングによる推論高速化（Eagle3・DFlash・DSpark）](https://zenn.dev/syurenuko/articles/b31d9d63035c9c) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [炎上プロジェクトを検知する AI アプリを作ってみた ── Databricks ハッカソン 2026 参戦記](https://zenn.dev/gixo/articles/databricks-hackathon-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-07-01 [Claude Sonnet 5 の性能検証をしたら、完全に期待外れだった](https://zenn.dev/marvelousu/articles/claude-sonnet5-vs-sonnet46-benchmark) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [Claude Codeでthinネタ帳をreadyにする——1セッションで6本を昇格させた方法](https://zenn.dev/tottoko_hamu/articles/2026-06-05-090000) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [AI時代のチーム開発フローは「小さく安全に流し続ける」こと](https://zenn.dev/nocall/articles/3f0fcbbed6348c) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [AIに安全にファイルを触らせたくて、MCP対応のエディタを自作した話](https://zenn.dev/sika7/articles/a5e033ad5b93b5) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [Claude CodeでSaaS API連携するとトークンが溶けるので、先に接続ガイドをいれて解決してみた](https://zenn.dev/kanseilink/articles/kanseilink-mcp-token-saving) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [生成AIに「ONNX Runtime」を聞いてみた（なぜCPUで軽く動く？）](https://zenn.dev/tkpurine/articles/onnx-runtime-why-fast) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [【第5回】Loop Engineering（ループエンジニアリング）](https://zenn.dev/monkey_gineer/articles/ea800a3bea420a) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [分析は増えたのに判断は鈍る歴史をAI時代に繰り返さない](https://zenn.dev/okssusucha/articles/20260629-tech-waves-strategy-shared-reality) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [AIに認知を委ねるな〜認知的降伏か、認知レイヤーの移行か](https://zenn.dev/thegatebreaker/articles/0e4109ce414594) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [一発でAIエージェントを強化！5段階の「再帰的メタ認知」共有スキルで難問を解く](https://zenn.dev/buddypia/articles/fce57d77950f65) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [【AIエージェント比較実験】#3 Antigravity CLIにタスク管理アプリを作らせたらどうなったか](https://zenn.dev/pekopugu/articles/ai-agent-antigravity-cli-report) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [国会会議録をRAGライクに検索する「国会GPT」を作ってみた話](https://zenn.dev/coffeecupjp/articles/0db0ae1c852816) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [エンジニア達の「完全に理解した」Talk #78 イベントレポート](https://zenn.dev/easy_easy/articles/8a847f6235ad4d) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [Renovate PR の CI 失敗を Copilot × gh-aw で自動修正する](https://zenn.dev/ota_rg/articles/61b04802898fc3) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [娘（5歳）のためのAI家庭教師を作り始めた③ - 英語フレーズ練習追加の巻](https://zenn.dev/dsflon/articles/7789f343a219cd) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [Wan AI：無料オンラインAI動画生成ツール - テキストから動画へ、画像から動画へ](https://zenn.dev/wanaidev/articles/382f79054a9a0e) *(Zenn – トピック AI)*
+- [ ] 2026-07-01 [材料・化学データでのSHAP解析と逆解析——モデルを信じる前に確認すること](https://zenn.dev/efta1989/articles/shap-inverse-analysis-for-materials) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-01 [Bio-inspiredアルゴリズムのデザインパターン](https://zenn.dev/enaiya/books/bio-inspired-algorithms-design-patterns) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-01 [新卒1年目だった機械学習エンジニアがなぜJapan All AWS Certifications Engineerを目指したか](https://zenn.dev/fusic/articles/b2d545b248781e) *(Zenn – トピック 機械学習)*
