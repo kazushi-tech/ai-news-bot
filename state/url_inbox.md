@@ -102137,3 +102137,46 @@
 - [ ] 2026-07-02 [RVMとMatAnyone2のVideo Matting halo は「撮影由来」か「コード由来」か切り分けた](https://zenn.dev/mohhh_ok/articles/2026-07-rvm-matanyone2-green-halo-video-matting) *(Zenn – トピック AI)*
 - [ ] 2026-07-02 [AI駆動開発時代のNeovim — Mac × ローカルLLM × tmux で作る統合開発環境](https://zenn.dev/shuji_bonji/books/neovim-ide-on-mac) *(Zenn – トピック AI)*
 - [ ] 2026-07-02 [金融データサイエンス基礎Part 5. 順位付けだけでは足りません：信用モデル評価の三つの軸](https://zenn.dev/han901104/articles/60ce4d9f1ae260) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-02T19:03:39.052Z
+- [ ] 2026-07-02 [Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?](https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-07-02 [Lawsuit: Bipolar Man Attempted Suicide After ChatGPT Poured Gasoline on His Religious Delusions](https://futurism.com/artificial-intelligence/bipolar-man-attempted-suicide-chatgpt-religious-delusions) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-02 [Mark Zuckerberg Just Got Rather Badly Humiliated](https://futurism.com/artificial-intelligence/mark-zuckerberg-humiliated-meta-gemini) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-02 [How generative AI and physics can help design new antibiotics](https://theconversation.com/how-generative-ai-and-physics-can-help-design-new-antibiotics-285051) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-07-02 [10 Agentic AI Frameworks You Should Know in 2026](https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026) *(KDnuggets)*
+- [ ] 2026-07-02 [Top ‘Suicide Squad’ Developers Say the Flop Made Them Not Want to Make Games Anymore](https://www.bloomberg.com/news/newsletters/2026-07-02/top-suicide-squad-developers-say-flop-made-them-not-want-to-make-games-anymore) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [ElevenLabs in Talks for Tender Offer at $22 Billion Valuation](https://www.bloomberg.com/news/articles/2026-07-02/elevenlabs-in-talks-for-tender-offer-at-22-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Microsoft's 6,000-Person AI Push](https://www.bloomberg.com/news/videos/2026-07-02/microsoft-s-6-000-person-ai-push-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Tesla Deliveries Jump 25% \| Bloomberg Tech 7/02/2026](https://www.bloomberg.com/news/videos/2026-07-02/bloomberg-tech-7-02-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Jobs Report Signals Cooling Labor Market \| Open Interest 7/2/2026](https://www.bloomberg.com/news/videos/2026-07-02/open-interest-7-2-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Nuclear Reactor Powers Nvidia AI Chip in US First](https://www.bloomberg.com/news/videos/2026-07-02/nuclear-reactor-powers-nvidia-ai-chip-in-us-first-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Microsoft Shifts Strategy on Enterprise AI](https://www.bloomberg.com/news/videos/2026-07-02/microsoft-shifts-strategy-on-enterprise-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [IQM CEO Explains Quantum's Big Opportunity](https://www.bloomberg.com/news/videos/2026-07-02/iqm-ceo-explains-quantum-s-big-opportunity-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Kayne Anderson CEO on Bridgepoint Deal](https://www.bloomberg.com/news/videos/2026-07-02/kayne-anderson-ceo-on-bridgepoint-deal-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Tesla's Big Beat Raises Questions](https://www.bloomberg.com/news/videos/2026-07-02/tesla-s-big-beat-raises-questions-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Canada’s Pembina Advances Gas-Fired Data Center Project](https://www.bloomberg.com/news/articles/2026-07-02/canada-s-pembino-to-advance-with-gas-powered-data-center-project) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [China’s Kling AI Raises $2 Billion to Expand AI Video](https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [AI Race Fuels New Fears of Crowded Trading](https://www.bloomberg.com/news/videos/2026-07-02/ai-race-fuels-new-fears-of-crowded-trading-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Anthropic in Talks With Samsung for Custom AI Chip: Information](https://www.bloomberg.com/news/articles/2026-07-02/anthropic-in-talks-with-samsung-for-custom-ai-chip-information-mr3l34t4) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [South Africa’s Grocery War Shifts From Search to AI Conversation](https://www.bloomberg.com/news/articles/2026-07-02/south-africa-s-grocery-war-shifts-from-search-to-ai-conversation) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [How Phone Culture Is Reshaping Chinese Society](https://www.bloomberg.com/news/videos/2026-07-02/how-phone-culture-is-reshaping-chinese-society) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Oilfield-Contractor Pay Hits Fresh Record as War Spurs Drilling](https://www.bloomberg.com/news/articles/2026-07-02/oilfield-contractor-pay-hits-fresh-record-as-war-spurs-drilling) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Billionaire Arnault Lauds Mathematics in €50 Million Alma Mater Gift](https://www.bloomberg.com/news/articles/2026-07-02/billionaire-arnault-lauds-maths-in-50-million-alma-mater-gift) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Tesla Q2 vehicle deliveries are up 25 percent over last year](https://www.engadget.com/2207032/tesla-q2-vehicle-deliveries-up-25-percent-over-last-year/) *(Engadget)*
+- [ ] 2026-07-02 [Onimusha: Way of the Sword's release date has been pushed up to avoid the pre-GTA 6 scramble](https://www.engadget.com/2206772/onimusha-way-of-the-sword-release-date-has-been-pushed-up-to-avoid-pre-gta-6-scramble/) *(Engadget)*
+- [ ] 2026-07-02 [HDMI 2.1 vs USB-C vs DisplayPort: Which connection is better for your monitor?](https://www.engadget.com/2205560/hdmi-2-1-vs-usb-c-displayport-monitor/) *(Engadget)*
+- [ ] 2026-07-02 [Donald Trump bought a bunch of tech stock the same day he announced his AI Action Plan](https://www.engadget.com/2206671/donald-trump-bought-a-bunch-of-tech-stock-the-same-day-he-announced-his-ai-action-plan/) *(Engadget)*
+- [ ] 2026-07-02 [オープンソースのゲームエンジン「Godot」がAI製コードを今後受け付けないことを決定、AIを多用するユーザーが自分のコードを十分に理解して修正できるとは限らないため](https://gigazine.net/news/20260702-godot-ban-ai/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-02 [【速報】Claude Sonnet 5のReact習熟度はOpus 4.8に匹敵](https://zenn.dev/uhyo/articles/react-profession-bench-9) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-02 [tmuxでいいじゃんと思ってた僕がHerdr(fork)を常用しはじめた話 \| 僕のYak Shavingは終わらない2](https://kazuph.github.io/blog/2026/05/28/tmux-herdr-agent-multiplexer/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-02 [AIがウェブサイトに訪問するたびに課金できるシステム「Monetization Gateway」をCloudflareが発表](https://gigazine.net/news/20260702-cloudflare-monetization-gateway/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [「Chrome」の次回アップデートで「Manifest V2」が完全廃止へ--安全性低下の懸念も](https://japan.zdnet.com/article/35249774/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [LINEに「プレミアムブロック」や送信メッセージ編集、通話録音など4つの新機能　今秋以降、LYPプレミアムで提供](https://www.itmedia.co.jp/mobile/articles/2607/02/news101.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [「充電器やバッテリーは品質と保証を重視したいからAnkerを選んでる」モバイルバッテリー、充電器、イヤホンなどコスパのいい製品をどんどん作るAnkerはいいぞ](https://togetter.com/li/2716069) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [LINE新機能は、メッセージ編集・予約や完全ブロック　秋から有料展開](https://www.watch.impress.co.jp/docs/news/2121944.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [NEC、梅雨明け後に急増する119番通報の緊急度をAIで判定支援](https://ai.watch.impress.co.jp/docs/news/2121840.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [爆速なAIエージェント事業立ち上げから学ぶ、これからのプロダクト開発で「あえて」やるべき3つのこと｜michiru_da \| LayerX](https://note.com/applism_118/n/n52f478bb9a9a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [JetBrains、「Kotlin Notebook」を終了してオープンソース化、今後をコミュニティに託す／AIツールの普及で需要に変化？ 「IntelliJ IDEA」への同梱もv2026.2で終了](https://forest.watch.impress.co.jp/docs/news/2121728.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [xAIが「人間の声をクローンしたAIコールセンター」をノーコードで作成できる「Voice Agent Builder」をリリース](https://gigazine.net/news/20260702-xai-voice-agent-builder/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [庁舎が暑い原因は設計ミス、窓を壁と間違い計算　梓設計が1800万円負担](https://xtech.nikkei.com/atcl/nxt/column/18/00154/02856/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [“低価格スマホ”の機種変は今後困難に。価格高騰に背を向けた、総務省の有識者会議 \| Gadget Gate](https://gadget.phileweb.com/post-128158/) *(はてなブックマーク – IT 人気エントリ)*
