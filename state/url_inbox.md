@@ -102073,3 +102073,67 @@
 - [ ] 2026-07-02 [要件定義は終わった。さぁ、何から設計しようか？-AI時代の設計新常識-](https://zenn.dev/kitsune_ceo/articles/5d35b546965e65) *(Zenn – トピック AI)*
 - [ ] 2026-07-02 [【SIGNATE】 スペクトル分析チャレンジ　取り組み紹介](https://zenn.dev/dalab/articles/e1db5c2fa9de02) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-01 [A*アルゴリズムとは？探索の基本](https://zenn.dev/h888s/articles/gtest-a-gtest) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-02T13:23:01.035Z
+- [ ] 2026-07-02 [Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech](https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-07-02 [Getty Scraps $3.7B Shutterstock Merger After UK Curbs](https://www.techrepublic.com/article/news-getty-shutterstock-merger-uk-curbs-emea/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-02 [Microsoft Flags MCP Tool Descriptions as Hidden AI Agent Attack Path](https://www.techrepublic.com/article/news-microsoft-mcp-tool-risk/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-02 [Elon Musk Denies SpaceX AI Device Report as Starlink Strategy Questions Grow](https://www.techrepublic.com/article/news-spacex-ai-device-report/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-01 [New BioShocking Attack Tricks AI Browsers Into Leaking Credentials](https://www.techrepublic.com/article/news-bioshocking-ai-browsers-leak-credentials/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-02 [Humanity’s Last Exam is a Distraction](https://www.kdnuggets.com/humanitys-last-exam-is-a-distraction) *(KDnuggets)*
+- [ ] 2026-07-01 [One Leveraged ETF Is Reshaping Trading in World's Top AI Memory Stock](https://www.bloomberg.com/news/features/2026-07-01/how-a-13-billion-leveraged-etf-drives-volatility-in-a-key-ai-memory-stock) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Microsoft Mobilizes 6,000 Workers to Help Customers Adopt AI](https://www.bloomberg.com/news/articles/2026-07-02/microsoft-mobilizes-6-000-workers-to-help-customers-adopt-ai) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [AI Debt Binge Fueling Private Bond Market \| The Close 7/1/2026](https://www.bloomberg.com/news/videos/2026-07-02/ai-debt-binge-fueling-private-bond-market-the-close-7-1-2026) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [South Korean AI Rout Drags Emerging Stocks to Three-Week Low](https://www.bloomberg.com/news/articles/2026-07-02/south-korean-ai-rout-drags-emerging-stocks-to-three-week-low) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Robinhood CEO on AI, Expansion & Trump Accounts](https://www.bloomberg.com/news/videos/2026-07-02/robinhood-ceo-on-ai-expansion-trump-accounts-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Meta Looks to Make Money From Its AI Spending Binge](https://www.bloomberg.com/news/newsletters/2026-07-02/meta-considers-cloud-business-to-make-money-from-ai-capacity) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Skyroot Plans India’s First Private Sector Rocket Launch in July](https://www.bloomberg.com/news/articles/2026-07-02/skyroot-plans-india-s-first-private-sector-rocket-launch-in-july) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Finance and Tech Cut 28,000 Jobs Monthly as AI Takes Hold](https://www.bloomberg.com/news/newsletters/2026-07-02/ai-job-cuts-emerging-first-in-finance-and-tech) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [OpenAI Proposes Giving 5% Stake to US Government: FT](https://www.bloomberg.com/news/videos/2026-07-02/openai-proposes-giving-5-stake-to-us-government-ft-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [SpaceX Analyst Debut Set to Test $2.2 Trillion Valuation](https://www.bloomberg.com/news/articles/2026-07-02/spacex-analyst-debut-set-to-test-2-2-trillion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Threads' ubiquitous Mr Beast spam is part of a massive crypto scam network](https://www.engadget.com/2206409/threads-ubiquitous-mr-beast-spam-is-part-of-a-massive-crypto-scam-network/) *(Engadget)*
+- [ ] 2026-07-02 [Amazon is ready to deploy the Leo satellite broadband service](https://www.engadget.com/2206582/amazon-leo-is-ready-to-go/) *(Engadget)*
+- [ ] 2026-07-02 [A strange attempt to revive the 3DO is already dead](https://www.engadget.com/2206578/3do-revival-empire-interactive/) *(Engadget)*
+- [ ] 2026-07-02 [Opera's new security feature stops copy paste attacks from malicious websites](https://www.engadget.com/2206574/opera-new-security-feature-stops-copy-paste-clickfix-attacks/) *(Engadget)*
+- [ ] 2026-07-02 [OpenAI reportedly wants all AI companies to give the US government a stake in their businesses](https://www.engadget.com/2206552/openai-ai-companies-give-us-government-stake-businesses-proposal/) *(Engadget)*
+- [ ] 2026-07-02 [Google loses final appeal over $4.7 billion EU Android antitrust fine](https://www.engadget.com/2206550/google-loses-final-appeal-over-eu-antitrust-fine/) *(Engadget)*
+- [ ] 2026-07-02 [“AIエージェントは難しい”を変える。チャットに話しかけるだけで業務を実行する「functure AI」を2026年7月1日に提供開始](https://prtimes.jp/main/html/rd/p/000000003.000186393.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-02 [Gemini×Obsidianを最強コンビ！フル活用する方法 \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2607-gemini-deep-research-with-obsidian-connected-notes/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-02 [id:jkondo - ブックマーカー図鑑](https://bookmarker-encyclopedia.netlify.app/profiles/jkondo) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-02 [Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402](https://blog.cloudflare.com/monetization-gateway/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-02 [AIエージェント「Gemini Spark」がmacOSに　連携アプリも拡大](https://www.watch.impress.co.jp/docs/news/2121643.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-02 [はてブに依存してるヤバいおじさんおる…😟](https://anond.hatelabo.jp/20260702142752) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [meow — Purrs like a kitten. Runs like Rust.](https://meow.style/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [地下水流入の大深度たて坑、排水中に流入箇所拡大　地盤凍結による止水検討](https://xtech.nikkei.com/atcl/nxt/column/18/00142/02696/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [モバイルSuica不具合、JR東日本「サイバー攻撃ではない」 \| 毎日新聞](https://mainichi.jp/articles/20260701/k00/00m/040/330000c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [電子ペーパー開発キットでゲームボーイを60Hz表示するエミュレーター『Paper Boy S3』 \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/07/01/5240.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [「悪意あるnpmパッケージをインストールさせない」　GitHubが発表した2つの防止策](https://atmarkit.itmedia.co.jp/ait/articles/2607/01/news051.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [「実物に近づけたAIと実物の写真は違う」キャンメイクの“高クオリティ”「AI社員」、SNSで評価が割れる](https://www.itmedia.co.jp/news/articles/2607/02/news094.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [レンズ付きフィルムカメラ「写ルンです」に20年ぶりの新商品が登場](https://www.itmedia.co.jp/pcuser/articles/2607/02/news092.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [LINEとPayPayがついに連携　LINEからPayPay送金可能に](https://www.watch.impress.co.jp/docs/news/2121812.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [テレビを作り続けて50年超！20秒ごとに85型ができちゃう「ハイセンス工場」行ってきた](https://av.watch.impress.co.jp/docs/topic/2120664.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [「.NET 8」と「.NET 9」のサポートが終了へ ～「.NET 10」へのアップグレードを／サービス更新プログラムやセキュリティ修正プログラム、技術サポートが提供終了](https://forest.watch.impress.co.jp/docs/news/2121687.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [【ミニレビュー】仕事中にパンダと運動　「HUAWEI WATCH FIT 5」のミニストレッチが楽しい](https://www.watch.impress.co.jp/docs/review/minireview/2120369.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [LINEに特別なブロック機能、相手の友だち一覧から自分を消せる　今秋から有料提供へ　予約送信・通話録音も](https://www.itmedia.co.jp/news/articles/2607/02/news110.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [ルールを書くことと、ルールが機能すること](https://zenn.dev/thegatebreaker/articles/2693dc23291956) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [毎日AIニュース 0702](https://zenn.dev/qps/articles/e9d4330a31692e) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Claude Fable 5とは何者か — 料金2倍でもOpusの上に立つ「Mythos級」モデルを整理する](https://zenn.dev/ojyo/articles/0209116ab6a3fd) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Claude Fable 5復活で読む安全ルーティング3層](https://zenn.dev/hironakamura_ai/articles/058298fb1d9e49) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Claude Code の Skill でブログ執筆を半自動化した](https://zenn.dev/givery_ai_lab/articles/3807845e371a1c) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作らせたら、コードより仕事の進め方に驚かされた](https://zenn.dev/gys/articles/fable5-local-llm-ask-cli) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [毎日AIニュース 0701](https://zenn.dev/qps/articles/f3020f095f1e15) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [言葉足らずな僕はコミュ力の高いClaude Codeに頼んでCodexと会話してもらった](https://zenn.dev/koifishlabs/articles/775b16a3d23d56) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [GLM-5.2の使い方｜Claude Codeで料金を1/6にする](https://zenn.dev/appare/articles/glm-5-2-tsukaikata) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Claude Codeで大学の課題管理を自動化してみた（工学部生の実体験）](https://zenn.dev/ojyo/articles/c65e89bb6feeea) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [並走する複数のClaudeが二重実行・取りこぼしを起こす ── 指揮者なしの台帳で衝突を防いだ17日間](https://zenn.dev/tokium_dev/articles/foreman-cross-session-task-harness) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [設計の考慮漏れをなくすために、Claude Codeスキル集『Skills for Real Engineers』を導入してみた](https://zenn.dev/sato_frontend/articles/52b58b74f7aebb) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [Claude Codeで個人開発アプリ紹介のショート動画を作ってみた際の技術選定とプロセスの記録](https://zenn.dev/yamshta/articles/claude-code-tiktok-video-pipeline) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [Claudian Orchestra：ObsidianとAIエージェントで作るAI時代のタスク管理（続）](https://zenn.dev/mkj/articles/claudian-orchestra_20260616) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [AWS Summit Japan 2026 : 新入社員が参加してみた感想](https://zenn.dev/nttdata_tech/articles/cbe5d6a77dc6d7) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [AIエージェント時代のターミナルマルチプレクサ「herdr」にtmuxから乗り換えた](https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [ニュース動画を全自動生成するパイプラインを作った話 ― TTSとLLMでハマった罠](https://zenn.dev/kuni_chan/articles/3ff96d7102b054) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [娘（5歳）のためのAI家庭教師を作り始めた④ - 復活した Fable 5 の使い所を考える](https://zenn.dev/dsflon/articles/dab979c414583b) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [二度寝を防ぐ目覚ましアプリ｢はよおきんかい｣の紹介](https://zenn.dev/yushin16/articles/974237e9de74cd) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [RVMとMatAnyone2のVideo Matting halo は「撮影由来」か「コード由来」か切り分けた](https://zenn.dev/mohhh_ok/articles/2026-07-rvm-matanyone2-green-halo-video-matting) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [AI駆動開発時代のNeovim — Mac × ローカルLLM × tmux で作る統合開発環境](https://zenn.dev/shuji_bonji/books/neovim-ide-on-mac) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [金融データサイエンス基礎Part 5. 順位付けだけでは足りません：信用モデル評価の三つの軸](https://zenn.dev/han901104/articles/60ce4d9f1ae260) *(Zenn – トピック 機械学習)*
