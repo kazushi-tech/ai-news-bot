@@ -102778,3 +102778,88 @@
 - [ ] 2026-07-03 [非同期処理のアーキテクチャに想いを馳せた](https://zenn.dev/dress_code/articles/62524f2e5dbd3c) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-07-03 [Anthropic、Samsungと独自AIチップで協議か　報道受けNVIDIAなど半導体関連株が下落](https://www.itmedia.co.jp/news/articles/2607/03/news101.html) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-07-03 [AI時代に哲学を学ぶ意味　28歳から大学院でスピノザを学んだ研究者 \| 朝日新聞Thinkキャンパス](https://www.asahi.com/thinkcampus/article-130559/) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-07-03T18:55:39.435Z
+- [ ] 2026-07-03 [AI prey: why watchdogs are telling parents to protect children from nudification apps](https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-03 [UK parents warned over posting images of children amid AI sexual abuse fears](https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-03 [We can debate the ethics of AI but can’t seem to change course \| Letters](https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-03 [What would our lives look like if we no longer had to work? As a thought experiment I tried to imagine](https://www.theguardian.com/commentisfree/2026/jul/04/ai-disruption-dystopia-dont-need-to-work-capitalism-free-time) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-03 [NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films](https://www.theguardian.com/technology/2026/jul/03/nsw-government-openai-arrives-sydney-terminator-films) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-03 [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-07-03 [Simple Prompt Turns ChatGPT Into a Sociopath That Ignores Safety Guardrails](https://futurism.com/artificial-intelligence/simple-prompt-chatgpt-sociopath) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-03 [Biohackers Attempted Neurosurgery to Control a Lobster’s Nervous System and Give the Controls to OpenClaw, and How It Ended Will Tell You a Lot About the Ethics and Competence of AI Bros These Days](https://futurism.com/artificial-intelligence/biohackers-neurosurgery-control-lobster-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-03 [AI Browsers Can Basically Be Hypnotized Into Turning Against Their User and Carrying Out Devastating Hacks](https://futurism.com/artificial-intelligence/ai-browsers-hypnotized-hack) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-03 [Google Admits It Missed Its Climate Goals — Again — Because of AI](https://futurism.com/artificial-intelligence/google-missed-climate-goals-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-03 [AI’s Volatile Power Use Quietly Tests Grid Limits](https://spectrum.ieee.org/data-centers-grid-instability) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-07-03 [Getting Started with the Claude API in Python](https://www.kdnuggets.com/getting-started-with-the-claude-api-in-python) *(KDnuggets)*
+- [ ] 2026-07-03 [Israeli AI Startup Eyes Expansion in Trump-Aligned Latin America](https://www.bloomberg.com/news/articles/2026-07-03/israeli-ai-startup-eyes-expansion-in-trump-aligned-latin-america) *(Bloomberg Technology)*
+- [ ] 2026-07-03 [Xi Replaces Anti-Corruption Leader in Purge of China’s Army](https://www.bloomberg.com/news/articles/2026-07-03/xi-replaces-anti-corruption-leader-in-purge-of-china-s-army) *(Bloomberg Technology)*
+- [ ] 2026-07-03 [Quantum Systems Doubles Valuation to $8B in New Round](https://www.bloomberg.com/news/videos/2026-07-03/quantum-systems-doubles-valuation-to-8b-in-new-round-video) *(Bloomberg Technology)*
+- [ ] 2026-07-03 [Big Tech Sends Workers Into the Field to Help Customers Use AI](https://www.bloomberg.com/news/newsletters/2026-07-03/microsoft-amazon-send-workers-to-their-customers-to-help-with-ai) *(Bloomberg Technology)*
+- [ ] 2026-07-03 [At 17, She Sued Meta and Google, and Won. Now She’s Ready to Tell Her Story](https://www.bloomberg.com/news/features/2026-07-03/google-and-meta-lost-a-landmark-trial-to-kaley-but-kept-her-as-a-user) *(Bloomberg Technology)*
+- [ ] 2026-07-03 [Video Games in Europe Face New Restrictions on Age, ‘Loot Boxes’](https://www.bloomberg.com/news/articles/2026-07-03/video-games-in-europe-face-new-restrictions-on-age-loot-boxes) *(Bloomberg Technology)*
+- [ ] 2026-07-03 [AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says](https://www.bloomberg.com/news/articles/2026-07-03/ai-productivity-hopes-show-exuberance-allianz-s-subran-says) *(Bloomberg Technology)*
+- [ ] 2026-07-03 [International Google Pixels are different than American models - here's how](https://www.engadget.com/2205901/how-international-google-pixel-phones-different-american/) *(Engadget)*
+- [ ] 2026-07-03 [How to watch Summer Games Done Quick 2026](https://www.engadget.com/2207676/how-to-watch-summer-games-done-quick-2026/) *(Engadget)*
+- [ ] 2026-07-03 [Amazon's Fire HD 10 tablet just got a refresh with a bit more RAM](https://www.engadget.com/2207669/amazon-fire-hd-10-ram-refresh/) *(Engadget)*
+- [ ] 2026-07-03 [Engadget Podcast: Who needs Valve's Steam Machine?](https://www.engadget.com/2207598/engadget-podcast-who-needs-valve-steam-machine/) *(Engadget)*
+- [ ] 2026-07-03 [How to claim a WhatsApp username](https://www.engadget.com/2207358/how-to-claim-whatsapp-username/) *(Engadget)*
+- [ ] 2026-07-03 [PlayStation just struck a hammer blow to game preservation](https://www.engadget.com/2207297/playstation-just-struck-a-hammer-blow-to-game-preservation/) *(Engadget)*
+- [ ] 2026-07-03 [Sony already invested $34 million to repurpose its EU PlayStation disc factory](https://www.engadget.com/2207546/sony-repurposing-austrian-playstation-disc-factory/) *(Engadget)*
+- [ ] 2026-07-03 [Microsoft filing shows how it shifts profits around to reduce its European tax bill](https://www.engadget.com/2207542/microsoft-eu-tax-disclosure-report/) *(Engadget)*
+- [ ] 2026-07-03 [史上初の「エージェント型ランサムウェア」感染事例の報告](https://gigazine.net/news/20260703-ai-agent-ransomware/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-03 [AIによる創作ではキャラクターが単調になりがちという研究結果、AIは「曖昧さ」を残すことが苦手な可能性](https://gigazine.net/news/20260703-ai-story-characters/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-03 [「Claude」で町工場が一変　30万円でシステム自作](https://business.nikkei.com/atcl/NBD/19/special/02564/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-03 [「AI見え見えなのが分からないのかな」レポート課題を出したら、1分後に1000字程度の文章を提出してきた学生が数人いて、かなり不愉快](https://togetter.com/li/2716192) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-03 [Prompting Claude Fable 5](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [パスワード入力のmaxlengthで長いパスワードで登録できたつもりになってた問題2026](https://gist.github.com/mala/30c4e87c9ab150054e2f722b8256157e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [19年以上見過ごされていたLinux kernelのゼロデイ脆弱性を報告した話：CVE-2026-43456 \| セキュリティブログ \| 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ](https://gmo-cybersecurity.com/blog/19-year-old-linux-kernel-zero-day/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [AI時代にテックリードとして重視していること - Money Forward Developers Blog](https://moneyforward-dev.jp/entry/2026/07/02/171131) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [とあるはてなーブックマークの解析（Claudeは個人評を避けたので、Geminiに調べてもらいました）](https://anond.hatelabo.jp/20260703164835) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [核融合プラズマから直接電気を取り出す：Realta Fusionが史上初の民間実証に成功 \| XenoSpectrum](https://xenospectrum.com/realta-fusion-direct-energy-conversion-wham/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [洗濯物をたたむ専用のロボットが片づけやベッドメイクもできるように進化した「Isaac 1」が発表される、価格は買い切り129万円または月額7万2000円](https://gigazine.net/news/20260703-isaac1-robot/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [Intel N100搭載の12型着脱式2in1、aiwaから](https://pc.watch.impress.co.jp/docs/news/2122329.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [職場のドパオジのはなし](https://anond.hatelabo.jp/20260703152732) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [「6G」は2029年に仕様リリース、7GHz帯で400MHzの帯域幅も策定](https://k-tai.watch.impress.co.jp/docs/news/2122267.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [GitHub - OpenOSINT/OpenOSINT: AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or local models. For authorized security research only.](https://github.com/OpenOSINT/OpenOSINT) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [Google Pixel、電話の着信音が鳴らない／着信通知が表示されない→いつのまにか不在着信に履歴が残る不具合【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2122107.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [The Cost YAGNI Was Never About](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [ローカルLLMにC言語レガシープロジェクトの循環依存リファクタリング計画書を書かせた](https://zenn.dev/catspawengineer/articles/a7f4efbf9d8e5c) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [Claude Fable 5 を使い倒すエンジニア向けガイド — プロンプトと足場（scaffolding）の勘所](https://zenn.dev/appare/articles/claude-fable-5-engineer-tips) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [AI彼女アプリを作っていて気付いた。AIは「覚えている」より「覚え直せる」方が人間らしかった](https://zenn.dev/mitsukida/articles/f3ccdd86762292) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [AIエージェント群(TOAI)が構築する『自治体向け地球環境レジリエンス』](https://zenn.dev/toai/articles/earth-resilience-guide) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [なぜAI開発のアセットは横展開できないのか — AI共通基盤がJava独自FW化する前に](https://zenn.dev/acntechjp/articles/b6b8bc125e401e) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [ローカルLLM（Gemma4）でコードや文書の個人情報・機密情報フィルターは作れるのかを検証してみた](https://zenn.dev/zenkigen_tech/articles/89eeca4e288814) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [モデルが横並びになった先、差が出るのは「オーケストレーション層」だ](https://zenn.dev/ryok/articles/llm-cost-orchestration-layer) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [勝手に賢くなり続けるAIチームの作り方 — 自己改善ループを実装で理解する](https://zenn.dev/factory_mo/articles/self-improving-ai-team) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 ["受注表では「問題なし」。でも"今日は出せない"は、あの人の頭の中だけにある ── 休んだ翌朝、出荷後に発覚する抜けを、先に浮かせる"](https://zenn.dev/hiroshift/articles/abec44382ead52) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [CAT：自己確信度で推論長を適応制御・ACL2026採択・最大+5.6pp精度向上・36%トークン削減](https://zenn.dev/lixian/articles/cat-confidence-adaptive-reasoning) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [AIコスト対策になるかもしれないNVIDIA LLM Router v3を実験してみた](https://zenn.dev/asuene/articles/2387293236b830) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [CLI版とDesktop版でGLM/MiniMaxの役割がまるで違う話](https://zenn.dev/fukukei23/articles/claude-code-desktop-mcp-cost-delegation) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [Azure×Dify×OllamaでローカルLLM RAG環境を構築する手順](https://zenn.dev/akkodis_jp/articles/a5939edf73a954) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [The Art of Core AI — スマホにAIを入れる実地の技法](https://zenn.dev/mlboydaisuke/books/coreai-textbook) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [【おせっかい】Apple公式変換レシピの7モデル（gpt-ossなど）をCoreAI（.aimodel）形式に変換して配布](https://zenn.dev/mlboydaisuke/articles/8ea6c66f50cfb9a4c6d8) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [OKFはRAG精度を動かすのか](https://zenn.dev/sakata_consul/articles/okf-rag-accuracy-eval) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [推論を捨てた230MのLFM2.5、スマホCPUで毎秒213トークン出す](https://zenn.dev/okssusucha/articles/20260701-liquid-ai-lfm2-5-230m-on-device-agent) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [GPT-5.6のSol・Terra・Luna、強さより出力トークンの少なさで効く](https://zenn.dev/okssusucha/articles/20260630-gpt-5-6-sol-terra-luna) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [すでに4800スター、Loop Engineeringとは — “自分の仕事はloopを書くこと”](https://zenn.dev/acntechjp/articles/0c63b5b08bbdb9) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Claude Sonnet 5 は Opus 4.8 の代わりになるのか——QCD を 240 試行で比較する（オトナの自由研究 #27）](https://zenn.dev/nnakapa/articles/lab-27-sonnet5-opus48-qcd) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [2026年、AIは「使う時代」から「エージェントが動く時代」に変わった——SEの目線で整理する](https://zenn.dev/aoi777/articles/ee459f2a4f9279) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [MCPとは？自分だけの「毎朝ニュースを読むMCP」を作ってみる](https://zenn.dev/sun_asterisk/articles/59fabe45a7aa76) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [『暇なときAIは何をする？』脳のバグから自発活動が湧き出るSNNモデルをNumPyで作った記録](https://zenn.dev/naikaku01/articles/2ac9629a5a8feb) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [AIで紐解くAI-DLC v2：深さ](https://zenn.dev/takeshishimada/articles/aidlc-v2-06-depth) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [AIエージェントで開発と運用をどこまで自動化できるか設計してみた](https://zenn.dev/hopetekigozaru/books/ai-driven-company) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [AIにGitHubリポジトリを認識させるなら「階層構造＋index.md」と「Obsidian形式」どっちが速くて安くて正確か](https://zenn.dev/yamitake/articles/github-ai-context-structure-vs-obsidian) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [AI時代に、内製エンジニアの価値はどこにあるか——ユニフォームネクストの場合](https://zenn.dev/uniformnext/articles/be76e9aa1e3006) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [Fable 5解禁の「理由」が、いちばん重要だった](https://zenn.dev/carapace/articles/fable-5-restored-reason) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [Snowflakeの開発にCoCo(旧Cortex Code)をおすすめする理由](https://zenn.dev/dataheroes/articles/why-coco-for-snowflake-dev) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [[生成AI Vol.2] 業務効率を最大化するプロンプトデザインの基礎と実践](https://zenn.dev/sun_asterisk/articles/c37b921ac693ba) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [【実機検証】ローカルLLM4体を村に住まわせたら「派閥」はできるか — 人格なしでは派閥ゼロ、価値観を与えたら4日目に「同盟」を名乗った](https://zenn.dev/ojisan_ai_lab/articles/post-20260703-2a3sl9) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [AI レビュー済みの Playwright/Cypress PR 100 件。うち 33 件に、失敗できない E2E テストがあった。](https://zenn.dev/voidmatcha/articles/b0e9b9d33407c7) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [PR衝突チェックを入れたのに使いこなせてなかった — CLAUDE.md に1行足したら解決した](https://zenn.dev/veripsa/articles/use-veripsa-with-claude-md) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [SVM Part 2](https://zenn.dev/aizakovzky/articles/6bff50ac72a327) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-03 [【ML】AutoGluonを試してみた](https://zenn.dev/mu_ta/articles/cca41860719346) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-03 [機械学習パイプラインの特徴量を2,000個削減した（MLOps）](https://zenn.dev/flinters_blog/articles/c3e9d5f465ada9) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-03 [拡散モデルで「ありきたり」を脱する創造的画像生成](https://zenn.dev/appare/articles/jp-full-20260701-creative-diffusion) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-03 [トップAIラボの「リサーチサイエンティスト」を勝ち取るための猛勉強法：大規模言語モデル（LLM）面接の対策ロードマップ](https://zenn.dev/aipaper/articles/5e176c32d94d94) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-03 [グラフニューラルネットワーク(GNN)の基礎から多層化を阻む「オーバースムージング」への対策を解説](https://zenn.dev/dalab/articles/80ce9a10d507b8) *(Zenn – トピック 機械学習)*
