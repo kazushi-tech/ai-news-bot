@@ -102180,3 +102180,108 @@
 - [ ] 2026-07-02 [xAIが「人間の声をクローンしたAIコールセンター」をノーコードで作成できる「Voice Agent Builder」をリリース](https://gigazine.net/news/20260702-xai-voice-agent-builder/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-07-02 [庁舎が暑い原因は設計ミス、窓を壁と間違い計算　梓設計が1800万円負担](https://xtech.nikkei.com/atcl/nxt/column/18/00154/02856/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-07-02 [“低価格スマホ”の機種変は今後困難に。価格高騰に背を向けた、総務省の有識者会議 \| Gadget Gate](https://gadget.phileweb.com/post-128158/) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-07-03T01:25:22.602Z
+- [ ] 2026-07-03 [Australia news live: shadow arts minister Angie Bell, a former musician, says AI giants must pay for content](https://www.theguardian.com/australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-02 [Microsoft Bets on Humans to Scale AI](https://aibusiness.com/generative-ai/microsoft-frontier-company-humans-scale-ai) *(AI Business)*
+- [ ] 2026-07-02 [Prompt: The Next AI Challenge Isn't the Model. It's the Organization.](https://aibusiness.com/agentic-ai/next-challenge-scaling-ai) *(AI Business)*
+- [ ] 2026-07-02 [The Smartwatch Blood Sugar Revolution, Explained](https://www.techrepublic.com/article/news-smartwatch-blood-sugar-revolution-explained/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-02 [Meta Could Sell AI Compute Capacity as Infrastructure Costs Rise](https://www.techrepublic.com/article/news-meta-ai-compute-cloud-business/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-02 [New MacBook Pro, iPad Pro, and Foldable iPhone Could Test Apple Buyers](https://www.techrepublic.com/article/news-apple-foldable-iphone-macbook-pro-rumors/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-03 [India’s Space Industry Hunts for Its SpaceX Moment](https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment) *(Bloomberg Technology)*
+- [ ] 2026-07-03 [China Tech’s Deepening Valuation Slump Fails to Win Back Buyers](https://www.bloomberg.com/news/articles/2026-07-03/china-tech-s-deepening-valuation-slump-fails-to-win-back-buyers) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Chip Industry Urges US to Avoid Moves That Distort Memory Market](https://www.bloomberg.com/news/articles/2026-07-02/chip-industry-urges-us-to-avoid-moves-that-distort-memory-market) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Kioxia Ships Samples of Newest Flash Memory for AI Data Centers](https://www.bloomberg.com/news/articles/2026-07-02/kioxia-ships-samples-of-newest-flash-memory-for-ai-data-centers) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Booming AI Chip Trade Seals Hong Kong’s Role as Gateway to China](https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [China Quant Funds Draw Billions as AI Trounces Human Traders](https://www.bloomberg.com/news/articles/2026-07-02/china-quant-funds-draw-billions-as-ai-trounces-human-traders) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Trump Says He Wants AI Guardrails, But ‘As Little as Possible’](https://www.bloomberg.com/news/articles/2026-07-02/trump-says-he-wants-ai-guardrails-but-as-little-as-possible) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Treasuries Gain on Fed Rate-Hike Bets \| The Close 7/2/2026](https://www.bloomberg.com/news/videos/2026-07-02/the-close-7-2-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Market Uncertainty Grows as Stocks Retrace Gains Following Jobs Report](https://www.bloomberg.com/news/videos/2026-07-02/market-uncertainty-grows-following-jobs-report-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Crusoe in Talks to Raise $3 Billion in Round That May Triple Firm’s Value](https://www.bloomberg.com/news/articles/2026-07-02/crusoe-in-talks-to-raise-3-billion-in-round-that-may-triple-firm-s-value) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [CEO of Blueprint Capital Advisors Discusses Private Capital Strategies](https://www.bloomberg.com/news/videos/2026-07-02/jacob-walthour-jr-discusses-private-capital-strategies-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [UBS Sees Tech Sector Resilience Despite Meta](https://www.bloomberg.com/news/videos/2026-07-02/ubs-sees-tech-sector-resilience-despite-meta-video) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [FBI Probes Whether Alarum Unit Is Behind Co-Opted Home Devices](https://www.bloomberg.com/news/articles/2026-07-02/fbi-probes-whether-alarum-unit-is-behind-co-opted-home-devices) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Software Developers Rethink Apps for Their Newest Users: AI Agents](https://www.bloomberg.com/news/newsletters/2026-07-02/software-developers-rethink-apps-for-their-newest-users-ai-agents) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Spotify Challenges Prediction Markets After Song Chart Rigging](https://www.bloomberg.com/news/articles/2026-07-02/spotify-challenges-prediction-markets-after-song-chart-rigging) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Invesco’s Brill Gives SpaceX Bond a Red Card for ‘Very Sloppy’ Performance](https://www.bloomberg.com/news/articles/2026-07-02/invesco-s-brill-gives-spacex-bond-a-red-card-for-very-sloppy-performance) *(Bloomberg Technology)*
+- [ ] 2026-07-02 [Meta has released an app for making generative AI games](https://www.engadget.com/2207426/meta-has-released-an-app-for-making-generative-ai-games/) *(Engadget)*
+- [ ] 2026-07-02 [Cloudflare will filter out web crawlers that serve AI companies](https://www.engadget.com/2207360/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies/) *(Engadget)*
+- [ ] 2026-07-02 [Why bulky laptop chargers are a relic of the past](https://www.engadget.com/2204249/why-bulky-laptop-chargers-are-outdated/) *(Engadget)*
+- [ ] 2026-07-03 [BIPROGYがメインフレームの販売・保守を終了へ、国内継続は日本IBMとNECの2社に](https://xtech.nikkei.com/atcl/nxt/news/24/03293/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [AIで巧妙化するフィッシング　件数は20％減でも被害額は3倍](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/063000189/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [IoT機器を狙うマルウエア](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/111900071/061700080/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [「超知能」を開発してはいけないのか](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900173/061700034/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [プログラミング能力はもう不要？　むしろ希少価値は高まっている](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/062900141/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [NTTドコモがJALとタッグ　収益分配で異例の譲歩](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100110/070100181/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [開発進む「GW級データセンター」　8兆円投資でリターンは45兆円？](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/070200180/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [「セルラーIoT、中国の自動車向け減速」など5本](https://xtech.nikkei.com/atcl/nxt/column/18/02928/062800103/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [日産自動車、量子技術を「空力計算」に適用　車両設計への活用に道](https://xtech.nikkei.com/atcl/nxt/column/18/03556/062300007/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [無料オフィスのWebアプリはファイルをクラウドに自動保存、履歴も残る](https://xtech.nikkei.com/atcl/nxt/column/18/03613/051300006/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [パソコンの不調を「Windows Update」で修復、アプリやデータはそのまま](https://xtech.nikkei.com/atcl/nxt/column/18/03641/061000003/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [「ホッピング」回避しながら優良顧客を獲得、KDDIとNTTドコモの新戦略](https://xtech.nikkei.com/atcl/nxt/column/18/00745/070100258/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [AIを相談相手にして判断材料を増やそう、うまい尋ね方が新たな業務スキルに](https://xtech.nikkei.com/atcl/nxt/column/18/02737/062900061/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [コーディングエージェントは不要、事業部門の社員がAI活用でアプリ開発者に](https://xtech.nikkei.com/atcl/nxt/column/18/00692/070200192/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [東急がポイント会員システムを刷新、内製化へ一歩　1年遅れも3年で完遂](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11866/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [3大クラウドを日本パートナーが評価、AIが加わりユーザーの選択が難しく](https://xtech.nikkei.com/atcl/nxt/column/18/03655/062600005/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [AnthropicがGoogle陣営のノーベル賞科学者獲得、日本はバイオAIでも出遅れ](https://xtech.nikkei.com/atcl/nxt/column/18/00682/063000211/) *(日経クロステック IT)*
+- [ ] 2026-07-03 [AWSの「静かな」戦略シフト　OpenAIとAnthropic“1日違い登壇”の意味を読み解く](https://www.itmedia.co.jp/enterprise/articles/2607/06/news016.html) *(ITmedia AI＋)*
+- [ ] 2026-07-03 [AIで実機との形状差を学習するプレス成形シミュレーションソフトウェア](https://monoist.itmedia.co.jp/mn/articles/2607/03/news006.html) *(ITmedia AI＋)*
+- [ ] 2026-07-02 [「Mythosがないと守れない」は本当か??AIセキュリティの勝負を分ける「ハーネス」とは](https://www.itmedia.co.jp/aiplus/article/2607/03/2000000154/) *(ITmedia AI＋)*
+- [ ] 2026-07-02 [え、21日で37テラも？　高性能SSDを食いつぶす「あのAIツール」にご用心：886th Lap](https://kn.itmedia.co.jp/kn/articles/2607/03/news041.html) *(ITmedia AI＋)*
+- [ ] 2026-07-02 [フィジカルAIに“二刀流”で対応するアドバンテック、日本に第3の製造拠点を構築](https://monoist.itmedia.co.jp/mn/articles/2607/03/news065.html) *(ITmedia AI＋)*
+- [ ] 2026-07-02 [ソフトウェアエンジニアの仕事は「ループを書くこと」になる　内側ループと外側ループ（ハーネス）入門](https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news016.html) *(ITmedia AI＋)*
+- [ ] 2026-07-03 [“開かずの基幹システム”、450人月→実質2カ月で解読　創業100年のカクヤス、生成AIで挑む「転生」](https://www.itmedia.co.jp/news/articles/2607/03/news050.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-03 [CloudflareがAIボットを「検索」「代理操作」「学習」など種類ごとに制御する仕組みを公開、無料プランでも「検索は許可、AI学習は拒否」を設定可能](https://gigazine.net/news/20260702-cloudflare-ai-traffic-option/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-03 [LINEのAIがあなたの幹事役に？　日程調整や割り勘を自動化――年内実現](https://www.itmedia.co.jp/mobile/articles/2607/02/news112.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-03 [AIバイブコーディングでゲームのリリースが急増か、わずか6カ月で18万1000本のスマホゲームがリリースされiOSでは前年同期比118％増・Androidでは73％増](https://gigazine.net/news/20260701-mobile-game-boom/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [DNSを基盤にAIエージェントに信頼できる名前を与える「Agent Name Service（ANS）」、立ち上げ意向をLinux Foundationが発表](https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で](https://forest.watch.impress.co.jp/docs/news/2121816.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [Metaがスマートグラスの機能にまさかの時間制限、無料ユーザーは月3時間まで](https://japan.cnet.com/article/35249934/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [MS、Windows11が無駄にストレージの容量を食う不具合を認める。環境によっては99GBも。KB5095093 / KB5095091で修正 \| ニッチなPCゲーマーの環境構築Z](https://www.nichepcgamer.com/archives/post-130564.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [Introducing the Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [【特集】 ほぼ同価格でSteam Machineを凌駕！SteamOSでゲーミングPCを自作してみた](https://pc.watch.impress.co.jp/docs/topic/feature/2121983.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [Dynabook（旧東芝）がリコール中のノートPC用ACアダプターで火災事故](https://ascii.jp/elem/000/004/415/4415392/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [GitHub CopilotがVS Code内でブラウザ操作に対応、AIエージェントがウェブアプリを開いて検証可能に](https://gigazine.net/news/20260702-github-copilot-browser-use/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [GitHub - ogulcancelik/herdr: agent multiplexer that lives in your terminal.](https://github.com/ogulcancelik/herdr) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [中国のロボットメーカーUBTechがリアルなシリコン製の皮膚と感情AIを備えた人型ロボット「UWorld U1」シリーズを発表、実在する人物の声も再現可能](https://gigazine.net/news/20260702-ubtech-uworld-u1/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [プログラム全然読めなくてNullと0の違いすらわかってなかったけど醤油取ってって言った時に0は「いま醤油0ですよ」ってことでNullは「醤…油…？」ってこと？→わかりやすい喩えが次々と集まる](https://togetter.com/li/2716000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [国際会議 ICAIL+COLIEE 2026 参加レポート - 弁護士ドットコム株式会社 Creators’ blog](https://creators.bengo4.com/entry/2026/07/03/090516) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [Announcing Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [「理解してから働く時代」が、そろそろ終わるのかもしれない、という話｜けんすう](https://kensuu.com/n/nab3eb1959ef2) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [OpenAI、科学研究でのAIの判断力を評価する新ベンチ](https://pc.watch.impress.co.jp/docs/news/2122022.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [Metaのスマートグラスは月額課金の「Meta One Premium」に加入しないと利用が制限される](https://gigazine.net/news/20260702-meta-ai-glass/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [DRAM価格操作か　サムスン、マイクロン、SKハイニックスに集団訴訟](https://japan.cnet.com/article/35249898/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [「モバイルSuica」復旧後も続く混乱…「物理カード最強説」再浮上　今さら聞けない自衛策を解説](https://www.itmedia.co.jp/mobile/articles/2607/02/news114.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-02 [AIエージェントの過剰実装を抑えるOSS「ponytail」を調べてみた](https://zenn.dev/jodycraft/articles/13b51c5189ac84) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Claude Code がセッションごとに馬鹿になるので、引き継ぎ書を書かせることにした](https://zenn.dev/tier1kun/articles/79046064cb0932) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [責任経路工学の実装に向けて――GitHub Repositoryを公開しました](https://zenn.dev/dantarg/articles/rpe-implementation-repository) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [AIモデル性能の話ばかりしていたら勿体ない](https://zenn.dev/ssknaoya/articles/d3c6e0d9714de4) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [走り書きメモ→議事録プロンプトで唯一入れるべき制約は「推測で補わない」](https://zenn.dev/every_ai_recipe/articles/meeting-memo-llm-minutes) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [RTX 4070でQwen 35Bを2.8倍速くする](https://zenn.dev/kenimo49/books/local-llm-qwen-4070) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [AI workflow design should optimize for stress reduction](https://zenn.dev/wagahai_nekojit/articles/2daad7a1b7497e) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Claude Fable 5 公開72時間で世界が作った"ヤバいもの"集（Minecraftクローン20分〜Stripe 5000万行移行）](https://zenn.dev/appare/articles/claude-fable-5-72h-showcase) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Claude Fable 5 とは？世界最強クラスのコーディングAIが「封印→復活」した全経緯](https://zenn.dev/appare/articles/claude-fable-5-coding-comeback) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Virtual companion向けプロフィール生成フローの設計メモ](https://zenn.dev/aigfmedia/articles/d8f39e7128b3fa) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [【CCA-F学習ログ #3】ドメイン① エージェント設計とオーケストレーションを手を動かして理解する](https://zenn.dev/yujmatsu/articles/20260703_cca_foundations_03_agentic) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [私が今DGX Sparkを購入した理由](https://zenn.dev/asap/articles/1a267ec154c14d) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Fable 5を効率的に使う―アドバイザー機能と、ClaudeでOpenAIのモデルを呼び出す方法](https://zenn.dev/kotoda_ma/articles/c3c56c1b7bff26) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Claude Codeのトークン、95%は cache read  — セッション肥大化をフックで検知し /compact を提案させる](https://zenn.dev/houser/articles/f4505aeb373f21) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [FastAPI の Lifespan で実現する MCP サーバーのライフサイクル管理：AI エージェントを現実世界に接続する](https://zenn.dev/tyora/articles/616ad97036d3a5) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Claude Fable 5復活で作る3層モデルルーティング設計](https://zenn.dev/hironakamura_ai/articles/6d4cd714067808) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [静的キャッシュからPoWの反撃、多層防御からLLMへの毒入れまで](https://zenn.dev/faliye/articles/c53ed5c62ac6a5) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Amazon Bedrock AgentCoreと Snowflakeで「ユーザー権限そのまま」アクセスする設計案](https://zenn.dev/fusic/articles/e1a7d7d3591184) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [AI はどこまで賢くなれば経営を任せられるか — intelligence と直交する bottleneck の位置](https://zenn.dev/takyone/articles/agent-business-limits-2026-07) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [RAGの精度が上がらない5つの理由：埋め込みでもモデルでもなかった](https://zenn.dev/kenimo49/articles/rag-accuracy-not-embedding-5-retrieval-causes) *(Zenn – トピック LLM)*
+- [ ] 2026-07-02 [Claude Code を9分割で並列運用する — MulmoTerminal のグリッドビュー](https://zenn.dev/singularity/articles/mulmoterminal-grid-view) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [【個人開発】「とりあえずRDB」はもう古い？4つの異なるData Storeを組み合わせたアプリから基礎を学ぼう](https://zenn.dev/yo_dev/articles/four-datastore) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [AIエージェントのコスト削減、いちばん危ないのは"モデルを落とす"だった — 落とせない役割の話](https://zenn.dev/hayua/articles/700aabeba45500) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [個人開発の事例から考えるAI開発の3分類](https://zenn.dev/eyeofjapetus/articles/f732034a329339) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [Vibe Coding 開発に AI を導入する際の問題メモ（ゼロ）- なぜこの文章を書くのか](https://zenn.dev/lian0123/articles/103a003088f7b9) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [Trilo — エージェント専用の掲示板を作ってみた](https://zenn.dev/kakedashi/articles/52100640a9aeba) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [AI時代だからこそプログラミングを学ぶ](https://zenn.dev/relic_tech/articles/learn-programming-ai-era) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [「人を増やす＝分業」はもう古い？AIエージェント前提の開発チームを5ヶ月運用して考えたこと](https://zenn.dev/nenene01/articles/team-scaling-ai-agents) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [【dotenvx】AIエージェントに .env を読まれるリスクと暗号化による対処法](https://zenn.dev/ykbone/articles/202607-security-ai-dotenv) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [GitHub ラベルをステートマシンにして Claude Code を常駐させる — 無人実装・自動レビュー・自動バグ修正の 3 ループ](https://zenn.dev/gunma/articles/claude-code-label-state-machine-loops) *(Zenn – トピック AI)*
+- [ ] 2026-07-02 [[レビュー] Googleが6/30に公開したテーブルデータ用の基盤モデルTabFMは、信用でGBMに勝てるか。](https://zenn.dev/han901104/articles/d62291bf94caa3) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-02 [生成AIに「アルファマッティング」を聞いてみた（髪の境界をきれいに）](https://zenn.dev/tkpurine/articles/alpha-matting-explained) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-02 [材料・化学データの目的変数設計——対数変換バイアスと圧縮スコアの落とし穴](https://zenn.dev/efta1989/articles/target-variable-design-for-materials) *(Zenn – トピック 機械学習)*
