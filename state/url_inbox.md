@@ -102982,3 +102982,29 @@
 - [ ] 2026-07-04 [MulmoClaude のリモートアクセス機能 — スマホからコレクションを見る・変更する](https://zenn.dev/singularity/articles/2026-07-03-mulmoclaude-remote-access) *(Zenn – トピック AI)*
 - [ ] 2026-07-04 [ブログ公開前にサブエージェント2体を通す ― 「公開可否レビュー」と「ファクトチェック」をAIに分業させる設計](https://zenn.dev/tmiyachi/articles/a6c77df6496fee) *(Zenn – トピック AI)*
 - [ ] 2026-07-04 [Codexが年640TBをSSDに書いていた、原因のTRACEログを追う](https://zenn.dev/okssusucha/articles/20260701-openai-codex-sqlite-trace-log-ssd-wear) *(Zenn – トピック AI)*
+
+## Collected on 2026-07-04T18:47:52.927Z
+- [ ] 2026-07-04 [Surprise! Meta Says Now You Have to Pay a Monthly Subscription to Use Key Features of Your Already Expensive Smart Glasses](https://futurism.com/artificial-intelligence/meta-monthly-subscription-ai-glasses) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-04 [Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content](https://futurism.com/artificial-intelligence/meta-contractors-competitor-ai-with-disturbing-content) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-04 [India’s CG Semi Starts Production With 200 Million Chips](https://www.bloomberg.com/news/articles/2026-07-04/india-s-cg-semi-starts-production-with-200-million-chips) *(Bloomberg Technology)*
+- [ ] 2026-07-04 [How your smartwatch and AI might detect early signs of illness](https://www.engadget.com/2206130/how-smartwatch-use-ai-to-detect-sickness/) *(Engadget)*
+- [ ] 2026-07-04 [Tesla expands robotaxi service to small section of Miami](https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/) *(Engadget)*
+- [ ] 2026-07-04 [NASA mission to rescue the falling Swift observatory has launched](https://www.engadget.com/2207959/nasa-boost-mission-rescue-falling-swift-observatory-launched/) *(Engadget)*
+- [ ] 2026-07-04 [Tesla driver charged with manslaughter for Texas crash that killed a woman in her home](https://www.engadget.com/2207957/tesla-driver-charged-manslaughter-texas-crash-killed-woman-in-home/) *(Engadget)*
+- [ ] 2026-07-04 [Only these iPhone models are getting the new Siri AI this fall](https://www.engadget.com/2206159/iphone-models-getting-new-siri-ai/) *(Engadget)*
+- [ ] 2026-07-04 [Router brands could be misleading you with that Wi-Fi 7 label](https://www.engadget.com/2206012/router-brands-could-be-misleading-you-with-that-wi-fi-7-label/) *(Engadget)*
+- [ ] 2026-07-04 [無料で簡単にYouTubeなどから動画をダウンロードして保存できる「Parabolic」、ブラウザ拡張機能との連携もあり](https://gigazine.net/news/20260704-parabolic/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [弊社のブログのネタが減った気がしています - エス・エム・エス エンジニア テックブログ](https://tech.bm-sms.co.jp/entry/2026/07/02/110000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [Claude Fable 5 が使えるうちに Agent SOP を導入して整備させる](https://zenn.dev/ryu1maniwa25/articles/fable5-agent-sop-setup) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [iCloud+の「非公開メアド」は2種類あるの? - いまさら聞けないiPhoneのなぜ](https://news.mynavi.jp/article/20260704-iphone_why/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [「Azure Linux 4.0」公開が持つ意味--「Windows Server」に代わる可能性も](https://japan.zdnet.com/article/35249966/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [AI の回答を増田に貼り付けるために「はてな記法」へ変換するプロンプト](https://anond.hatelabo.jp/20260704095557) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [最新のロボティクスと確率 \| ドクセル](https://www.docswell.com/s/ryuichiueda/K1QQRE-2026-06-24-101802?utm_source=twitter&utm_medium=social&utm_campaign=singlepage) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [【Logseq使い方】超・学習本 \| 日々のノートから繋がる知識の保管庫へ](https://zenn.dev/ryu_takatsukasa/books/ad34ef7fdb4264) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [VITSから見るTTS 10系統マップ(2016–2026)](https://zenn.dev/nnn112358/articles/tts-lineage-map-from-vits) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-04 [研究者のExcelを機械学習データに変換する——Power Query と pandas で学ぶ整然データ](https://zenn.dev/efta1989/articles/excel-to-tidy-data-powerquery) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-04 [話者分離は「どの粒度で話者を割り当てるか」が精度を決める——WhisperX日本語検証で見えたこと](https://zenn.dev/tsukihi/articles/6ff3911b93d903) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-04 [「体験」でゲームを薦めるレコメンドを作った](https://zenn.dev/koizumiiiii/articles/09b7a629ee5d14) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-04 [過学習は「特徴量を減らせば直る」——それ、嘘でした](https://zenn.dev/morimiso/articles/d811bd6cd5b11c) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-04 [TTS学習向けのGPUの選び方](https://zenn.dev/nnn112358/articles/gpu-for-tts-training) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-04 [生成AIに「SAM（Segment Anything）」を聞いてみた（クリックで任意の対象を切り抜く）](https://zenn.dev/tkpurine/articles/segment-anything-sam) *(Zenn – トピック 機械学習)*
