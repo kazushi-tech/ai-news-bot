@@ -102928,3 +102928,57 @@
 - [ ] 2026-07-04 [深刻ないじめがイーロン・マスクやピーター・ティールに与えた影響](https://business.nikkei.com/atcl/gen/19/00087/062900510/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-07-04 [あと30年後にはムーンスティックをモチーフにした高齢者用杖が出ると思います「シルバーミレニアムの仏壇出てくれ」「老人になるのも楽しみになってきた」](https://togetter.com/li/2716570) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-07-04 [物理メディア廃止に対抗、GitHubがCD-ROM送付を開始「ダウンロード不要」うたう　限定1000枚 \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/07/03/5252.html) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-07-04T12:52:35.282Z
+- [ ] 2026-07-04 [OpenAI’s apparent failure to visit key site raises questions over UK investment](https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-03 [India to Summon Meta Over Child Sexual Abuse Content](https://www.bloomberg.com/news/articles/2026-07-03/india-to-summon-meta-over-child-sexual-abuse-content) *(Bloomberg Technology)*
+- [ ] 2026-07-04 [Midjourney wants the Hollywood studios that sued it to show the court how they use AI](https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/) *(Engadget)*
+- [ ] 2026-07-04 [ピーター・ティールが教皇レオ14世を攻撃、「中国の共産主義者のために働いている」 \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/100255) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-04 [個人用メモアプリをつくっている](https://mizzy.org/blog/2026/07/03/2/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-04 [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-04 [Microsoft Research、エージェントスキルを最適化するSkillOptを紹介 \| gihyo.jp](https://gihyo.jp/article/2026/07/msftr-released-skillopt) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-04 [（自分的に）神な自作ツール配布場所](https://saisokuya.com/soft/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [新しいHTTPメソッド「QUERY」をHono + Bunで実装してみる - Qiita](https://qiita.com/maaaashi/items/6eefccb7361f64607865) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [現在の日本語のIT用語は横文字ばかりだが、初期の頃は日本IBMが超頑張って意訳した用語が雑誌に出てくると奇異とかバカにされていた話…シャットダウンが「遮断」は秀逸](https://togetter.com/li/2716883) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [「期限切れドメイン売買、絶対やらない」さくらインターネット社長の断言に「お見事」](https://ascii.jp/elem/000/004/415/4415784/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [大阪・藤井寺市で複数の古墳を発見](https://www.watch.impress.co.jp/docs/news/2122364.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [Wordgard](https://wordgard.net/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [Ubuntu 26.10（Stonking）の開発; ntpd-rsの導入計画 \| gihyo.jp](https://gihyo.jp/admin/clip/01/ubuntu-topics/202607/03) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [カシオ プロトレック、“ぶら下げ”可能な小型モデル](https://www.watch.impress.co.jp/docs/news/2121866.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [メインメモリの最大93%をビデオメモリに割り当てられるように - Intel Panther Lake等で](https://news.mynavi.jp/article/20260703-4658313/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [ビッカメもヤマダもかなわんわ――開店ホヤホヤの「ヨドバシ池袋店」に潜入　元地元民が感じた“圧倒的な強み”とは](https://www.itmedia.co.jp/news/articles/2607/03/news105.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [スマホだけでAI脳になる！ 未経験でもAIと作るローカルLLM ～複数アプリ間のモデル共有と容量削減編～](https://zenn.dev/kinotex/articles/b28a9c6dffabe0) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [Claude Codeで作る1人エージェントチーム](https://zenn.dev/tottoko_hamu/books/building-agent-team-with-claude-code) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [ローカルLLMに形式を守らせるなら「条件の説明」より「型の例示」? qwen3:8b に制約8種で確かめた](https://zenn.dev/monteranakamu/articles/llm-exemplar-vs-instruction) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [モデルは壊れる前提で設計する — 個人開発でLLM APIを使うときの3つの防御パターン](https://zenn.dev/mediiiiium/articles/llm-provider-resilience-design) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [Claude Code (Opus 4.8) が数分固まる問題、188セッション実測したら原因はAPIでもネットワークでもなかった](https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [RTX 4060(VRAM 8GB)でローカルLLMはどこまで使える? Ollama + qwen3:8b を25問実測](https://zenn.dev/monteranakamu/articles/local-llm-8b-benchmark) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [Claude Fable 5 を9Bモデルに蒸留？ 100万トークンの超長文推理モデル「Qwythos-9B」を4GBのVRAMで動かす](https://zenn.dev/lumichy/articles/qwythos-9b-fable-5-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [AIに障害対応させたら、ありもしないハッキングを“自分で”でっち上げて錯乱した話](https://zenn.dev/jun_uen0/articles/ai-agent-faked-its-own-security-incident) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [課題が明確になった後——解決策を探索するフェーズの手法整理](https://zenn.dev/little/articles/research-solution-exploration-methods) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [「ふんわり要求 → 明確な課題」を作るとはどういうことか——clarify_to_mvp の動機と先行研究整理](https://zenn.dev/little/articles/research-clarify-to-mvp-motivation) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [Claude CodeのサブエージェントでDispatcherのトークン消費を減らした](https://zenn.dev/h_wata/articles/squad-dispatcher-token-diet) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [Fable5で深海ポートフォリオを作り、そのログをOpus 4.8に監査させた話](https://zenn.dev/go5go69/articles/c202f4b2529298) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [エージェントを訓練せず強くする、Qwen-AgentWorldという世界モデル](https://zenn.dev/okssusucha/articles/20260701-qwen-agentworld-language-world-model) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [AISIのtest-time computeを使う：AIエージェント評価を3予算で作る](https://zenn.dev/hironakamura_ai/articles/fc964f9050c0eb) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [AWS BedrockをCLIで試す入門：まずはこのコマンドだけ覚えればOK](https://zenn.dev/abc_yoko/articles/4f885983851c25) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [Claude Codeの挙動が変わった時、原因をどう切り分けるか](https://zenn.dev/acntechjp/articles/5ce26627f4b8ff) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [【全文無料】生成AI「15分野の全地図」を一冊の本にしました ─ Claude Fable 5の知識を限界まで引き出した執筆](https://zenn.dev/ykishimotoy/articles/e8578d141b41c4) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [AIサムライの生成AIツール大全 ─ 全15分野の地図と歩き方](https://zenn.dev/ykishimotoy/books/de8bc95c9b3d57) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 ["「30年分の勘」をデータにする前に ── 辞める職人が"本音の裏道"まで話してくれるかが、全てだった"](https://zenn.dev/hiroshift/articles/e7d4e89ad41f02) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [Ollama と LM Studio で「機密は手元」を実現する — ローカル LLM 実務入門](https://zenn.dev/exapolicy/articles/0a1dec60e98a88) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [その注入、最初から届いていませんでした ── changelog を信じないスモークテストを作った話（C3 v2.44.0）](https://zenn.dev/satoh_y_0323/articles/ea17d0e5e89f71) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [なぜ prompt-master はAIの出力を安定させやすいのか](https://zenn.dev/53able/articles/b1f87c8200284a) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [AIでやるべき業務とルール処理で足りる業務の見分け方](https://zenn.dev/syunpp/articles/ai-or-rules-for-business-workflow) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [1週間限定のClaude Fable 5で何をすべきか - 7月7日まで](https://zenn.dev/yun_bow/articles/99512afc69bcf8) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [AIモデルファイルは本当に「安全」か — スキャナを実機で回してわかった、防げる攻撃・防げない攻撃](https://zenn.dev/kta1kri/articles/mcp-supply-chain-model-scanners) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [Claude Fable 5 は Pro プランで使える？ — 再開後の利用条件と「週間50%枠はすぐ尽きる」評価](https://zenn.dev/mdtechknowledge/articles/claude-fable-5-pro-plan-availability) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [Claude Code Skill の設計と実装 — /コマンドで再利用可能なワークフローを作る](https://zenn.dev/m1no/articles/2026-05-16-claude-code-skill-design) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [herdrにntfyをつなぐ！― AI agent nativeなターミナル・マルチプレクサに通知を🔔](https://zenn.dev/orch_canvas/articles/herdr-ntfy-plugin) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [OWASP MCP Top 10 の「動く検知ルール集」をOSSで公開した（依存ゼロで検証できる）](https://zenn.dev/kta1kri/articles/mcp-detection-oss) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [# CVEから「未来の防御設計」を読む](https://zenn.dev/logolith_andu/articles/c137fd412486a3) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [無料で試せる — Staddress AIで住所解析の精度を確認する（アカウント登録〜精度確認）](https://zenn.dev/staddress/articles/43ef1b3d5af00e) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [話者分離で本当に効くのは「モデルの精度」ではなく「ASRの発話粒度」だった（SpeechAnalyzerの日本語では発話の71%が複数話](https://zenn.dev/tsukihi/articles/d6fdbd9a7909be) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [MulmoClaude のリモートアクセス機能 — スマホからコレクションを見る・変更する](https://zenn.dev/singularity/articles/2026-07-03-mulmoclaude-remote-access) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [ブログ公開前にサブエージェント2体を通す ― 「公開可否レビュー」と「ファクトチェック」をAIに分業させる設計](https://zenn.dev/tmiyachi/articles/a6c77df6496fee) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [Codexが年640TBをSSDに書いていた、原因のTRACEログを追う](https://zenn.dev/okssusucha/articles/20260701-openai-codex-sqlite-trace-log-ssd-wear) *(Zenn – トピック AI)*
