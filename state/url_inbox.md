@@ -102910,3 +102910,21 @@
 - [ ] 2026-07-03 [AIエージェント別の詳細ルールの重複を共通正本へ戻した設計判断](https://zenn.dev/harness/articles/ai-agent-rules-common-source-of-truth) *(Zenn – トピック AI)*
 - [ ] 2026-07-04 [自分のバックテストに『これは間違いだと証明しろ』とAIをけしかけたら、結論が半分ひっくり返った](https://zenn.dev/ikahan/articles/backtest-self-deception) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-03 [材料・化学データの特徴量設計——Pipeline によるデータリーク防止と Stability Selection](https://zenn.dev/efta1989/articles/feature-selection-leak-for-materials) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-04T08:15:42.624Z
+- [ ] 2026-07-04 [Could the next great novel be written by AI (and would you even be able to tell)?](https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-04 [Micron Breaks Ground on $9 Billion Plant Expansion in Japan](https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion) *(Bloomberg Technology)*
+- [ ] 2026-07-04 [China Envisions AI, Karaoke and Coffee at Cinemas](https://www.bloomberg.com/news/articles/2026-07-04/china-envisions-ai-karaoke-and-coffee-at-cinemas) *(Bloomberg Technology)*
+- [ ] 2026-07-04 [Local Lenders Set to Supercharge Crypto Trading in Germany](https://www.bloomberg.com/news/articles/2026-07-04/local-lenders-set-to-supercharge-crypto-trading-in-germany) *(Bloomberg Technology)*
+- [ ] 2026-07-04 [SK Hynix Is Said to Weigh 0.5% Fee Payout in Mega ADR Offering](https://www.bloomberg.com/news/articles/2026-07-04/sk-hynix-is-said-to-weigh-0-5-fee-payout-in-mega-adr-offering) *(Bloomberg Technology)*
+- [ ] 2026-07-04 [China Proposes Expanding E-Commerce Law Scope, Platform Rules](https://www.bloomberg.com/news/articles/2026-07-04/china-proposes-expanding-e-commerce-law-scope-platform-rules) *(Bloomberg Technology)*
+- [ ] 2026-07-04 [キオクシアで人生終了｜りゅん](https://note.com/ryunchama/n/n3039fb6bb7cd) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-04 [重大契約情報の隠蔽は人権侵害である - 諸事解説(AI多用)](https://ganot.hatenadiary.com/entry/2026/07/04/023755) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-04 [CVE-2026-48931 Shouldn't Have Been a CVE](https://adventures.nodeland.dev/archive/cve-2026-48931-shouldnt-have-been-a-cve/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-04 [消費者庁、Anker Japanがリコールを行っているモバイルバッテリー「Anker PowerCore 10000」が原因とみられる火災事故が5月に2件報告されたとして情報を公開。](https://applech2.com/archives/20260704-anker-powercore-1000-incident.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [高市批判の際にAIによる加工画像がちょくちょく紛れてる - 電脳塵芥](https://nou-yunyun.hatenablog.com/entry/2026/07/04/030000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [とある部長のObsidian](https://zenn.dev/canly/articles/173479ac3e9824) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [「iPhone」のバッテリーをApple Storeで初めて交換--得られた重要な教訓とは](https://japan.zdnet.com/article/35249785/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [深刻ないじめがイーロン・マスクやピーター・ティールに与えた影響](https://business.nikkei.com/atcl/gen/19/00087/062900510/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [あと30年後にはムーンスティックをモチーフにした高齢者用杖が出ると思います「シルバーミレニアムの仏壇出てくれ」「老人になるのも楽しみになってきた」](https://togetter.com/li/2716570) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [物理メディア廃止に対抗、GitHubがCD-ROM送付を開始「ダウンロード不要」うたう　限定1000枚 \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/07/03/5252.html) *(はてなブックマーク – IT 人気エントリ)*
