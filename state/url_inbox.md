@@ -102863,3 +102863,50 @@
 - [ ] 2026-07-03 [拡散モデルで「ありきたり」を脱する創造的画像生成](https://zenn.dev/appare/articles/jp-full-20260701-creative-diffusion) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-03 [トップAIラボの「リサーチサイエンティスト」を勝ち取るための猛勉強法：大規模言語モデル（LLM）面接の対策ロードマップ](https://zenn.dev/aipaper/articles/5e176c32d94d94) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-03 [グラフニューラルネットワーク(GNN)の基礎から多層化を阻む「オーバースムージング」への対策を解説](https://zenn.dev/dalab/articles/80ce9a10d507b8) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-04T01:25:03.299Z
+- [ ] 2026-07-03 [AI Agents Are Creating a New Enterprise Security Gap](https://www.techrepublic.com/article/news-ai-agents-enterprise-security-gap/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-02 [5 Things Google’s Nano Banana 2 Lite Reveals About the Future of AI Images](https://www.techrepublic.com/article/news-google-nano-banana-2-lite-ai-image-generation/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-02 [AI Oversight, Security Flaws, and Industry Shifts Define This Week in Tech](https://www.techrepublic.com/article/ai-oversight-security-flaws-and-industry-shifts-define-this-week-in-tech/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-03 [The Space Shuttle Endeavour goes on public display later this year](https://www.engadget.com/2207813/space-shuttle-endeavour-goes-on-public-display-later-this-year/) *(Engadget)*
+- [ ] 2026-07-03 [米トランプ大統領、AI規制は「できるだけ介入少なく」　中国に対して開発競争「大幅リード」を強調](https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/) *(ITmedia AI＋)*
+- [ ] 2026-07-03 [フィジカルAIに挑む日の丸連合、「Noetra」とは何か](https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html) *(ITmedia AI＋)*
+- [ ] 2026-07-04 [AIで実装コストが低くなった今、エンジニアは上流に行くべきか？｜いしい](https://note.com/danimal141/n/neeb219bbc03f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-04 [中国アリババ、米アンソロピックのプログラミングAIを利用禁止に - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGM039GI0T00C26A7000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー](https://gigazine.net/news/20260703-steam-machine-appearance/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [1テラと表示された240ギガの罠 自衛隊の機密システムを1年むしばんだ偽装USBと日本の盲点｜宮野宏樹](https://note.com/hirokimiyano/n/n1b225eeec21d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [プレゼンツールPeithoをつくっている](https://mizzy.org/blog/2026/07/03/1/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [Claude Pro/MaxプランでもWebアプリ共有機能「Artifacts」が利用可能に](https://pc.watch.impress.co.jp/docs/news/2122167.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [[石川温の「スマホ業界 Watch」] 「LINE新機能」PayPay送金やショッピング強化の真意、消えゆく「シンプルUI」と広告・物販前提の未来](https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2122065.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-03 [官公需データをAIエージェントに$0.02で売る — 個人APIをx402対応させて本当に決済が通るまで](https://zenn.dev/ponpoke/articles/f8cffe4c079b7f) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [AIコーディングが「補完」から「自動化」へ](https://zenn.dev/lingmu/articles/2026-07-03-copilot-claude-agent-era) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [LoRA・QLoRAを図解する](https://zenn.dev/hkame/articles/lora-qlora-finetuning) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [ソフトウェア開発は次元変換である —— 責務をトレースして、AI生成の異常を捉えられるか](https://zenn.dev/cognitiveosmdl/articles/ba595e845a4c60) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [同じプロンプトなのに答えの質がぶれる時、埋めるべきは指示ではなく前提だった](https://zenn.dev/every_ai_recipe/articles/chatgpt-prompt-3-tips-better-answer) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [# RAGパイプラインにおける時系列汚染: コンテキスト注入ドリフトのメカニズムと対策](https://zenn.dev/logolith_andu/articles/0841de33aef93a) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [Why this machine structured text format](https://zenn.dev/wagahai_nekojit/articles/e17fb1d1ec35ed) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [入札の事故は「公告後」に起きる — 官公需の訂正・締切変更を検知するMCPサーバーを作って公開した](https://zenn.dev/ponpoke/articles/25d73f4fdc8cf4) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [自己改善と安全な実行 ― 重みを変えずに挙動を変える／結果を疑う規範【プロンプトで読み解くAIエージェント #7】](https://zenn.dev/nobmake/articles/b4a6f670b70209) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [振る舞いベースラインからビジネスの隔離へ、フルスタック防御体系の導入とデータ構造のリファクタリング](https://zenn.dev/faliye/articles/12da785fa7eb07) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [文字起こし・LLM・音声合成API で自分だけのスマートスピーカーを作ろう](https://zenn.dev/tetetratra/articles/e0b6a3c8f223b1) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [【第1回】ChatGPTをライターではなくインタビュアーにした話](https://zenn.dev/genf740/articles/392c9702-a775-8114-b4ae-fbac290fdfcf) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [ローカルLLM動作比較: gpt-oss vs DiffusionGemma vs Qwen3.5—tok/s は仕事の速さではない](https://zenn.dev/catspawengineer/articles/fb28277c3c6a63) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [AIに本を書かせて、出版インフラまで組ませて、その日のうちに売り始めた話](https://zenn.dev/idonthaveapen/articles/ai-wrote-published-book-in-a-day) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [無料のexecutorが一番高くついた話 — Opus + ローカルQwenが全タスクで最高額になった理由](https://zenn.dev/kenimo49/articles/free-executor-paradox-40-trials) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [Claude Codeの枠を溶かさない — ローカルLLM委譲アーキテクチャ実装記](https://zenn.dev/idonthaveapen/books/local-llm-delegation) *(Zenn – トピック LLM)*
+- [ ] 2026-07-03 [📨【β運用編】「スマホで使える」サイトが生まれた日、そしてK君との再合流（最終回）](https://zenn.dev/shomitei/articles/alumni-spa-06-replace) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [kohya_ssに完了時に通知音（アルペジオ）を鳴らすコードを追加したお話](https://zenn.dev/neon_aiart/articles/bd815213f168f5) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [複数のAIコーディングエージェントが混在するリポジトリで、ルールをどう整備するか](https://zenn.dev/suit9/articles/4b67798c0b0df0) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [Copilot StudioでAIエージェント作成、書籍やYouTube紹介では簡単なのに、社内だと思うように使えない理由](https://zenn.dev/syoshida07/articles/f79c3ebc9e7412) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [営業ロープレを「AIが“顧客役”を演じる」形で作る ― 表情・感情・緊張度の可視化と、実装者が考えたこと](https://zenn.dev/deepai/articles/ai-eigyo-roleplay) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [AIに『今月分を集計して』と頼むと起きる2種類の日付ズレ](https://zenn.dev/ryu_it_engineer/articles/be3a5874e473f9) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [【AIエージェント比較実験】#7 AIエージェント6本に「どれが一番優秀か」を競作させたら、6本とも違う結論を出した](https://zenn.dev/pekopugu/articles/ai-agent-comparison-yomikurabe) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [初見コードを Claude Code で歩く──広く→狭くの読み解き手順](https://zenn.dev/stockdev_sho/articles/5e75048d2752a1) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [2026/07/02　人間と機械の中間地帯における動的適応アーキテクチャと品質管理の不在に関する総括対象](https://zenn.dev/tomy1noriyamame/articles/812847dfec2dec) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [バグと摩擦を仕組みで根絶する「Reflect」の技術と実践ガイド](https://zenn.dev/buddypia/articles/3edac22506369a) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [安いモデルが、二度と選ばれない ── AI に『正直な意見』を聞いたら学習系のデッドロックを白状され、その日のうちに失敗の定義を作り直した話](https://zenn.dev/satoh_y_0323/articles/e98658522364d5) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [Generative UIとそれを実現するOpenUIのイメージを掴む！](https://zenn.dev/peishim/articles/37ff4d894f8fbc) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [15-⑤[AI][Kaggle]Kaggle実践1 特徴量エンジニアリング(数値特徴量の非線形変換とビン化)](https://zenn.dev/rg687076/articles/zenn_20260703_2025_fare_log_and_age_binning) *(Zenn – トピック AI)*
+- [ ] 2026-07-03 [AIエージェント別の詳細ルールの重複を共通正本へ戻した設計判断](https://zenn.dev/harness/articles/ai-agent-rules-common-source-of-truth) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [自分のバックテストに『これは間違いだと証明しろ』とAIをけしかけたら、結論が半分ひっくり返った](https://zenn.dev/ikahan/articles/backtest-self-deception) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-03 [材料・化学データの特徴量設計——Pipeline によるデータリーク防止と Stability Selection](https://zenn.dev/efta1989/articles/feature-selection-leak-for-materials) *(Zenn – トピック 機械学習)*
