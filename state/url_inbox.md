@@ -103008,3 +103008,51 @@
 - [ ] 2026-07-04 [過学習は「特徴量を減らせば直る」——それ、嘘でした](https://zenn.dev/morimiso/articles/d811bd6cd5b11c) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-04 [TTS学習向けのGPUの選び方](https://zenn.dev/nnn112358/articles/gpu-for-tts-training) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-04 [生成AIに「SAM（Segment Anything）」を聞いてみた（クリックで任意の対象を切り抜く）](https://zenn.dev/tkpurine/articles/segment-anything-sam) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-05T08:34:31.933Z
+- [ ] 2026-07-04 [NHS to use AI on its app to direct patients to appropriate services](https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-04 [Doctors’ soaring use of AI scribes prompts Australian government warning over privacy](https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-05 [Nvidia Supplier Hon Hai Reports Surging Sales on Solid AI Demand](https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand) *(Bloomberg Technology)*
+- [ ] 2026-07-04 [China Issues Guide for Registering International Science Groups](https://www.bloomberg.com/news/articles/2026-07-04/china-issues-guide-for-registering-international-science-groups) *(Bloomberg Technology)*
+- [ ] 2026-07-04 [A 10-year sky survey begins filming a 'cosmic movie,' cyborg cockroaches go for a dive and more science stories](https://www.engadget.com/2207998/vera-c-rubin-observatory-begins-cyborg-cockroaches-nasa-clps-moon-base-missions/) *(Engadget)*
+- [ ] 2026-07-05 [マイクロン、AI需要で広島工場増強へ起工式　1.5兆円投資](https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html) *(ITmedia AI＋)*
+- [ ] 2026-07-05 [ウクライナ、サンクトペテルブルクの石油施設を攻撃　無人機で - 日本経済新聞](https://www.nikkei.com/article/DGXZQOCB042H30U6A700C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-05 [Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用](https://zenn.dev/yui/articles/740da24e9ee419) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-05 [【AIブームの“請求書”】ハイパースケーラー「空前の好業績」の死角…データセンターは高速陳腐化、巨額調達の代償 【小泉秀人の時事ネタ経済学】鉄道も光ファイバー網も投資家は大損、AIブームも二の舞に？ \| JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/articles/-/95730) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-05 [.env に API キーを書きたくないので 軽いCLI を作った](https://zenn.dev/trknhr/articles/42c20e11812217) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-05 [AIが稼いだお金から年間約16万円の給付金が受け取れる法案、提出される \| ギズモード・ジャパン](https://www.gizmodo.jp/article/bernie-sanders-new-ai-bill-would-pay-americans-1000-a-year/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-05 [バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと - Qiita](https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-05 [もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た \| Business Insider Japan](https://www.businessinsider.jp/article/2607-what-are-loops-ai-engineering-tips/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-05 [NECは即決、富士通は後に土下座、シャープは「10円やったらこうたるわ」…1978年、Microsoft BASICの営業で国内メーカーを回った西和彦氏が明かす各社の反応が濃すぎる](https://togetter.com/li/2717051) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [三重県、複数部署でＵＳＢメモリーから「マルウェア」検知…６０００個以上？あり調査継続中](https://www.yomiuri.co.jp/national/20260704-GYT1T00027/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話 - Qiita](https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [AI時代に生き残るのは、「賢い人」より「精神のマラソンができる人」 \| AIという車があっても、自分の足で走りたい](https://courrier.jp/news/archives/450760/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [カビゴンの息子 - 傘をひらいて、空を](https://kasasora.hatenablog.com/entry/2026/06/30/190000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [無料でインターネット経由でもローカルWi-Fiだけでも大容量ファイルをP2Pで直接転送できる「AlterSend」、アカウント不要・広告なし・スマホとPCに対応](https://gigazine.net/news/20260704-altersend/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [メールに業務時間の3割超　AIよりシンプル思考で時短 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUD198300Z10C26A6000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [Gea — Compiler-First Reactive UI](https://geajs.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [AlterSend — Private, unlimited file transfer](https://altersend.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [独立した複数のサーバーで動画を管理する分散型動画配信プラットフォーム「PeerTube」、ActivityPub対応＆サーバーを介さずP2Pで動画配信も可能](https://gigazine.net/news/20260703-peertube/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-04 [「Opusに単純作業をさせない」── フックでモデルを自動ルーティングするClaude Code運用と、その実測コスト](https://zenn.dev/oppo2357/articles/0d2babf96a207a) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [あなたのAI活用がうまくいかないのは、AIのせいではない──Obsidianを"外部脳"にするAI運用設計](https://zenn.dev/kimshoshi/articles/ai-external-brain-obsidian) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [Claude Fable 5復活で見えた、AIモデルを「ただのAPI」として扱えない時代](https://zenn.dev/kimshoshi/articles/claude-fable-return-ai-governance) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [Coding Agentで個人的に実際に楽になったこと15選](https://zenn.dev/hirayuki/articles/62b2092ae614be) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [AIに外部脳を持たせて1ヶ月運用した全記録](https://zenn.dev/nobu666/articles/ai-external-brain-digest) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [「最強AI」は国家に止められる。Fable 5規制とSonnet 5登場から見えた、Anthropicの生存戦略と開発者の現実解](https://zenn.dev/yuukikawabata/articles/anthropic-new-era-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [意味は境界でなく「程度」で揺らぐ — LLMで中観の無自性を測る](https://zenn.dev/40ki/articles/0ead3a2bbf777a) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [消したはずのフォルダを、AIが「修復しました」と直してくる — AIは環境の境界が見えない](https://zenn.dev/idonthaveapen/articles/ai-cannot-see-environment-boundaries) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [手を抜きたかっただけなのに、なぜか「偏向防止」にたどり着いた](https://zenn.dev/cognitiveosmdl/articles/4de52a0dd8be26) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [【CakePHPの学習 LOG-04】：メモアプリの実行確認と `/memos` の流れを追った記録](https://zenn.dev/como/articles/cakephp_day-04_local-run-and-memos-flow) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [AI エージェントを並列で回すと、詰まるのは CI でもレビューでもなく『並列 PR の衝突調整』だった](https://zenn.dev/veripsa/articles/ai-agent-pr-collision-content-free) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [Claude Code 権限モード完全ガイド【2026】｜6つのモードの違いと安全な自動承認の選び方](https://zenn.dev/joemike/articles/claude-code-permission-modes-bypass-to-auto-2026) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [画像生成AIの衝撃と、高まるコーディング人材の価値](https://zenn.dev/bentenweb_fumi/articles/agddy4vzndlm) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [遠距離カップルは、会えない時間の写真をどう残すか](https://zenn.dev/songlyricslab/articles/b7d207a57c78f7) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [SAIR IGP24 参戦記録: ランダム探索から構造的探索へ](https://zenn.dev/suii0x/articles/72ed6e33917d19) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [2023年10月からバイブコーディングで生みだしたものらを振り返る](https://zenn.dev/hurumoon/articles/c46b63de8a1a81) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [そもそも「AI」って、どのAIの話をしてます？](https://zenn.dev/continuitymodel/articles/28cf48c3a7825a) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [機械・AI・人間可読なBDD Example Mapping](https://zenn.dev/voidkyun/articles/b674103070009f) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [【AIエージェント比較実験】#6 Antigravity IDEにタスク管理アプリを作らせたらどうなったか](https://zenn.dev/pekopugu/articles/ai-agent-antigravity-ide-report) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [EU AI法 第50条 実装ガイド for エンジニア — チャットボット開示・C2PA・YouTubeまで動くコードで](https://zenn.dev/akagifreeez/books/eu-ai-act-art50) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [Claude Codeのtriggerリストを11日間育てた記録——8件の事故とAIガバナンスの実証](https://zenn.dev/tottoko_hamu/articles/2026-05-31-090000) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [AIで紐解くAI-DLC v2：成果物の流れ](https://zenn.dev/takeshishimada/articles/aidlc-v2-07-artifact-flow) *(Zenn – トピック AI)*
+- [ ] 2026-07-04 [SAIR Modular Arithmetic Challenge — Tier 3 の壁を学習モデルで攻める](https://zenn.dev/suii0x/articles/12bf152b5b1581) *(Zenn – トピック 機械学習)*
