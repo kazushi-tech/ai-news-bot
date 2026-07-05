@@ -103056,3 +103056,61 @@
 - [ ] 2026-07-04 [Claude Codeのtriggerリストを11日間育てた記録——8件の事故とAIガバナンスの実証](https://zenn.dev/tottoko_hamu/articles/2026-05-31-090000) *(Zenn – トピック AI)*
 - [ ] 2026-07-04 [AIで紐解くAI-DLC v2：成果物の流れ](https://zenn.dev/takeshishimada/articles/aidlc-v2-07-artifact-flow) *(Zenn – トピック AI)*
 - [ ] 2026-07-04 [SAIR Modular Arithmetic Challenge — Tier 3 の壁を学習モデルで攻める](https://zenn.dev/suii0x/articles/12bf152b5b1581) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-05T12:59:33.098Z
+- [ ] 2026-07-05 [Startup Exec Boasts About Using AI to Churn Out Sports Content”Without Human Input”](https://futurism.com/artificial-intelligence/ai-startup-sports-world-cup-video-slop) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-05 [Semiconductor Stocks Slide Amid AI Spending Concerns](https://www.bloomberg.com/news/videos/2026-07-05/semiconductor-stocks-slide-amid-ai-spending-concerns-video) *(Bloomberg Technology)*
+- [ ] 2026-07-05 [South Korea Eyes Growth Fund From Chip Tax Windfall, Yonhap Says](https://www.bloomberg.com/news/articles/2026-07-05/south-korea-eyes-growth-fund-from-chip-tax-windfall-yonhap-says) *(Bloomberg Technology)*
+- [ ] 2026-07-05 [India Tells Meta to Remove Child Abuse Content from Instagram](https://www.bloomberg.com/news/articles/2026-07-05/india-tells-meta-to-remove-child-abuse-content-from-instagram) *(Bloomberg Technology)*
+- [ ] 2026-07-05 [ClaudeのAPI費用が激減。システムプロンプトを「画像」として読ませる新ツールの仕組み \| XenoSpectrum](https://xenospectrum.com/pxpipe-claude-token-image-compression/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-05 [シンガポールのドンキで飛ぶように売れる　1パック2000円の「日本産イチゴ」を支える技術とビジネスモデルとは](https://www.itmedia.co.jp/business/articles/2607/03/news013.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-05 [システム思考の実践例だった「エンジニアリング戦略の作り方」を読んだ - 勘と経験と読経](https://agnozingdays.hatenablog.com/entry/2026/07/05/170000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [GitHub - Auto-Explore/GitComet: GitComet is fastest open source user interface for GIT workflows](https://github.com/Auto-Explore/GitComet) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [セキュリティインシデント体験ツール「ZANSIN」の構築方法と使ってみた感想 - NTT WEST Engineers' Blog](https://engineers.ntt-west.co.jp/entry/2026/06/17/093000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [Terraformモノリスを1週間で22分割 - 1,600リソースのAIリファクタリング](https://engineering.visional.inc/blog/771/terraform-state-splitting/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [LINE「プレミアムブロック」の衝撃](https://www.watch.impress.co.jp/docs/topic/watchplus/2122070.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [中国Z.ai、Claude Code型AI開発エージェント「ZCode」を展開　月18ドルから、GLM-5.2と連携 \| Ledge.ai](https://ledge.ai/articles/z_ai_zcode_glm_5_2_coding_agent) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-05 [「とりあえずLLMで工数削減して」の罠。既存プロジェクトのバイブコーディングで吐きそうになった話](https://zenn.dev/nice713/articles/llm-vibe-6ea745f1534fea) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [猫でもわかるループエンジニアリング](https://zenn.dev/karamage/articles/5b7fbabcb04da6) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [【予言】今後、IT業界はどう変わるか？](https://zenn.dev/pdfractal/articles/fe38d1b47cf7e6) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [壊れ方には家系がある — 6 モデル×修復器 3 世代の実測で tool call 修復の限界に触れた話](https://zenn.dev/zephel01/articles/a0eedde75cbf64) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [【敗北記録】農学部大学生がAIでアプリを作ろうとしたら、Googleの靴を舐めることになりました。](https://zenn.dev/hirose_suguru/articles/89ddb4a0ebb980) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [Leanstral 1.5で始めるCI証明ゲート：5バグ検出を3層で読む](https://zenn.dev/hironakamura_ai/articles/201c9ccb5fc8a5) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [外部接続と拡張性 ― MCP で他人のツールを自分のエージェントに足す【プロンプトで読み解くAIエージェント #8】](https://zenn.dev/nobmake/articles/88974e453cddf9) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [モデルを降格しても壊れない条件——「規律プロンプト」とコストの逆転を20タスクで実測した](https://zenn.dev/oppo2357/articles/b65f7bc51e21c7) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [Modelfileの使い方についてまとめてみた](https://zenn.dev/kazweda/articles/093dd95dc509c0) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [LLMに状態を持たせない — 個人AI OSの決定論ステートエンジン](https://zenn.dev/dkamehat/articles/llm-deterministic-state-engine) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [手書き日本語メモのOCR、Gemini構造化出力に落ち着くまで（年推測バグの話つき）](https://zenn.dev/hiroe28/articles/5819a99c00ba2c) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [AIのジェイルブレイクにCVSSを、Anthropicらが深刻度の共通指標を作り始めた](https://zenn.dev/okssusucha/articles/20260702-anthropic-jailbreak-severity-framework) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [AIにはコードではなくデータを渡せ——71%トークン削減の実測と通用しない6つの条件](https://zenn.dev/thegatebreaker/articles/5c27d10067a394) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [AIエージェント設計で「統制ゲート」を定義しないと何が起きるか——技術者が知っておくべき組織設計の原則](https://zenn.dev/jinfuroi/articles/36339479b06da5) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [Claude CCA-F 模擬試験の誤答あんちょこ](https://zenn.dev/yosukegatz/articles/b254f36f9fe26f) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 ["壊れた tool call はどこまで直せるか — 自作の修復器を定量ベンチにかけたら malformed で 14.3% だった話"](https://zenn.dev/zephel01/articles/c9c9e1b578775d) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [AIを部下にしたら、自作の知識UIが要らなくなった話](https://zenn.dev/mikan_919/articles/ai-subordinate-vault-view) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [開けるブラックボックスをつくる](https://zenn.dev/dx_junkyard/articles/f735bc8ec69a5a) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [AI に学ばせるな、読ませない経路を引け — 判定 AI を壊さない物理防御の設計](https://zenn.dev/cnative_tkb/articles/492b282c36a73a) *(Zenn – トピック LLM)*
+- [ ] 2026-07-04 [生成AIは「枠」を埋め尽くす 〜最後に残るのは、新しい枠をつくる力である〜](https://zenn.dev/dx_junkyard/articles/40548e135a8728) *(Zenn – トピック LLM)*
+- [ ] 2026-07-05 [消す仕組みは、最初からあった ── 30日TTLでも98KBに太った学習ストアと、「指摘された行だけ直す」の罠（C3 v2.45.0）](https://zenn.dev/satoh_y_0323/articles/e4880ffbbc9ed8) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [AIに賛成された5回中4回は会議が早く終わった ― Groupthink加速の4兆候](https://zenn.dev/kenimo49/articles/groupthink-ai-meeting-4-signals) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [AIエージェントは10倍速くしない。変わるのはボトルネックの場所だ](https://zenn.dev/thegatebreaker/articles/0fa735ec2b0719) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [AI時代に再考する、エンジニアとしての「働き方」とこれからの生存戦略](https://zenn.dev/natsuk75/articles/eb9005b98368b5) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [Claude × Obsidianを1ヶ月使ってみて『想定と違ったな』と思った3つのこと](https://zenn.dev/coj/articles/b43e4b1053e5f8) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [【n8n】入門編：問い合わせフォームをAIで自動仕分けしてDiscordに通知する](https://zenn.dev/sumumu26/articles/5b4f778bc17f6d) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [なぜエージェント向けウォレットはActionProvider/WalletProviderに落ち着くのか](https://zenn.dev/mqnsy/articles/2224f47c0f9e66) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [MCP のブラウザ操作で毎回ログインさせないために、agent-browser の persistent profile を試した](https://zenn.dev/53able/articles/675dd88faf809b) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [介護士がAIエンジニアを目指して、完全ローカルで動くRAGを作ってみた](https://zenn.dev/ossudesu/articles/2bcc789faa8725) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [電通大中退から医学部再受験へ：キャリアの意思決定をリスク分散として振り返る](https://zenn.dev/itoushiyou/articles/78796ace808d61) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [電通大を辞めて医学部を再受験した話](https://zenn.dev/itoushiyou/articles/d713eb1e463db4) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [harnessを整備しすぎたら、AIも俺もサボりだした話](https://zenn.dev/hrmtz/articles/over-provisioned-harness-slack) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [# Fable 5を分析したら、定額のOpusでもかなり再現できた話](https://zenn.dev/udowan/articles/d0056e01ff6986) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [【ゲーム開発の本質：AI時代の美しい設計】](https://zenn.dev/andu/articles/b132d3f69b4d57) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [Google AI Studio ビルドモードで Android アプリを実装してみた](https://zenn.dev/whshido/articles/f844ba8fc7edab) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [S3 Annotation を使って S3 Files によるエージェンティックサーチ基盤を改良する](https://zenn.dev/aws_japan/articles/bde726c3cd575b) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [Unityでメトロイドヴァニア作り＜敵のパターン作成＞](https://zenn.dev/reonaru/articles/1950625978c896) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [【第0回】なぜ「○○エンジニアリング」は次々生まれるのか](https://zenn.dev/monkey_gineer/articles/56485470f27110) *(Zenn – トピック AI)*
+- [ ] 2026-07-05 [「ノートブックでは動く」を卒業する ― 半導体不良予測モデルをAPI化・コンテナ化するまで](https://zenn.dev/yuya0408/articles/secom-defect-serving) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-05 [生成AIに「GFPGAN（顔復元）」を聞いてみた（なぜ一度かたむけてから直すのか）](https://zenn.dev/tkpurine/articles/gfpgan-face-restoration) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-05 [猫でもわかるFlow(正規化フロー) ― VITSを支える"F"(Flow)を図で理解する](https://zenn.dev/nnn112358/articles/flow-for-cats) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-05 [猫でもわかる音響モデル ― 音素をメルスペクトログラムに変える](https://zenn.dev/nnn112358/articles/acoustic-model-for-cats) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-05 [回帰で「小さく写る対象」だけ精度が出ない ― scale-imbalanced loss を log-radius で直す](https://zenn.dev/kiribako_dev/articles/coin-radius-scale-invariant-loss) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-05 [ドメインギャップだと思ったら自分のデータの画角だった ― fine-tune 3回の記録](https://zenn.dev/kiribako_dev/articles/coin-detection-domain-gap) *(Zenn – トピック 機械学習)*
