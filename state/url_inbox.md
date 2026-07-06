@@ -103267,3 +103267,57 @@
 - [ ] 2026-07-06 [【技術解説】クオンツ分析ライブラリ設定で未来を予測！LSTMによる時系列予測Python実装ガイド](https://zenn.dev/sugarfree/articles/e382afe382aae383b3e38384e58886e69e90e383a9e38) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-06 [バイアス・バリアンス トレードオフ — 汎化誤差を3つに分解する](https://zenn.dev/novaslover/articles/bias-variance-tradeoff-decomposition) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-05 [競馬AI開発記録 #21 ドメイン知識の注入とモデルの多層分離：識別能の限界突破に挑む](https://zenn.dev/ricotiler/articles/keiba-ai-21-race_rating_feature_engineering) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-06T14:48:10.798Z
+- [ ] 2026-07-06 [AI altering meaning of users’ drafts on issues from abortion to climate, study finds](https://www.theguardian.com/technology/2026/jul/06/ai-altering-meaning-of-users-drafts-on-issues-from-abortion-to-climate-study-finds) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-06 [AI surveillance is being supercharged – and it will chill social progress \| Bruce Schneier and Jon Penney](https://www.theguardian.com/commentisfree/2026/jul/06/ai-surveillance-policy) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-06 [Boost City regulator’s powers to help protect UK consumers from AI, says watchdog](https://www.theguardian.com/business/2026/jul/06/boost-city-regulators-powers-protect-uk-consumers-ai-cyber-crime-fraud-watchdog) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-06 [In our deep oceans, evolution is supercharged – this diversity of life could help unlock humanity’s greatest challenges](https://theconversation.com/in-our-deep-oceans-evolution-is-supercharged-this-diversity-of-life-could-help-unlock-humanitys-greatest-challenges-286818) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-07-06 [Gemini Spark App Connections Arrive Before Enterprise Controls](https://www.techrepublic.com/article/news-gemini-spark-app-integrations/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-06 [Anthropic Reportedly Eyes Samsung for Custom AI Chip](https://www.techrepublic.com/article/news-anthropic-samsung-custom-ai-chip/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-06 [Getting Started with Hugging Face ML Intern: Your First ML Agent](https://www.kdnuggets.com/getting-started-with-hugging-face-ml-intern-your-first-ml-agent) *(KDnuggets)*
+- [ ] 2026-07-06 [5 Ways Small Language Models Are Powering Next-Gen Agents](https://www.kdnuggets.com/5-ways-small-language-models-are-powering-next-gen-agents) *(KDnuggets)*
+- [ ] 2026-07-06 [Tech Stocks Rebound as Dip Buyers Pounce on Chip Pullback](https://www.bloomberg.com/news/articles/2026-07-06/tech-set-to-rebound-as-ai-leadership-faces-fresh-tests) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Microsoft’s Xbox to Cut 3,200 Jobs, Divest Five Studios in Major Overhaul](https://www.bloomberg.com/news/articles/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-divest-five-studios-in-major-overhaul) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Broadcom, Apple Extend Tie-Up to 2031 With New Custom Chips](https://www.bloomberg.com/news/articles/2026-07-06/broadcom-expands-work-for-apple-supplying-products-through-2031) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Microsoft’s Xbox to Cut 3,200 Jobs as Part of Massive Reorganization](https://www.bloomberg.com/news/videos/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-in-massive-reset-video) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [HSBC's Kettner Says `Melt-Up' Set to Boost Hyperscalers](https://www.bloomberg.com/news/videos/2026-07-06/hsbc-s-kettner-says-melt-up-set-to-boost-hyperscalers-video) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Memory Chipmaker SK Hynix Kicks Off $28 Billion US Listing](https://www.bloomberg.com/news/articles/2026-07-06/memory-chipmaker-sk-hynix-starts-marketing-us-listing) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Jobs Report Won't Sway Fed That Much, Berro Says](https://www.bloomberg.com/news/videos/2026-07-06/jpmorgan-s-kelsey-berro-sees-july-fed-rate-hike-unlikely-video) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Mike Wilson Sees Semiconductor Stocks Correcting](https://www.bloomberg.com/news/videos/2026-07-06/mike-wilson-sees-semiconductor-stocks-correcting-video) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Europe’s Equity Bankers Bet on Capex Wave to Ride Out IPO Slump](https://www.bloomberg.com/news/articles/2026-07-06/europe-s-equity-bankers-bet-on-capex-wave-to-ride-out-ipo-slump) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Reddit Is Cracking Down on AI Marketing Slop With Its Own AI](https://www.bloomberg.com/news/articles/2026-07-06/reddit-is-cracking-down-on-ai-marketing-slop-with-its-own-ai) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou](https://www.bloomberg.com/news/articles/2026-07-06/tencent-seeks-to-sell-up-to-1-6-billion-stake-in-kuaishou) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Brookfield’s Data Center Firm Csquare Seeks $1.35 Billion in IPO](https://www.bloomberg.com/news/articles/2026-07-06/brookfield-s-data-center-firm-csquare-seeks-1-35-billion-in-ipo) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Sony’s All-Digital PlayStation Strategy Doesn’t Sit Well With Gamers](https://www.bloomberg.com/news/newsletters/2026-07-06/sony-s-new-playstation-strategy-gets-gamer-backlash) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Ondas to Buy Autonomous Aircraft Maker DZYNE for $875.8 Million](https://www.bloomberg.com/news/articles/2026-07-06/ondas-to-buy-autonomous-aircraft-maker-dzyne-for-875-8-million) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Standard Bank Warns of Flight From Sovereign Debt as Safety Ebbs](https://www.bloomberg.com/news/articles/2026-07-06/standard-bank-warns-of-flight-from-sovereign-debt-as-safety-ebbs) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Ready for the Future, Ireland Is Also Vulnerable to It](https://www.bloomberg.com/news/newsletters/2026-07-06/ai-threatens-ireland-s-tech-jobs-as-us-big-tech-cuts-deepen) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [South Korea's SK Hynix, Samsung to Put AI Trade to the Test \| The Pulse 7/6/2026](https://www.bloomberg.com/news/videos/2026-07-06/the-pulse-7-6-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-07-06 [Xbox confirms plans to lay off 3,200 workers over the next year](https://www.engadget.com/2208480/xbox-confirms-plans-to-lay-off-3200-workers-over-the-next-year/) *(Engadget)*
+- [ ] 2026-07-06 [USB4 cables: When and why it's worth paying more](https://www.engadget.com/2207394/usb4-cables-when-why-pay-more/) *(Engadget)*
+- [ ] 2026-07-06 [Bentley teases the Torcal, its first electric vehicle](https://www.engadget.com/2208295/bentley-teases-the-torcal-its-first-electric-vehicle/) *(Engadget)*
+- [ ] 2026-07-06 [Comcast buys the UK's biggest commercial broadcaster, ITV](https://www.engadget.com/2208279/comcast-buys-the-uks-biggest-commercial-broadcaster-itv/) *(Engadget)*
+- [ ] 2026-07-06 [Alibaba gets a reprieve from US Chinese military ban](https://www.engadget.com/2208232/alibaba-gets-a-reprieve-from-us-chinese-military-ban/) *(Engadget)*
+- [ ] 2026-07-07 [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) *(Hugging Face Blog)*
+- [ ] 2026-07-06 [NTTドコモビジネスが分散GPUを素早く試す実証環境を提供、IOWN APNで接続](https://xtech.nikkei.com/atcl/nxt/news/24/03295/) *(日経クロステック IT)*
+- [ ] 2026-07-06 [パランティアCEOがOpenAIやAnthropicを批判　「AIモデルを強化するためのデータをなぜ顧客が渡すのか」](https://www.itmedia.co.jp/aiplus/article/2607/06/2000000161/) *(ITmedia AI＋)*
+- [ ] 2026-07-06 [富裕層の中には「AIに子どもの教育を任せる人」もいる](https://gigazine.net/news/20260706-rich-let-ai-teach-kids/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-06 [かつて成功したブログ100個のうち約半数はGoogleのAI導入などで検索トラフィックの85％以上を失った](https://gigazine.net/news/20260706-great-blog-collapse-google-ai/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-06 [提供が再開された「Claude Fable 5」の使いこなし術を解説した書籍が無料公開／Anthropic公式ガイドの日本語図解『Claude Fable 5 プロンプトエンジニアリングガイド』【Book Watch/ニュース】](https://forest.watch.impress.co.jp/docs/bookwatch/news/2122739.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-06 [生成AIのイラストって一周まわってジジババ臭いものになってない？→「AI絵は中高年が使うもの」という印象論は危ういが、露骨なマスピ絵への拒否感は世代間で違う？](https://togetter.com/li/2717551) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-06 [画像生成AIを開発するMidjourneyが係争中のハリウッドの映画スタジオに対してAIの利用状況の詳細を明らかにするよう要求](https://gigazine.net/news/20260706-midjourney-hollywood-studios-ai-usage/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-06 [NASにAIエージェントを統合すると、ユーザー体験はここまで変わる！　OpenClaw搭載のTerraMaster「F4-425 Pro」【イニシャルB】](https://internet.watch.impress.co.jp/docs/column/shimizu/2117621.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-06 [クレカ決済代行の全東信が破産、端末が使用不可に　負債は1259億円で今年最大──帝国データバンク](https://www.itmedia.co.jp/news/articles/2607/06/news127.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-06 [スマホゲーのKLab、防衛産業に参入　アラブで対ドローン防衛システム導入推進へ　提携先は「非開示」](https://www.itmedia.co.jp/news/articles/2607/06/news128.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-06 [令和8年度 応用情報技術者試験、高度試験及び情報処理安全確保支援士試験の申込受付期間及び試験実施期間について \| 試験情報 \| IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/shiken/2026/ap_koudo_sc_kikan.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-06 [mise + age で環境変数を暗号化する](https://blog.sh1ma.dev/articles/20260706_mise_age_encrypt_env/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-06 [XREAL、「AirPods Proと同じ重さ」のARグラス「xbx a01＋」。43980円](https://av.watch.impress.co.jp/docs/news/2122734.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-06 [FDEを名乗る会社が増えた。うちのFDEは、たぶんそのどれとも違う - ROXX開発者ブログ](https://techblog.roxx.co.jp/entry/2026/07/06/123901) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-06 [ギガファイル便で障害　暫定ドメインで一部復旧](https://www.itmedia.co.jp/news/articles/2607/06/news132.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-06 [[本日の一品]充電式ピクセルコンパスで令和のデジタルワールドを彷徨う](https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2100918.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-06 [KDDI、761万人分のパスワード漏洩を確認　企業向けメール基盤に攻撃 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC065ZL0W6A700C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-06 [メガネ以外にも便利 シチズンの超音波洗浄器【いつモノコト】](https://www.watch.impress.co.jp/docs/series/itsmo/2120723.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-06 [GitHub Changelog Digest (June 2026) - プププなテクブ](https://blog.inorinrinrin.com/entry/2026/07/06/205719) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-06 [AI用語の基礎知識 【第13回】「AIスロップ」とは――ネットにあふれる“それっぽい低品質コンテンツ”](https://ai.watch.impress.co.jp/docs/serial/glossary/2122362.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-06 [STT API 13種×12言語を独立ベンチマークした（生データ・コード全公開）](https://zenn.dev/koedesk/articles/stt-benchmark-13-engines-12-languages) *(Zenn – トピック AI)*
