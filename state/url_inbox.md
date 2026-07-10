@@ -105193,3 +105193,65 @@
 - [ ] 2026-07-09 [「決めるのは自分、整理してもらうのがAI」— インフラ設計判断の線引きを言語化する](https://zenn.dev/santassn1224/articles/10be4455c9aa68) *(Zenn – トピック AI)*
 - [ ] 2026-07-09 [なぜAIに丸投げしないのか ― 薄い仕様は平均的な出力に収束する｜Claude×Roblox個人開発](https://zenn.dev/fukachi_ai/articles/80c0f7df43a627) *(Zenn – トピック AI)*
 - [ ] 2026-07-10 [【技術解説】高頻度取引（HFT）を支える！PythonでAPIを使った低レイテンシトレーディングボットの構築](https://zenn.dev/sugarfree/articles/e9ab98e9a0bbe5baa6e58f96e5bc95efbc88hftefbc89) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-10T19:10:43.421Z
+- [ ] 2026-07-10 [Bank of England handed powers to regulate key tech firms including Amazon and Google](https://www.theguardian.com/business/2026/jul/10/bank-of-england-handed-powers-to-regulate-key-tech-firms-including-amazon-and-google) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-10 [People on X Are Getting Fooled by the Dumbest AI Slop We’ve Ever Seen](https://futurism.com/artificial-intelligence/world-cup-ai-slop-x-twitter) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-10 [The Logo for Donald Trump International Airport Appears to Be AI Slop](https://futurism.com/artificial-intelligence/trump-airport-logo-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-10 [New Dashboard Tool Lets You Monitor Claude Usage](https://aibusiness.com/generative-ai/new-dashboard-tool-lets-you-monitor-claude-usage) *(AI Business)*
+- [ ] 2026-07-10 [How GPT-5.6 Reflects the New AI Regulation](https://aibusiness.com/generative-ai/how-gpt-5-6-reflects-new-ai-regulation) *(AI Business)*
+- [ ] 2026-07-10 [Prompt: AI's Next Challenge Is Making Better Use of Compute](https://aibusiness.com/generative-ai/prompt-ai-s-next-challenge-making-better-use-compute) *(AI Business)*
+- [ ] 2026-07-10 [Fine-Tuning Explained for Noobs (How Pretrained Models Learn New Skills)](https://www.kdnuggets.com/fine-tuning-explained-for-noobs-how-pretrained-models-learn-new-skills) *(KDnuggets)*
+- [ ] 2026-07-10 [SK Hynix CEO Expects Memory Crunch to Last Into Next Decade](https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-chief-expects-memory-shortage-to-last-into-next-decade) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [SK Hynix Climbs 15% After Record $26.5 Billion US Offering](https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-indicated-to-climb-17-after-26-5-billion-adr-offering) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [SK Hynix Starts Trading on Nasdaq, Opens 14% Above Offer Price \| Bloomberg Tech 7/10/2026](https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-tech-7-10-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [Nasdaq President Sees SK Hynix Listing Growing Foreign IPO Pipeline](https://www.bloomberg.com/news/videos/2026-07-10/nasdaq-sees-sk-listing-growing-foreign-ipo-pipeline-video) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [SK Chairman Promises ‘Much, Much Bigger’ US Investment Plan](https://www.bloomberg.com/news/articles/2026-07-10/sk-chairman-says-he-has-much-much-bigger-us-investment-plan) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [SK Hynix ADRs Surge After Record $26.5 Billion US Offering](https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-adrs-surge-after-record-26-billion-us-offering-video) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [US Eases Export Curbs on UAE, Opening Door for AI Chip Sales](https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [SK Chairman Chey Tae-won on SK Hynix Debut, AI Demand and US Plans](https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-on-sk-hynix-debut-ai-demand-and-us-plans-video) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [Payment Firms Emerge as Target in Fight Against Illegal Casinos](https://www.bloomberg.com/news/articles/2026-07-10/egba-seeks-probe-of-walletto-over-unlicensed-gambling-payments) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [Thornburg's Di Zhou Sees Memory Supercycle](https://www.bloomberg.com/news/videos/2026-07-10/thornburg-s-di-zhou-sees-memory-supercycle-video) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [Delayed Xbox Layoffs Leave Employees Scared And Nervous](https://www.bloomberg.com/news/newsletters/2026-07-10/delayed-xbox-layoffs-leave-employees-scared-and-nervous) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [SK Chairman Says He Has 'Much, Much Bigger' Plans for US](https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-has-much-much-bigger-us-investment-plan-video) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [SK Chairman Says Company May Offer ‘Memory as a Service’](https://www.bloomberg.com/news/articles/2026-07-10/sk-chairman-says-company-may-offer-memory-as-a-service) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [SK Chairman Has 'Some Confidence' Demand Will Grow](https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-has-some-confidence-demand-will-grow-video) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [Government Action is Crucial for AI Entrepreneurs Says Pelgo CEO](https://www.bloomberg.com/news/videos/2026-07-10/gov-action-vital-for-ai-entrepreneurs-says-pelgo-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [AI Bust Fallout Would Be 'More Significant' Than Dot-Com, Says George Noble](https://www.bloomberg.com/news/videos/2026-07-10/ai-bust-would-be-worse-than-dot-com-bubble-says-noble-video) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [SK Chairman Calls SK Hynix US Debut a 'Dream Come True'](https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-calls-sk-hynix-us-debut-a-dream-come-true-video) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [Semiconductor Stocks Are Overbought, Morgan Stanley's Shalett Warns](https://www.bloomberg.com/news/videos/2026-07-10/semiconductor-stocks-are-overbought-lisa-shalett-warns-video) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [Morgan Stanley Sees Pressure Rising on Chipmakers’ Pricing Power](https://www.bloomberg.com/news/articles/2026-07-10/morgan-stanley-sees-pressure-rising-on-chipmakers-pricing-power) *(Bloomberg Technology)*
+- [ ] 2026-07-10 [Metal balls from space are popping up on Australia's beaches](https://www.engadget.com/2211639/metal-balls-space-junk-on-australia-beaches/) *(Engadget)*
+- [ ] 2026-07-10 [Netflix, Paramount, Sony and others are reportedly in talks to buy Letterboxd](https://www.engadget.com/2212484/netflix-paramount-sony-in-talks-to-buy-letterboxd/) *(Engadget)*
+- [ ] 2026-07-10 [Disney might be planning a free Disney+ tier](https://www.engadget.com/2212449/disney-might-be-planning-a-free-disney-plus-tier/) *(Engadget)*
+- [ ] 2026-07-10 [You can now easily find out if a game is compatible with the Steam Machine](https://www.engadget.com/2212386/how-to-find-steam-machine-game-compatibility/) *(Engadget)*
+- [ ] 2026-07-10 [Engadget Podcast: Xbox resets with layoffs](https://www.engadget.com/2212251/engadget-podcast-xbox-resets-with-layoffs/) *(Engadget)*
+- [ ] 2026-07-10 [AI開発への個人情報提供、同意不要に　改正法成立も企業手探り - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA098SD0Z00C26A7000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-10 [Googleが「LiteRT.js」をリリース、ブラウザ上のAI推論を既存ランタイム比で最大3倍高速に](https://gigazine.net/news/20260710-google-litert-js/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-10 [Metaの新AIツール「Muse Image」でインスタ投稿の画像生成を禁じる設定方法](https://japan.zdnet.com/article/35250421/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-10 [「Windows」PCにサードパーティー製ウイルス対策ソフトはまだ必要か](https://japan.zdnet.com/article/35250124/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-10 [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-10 [AWS Lambda MicroVMsでサーバレスにMinecraftを遊ぼう！](https://zenn.dev/tosuri13/articles/78e93272fc2038) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-10 [SREの積み重ねがAI駆動開発のガードレールになった ― 7つの実践/SRE Guardrails The 7](https://speakerdeck.com/tomoyakitaura/sre-guardrails-the-7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-10 [Metaが独自開発AI「Muse Spark 1.1」を発表、Claude Opus 4.8と同等のベンチマークスコア](https://gigazine.net/news/20260710-meta-muse-spark-1-1/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-10 [Cloudflare R2をMacOSのFinderから見られるようにしてみた](https://blog.sh1ma.dev/articles/20260710_1_cloudflare_r2_macos_finder/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-10 [なぜUnityのUIは書きづらいのか — Reactに学んで宣言的UIフレームワークを作った話](https://zenn.dev/s4k1/articles/6c29073680ff21) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-10 [フィルムと同じタイミングで記録できるデジタルカメラ　1回のシャッターでフィルム＋デジタル　制御はホットシューで](https://dc.watch.impress.co.jp/docs/news/2124137.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-10 [Generation-then-comprehension - kawasima](https://scrapbox.io/kawasima/Generation-then-comprehension) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-10 [田中貴金属、水素社会実現へ「国内最大」燃料電池発電システム稼働](https://eetimes.itmedia.co.jp/ee/articles/2607/09/news062.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-10 [Compalyze - 日本企業580万社の情報を、ひと検索で](https://compalyze.co.jp/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-09 [ユーザー役のLLMを変えたら、エージェントの性能差が消えた — τ²-benchで実測](https://zenn.dev/takkuhiro/articles/tau2-bench-user-simulator) *(Zenn – トピック LLM)*
+- [ ] 2026-07-10 [Loop Engineeringで失敗しないためのハーネス設計](https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering) *(Zenn – トピック AI)*
+- [ ] 2026-07-10 [Claude Code だけで Zenn 投稿パイプラインを整備した話](https://zenn.dev/box2box/articles/claude-code-zenn-pipeline) *(Zenn – トピック AI)*
+- [ ] 2026-07-10 [LIBERO標準ベンチマークでπ0 / π0.5 を再現してみた](https://zenn.dev/inrjin/articles/437a359e3ffcd7) *(Zenn – トピック AI)*
+- [ ] 2026-07-10 [【SALT2 エンジニアリング勉強会】AIコーディングで「動く」を「届ける」に変えるためのエンジニアリングの土台](https://zenn.dev/salt2/articles/salt2-ai-01836e68) *(Zenn – トピック AI)*
+- [ ] 2026-07-10 [無知な僕が好奇心だけでAIとタイピングゲームを作った話-速・打制作日記](https://zenn.dev/tenkaku_ux/articles/soda-typing-app) *(Zenn – トピック AI)*
+- [ ] 2026-07-10 [AIで紐解くAWS AI-DLC v2：センサー](https://zenn.dev/takeshishimada/articles/aidlc-v2-11-sensor) *(Zenn – トピック AI)*
+- [ ] 2026-07-10 [Codexの新モデルGPT-5.6を調べて分かった、Sol・Terra・Lunaとmax・ultraの選び方](https://zenn.dev/clopy/articles/codex-gpt-5-6-model-guide) *(Zenn – トピック AI)*
+- [ ] 2026-07-10 [Claude Code × Codex 最新モデルの特徴と使い分け（2026年7月版）](https://zenn.dev/nenene01/articles/model-guide-2026) *(Zenn – トピック AI)*
+- [ ] 2026-07-10 [1日54本のPRをマージした「並列agent codingコックピット」の作り方](https://zenn.dev/gvatech_blog/articles/1c20901b5aecde) *(Zenn – トピック AI)*
+- [ ] 2026-07-10 [トークンが足りなさ過ぎて、Windsurfを契約した話](https://zenn.dev/suzukihinata/articles/review-about-windsurf) *(Zenn – トピック AI)*
+- [ ] 2026-07-10 [広告動画作りで時間を使いすぎないために。AIを試して気づいたこと](https://zenn.dev/luong_gehling/articles/e215e4c3d81cf8) *(Zenn – トピック AI)*
+- [ ] 2026-07-10 [魔法の矢は無かった。静的解析のガードレールを3ヶ月回してみた](https://zenn.dev/backstage/articles/a497cce67208d4) *(Zenn – トピック AI)*
+- [ ] 2026-07-10 [みまもりカメラを用いた睡眠検知システムの構築](https://zenn.dev/nikomaru/articles/sleep-detect-by-cctv) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-10 [マルチモーダルデータで試すSnowflakeのFeature Store](https://zenn.dev/snowflakejp/articles/62d9a0b4aa950f) *(Zenn – トピック 機械学習)*
