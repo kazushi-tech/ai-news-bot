@@ -105359,3 +105359,37 @@
 - [ ] 2026-07-10 [Claude CodeとKaggle(Spaceship Titanic)を2日間解いてみた話](https://zenn.dev/ce_zakki/articles/8b0433a4a19ff8) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-10 [Train R²が高くても過学習している——学習曲線で何を診断するか](https://zenn.dev/efta1989/articles/learning-curve-diagnosis-for-materials) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-10 [金融データサイエンス基礎Part 7. リリースが終わりではありません：検証とガバナンス、モニタリング](https://zenn.dev/han901104/articles/6853971cbe86ba) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-11T18:39:38.771Z
+- [ ] 2026-07-11 [Famous “Pick Up Artist” Reduced to Hitting on AI Girlfriend](https://futurism.com/artificial-intelligence/pickup-artist-ai-girlfriend) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-11 [The AI Industry Has Finally Found the Perfect Customer: Bloodthirsty Terrorists](https://futurism.com/artificial-intelligence/ai-industry-terrorists) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-10 [Google AI Models Explained: Gemini, Veo, Nano Banana & More](https://www.techrepublic.com/article/news-google-ai-models-explained/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-11 [Apple Sues OpenAI Over AI Talent Fight](https://www.bloomberg.com/news/videos/2026-07-11/apple-sues-openai-over-ai-talent-fight-video) *(Bloomberg Technology)*
+- [ ] 2026-07-11 [OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple](https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple) *(Bloomberg Technology)*
+- [ ] 2026-07-11 [Philips offers free replacements after update bricked smart lighting hubs](https://www.engadget.com/2212954/philips-free-replacements-hue-bridge-pro-update-bricked-smart-lighting-hubs/) *(Engadget)*
+- [ ] 2026-07-11 [OpenAI's head of safety is reportedly leaving as part of company reorganization](https://www.engadget.com/2212941/openai-head-of-safety-leaving-company-reorganization/) *(Engadget)*
+- [ ] 2026-07-11 [Which USB port should you use for your mouse and keyboard?](https://www.engadget.com/2211086/which-usb-port-for-mouse-keyboard/) *(Engadget)*
+- [ ] 2026-07-11 [Engadget review recap: Steam Machine, Samsung Music Studio 7, Oura Ring 5 and more](https://www.engadget.com/2212709/engadget-review-recap-steam-machine-samsung-music-studio-7/) *(Engadget)*
+- [ ] 2026-07-11 [Your Samsung Gallery won't be able to sync with Microsoft OneDrive soon](https://www.engadget.com/2211948/samsung-gallery-no-longer-syncing-microsoft-onedrive-september-2026/) *(Engadget)*
+- [ ] 2026-07-11 [Bluesky has an official CEO again](https://www.engadget.com/2212928/bluesky-official-ceo-toni-schneider/) *(Engadget)*
+- [ ] 2026-07-11 [はてなの左右の極端な人、だいたい同じことしてる説](https://anond.hatelabo.jp/20260711211250) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-11 [「AI臭くない文章」を書かせることができる執筆エディタを作った｜なつ (生活者/デザイナー/リサーチャー)](https://note.com/art_reflection/n/n7ffd5ce3320c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-11 [[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました \| DevelopersIO](https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-11 [GitHub - yusukebe/ax: The AI-era curl](https://github.com/yusukebe/ax) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-11 [中学校の情報・技術系授業、最大週2コマに倍増　他教科から時間捻出 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUD07ABN0X00C26A7000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-11 [Emacs 31 Is Around the Corner: The Changes I'm Already Daily Driving \| Rahul's Blog](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-11 [GitHub - kepano/obsidian-skills: Agent skills for Obsidian](https://github.com/kepano/obsidian-skills) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-11 [LiteRT.js, Google's high performance Web AI Inference- Google Developers Blog](https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-11 [あなたの顔バレますよ──阪急電鉄が撮影時の注意喚起、理由は鏡面反射？](https://www.itmedia.co.jp/mobile/articles/2607/09/news108.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-10 [GPT-3.5に焦り、o1に震え、GPT-5に抜かれた。エンジニアが感想で振り返るGPT史](https://zenn.dev/nishiryo/articles/c7d2a94f31b84e0f9a6c5d18e2b7f403) *(Zenn – トピック LLM)*
+- [ ] 2026-07-10 [Fable 5×Sonnet 5の役割分担は単一モデルに勝てるのか？品質とコストを実測する](https://zenn.dev/livingston/articles/a4acbb0ca31b28) *(Zenn – トピック LLM)*
+- [ ] 2026-07-11 [Agnes AIが無制限無料！LLM×画像生成で知識漫画・インフォグラフィックを自動生成するOSSアプリ「AI画像スタジオ」徹底解説](https://zenn.dev/lumichy/articles/ai-image-studio-review-2026) *(Zenn – トピック AI)*
+- [ ] 2026-07-11 [なぜ、RAGの個人開発を公開することにしたのでしょうか](https://zenn.dev/kawasemi_jp/articles/why-i-started-kawasemi-rag-project) *(Zenn – トピック AI)*
+- [ ] 2026-07-11 [ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ](https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types) *(Zenn – トピック AI)*
+- [ ] 2026-07-11 [# 2週間前まで一行もコードを書けなかった留学生が、AIアプリを一人で作った話](https://zenn.dev/visionarydd/articles/b74ebb90cc9214) *(Zenn – トピック AI)*
+- [ ] 2026-07-11 [asc CLI で App Store Connect をターミナルと AI から操作する](https://zenn.dev/nogu66/articles/asc-cli-app-store-connect) *(Zenn – トピック AI)*
+- [ ] 2026-07-11 [なぜAIは同じミスを繰り返すのか — CLAUDE.mdだけに頼らず、効果を測ってClaude Codeを育てる](https://zenn.dev/398/books/claude-code-nido-sasenai) *(Zenn – トピック AI)*
+- [ ] 2026-07-11 [5年分のBacklogアクティビティから自分の人格を蒸留した件](https://zenn.dev/koedesk/articles/kondroid-distilling-personality-from-backlog) *(Zenn – トピック AI)*
+- [ ] 2026-07-11 [AIが暴走しない統治OS - 最終状態遷移を人間が握るという設計](https://zenn.dev/manahazime/articles/ai-governance-os-final-state-transition-20260711) *(Zenn – トピック AI)*
+- [ ] 2026-07-11 ["見積のうまさの正体は、値付けの数字ではなく「訊く順番」だった ── ベテランの問診をAIが写し、freeeの過去見積からたたき台まで組む"](https://zenn.dev/hiroshift/articles/bb66820f8ad337) *(Zenn – トピック AI)*
+- [ ] 2026-07-11 [型がついてるのに実体が違う。AIと開発するとよく騙される——という話をここに書きます](https://zenn.dev/miyoki_labs/articles/ccb58ecfe58059) *(Zenn – トピック AI)*
