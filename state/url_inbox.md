@@ -105393,3 +105393,105 @@
 - [ ] 2026-07-11 [AIが暴走しない統治OS - 最終状態遷移を人間が握るという設計](https://zenn.dev/manahazime/articles/ai-governance-os-final-state-transition-20260711) *(Zenn – トピック AI)*
 - [ ] 2026-07-11 ["見積のうまさの正体は、値付けの数字ではなく「訊く順番」だった ── ベテランの問診をAIが写し、freeeの過去見積からたたき台まで組む"](https://zenn.dev/hiroshift/articles/bb66820f8ad337) *(Zenn – トピック AI)*
 - [ ] 2026-07-11 [型がついてるのに実体が違う。AIと開発するとよく騙される——という話をここに書きます](https://zenn.dev/miyoki_labs/articles/ccb58ecfe58059) *(Zenn – トピック AI)*
+
+## Collected on 2026-07-12T18:43:20.477Z
+- [ ] 2026-07-11 [AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split](https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-12 [‘These are some of the most complex structures ever created’: how tech reporting moved into the physical world](https://www.theguardian.com/membership/2026/jul/12/tech-reporting-physical-world-ai-revolution-datacentres) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-12 [Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI](https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-12 [Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-07-12 [Meta Caught Running Ads for Child Abuse](https://futurism.com/future-society/meta-running-ads-child-abuse) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-12 [OpenAI Is Shutting Down Its Browser That Was Supposed to Change Everything](https://futurism.com/artificial-intelligence/openai-shutting-down-browser) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-12 [Journalist Alarmed When He’s Fired, But Company Keeps Posting AI Slop Under His Name](https://futurism.com/artificial-intelligence/fired-journalist-ai-posts-in-his-name) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-12 [Christopher Nolan Unloads on AI Slop](https://futurism.com/artificial-intelligence/christopher-nolan-ai-slop) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-12 [Grok Linked to Sickening Crime in Lawsuit That Puts SpaceX in Crosshairs](https://futurism.com/artificial-intelligence/grok-linked-sickening-crime) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-12 [Apple’s M6, M7 and M8 Chips Show How AI Is Reshaping the Company](https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro) *(Bloomberg Technology)*
+- [ ] 2026-07-12 [OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models](https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models) *(Bloomberg Technology)*
+- [ ] 2026-07-12 [Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All](https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all) *(Bloomberg Technology)*
+- [ ] 2026-07-12 [China EVs on Road Have Average Age of 1.8 Years, Newspaper Says](https://www.bloomberg.com/news/articles/2026-07-12/china-evs-average-1-8-years-on-road-less-than-cell-phones) *(Bloomberg Technology)*
+- [ ] 2026-07-12 [Xbox gamer wins lawsuit against Microsoft to restore account and digital library](https://www.engadget.com/2213111/xbox-gamer-wins-lawsuit-against-microsoft-to-restore-account-and-digital-library/) *(Engadget)*
+- [ ] 2026-07-12 [Why GameCube games are so expensive (and why they're rarely sold at retro stores)](https://www.engadget.com/2210424/why-gamecube-games-so-rarely-sold/) *(Engadget)*
+- [ ] 2026-07-12 [Refreshed Apple Pencils may arrive next year with improved repairability](https://www.engadget.com/2213077/refreshed-apple-pencils-may-arrive-next-year-with-improved-repairability/) *(Engadget)*
+- [ ] 2026-07-12 [Why Xiaomi phones aren't banned, but are rarely sold in the US](https://www.engadget.com/2210461/why-xiaomi-not-banned-rarely-sold-usa/) *(Engadget)*
+- [ ] 2026-07-12 [The correct way to position your router's antennas depends on your home](https://www.engadget.com/2210436/correct-way-to-position-router-antenna-depends-on-your-home/) *(Engadget)*
+- [ ] 2026-07-11 [Phoebe Gates' AI shopping app Phia reportedly claimed unearned affiliate sales through fake clicks](https://www.engadget.com/2212973/phoebe-gates-ai-shopping-app-phia-affiliate-sales-fake-clicks/) *(Engadget)*
+- [ ] 2026-07-11 [What is Eclipsa Video, and how does it compare to Dolby Vision and HDR10?](https://www.engadget.com/2209518/eclipsa-video-explained-dolby-vision-hdr10-comparison/) *(Engadget)*
+- [ ] 2026-07-12 [AIの思考っぽい「J空間」を可視化できる「Jレンズ」を触ってみた](https://gigazine.net/news/20260712-ai-j-space-jacobian-lens/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [アルゴリズムは何を圧縮しているのか ─ Haskell から育った「圧縮代数」というメンタルモデル](https://speakerdeck.com/naoya/compressed-algebra-with-haskell) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [前の客のATM暗証番号も丸見え…日本でも普及し始めた「スマートグラス」を使用してみた結果。“新型盗撮”に悪用の可能性も \| 日刊SPA!](https://nikkan-spa.jp/2172263) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [AI「Claude」を使って開発ツールの「Bun」の53万行のZigコード全てをRustへ書き換え、Zig作者もブログで反応](https://gigazine.net/news/20260712-bun-zig-rust/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [Anthropic、Claude内部に意識研究で提唱される「グローバルワークスペース」に似た構造を確認　表に出ない思考を可視化 \| Ledge.ai](https://ledge.ai/articles/anthropic_claude_global_workspace) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [小泉悠氏に聞く「ドローンが変えた戦争」～主力兵器化したドローンとウクライナ戦争をめぐる現状～｜調査情報デジタル](https://tbs-mri.com/n/n6ab44828e5f2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [量子論の父として著名な物理学者マックス・プランクが80年以上前に発表した論文がなぜか撤回されていたと判明](https://gigazine.net/news/20260712-max-planck-paper-retracted/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [情報漏洩に敏感な金融機関で、Claude・Gemini・ChatGPTを導入した話](https://zenn.dev/seiuchi3939/articles/b12d6746d9f187) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか](https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [社員のAI活用、報酬に反映　ホンダは選抜1000人に月最大15万円増 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC154EB0V10C26A6000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [会計事務所でクライアントの通帳やカード明細をひたすら弥生会計に入力するパートのおばさんが、AIで不要になると思う→「仕訳の精度が低い」「確認する仕事ができる」](https://togetter.com/li/2719544) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [Ghost Font: The Anti-AI Font Only Humans Can Read](https://www.mixfont.com/ghost-font) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [AI俳優、長編映画で主演に　雇用喪失への警戒で米ハリウッドは反発 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN08CNH0Y6A700C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [インスタ投稿画像が無断でAI生成素材に…　猛反発→3日で廃止（毎日新聞） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/61c52bdfea9e768753192a1c870e222da6d54609) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [メタ「インスタ」画像、無断でAI合成できる機能を停止　批判受け - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN111T80R10C26A7000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [ネットの虚数化について - メロンダウト](https://plagmaticjam.hatenablog.com/entry/2026/07/10/155232) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-12 [GitHub Actions の parallel でデプロイは8分→3分、CI はコスト3割減になった](https://zenn.dev/hatsu/articles/github-actions-steps-parallel) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [Otty — A fast, modern terminal](https://otty.sh/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [有名エンジニアの .claude/skills 公開ラッシュから学ぶ、良い Claude Code Skills の書き方｜テック太郎](https://note.com/ai_eng_tech/n/n1ef4d57df219) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [【PowerShell】5.1 でモダンなフォルダ選択ダイアログを実装する - Qiita](https://qiita.com/8_hisakichi_8/items/059a1ef74c77c5ac1495) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [セキュリティ研修【MIXI 25新卒技術研修】](https://speakerdeck.com/mixi_engineers/2025_new_grad_training_security_day1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [Microsoftアカウントをハッキングされ「これまでXBOXで購入したゲームはすべて再購入するように」とサポートから言われたゲーマーが怒りの訴訟＆勝訴](https://gigazine.net/news/20260712-gamer-wins-legal-battle-hacked-xbox-account/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [Terraform Actionを使ってみた。 命令的な操作をリソースのライフサイクルイベントに紐づけて実行できます \| DevelopersIO](https://dev.classmethod.jp/articles/terraform-actions/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [Git 2.55 の git history fixup で「過去のコミットへの入れ忘れ」を一発修正する - Qiita](https://qiita.com/P-SiZK/items/a067b0d96667f07b0e54) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [「視座を上げる」に悩むあなたへ。語れる主語を増やして「視点」を得るヒント - freee Developers Hub](https://developers.freee.co.jp/entry/elevate-perspective) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [CSに"SLO"は要らない、経営層に"99.9%"は伝わらない - SREを全社に"翻訳"する3原則](https://speakerdeck.com/cscengineer/translating-sre-for-the-whole-company) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [SRE NEXT 2026に参加しました｜maru](https://sizu.me/maruloop/posts/kiiwa97nez3u) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective](https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [Rust製の軽量ヘッドレスブラウザObscuraが良さげかも \| kawarimidoll.com](https://kawarimidoll.com/posts/202607112/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [経営者の『7月10日問題』 ～「ChatGPT」はどこまで士業に迫れるか【生成AIストリーム】](https://forest.watch.impress.co.jp/docs/serial/aistream/2123986.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [Markdownをpushするだけで社内資料PDFを常に最新に — WIF×Google Driveで鍵レス自動配信](https://zenn.dev/o2wsu9/articles/36dea065f5d73c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [【実験】AWS 東京と大阪を閉域で繋ぐ3つの方法、実際どれくらい速さが違うのか - Qiita](https://qiita.com/sh_fukatsu/items/541051be6cbd4a90f2a6) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [End-to-Endで考える信頼性 —�LINEアプリにおける�クライアント開発×SRE連携の実践](https://speakerdeck.com/maruloop/end-to-end-sre) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [型は壁、Rustでもバグを直すな、表現できなくせよ](https://speakerdeck.com/nwiizo/xing-habi-rustdemobaguwozhi-suna-biao-xian-dekinakuseyo) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [6.5年かかるコード解析を20時間で完了　4.6億行のレガシーコードに挑んだClaude活用術](https://www.itmedia.co.jp/enterprise/articles/2607/10/news042.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [司法も医師もペンなし試験　広がり始めたCBT、多面的に理解度測る - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC24AZG0U6A620C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [Ubuntu 26.10（Stonking）の開発; arm64の位置付け変更の振り返りとpollinateの廃止、upkiによる証明書失効確認 \| gihyo.jp](https://gihyo.jp/admin/clip/01/ubuntu-topics/202607/10) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [クリーンアーキテクチャを簡単に理解してみよう - NIFTY engineering](https://engineering.nifty.co.jp/blog/37405) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-12 [顧客のアプリを絶対に壊さないSDKラッパーの作り方](https://zenn.dev/argosvix/articles/5d4d6a80e4cb26) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [推しラジオ過去音源をナレッジグラフ的なWikiサイトにしてみた。](https://zenn.dev/arita/articles/2b14c666e6aa99) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [LiteRT.jsで始める、Web AIの往復コピーを減らす2つの設計](https://zenn.dev/hironakamura_ai/articles/160877f457ef43) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [品質のためのSDD － Mod.2 AIチャット －](https://zenn.dev/creator_haru/articles/def4428a01f8ae) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [コードが書けない私が、AIとの対話から開発手法「CGP」を作った話](https://zenn.dev/coregrowthlabs/articles/45966f6d57f0c2) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 ["誰と誰を組ませるかの答えは、どこにも書かれていない ── 人事の勘を変数にして、配置の衝突を計算するアプリ"](https://zenn.dev/hiroshift/articles/55302c4314a468) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [LLMの入出力を管理したくなったので主要ツールを比較(Langfuse/LangSmith/Helicone/Phoenix/Opik)](https://zenn.dev/minato_eng/articles/ccdf403570a390) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [LLMの思考ラグを隠蔽！ストリーミング×非同期カスケード処理で作る超低遅延AI対話システム](https://zenn.dev/aqwert/articles/3d86a322267a40) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [AIに丸投げで9〜13分、判断だけ任せて4分24秒 — 分業設計の3原則](https://zenn.dev/ai_worklab/articles/ai-agent-division-3-principles) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [GPT-Liveのすごさは「会話体験の自然さ」ではない—本命は推論の外部化という話](https://zenn.dev/nwn/articles/aa1d97af33bcc6) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [複数AIエージェントを並列で走らせる時代の、プロンプトインジェクション的事故の防ぎ方](https://zenn.dev/dstudylab/articles/multi-agent-safety-design) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [Token管理から考えるSkill構築の設計原則](https://zenn.dev/lockie2022/articles/token-efficient-skill-design) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [# Pythonで一意解保証のパズルを自動生成してWebサービスにした話（ノノグラム/ヌリカベ/カックロ/ピクセルアート）](https://zenn.dev/sorapenguin/articles/bb14a618d5edeb) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [LoRAはなぜ少ないパラメータで学習できるのか ― SVDで理解する現代AIの数学（第4回）](https://zenn.dev/schhrcat/articles/820b6812fb5b4c) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [ドラフトを1回で出すDFlash、EAGLE-3の逐次を捨てて6倍高速化](https://zenn.dev/okssusucha/articles/20260704-dflash-block-diffusion-speculative-decodi) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [Fable 5が消える前に、Sonnetに残したプロンプト3本](https://zenn.dev/ai_worklab/articles/fable5-sonnet-3-prompts) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [「トークン92%削減」は本当か? LLMコスト削減ツールHeadRoomを実測したら30%未満だった](https://zenn.dev/mskbhd/articles/lab-069-headroom) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [AI Agentのトークン制御：dir /s /bから学ぶコンテキスト管理](https://zenn.dev/lockie2022/articles/ai-agent-token-context-control) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [ACPの使い道——常駐アプリからClaude/Codexを駆動する](https://zenn.dev/moimoi/articles/zenn-acp-engawa) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [LLMエージェントって結局なに？「ただ答えるAI」との違いを初心者向けに整理する](https://zenn.dev/yushiyamamoto/articles/llm-agent-beginner-2026-07) *(Zenn – トピック LLM)*
+- [ ] 2026-07-12 [モデルが変わればプロンプトの正解も変わる：Claude Codeにプロンプト自動調整のしくみを組み込む](https://zenn.dev/su8/articles/996c50ae501275) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [UE5.8で増えたAIエージェント向けToolsetを使ってみた](https://zenn.dev/ue5pluginjp/articles/72340394a731d0) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [Claude Code 並列実行｜サブエージェント×git worktree入門](https://zenn.dev/appare/articles/jp-digest-20260709-claude-code-parallel-agents) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [生成AIはなぜPythonが使われているのか？仕組みを開発者目線で整理してみた](https://zenn.dev/shai/articles/d7777107fda089) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [Codex CLIでUnity MCPを使う方法とConnection revokedの原因](https://zenn.dev/saikoukiroku/articles/8234ed8d63457a) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [Claude Codeのrulesが全部常時ロードされてコンテキストを圧迫していた話](https://zenn.dev/o2wsu9/articles/aba0c9445f750d) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [AIプラットフォームのグラフ特殊化](https://zenn.dev/knowledge_graph/articles/ai-agent-graph-specialization) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [うちのclaude code（fable）がプロンプトインジェクションを受けたと言い始めて恐怖に恐れおののいた話](https://zenn.dev/chaos_gyoza/articles/d1003621c8e262) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [エージェントが個人情報を漏らす前に ── マシン全体 git hooks で作る漏洩ガード](https://zenn.dev/synforger/articles/guard-dispatcher-machine-wide-hooks) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [あなたのサーバーに住み着くAI「Hermes Agent」：記憶と自己進化のすべて](https://zenn.dev/yuta1995/articles/ai-agent-hermes-openclaw-claude) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [AIツールを増やす前に用途重複を検出するTypeScript設計](https://zenn.dev/kmn/articles/c82f77c8b95a18) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [Claude Codeのレートリミットがいつの間にか100%になる前にDiscordへ通知するツール作ってみた](https://zenn.dev/nkmak/articles/2fbc8b66934368) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [G検定を勉強していて「これは保険業務と同じ構造だ」と気づいた話](https://zenn.dev/aoi777/articles/c679a42bad1c15) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [作ったアプリに粗がある気がするからFable 5に相談した話](https://zenn.dev/kitepon/articles/ai-audit-blind-layer) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [AIバブルはいつ弾けるのかを可視化してみた](https://zenn.dev/thr3a/articles/1879a39fa97e27) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [OpenWikiでAI Agent用のドキュメントをメンテする](https://zenn.dev/haru_iida/articles/openwiki-agent-docs-maintenance) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [PoCは成功した。では、なぜ導入しなかったのか。](https://zenn.dev/field2ai/articles/8d67d5a531f33b) *(Zenn – トピック AI)*
+- [ ] 2026-07-12 [その「回収率120%」、前処理の正規化定数がリークしていませんか——20行でできる点検](https://zenn.dev/kensho_ya/articles/keiba-backtest-leak-check) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-12 [生成AIに「Inpainting（物体消去）」を聞いてみた（LaMaで塗って消す）](https://zenn.dev/tkpurine/articles/inpainting-lama-object-removal) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-12 [競馬AIはなぜ勝てないのか——リーク・確率較正・実配当バックテストの実務](https://zenn.dev/kensho_ya/books/keiba-ai-naze-katenai) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-11 [機械学習モデルは静かに古びる ― 半導体不良予測のドリフト監視と再学習の線引き](https://zenn.dev/yuya0408/articles/secom-defect-operations) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-11 [電気回路からはじめる機械学習・AI入門(生成AIに質問用)](https://zenn.dev/qwerewq/articles/c248a01a3500bd) *(Zenn – トピック 機械学習)*
