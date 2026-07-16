@@ -107900,3 +107900,70 @@
 - [ ] 2026-07-15 [バックテストに「摩擦」を実装する——約定モデルの作り方](https://zenn.dev/morimiso/articles/97f0ba52700f69) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-15 [WWDC26で出たCoreAIで３角形を描画した話（機械学習フレームワークでラスタライザ自作）](https://zenn.dev/kamisori_daijin/articles/501558fe755e09) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-15 [LLMに全部投げる前に：構造化データで古典MLを選ぶべき5つの判断基準（LightGBM vs GPT vs TabPFN）](https://zenn.dev/libercraft/articles/20260715-classic-ml-vs-llm) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-16T18:50:47.174Z
+- [ ] 2026-07-16 [Musk’s xAI sues user who allegedly used Grok to create child sexual abuse material](https://www.theguardian.com/technology/2026/jul/16/elon-musk-xai-sue-user-grok-csam) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-16 [Brain implant helps paralysed man to feed himself and drink from cup](https://www.theguardian.com/science/2026/jul/16/neural-bypass-brain-implant-paralysed-man-feed-himself-drink-from-cup) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-16 [Here’s Why Anthropic Is Pushing States to Regulate AI Faster](https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-07-16 [The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs](https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs) *(VentureBeat – AI)*
+- [ ] 2026-07-16 [The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix](https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix) *(VentureBeat – AI)*
+- [ ] 2026-07-16 [The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway](https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway) *(VentureBeat – AI)*
+- [ ] 2026-07-16 [Who owns an AI generated song? What we can learn from the phonograph and the evolution of copyright laws](https://theconversation.com/who-owns-an-ai-generated-song-what-we-can-learn-from-the-phonograph-and-the-evolution-of-copyright-laws-285537) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-07-16 [When can a power company take your land for data center infrastructure?](https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-07-16 [SpaceXAI Open-Sources Grok Build After Privacy Backlash](https://www.techrepublic.com/article/news-spacexai-grok-build-open-source-privacy/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-16 [OpenAI’s First Device Explained: Everything We Know About the Screenless AI Speaker](https://www.techrepublic.com/article/news-openai-screenless-ai-speaker-hardware-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-16 [Claude for Chrome Flaw Puts Gmail at Risk From Rogue Extensions](https://www.techrepublic.com/article/news-claude-chrome-flaw-rogue-extensions-gmail/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-16 [Working with Pi Coding Agents](https://www.kdnuggets.com/working-with-pi-coding-agents) *(KDnuggets)*
+- [ ] 2026-07-16 [Google Gemini Launch Delayed as Tech Falls Short of Internal Goals](https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals) *(Bloomberg Technology)*
+- [ ] 2026-07-16 [Oracle Risks Falling Behind in AI Race as Spending Binge Bites](https://www.bloomberg.com/news/articles/2026-07-16/oracle-risks-falling-behind-in-ai-race-as-spending-binge-bites) *(Bloomberg Technology)*
+- [ ] 2026-07-16 [GameStop CEO Says Physical Video-Game Sales Are ‘Irrelevant’ to Business](https://www.bloomberg.com/news/articles/2026-07-16/cohen-calls-physical-video-game-sales-irrelevant-to-gamestop) *(Bloomberg Technology)*
+- [ ] 2026-07-16 [Ryan Cohen Vows GameStop Will Pursue eBay Despite Offer Being Rebuffed](https://www.bloomberg.com/news/articles/2026-07-16/gamestop-ceo-ryan-cohen-is-coming-for-ebay-one-way-or-another) *(Bloomberg Technology)*
+- [ ] 2026-07-16 [Verizon Cuts Store Workers in Reorganization Strategy](https://www.bloomberg.com/news/articles/2026-07-16/verizon-cuts-store-workers-in-reorganization-strategy) *(Bloomberg Technology)*
+- [ ] 2026-07-16 [Palm Beach Rejects Data Center Near Trump’s Mar-a-Lago Club](https://www.bloomberg.com/news/articles/2026-07-16/palm-beach-strikes-down-data-center-plan-after-local-backlash) *(Bloomberg Technology)*
+- [ ] 2026-07-16 [Carney Taps General Dynamics for $1.4 Billion Canada Armored Vehicle Deal](https://www.bloomberg.com/news/articles/2026-07-16/carney-taps-general-dynamics-for-1-4-billion-canada-armored-vehicle-deal) *(Bloomberg Technology)*
+- [ ] 2026-07-16 [Visa Is Expanding Its Crypto Push With New Stablecoin Platform](https://www.bloomberg.com/news/articles/2026-07-16/visa-is-expanding-its-crypto-push-with-new-stablecoin-platform) *(Bloomberg Technology)*
+- [ ] 2026-07-16 [China-Led AI Body Enlists Global South States to Rival US](https://www.bloomberg.com/news/articles/2026-07-16/china-led-ai-body-enlists-global-south-states-to-rival-us) *(Bloomberg Technology)*
+- [ ] 2026-07-16 [Sea Drone Maker Saronic to Build New Shipyard in South Texas](https://www.bloomberg.com/news/articles/2026-07-16/sea-drone-maker-saronic-to-build-new-shipyard-in-south-texas) *(Bloomberg Technology)*
+- [ ] 2026-07-16 [Apple Nears Launch of OLED iPad Mini; New iPad Air and Base iPad in 2027](https://www.bloomberg.com/news/articles/2026-07-16/apple-nears-launch-of-oled-ipad-mini-new-ipad-air-and-base-ipad-in-2027) *(Bloomberg Technology)*
+- [ ] 2026-07-16 [Travel Agency Platform Fora Valued at $1 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-07-16/travel-agency-platform-fora-valued-at-1-billion-in-new-funding) *(Bloomberg Technology)*
+- [ ] 2026-07-16 [The AMD Ryzen 7 7700X3D chip is now available for $329](https://www.engadget.com/2216899/amd-ryzen-7-7700x3d-chip-now-available-for-329/) *(Engadget)*
+- [ ] 2026-07-16 [Don't lose sleep over reports of 260 Starlink satellites deorbiting](https://www.engadget.com/2212810/spacex-starlink-satellites-deorbit-reports/) *(Engadget)*
+- [ ] 2026-07-16 [Sonos brings tab navigation, speaker sorting and more to its app](https://www.engadget.com/2216827/sonos-app-update-tab-navigation-speaker-sorting-and-more/) *(Engadget)*
+- [ ] 2026-07-16 [Google AI Mode now integrates with Canva, YouTube Music and Instacart](https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/) *(Engadget)*
+- [ ] 2026-07-16 [An OLED iPad mini could finally arrive this year](https://www.engadget.com/2216688/an-oled-ipad-mini-could-finally-arrive-this-year/) *(Engadget)*
+- [ ] 2026-07-16 [Google's NotebookLM is now Gemini Notebook](https://www.engadget.com/2216473/google-notebooklm-is-now-gemini-notebook/) *(Engadget)*
+- [ ] 2026-07-16 [Suno brings its gen AI music gunk to iMessage](https://www.engadget.com/2216558/suno-brings-gen-ai-music-gunk-to-imessage/) *(Engadget)*
+- [ ] 2026-07-16 [Smart speakers could help OpenAI lose even more money](https://www.engadget.com/2216556/smart-speakers-could-help-openai-lose-even-more-money/) *(Engadget)*
+- [ ] 2026-07-16 [Ofcom, the UK's communications regulator, is investigating TikTok's child safety measures](https://www.engadget.com/2216550/ofcom-uk-communications-regulator-investigating-tiktok-child-safety-measures/) *(Engadget)*
+- [ ] 2026-07-16 [Why does wireless Android Auto use both Bluetooth and Wi-Fi?](https://www.engadget.com/2210415/why-wireless-android-auto-uses-both-bluetooth-wifi/) *(Engadget)*
+- [ ] 2026-07-16 [Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai) *(OpenAI News)*
+- [ ] 2026-07-16 [How Cars24 scales conversations and builds faster with OpenAI](https://openai.com/index/cars24) *(OpenAI News)*
+- [ ] 2026-07-16 [NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval](https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb) *(Hugging Face Blog)*
+- [ ] 2026-07-16 [フアンCEO「ジャパンAI構築はマストだ」　経産省、国産フィジカルAIで新プロジェクト　赤沢大臣も“革ジャン”羽織る](https://www.itmedia.co.jp/news/articles/2607/16/news107.html) *(ITmedia AI＋)*
+- [ ] 2026-07-16 [音楽生成AIの闇が流出ソースコードで発覚、「Suno」がYouTubeから大量収集](https://japan.cnet.com/article/35250676/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-16 [リファクタリングは「知識をコードベースに落とし込む」──XPの実践から考える、AI時代も変わらない原則 - Agile Journey](https://agilejourney.uzabase.com/entry/2026/07/16/103000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-16 [CloudFront VPCオリジン障害をInter-Region VPCピアリングで迂回してみた \| DevelopersIO](https://dev.classmethod.jp/articles/cloudfront-vpc-origin-failure-inter-region-vpc-peering-bypass/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [グーグルにまた訴訟、「Gemini」の著作権侵害で　大手出版社らが「無断利用」に怒り](https://japan.cnet.com/article/35250597/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [夏ボーナス初の100万円超え、AI追い風に5年連続最高　日経最終集計 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC102D30Q6A710C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [Ankerの充電器・モバイルバッテリーは信用できるのか？→× Ankerは信頼性がない ○ 信用はしていないが現状Anker以上に信用できるメーカーが存在しない ◎ 市役所の地図記号](https://togetter.com/li/2721244) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [PALIT、VRAM 12GB搭載のGeForce RTX 3060カード](https://pc.watch.impress.co.jp/docs/news/2125559.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った](https://zenn.dev/pepabo/articles/74653f4d78eb7b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [AWSのCDNサービスで大規模障害発生、各種ウェブサイトに接続しにくい状態が発生](https://gigazine.net/news/20260716-aws-cloudfront-down/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [PayPayで障害か　読み込めない状態に　公式サイトもダウン](https://www.itmedia.co.jp/news/articles/2607/16/news099.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [Kiro でテスト駆動開発（TDD）：こうあるべき体験 \| Amazon Web Services](https://aws.amazon.com/jp/blogs/news/kiro-how-tdd-should-feel/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [PayPayの障害はAWSが原因、決済は「オフライン支払いモード」を](https://k-tai.watch.impress.co.jp/docs/news/2125832.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [【Hothotレビュー】 ついに登場した「Ryzen 7 7700X3D」、低クロックでも光る圧倒的な高効率](https://pc.watch.impress.co.jp/docs/column/hothot/2125750.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [Type-Cポートを物理的にふさぐデータ盗難対策ツール、サンワサプライから](https://pc.watch.impress.co.jp/docs/news/2125659.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [シリーズも第2世代へ。2万円台のハイコスパスピーカー「EDIFIER MR4 MKII」はどんな音？【小寺信良の週刊 Electric Zooma!】](https://av.watch.impress.co.jp/docs/series/zooma/2125119.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [Apple WatchがEUのバッテリー交換規則の対象外に〜ユーザーによる交換不要へ - iPhone Mania](https://iphone-mania.jp/iwatch-603579/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-16 [話題の 1-bit LLM「Bonsai 27B」、英語なら評判通り、日本語ではポンコツ…](https://zenn.dev/orangewk/articles/bonsai-27b-1bit-japanese-eval) *(Zenn – トピック LLM)*
+- [ ] 2026-07-16 [[Claude Code × Codex]  CLIで部分的なオーケストレーションを作ってみた](https://zenn.dev/tukiyubi/articles/c66df7c4843bde) *(Zenn – トピック AI)*
+- [ ] 2026-07-16 [MCPとは何か？Microsoft Fabric Data Agentと接続して仕組みを理解する](https://zenn.dev/akkodis_jp/articles/890537b27d4fb0) *(Zenn – トピック AI)*
+- [ ] 2026-07-16 [AI エージェントに、安全に財布を持たせる — Steward × OpenPay セットアップガイド](https://zenn.dev/masia02/articles/4f69f828a8ea2e) *(Zenn – トピック AI)*
+- [ ] 2026-07-16 [The First Ransomware Attack Run Entirely By An AI Agent Just Happened](https://zenn.dev/neotechpark/articles/990b837a2ec982) *(Zenn – トピック AI)*
+- [ ] 2026-07-16 [Google UCPはエージェントコマースの何を標準化しているのか](https://zenn.dev/komlock_lab/articles/google-ucp-deep-dive) *(Zenn – トピック AI)*
+- [ ] 2026-07-16 [英語児童書の単語500語をAIに渡して全単語入りの別物語ができた📖](https://zenn.dev/ce_zakki/articles/38c20c5b3b43b8) *(Zenn – トピック AI)*
+- [ ] 2026-07-16 [研究論文を書くとき、引用まわりで少しラクになった話](https://zenn.dev/vincent_gay/articles/da34ff3f9f6312) *(Zenn – トピック AI)*
+- [ ] 2026-07-16 [タイトル：AIボイスオーバーで広告制作が劇的に楽になった話〜内容クリエイターの本音レビュー](https://zenn.dev/derek/articles/4a67d3de1f42f2) *(Zenn – トピック AI)*
+- [ ] 2026-07-16 [Claude FableがOpusへフォールバックした部分だけ、Codexを監督にしてやり直す](https://zenn.dev/lnest_knowledge/articles/d7a40a6fb11a6d) *(Zenn – トピック AI)*
+- [ ] 2026-07-16 [適格請求書のPDFをJSONにする — スキーマは「例」で定義する](https://zenn.dev/hidekimori/articles/3fa4808d32cd28) *(Zenn – トピック AI)*
