@@ -108577,3 +108577,66 @@
 - [ ] 2026-07-16 [音声認識の誤変換を辞書で直したら、検索エンジンと同じ2段構成になった](https://zenn.dev/tsukihi/articles/bce0ab37ef2b72) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-16 [R²だけ見ない——材料データの回帰評価と残差の読み方](https://zenn.dev/efta1989/articles/regression-residual-diagnostics-for-materials) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-16 [時系列基盤モデルをゼロショットで業務需要予測に当てる：TimeGPT・Chronos-2・TimesFMと古典手法を同条件で比較する](https://zenn.dev/libercraft/articles/20260716-time-series-foundation-models) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-18T07:21:26.195Z
+- [ ] 2026-07-17 [Hackers Expose How AI Music App Suno Stole Decades Worth of Copyrighted Music](https://futurism.com/artificial-intelligence/hacker-ai-music-suno-copyright) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-17 [Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates](https://aibusiness.com/robotics/nvidia-physical-ai-push-robotics-edge-ai-updates) *(AI Business)*
+- [ ] 2026-07-17 [Why OpenAI Is Selling a $70 ChatGPT Basketball](https://www.techrepublic.com/article/news-openai-chatgpt-basketball-merchandise/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-17 [Microsoft’s ‘Project Perception’ Could Challenge Anthropic’s Mythos in AI Security](https://www.techrepublic.com/article/news-microsoft-project-perception-ai-security-tool/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-17 [Moonshot AI Launches World’s Largest Open-Source Model](https://www.techrepublic.com/article/news-moonshot-ai-kimi-k3-largest-open-source-model-apac/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-17 [1Password Lets Claude Sign In Without Revealing Passwords](https://www.techrepublic.com/article/news-1password-claude-passwordless-sign-in-ai-agents/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-17 [Apple Reportedly Delays ‘Baltra’ AI Server Chip Amid Infrastructure Challenges](https://www.techrepublic.com/article/news-apple-baltra-ai-server-chip-delay-chip-acquisitions/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-17 [Hugging Face Says Autonomous AI System Executed Multi-Stage Cyberattack](https://www.techrepublic.com/article/news-hugging-face-ai-agent-cyberattack-production-systems/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-17 [TSMC’s $265B US Expansion: Four New Chip Fabs Planned](https://www.techrepublic.com/article/news-tsmc-us-investment-arizona-chip-fabs/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-17 [Uber’s $14.8B Delivery Hero Deal Expands Its Reach Across Europe, Asia](https://www.techrepublic.com/article/news-uber-delivery-hero-acquisition-food-delivery/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-18 [China Joins Rush to Rethink the Smartphone for the AI Era](https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era) *(Bloomberg Technology)*
+- [ ] 2026-07-18 [Apple Raises iPhone 17 Price by 10% in Japan as Yen Stays Weak](https://www.bloomberg.com/news/articles/2026-07-18/apple-raises-iphone-17-price-by-10-in-japan-as-yen-stays-weak) *(Bloomberg Technology)*
+- [ ] 2026-07-18 [China Dismisses Claim that It Illicitly Extracts Foreign AI Tech](https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech) *(Bloomberg Technology)*
+- [ ] 2026-07-17 [IPhone Hacking Firm Sues Ex-Worker Over Alleged Theft of Secrets](https://www.bloomberg.com/news/articles/2026-07-17/iphone-hacking-firm-sues-ex-worker-over-alleged-theft-of-secrets) *(Bloomberg Technology)*
+- [ ] 2026-07-17 [SpaceX in Talks to Sell Computing Power to Pentagon, WSJ Says](https://www.bloomberg.com/news/articles/2026-07-17/spacex-in-talks-to-sell-computing-power-to-pentagon-wsj-says) *(Bloomberg Technology)*
+- [ ] 2026-07-17 [There's now an API for mainlining Trump's Truth Social posts](https://www.engadget.com/2217943/there-s-now-an-api-for-mainlining-trump-s-truth-social-posts/) *(Engadget)*
+- [ ] 2026-07-17 [Meta is reportedly considering a multibillion-dollar data center deal with Anthropic](https://www.engadget.com/2217904/meta-is-reportedly-considering-a-multibillion-dollar-data-center-deal-with-anthropic/) *(Engadget)*
+- [ ] 2026-07-17 [Zoox issues software recall because its robotaxis may be confused by smoke](https://www.engadget.com/2217803/zoox-issues-software-recall-because-its-robotaxis-may-be-confused-by-smoke/) *(Engadget)*
+- [ ] 2026-07-17 [The Odyssey in IMAX is worth a long journey of your own](https://www.engadget.com/2217775/the-odyssey-in-imax-is-worth-a-long-journey-of-your-own/) *(Engadget)*
+- [ ] 2026-07-18 [「Claude Fable 5」サブスクに統合　Max・Team Premiumプラン対象](https://www.itmedia.co.jp/news/articles/2607/18/news019.html) *(ITmedia AI＋)*
+- [ ] 2026-07-18 [最近の AI コーディングで実践している、設計を中心とした開発の進め方](https://azukiazusa.dev/blog/recent-ai-coding-development-process-centered-on-design/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-18 [中国AI・Kimiの衝撃、米専門家「アンソロピック最新型と僅差」 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-18 [保護者や子供の悩み相談に生成AIを活用　茨城・つくば市、緊急性が高いケースは有人対応](https://www.sankei.com/article/20260714-NEAR5OMD5JJ33EXLMCCFIYPXLU/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-18 [AIエージェントのためのDocker Sandboxes実践入門 - Qiita](https://qiita.com/minamijoyo/items/854ce04da1490b43a848) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-18 [GPT-5.6がファイルを勝手に削除したという報告多数、OpenAIはサンドボックスなしのフルアクセスモードで発生することが最も多いと指摘](https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-18 [数学難問ABC予想、望月新一教授の証明の問題点「絞り込めた」　ZEN大学 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOSG1743L0X10C26A7000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-18 [SQL MCP Server が GA したらしい](https://zenn.dev/microsoft/articles/1113250e1e63dc) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-18 [https://x.com/oikon48/status/2077932711411679404](https://x.com/oikon48/status/2077932711411679404) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-18 [「青黒 vs. 白金」ドレス論争、数学で解明か？　人もAIも欺くあの写真、共通の“カラクリ”とは【研究紹介】 - レバテックLAB](https://levtech.jp/media/detail_895/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-18 [Claude Codeで非エンジニアも開発 - グッドパッチが全社導入で得た成果とは](https://news.mynavi.jp/techplus/article/20260717-4708898/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-18 [ボーイスカウトルールでメモリやスキルを改善しよう](https://speakerdeck.com/azukiazusa1/boisukautorurudememoriyasukiruwogai-shan-siyou) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-18 [「Apple Music」と「Apple One」、日本を含む世界で値上げ](https://www.itmedia.co.jp/news/articles/2607/18/news017.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [トランプ氏、米選挙システムに「衝撃的な脆弱性」あると主張　中間選挙を控え - BBCニュース](https://www.bbc.com/japanese/articles/c9q9gzr7e4do) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [最近はAIで参考を作ってデザイナーに渡すが、デザイナーが「ここからどうデザインしろと？」となってしまい、結果的に相当細かく指示してあげないといけなくなる→デザイナー側の引っ掛かりポイントはどこにあるのか](https://togetter.com/li/2721800) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [[アップデート]Amazon GuardDutyが漏洩したAmazon ECS認証情報の不正利用を検出できるようになりました \| DevelopersIO](https://dev.classmethod.jp/articles/amazon-guardduty-resource-credential-exfiltration-ecs/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [DELETE したはずの行が SELECT で返り続ける ときに何を疑うか](https://zenn.dev/dress_code/articles/15659114e7f21c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [アップル、iPhoneを一斉値上げ　Watch・AirPodsも](https://www.itmedia.co.jp/news/articles/2607/18/news014.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [仕組みと仕様 - ブックマーカー図鑑](https://bookmarker-encyclopedia.netlify.app/how-it-works/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [70歳を超えてなお、OSS活動に情熱を注ぐ。「生涯現役」でコードを書き続ける意義とは？ - Findy Media](https://findy-code.io/media/articles/interview-tatsuo-ishii) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [Macでネコが飼えると人気の「RunCat」に次世代版、「Claude Code」利用枠もチェックできる／Windows向け「RunCat 365」でも対応してほしいです【やじうまの杜】](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2126056.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [How Our Rust-to-Zig Rewrite is Going](https://rtfeldman.com/rust-to-zig) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [アサヒグループHD、新たに取引先の役員や従業員などの個人情報約37.8万件を「漏えいのおそれがある個人情報」として発表](https://internet.watch.impress.co.jp/docs/news/2126189.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [PCゲームのArm版Windows対応がさらに進むか？ セガが「NVIDIA RTX Spark」に新作ゲームを提供](https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2125889.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [AppleがiPhoneを突如値上げ　17eは10万円から…Pro Maxは21万円超え　WatchもAirPodsも打撃　中古スマホ特需が加速（ITmedia Mobile） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/cf2cdca7a793ef97d1ac10e39e74288759fbd0e2) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [第919回　Ubuntu 26.04 LTSとsbuildで始めるパッケージビルド生活 \| gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0919) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-18 [従業員が在職中に無断で別会社を設立、勤め先と関係があるように見せかけ他社と契約　GMO系](https://www.itmedia.co.jp/news/articles/2607/17/news116.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-17 [Claudeに動画を「見せる」OSSを作った話 — タイムラプス誤認は物理で解決した](https://zenn.dev/leoaido/articles/12bdac9625b074) *(Zenn – トピック LLM)*
+- [ ] 2026-07-17 [MacでローカルLLMを自律エージェント化する:Ollama + Hermes Agent](https://zenn.dev/ftkrj12/articles/26a414fc5fdbd9) *(Zenn – トピック LLM)*
+- [ ] 2026-07-17 [クレジットカード不要で使える無料LLM APIプロバイダまとめ（2026年版）](https://zenn.dev/orca_forge/articles/free-llm-api-providers-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-07-17 [コンシューマー機2台をRPCでつないで96GB相当のVRAMを作り、6つのオープンLLMを実測してみた](https://zenn.dev/faliye/articles/d1aac4189db9cd) *(Zenn – トピック LLM)*
+- [ ] 2026-07-17 [RAGの精度評価で最初に見つかったのは、モデルの差ではなく「ものさし」のバグだった](https://zenn.dev/nd3/articles/rag-eval-embedding-comparison) *(Zenn – トピック LLM)*
+- [ ] 2026-07-17 [Ryzen AI 9 HX 370でローカルLLMのメモリを取り戻す ― UMA Frame Buffer最小設定でシステムが落ちた話](https://zenn.dev/truesunrise/articles/uma-framebuffer-vram-tuning) *(Zenn – トピック LLM)*
+- [ ] 2026-07-17 [スマホで使えるAIアプリおすすめ7選+通信量とプラン設計【2026年】](https://zenn.dev/mameresearcher/articles/ai-mobile-app-recommend) *(Zenn – トピック AI)*
+- [ ] 2026-07-17 [チェックリストは満たしたが、目的は達成していなかった](https://zenn.dev/thegatebreaker/articles/checklist_vs_purpose_pitfall) *(Zenn – トピック AI)*
+- [ ] 2026-07-17 [ローカルLLM study1-a: gemma4:e2b/e4bのMLX版はどれだけ速いか](https://zenn.dev/tkpurine/articles/local-llm-study-001a-gemma4-mlx) *(Zenn – トピック AI)*
+- [ ] 2026-07-17 [人類の知識蓄積の単位は「文章」から「実行可能な作業単位」へ移行するのではないか？](https://zenn.dev/h1deya/articles/future-of-human-knowledge-accumulation) *(Zenn – トピック AI)*
+- [ ] 2026-07-17 [音声練習の言い淀み計測、書き起こしがフィラーを消す理由と防ぐ運用](https://zenn.dev/every_ai_recipe/articles/voice-practice-filler-word-tracking) *(Zenn – トピック AI)*
+- [ ] 2026-07-17 [ローカルLLM環境の構築をClaude Codeに丸ごとやらせたら、思ったより自分で考えて作っていた話](https://zenn.dev/ningyoshi/articles/02-claude-code-built-local-llm) *(Zenn – トピック AI)*
+- [ ] 2026-07-17 [Cursor → 170GB 消失｜事故から生まれた安全プロトコル「WRF Deck」](https://zenn.dev/1g10k/articles/15e076f59f1606) *(Zenn – トピック AI)*
+- [ ] 2026-07-17 [なぜ、AI時代のIT業界の採用は昭和的新卒一括に限るのか？](https://zenn.dev/pdfractal/articles/03594e46465759) *(Zenn – トピック AI)*
+- [ ] 2026-07-17 [機械学習を正しく始めるための欧米技術書5選](https://zenn.dev/koukyo/articles/20260716_ml_intro_western_books_5) *(Zenn – トピック 機械学習)*
