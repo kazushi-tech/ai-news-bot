@@ -110124,3 +110124,88 @@
 - [ ] 2026-07-21 [WSL2のCドライブ圧迫、消したはずのファイル分が戻ってこない理由と対処](https://zenn.dev/map_universe/articles/wsl2-vhdx-compact-20260721) *(Zenn – トピック AI)*
 - [ ] 2026-07-21 [課題研究](https://zenn.dev/core315185/articles/7c858d726e4ab5) *(Zenn – トピック AI)*
 - [ ] 2026-07-21 [生成AIパスポートとは？出題範囲や勉強方法、メリットを解説](https://zenn.dev/1stscratch/articles/3a1edd77e023da) *(Zenn – トピック AI)*
+
+## Collected on 2026-07-22T01:13:35.318Z
+- [ ] 2026-07-21 [OpenAI Models Escaped Containment and Hacked Hugging Face](https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-07-21 [This Former Intel CEO Wants to Jumpstart Moore’s Law With Light](https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-07-21 [Frontier AI Is Faceplanting at Real-World Workplace Tasks](https://futurism.com/artificial-intelligence/frontier-ai-faceplanting-real-world-tasks) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-21 [New Gemini 3.5 Flash Models Are Faster and Cheaper but Not Smarter](https://aibusiness.com/generative-ai/new-gemini-3-5-flash-models-are-faster-cheaper-not-smarter) *(AI Business)*
+- [ ] 2026-07-21 [Google Bets Water Stewardship Can Ease AI Data Center Concerns](https://www.techrepublic.com/article/news-google-water-stewardship-ai-data-centers/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-21 [YouTube Tightens Monetization Rules for AI-Generated and Low-Quality Content](https://www.techrepublic.com/article/news-youtube-ai-video-monetization-rules/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-21 [OpenAI Says Its AI Models Breached Startup Hugging Face’s System](https://www.bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach) *(Bloomberg Technology)*
+- [ ] 2026-07-21 [Newborn Town Targets Global Viewers With AI-Made Short Dramas](https://www.bloomberg.com/news/articles/2026-07-21/newborn-town-targets-global-viewers-with-ai-made-short-dramas) *(Bloomberg Technology)*
+- [ ] 2026-07-21 [Robinhood Prediction Market Revenue to Top Crypto: Analysts](https://www.bloomberg.com/news/articles/2026-07-21/robinhood-prediction-market-revenue-to-top-crypto-analysts-say) *(Bloomberg Technology)*
+- [ ] 2026-07-21 [Nintendo Scores Hit With Tomodachi Life as Gamers Seek Escape With Life Sims](https://www.bloomberg.com/news/articles/2026-07-21/nintendo-scores-hit-with-tomodachi-life-as-gamers-seek-escape-with-life-sims) *(Bloomberg Technology)*
+- [ ] 2026-07-21 [Super Micro Jumps After Early Results Show Rising Backlog](https://www.bloomberg.com/news/articles/2026-07-21/super-micro-jumps-after-preliminary-outlook-shows-rising-backlog) *(Bloomberg Technology)*
+- [ ] 2026-07-21 [OpenAI Names BNY, Nubank CEOs to Board Ahead of IPO](https://www.bloomberg.com/news/articles/2026-07-21/openai-names-bny-nubank-ceos-to-board-ahead-of-ipo) *(Bloomberg Technology)*
+- [ ] 2026-07-20 [France Passes Bill to Ban Social Media for Children Under 15](https://www.bloomberg.com/news/articles/2026-07-20/french-lawmakers-clear-way-for-social-media-age-limit-afp-says) *(Bloomberg Technology)*
+- [ ] 2026-07-21 [France will ban social media for children under 15](https://www.engadget.com/2220289/france-will-ban-social-media-for-children-under-15/) *(Engadget)*
+- [ ] 2026-07-21 [2026 LG OLED evo TVs are getting a new Creator Original picture mode](https://www.engadget.com/2220242/2026-lg-oled-evo-tvs-are-getting-a-new-creator-original-picture-mode/) *(Engadget)*
+- [ ] 2026-07-21 [OpenAI and Hugging Face partner to address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident) *(OpenAI News)*
+- [ ] 2026-07-21 [David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC](https://openai.com/index/david-velez-robin-vince-join-openai-boards) *(OpenAI News)*
+- [ ] 2026-07-21 [The State of Simulation for Physical AI: An Overview](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai) *(Hugging Face Blog)*
+- [ ] 2026-07-22 [API基盤と子会社　モダナイ促進に重心](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/071300561/071300004/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [AI戦略にも違い　基盤構築とデータ分散](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/071300561/071300003/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [Suicaが軸のJR東　JR西は価値循環](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/071300561/071300002/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [中国がスパコンで首位奪回　独自CPUだけでエクサの壁超え](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/071300224/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [FDEに関する意識調査　72％のエンジニアは「需要増加」](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600010/071300229/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [「Kimi」の中国企業が大型調達](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/071300033/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [リアルの強みを生かす　「非鉄道」事業拡大へ](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/071300561/071300001/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [システム性能が政策決定に制約　「給付付き税額控除」阻む一因に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/092400133/071400199/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [AIエージェントによる「ランサムウエア攻撃」出現、侵入から脅迫まで全自動](https://xtech.nikkei.com/atcl/nxt/column/18/00676/071100229/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [社内の暗黙知をノウハウ集で共有、AIでさらに探しやすく](https://xtech.nikkei.com/atcl/nxt/column/18/03684/071000002/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [発火事故が多いリチウムイオン電池、「燃焼の3要素」が内部でそろう危険性](https://xtech.nikkei.com/atcl/nxt/column/18/03665/062500002/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [「SNMP」でネットワーク機器を監視、状態を集めて異常を検知する仕組み](https://xtech.nikkei.com/atcl/nxt/column/18/01842/061700114/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [「Checker Plus」でGoogleカレンダーを操作、右クリックで予定も即登録](https://xtech.nikkei.com/atcl/nxt/column/18/03642/061000007/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [「残念なセキュリティー」を招く要件定義の落とし穴、3大パターンを紹介](https://xtech.nikkei.com/atcl/nxt/column/18/03679/070800001/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [日本IBMがAI駆動開発に本腰、みずほFGと「工数3割減」実証](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11904/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [会社指定の夏休みに不満、有給休暇を自由に使いたいITエンジニア](https://xtech.nikkei.com/atcl/nxt/column/18/00084/00434/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [「AIで営業職は消える」予測と真逆の現象　増員に動く企業続出のワケ](https://xtech.nikkei.com/atcl/nxt/column/18/03604/072100012/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [データセンターでリチウムイオン蓄電池が急増、政府が規制の矛盾解消を検討](https://xtech.nikkei.com/atcl/nxt/column/18/03694/071800002/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [Teamsで「Viva Engage」、SNSのように社内で交流　投稿や参加を確認](https://xtech.nikkei.com/atcl/nxt/column/18/01787/071700225/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [NVIDIA、AI半導体で全方位戦略　次世代メモリーや光電融合も](https://xtech.nikkei.com/atcl/nxt/column/18/03640/071500005/) *(日経クロステック IT)*
+- [ ] 2026-07-22 [AIを悪用した攻撃、どう対抗する？　EDR導入の“次”にやるべきこと](https://www.itmedia.co.jp/enterprise/articles/2607/22/news025.html) *(ITmedia AI＋)*
+- [ ] 2026-07-22 [ジャック・ドーシー氏率いるBlock、AI協働プラットフォーム「Buzz」公開　SlackやGitHub依存からの脱却目指し](https://www.itmedia.co.jp/news/articles/2607/22/news058.html) *(ITmedia AI＋)*
+- [ ] 2026-07-22 [PTC、「Onshape」にAI機能を先行提供　早期アクセスプログラムを開始](https://monoist.itmedia.co.jp/mn/articles/2607/22/news021.html) *(ITmedia AI＋)*
+- [ ] 2026-07-21 [画面操作を録画→AIが作業代行　Claude新機能「Record a skill」　Codex対抗か](https://www.itmedia.co.jp/aiplus/article/2607/22/2000000213/) *(ITmedia AI＋)*
+- [ ] 2026-07-21 [富士通・NVIDIAとロボット大手3社が協業へ　フィジカルAI社会実装の具体策は？](https://www.itmedia.co.jp/enterprise/articles/2607/21/news043.html) *(ITmedia AI＋)*
+- [ ] 2026-07-21 [OpenAI会長、米国フロンティアモデルの優位性を強調　「オープンモデルは必ずしも安くない」](https://www.itmedia.co.jp/aiplus/article/2607/22/2000000211/) *(ITmedia AI＋)*
+- [ ] 2026-07-21 [Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入](https://www.itmedia.co.jp/news/articles/2607/22/news056.html) *(ITmedia AI＋)*
+- [ ] 2026-07-21 [Google、「Gemini 3.6 Flash」など3モデルを発表　出力トークンを削減しつつ値下げ、「Gemini 4」も予告](https://www.itmedia.co.jp/aiplus/article/2607/22/2000000212/) *(ITmedia AI＋)*
+- [ ] 2026-07-21 [ブレストで膨らむ“隠れ人件費”を削れ　矢野経済がClaudeで挑む「30分で100アイデア」創出の威力](https://www.itmedia.co.jp/business/articles/2607/22/news028.html) *(ITmedia AI＋)*
+- [ ] 2026-07-21 [GoogleがAIアプリ「Dreambeans」を発表　「画面を延々とスクロール」の脱却で何を目指すのか](https://atmarkit.itmedia.co.jp/ait/articles/2607/22/news047.html) *(ITmedia AI＋)*
+- [ ] 2026-07-21 [矢崎総業がイノベーション拠点を公開、労働集約型モノづくりのスマート化に向け](https://monoist.itmedia.co.jp/mn/articles/2607/22/news054.html) *(ITmedia AI＋)*
+- [ ] 2026-07-21 [AIトークン消費「24倍」の衝撃　本番運用に向けて絶対に“やってはいけない”コストの捉え方](https://atmarkit.itmedia.co.jp/ait/articles/2607/22/news005.html) *(ITmedia AI＋)*
+- [ ] 2026-07-22 [Gemini 3.6 Flash登場！17%効率化+値下げ。3.5 Flash-Liteも](https://pc.watch.impress.co.jp/docs/news/2126733.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-22 [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-22 [作品を深く理解する“アニメオタク”なAIアシスタント「Mage Agent」](https://ai.watch.impress.co.jp/docs/news/2126672.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-22 [「Agents-A1」を試す（4B）](https://zenn.dev/kun432/scraps/c070bfe51ac731) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-22 [最近、なぜみんなuvを使っているんですか？ Pythonパッケージ管理の変遷と現在地 - Findy Media](https://findy-code.io/media/articles/chotto-wakaru-python) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [エンジニアの成果、結局どう測ればいいのか](https://zenn.dev/awesome_kou/articles/engineer-performance-metrics) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [【速報】ニチレイ障害、ハッカー集団が犯行声明](https://www.47news.jp/14661811.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス\|セキュリティニュースのセキュリティ対策Lab](https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [ニチレイへのサイバー攻撃、「ランサムハウス」が犯行声明 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC21B3T0R20C26A7000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [Windowsのパッチサーバー「WSUS」で同期処理に不具合、手動での対処が必要になることも／処理に異常な時間がかかったり、タイムアウトしたり](https://forest.watch.impress.co.jp/docs/news/2126470.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [大規模AIプロジェクトで「高性能な計画役＋安価な実行役」を使うとコストが約8分の1になったとCursorが報告](https://gigazine.net/news/20260721-agent-swarm-model-economics/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [痛いの痛いの、なぜ“飛んでいく”？　「さすると痛みが引く」仕組み、九州大が解明](https://www.itmedia.co.jp/news/articles/2607/21/news078.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [最も暑い時期の冷房時間、東京は世界12都市で最も“長い”　就寝時「つけっぱなし」も増加　ダイキン調べ](https://www.itmedia.co.jp/news/articles/2607/21/news118.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [LGのモニターがWindows Update経由で勝手にソフトウェアをインストールしMcAfeeの広告を表示していたことが判明](https://gigazine.net/news/20260721-lg-monitor-silently-install-software/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [Claudeが目で仕事を覚える「スキルを記録」機能　PC作業を録画して分析、Claude Coworkが再現できるスキル化 \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/07/22/5317.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [Google Antigravity Blog: Gemini 3.6 Flash in Google Antigravity](https://antigravity.google/blog/gemini-3-6-flash-in-google-antigravity) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [AppleのApp Storeでリリースされた新規アプリの数が上半期だけで昨年通年に迫る、AIのバイブコーディングで作られたアプリがストアにあふれる結果に](https://gigazine.net/news/20260721-app-store-new-apps/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-22 [Netflix での 3年 · eed3si9n](https://eed3si9n.com/ja/3years-at-netflix/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-21 [Anthropicの6つのエージェント設計パターンは2026年の今も通用するのか?](https://zenn.dev/hkame/articles/agent-patterns-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-07-21 [注意力ではなく設定で固める — コーディングエージェントのスコープと権限ガードレール](https://zenn.dev/cilly/articles/agent-scope-permission-guardrails) *(Zenn – トピック LLM)*
+- [ ] 2026-07-21 [ロールプロンプトで性格診断が別人に変わる理由、文体軸と内容軸の分離](https://zenn.dev/every_ai_recipe/articles/ai-role-diagnosis-3-patterns) *(Zenn – トピック AI)*
+- [ ] 2026-07-21 [AIの出力を検品せずに使うと何が起きるか — 別のAIに検品させる仕組みの作り方](https://zenn.dev/jidoka_lab/articles/ai-double-check-with-another-agent) *(Zenn – トピック AI)*
+- [ ] 2026-07-21 [Claude Codeと2ヶ月でWizardry風3DダンジョンRPGを作っている話](https://zenn.dev/abyssgate/articles/d608157a8069b6) *(Zenn – トピック AI)*
+- [ ] 2026-07-21 [Claude Codeが存在しないコミットハッシュを報告してきた——報告フォーマットでは防げない失敗](https://zenn.dev/miharu_tools/articles/cc-hallucinated-commit-hash) *(Zenn – トピック AI)*
+- [ ] 2026-07-21 [Codex における GPT-5.6 Sol トークンの使われ方](https://zenn.dev/yohjisakamoto/articles/c21bea84f142db) *(Zenn – トピック AI)*
+- [ ] 2026-07-21 [exit code 0を成功判定に使わないジョブ設計 - 障害分析](https://zenn.dev/kmn/articles/8e47ba135ef228) *(Zenn – トピック AI)*
+- [ ] 2026-07-21 [DartMCPを有効活用して、AIエージェントに効率よくFlutter開発をやらせよう！](https://zenn.dev/miyachan2/articles/6902195323b4d2) *(Zenn – トピック AI)*
+- [ ] 2026-07-21 [SE歴9年の私が、基幹システムに必要なドキュメント定義とAIを活用した運用を考えた](https://zenn.dev/cyberdog_ai_lab/articles/20260709-core-system-doc-format) *(Zenn – トピック AI)*
+- [ ] 2026-07-21 [ChatGPTやClaudeで英語論文・技術資料を爆速で読むためのプロンプトとコツ](https://zenn.dev/seitarou223/articles/english-paper-reading-prompts) *(Zenn – トピック AI)*
+- [ ] 2026-07-21 [研究者・天才肌・万能 — Claude / Gemini / ChatGPT 使い分け(2026年夏)](https://zenn.dev/pinddy/articles/f868a0f6f4453f) *(Zenn – トピック AI)*
+- [ ] 2026-07-21 [AIに1時間で作らせたアプリを、公開前に全ソース監査してみた（Critical 2件）](https://zenn.dev/gyugyu86/articles/4f449985d88ea9) *(Zenn – トピック AI)*
+- [ ] 2026-07-21 [Claude Codeの並行開発は git worktree に寄せる——複数クローンとDevContainerを捨てた理由](https://zenn.dev/azuma71/articles/mp-zenn-0016-20260720) *(Zenn – トピック AI)*
+- [ ] 2026-07-21 [AIエージェント6並列でWebサービスを12日で本番リリースした並行開発の設計](https://zenn.dev/yoshitakasuzuki/articles/9c67b42e70cf41) *(Zenn – トピック AI)*
