@@ -111237,3 +111237,78 @@
 - [ ] 2026-07-22 [サーバーなしでAI画像処理を動かす — onnxruntime-web 入門と、詰まった9箇所🧠](https://zenn.dev/novareorbis/articles/b7564905d30653) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-22 [生成AIに「超解像（Real-ESRGAN）」を聞いてみた（AI拡大 vs bicubic）](https://zenn.dev/tkpurine/articles/super-resolution-real-esrgan) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-22 [KerasのEMAで精度+3pt改善。でもfinalize_variable_values()は実は無意味だった](https://zenn.dev/wasurenamemo/articles/e1a74b9803ec49) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-23T13:15:57.159Z
+- [ ] 2026-07-23 [Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop](https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-07-23 [Public Horrified as OpenAI Pushes “Child After Child Into the Grave”](https://futurism.com/artificial-intelligence/openai-pushes-child-into-grave) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-23 [NASA Puts Google’s Gemma Large Language Model in Orbit](https://spectrum.ieee.org/nasa-ai-satellite-image-analysis) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-07-23 [7 Best Claude Code Alternatives for CLI Agentic Coding](https://www.kdnuggets.com/7-best-claude-code-alternatives-for-cli-agentic-coding) *(KDnuggets)*
+- [ ] 2026-07-23 [T-Mobile Revenue Misses Expectations as Customer Gains Slow](https://www.bloomberg.com/news/articles/2026-07-23/t-mobile-beats-on-wireless-accounts-as-loyalty-perks-pay-off) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [South Africa Fund Plans $609 Million VC Raise With Exits Rising](https://www.bloomberg.com/news/articles/2026-07-23/south-africa-fund-plans-609-million-vc-raise-with-exits-rising) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Infosys Cuts Revenue Forecast on Muted IT Services Demand](https://www.bloomberg.com/news/articles/2026-07-23/infosys-cuts-revenue-forecast-as-it-service-demand-remains-muted) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Google Says it Holds $94 Billion in SpaceX Shares After IPO](https://www.bloomberg.com/news/articles/2026-07-23/google-says-it-holds-94-billion-in-spacex-shares-after-ipo) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Google Fined €890 Million by EU Over Search, Play Store Breaches](https://www.bloomberg.com/news/articles/2026-07-23/google-fined-890-million-in-eu-over-search-app-store-breaches) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Keeping Kids Safe Online From AI Shows US and China on Different Paths](https://www.bloomberg.com/news/newsletters/2026-07-23/keeping-kids-safe-online-from-ai-shows-us-and-china-on-different-paths) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Tinder Brings In-Person Dating Events to More Cities in the US, Europe](https://www.bloomberg.com/news/articles/2026-07-23/tinder-brings-in-person-dating-events-to-more-cities-in-the-us-europe) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Comcast Earnings Boosted by Peacock, Box Office Successes](https://www.bloomberg.com/news/articles/2026-07-23/comcast-earnings-beat-estimates-on-peacock-box-office-successes) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [AI, Climate Change Are Creating a Perfect Storm for US Power Grids](https://www.bloomberg.com/news/newsletters/2026-07-23/ai-climate-change-are-creating-a-perfect-storm-for-us-power-grids) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Google Will Now Let Users Sign In to Accounts With a Selfie Video](https://www.bloomberg.com/news/articles/2026-07-23/google-will-now-let-users-sign-in-to-accounts-with-a-selfie-video) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [SpaceX Attempts Major Flight Test Again in Post-IPO Spotlight](https://www.bloomberg.com/news/articles/2026-07-23/spacex-attempts-major-flight-test-again-in-post-ipo-spotlight) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Israel’s AI Czar Seeks Chip Fab, New Data Centers to Keep Edge](https://www.bloomberg.com/news/articles/2026-07-23/israel-s-ai-czar-seeks-chip-fab-new-data-centers-to-keep-edge) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Intel Needs More Than Blowout Earnings as Chips Rally Falters](https://www.bloomberg.com/news/articles/2026-07-23/intel-needs-more-than-blowout-earnings-as-chips-rally-falters) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Amazon brings Luna game streaming to the Prime Video app](https://www.engadget.com/2221163/amazon-brings-luna-game-streaming-to-the-prime-video-app/) *(Engadget)*
+- [ ] 2026-07-23 [Ultrahuman overhauls its app, brings all of its analysis on-device](https://www.engadget.com/2220780/ultrahuman-overhauls-app-brings-all-of-its-analysis-on-device/) *(Engadget)*
+- [ ] 2026-07-23 [GoPro Wireless Mic System review: An audio upgrade with fixable flaws](https://www.engadget.com/2220868/gopro-wireless-mic-system-review/) *(Engadget)*
+- [ ] 2026-07-23 [Uber lays off 10 percent of its customer service team in favor of using AI](https://www.engadget.com/2221547/uber-lays-off-10-percent-customer-service-team-ai/) *(Engadget)*
+- [ ] 2026-07-23 [Europe hits Google with $1 billion fine for boxing-out rivals](https://www.engadget.com/2221542/eu-google-fine-1-billion-dma/) *(Engadget)*
+- [ ] 2026-07-23 [Sony's FX5 cinema camera finally offers open gate and RAW 5K recording](https://www.engadget.com/2221526/sony-fx5-cinema-camera/) *(Engadget)*
+- [ ] 2026-07-23 [Google adds selfie video as a log-in option](https://www.engadget.com/2221520/google-adds-selfie-video-log-in/) *(Engadget)*
+- [ ] 2026-07-23 [A SpaceX Falcon 9 rocket is expected to crash into the moon this August](https://www.engadget.com/2221503/spacex-falcon-9-rocket-crash-moon-august/) *(Engadget)*
+- [ ] 2026-07-23 [「スパイダーロボ」登場　がれきを走破、モノに「触って判断」も　災害現場で活用へ　国内ベンチャー](https://www.itmedia.co.jp/aiplus/article/2607/23/2000000217/) *(ITmedia AI＋)*
+- [ ] 2026-07-23 [音声クローンが可能な音声合成AI「Qwen-Audio-3.0-TTS」が登場、日本語対応でGemini超えの性能](https://gigazine.net/news/20260723-qwen-audio-3-tts/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-23 [米政府、中国AI「Kimi K3」開発元を批判　Anthropic「Fable」を蒸留したとして](https://www.itmedia.co.jp/news/articles/2607/23/news105.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-23 [サイバー被害のニチレイがバックアップからシステム復旧に成功→セキュリティ業界の人から早期復旧に疑問の声「仮にランサムウェアならバックアップデータから破壊する」](https://togetter.com/li/2723874) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [無償でも使えるインストーラー作成ソフト「Inno Setup 7」が公開 ～7年ぶりのメジャーアップデート／64bit版を新たに追加、「MAX_PATH」制限も撤廃](https://forest.watch.impress.co.jp/docs/news/2126929.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [ディスプレイでVRChatの世界を立体映像で見られる謎技術がヤバい、「VketRealに実物がある」と聞いて思わず行きたくなるユーザーも](https://togetter.com/li/2723866) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [みんながAIを使う時、セキュリティについてどう考えればいいのか。 - VISASQ Dev Blog](https://tech.visasq.com/claude-safe-adoption) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [iPhoneからAndroidへの移行、アプリ不要・eSIMも対象でさらに簡単に](https://www.watch.impress.co.jp/docs/news/2127172.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [手のひらサイズで初の6枚刃ラムダッシュ パームイン　全自動洗浄充電台 - 家電 Watch](https://kaden.watch.impress.co.jp/docs/news/2127269.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [Hatchet](https://hatchet.run/blog/postgres-survival-guide) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [「出社中心」「生成AIほぼ必須」が4割超　企業がITフリーランスを求める本当の目的と「三重苦」の課題](https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news057.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [[本日の一品]スッと転がってピタッと止まる、エレコムの新トラックボール「IST PLUS」](https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2127080.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [AI新世紀：「偽チャッピー」につられる小学生　フィルタリング追いつかず \| 毎日新聞](https://mainichi.jp/articles/20260722/k00/00m/040/155000c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [米オープンAI、自社AIが暴走し「前例のない」サイバー攻撃を仕掛けたと発表　セキュリティーテスト中に - BBCニュース](https://www.bbc.com/japanese/articles/c235nmklxndo) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [Souther - ドメインモデルをスラスラ書けることを追い求めた最果てのJVM言語](https://zenn.dev/kawasima/articles/souther-essentials) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [ニチレイも事業停止　ランサム復旧「3日」「50日」「73日」の分岐点　医療・港湾・物流のサイバー攻撃に学ぶ](https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news025.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [【西川和久の不定期コラム】 新CPU、Core 3 304の実力は？10GbEと電源も内蔵したミニPC「Beelink EQi」](https://pc.watch.impress.co.jp/docs/column/nishikawa/2127001.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [Macにバックアップした「写真」アプリのデータを外付けストレージに移動する【自宅Wi-Fiの“わからない”をスッキリ！】](https://internet.watch.impress.co.jp/docs/column/homewifi/2126540.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [脆弱性情報と資産インベントリの突合をLLMに丸投げしたら、静かに間違えていた](https://zenn.dev/secure_ops_hi/articles/d3d2eaa4afc93a) *(Zenn – トピック LLM)*
+- [ ] 2026-07-23 [Claudeが口に出す前の思考を読む、AnthropicのJ-lens](https://zenn.dev/okssusucha/articles/20260707-anthropic-jlens-global-workspace) *(Zenn – トピック LLM)*
+- [ ] 2026-07-23 [「完了しました」を信じるな。AIエージェントに実結果の再取得を強制する検証ゲート](https://zenn.dev/maronsan/articles/genchi-completion-verification-gate) *(Zenn – トピック LLM)*
+- [ ] 2026-07-23 [Agon: 競争する二つのモデルが互いに推論を採点する新しいRLパラダイム](https://zenn.dev/lixian/articles/agon-competitive-cross-model-rl) *(Zenn – トピック LLM)*
+- [ ] 2026-07-23 [VRAMに乗らないMoEをNVMe＋GPU推論で動かす：Hypura/llama.cpp/TurboQuant解説](https://zenn.dev/zapabob/articles/hypura-nvme-moe-gpu-inference) *(Zenn – トピック LLM)*
+- [ ] 2026-07-23 [個人開発の運用コストO(n)をAI閉ループで圧縮する — incident-loopの設計と安全境界](https://zenn.dev/syrup/articles/67d58b6b6381f1) *(Zenn – トピック LLM)*
+- [ ] 2026-07-23 [Generative Recommendation探求②〜モデルに自分で教師データを作らせたら、疎データはどこまで密の代わりになるか~](https://zenn.dev/kazukioden/articles/8658fec3699354) *(Zenn – トピック LLM)*
+- [ ] 2026-07-23 [自己改善するマルチエージェント組織の作り方 — Claude Code で構築した9エージェント体制のハーネス設計](https://zenn.dev/tottoko_hamu/articles/2026-05-24-090000) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [コードを書いたことがなかったうちが、2日でBuild Weekに出た話](https://zenn.dev/factory_mo/articles/buildweek-article-zenn-1) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [Claude Code Hooksの実装ガイド — セッション終了時に自動でgit pushする仕組みをコードで解説](https://zenn.dev/nakayama_acari/articles/claude-code-hooks-guide-v2) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [Claude Code 2.1.217でSubAgentのネストがデフォルト無効になっていた](https://zenn.dev/arakawaaa/articles/2fec700785443a) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [体験・安全・コストをトレードオフにしない、「美容医療 AI相談」の設計と実装（フロントエンド編）](https://zenn.dev/tribeau/articles/72c9278da55a3b) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [AIで「まだ見ぬ我が子」の顔を作ってみたら、想像以上に心が揺れた話](https://zenn.dev/sophie_bella/articles/b59b32a5f46e01) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [clone しただけのマシンで、AI が「推測で埋めること」を自分から拒否した——AI駆動開発を .md で規律づける](https://zenn.dev/mryo0826/articles/a51445252edaab) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [Notion／Notion AIを全社導入する前に考えること——Teamspace・権限・外部共有・コネクタの設計](https://zenn.dev/hondrhy/articles/59c8c388db79e8) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [Kimi Delta Attention(KDA)についてのアウトプット](https://zenn.dev/naoyabone/articles/82ded7445aee8d) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [OpenAIは2日、Cursorは7ヶ月——透明性の逆説](https://zenn.dev/ryuka_lucas/articles/agent-destructive-ops-vendor-disclosure) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [Snowflake Summit 2026 参加レポート！](https://zenn.dev/intage_tech/articles/art021-snowflakesummit2026-myhr) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [AIはプランを立てただけで満足する ― 実行を追いかける『イシューツリー』という考え方](https://zenn.dev/acntechjp/articles/dd9f65e9576983) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [なぜTransformerをこえるアーキテクチャは生まれないのか？](https://zenn.dev/suzukihinata/articles/why-hasnt-ttt-become-widespread) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [AIオブザーバビリティ スペシャル#2を拝見して](https://zenn.dev/njomote/articles/159e921517ad1a) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [AIエージェントの運用を「モデルが変わっても壊れない」形にする](https://zenn.dev/guardrailops/articles/12074dcee028e4) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [AIサイト運営25日の失敗ログ｜検索クリック0・赤字$34の全記録](https://zenn.dev/vynalo/articles/ai-site-operation-failure-log) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [dotenvが仕込んだ「AIエージェント向け広告」と、その半年後の静かな撤回](https://zenn.dev/alma65/articles/dotenv-agent-ads-and-removal) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [LangGraph入門：State・Node・Edge～ワークフローの条件分岐まで](https://zenn.dev/unr_tech_lab/articles/547364bf8269b5) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [2026年最新AI SEOツール徹底比較ガイド](https://zenn.dev/gptmelo/articles/337b9821f1713d) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [『一番賢いモデル』が一番得とは限らない ― OCR で LLM のコスパを実測する](https://zenn.dev/nihonbashi/articles/llm-ocr-cost-benchmark) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [絡まった2つのリングは、k-meansには永遠に分けられない。「近さ」ではなく「つながり」で見る](https://zenn.dev/shakeailab/articles/linked-rings-spectral-clustering) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-23 [Kaggle House Prices で学ぶ実装検証フロー：複数アルゴリズムの比較から最適モデル選定まで](https://zenn.dev/ugu000x/articles/bcf7604e251f4c) *(Zenn – トピック 機械学習)*
+- [ ] 2026-07-23 [【技術解説】【完全ガイド】Pythonによるアービトラージ検知ロジックの実装と自動化](https://zenn.dev/sugarfree/articles/e38090e5ae8ce585a8e382ace382a4e38389e38091pyt) *(Zenn – トピック 機械学習)*
