@@ -111312,3 +111312,66 @@
 - [ ] 2026-07-23 [絡まった2つのリングは、k-meansには永遠に分けられない。「近さ」ではなく「つながり」で見る](https://zenn.dev/shakeailab/articles/linked-rings-spectral-clustering) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-23 [Kaggle House Prices で学ぶ実装検証フロー：複数アルゴリズムの比較から最適モデル選定まで](https://zenn.dev/ugu000x/articles/bcf7604e251f4c) *(Zenn – トピック 機械学習)*
 - [ ] 2026-07-23 [【技術解説】【完全ガイド】Pythonによるアービトラージ検知ロジックの実装と自動化](https://zenn.dev/sugarfree/articles/e38090e5ae8ce585a8e382ace382a4e38389e38091pyt) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-07-23T18:54:30.747Z
+- [ ] 2026-07-23 [Ben Jennings on Elon Musk and The Odyssey – cartoon](https://www.theguardian.com/commentisfree/picture/2026/jul/23/ben-jennings-elon-musk-the-odyssey-cartoon) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-23 [‘Customers prefer AI chatbots,’ says British Gas owner as 1,300 call centre jobs axed](https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-23 [Elon Musk says he got ‘carried away’ with Trump – but still holds on to contentious political views](https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-07-23 [Meta’s New Feel-Good AI Ad Uses a Song About the World Ending](https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-07-23 [Neill Blomkamp Is Making It Look Like AI Is the Last Resort for Filmmakers With Failing Careers](https://futurism.com/artificial-intelligence/neil-blomkamp-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-23 [Trump Says Images of the Iranian Elementary School His Lackeys Obliterated Could Be “AI Generated”](https://futurism.com/artificial-intelligence/trump-images-iran-elementary-school-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-07-23 [UK Robot Maker Humanoid Valued at $1.35 billion](https://aibusiness.com/robotics/uk-robot-maker-humanoid-valued-1-35-billion) *(AI Business)*
+- [ ] 2026-07-23 [A new ‘golden age’ of mathematics may be dawning — thanks to AI and human ingenuity](https://theconversation.com/a-new-golden-age-of-mathematics-may-be-dawning-thanks-to-ai-and-human-ingenuity-287346) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-07-23 [Google Holds Back Gemini 3.5 Flash Cyber as CodeMender Enters Preview](https://www.techrepublic.com/article/news-google-flash-cyber-codemender/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-23 [Cisco Antares Models Bring Local AI to Vulnerability Triage](https://www.techrepublic.com/article/news-cisco-antares-vulnerability-triage/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-07-23 [Getting Started with OmniVoice-Studio](https://www.kdnuggets.com/getting-started-with-omnivoice-studio) *(KDnuggets)*
+- [ ] 2026-07-23 [A Group of Industry Powerbrokers Are Unveiling a New Definition of “Podcast”](https://www.bloomberg.com/news/newsletters/2026-07-23/a-group-of-industry-powerbrokers-are-unveiling-a-new-definition-of-podcast) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [AMD Unveils New Products in Pursuit of $2 Trillion Market](https://www.bloomberg.com/news/articles/2026-07-23/amd-unveils-new-products-in-pursuit-of-2-trillion-opportunity) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [US to Produce Ukraine’s Magura Sea Drones for the First Time](https://www.bloomberg.com/news/articles/2026-07-23/us-to-produce-ukraine-s-magura-sea-drones-for-the-first-time) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Drone Navigation Firms Seek New Ways Past Warzone Jamming](https://www.bloomberg.com/news/articles/2026-07-23/drone-navigation-companies-seek-new-ways-past-warzone-jamming) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Microsoft Replacing OpenAI Image AI Models in Powerpoint, Bing](https://www.bloomberg.com/news/articles/2026-07-23/microsoft-replacing-openai-image-ai-models-in-powerpoint-bing) *(Bloomberg Technology)*
+- [ ] 2026-07-22 [IBM Cuts Full-Year Sales Outlook as Mainframe Demand Drops](https://www.bloomberg.com/news/articles/2026-07-22/ibm-cuts-full-year-sales-outlook-after-mainframe-unit-dip) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Thermo Fisher Rises as Instrument Demand Recovery Lifts Outlook](https://www.bloomberg.com/news/articles/2026-07-23/thermo-fisher-rises-as-instrument-demand-recovery-lifts-outlook) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Alphabet’s Future Spending Commitments Soar to $811 Billion](https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-future-spending-commitments-soar-to-811-billion) *(Bloomberg Technology)*
+- [ ] 2026-07-23 [Here's why Chinese smartwatches like the Oppo Watch X3 are rarely sold in the US](https://www.engadget.com/2219750/chinese-smart-watches-oppo-watch-x3-rarely-sold-in-united-states/) *(Engadget)*
+- [ ] 2026-07-23 [Bethesda accused of breaking Canadian labor laws with Montreal layoffs](https://www.engadget.com/2221909/bethesda-accused-of-breaking-canadian-labor-laws-with-montreal-layoffs/) *(Engadget)*
+- [ ] 2026-07-23 [EU gives antritrust approval to the Saudi-led $55 billion takeover of EA](https://www.engadget.com/2221898/eu-gives-antitrust-approval-to-the-saudi-led-55-billion-takeover-of-ea/) *(Engadget)*
+- [ ] 2026-07-23 [Qobuz overhauls its music player and adds real-time lyrics](https://www.engadget.com/2221837/qobuz-overhauls-its-music-player-and-adds-real-time-lyrics/) *(Engadget)*
+- [ ] 2026-07-23 [Samsung will support the Galaxy Watch 9 and Ultra 2 with five years of updates](https://www.engadget.com/2221818/samsung-will-support-the-galaxy-watch-9-and-ultra-2-with-five-years-of-updates/) *(Engadget)*
+- [ ] 2026-07-23 [Xbox is testing free, ad-supported cloud gaming](https://www.engadget.com/2221790/xbox-is-testing-free-ad-supported-cloud-gaming/) *(Engadget)*
+- [ ] 2026-07-23 [Apple Maps will power navigation in Ford's upcoming slate of EVs](https://www.engadget.com/2221730/apple-maps-will-power-navigation-ford-upcoming-evs/) *(Engadget)*
+- [ ] 2026-07-23 [Does charging your phone in your car waste gas?](https://www.engadget.com/2219809/car-charging-phone-gas-explained/) *(Engadget)*
+- [ ] 2026-07-23 [The latest Resident Evil movie trailer has lots of fun nods to the games](https://www.engadget.com/2221678/new-resident-evil-movie-trailer-fun-nods-to-games/) *(Engadget)*
+- [ ] 2026-07-23 [Lego's latest Nintendo collab is a playable Donkey Kong arcade machine](https://www.engadget.com/2221668/lego-nintendo-collab-playable-donkey-kong-arcade-machine/) *(Engadget)*
+- [ ] 2026-07-23 [I'm just glad Samsung's price hikes weren't worse](https://www.engadget.com/2221640/im-just-glad-samsungs-price-hikes-werent-worse/) *(Engadget)*
+- [ ] 2026-07-23 [There isn't a single consumer Wi-Fi router that is 100% American-made](https://www.engadget.com/2218707/no-100-percent-american-made-wifi-router/) *(Engadget)*
+- [ ] 2026-07-23 [Launching Health in ChatGPT](https://openai.com/index/health-in-chatgpt) *(OpenAI News)*
+- [ ] 2026-07-23 [正極がリン酸鉄リチウムのモバイルバッテリー、酸素の発生抑制で燃えにくく](https://xtech.nikkei.com/atcl/nxt/column/18/03665/062500003/) *(日経クロステック IT)*
+- [ ] 2026-07-23 [日本、約370兆円の賭け──「未来が最初にやってくる国」は再始動するか \| Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/101073) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-23 [ビックリマン風キャラを“自分の顔”からAI生成→Tシャツや缶バッジに　ロッテが新サービス公開へ](https://www.itmedia.co.jp/news/articles/2607/23/news086.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-23 [「Claude Code」プラグイン「Claude Security」がベータ公開 ～複数エージェントが脆弱性を指摘／検証・修正案の提示までを行うセキュリティ支援ツール](https://forest.watch.impress.co.jp/docs/news/2127095.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-23 [AI-Slopなデザインを生まないためのデザインプロセス戦略](https://speakerdeck.com/takanorip/ai-slopnadezainwosheng-manaitamenodezainpurosesuzhan-lue) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-23 [Gemini 3.6 Flashのベンチマーク結果はこんな感じ](https://gigazine.net/news/20260722-gemini-3-6-flash-benchmark/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-07-23 [Palantir Foundryのオントロジーをミニマムに再現したOSSを実測検証した](https://zenn.dev/mskbhd/articles/lab-198-gura105-operational-ontology-o) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [「マジで見づらいだけ」と大不評だったスーパーの生成AIポップ、看板ガチ勢の「きぬた歯科」さんの評価は意外にも…たしかに成功例はあるが、今回は的外れ？](https://togetter.com/li/2723892) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [「なんかアカウントもしかして乗っ取られてません?」10年以上前に使っていたX(Twitter)アカウントが乗っ取られたので、行政書士を通してX本社に書類を送りアカウントを復旧させた話](https://togetter.com/li/2723727) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [「人間洗濯機」が高齢者施設に　福祉の現場に万博技術導入　人手不足解消や産業成長に期待](https://www.itmedia.co.jp/news/articles/2607/23/news116.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [Home - Playing with code](https://haqr.eu/tinyrenderer/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [「Android 17」でiPhoneから乗り換えやすく、アプリ不要でWi-Fi情報やeSIMも対応](https://k-tai.watch.impress.co.jp/docs/news/2127082.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [Galaxyの新折りたたみが4キャリアそろい踏み　各社が語る「価格」「ネットワーク」「サポート」の差別化戦略](https://www.itmedia.co.jp/mobile/articles/2607/23/news075.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [「検索結果は著作権法で保護される著作物ではない」と裁判所が判断してGoogleの訴えを却下](https://gigazine.net/news/20260723-google-loses-lawsuit-against-serpapi/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [Measuring engineering productivity is harder than ever](https://leaddev.com/reporting/measuring-engineering-productivity-is-harder-than-ever) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [バックアップの「3-2-1ルール」とは？企業におけるバックアップの重要性とその方法 – TD SYNNEX BLOG](https://jp.tdsynnex.com/blog/security/3-2-1-backup-rule/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [“AIに編集させる”動画ツール「Palmier Pro」を試す【小寺信良の週刊 Electric Zooma!】](https://av.watch.impress.co.jp/docs/series/zooma/2126631.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [Valibot・Formischのメンテナーになりました - プププなテクブ](https://blog.inorinrinrin.com/entry/2026/07/23/175736) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [「Firefox」、コンテナーをデフォルトで有効に](https://japan.zdnet.com/article/35250878/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-07-23 [【第3回】物理テーブルを分けてViewで統合するDB設計と、「LLMを信じない」データ補正Webアプリの構築 🚀](https://zenn.dev/onapon/articles/d8b33f2a14c731) *(Zenn – トピック LLM)*
+- [ ] 2026-07-23 [AIエンジニアが3時間本気でReplitを使ってみた：インタラクティブなアバターAIアプリ](https://zenn.dev/mukuil_blog/articles/356d2f1bc0875c) *(Zenn – トピック LLM)*
+- [ ] 2026-07-23 [Why I'm Preparing My Property Marketing Workflow for Seedance 2.5](https://zenn.dev/emilyjones/articles/70fb633f1d2c31) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [「石の上にも3年」は遅い。AI時代のキャリアは「10領域80点×レバレッジ×楽しさ」で作る](https://zenn.dev/eques_blog/articles/dd645c700e3fd3) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [複数のAIに足りないのは、賢さではなく共有コンテキストだった](https://zenn.dev/veripsa/articles/multi-ai-agents-need-shared-context) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [#zennfes #zenncafe Spring 2026 リアルタイム参戦記 ― Claude Code と並走しながら書く](https://zenn.dev/nomurasan/articles/zennfes-2026-spring-realtime-report) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [MarkdownをAIの記憶にする――まず1つのLOG.mdから始める](https://zenn.dev/seitarou223/articles/codex-workflow-03-markdown-as-memory) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [スタートアップがAI APIを選ぶときに見るべき5つのポイント](https://zenn.dev/kevin_7/articles/2174e5210090d8) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [Certified Offensive AI Expert (COAE) 合格体験記](https://zenn.dev/wfox5/articles/589881f02d18c0) *(Zenn – トピック AI)*
+- [ ] 2026-07-23 [AIはなぜ既存理論へ回収したがるのか — B13ノードと√をめぐる対話の記録](https://zenn.dev/morc_b13/articles/041e6660ad314c) *(Zenn – トピック AI)*
