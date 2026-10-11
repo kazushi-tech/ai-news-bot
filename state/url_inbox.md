@@ -153776,3 +153776,52 @@
 - [ ] 2026-10-11 [学習なしで需要予測できる Chronos-2 に、ウォルマートの販売データを予測させてみた](https://zenn.dev/aws_japan/articles/chronos2-retail-demand-forecast-m5) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-11 [Python・MLflow・FastAPIで始めるMLOps入門：モデル作成から推論APIの構築まで](https://zenn.dev/yoshihiro_iwato/articles/3f48c3450e2b39) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-10 [Transformerの出口を差し替えた:MSEは正解率が同じでもCEで0.19負けた](https://zenn.dev/miyamoto_gt/articles/transformer-0-1-w4) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-11T16:49:37.148Z
+- [ ] 2026-10-11 [Feelgood factor of human interaction \| Brief letters](https://www.theguardian.com/science/2026/oct/11/feelgood-factor-of-human-interaction) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-11 [Flock Cameras Are Really Just the Start of Our Dystopian Surveillance Hell, Experts Warn](https://futurism.com/future-society/flock-axon-alpr-police-surveillance-cameras) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-11 [This Graph of Data Center Spending Compared to All Other Construction Will Give You Chills](https://futurism.com/future-society/data-center-spending-ai-bubble-construction) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-11 [Crypto Gurus Concerned AI Is Poised to Crack Blockchain Math, Allowing Hackers to Steal Funds With Impunity](https://futurism.com/future-society/crypto-gurus-concerned-ai-crack-wallets) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-11 [There’s Even a Pay Gap Between Male and Female AI Agents](https://futurism.com/artificial-intelligence/pay-gap-male-and-female-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-11 [Xpeng Says It Can Quickly Adapt Car Autopilot Systems for Europe](https://www.bloomberg.com/news/articles/2026-10-11/xpeng-says-it-can-quickly-adapt-car-autopilot-systems-for-europe) *(Bloomberg Technology)*
+- [ ] 2026-10-11 [Is AI Crowding Everyone Else Out of the Bond Market?](https://www.bloomberg.com/news/videos/2026-10-11/is-ai-crowding-everyone-else-out-of-the-bond-market-video) *(Bloomberg Technology)*
+- [ ] 2026-10-11 [Apple Smart Home Launch Oct. 13 Plans; HomeView Has Mid-November Release](https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release) *(Bloomberg Technology)*
+- [ ] 2026-10-11 [Why strong magnets can hinder the iPhone's rear-facing camera](https://www.engadget.com/2281130/why-strong-magnetic-hinder-iphone-rear-facing-camera/) *(Engadget)*
+- [ ] 2026-10-11 [Apple's smart home hub will reportedly be called HomeView](https://www.engadget.com/2283275/apples-smart-home-hub-will-reportedly-be-called-homeview/) *(Engadget)*
+- [ ] 2026-10-11 [Apple Home's new AI summaries for security cameras cost more than you'd think](https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/) *(Engadget)*
+- [ ] 2026-10-11 [Here's how long your Google Pixel phone will get software updates](https://www.engadget.com/2281041/how-long-google-pixel-phone-get-software-updates/) *(Engadget)*
+- [ ] 2026-10-11 [The hidden features every Waze user should know about](https://www.engadget.com/2280999/waze-hidden-features-users-should-know/) *(Engadget)*
+- [ ] 2026-10-11 [We're in the middle of a PS5 Pro shortage and GTA 6 will only make it worse](https://www.engadget.com/2280934/playstation-5-pro-shortage-gta-6-only-make-worse/) *(Engadget)*
+- [ ] 2026-10-11 [Why it's important to backup data saved on your older thumb drives](https://www.engadget.com/2280904/why-its-important-to-backup-data-saved-on-older-thumb-drives/) *(Engadget)*
+- [ ] 2026-10-11 [Here's how much the PlayStation 5 cost in 2020 vs. 2026](https://www.engadget.com/2280620/how-much-playstation-5-cost-2020-vs-2026/) *(Engadget)*
+- [ ] 2026-10-11 [What's the difference between Android Automotive and Google Built-In?](https://www.engadget.com/2280617/google-built-in-vs-android-automotive-difference-between-comparison/) *(Engadget)*
+- [ ] 2026-10-11 [What is the oldest Samsung device that still gets software updates in 2026?](https://www.engadget.com/2280584/oldest-samsung-device-still-gets-software-updates-2026/) *(Engadget)*
+- [ ] 2026-10-11 [Why CPU overclocking is mostly now a thing of the past](https://www.engadget.com/2280537/why-overclocking-cpu-mostly-outdated/) *(Engadget)*
+- [ ] 2026-10-11 [How to properly clean your solar panels (and why it's important)](https://www.engadget.com/2280495/how-to-properly-clean-solar-panels-why-its-important-to/) *(Engadget)*
+- [ ] 2026-10-11 [Here's how much the MacBook Pro cost in 2021 vs. 2026](https://www.engadget.com/2280441/how-much-macbook-pro-cost-2021-vs-2026/) *(Engadget)*
+- [ ] 2026-10-11 [「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる](https://togetter.com/li/2756939) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-11 [『ドラクエ』『ポートピア』堀井雄二氏がAIを活用して作ってみたゲーム『取調室の小宮』が無料公開。制作時間「30分ほど」の推理アドベンチャー \| ゲーム・エンタメ最新情報のファミ通.com](https://www.famitsu.com/article/202610/90698) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-11 [「何の得が」共和党支持者も怒るデータセンター　トランプ氏も裏目か：朝日新聞](https://www.asahi.com/articles/ASVB803CVVB8UHBI006M.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-11 [GPU不要で驚きの精度。リアルタイム多言語文字起こしツール「hayamimi」使ってみましたー。｜ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ](https://note.com/humble_bobcat51/n/n64602c64db6c) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-11 [AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します｜太田 賢一／Design Mgr](https://note.com/kenichiota0711/n/n7c8035175167) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-11 [月間100万人のサービス刷新で、 技術選定をHonoに振り切った話](https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-11 [hayamimi/README.ja.md at main · oboroge0/hayamimi](https://github.com/oboroge0/hayamimi/blob/main/README.ja.md) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-11 [ゼロトラストはキツくない｜「完成」を目指す運用がキツい \| CloudNative BLOGs](https://blog.cloudnative.co.jp/articles/answer-ai-era-zero-trust/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-11 [GitHub - p10node/k10s: Kubernetes TUI you can click. Instant search, logs/exec/port-forward, 7 themes, context-aware AI. Single Go binary.](https://github.com/p10node/k10s) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-11 [個人がCAD「SolveCraft」を無料公開、Fusionの部品76個を再現 - FabScene（ファブシーン）](https://fabscene.com/new/make/solvecraft-open-source-parametric-3d-cad-rust-fusion-76-parts-mcp/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-11 [止まらない不正アクセス　ローソン215万件、ココナラやSansanでも情報漏えい](https://japan.cnet.com/article/35253437/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-11 [RAG で「確認」という 2 文字が正解を押し出していた — RRF の二重掲載と、文書頻度での足切り](https://zenn.dev/tomtom55555/articles/ff27671349a277) *(Zenn – トピック LLM)*
+- [ ] 2026-10-11 [開発に使うAIモデルのコストと性能の最適化に挑戦（1）：思考を深くするより、1回のレビューが効いた](https://zenn.dev/petittomato/articles/ai-model-cost-performance-1) *(Zenn – トピック LLM)*
+- [ ] 2026-10-11 [【AI人狼/個人開発】AIに嘘をつかせて、そのウソを他のAIに疑わせる技術](https://zenn.dev/karamage/articles/a912d290c1771e) *(Zenn – トピック AI)*
+- [ ] 2026-10-11 [Claude Code の deny に `../` を書いたら、隣のフォルダへの書き込みが止まらなかった（2.1.296で実測）](https://zenn.dev/emilk1225/articles/73356c9b0e156d) *(Zenn – トピック AI)*
+- [ ] 2026-10-11 [Claude Code に複数のAI担当を任せて失敗した記録と、承認・品質チェック用テンプレート（無料）](https://zenn.dev/emilk1225/articles/d37feb664ed8e5) *(Zenn – トピック AI)*
+- [ ] 2026-10-11 [Chat で頼んで、設計からリリースまでつなぐ magi](https://zenn.dev/yukimemi/articles/2026-10-10-magi) *(Zenn – トピック AI)*
+- [ ] 2026-10-11 [さくらのレンタルサーバー + Cloudflare Clef でコスト0のAIメール振り分けを作った](https://zenn.dev/deimos_falcon/articles/9bdbc1bbe9b34c) *(Zenn – トピック AI)*
+- [ ] 2026-10-11 [食生活の改善をAIに提案してもらった話](https://zenn.dev/taro_xxxxx/articles/341e0c7a121c2b) *(Zenn – トピック AI)*
+- [ ] 2026-10-11 [感性と人脈の AI ネイティブ時代へ](https://zenn.dev/mk404/articles/2026-10-10-ai-native-sensibility-and-network) *(Zenn – トピック AI)*
+- [ ] 2026-10-11 [コードを書かずに、Claude Codeで日本株の投資ツールを2つ作った全体像](https://zenn.dev/stockrules_jp/articles/6901a969f8f086) *(Zenn – トピック AI)*
+- [ ] 2026-10-11 [AI の調べものが同じ日に2回外れた。403 で公式をあきらめ、2年前の記事を今の事実として出していた](https://zenn.dev/claire_ai/articles/ai-shirabemono-machigai) *(Zenn – トピック AI)*
+- [ ] 2026-10-11 [AIで商品の短尺動画を作る前に決めておきたい5つのこと](https://zenn.dev/nereo_ai/articles/dcf3cd4a146ad0) *(Zenn – トピック AI)*
+- [ ] 2026-10-11 [Google Cloud Data Agent Kit入門：MCPとスキルでデータ基盤に接続する](https://zenn.dev/caron14/articles/google-cloud-data-agent-kit-intro) *(Zenn – トピック AI)*
+- [ ] 2026-10-11 [週末ぼっちエンジニアが、Claude Code に「仕事の型」を覚えさせた話](https://zenn.dev/sk8jp/articles/dbcbecf185ba8a) *(Zenn – トピック AI)*
+- [ ] 2026-10-11 [一人事業のAI相棒　送る前に止め、書いた後に確かめる](https://zenn.dev/asagi_lab/books/solo-business-ai-partner) *(Zenn – トピック AI)*
