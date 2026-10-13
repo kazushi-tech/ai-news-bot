@@ -154550,3 +154550,74 @@
 - [ ] 2026-10-11 [評価スクリプトだけが、4か月前のモデルを見ていた](https://zenn.dev/kiribako_dev/articles/eval-pipeline-stale-detector) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-11 [競馬予想 AI で効いたのは、モデルより「市場のズレ」を学ぶ定式化だった](https://zenn.dev/namespace/articles/keiba-ai-market-odds-residual) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-11 [MICE・MissForest と欠損インジケータ — 欠損値処理の選び方ガイド](https://zenn.dev/salesanalytics/articles/b02afcf677ce17) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-13T04:02:09.777Z
+- [ ] 2026-10-13 [David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM](https://www.theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-13 [Threat of AI share crash puts world financial stability at risk, says IMF](https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-13 [IMF warns global economy ‘could soon test the limits of resilience’](https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-13 [IMF Forecasts 2027 Global GDP Boost, But Risks Remain](https://www.bloomberg.com/news/videos/2026-10-13/imf-forecasts-2027-global-gdp-boost-but-risks-remain-video) *(Bloomberg Technology)*
+- [ ] 2026-10-13 [Anthropic Eyeing Data Center Investment in Australia, Envoy Says](https://www.bloomberg.com/news/articles/2026-10-13/anthropic-eyeing-data-center-investment-in-australia-envoy-says) *(Bloomberg Technology)*
+- [ ] 2026-10-13 [India Food Watchdog to Tighten Grip on $80 Billion Online Market](https://www.bloomberg.com/news/articles/2026-10-13/india-food-watchdog-to-tighten-grip-on-80-billion-online-market) *(Bloomberg Technology)*
+- [ ] 2026-10-13 [Tencent Kicks Off $5 Billion Bond Sale to Finance AI Spending](https://www.bloomberg.com/news/articles/2026-10-13/tencent-kicks-off-5-billion-bond-sale-to-finance-ai-spending) *(Bloomberg Technology)*
+- [ ] 2026-10-13 [Don't buy a cheap Android phone without these non-negotiable features](https://www.engadget.com/2281663/android-phone-dont-buy-cheap-without-non-negotiable-features/) *(Engadget)*
+- [ ] 2026-10-13 [「顔写真付き身分証明書画像」大量漏洩の衝撃、専門家が語るリスクと対策](https://xtech.nikkei.com/atcl/nxt/column/18/03790/100900002/) *(日経クロステック IT)*
+- [ ] 2026-10-13 [AI同士の電話は本人確認が重要、米Twilio CEOが語る通信の将来](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12090/) *(日経クロステック IT)*
+- [ ] 2026-10-13 [エージェント型AIがプロジェクトを切り盛りする日　その時、人は？](https://monoist.itmedia.co.jp/mn/articles/2610/13/news034.html) *(ITmedia AI＋)*
+- [ ] 2026-10-13 [「FDEは“成果報酬”にすべきだ」　日本オラクル社長に筆者の持論をぶつけてみた](https://www.itmedia.co.jp/enterprise/articles/2610/13/news058.html) *(ITmedia AI＋)*
+- [ ] 2026-10-13 [Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働](https://www.itmedia.co.jp/news/article/2610/13/2000002204/) *(ITmedia AI＋)*
+- [ ] 2026-10-13 [AIエージェントで「約7人に1人が法令違反リスク」　古いルールを参照させた代償とは](https://atmarkit.itmedia.co.jp/ait/articles/2610/13/news029.html) *(ITmedia AI＋)*
+- [ ] 2026-10-13 [Microsoft、第3世代AIチップ「Maia 300」を2027年に投入　GPU比で電力効率4割向上、自社サービスの主力推論基盤に](https://www.itmedia.co.jp/news/article/2610/13/2000002200/) *(ITmedia AI＋)*
+- [ ] 2026-10-12 [新サービス「Gemini Agent」は企業向け、「Gemini Enterprise」加入者は追加料金なし　日本提供時期は未定](https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/) *(ITmedia AI＋)*
+- [ ] 2026-10-13 [「AIには、もう勝てない」。それでも日本語プログラミング言語「なでしこ」を作り続ける理由 - レバテックLAB](https://levtech.jp/media/detail_940/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-13 [【福田昭のセミコン業界最前線】 AI特需による異常な半導体不足がもたらす個人向け市場の「ディストピア」](https://pc.watch.impress.co.jp/docs/column/semicon/2147451.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-13 [「PowerPoint」のCopilotで自社デザインの適用や作業自動化が可能に／ブランドキットとスキルが一般提供開始、ブランド統一と効率化を促進](https://forest.watch.impress.co.jp/docs/news/2147289.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-13 [GitHub - init-co-jp/diff-tour: Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.](https://github.com/init-co-jp/diff-tour) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-13 [受託でFDEは何がおかしいのか 受託と事業会社のビジネスモデルの違いについて｜柳川慶太](https://note.com/gimupop/n/nc2505ab112b0) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-13 [愛車がAIエージェントとなる「CarWatch」、必要なのはRaspberry Pi 5とローカルAI](https://gigazine.net/news/20261012-carwatch/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-13 [百合展10周年再始動キャンペーン、イベントのティザーイラストに生成AIを使用した事が物議になり、結果告知翌日に開催中止になる](https://posfie.com/@cu6gane/p/fTySpD9) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-13 [AIブームに地域住民が｢待った｣。2,000億ドルのデータセンター建設計画が足止め \| ギズモード・ジャパン](https://www.gizmodo.jp/article/2610-ai-datacenter-protests-us/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-13 [フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃　温度が最高50度に上昇し食品大量廃棄に](https://www.itmedia.co.jp/news/article/2610/13/2000002201/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？](https://gigazine.net/news/20261013-how-machines-learned-precision/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [ローカルデザインシステム（スタイルガイド）｜デジタル庁デザインシステムβ版](https://design.digital.go.jp/dads/guidance/local-design-system/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [Announcing AWS Lambda Web Functions \| Amazon Web Services](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [サイバー攻撃で複数の大手スーパーの冷蔵・冷凍施設が最大50℃に　フランス - ライブドアニュース](https://news.livedoor.com/article/detail/32550772/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [型なんとか - Object.create(null)](https://susisu.hatenablog.com/entry/2026/10/11/124516) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [サイバー攻撃で複数の大手スーパーの冷蔵・冷凍施設が最大50℃に　フランス｜FNNプライムオンライン](https://www.fnn.jp/articles/-/1131558) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [Why Knowledge Graph Projects Fail — and How to Make Them Succeed](https://ontologist.substack.com/p/why-knowledge-graph-projects-fail) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [「CrystalDiskInfo」が累計1億ダウンロードを突破 ～無償のHDD/SSD健康チェックツール／公開から18年での偉業](https://forest.watch.impress.co.jp/docs/news/2147433.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [フランスでスーパー数百店舗にサイバー攻撃 冷蔵設備が標的、検察が捜査開始](https://www.afpbb.com/articles/-/3657159) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [オムロン、フィジカルAI基盤構築へ米PCメーカー「オンロジック」買収 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUF084YV0Y6A001C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [売上高1兆円へ、アシックスはなぜ復活したのか　苦戦するナイキと明暗を分けた「売り方」と「技術」の戦略 \| 集英社オンライン](https://shueisha.online/articles/-/258842) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [相次ぐ情報流出、政府苦慮　「注意喚起」頼み、打つ手乏しく：時事ドットコム](https://www.jiji.com/jc/article?k=2026101200114&g=pol) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [【ITエンジニアの転職支援実績の開示調査】86.4%が「最も高い数値でなくても、算出方法と対象期間を示し定期更新するエージェント」を信頼と回答 前提条件まで確認できたのは10.3%〜選ばれる基準は「数値の高さ」から「検証できる形での公開」へ〜](https://kikkakeagent.co.jp/column/report/11040) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [中古CPUを買ったら「前の持ち主のBAN」でVALORANTが遊べなくなったとの報告](https://gigazine.net/news/20261012-valorant-used-cpu-hardware-ban/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [Microsoft 365 Family/Premiumのストレージが実質削減、最大6TBから2TB“共有”に／謎の月額16,000円プラン「Microsoft 365 Pro」なら5TBを共有](https://forest.watch.impress.co.jp/docs/news/2147365.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [Jevと構造化出力LLMを821件で比較する：正解率、速度、費用、確率](https://zenn.dev/skrtk98/articles/jev-llm-structured-output-benchmark) *(Zenn – トピック LLM)*
+- [ ] 2026-10-13 [Claude APIのプロンプトキャッシュを「効いているか」まで測って導入する手順](https://zenn.dev/yunisuta/articles/claude-api-anthropic-typescript-llm-merp3i) *(Zenn – トピック LLM)*
+- [ ] 2026-10-13 [LLMだけの社会に文化は生まれたか：6体×50世代で成立を分けた「前世代の言葉の渡し方」](https://zenn.dev/metaira/articles/llm-agents-culture-formation-result) *(Zenn – トピック LLM)*
+- [ ] 2026-10-13 [Claude Sonnet 5.5 への移行手順：Sonnet 5 との違い・影響する変更 5 つ・effort の設定](https://zenn.dev/kenji_harada/articles/claude-sonnet-5-5-vs-sonnet-5-opus-5-5-8083fdad) *(Zenn – トピック LLM)*
+- [ ] 2026-10-13 [AI に書かせた記事を公開する前の情報漏えい対策 ― 語の検査・URL の門・読み戻し](https://zenn.dev/mio_data_jp/articles/ai-publish-leak-guard) *(Zenn – トピック LLM)*
+- [ ] 2026-10-13 [マルチエージェント実験で、壊れたデータが「文化あり」の判定を通ってしまった話](https://zenn.dev/metaira/articles/broken-data-passed-culture-test) *(Zenn – トピック LLM)*
+- [ ] 2026-10-13 [【Claude Code】プロンプトキャッシュの基礎とキャッシュ管理をするためのmodsを作ってみた](https://zenn.dev/siguma_sig/articles/07798388e59b08) *(Zenn – トピック LLM)*
+- [ ] 2026-10-13 [実務者が書いたRAGの正解データは「文書の外」を含む — 消さずに分けて測る評価の作り方](https://zenn.dev/boy_techblog/articles/zenn-gold-answers-beyond-docs) *(Zenn – トピック LLM)*
+- [ ] 2026-10-13 [AI だけで回す個人の会社 ― 配車票・検証台・見張りで、Claude を頭脳だけに使う運用術](https://zenn.dev/mio_data_jp/books/ai-company-ops) *(Zenn – トピック LLM)*
+- [ ] 2026-10-13 [AIチューニングエージェントの設計：推論と決定論的探索を組み合わせる](https://zenn.dev/kudan_jp/articles/e4607229e35382) *(Zenn – トピック LLM)*
+- [ ] 2026-10-12 [LLM-jp-4 の公開CPT・SFTデータを読んでみた](https://zenn.dev/yukito_lmlab/articles/llmjp4-public-data) *(Zenn – トピック LLM)*
+- [ ] 2026-10-13 [【開発者・クリエイター向け】背景切り抜き（BG Remover）処理の実装とWEBツールの比較まとめ](https://zenn.dev/valleywag/articles/adb9fc4e6df1a0) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [Claude Code の社内導入で情シスに聞かれる3つの質問に、管理設定と実機検証で答える](https://zenn.dev/acerola_jp/articles/claude-code-managed-settings-security-qa) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [Grok Bot 入門。最初の5分の仕事から、止める線を引く4か所まで公式情報で読み解いた](https://zenn.dev/eques_blog/articles/2d0f706f90694d) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [AIを鵜呑みにせずに頼る ── よく失敗するAIを、仕組みで制御する](https://zenn.dev/eiger_inc/articles/aa7c16ec7b6895) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [モンテカルロ木探索とは？囲碁AIを支えた手法](https://zenn.dev/h888s/articles/gtest-mcts-gtest) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [AI時代に開発手法をどう選ぶか](https://zenn.dev/matsunaopen/articles/architecture-choice-in-ai-era) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [AIで作った業務チェックツールをどう評価する？見逃し・誤検知・確認負荷の3指標](https://zenn.dev/aiofficelab/articles/5cc031e844e8ec) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [Claude Codeに任せる範囲、止める仕組み🚦 計画モード・フック・/loop・課金前確認の使い分け](https://zenn.dev/charge0315/articles/08ab948d28b8de) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [判断を閉じるためのデータと開き直すための記録](https://zenn.dev/dress_code/articles/decisions-data-and-context) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [【Access2026】最新不具合トラッカー＆エラー2465対処法](https://zenn.dev/aiasoby/articles/asoby-20260828090300) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [広告なし・登録不要の筋トレタイマーをAIと作った話｜RecurAI Interval Timer](https://zenn.dev/smalltools_lab/articles/recurai-interval-timer-introduction) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [生成AIの「意図した振る舞い」は、どこで保証されるのか ― MCPから検証可能な実行系へ、Agent研究の新たな方向 ―](https://zenn.dev/albatrosary/articles/72011e841c93a2) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [AI時代こそ、最初の一歩は紙に書く 〜本質を見極めてからAIに渡す〜](https://zenn.dev/yamitake/articles/paper-first-then-ai) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [商品登録、まだ1件ずつ手で作っていますか？ Claude Codeで「1行＝1商品ページ」にする考え方](https://zenn.dev/ec_jidoka_kobo/articles/59d7f01870b2a5) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [Claude Code Modsは要る? コードを書かない私が1つ入れて確かめた ── 安全な入れ方と、使ってみた感想](https://zenn.dev/menmen_ailab/articles/d1b8a41a908ad8) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [TypeSpec × openapi_first によるスキーマ駆動開発の体験がとても良かった](https://zenn.dev/audio_stakes/articles/typespec-openapi-first-rails) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [VLA のファインチューニング用データをシミュレーションで作る：GraspGen-X と MimicGen の使い分け](https://zenn.dev/yohakucode/articles/vla-sim-data-without-demos-notes) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-13 [MLOps入門に効いた洋書3選](https://zenn.dev/soraml/articles/20261013_book_ref) *(Zenn – トピック 機械学習)*
