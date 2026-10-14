@@ -154827,3 +154827,79 @@
 - [ ] 2026-10-13 [音声言語モデルが欲しくて](https://zenn.dev/ivry/articles/a2731736355065) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-13 [覚えすぎるAIは異常を見逃す？ 時系列異常検知モデルKAN-ADを図解でやさしく解説](https://zenn.dev/yuyu1/articles/4be16d9ec2ac57) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-13 [OpenAI Decisions APIを採用する前に 確率と保留条件をPythonで検証する](https://zenn.dev/aipha_euro/articles/106e5f2078b234) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-14T10:40:31.850Z
+- [ ] 2026-10-14 [Nvidia, worth $5.5tn, donates $250m to UK for AI safety research](https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-14 [Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism](https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-14 [AI overlords say they want to democratise their technology. Here’s how \| Richard Wilson and Clara Long](https://www.theguardian.com/commentisfree/2026/oct/14/ai-overlords-democratise-technology) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-14 [Bank of England and IMF bosses warn of cyber threat to trust in financial system](https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-14 [Is the internet finally unusable? Time to go back to faxes and landlines \| First Dog on the Moon](https://www.theguardian.com/commentisfree/picture/2026/oct/14/is-the-internet-finally-unusable-time-to-go-back-to-faxes-and-landlines) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-14 [AI can act exactly like a human, but we still don't think it's conscious](https://www.sciencedaily.com/releases/2026/10/261012185017.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-10-14 [Men Can’t Stop Faking How Much They Know About AI](https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-14 [AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity](https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-14 [AI Robots: China Is Beating the US to $5 Trillion Market](https://www.bloomberg.com/news/newsletters/2026-10-14/ai-robots-china-is-beating-the-us-to-5-trillion-market) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [Tycoons Amplify Calls for Stronger AI Rules as Risks Mount](https://www.bloomberg.com/news/articles/2026-10-14/tycoons-amplify-calls-for-stronger-ai-rules-as-risks-mount) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [Siemens Data Center Push Makes Skeleton Latest Baltic Unicorn](https://www.bloomberg.com/news/articles/2026-10-14/siemens-data-center-push-makes-skeleton-latest-baltic-unicorn) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [Tech Leaders on Moving AI From Pilot to Scale](https://www.bloomberg.com/news/videos/2026-10-14/tech-leaders-on-moving-ai-from-pilot-to-scale-video) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [MAIA: Interview of Guillaume Princen on Anthropic’s AI Strategy](https://www.bloomberg.com/news/videos/2026-10-14/anthropic-s-princen-on-ai-safety-concerns-video) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [Anthropic Executive Says Open-Source AI Models Are Higher Risk](https://www.bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [ASML Rises as Chip-Gear Maker Can’t Keep Up With AI Demand](https://www.bloomberg.com/news/articles/2026-10-14/asml-raises-full-year-sales-outlook-as-ai-boom-drives-demand) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [Billionaire Mittal Says OneWeb Leads Musk in India Satcom Race](https://www.bloomberg.com/news/articles/2026-10-14/ai-regulation-needed-now-before-accidents-occur-mittal-says) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [IMF, World Bank Tout Bangkok Blueprint Against Digital Fraud](https://www.bloomberg.com/news/articles/2026-10-14/imf-world-bank-unveil-bangkok-blueprint-to-combat-digital-fraud) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [Ark's Wood Favors Nvidia, AMD in 'Volatile' Chip Cycle](https://www.bloomberg.com/news/videos/2026-10-14/ark-s-wood-favors-nvidia-amd-in-volatile-chip-cycle-video) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [Sunil Mittal Warns AI Is Outpacing Regulation](https://www.bloomberg.com/news/videos/2026-10-14/sunil-mittal-warns-ai-is-outpacing-regulation-video) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [ASML Raises Full-Year Sales Outlook](https://www.bloomberg.com/news/videos/2026-10-14/asml-raises-full-year-sales-outlook-video) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [India’s Goyal Calls US Ties ‘Very Good’ Despite Trade Tensions](https://www.bloomberg.com/news/articles/2026-10-14/india-s-goyal-calls-us-ties-very-good-despite-trade-tensions) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [Singapore’s PDG Seeks $1.2 Billion Loan for Malaysia Data Center](https://www.bloomberg.com/news/articles/2026-10-14/singapore-s-pdg-seeks-1-2-billion-loan-for-malaysia-data-center) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [Hitachi Energy CEO on AI, Energy Security and Grids](https://www.bloomberg.com/news/videos/2026-10-14/hitachi-energy-ceo-on-ai-energy-security-and-grids-video) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [India’s Jaishankar on Key Foreign Policy Objectives](https://www.bloomberg.com/news/videos/2026-10-14/india-s-jaishankar-on-key-foreign-policy-objectives-video) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [Malaysia Taps China’s Satellite Tech for Earlier Flood Warnings](https://www.bloomberg.com/news/articles/2026-10-14/malaysia-taps-china-s-satellite-tech-for-earlier-flood-warnings) *(Bloomberg Technology)*
+- [ ] 2026-10-14 [An Android widget revelation](https://www.computerworld.com/article/4234625/android-widget.html) *(Computerworld)*
+- [ ] 2026-10-14 [Firefox takes aim at the enterprise browser market](https://www.computerworld.com/article/4234892/firefox-takes-aim-at-the-enterprise-browser-market.html) *(Computerworld)*
+- [ ] 2026-10-14 [People are hating on Apple Music's redesigned black-and-white logo](https://www.engadget.com/2286289/people-are-hating-on-apple-music-redesigned-black-and-white-logo/) *(Engadget)*
+- [ ] 2026-10-14 [Qualcomm wins lawsuit against Arm but will only receive two bucks](https://www.engadget.com/2286281/arm-must-pay-qualcomm-2-license-breach-lawsuit/) *(Engadget)*
+- [ ] 2026-10-14 [The EU’s next chapter in AI is agentic](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic) *(OpenAI News)*
+- [ ] 2026-10-14 [情報漏洩の裏に「A2B攻撃」、スマホアプリの接続先サーバーに不正アクセス](https://xtech.nikkei.com/atcl/nxt/column/18/03790/101400005/) *(日経クロステック IT)*
+- [ ] 2026-10-14 [Anthropic共同創業者「サイバー攻撃、オープンモデル悪用の可能性」](https://www.itmedia.co.jp/aiplus/article/2610/14/2000002272/) *(ITmedia AI＋)*
+- [ ] 2026-10-14 [日立が「木造データセンター」展開　“鉄とコンクリ”から木材へ、“見た目がオシャレ”以外の価値は？](https://www.itmedia.co.jp/business/articles/2610/14/news069.html) *(ITmedia AI＋)*
+- [ ] 2026-10-14 [「AIがAIを作れるようになる確率は2027年に50%超」　Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符"」](https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/) *(ITmedia AI＋)*
+- [ ] 2026-10-14 [デンマークの880万人分流出、原因はパスワード「123456」　ハッカー「侵入は難しくなかった」　現地報道](https://www.itmedia.co.jp/news/article/2610/14/2000002257/) *(ITmedia AI＋)*
+- [ ] 2026-10-14 [Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z](https://note.com/shi3zblog/n/ncb38d2978074) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-14 [ロシアにあるデータセンターへの攻撃によって、ロシアのオンライン活動が急落したというグラフは偽物だし、活動急減も疑わしいよ - 電脳塵芥](https://nou-yunyun.hatenablog.com/entry/2026/10/14/150000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-14 [秋田県立大学、クマ被害防止技術の開発状況を報告　秋田犬ロボ披露 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOCC134Q80T11C26A0000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-14 [AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発](https://gigazine.net/news/20261014-anthropic-scion-version-control-system/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-14 [ゲーム開発に生成AIはどこまで許容される？ ドラクエの堀井雄二氏が30分で作った推理ゲームの衝撃 #エキスパートトピ（多根清史） - エキスパート - Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/3c9a8fadb0d9dee44199522b188a8f37f9526d19) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-14 [AWS、Webアプリをそのまま実行できる「Lambda Web Functions」を発表](https://codezine.jp/news/detail/29996) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-14 [コープデリの申し込み画面で生後5か月の赤子の覚悟を問われる「やれます‼7倍粥からいかせてください‼」「裏ごしなんて必要ないっす‼」](https://togetter.com/li/2757915) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-14 [AIスクレイパーのせいでホスティング費用が数倍に跳ね上がる事態が発生、サイト運営者は「AI企業は最悪の寄生虫」と痛烈に批判](https://gigazine.net/news/20261014-dnalounge-ai-pushed-web-hosting-bill/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-14 [【Claude Mythos級オープンモデル拡散で始まる悪夢】チームみらい・安野貴博「従来型サイバー防衛ではもう無理」／「1～2年で発生」今井翔太が懸念する「GPT暴走」以上の事件【AI QUEST】](https://www.youtube.com/watch?v=MJk8JDTUoGE) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-14 [SB Intuitions、国産AI「Sarashina」を無料公開　チャットやAPIで6モデル](https://www.watch.impress.co.jp/docs/news/2147706.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-14 [トーバルズ、「説いた通りにやった」。LLMでLinuxの13年来のバグ4件を発見](https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-14 [SBI証券のFXで“誤ロスカット”　再委託先IIJが作業ミス、システムでも検知できず　779口座が対象](https://www.itmedia.co.jp/news/article/2610/14/2000002249/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-14 [フランス全土のスーパーマーケットの冷蔵庫を無理矢理50度まで上げたサイバー攻撃の詳細、パスワードは毎日自動更新で「本日の日付」になるという脆弱性](https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-14 [【第5報】不正アクセスによる障害に関する調査の進捗について \| IDCフロンティア](https://www.idcf.jp/news/topics/20261014001) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-14 [WindowsメディアプレイヤーがCD情報を読み込まなくて、タイトルとか1つずつ入力しなきゃいけない→いつの間にかサ終してたから、有識者が代替ソフトいっぱい教えてくれた](https://togetter.com/li/2758004) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-14 [日本郵便の法人向けサイト、他社の担当者名や連絡先が見える状態に　最大4807件](https://www.itmedia.co.jp/news/article/2610/14/2000002254/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-14 [不正アクセス、クラウドサービスが急所　顧客のスズキなど情報一斉流出 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC138MY0T11C26A0000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-14 [AI時代にアジャイルは時代遅れなのか｜mtx2s](https://note.com/mtx2s/n/n4c65f0913304) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-14 [AIエージェントによるウェブサイトへの攻撃の注意喚起](https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-14 [15.6型×3画面を折りたたんで持ち運べるモニター、サンコーから](https://pc.watch.impress.co.jp/docs/news/2147995.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-14 [モバイルバッテリーの処分についてちゃんと調べたのに、地域の公民館にある小型家電回収BOX、市役所の本庁舎、別館へ行く羽目になってたらい回しに「自治体によって違う」](https://togetter.com/li/2757912) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-14 [猫をユーザーにして分かった、IoTものづくりの失敗5選｜猫と開発の日々 - レバテックLAB](https://levtech.jp/media/detail_942/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-14 [パスワードが「123456」の企業アカウント経由でデンマークの国家登録簿から880万人分の個人情報が流出](https://gigazine.net/news/20261014-denmark-123456-password/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-13 [Google新AI「Gemini 4 Argon」登場、人気AIは破産申請](https://zenn.dev/sugawara_ai/articles/ai-news-20261014) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [DevelopersIO 2026 Nagoyaに参加しました  #devio2026](https://zenn.dev/chagama01/articles/29bbb93d89d0a3) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [Markdownを設計書として見やすくするツール(VSCode拡張)を作ってみた](https://zenn.dev/playree/articles/91ef4c23bcb8fb) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [AI 開発時代に疲れたリーダーの話](https://zenn.dev/jjiemon/articles/d1761b051db7cc) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [攻撃する側もAIを使う時代 ― 医療機器ネットワークの脅威モデルをどう更新するか](https://zenn.dev/taichiendoh/articles/attacker-ai-threat-model-medical-device-network) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [AI の「テストが通りました」を信じない:終了コードを証拠にする](https://zenn.dev/k_iijima/articles/c93db4323345ec) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [AIエージェント開発、BigQueryで学んだ「プロンプトだけでは防げない」エージェントの権限管理](https://zenn.dev/idnet/articles/c9b80addbdd432) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [AI時代のDevEx：開発者体験はAI活用の前提条件になった](https://zenn.dev/araneahw/articles/devex-as-foundation-for-ai) *(Zenn – トピック AI)*
+- [ ] 2026-10-13 [AI討論 MAGI Games 開発記 #6 — AI 3体に自分のゲームを遊ばせたら、3体とも「やってない」と言った](https://zenn.dev/mappy55/articles/magi-games-devlog-06) *(Zenn – トピック AI)*
+- [ ] 2026-10-14 [LangGraphとQlib Alpha158、Google TimesFMで作る「自律型AIヘッジファンド」をOSS公開した話](https://zenn.dev/prompter_note/articles/0e0571d8f87920) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-14 [表形式データ向け基盤モデルNVIDIA Kumo Tabularの紹介](https://zenn.dev/mkj/articles/eacf1f9635d3ae) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-14 [どこに蒸留するかは学んで決める──BiToK-SDがTop-Kトークン選択を双レベル最適化で解く仕組み](https://zenn.dev/lixian/articles/bitok-sd-bilevel-topk-self-distillation) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-13 [回帰分析を「勾配が0になる点」として解く：単回帰・重回帰をPythonで確かめる](https://zenn.dev/tmtk/articles/73dca68de607f2) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-13 [Kaggle Biohub 細胞追跡コンペ 銀メダル解法と、public LB に振り回された話](https://zenn.dev/shimu_free/articles/4bd8455610e908) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-13 [Psi4とRDKitでFukui Index計算_第4回：機械学習を見据えた複数分子の連続計算（バッチ処理）アプリ開発](https://zenn.dev/pincolo/articles/e8d00cf432f6e8) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-13 [ニューラルネットワークの構造制約で学習パラメーターを削減する](https://zenn.dev/id774/articles/10c83351f40c6b) *(Zenn – トピック 機械学習)*
