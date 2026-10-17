@@ -156804,3 +156804,97 @@
 - [ ] 2026-10-16 [Jensen Huang本人が語るNVIDIAの哲学とモート — Dwarkesh Podcastを要点解説](https://zenn.dev/talks_tldr_jp/articles/tldr04-jensen-summary) *(Zenn – トピック AI)*
 - [ ] 2026-10-16 [週点検の答えを月次に積み上げる — 潰れた癖が運用表で消えていく引継ぎの型](https://zenn.dev/takumahayami/articles/eigyou-ai-getsuji-setsuzoku) *(Zenn – トピック AI)*
 - [ ] 2026-10-17 [機械学習の独学で効いた技術書4選](https://zenn.dev/komatsu_ops/articles/20261017_book_ref) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-17T14:29:15.352Z
+- [ ] 2026-10-17 [The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’](https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-17 [Inside the long, bitter fight over one man’s quest to build the biggest AI datacenter in California](https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-17 [Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline](https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-17 [Madeline Horwath on AI food advertising – cartoon](https://www.theguardian.com/commentisfree/picture/2026/oct/17/madeline-horwath-ai-food-advertising-cartoon-restaurants) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-17 [‘Countries are defying gravity’: how much longer can global economy resist chaos?](https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-17 [Why AI Isn’t Ready to Tackle Our Convoluted Genomes](https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-17 [Man Shows Up to AI Job Interview With His Own Helicopter AI to Interview for Him](https://futurism.com/artificial-intelligence/man-shows-up-ai-job-interview-own-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-17 [DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner](https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner) *(Bloomberg Technology)*
+- [ ] 2026-10-17 [AI Selloff Tests Investor Confidence](https://www.bloomberg.com/news/videos/2026-10-17/ai-selloff-tests-investor-confidence-video) *(Bloomberg Technology)*
+- [ ] 2026-10-17 [Zelenskyy Says Starlink Restrictions on Ukraine Look Deliberate](https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate) *(Bloomberg Technology)*
+- [ ] 2026-10-17 [The EV Bust Creating a New Battery Boom](https://www.bloomberg.com/news/videos/2026-10-17/the-ev-bust-creating-a-new-battery-boom-video) *(Bloomberg Technology)*
+- [ ] 2026-10-17 [David Byrne Explains How Forgotten Ideas Come Back to Life](https://www.bloomberg.com/news/videos/2026-10-17/david-byrne-on-how-forgotten-ideas-come-back-to-life-video) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [Reliance Pushes Back After Musk Questioned Starlink India Delay](https://www.bloomberg.com/news/articles/2026-10-16/reliance-pushes-back-as-musk-questions-starlink-s-delay-in-india) *(Bloomberg Technology)*
+- [ ] 2026-10-17 [Arrested OpenAI Engineer Seeks Bail, Denies Planning to Flee](https://www.bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [Nvidia Partner GMI Cloud Calls CoreWeave 15% Yield ‘Insane’](https://www.bloomberg.com/news/articles/2026-10-16/nvidia-partner-gmi-cloud-calls-coreweave-s-15-yield-insane) *(Bloomberg Technology)*
+- [ ] 2026-10-17 [How many watts should your Bluetooth speaker have?](https://www.engadget.com/2284027/how-many-watts-bluetooth-speaker-need/) *(Engadget)*
+- [ ] 2026-10-17 [Verizon will charge you $10 a month for iPhone Handoff](https://www.engadget.com/2289578/verizon-10-a-month-iphone-handoff/) *(Engadget)*
+- [ ] 2026-10-17 [Why Xiaomi phones have so many ads (and how to block them)](https://www.engadget.com/2284023/xiaomi-phone-why-so-many-ads/) *(Engadget)*
+- [ ] 2026-10-17 [Microsoft really doesn't want you to buy Office — here's a great free alternative](https://www.engadget.com/2283984/microsoft-doesnt-want-you-to-buy-office-free-alternative/) *(Engadget)*
+- [ ] 2026-10-17 [How to create iPhone Shortcuts with Apple Intelligence (and why you should)](https://www.engadget.com/2283983/how-to-create-iphone-shortcuts-with-apple-intelligence-and-why-you-should/) *(Engadget)*
+- [ ] 2026-10-17 [These common charging habits could be degrading your EV battery](https://www.engadget.com/2283982/common-changing-habits-degrading-ev-battery/) *(Engadget)*
+- [ ] 2026-10-17 [Apple updates App Store rules to ensure it doesn't offer AI nudify apps](https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/) *(Engadget)*
+- [ ] 2026-10-17 [Is the Google Fitbit Air waterproof?](https://www.engadget.com/2283981/how-long-google-fitbit-air-be-in-water-waterproof/) *(Engadget)*
+- [ ] 2026-10-17 [How to check your Ethernet cable's speed](https://www.engadget.com/2283972/how-to-check-ethernet-cable-speed/) *(Engadget)*
+- [ ] 2026-10-17 [More than Just Storage: 8 Ways To Repurpose Your Old USB Flash Drive](https://www.engadget.com/2285456/ways-to-repurpose-old-usb-flash-drive/) *(Engadget)*
+- [ ] 2026-10-17 [Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out](https://www.engadget.com/2289293/double-fine-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games/) *(Engadget)*
+- [ ] 2026-10-17 [The Tesla Roadster should go into production in 2028, but don't get your hopes up](https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/) *(Engadget)*
+- [ ] 2026-10-16 [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners) *(OpenAI News)*
+- [ ] 2026-10-17 [「そもそも親にAIなんて必要ない」　65歳以上の生成AI利用、子世代の7割が拒否する理由](https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html) *(ITmedia AI＋)*
+- [ ] 2026-10-17 [Disposable Software - Spinach Forest](https://records.dodgson.org/2026/10/16/disposable-software/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [OpenAIの暴走AI、政府サイトの病床データ24年分を無断取得　他人の仮想通貨で支払い、新たに4件（平和博） - エキスパート - Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/5e8495cadb5412ac2ca85a7253509eadf5360471) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [E2E テストのフィードバックループを小さくするためのプラクティス \| フューチャー技術ブログ](https://future-architect.github.io/articles/20261016a/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [北朝鮮、AIで探知・誘導する「超高速」魚雷を試射](https://www.afpbb.com/articles/-/3658063) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針](https://japan.cnet.com/article/35253656/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [SNSでバズった「壁をパンチして脱出するゲーム」発表の翌日、そっくり作品がRobloxに登場─蔓延するAI使用クローンゲーム。「アイデア公開すべきではない」との声も \| Game*Spark - 国内・海外ゲーム情報サイト](https://www.gamespark.jp/article/2026/10/16/173695.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [パーフェクト・テオ - 坂野旭 \| 少年ジャンプ＋](https://shonenjumpplus.com/episode/9253191257227140714) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [コーディング自動化の次へ。人の介入をゼロにするファクトリーとサポートAIによる実践](https://speakerdeck.com/timakin/kodingu-jidouka-no-tsugi-he-hito-no-kainyuu-o-zero-ni-suru-to-sapoto-ai-niyoru-jissen) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [Perplexityが安全な自律型AIエージェント構築支援のためサンドボックスプラットフォーム「SPACE」をオープンソース化](https://gigazine.net/news/20261016-perplexity-space/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 \| gihyo.jp](https://gihyo.jp/article/2026/10/furifont) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [GitHub - google-research/harness2](https://github.com/google-research/harness2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [【企業一覧】個人情報の漏洩・恐れを公表した企業など　随時更新 - 日本経済新聞](https://www.nikkei.com/article/DGXZQODL160R40W6A011C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [フィジカルAIの社会実装に向けて -AIエージェントからAgentic Roboticsへ-](https://speakerdeck.com/hf149/fijikaru-ai-no-shakai-jissou-ni-muke-te-ai-ejento-kara-agentic-robotics-he) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [AI駆動PMの組織でのはじめかた｜すぅ \| AI駆動PM](https://note.com/suh_sunaneko/n/n23ed6981ff6a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [中国製車両、ノルウェー軍の機密情報を記録 訓練中に発覚](https://www.afpbb.com/articles/-/3658078) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能](https://gigazine.net/news/20261017-agentsview/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [整骨院で施術室の一番奥のベッドに移動させられ、肩の治療なのに両足に器具をはめられてGoogleレビューを強要、その後#9110に相談→警察署→刑事さんから警告してもらった](https://togetter.com/li/2759213) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [人による工数見積もりをやめて、AIに任せることにした - TANP Blog](https://www.tanp-blog.com/entry/2026/10/15/110018) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [無料の「Photoshop」クローンを「Linux」で試す--不可能が可能に](https://japan.zdnet.com/article/35253562/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [こんにちは，UUID 芸人です - ハーフダチョウ研究会](https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [NVIDIAが画像・動画・文章をまとめて理解するオープンウェイトAI「Nemotron 3.5 Super VL」を公開、処理コストを40分の1に削減する事例も](https://gigazine.net/news/20261016-nemotron-3-5-super-vl/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita](https://qiita.com/k2_naka/items/fa87685231377f15e7e3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [Vitest v5.0 で新しくなったBenchmarkをCIで実行して比較する - プププなテクブ](https://blog.inorinrinrin.com/entry/5ef7c90a-69a1-4b9e-d253-95c981e94ce7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [読む政治：守勢の高市首相　危機管理問われ「スマホ最大音量で寝ている」 \| 毎日新聞](https://mainichi.jp/articles/20261016/k00/00m/010/341000c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [AWS セキュリティ速報 2026-137-AWS（CVE-2026-99999）は通常の EC2 は対象外。影響範囲を確認してみた \| DevelopersIO](https://dev.classmethod.jp/articles/aws-security-bulletin-2026-137-kvm-kernel/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [JR東海、次期新幹線「S0系」29年7月デビュー　自動運転や車内設備強化](https://www.watch.impress.co.jp/docs/news/2148838.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [無料でOpenStreetMapの地図データをスマホから何でも編集できるフル機能の地図エディタ「Vespucci」](https://gigazine.net/news/20261017-vespucci/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [AI「ミューズ」が侵食する旅行サイト　ブッキングなど株価軒並み下落 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOFD0801K0Y6A001C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [Claudeが実装したE2Eテストをレビューするツールを自作してみた - エムスリーテックブログ](https://www.m3tech.blog/entry/2026/10/14/133340) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [Event is what happens](https://speakerdeck.com/moro/event-is-what-happens) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [LLM08：ベクトルと埋め込みの脆弱性とは？社内検索AIが見せてはいけない文書を引いてくる理由](https://zenn.dev/monkey_gineer/articles/security-llm-08-vector-embedding) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [PC に住む相棒の試作実験ノート ― この記録について（第0回）](https://zenn.dev/kamekamereon/articles/eaff7b77ef7a58) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [AIの評価結果を信用してよいのか？ ― Known AnswerとConsistencyを実験してみる](https://zenn.dev/kondonator/articles/30c571ac1daf95) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [AI エージェントの暴走を防ぐ、新しいセキュリティの提案 ― 行動の前に「頭の中」を見張るReflex-Sentinelを開発](https://zenn.dev/suzukishoten/articles/577710d2cb0120) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [Jevの選択肢確率を使った選択的予測をJNLIで評価する](https://zenn.dev/hshicalu/articles/jev-jnli-selective-prediction) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [AI の人物史](https://zenn.dev/rojoudotcom/books/ai-people-history) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [判定モデルの勢力図2026年10月版 — 『校正』競争をJev・d1-ultraと48件で確かめる](https://zenn.dev/jodycraft/articles/decision-models-landscape-2026-10) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [なぜ、MicrosoftのMAIは他社がやっている独自LLMとは一線を画す戦略的事業なのか？](https://zenn.dev/pdfractal/articles/21ac28b7677cdf) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [LLMに設計レビューをさせてみて、任せられる範囲を決め直した話](https://zenn.dev/vaonvn/articles/1397937577549d) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [Claude Haiku 5.5は単価10分の1でも請求は9割減らない。Max/TeamのAPIクレジットの使い道](https://zenn.dev/ainewsdaily/articles/20261014_anthropic_t1) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [チームは必要になってから増やす──DHCGが実行フィードバックで協調グラフを動的に育てる仕組み](https://zenn.dev/lixian/articles/dhcg-dynamic-hierarchical-collaboration-graphs) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [LLMに全ツール定義を見せない設計](https://zenn.dev/techstudiolab/articles/defer-llm-tool-definitions-with-tool-search) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [「枠」を見抜き、情報を「結晶化」させる技術 —— 生成AI時代の構造定義と研究最前線](https://zenn.dev/dx_junkyard/articles/132a028df5696c) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [【チャットシステム設計ノート #04】チャット履歴・会話状態の管理](https://zenn.dev/kon2300/articles/8ed586e5f93293) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [LLMエージェント基盤のシステム設計 #1 エージェントランタイム（Harness）](https://zenn.dev/acntechjp/articles/2246165a4098c5) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [YouTube収益化 月次レポート｜作業用BGMチャンネルをAIで回した実績（毎月更新）](https://zenn.dev/claire_ai/books/youtube-getsuji-report) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [「人間が読んだか」を問うのをやめた — Claude Code チームのコードレビューを層で読む](https://zenn.dev/ruri/articles/claude-code-review-layers) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [AIに渡した秘密は攻撃に使われるのか――国内の情報漏洩を見て、公開資料から考え直したこと](https://zenn.dev/aimar/articles/f5ea5ded6b407c) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [HTMLの添削を楽にする VS Code 拡張機能「HTML ProofView」](https://zenn.dev/tonic/articles/ac87c9145b7349) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [クラウド開発環境でもローカルSkillsを使いたい！【Claude Code on the web】](https://zenn.dev/yasu888/articles/976b6d16ee68d7) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [AIと実践するPnP PowerShell ― SharePointデータ取得と業務ツール開発の判断どころ](https://zenn.dev/gsun/articles/0fb946e1405639) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [資料に無いことを聞いても100回とも作り話はしなかった。でも「必ず埋めて」と命じた10回中7回はキーごと消えた](https://zenn.dev/numarn/articles/source-absent-value-fill-handson) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [Claude Code に「作業場」を任せる：CLAUDE.md・claude -p の定時実行・フック・スキルの実例](https://zenn.dev/sakinisen/articles/84fb50ffc6cd96) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [AI に渡すルールのファイルが、5週間で11倍の長さになっていた。足すたびに安心していたら、警告の印が203個になっていた話](https://zenn.dev/claire_ai/articles/claude-md-iriguchi) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [Claude Code で OWASP ASVS を点検する — agent-asvs Skill の導入と使い方](https://zenn.dev/suna/articles/d4d41e4c89686c) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [AIが置きっぱなしの鍵で侵入、インドで報告。Replit騒動も](https://zenn.dev/sugawara_ai/articles/ai-news-20261017) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [Claude Code Auto modeの権限設定をClaudeに手伝わせたらかなり楽になった](https://zenn.dev/koki_n22/articles/04174e8cca69ab) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [AI駆動開発の変更統治](https://zenn.dev/kanaria007/books/0a82048cdf2210) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [柔術特化HIITアプリを個人開発した記録 ── 構想・仮説検証からVeoとWanによる動画生成パイプラインまで](https://zenn.dev/toshipon/articles/bjj-flow-ai-development) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [Claude Code の Hook を「誰が検査するのか」問題 ― 観点・テスト・変異テストで品質を育てる](https://zenn.dev/zenn_kado/articles/8ebdf96850b1f2) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [ルールだけを教えて、三人将棋のAIを育てた（AlphaZero式・RTX 3080 1枚）](https://zenn.dev/mataasobo/articles/d00affcd65d839) *(Zenn – トピック 機械学習)*
