@@ -156733,3 +156733,74 @@
 - [ ] 2026-10-16 [TP/DPマルチGPUサービング実測記録: Runpod A100 4枚で3つの構成を比較](https://zenn.dev/hyeonjae/articles/llm-tp-dp-serving-lab-ja) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-15 [1M級LLMを1MBに圧縮する個人研究の記録を、ここに置いていきます](https://zenn.dev/ai_engineer_kz/articles/2fa420d2bf6e8e) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-15 [ロジスティック回帰を最尤推定で解く：勾配とヘッセ行列を導いてニュートン法で求める](https://zenn.dev/tmtk/articles/891221e21485a8) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-17T01:41:53.295Z
+- [ ] 2026-10-16 [Decluttering your online life: how to get your digital house in order and protect your data from AI](https://www.theguardian.com/australia-news/2026/oct/17/decluttering-online-how-to-get-your-digital-house-in-order-protect-data-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-16 [Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds](https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-13 [Here’s how a learning strategy can make AI work for you](https://theconversation.com/heres-how-a-learning-strategy-can-make-ai-work-for-you-291860) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-16 [Pixel 11 Rambler AI Voice Typing: How It Rewrites Speech](https://www.techrepublic.com/article/news-pixel-11-rambler-ai-voice-typing/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-16 [iOS 27 AI Shortcuts: What Changed and 5 Useful Things to Try](https://www.techrepublic.com/article/news-ios-27-ai-shortcuts-automations/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-16 [Nvidia Launches Three Nemotron AI Models, Including Two for Local AI Agents](https://www.techrepublic.com/article/news-nvidia-nemotron-3-5-super-vl-bolt-ai-models/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-16 [Meta Unveils Muse Spark Open, Its Most Powerful Open-Weight AI Yet](https://www.techrepublic.com/article/news-meta-muse-spark-open-apple-mac-studio/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-16 [Anthropic Pitches AI Safety Bill to Lawmakers](https://www.bloomberg.com/news/articles/2026-10-16/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [Wall Street Week \| America’s Relationship Woes, Battery Pivot, Farmers’ Fed Warning](https://www.bloomberg.com/news/videos/2026-10-16/wall-street-week-battery-pivot-farmers-fed-warning-video) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [JP Morgan Strategist on AI Jitters, Investing Outlook](https://www.bloomberg.com/news/videos/2026-10-16/jp-morgan-strategist-on-ai-jitters-investing-outlook-video) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [OpenAI Poaches Another SpaceX Sales Lead Focused on AI](https://www.bloomberg.com/news/articles/2026-10-16/openai-poaches-another-spacex-sales-lead-focused-on-ai) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [Apple Names Meta Veteran as Litigation Chief in Legal Team Shake-Up](https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [Anthropic Signs First Data-Center Deal in Canada With EverWind](https://www.bloomberg.com/news/articles/2026-10-16/everwind-to-build-nova-scotia-data-center-lease-to-ai-developer) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [Thomas Hoenig on Rate Hikes, Inflation Outlook](https://www.bloomberg.com/news/videos/2026-10-16/thomas-hoenig-on-rate-hikes-inflation-outlook-video) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [Financing The AI Boom: Masters in Business with Bob Michele](https://www.bloomberg.com/news/videos/2026-10-16/financing-the-ai-boom-masters-in-business-video) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [Thoma Bravo’s Proofpoint Taps JPMorgan, UBS on Varonis Debt Deal](https://www.bloomberg.com/news/articles/2026-10-16/thoma-bravo-s-proofpoint-taps-jpmorgan-ubs-on-varonis-debt-deal) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’](https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [Schwab CEO on AI Strategy, Investing Trends, and ‘Charley’](https://www.bloomberg.com/news/videos/2026-10-16/schwab-ceo-on-ai-strategy-investing-trends-charlie-video) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [Power On: Exclusive News About Apple’s October Launch Event](https://www.bloomberg.com/news/videos/2026-10-16/power-on-exclusive-news-on-apple-s-october-launch-event-video) *(Bloomberg Technology)*
+- [ ] 2026-10-16 [A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago](https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/) *(Engadget)*
+- [ ] 2026-10-16 [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai) *(OpenAI News)*
+- [ ] 2026-10-17 [「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞](https://www.nikkei.com/article/DGXZQOCD158220V11C26A0000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [変な日本地図にツッコミが殺到してしまう「伊能忠敬の方がよっぽど正確」「沖縄の形が特に酷い」](https://togetter.com/li/2759076) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [How the Claude Code team does code review / claude.dev Blog](https://claude.dev/blog/solving-code-review-at-anthropic/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [スタディサプリ売却、リクルートの誤算　塾現場「生徒なかなか見ない」 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC149AE0U6A011C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス - ZOZO TECH BLOG](https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [Neural Networks Are Already Clean](https://already-clean.goodfire.com/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [Maintaining software with the GPT-6 family \| OpenAI Developers](https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-17 [ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する](https://zenn.dev/nkzn/articles/my-first-void) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log](https://blog.naoshihoshi.com/entry/2023/02/17/120000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [さくらのVPSにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について](https://vps.sakura.ad.jp/contents/info/202610-pendingapply/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める](https://www.4gamer.net/games/050/G105051/20261015021/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [さくらのクラウドにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について](https://cloud.sakura.ad.jp/news/2026/10/16/cve-2026-99999/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [個人情報漏えい のべ1億6500万人分余に 利用者の対策は? \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261016de60239) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [BASE子会社の漏えい、約2335万人分に　209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も](https://www.itmedia.co.jp/news/article/2610/17/2000002349/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [JPCERT/CC、アプリ解析によるAPI攻撃の手口を報告、Flutter解析ツールの痕跡も ——API認証情報の扱いに注意喚起 \| gihyo.jp](https://gihyo.jp/article/2026/10/web-api-attacks) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [【レビュー】「Surface Laptop Ultra」を試す 81万円のRTX Spark搭載機はMacBook Proを凌駕するか](https://www.watch.impress.co.jp/docs/review/review/2148940.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [NVD - Home](https://nvd.nist.gov/vuln/detail/cve-2026-99999) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-17 [「Firefox」ならすぐに要約できて、拡張機能が使えて、プライバシーも守れる [てっぱんアプリ！]](https://k-tai.watch.impress.co.jp/docs/column/teppan/2148465.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-16 [「何倍圧縮」で規模を比べてはいけない——1つの主張を5回訂正した記録](https://zenn.dev/ai_engineer_kz/articles/ec47c15a1ae6b3) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [RAGかFine-tuningか：失敗原因から選ぶ設計判断](https://zenn.dev/kas_blog/articles/20260908-rag-vs-fine-tuning) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [メール下書きの修正、AIに理由を1行添えさせると件名まで直った話](https://zenn.dev/every_ai_recipe/articles/email-revision-reason-one-line) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [Tech Watch 2026-10-16: 記憶と監査の見える化](https://zenn.dev/laiken/articles/20261016-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [同じ記録、違う読み：記憶の代わりに相手の記録を渡された4つのAIモデル](https://zenn.dev/whalesurfer/articles/069977d0d51f91) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [コードの見える化: 決定的な計算を活用する](https://zenn.dev/shoyataguchi/articles/4f983556c00874) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [エージェントの経験を知識に変えてスキルを育てる WikiSkill の三層構造](https://zenn.dev/suwash/articles/wikiskill_20261015) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [開発に使うAIモデルのコストと性能の最適化に挑戦（3）：OpenCode Goの月の上限をほぼ使い切ったので、内訳を調べて選び方を探った話](https://zenn.dev/petittomato/articles/ai-model-cost-performance-3) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [科学研究向けAgent Skills集を試す: 統計スキルは「結論」ではなく「裏付けの質」を変えた](https://zenn.dev/matsushima_a/articles/day-017-scientific-agent-skills-stat-review) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [小説の企画コンペを事業企画に転用したら、20案から経営会議資料まで1時間だった ― plan_studio](https://zenn.dev/infra_ojisan/articles/plan-studio-business-planning) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [RAGの検索結果が毎回違う — top_k明示・同点の決定打・スナップショット隔離の3点で再現性を取る](https://zenn.dev/yukihayama/articles/rag-topk-index-drift) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [無料のDeepSeekに「なぜ無料なのか」を書かせた──OpenCodeで記事を一本つくった検証ログ](https://zenn.dev/ogiri/articles/opencode-deepseek-free-tier-article-log) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [OpenAI SDK のコードを Grok API に移したら、変更は2か所・費用は計測できた分で約$0.16だった](https://zenn.dev/fk2000/articles/grok-api-openai-sdk) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [LLMで架空企業94社・仕訳70万行の月次財務データセットを作ってみた](https://zenn.dev/bekku/articles/a49512485fcde6) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [エージェントスキルの費用は「ラベル」より「ファイル」で確かめる（価格ラベル付き4,902件の調査から）](https://zenn.dev/skillselion/articles/d9888336d44210) *(Zenn – トピック LLM)*
+- [ ] 2026-10-16 [AIが書いたRailsのどこを読むか - 不変条件とミューテーションテストでレビューを絞る](https://zenn.dev/okamyuji/books/rails-ai-review-invariants) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [AIの応答を待つ間に元データが変わったら？ Firestoreで古い改定案を確定させない設計](https://zenn.dev/yun_bow/articles/72433e0a2d061f) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [Claude Code 入門と逆引き：基本の7ステップと、やりたいことから探す応用](https://zenn.dev/zundamon_tools/books/claude-code-reverse-dictionary) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [Claude Code 応用編まとめ その4（#16〜#20）：/goal・出力スタイル・キーバインド・設定の調べ方・コミット署名](https://zenn.dev/zundamon_tools/articles/claude-code-advanced-guide-4) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [VRMからAI用キャラクターシートを一発で書き出すブラウザツールを作った](https://zenn.dev/kaazujp/articles/912d0d06b6eca8) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [コードより文書が多い——FA業務の非コード工程をAIに任せる](https://zenn.dev/kensho_ya/articles/fa-non-code-docs-with-ai) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [The Edge of Intelligence ── AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり](https://zenn.dev/leading_ai/books/edge-ai-intelligence) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [草案：Co-generative Systems Design（共生成的システム設計）](https://zenn.dev/geeknees/articles/227ca996fba821) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [人間は私1人、AIの席は20以上。副業を回す「AIだけの会社」の作り方 第1回：席を分ける（雛形を配布）](https://zenn.dev/ai_shihan/articles/c3766c7b346e87) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [AIにも経験から生まれる「主観」を持たせる： SubjectiveMindEngine](https://zenn.dev/yo__oy/articles/d610efec2d1960) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [Codexは毎日リセットされる？OpenAIの「28日間、改善かフルリセット」施策を整理](https://zenn.dev/sponge841841/articles/2026-10-06-codex-28-days-reset-policy) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [Redmine AI Helperプラグイン 3.11.0までの新機能](https://zenn.dev/haru_iida/articles/redmine-ai-helper-updates-3110) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [Jensen Huang本人が語るNVIDIAの哲学とモート — Dwarkesh Podcastを要点解説](https://zenn.dev/talks_tldr_jp/articles/tldr04-jensen-summary) *(Zenn – トピック AI)*
+- [ ] 2026-10-16 [週点検の答えを月次に積み上げる — 潰れた癖が運用表で消えていく引継ぎの型](https://zenn.dev/takumahayami/articles/eigyou-ai-getsuji-setsuzoku) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [機械学習の独学で効いた技術書4選](https://zenn.dev/komatsu_ops/articles/20261017_book_ref) *(Zenn – トピック 機械学習)*
