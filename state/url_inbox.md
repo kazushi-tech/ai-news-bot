@@ -156898,3 +156898,77 @@
 - [ ] 2026-10-17 [柔術特化HIITアプリを個人開発した記録 ── 構想・仮説検証からVeoとWanによる動画生成パイプラインまで](https://zenn.dev/toshipon/articles/bjj-flow-ai-development) *(Zenn – トピック AI)*
 - [ ] 2026-10-17 [Claude Code の Hook を「誰が検査するのか」問題 ― 観点・テスト・変異テストで品質を育てる](https://zenn.dev/zenn_kado/articles/8ebdf96850b1f2) *(Zenn – トピック AI)*
 - [ ] 2026-10-17 [ルールだけを教えて、三人将棋のAIを育てた（AlphaZero式・RTX 3080 1枚）](https://zenn.dev/mataasobo/articles/d00affcd65d839) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-18T01:38:15.528Z
+- [ ] 2026-10-17 [Black Box: The Chatbots \| What I Saw at the Double Six Ranch \| Ep 6 - podcast](https://www.theguardian.com/australia-news/audio/2026/oct/18/black-box-the-chatbots-what-i-saw-at-the-double-six-ranch-ep-6-full-story-podcast) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-17 [Why Britain should reject the lure of cheap – and  scary – Chinese AI](https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-17 [Using an AI Agent Makes You a Sucker for Phishing Emails](https://futurism.com/artificial-intelligence/ai-agent-sucker-phishing-emails) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-18 [AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks](https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks) *(Bloomberg Technology)*
+- [ ] 2026-10-18 [You don't have to turn off your phone to switch SIM cards (but you probably should)](https://www.engadget.com/2285099/why-turn-off-phone-remove-sim-card-explained/) *(Engadget)*
+- [ ] 2026-10-18 [What to check if your Nintendo Switch 2 isn't connecting to the TV](https://www.engadget.com/2285088/nintendo-switch-2-not-connecting-to-tv-what-check/) *(Engadget)*
+- [ ] 2026-10-17 [OpenAI is building a humanoid robot, but the body isn't the real challenge](https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/) *(Engadget)*
+- [ ] 2026-10-17 [These Samsung Galaxy tablets are in their last year of software support](https://www.engadget.com/2284679/samsung-galaxy-tablets-last-year-software-support/) *(Engadget)*
+- [ ] 2026-10-17 [Why your Wi-Fi speeds can drop in the evening, and what to do about it](https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why/) *(Engadget)*
+- [ ] 2026-10-17 [How to keep your smart home running even if the internet goes down](https://www.engadget.com/2284525/how-to-keep-smart-home-running-internet-goes-down/) *(Engadget)*
+- [ ] 2026-10-17 [Why it's important to monitor your PC's background processes](https://www.engadget.com/2284465/why-its-important-to-monitor-pc-background-processes/) *(Engadget)*
+- [ ] 2026-10-17 [Don't throw away your old PlayStation — Do this instead](https://www.engadget.com/2284423/dont-throw-away-old-playstation-do-this-instead/) *(Engadget)*
+- [ ] 2026-10-17 [The Tesla Roadster is far from the first car to use fans for downforce](https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/) *(Engadget)*
+- [ ] 2026-10-17 [Leaked gameplay purports to show a canceled Assassin's Creed game set in ancient China](https://www.engadget.com/2289636/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china/) *(Engadget)*
+- [ ] 2026-10-17 [Android Auto can be used outside of your car: Here's how](https://www.engadget.com/2284102/how-android-auto-used-outside-of-car/) *(Engadget)*
+- [ ] 2026-10-17 [What's actually eating all the storage space on your Android Phone?](https://www.engadget.com/2283986/whats-actually-eating-all-the-storage-space-on-your-android-phone/) *(Engadget)*
+- [ ] 2026-10-17 [iPhone Duo shipping estimates have already been pushed back to 2027](https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/) *(Engadget)*
+- [ ] 2026-10-17 [You might be surprised by how much the Slate truck can carry](https://www.engadget.com/2289615/slate-truck-how-much-can-carry/) *(Engadget)*
+- [ ] 2026-10-17 [What does the yellow light on your Alexa device mean and how do you clear it?](https://www.engadget.com/2284036/amazon-alexa-device-yellow-light-meaning/) *(Engadget)*
+- [ ] 2026-10-17 [Anbernic's RG DDS is almost double the price of the original Nintendo 3DS](https://www.engadget.com/2289602/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/) *(Engadget)*
+- [ ] 2026-10-17 [This Samsung Galaxy feature can protect you from untrustworthy apps](https://www.engadget.com/2284034/samsung-galaxy-feature-protects-from-untrustworth-apps-auto-blocker/) *(Engadget)*
+- [ ] 2026-10-17 [Why are some locations blurred out on Google Maps?](https://www.engadget.com/2284032/why-some-places-blurry-google-maps/) *(Engadget)*
+- [ ] 2026-10-17 [Common problems with Amazon Alexa and how to fix them](https://www.engadget.com/2284031/amazon-alexa-common-problems-fixes/) *(Engadget)*
+- [ ] 2026-10-17 [Should you have both Ethernet and Wi-Fi for your home?](https://www.engadget.com/2284029/both-ethernet-and-wifi-for-home/) *(Engadget)*
+- [ ] 2026-10-17 [「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由](https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html) *(ITmedia AI＋)*
+- [ ] 2026-10-18 [Void を触ってみた。もう全部これでよくね？ \| ashunar0](https://ashunar0.dev/posts/try-void/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-18 [コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開](https://pc.watch.impress.co.jp/docs/news/2149045.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-18 [ヘヤツクリ](https://heyatsukuri.pages.dev/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-18 [AnthropicのAI時代のコードレビュー術 - Claude Codeによる自動レビューと人間の役割｜npaka](https://note.com/npaka/n/ndb4b0f424ced) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-18 [We don't need Claude Code anymore and the best replacement is free](https://www.makeuseof.com/dont-need-claude-code-anymore-best-replacement-qwen-is-free/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-18 [画像生成・編集モデル「FLUX 3 Image Klein」が登場、5.6BのオープンモデルでゲーミングPCでローカル動作し日本語テキストの描画や位置指定にも対応](https://gigazine.net/news/20261016-flux-3-image-klein/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-18 [Windows11アップデート: 右クリックメニューを高速化する方法 #Windows - いおりのパソコン技術メモ](https://iori016.hatenablog.com/entry/2025/11/02/110654) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-18 [Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性](https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-18 [「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい](https://togetter.com/li/2759529) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-18 [ドコモの「緊急地震速報」不配、原因を発表　「従来と異なるデータ」で誤認識](https://k-tai.watch.impress.co.jp/docs/news/2149025.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-18 [Beyond Your Data Engineering 2026 - お前の考える狭いデータエンジニアリングの枠組みを越えてゆけ #data_summit_findy by @Kazaneya_PR \| ドクセル](https://www.docswell.com/s/kazaneya/Z4N7EN-2026-10-09) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-18 [無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能](https://gigazine.net/news/20261017-ibisOffice/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-18 [巨大なプロンプトの末尾に置いた1行は、4回とも無視された](https://zenn.dev/orca_forge/articles/one-line-in-a-huge-prompt) *(Zenn – トピック LLM)*
+- [ ] 2026-10-18 [正答率がほぼ同じAIでも、確認工数はなぜ違うのか？―READY研究が示す評価の落とし穴](https://zenn.dev/aiofficelab/articles/4b655d99d9d334) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [【チャットシステム設計ノート #05】RAGを採用するべきか](https://zenn.dev/kon2300/articles/91e6f49ba6a567) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [「止める基準」を“誰が・いつ・なぜ”まで記録する ― 複数AIエージェント運用における承認ログとロールバック設計](https://zenn.dev/taichiendoh/articles/ai-agent-approval-log-rollback-design) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [Tech Watch 2026-10-18: 検証可能性から組む](https://zenn.dev/laiken/articles/20261018-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [開発に使うAIモデルのコストと性能の最適化に挑戦（4）：OpenCodeの無料DeepSeekは、omp版と差が出たか](https://zenn.dev/petittomato/articles/ai-model-cost-performance-4) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [32人の3Dアバターが全員消えた日。非エンジニアの私がバイブコーディングでやらかした全記録と、AI顧問のGeminiと築いた20の防衛壁](https://zenn.dev/scopewest/articles/612c5ed8a2480b) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [RAGチャットボットが出典つきで嘘をついた日 ― ありがちな事故を全部詰め込んだ架空のポストモーテム](https://zenn.dev/zumiraku/articles/df23687030e149) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [ソース非公開のJSをAIエージェントに解析させるREA、実際にどこまで正しいか検証した](https://zenn.dev/matsushima_a/articles/day-018-reverse-engineer-minified-jquery) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [LangChainの会話で最初の指示が消える — 固定指示分離・token管理・要約圧縮の3段構え](https://zenn.dev/yukihayama/articles/langchain-history-window-trim) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [AIの「確認しました」はどこまで信じていいのか。根拠のない✓を見抜く方法](https://zenn.dev/kimshoshi/articles/ai-check-mark-needs-quote) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [gemini embedding 2 による資料の類似性は見た目で決まる？ 内容で決まる？ PDF と画像で検証してみた](https://zenn.dev/bekku/articles/bdf265a70d27be) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [Claude Opus 5.5 の Fast mode を実測した ― 料金 2 倍で 2.3 倍速、効く場面と効かない場面](https://zenn.dev/persimmoq/articles/claude-opus-5-5-fast-mode-benchmark) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [個人サイトの案内役を無料で実装した —— AIに答えを書かせず、自信があるときだけ返す](https://zenn.dev/motimotinotch/articles/b9e36bb30b36e4) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [企業の財務データこそローカルLLMを使いたい。ローカルLLMに財務分析の問題解かせてみた。](https://zenn.dev/bekku/articles/e619fad8202e3a) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [Colab から RunPod まで、オープンモデルのセルフホストで確認できたこと・できなかったこと](https://zenn.dev/kentaro36/articles/colab-runpod-selfhost-api-direction) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [AIは攻撃の経済性を変えたが手口は変えていない：防御側は3つの時間を縮める](https://zenn.dev/xim2jp_tokyo/articles/neta-42-zenn-summary) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [ローカルLLMの画像翻訳が2.7秒から30秒になった計測の落とし穴](https://zenn.dev/maruhana/articles/local-llm-image-translation-cache-pitfall) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [最新モデルに替えたら全件400😱 Claude Opus 5.5が強制ツール指定を受け付けなかった週末と13日黙っていたシャドウ](https://zenn.dev/charge0315/articles/10db715933d2b3) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [Jetson AGX XavierでNemotron 3.5 Lightningを動かしてみる](https://zenn.dev/nooop/articles/9d5f19aed77e18) *(Zenn – トピック LLM)*
+- [ ] 2026-10-17 [理解負債を測るCLIを3日で作って、自分で使って止めた話](https://zenn.dev/riko_yyy/articles/af85029a213366) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [I built a context-aware menu bar app that quietly protects your focus](https://zenn.dev/andy32/articles/be9d3d608438e1) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [前月の行を初回の商談に持ち出す — 初期値を1行だけ商談前メモに置く起動の型](https://zenn.dev/takumahayami/articles/eigyou-ai-zengetsu-gyou-shokai) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [AIエージェントに「やらせないこと」をどう止めているか ── 個人開発の現場のセキュリティ対策](https://zenn.dev/atsushi_apps/articles/ai-agent-guardrails-indie-dev) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [Claude Codeのセッションを「部署」に分けて、個人開発を回す](https://zenn.dev/atsushi_apps/articles/claude-code-sessions-busho) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [Claude Codeのレビューが全部通ったのに残った書き漏れ、原因は差分だった](https://zenn.dev/ara_jlu/articles/diff-review-blind-spot) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [AI感のないAWS構成図をAIエージェントに描かせる実践法](https://zenn.dev/sunsun_eng/articles/aws-architecture-diagram-ai-agent) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [中学生でもわかる Lean 4 #25｜AI時代の「確かめ方」](https://zenn.dev/dantarg/articles/lean4-ai-age-verification) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [対話イベントを変換するとき、欠落と訂正をどう記録するか？](https://zenn.dev/kotanpolin/articles/topodialogue-event-conversion-audit) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [【残業ゼロへのヒント】Google最新AI「Gemini 4」で仕事は速くなる？ なのに「文字入力」だけ渋滞していませんか](https://zenn.dev/keyro/articles/gemini-4-argon-input-bottleneck) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [Data Engineering Agentで既存パイプラインを改修・移行する](https://zenn.dev/web_benriya/articles/bigquery-data-engineering-agent-migration) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [hook で Claude Code に .env や鍵ファイルを消させない](https://zenn.dev/husenn/articles/claude-code-secret-guard-hook) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [AI を並べて開発すると PR がぶつかる。その片づけを PR の前に済ませる道具を作った](https://zenn.dev/soracolor/articles/cfd333d04d0aba) *(Zenn – トピック AI)*
+- [ ] 2026-10-17 [TabPFN学習帳 ― Claude Code から初心者 KNIMEST への講義資料](https://zenn.dev/knimest/books/tabpfn-lecture-for-knimest) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-17 [Kaggleの作業で「うっかり提出」をなくす：Kaggle CLIと確認ラッパーと、本番と同じハードで測る話](https://zenn.dev/koheip/articles/kaggle-safe-submit-workflow) *(Zenn – トピック 機械学習)*
