@@ -158099,3 +158099,74 @@
 - [ ] 2026-10-20 [生成AIアプリのUX設計：「1クリックのテンプレート」と「自由なプロンプト生成」を両立するハイブリッドパイプライン](https://zenn.dev/ethan2000/articles/1a5b1836467213) *(Zenn – トピック AI)*
 - [ ] 2026-10-20 [18-⑤その2 Kaggle実践3 Biohub細胞トラッキング：2位の解法まとめ](https://zenn.dev/rg687076/articles/bc95962949497c) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-20 [RecSys 2026 参加レポート：Generative Recommendation の進展と潜在的な興味の発見](https://zenn.dev/dmmdata/articles/recsys-2026-report) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-20T20:56:02.069Z
+- [ ] 2026-10-20 [Americans, this is your chance to slap down the tech broligarchs](https://www.theguardian.com/global/2026/oct/19/midterm-elections-tech-broligarchs) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-20 [From Iran to AI: the six key voter issues shaping the US midterm elections](https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/voter-issues-midterms-elections) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-20 [French Government Calls Emergency Meetings With Platforms Over Protests](https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-20 [Meta’s Muse AI Agent Caught Leaking Users’ Intimate Personal Information](https://futurism.com/future-society/meta-muse-ai-agent-sharing-private-data) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-20 [Major Data Center Developer Rents Floating Prison Barge to House Contract Construction Workers](https://futurism.com/future-society/data-center-nscale-norway-prison-barge-workers) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-20 [Experts Warn of Humans Becoming Empty Vessels Controlled by AI](https://futurism.com/artificial-intelligence/ai-humans-empty-vessels) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-20 [Using AI to plan your next holiday? Sometimes, too much information is just too much](https://theconversation.com/using-ai-to-plan-your-next-holiday-sometimes-too-much-information-is-just-too-much-292686) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-20 [Claude Opus 5.5 vs GPT-6 Astra- Anthropic’s New AI Model Explained](https://www.techrepublic.com/videos/claude-opus-5-5-vs-gpt-6-astra-anthropics-new-ai-model-explained/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-20 [Meta AI Agent Sent a Facebook Marketplace Buyer to a Seller’s Home](https://www.techrepublic.com/videos/meta-ai-agent-sent-a-facebook-marketplace-buyer-to-a-sellers-home/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-20 [One Developer Used Claude AI to Build 7 Free Adobe Alternatives](https://www.techrepublic.com/videos/one-developer-used-claude-ai-to-build-7-free-adobe-alternatives/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-20 [Apple’s 512GB Mac Studio Is Almost Here: What Buyers Should Know](https://www.techrepublic.com/article/news-apple-512gb-mac-studio-release-date-price-ai/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-20 [Super Micro Jumps After Preliminary Results Top Estimates](https://www.bloomberg.com/news/articles/2026-10-20/super-micro-jumps-after-preliminary-results-top-estimates) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [SpaceX Earnings Blow Past Wall Street Estimates](https://www.bloomberg.com/news/videos/2026-10-20/spacex-earnings-blow-past-wall-street-estimates-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [The Takeaways From Netflix's Earnings Report and Forecast](https://www.bloomberg.com/news/videos/2026-10-20/takeaways-from-netflix-s-earnings-report-and-forecast-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Anthropic S1 Shows $80 Billion Loss This Year, WSJ Reports](https://www.bloomberg.com/news/videos/2026-10-20/anthropic-s1-shows-billions-in-losses-wsj-reports-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Anthropic May Spend $750 Billion on Computing Costs, WSJ Reports](https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Nvidia-Backed Pigment Nabs $250 Million to Challenge Microsoft](https://www.bloomberg.com/news/articles/2026-10-20/nvidia-backed-pigment-nabs-250-million-to-challenge-microsoft) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Democrats Warn Tech CEOs Over Election Disinformation](https://www.bloomberg.com/news/articles/2026-10-20/democrats-tell-tech-ceos-to-do-more-on-election-disinformation) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Australia Seeks Global Alliance to Fight Big Tech on Child Harms](https://www.bloomberg.com/news/articles/2026-10-20/australia-seeks-global-alliance-to-fight-big-tech-on-child-harms) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [SpaceX Earnings Live: Updates on SPCX 3Q 2026 Results, Elon Musk Comments](https://www.bloomberg.com/news/live-blog/2026-10-20/spacex-third-quarter-earnings-live-coverage) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Meta’s Chief Global Affairs Officer Joel Kaplan Departing](https://www.bloomberg.com/news/articles/2026-10-20/meta-s-chief-global-affairs-officer-joel-kaplan-departing) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Four-Minute Transfers Upend How Money Moves](https://www.bloomberg.com/news/videos/2026-10-20/four-minute-transfers-upend-how-money-moves-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [JPMorgan Brings JPM Coin To Ether For Clients](https://www.bloomberg.com/news/videos/2026-10-20/jpmorgan-brings-jpm-coin-to-ether-for-clients-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Redefining Market Leaders With New Finance: Kaul](https://www.bloomberg.com/news/videos/2026-10-20/redefining-market-leaders-with-new-finance-kaul-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Seeing Some AI-To-AI Crypto Commerce: Jardine](https://www.bloomberg.com/news/videos/2026-10-20/seeing-some-ai-to-ai-crypto-commerce-jardine-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Business As Usual After Liquid Hack: Back](https://www.bloomberg.com/news/videos/2026-10-20/business-as-usual-after-liquid-hack-back-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [AI Gut Check, Inside Citadel's Securities Conference](https://www.bloomberg.com/news/videos/2026-10-20/open-interest-10-20-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [AI's Next Frontier: The Agent Economy](https://www.bloomberg.com/news/videos/2026-10-20/ai-s-next-frontier-the-agent-economy-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [AI didn’t create your IT data problem, it just exposed it](https://www.computerworld.com/article/4237895/ai-didnt-create-your-it-data-problem-it-just-exposed-it.html) *(Computerworld)*
+- [ ] 2026-10-20 [Judge tosses sexual abuse lawsuit from Sam Altman's sister](https://www.engadget.com/2292346/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/) *(Engadget)*
+- [ ] 2026-10-20 [Meta suspends Muse chats sharing feature after it left private details exposed](https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/) *(Engadget)*
+- [ ] 2026-10-20 [Google brings Gemini Personal Intelligence to Android Auto](https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/) *(Engadget)*
+- [ ] 2026-10-20 [Employees warned TikTok about child exploitation, court documents show](https://www.engadget.com/2292225/employees-warned-tiktok-about-child-exploitation-court-documents-show/) *(Engadget)*
+- [ ] 2026-10-20 [How long can you expect your original Steam Deck to last?](https://www.engadget.com/2289277/how-long-steam-deck-last-lifespan-support/) *(Engadget)*
+- [ ] 2026-10-20 [AMD is bringing its next-gen FSR 4.1 upscaling tech to Xbox](https://www.engadget.com/2292103/amd-is-bringing-its-next-gen-fsr-41-upscaling-tech-to-xbox/) *(Engadget)*
+- [ ] 2026-10-20 [How often should you restart your Apple Watch?](https://www.engadget.com/2288986/how-often-should-restart-apple-watch/) *(Engadget)*
+- [ ] 2026-10-20 [Spotify is dancing around its AI 'slop and spam' problem](https://www.engadget.com/2291954/spotify-is-dancing-around-its-ai-slop-and-spam-problem/) *(Engadget)*
+- [ ] 2026-10-20 [Don't put your phone in the TSA bin — do this instead](https://www.engadget.com/2288969/why-shouldnt-put-phone-tsa-bin/) *(Engadget)*
+- [ ] 2026-10-20 [You can build your own mechanical keyboard, but is it worth the price?](https://www.engadget.com/2288961/build-keyboard-why-worth-it/) *(Engadget)*
+- [ ] 2026-10-20 [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant) *(OpenAI News)*
+- [ ] 2026-10-20 [OpenAI acquires Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio) *(OpenAI News)*
+- [ ] 2026-10-20 [NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation](https://huggingface.co/blog/nvidia/cosmos3-h-dreams) *(Hugging Face Blog)*
+- [ ] 2026-10-20 [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress) *(Hugging Face Blog)*
+- [ ] 2026-10-20 [UDPは「到着」を確認しない、パケットキャプチャーでTCPとの違いを知ろう](https://xtech.nikkei.com/atcl/nxt/column/18/03797/101300003/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [4位は「富士通UNIXは残り約4600台、製造業が約3割　約160社が移行方針決まらず」40代の注目トップ10](https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500418/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [業務層へのAI導入、業務プロセスをAIエージェントに置き換える](https://xtech.nikkei.com/atcl/nxt/column/18/03786/100600003/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [都立明治公園に込めたこだわり、8mの高低差を克服　設計者がポイント解説](https://xtech.nikkei.com/atcl/nxt/column/18/03520/101900023/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [OneDriveのCopilotでファイルを音声要約、ポッドキャスト風にも切り替え](https://xtech.nikkei.com/atcl/nxt/column/18/01787/101600231/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [超小型SSDを常時接続、アプリのデータを移動しCドライブの空き容量を確保](https://xtech.nikkei.com/atcl/nxt/column/18/03738/083100011/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [NTTドコモがミリ波の普及で協業拡大、2波800MHz幅の利用は大きな武器](https://xtech.nikkei.com/atcl/nxt/column/18/00687/101900257/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [手のひらサイズのテレビチューナー、USB接続で視聴・録画を楽しめる](https://xtech.nikkei.com/atcl/nxt/column/18/03741/083100002/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [決済技術で購買体験の摩擦軽減へ、金融の変化に対応するJCB二重会長兼社長](https://xtech.nikkei.com/atcl/nxt/column/18/00677/092400215/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [東急電鉄、AI画像認識でドアの閉扉判断を支援　ワンマン運転士の負担軽減へ](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12103/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [副業可のIT企業で働くエンジニア、システム開発系の副業申請するも不許可に](https://xtech.nikkei.com/atcl/nxt/column/18/00084/00445/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [新品高騰で広がる中古活用と第三者保守　IT機器延命か購入か、用途で分ける](https://xtech.nikkei.com/atcl/nxt/column/18/03752/101300004/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [利用者はAI、画面なきSaaS台頭　SAP・Oracle・Salesforceが進む「死」の先](https://xtech.nikkei.com/atcl/nxt/column/18/03802/101900001/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [AIコーディングのAPIキーが狙われている　OpenCodeのキー流出とインフォスティーラー「Aoki」から学ぶ対策](https://atmarkit.itmedia.co.jp/ait/articles/2610/21/news011.html) *(ITmedia AI＋)*
+- [ ] 2026-10-20 [あなたの会社は、慌てて脆弱性検査にARTEXを使わなくていい｜Yusuke Kawabata（SaaS運営）](https://note.com/uplucid/n/ncb9e3567ce2f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [AIペネトレーションテスト基盤「Cairn」の公開パネルから見えた攻撃活動についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/20/205855) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [datalab-to/indra-ocr · Hugging Face](https://huggingface.co/datalab-to/indra-ocr) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [日本企業へのサイバー攻撃、中国製AI「ARTEX」使用](https://www.afpbb.com/articles/-/3658516) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [なんと23の主要なオープンソースプロジェクトのうち11は1人または2人で運営されている実態が明らかに](https://gigazine.net/news/20261020-open-source-projects/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [高機能タスクマネージャー「Process Explorer」v17.2が公開 ～NPUや効率モードに対応／プロセスのメモリマップの表示やライブカーネルメモリダンプの作成も](https://forest.watch.impress.co.jp/docs/news/2149689.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [These Gemini automations are actually worth setting up on your Android phone](https://www.makeuseof.com/gemini-automations-android/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [確かめない技術 第1回：スクリーンショットを撮らない技術](https://zenn.dev/garplab/articles/a2ba17e517261d) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [CodexでGPT-6 Astraを選ぶ判断軸とAPI移行チェック](https://zenn.dev/kas_blog/articles/20260908-gpt-6-astra-codex) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [AIエージェントにサーバーを触らせる前に入れた5つの安全装置と、その限界](https://zenn.dev/himori_ops/articles/8c28db7d119e81) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [Claude Code のセッション同士でメッセージを送り合うなどスラッシュコマンドに無い機能6つ](https://zenn.dev/yohakucode/articles/claude-code-features-without-slash) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [AI同士の依頼は英語の電報調、私への報告は日本語だけ。レビューの返事は418→167トークンに](https://zenn.dev/twinharness/articles/ai-telegraph-vs-plain-japanese) *(Zenn – トピック AI)*
