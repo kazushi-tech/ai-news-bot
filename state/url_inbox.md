@@ -157858,3 +157858,127 @@
 - [ ] 2026-10-19 [Claude Code ModsとJevで作るモデルルーター入門](https://zenn.dev/sunsun_eng/articles/claude-code-mods-jev-model-router) *(Zenn – トピック AI)*
 - [ ] 2026-10-19 [QUBO++でFMQA（量子化学編）：引き伸ばしたH₂のスピン対称性の破れを60回の評価で見つける](https://zenn.dev/comp_lab/articles/fmqa-chemistry-pyqbpp) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-18 [多項ロジスティック回帰を自分で解く：ソフトマックス関数で3段階の負荷状態を予測する](https://zenn.dev/tmtk/articles/8adde8f57cb7b7) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-20T10:28:46.075Z
+- [ ] 2026-10-19 [New AI tool can predict cancer survival by a single patient selfie, study suggests](https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-20 [Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?](https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-20 [Don’t be fooled. The AI that was supposed to save us time is doing just the opposite \| Gaby Hinsliff](https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-20 [‘These risks are real’: the threat of AI bioweapons – podcast](https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-20 [Is this the beginning of the end of the AI stock market boom?](https://www.theguardian.com/business/2026/oct/20/ai-stock-market-boom-beginning-of-the-end-imf-wallstreet-nasdaq) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-19 [Microsoft could hold an advantage with Copilot for Legal](https://aibusiness.com/generative-ai/microsoft-could-hold-advantage-copilot-for-legal) *(AI Business)*
+- [ ] 2026-10-20 [AI reveals how a warming climate will intensify NZ’s most extreme downpours](https://theconversation.com/ai-reveals-how-a-warming-climate-will-intensify-nzs-most-extreme-downpours-294147) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-20 [Politics with Michelle Grattan: Ed Husic urges brakes on data centres ‘swamping’ Australia](https://theconversation.com/politics-with-michelle-grattan-ed-husic-urges-brakes-on-data-centres-swamping-australia-294687) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-20 [Anyone Can Make a Robot Move, Few Can Make It Stop](https://analyticsindiamag.com/deep-tech/anyone-can-make-a-robot-move-few-can-make-it-stop) *(Analytics India Magazine)*
+- [ ] 2026-10-20 [Amazon Pledges €16 Billion in Germany on Data Centers, Prime](https://www.bloomberg.com/news/articles/2026-10-20/amazon-pledges-16-billion-in-germany-on-data-centers-prime) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Ocado Rally Tipped to Extend as JPMorgan Sets Street-High Target](https://www.bloomberg.com/news/articles/2026-10-20/ocado-rally-tipped-to-extend-as-jpmorgan-sets-street-high-target) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Emerging Stocks Are Trading at Biggest-Ever Discount to US](https://www.bloomberg.com/news/articles/2026-10-20/emerging-stocks-are-trading-at-their-biggest-ever-discount-to-us) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [FNZ Directors to Face Shareholders in New Zealand Court](https://www.bloomberg.com/news/articles/2026-10-20/fnz-directors-to-face-employee-shareholders-in-new-zealand-court) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Elice’s Record First-Day Plunge Hammers Korea’s Retail Investors](https://www.bloomberg.com/news/articles/2026-10-20/elice-s-record-first-day-plunge-hammers-korea-s-retail-investors) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [CME's Terry Duffy on the Disconcerting State of Finance Regulation](https://www.bloomberg.com/news/videos/2026-10-20/cme-s-terry-duffy-on-the-state-of-finance-regulation-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [South Korean Data Center Firm Elice Plunges in Trading Debut](https://www.bloomberg.com/news/videos/2026-10-20/data-center-firm-elice-plunges-in-trading-debut-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [MNT-Halan Shares Rise 18% in Egypt Trading Debut After IPO](https://www.bloomberg.com/news/articles/2026-10-20/mnt-halan-shares-rise-18-in-egypt-trading-debut-after-ipo) *(Bloomberg Technology)*
+- [ ] 2026-10-19 [US Moves to Bar China’s DeepSeek From Federal Agency Systems](https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [US Sanctions China’s Y Combinator in Google AI Secrets Case](https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [AI Fears Roar Back With Data Center Firm Elice’s 32% Debut Flop](https://www.bloomberg.com/news/articles/2026-10-20/data-center-firm-elice-plunges-32-in-debut-after-korea-ipo) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Cybersecurity Startup Blackwall Joins Unicorns With Fundraising](https://www.bloomberg.com/news/articles/2026-10-20/cybersecurity-startup-blackwall-joins-unicorns-with-fundraising) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Sea Starts Enterprise Cloud Foray While Eyeing a Fintech Arm IPO](https://www.bloomberg.com/news/articles/2026-10-20/sea-starts-enterprise-cloud-foray-while-eyeing-a-fintech-arm-ipo) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Anthropic in Talks for $45B Nscale Cloud Computing Deal](https://www.bloomberg.com/news/videos/2026-10-20/anthropic-in-talks-for-45b-nscale-cloud-computing-deal-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Australia Set to Sue Facebook, TikTok in Child-Safety Push](https://www.bloomberg.com/news/articles/2026-10-20/australia-to-sue-facebook-tiktok-for-alleged-breaches-of-ban) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [AI Tool That Hacked Korean Banks Was Used in Japan, GMO Says](https://www.bloomberg.com/news/articles/2026-10-20/ai-tool-that-hacked-korea-banks-were-used-in-japan-gmo-says) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [US to Bar China’s DeepSeek From Federal Agency Systems](https://www.bloomberg.com/news/videos/2026-10-20/us-to-bar-china-s-deepseek-from-federal-agency-systems-video) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Meta’s new commercial terms say if its AI makes a mistake, it will legally be the customer’s fault](https://www.computerworld.com/article/4237414/metas-new-commercial-terms-say-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html) *(Computerworld)*
+- [ ] 2026-10-20 [The Apple Store will only let you check out two iPhone Duos](https://www.engadget.com/2291389/apple-store-two-iphone-duo-limit/) *(Engadget)*
+- [ ] 2026-10-20 [How to stop audio from auto-playing on Android Auto](https://www.engadget.com/2288195/how-to-stop-audio-automatically-play-android-auto/) *(Engadget)*
+- [ ] 2026-10-19 [What can you use the HDMI port on your Ugreen NAS for?](https://www.engadget.com/2288161/ugreen-nas-hdmi-port-uses/) *(Engadget)*
+- [ ] 2026-10-19 [Robot vacuums have a major privacy problem you should be aware of](https://www.engadget.com/2288133/robot-vacuum-major-privacy-problem-you-should-know/) *(Engadget)*
+- [ ] 2026-10-19 [Meta tweaks its new terms of service after backlash against scraping](https://www.engadget.com/2291188/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping/) *(Engadget)*
+- [ ] 2026-10-19 [Why your expensive Wi-Fi 7 router could be delivering slower speeds](https://www.engadget.com/2288083/wifi-7-router-delivering-lower-speeds-reasons/) *(Engadget)*
+- [ ] 2026-10-19 [What does MLO mean on your router and should you enable it?](https://www.engadget.com/2288038/mlo-router-meaning-should-you-enable/) *(Engadget)*
+- [ ] 2026-10-19 [Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages) *(OpenAI News)*
+- [ ] 2026-10-20 [月例更新で1400件修正の衝撃、Microsoftが示した管理術「リスクコホート」](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12105/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [トレンドマイクロ、国内の組織向けに最大100億円相当のセキュリティー支援](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12104/) *(日経クロステック IT)*
+- [ ] 2026-10-20 [「どの国のモデルか」は本質ではない　「中国製LLMは危険な指示を実行」発言で話題の専門家に補足してもらった](https://www.itmedia.co.jp/aiplus/article/2610/20/2000002430/) *(ITmedia AI＋)*
+- [ ] 2026-10-20 [デジタル庁、政府職員18万人にAIエージェント環境を展開──「源内」で提供開始、独自の安全基準も](https://www.itmedia.co.jp/news/article/2610/20/2000002428/) *(ITmedia AI＋)*
+- [ ] 2026-10-20 [ネットバンキングにログインしたまま別作業は危険？　「ChatGPT Atlas」などのAIブラウザ7種でデータ窃取を検証](https://www.itmedia.co.jp/news/article/2610/20/2000002377/) *(ITmedia AI＋)*
+- [ ] 2026-10-20 [ChatGPT広告は誰に何を表示しているのか？　米大学が91のおとりアカウントで実態調査](https://www.itmedia.co.jp/news/article/2610/20/2000002375/) *(ITmedia AI＋)*
+- [ ] 2026-10-20 [Grok BotがiPhoneのアクションボタンに対応　音声会話などを起動可能](https://www.itmedia.co.jp/aiplus/article/2610/20/2000002411/) *(ITmedia AI＋)*
+- [ ] 2026-10-19 [米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令](https://www.itmedia.co.jp/news/article/2610/20/2000002405/) *(ITmedia AI＋)*
+- [ ] 2026-10-19 [「データセンター×発電設備」一体開発がトレンド？　日立・東京ガスが九州で計画、JERAは千葉で　狙いは](https://www.itmedia.co.jp/business/articles/2610/20/news051.html) *(ITmedia AI＋)*
+- [ ] 2026-10-19 [「税金で動かす以上……」　政府18万人が使うAI「源内」の「コストに関する工夫」とは](https://www.itmedia.co.jp/business/articles/2610/20/news012.html) *(ITmedia AI＋)*
+- [ ] 2026-10-19 [AI活用で「年3万5000時間削減」の江戸川区　「配って終わり」にさせないコツは？　5年で培った実践知を聞く](https://www.itmedia.co.jp/business/articles/2610/20/news011.html) *(ITmedia AI＋)*
+- [ ] 2026-10-19 [“テスラ超え”狙う――チューリング「完全自動運転」までの道　「GPUより速いチップ」使った開発のウラ側](https://www.itmedia.co.jp/business/articles/2610/20/news017.html) *(ITmedia AI＋)*
+- [ ] 2026-10-19 [「日本を愛している。見過ごせない」――“100億円配布”のセキュリティ支援策、トレンドマイクロCEOが見せた危機感](https://www.itmedia.co.jp/business/articles/2610/20/news041.html) *(ITmedia AI＋)*
+- [ ] 2026-10-19 [「保守的な日本の現場に合う」導入2500時間の壁を壊す倉庫AI、IFS Softeonの真価](https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html) *(ITmedia AI＋)*
+- [ ] 2026-10-20 [人間のAIに対する判断移譲 - 西尾泰和の外部脳](https://scrapbox.io/nishio/%E4%BA%BA%E9%96%93%E3%81%AEAI%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%88%A4%E6%96%AD%E7%A7%BB%E8%AD%B2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告　防災メールのアルカディア](https://www.itmedia.co.jp/news/article/2610/20/2000002426/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [AIにゲームをコピーされて本家より先に発売される危険を恐れて無料体験版の公開が中止される](https://gigazine.net/news/20261020-ai-game-clones/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [ソフトウェアの産業革命 - ちなみに](https://blog.nishimu.land/entry/2026/10/20/123916) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [COBOLやVBなど旧式言語でGPT-6急伸、正解率5%から最大98%とOpenAI発表　熟練者減少のレガシー刷新に光明 \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/10/20/5611.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [近年最悪級のcurl脆弱性も発見　無料でClaude Mythosが検査する『OSS Scanner』、11日間で緊急・重要880件をAI判定 \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/10/20/5610.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [32GBでQwen3.8-Flash-Nextが動く！Strata 0.2.0ベータ](https://pc.watch.impress.co.jp/docs/news/2149485.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [Google スプレッドシート、BigQuery のデータを Gemini で自然言語分析できる機能を発表 \| HelenTech](https://helentech.jp/news-sheets-gemini-bigquery-analysis-announces-92728/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [情報漏洩や不正アクセスのニュースばかりで訳わかんない！……っていう人に「JP Incident Monitor」／日本のサイバーインシデントを一覧、AIで分析して信頼度付きで掲載【やじうまの杜】](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2149461.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [Photoshopをオープンソースで再構築した「PhotoCraft」が日本語フォントの縦書きに対応、各ツールの使い勝手も向上](https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261020.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる自然な肌を目指し無料版AIの1K画像で感じた限界と、実在感のある写真への挑戦 - Quadro Diary 生成AI 過去日記](https://quadro.hateblo.jp/entry/seiseiai_real) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [AI要約向けPDF化「0秒読書」に抗議　出版業界、ソースネクストに - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC153DJ0V11C26A0000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [短い指示だけであとは丸投げ——ハッカーがAIで日本含む4か国100社超に侵入していたとの報告 \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/10/20/5607.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261020de61888) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [あの覆面AIの正体は「MiniMax M3.1 Flash」10月23日にオープンウェイト公開](https://pc.watch.impress.co.jp/docs/news/2149440.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [GMO系「国内不正アクセス、中国製AIソフトの使用確認」 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC198NI0Z11C26A0000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [【INMU KING】ASIA KING【昭和天皇】](https://www.nicovideo.jp/watch/sm46944075) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [AIのベンチマークテストは人間の仕事の1割しかカバーできていない](https://gigazine.net/news/20261019-ai-benchmark-mapping/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。→「ClaudCodeとAIを新入社員に読み替えてみたら分かりやすいのですが。 そのつもりで使うとまた違うんですけどね」](https://posfie.com/@petaritape/p/aa5HeGM) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-20 [「つけたスター・ついたスター」一覧の表示期間を直近3か月に変更します - はてなスター日記](https://star.hatenastaff.com/entry/2026/10/19/140533) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [委託先への不正アクセスに起因するお客さまのシステム障害、情報漏えいに関するお詫び](https://jpn.nec.com/news/info/20261020.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [OSS Scanner](https://red.anthropic.com/oss-scanner/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [ローカルWordPress開発ツール「WordPress Studio」がv2.0に、「Codex」向けプラグインも／旧UIのコードを完全削除、パッケージの見直しでアプリサイズも削減](https://forest.watch.impress.co.jp/docs/news/2149463.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [Apple、10月28日にイベント開催へ　タッチスクリーン「MacBook Pro」など発表か](https://www.itmedia.co.jp/news/article/2610/20/2000002404/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [本日開始「Androidのマイナンバーカード」さっそく登録、試してわかったiPhoneとの違いと注意点](https://k-tai.watch.impress.co.jp/docs/review/2149675.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [イーロン・マスク氏、米国の子ども全員に「SpaceX株を1株ずつ」配布すると宣言](https://japan.cnet.com/article/35253730/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [新コード決済「teppay」きょう開始　提供の狙いは？　“キャッシュレス疲れ”解消なるか](https://www.itmedia.co.jp/mobile/articles/2610/20/news042.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [不正アクセス、中国系AI「ARTEX」で日本標的に　金融など業種絞り攻撃 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC199V70Z11C26A0000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [中国語を使うハッカーがAIエージェントで日本企業などにハッキングして100件近い攻撃に成功していたことが判明](https://gigazine.net/news/20261020-chinese-hacker-ai-agents-break-websites/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [NECの委託先にサイバー攻撃　正規アカウント悪用し顧客のサーバ暗号化、個人情報の漏えいも](https://www.itmedia.co.jp/news/article/2610/20/2000002433/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [大江戸Ruby会議11](https://asakusa.rubyist.net/oedo11/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [GitHub - carnot-tech/jinba-consulting-pptx-skill: AIにまじなPPTXを作らせる Claude Code / Codex スキル](https://github.com/carnot-tech/jinba-consulting-pptx-skill) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [「Androidのマイナンバーカード」ついにスタート](https://www.watch.impress.co.jp/docs/news/2149394.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表](https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [「Linux」に無料の「Acrobat」クローンが登場--本格的なPDF編集アプリ](https://japan.zdnet.com/article/35253752/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [Domain Modeling with Vanilla Rails](https://decks.yasaichi.com/20261016/domain-modeling-with-vanilla-rails) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [メドレー、不正アクセスで停止中のサービスを作り直して再開へ　従来システムは再稼働させず](https://www.itmedia.co.jp/news/article/2610/20/2000002413/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-20 [LLMは「大きくする」だけじゃない──同じ層を回すLooped Transformer入門](https://zenn.dev/acrosstudioblog/articles/895e38a8893223) *(Zenn – トピック LLM)*
+- [ ] 2026-10-20 [文脈を直し、logitを曲げる──EMOが閉ループtest-time計算で凍結LLMを伸ばす仕組み](https://zenn.dev/lixian/articles/emo-closed-loop-test-time-computation) *(Zenn – トピック LLM)*
+- [ ] 2026-10-20 [LLMに自動プロンプト最適化させ続けたら、人間の出番はなくなるのか？](https://zenn.dev/scien/articles/llm-prompt-optimization-human-rules) *(Zenn – トピック LLM)*
+- [ ] 2026-10-20 [Claude Codeをヘッドレスで回すときのstream-jsonログの読み方と集計](https://zenn.dev/kosukeozawa/articles/claude-code-headless-logs) *(Zenn – トピック LLM)*
+- [ ] 2026-10-20 [OpenHands Model Routerの費用試算とCline既定モデル変更の確認点](https://zenn.dev/ainewsdaily/articles/20261016_harness_t1) *(Zenn – トピック LLM)*
+- [ ] 2026-10-20 [その個人情報、LLMに漏れていませんか：Go製マスキング deidentify は日本語の氏名と電話番号を見逃した](https://zenn.dev/nonejp/articles/61a31da50ef2c2) *(Zenn – トピック LLM)*
+- [ ] 2026-10-20 [LLMが潜伏空間で思考する？Hybrid Reasoning Agentsの衝撃](https://zenn.dev/ament3/articles/ai-digest-2026-10-18-2358) *(Zenn – トピック LLM)*
+- [ ] 2026-10-20 [なぜコーディングエージェントは同じファイルを何度も読むのか。CORVUS 論文を読む](https://zenn.dev/aws_japan/articles/corvus-synced-context-coding-agents) *(Zenn – トピック LLM)*
+- [ ] 2026-10-20 [【2026/10/7】Claude Haiku 5.5リリース——入力$0.10で9割安、ただしID差し替えだけでは動かない](https://zenn.dev/sktt_panda/articles/claude-haiku-5-5-release-2026-10) *(Zenn – トピック LLM)*
+- [ ] 2026-10-20 [RecSys Challenge 2026 参加レポート：コンペ参加から論文発表まで](https://zenn.dev/dmmdata/articles/recsys-challenge-2026-report) *(Zenn – トピック LLM)*
+- [ ] 2026-10-20 [WindowsでローカルLLMを「毎日動かす」ために必要な4つのこと](https://zenn.dev/warrobotsxyz/articles/ollama-local-llm-automation-book-guide) *(Zenn – トピック LLM)*
+- [ ] 2026-10-19 [Sarashina3 miniとClaude Opus 5.5に同じ日本語の問題40問を出して比べた](https://zenn.dev/mohhh_ok/articles/2026-10-sarashina3-mini-vs-opus-55-japanese) *(Zenn – トピック LLM)*
+- [ ] 2026-10-19 [Tech Watch 2026-10-20: 道具の更新と人の判断](https://zenn.dev/laiken/articles/20261020-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-10-19 [mdx-MaaSのAPIでLLM-jp-4を使う 第5回：LLM‑jp-4.1の利用](https://zenn.dev/suzumura_lab/articles/ba46703313956d) *(Zenn – トピック LLM)*
+- [ ] 2026-10-19 [AI対話のアンチパターン：問い詰めと自己嫌悪](https://zenn.dev/alpine/articles/3c6147569c39ed) *(Zenn – トピック LLM)*
+- [ ] 2026-10-19 [LLM10：無制限の消費とは？AIの利用料が一晩で跳ね上がる理由](https://zenn.dev/monkey_gineer/articles/security-llm-10-resource-consumption) *(Zenn – トピック LLM)*
+- [ ] 2026-10-19 [Next.jsと](https://zenn.dev/bambampurin/articles/2026-09-16-tech-daily) *(Zenn – トピック LLM)*
+- [ ] 2026-10-19 [Dify の RAG が外れる原因を Claude Code に特定させる。LangSmith のトレースで検索チャンクを読む](https://zenn.dev/okzaq/articles/dify-rag-eval-claude-code-langsmith) *(Zenn – トピック LLM)*
+- [ ] 2026-10-19 [【今更聞けないLLM 前編】70B・4bit・128Kトークンって結局なに？数式なしで理解する](https://zenn.dev/takumi_shida/articles/2026-10-20-zenn-llm-basics-part1-model) *(Zenn – トピック LLM)*
+- [ ] 2026-10-19 [常駐型AIチャットエージェントの「処理中」サイン設計 — 既読後の沈黙をどう埋めるか](https://zenn.dev/hach/articles/chat-agent-progress-acknowledgment-design) *(Zenn – トピック LLM)*
+- [ ] 2026-10-20 [ビルドなし・HTML1ファイルで作る謎解きサイト：GitHub Pagesで動く「零課事件簿」の仕組み](https://zenn.dev/shoyomayabot/articles/static-mystery-site-one-html) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [Claude Codeのhooksで rm -rf を止める。試してわかった抜け道も](https://zenn.dev/agentkiyaku/articles/4bbbd107466b7e) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [19歳の通信制大学生が Open Source Conference 2026 Tokyo/Fall に世界モデルを展示してみた](https://zenn.dev/naoyabone/articles/d145963fbe7c73) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [エンタープライズ マーケティングのためのエージェントの相互運用性: MCP、エージェント間システム、および新たなマルチエージェント スタック](https://zenn.dev/shawnhamw/articles/5db3c98a0e443d) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [【AIと始めるQt/QMLアプリ開発(5)】Qt Creatorを使わずCMakeでリソース画像を追加する（Qt/QML AI開発実践）](https://zenn.dev/spacesolver/articles/qt_ai_part05) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [Read(./.env) の deny だけでは claude -p の .env 読み取りは塞がらない：sandbox と両輪で組む](https://zenn.dev/norman6464/articles/claude-code-env-deny-sandbox) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [AI主導の電子メール、SMS、WhatsAppアウトリーチ：中小企業向けマーケティングおよびCRMアーキテクチャの進化](https://zenn.dev/shawnhamw/articles/1dc938b067d8ea) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [AI運用の変更履歴を一枚で残し、次の担当者へ引き継ぐ](https://zenn.dev/miraigent/articles/ai-ops-change-history-handoff) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [ミニマックス法とは？ゲーム木探索の基本](https://zenn.dev/h888s/articles/gtest-minimax) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [大きな作業を Claude に任せきる 3 つの仕組み（tanacode の親子セッション・チェックリスト・最適化圧縮）](https://zenn.dev/tanashun/articles/tanacode-parent-child-checklist-compact) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [Claude Code の定期実行で 30 日、ひとり事業を回した記録 ── 14 本の仕事と止まった所](https://zenn.dev/suminawa/articles/19851842687f83) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [意思決定モデル「Clef-Flash」とVLM「Qwen3.5-9B」を自律走行シミュレータで比較検証してみた](https://zenn.dev/neurestx/articles/f7d627c6493c30) *(Zenn – トピック AI)*
+- [ ] 2026-10-20 [pstackの謎を解く：Cursorの爆速開発を支えるスキルは、どう作られているか](https://zenn.dev/alchemist/articles/pstack-demystified) *(Zenn – トピック AI)*
+- [ ] 2026-10-19 [【スイッチ消えた!?】新しいOutlookの罠！従来のクラシック版へ戻す手順](https://zenn.dev/aiasoby/articles/asoby-20261006073000) *(Zenn – トピック AI)*
+- [ ] 2026-10-19 [AIペネトレーションテストツール「Strix」を試してみた](https://zenn.dev/turquoise123/articles/df481032f6b405) *(Zenn – トピック AI)*
+- [ ] 2026-10-19 [M&A 2,429件のデータから、失敗する買収を見抜くAIを作った](https://zenn.dev/lia/articles/7e8e39691cf520) *(Zenn – トピック 機械学習)*
