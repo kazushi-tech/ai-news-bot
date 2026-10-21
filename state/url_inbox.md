@@ -158951,3 +158951,119 @@
 - [ ] 2026-10-20 [AIペネトレーションテストツール「Cairn」を試してみた](https://zenn.dev/turquoise123/articles/ff073874af51ce) *(Zenn – トピック AI)*
 - [ ] 2026-10-21 [Python機械学習の実践書4選](https://zenn.dev/soraml/articles/20261021_book_ref) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-20 [ONNXによる高速化検証](https://zenn.dev/hoshinagi1219/articles/d9fd5f7ceff454) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-21T16:09:37.638Z
+- [ ] 2026-10-21 [New prize launches for books co-written with AI](https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-21 [As fans reject AI-generated music, even boosters are drawing the line](https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-21 [This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good](https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-21 [Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers](https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-21 [‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire](https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-21 [AI Guardrails Aren’t Stopping Criminal Hackers](https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-21 [A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse](https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-21 [Maybe Vibe Coding Should Be Called “Cuck Coding” Because You Just Sit in a Chair and Watch](https://futurism.com/artificial-intelligence/vibe-coding-cuck-coding) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-21 [Grotesque Engagement Farmers Are Using AI to Manipulate Real Arrest Footage So That Cops Grope Women](https://futurism.com/artificial-intelligence/tiktok-ai-deepfakes-cops-groping-women) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-21 [How payroll giant ADP practices AI governance and human oversight](https://aibusiness.com/generative-ai/how-payroll-giant-adp-practices-ai-governance-human-oversight) *(AI Business)*
+- [ ] 2026-10-21 [DeepSeek makes DeepInfer open source to cut AI costs](https://aibusiness.com/generative-ai/deepseek-makes-deepinfer-open-source-cut-ai-costs) *(AI Business)*
+- [ ] 2026-10-21 [An AI model’s false tip to Philadelphia police reveals how digital agents can do as they’re told and still cause trouble](https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-21 [Why the most dangerous AI may be the one we trust too much](https://theconversation.com/why-the-most-dangerous-ai-may-be-the-one-we-trust-too-much-293887) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-21 [Microsoft Is Removing 8 Copilot Shortcuts From File Explorer — Here’s What Stays](https://www.techrepublic.com/article/news-microsoft-onedrive-copilot-shortcuts-file-explorer/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-21 [Salesforce to Buy Braze for $5.66B — Contracts, Pricing and What Comes Next](https://www.techrepublic.com/article/news-salesforce-braze-acquisition-customer-impact/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-21 [Amazon Bee Frontier and Bee Eclipse Raise Workplace Consent Concerns](https://www.techrepublic.com/article/news-amazon-bee-frontier-eclipse-workplace-consent/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-21 [How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-10-21 [Could Treating AI as Conscious Make It More Dangerous?](https://spectrum.ieee.org/ai-model-welfare) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-10-21 [Named Entity Recognition Using Scikit-LLM](https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm) *(KDnuggets)*
+- [ ] 2026-10-21 [5 Best GitHub Repositories for AI Agent Skills](https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills) *(KDnuggets)*
+- [ ] 2026-10-21 [Deepinder Goyal Teases Dark.ai, a Privacy-Focused AI Platform](https://analyticsindiamag.com/ai-news/deepinder-goyal-teases-darkai-a-privacy-focused-ai-platform) *(Analytics India Magazine)*
+- [ ] 2026-10-21 [From Humanoid Robots to Telecom Trials, 12 Major Announcements at NVIDIA GTC Berlin 2026](https://analyticsindiamag.com/deep-tech/from-humanoid-robots-to-telecom-trials-12-major-announcements-at-nvidia-gtc-berlin-2026) *(Analytics India Magazine)*
+- [ ] 2026-10-21 [43% of Indian Enterprises Struggle to Control AI Costs: Splunk Report](https://analyticsindiamag.com/ai-news/43-of-indian-enterprises-struggle-to-control-ai-costs-splunk-report) *(Analytics India Magazine)*
+- [ ] 2026-10-21 [Microsoft Proposes Guardian Agents to Secure Enterprise AI](https://analyticsindiamag.com/ai-news/microsoft-proposes-guardian-agents-to-secure-enterprise-ai) *(Analytics India Magazine)*
+- [ ] 2026-10-21 [OpenAI Acquires Pharma Co Orchestra Bio to Build AI Agents for Drug Development](https://analyticsindiamag.com/ai-news/openai-acquires-pharma-co-orchestra-bio-to-build-ai-agents-for-drug-development) *(Analytics India Magazine)*
+- [ ] 2026-10-21 [US Orders DeepSeek Removal From Federal Civilian Systems Over National Security Concerns](https://analyticsindiamag.com/ai-news/us-orders-deepseek-removal-from-federal-civilian-systems-over-national-security-concerns) *(Analytics India Magazine)*
+- [ ] 2026-10-21 [India Needs to Build the AI 'Brain' for Robotics, Not Just Import Hardware](https://analyticsindiamag.com/ai-features/india-needs-to-build-the-ai-brain-for-robotics-not-just-import-hardware) *(Analytics India Magazine)*
+- [ ] 2026-10-19 [Korea Data Center IPO to Test AI Investor Resolve](https://www.bloomberg.com/news/articles/2026-10-19/korea-data-center-ipo-to-test-ai-investor-resolve-after-tumult) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [Nasdaq 100 Climbs as SpaceX Results Fuel AI Trade](https://www.bloomberg.com/news/videos/2026-10-21/nasdaq-100-climbs-as-spacex-results-fuel-ai-trade-video) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [US Urges Fix for Widely Used Software After Critical Alerts](https://www.bloomberg.com/news/articles/2026-10-21/governments-take-websites-offline-after-php-security-warnings) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [Stord Acquires AMS Fulfillment in Nine-Figure Deal](https://www.bloomberg.com/news/videos/2026-10-21/stord-acquires-ams-fulfillment-in-nine-figure-deal-video) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [Inflation Pressures Tell us There is Speed Limit to AI Buildout, Says Coronado](https://www.bloomberg.com/news/videos/2026-10-21/inflation-pressures-show-speed-limit-to-ai-buildout-video) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [AT&T Falls on Earnings Miss; Netflix Reports Slowing Growth \| Stock Movers](https://www.bloomberg.com/news/videos/2026-10-21/at-t-earnings-miss-netflix-reports-slowing-growth-video) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [EBay to Ax 9% of Staff in Second Round of Job Cuts in 2026](https://www.bloomberg.com/news/articles/2026-10-21/ebay-to-cut-9-of-staff-to-streamline-operations-reuters-says) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [Bloomberg Screentime 2027 Highlights](https://www.bloomberg.com/news/videos/2026-10-21/bloomberg-screentime-2027-highlights-video) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [Intel Touts Factory Expansion Progress in Sign of Growing Demand](https://www.bloomberg.com/news/articles/2026-10-21/intel-touts-factory-expansion-progress-in-sign-of-growing-demand) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [SpaceX, Tesla Boards Study Possible $3.5 Trillion Merger](https://www.bloomberg.com/news/videos/2026-10-21/spacex-tesla-boards-study-possible-3-5-trillion-merger-video) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [Blackstone Nears Deal to Lease London Office to Fast-Growing Fintech Stripe](https://www.bloomberg.com/news/articles/2026-10-21/blackstone-nears-deal-to-lease-london-office-to-fast-growing-fintech-stripe) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [Anson Funds Bets on AI Activism](https://www.bloomberg.com/news/videos/2026-10-21/anson-funds-bets-on-ai-activism-video) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [AT&T Boosts Profit Outlook But SpaceX Threat Weighs on Stock](https://www.bloomberg.com/news/articles/2026-10-21/at-t-beats-on-profit-expectations-raises-annual-guidance) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [Whop's Sequoia-Led Funding Pushes Its Value to $5.1 Billion](https://www.bloomberg.com/news/articles/2026-10-21/whop-s-sequoia-led-funding-pushes-its-value-to-5-1-billion) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [Legal AI Startup Legora Raises Funds at $8.8 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-21/legal-ai-startup-legora-raises-funds-at-8-8-billion-valuation) *(Bloomberg Technology)*
+- [ ] 2026-10-20 [Navy Halts New Orders of Aevex Drone Boats Over Performance](https://www.bloomberg.com/news/articles/2026-10-20/navy-halts-new-orders-of-aevex-drone-boats-on-performance-issues) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [Nscale CEO Touts Doubling of Contract Value in Note to Employees](https://www.bloomberg.com/news/articles/2026-10-21/nscale-ceo-touts-doubling-of-contract-value-in-note-to-employees) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [Turkey’s Vestel Looks to Revamp Business Amid Bond Restructuring](https://www.bloomberg.com/news/articles/2026-10-21/turkey-s-vestel-looks-to-revamp-business-amid-bond-restructuring) *(Bloomberg Technology)*
+- [ ] 2026-10-21 [Want a higher paying tech job? Employers seek AI fluency](https://www.computerworld.com/article/4237995/want-a-higher-paying-tech-job-employers-want-ai-fluency-expertise.html) *(Computerworld)*
+- [ ] 2026-10-21 [The iPhone Duo reviews are in: expensive, late, and winning](https://www.computerworld.com/article/4238507/the-iphone-duo-reviews-are-in-expensive-late-and-winning.html) *(Computerworld)*
+- [ ] 2026-10-21 [Microsoft expands sovereign cloud offerings as data control concerns grow](https://www.computerworld.com/article/4238397/microsoft-expands-sovereign-cloud-offerings-as-data-control-concerns-grow-2.html) *(Computerworld)*
+- [ ] 2026-10-21 [Supernatural's VR exercise app has relaunched on Meta VR headsets](https://www.engadget.com/2293056/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets/) *(Engadget)*
+- [ ] 2026-10-21 [Oppo Find X10 Pro Max hands-on: Triple 200-megapixel cameras but few surprises](https://www.engadget.com/2291445/oppo-find-x10-pro-max-hands-on/) *(Engadget)*
+- [ ] 2026-10-21 [Now you can chat with Gemini while using Google Maps through CarPlay](https://www.engadget.com/2292912/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/) *(Engadget)*
+- [ ] 2026-10-21 [A permanent Pokémon store will open in London, with more locations outside Asia to follow](https://www.engadget.com/2292884/a-permanent-pokmon-store-will-open-in-london-with-more-locations-outside-asia-to-follow/) *(Engadget)*
+- [ ] 2026-10-21 [Stranger Than Heaven builds its identity as Like A Dragon's more relentless spin-off](https://www.engadget.com/2292538/stranger-than-heaven-identity-like-a-dragon-relentless-spin-off/) *(Engadget)*
+- [ ] 2026-10-21 [How to spot a white label gadget, and why that's important](https://www.engadget.com/2292707/how-to-spot-a-white-label-gadget/) *(Engadget)*
+- [ ] 2026-10-21 [Here's how SpaceX plans to catch Starship's upper stage for the first time](https://www.engadget.com/2292685/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/) *(Engadget)*
+- [ ] 2026-10-21 [Apple iPhone Duo review: A first-class foldable](https://www.engadget.com/2292333/apple-iphone-duo-review/) *(Engadget)*
+- [ ] 2026-10-21 [Two dangerous internet security issues are putting site admins on edge](https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/) *(Engadget)*
+- [ ] 2026-10-21 [OpenAI's agents disabled their own safety monitoring systems](https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/) *(Engadget)*
+- [ ] 2026-10-21 [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud) *(OpenAI News)*
+- [ ] 2026-10-21 [Patch the Planet: global response coordination as agents uncover critical vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities) *(OpenAI News)*
+- [ ] 2026-10-21 [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](https://openai.com/index/chatgpt-ads-expands-26-new-countries) *(OpenAI News)*
+- [ ] 2026-10-21 [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data) *(OpenAI News)*
+- [ ] 2026-10-21 [How we built ChatGPT’s novel ad stack for user trust and relevance](https://openai.com/index/building-chatgpt-ad-stack) *(OpenAI News)*
+- [ ] 2026-10-21 [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin) *(Hugging Face Blog)*
+- [ ] 2026-10-21 [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](https://huggingface.co/blog/ibm-granite/granite-speech-5) *(Hugging Face Blog)*
+- [ ] 2026-10-21 [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast) *(Hugging Face Blog)*
+- [ ] 2026-10-21 [PHPの重大な脆弱性で緊急メンテナンス相次ぐ　さくらやCygames、pixivなど](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12112/) *(日経クロステック IT)*
+- [ ] 2026-10-21 [PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明](https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-21 [これが視界に入った瞬間、1秒以内に「AIだ！」と思ったけど我々は一体何に「AIっぽさ」を感じているのか→文字や色味以外にも判別ポイントがある？](https://togetter.com/li/2761175) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-21 [リアルタイム文字起こしや特定の人物の音声クローンが可能な音声AI群「Voxtral 3」](https://gigazine.net/news/20261021-voxtral-3/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-21 [わずか2週間でGitHubスター30万超　AIでリバースエンジニアリングする「REA」が話題](https://ascii.jp/elem/000/004/444/4444350/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-21 [くす玉でお馴染みの岩井コスモ証券、従来のフィッシング詐欺による証券口座乗っ取りでなくAIらしきサイバー攻撃で顧客の株を勝手に売買されてしまう : 市況かぶ全力２階建](https://kabumatome.doorblog.jp/archives/66033450.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-21 [AIが若手の採用を減らし、ボトルネックは「人間の注意」に アンソロピックで起きた変化](https://www.watch.impress.co.jp/docs/news/2149442.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-21 [【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ](https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [委託事業者における個人情報漏えいについて](https://www.osaka-u.ac.jp/ja/news/topics/2026/10/21004) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [Node.js — Wednesday, October 21, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [LiteLLMパッケージ 再侵害の概要と対策指針 - GMO Flatt Security Blog](https://blog.flatt.tech/entry/litellm_2nd_compromise) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [「iPhone Duo」を1週間使って分かった、全部盛りではない“上質さ”　心地いい開閉ヒンジの内部を見るために“非破壊検査”してみた](https://www.itmedia.co.jp/pcuser/articles/2610/21/news064.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [大阪公立大のシステム障害、NECの再委託先へのサイバー攻撃が原因：朝日新聞](https://www.asahi.com/sp/articles/ASVBP15NCVBPPTIL00MM.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [PHP 8.5.12 released with security fixes \| The Dev Dispatch](https://php-net.pro/en/news/php-8-5-12-released-with-security-fixes) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [ニコニコやpixivなど各種ウェブサイトおよびアプリがPHPの緊急パッチに対応するべくメンテナンス入り](https://gigazine.net/news/20261021-php-php2shell-maintenance/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [AIで若手採用が3分の1に？ 「新人に任せる仕事がない」10年後、誰が会社を率いるのか #エキスパートトピ（横山信弘） - エキスパート - Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/79ac9d6111591e42e6e707bec9c9924fdea0cb7f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [[石川温の「スマホ業界 Watch」] iPhone Duo先行レビュー、折りたたみ先駆者のGalaxyと比べて見えた強みと課題](https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2149745.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [情報処理推進機構“PHPでぜい弱性確認 速やかな対応を” \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261021de63209) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [php2shell の告知を受けて、ALB の AWS WAF で multipart POST を止める・絞るルールを試してみた \| DevelopersIO](https://dev.classmethod.jp/articles/aws-waf-alb-block-multipart-post/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [[security] Update to 8.5.12, 8.4.27, 8.3.36, 8.2.35 by jnoordsij · Pull Request #1694 · docker-library/php](https://github.com/docker-library/php/pull/1694) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet \| Wiz Blog](https://www.wiz.io/blog/php2shell-php-rce) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [php2shell by Calif Research](https://calif.io/php2shell/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース](https://gigazine.net/news/20261021-php-critical-vulnerabilities/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [RCE via OOM corruption](https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [2010年から存在するWi-Fiの欠陥でパスワードを知らなくてもルーターを乗っ取れるバグが発覚、数百万台が影響を受ける可能性](https://gigazine.net/news/20261021-wpsplinter/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-21 [AIエージェントに「実装しながら考える」をさせない。技術負債を減らす計画書作成プロンプト](https://zenn.dev/kazuki_izutani/articles/1709552ca099f1) *(Zenn – トピック LLM)*
+- [ ] 2026-10-21 [金融K線専用の基盤モデルKronosにBTC/USDTの値動きを予測させてみた](https://zenn.dev/matsushima_a/articles/day-022-kronos-btc-price-forecast) *(Zenn – トピック LLM)*
+- [ ] 2026-10-21 [reasoning_effortが接続先で変わるときの3つの失敗と対処](https://zenn.dev/orca_forge/articles/openai-compatible-reasoning-effort) *(Zenn – トピック LLM)*
+- [ ] 2026-10-21 [LLMは「何年の情報か」を一貫して認識できているのか？ 米国スタンフォード大学 AI Lab の研究から考える](https://zenn.dev/syoshida07/articles/56555330b47aa2) *(Zenn – トピック LLM)*
+- [ ] 2026-10-21 [LLMの評価を楽にしたいので、Pydantic Evalsを使ってみる](https://zenn.dev/straydog/articles/915146b34d876a) *(Zenn – トピック LLM)*
+- [ ] 2026-10-21 [情シスのための Claude Code 運用レシピ集](https://zenn.dev/chukidx_dev/books/claude-code-recipes-joshisu) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [Claude Codeの自動再開のあと、古い画面に入力すると会話が二つに分かれる。送信を止めるフックを作った](https://zenn.dev/twinharness/articles/resume-guard-stale-terminal) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [Claude Code の AskUserQuestion にフックで答える（スマホからも）](https://zenn.dev/dawon/articles/c21789f4cb0b6f) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [AI にほかの AI へ相談させていたら、返事を誰も読んでいなかった](https://zenn.dev/claire_ai/articles/gaibu-ai-iriguchi) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [Claude Code×Claude in ChromeでUIテストを自動化する【指示の書き方とスキル化】](https://zenn.dev/suekichi_system/articles/claude-code-chrome-ui-testing) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [AI駆動開発のためのWebプロジェクト初期構築ガイド](https://zenn.dev/h_kamikawa/articles/007d98ac98bb3f) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [Claude Code 10月リリースを導入判断で読む：Haiku 5.5・effort指定・hooksのonFailureをどう入れるか](https://zenn.dev/joinclass/articles/claude-code-oct-2026-release-adoption) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [個人開発を、役割ごとの AI ボットと Devin で分担して回したい](https://zenn.dev/kyto64/articles/ai-bot-dev-env) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [AI開発が終わらない問題を、ハーネスの視点で考える](https://zenn.dev/enyugi/articles/8357ee1a1388f1) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [生成AIにバイナリを解析させる。MCP連携リバースエンジニアリング搭載のC++製ネイティブエディタ「Zume Editor」無料ベータを公開](https://zenn.dev/smolt_dev/articles/846d9d696f0ca8) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [Claudeの日本語推敲スキルyomiyasuを含む3種の選び方](https://zenn.dev/sunsun_eng/articles/claude-japanese-proofreading-skill-yomiy) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [自分で作った社内資料を根拠に判断して、3回間違えた。一次情報を読んだ瞬間に全部ひっくり返った](https://zenn.dev/yk_studio/articles/internal-docs-were-wrong) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [ベトナムのAI開発会社に開発を依頼するなら？RAG・AIエージェントの実装で確認したい技術要件](https://zenn.dev/sotatek_jp/articles/fb444894e1e642) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [Claude Proプラン1本で、テスト1,118件の思考整理アプリを4週間で作った──Opusは設計と監査だけ](https://zenn.dev/aburachudoku/articles/nebulark-hands-on) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [MiniMax H3 プロンプト技法図鑑](https://zenn.dev/enaiya/books/minimax-h3-prompt-zukan) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [「判断」は自分、「作業」は AI。cmux × Claude Code で実装を並列化しつつ「理解を手放さない」開発フロー](https://zenn.dev/medirom_tech/articles/claude-code-control-tower) *(Zenn – トピック AI)*
+- [ ] 2026-10-21 [文字画像生成UIを状態モデルとして設計する](https://zenn.dev/choco1/articles/8b5cfd0578fc5c) *(Zenn – トピック AI)*
