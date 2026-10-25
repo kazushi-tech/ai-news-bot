@@ -160736,3 +160736,52 @@
 - [ ] 2026-10-24 [検査を始める前に ── 検査の全体像と、本番を壊さない線引き](https://zenn.dev/chooser/articles/sec-003-research) *(Zenn – トピック AI)*
 - [ ] 2026-10-24 [量子化が引き起こすButterfly Effect？ — World Modelの誤差蓄積と計画性能の限界](https://zenn.dev/akisayo/articles/world-model-quantization-butterfly-effect) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-24 [MultiheadAttentionの高速経路がVRAMを18GB食っていた話](https://zenn.dev/genelab_999/articles/387bf151caf716) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-25T10:13:02.139Z
+- [ ] 2026-10-25 [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-25 [AI Can Be Cyborg or Centaur. But Can Enterprises Monetise It?](https://analyticsindiamag.com/ai-features/ai-can-be-cyborg-or-centaur-but-can-enterprises-monetise-it) *(Analytics India Magazine)*
+- [ ] 2026-10-24 [Drizz's AI App Testing Ambition Meets Reality](https://analyticsindiamag.com/ai-startups/drizz-ai-app-testing-ambition-meets-reality) *(Analytics India Magazine)*
+- [ ] 2026-10-25 [AI Provides ‘Zero Payoff’ to S&P 493 Outside Tech, Apollo Economist Says](https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [SoftBank’s Son Plans $50 Billion Malaysia Tech Outlay, PM Says](https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [UAE Shuts More Beaches as It Deals with Oil Spill in Gulf](https://www.bloomberg.com/news/articles/2026-10-25/uae-shuts-more-beaches-as-it-deals-with-oil-spill-in-gulf) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [Australia Police Chief Says Angry Debate Adds Risks to Lawmakers](https://www.bloomberg.com/news/articles/2026-10-25/australia-police-chief-says-angry-debate-adds-risks-to-lawmakers) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク（ABEMA TIMES） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/2997423a08fc213f62fb5f6e7d3b3091570bfcdc) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-25 [思いつきが現実になる世界でこわい - 運河](https://uiuret.hatenablog.com/entry/2026/10/25/080436) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-25 [カラー化で増す深刻度、死者100人超を出した昭和の国鉄三大事故　人も組織もミスをする　色のある昭和](https://www.sankei.com/article/20261025-25HHP5OLSBBMDOK4II2XUVYAM4/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-25 [知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」](https://www.yomiuri.co.jp/national/20261024-GYT1T00360/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-25 [プロの味！簡単にして激ウマな豚汁の秘密 by こじまぽん助【分子調理学研究家】](https://cookpad.com/jp/recipes/19944624?ref=search&search_term=%E3%83%97%E3%83%AD%E3%81%AE%E5%91%B3%EF%BC%81%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%97%E3%81%A6%E6%BF%80%E3%82%A6%E3%83%9E%E3%81%AA%E8%B1%9A%E6%B1%81%E3%81%AE%E7%A7%98%E5%AF%86) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [リュウジはなぜ嫌われている人からはすごく嫌われているのか…リュウジが自分自身のアンチになる要素を解説、さらに自分に対してのアンチ発言も](https://togetter.com/li/2762636) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [ヨドバシ秋葉原の展示用iPhone Duo、すでにヒンジがだめになっててありえない「(販売店で)リアル耐久テストされてて参考になるなあ」「Samsungがいかに優秀かわかる」](https://togetter.com/li/2762609) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [Apple、2026年10月に認証局eMudhraで発生した中間CA証明書の秘密鍵漏洩問題に対し証明書をブロックし、システム管理者や開発者向けにcurlやgitなどコマンドラインツールに対する暫定的な回避策を公開。](https://applech2.com/archives/20261025-apple-blocks-compromised-emudhra-ca-certificates.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [入社4ヶ月で 2つのプロダクトの撤退判断](https://speakerdeck.com/tkt42u19421/nyuusha-4-kagetsude-2-tsu-no-purodakuto-no-tettai-handan) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [About the compromised eMudhra intermediate CAs - Apple Support](https://support.apple.com/en-us/149555) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [マスク氏、ウクライナ軍のスターリンク利用規約違反を非難](https://www.afpbb.com/articles/-/3659233) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [パラグラフから始めるアカデミック・ライティング](https://speakerdeck.com/neuroiwm/paragurafu-kara-hajimeru-akademikku) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [電子漫画「ピッコマ」 顧客のメールアドレス約100万件流出 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261025de65227) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [AI ネイティブの SDLC プレイブック](https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [eMudhra中間CA証明書の秘密鍵の侵害について](https://emudhra.we-have-a-problem.com/ja.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [Software engineering may no longer be a lifetime career](https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介 - Qiita](https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」（読売新聞オンライン） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/200278051d4e847b124b82018c7edbd0e16dc553) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [GitHub CLI's New Expiring Tokens Still Leave Your Refresh Token Exposed to Malware](https://suzuki-shunsuke.hashnode.dev/github-cli-s-new-expiring-tokens-still-leave-your-refresh-token-exposed-to-malware) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [Digital hygiene](https://karpathy.bearblog.dev/digital-hygiene/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [LiteLLM 1.107.0 のマルウェア ― AI 開発者が 5 分で確かめることと、次から 3 日待つ設定](https://zenn.dev/persimmoq/articles/litellm-1-107-0-compromise-check) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [AIエージェントは「忘れる」と伸びる？ 履歴を捨てて最良の成果物から再開する手法](https://zenn.dev/takuh/articles/e32addf1c98769) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [4B の判定モデル tev1 にゲームを操作させてみた](https://zenn.dev/koheiwada/articles/tev1-decision-model-runner-game) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [確率の海にクロックを打つ：通信工学型「フレーム同期アテンション」によるLLMのコンテキスト整合制御](https://zenn.dev/nanashi_os/articles/94bd8331ae3e64) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [Python標準ライブラリだけでOllamaのチャットをストリーミング表示する](https://zenn.dev/warrobotsxyz/articles/python-stdlib-ollama-stream-chat) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [生成AIの条文引用をe-Govの原文と照合し、95点未満は公開させない](https://zenn.dev/hyconsulting/articles/article-1792890035450) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [同じ段落を10言語で送ってみた: 日本語は英語の何倍トークンを払っているのか（オープンモデル4種で実測）](https://zenn.dev/runcrate/articles/0ce2f3c0b25a38) *(Zenn – トピック LLM)*
+- [ ] 2026-10-24 [【思考実験】AIは自分への攻撃をどう判断するのか？——メモリで「愛の鞭」と教えたら？](https://zenn.dev/konbu_love/articles/c301fe20b3a967) *(Zenn – トピック LLM)*
+- [ ] 2026-10-24 [AIエージェントは攻撃工程のどこを担うのか：12製品・2連携構成の比較](https://zenn.dev/sabisuke/articles/7f2677ddfc68f6) *(Zenn – トピック LLM)*
+- [ ] 2026-10-24 [Ubuntu で LLM 推論で CPU メモリかつかつまで確保させたいメモ](https://zenn.dev/syoyo/articles/d1c4ee4ea2a9e2) *(Zenn – トピック LLM)*
+- [ ] 2026-10-24 [10/25AIの数字は正しいのに、業務の答えが間違う理由](https://zenn.dev/aiofficelab/articles/8129fe2d230a26) *(Zenn – トピック AI)*
+- [ ] 2026-10-24 [禁止リストで AI くささは消せるか：リストの言葉はほぼ消えたが、読点はむしろ増えた](https://zenn.dev/kakushigoto/articles/slop-banlist-vs-yomiyasu) *(Zenn – トピック AI)*
+- [ ] 2026-10-24 [Claude Code の auto mode に止められた操作を、会話ログから数える](https://zenn.dev/masaki_mori72/articles/0b191e77715037) *(Zenn – トピック AI)*
+- [ ] 2026-10-24 [仕様駆動開発（SDD）とテスト駆動開発（TDD）の違いを徹底比較：BDD・DDDなど「〇〇駆動開発」もまとめて整理](https://zenn.dev/shoyomayabot/articles/spec-driven-vs-test-driven) *(Zenn – トピック AI)*
+- [ ] 2026-10-24 [専用PCを持つAIエージェント『Muse』を試した — チャットAIと決定的に違う3つの点](https://zenn.dev/dev_pjs/articles/6da7553f11feb2) *(Zenn – トピック AI)*
+- [ ] 2026-10-24 [Claude Code の設定ファイルをブラウザで作れる無料ツールを作りました(情シス向け・5本)](https://zenn.dev/chukidx_dev/articles/claudecode-tools-intro) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [【研究者に学ぶ】線形自由エネルギー関係に基づくデータ科学と触媒設計 — 山口滋先生講演会](https://zenn.dev/poclab_techblog/articles/chemical-data-science-lecture-yamaguchi) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-25 [線形回帰とコスト関数を数式から理解する](https://zenn.dev/ok_ml/articles/40a502937c7b55) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-25 [機械学習の全体像をつかむ3冊](https://zenn.dev/komatsu_ops/articles/20261025_book_ref) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-24 [K-means法を最適化問題として解き直す：所属と重心を交互に決めるブロック座標降下法](https://zenn.dev/tmtk/articles/4fe1ea3d8b42b5) *(Zenn – トピック 機械学習)*
