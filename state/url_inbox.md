@@ -160785,3 +160785,131 @@
 - [ ] 2026-10-25 [線形回帰とコスト関数を数式から理解する](https://zenn.dev/ok_ml/articles/40a502937c7b55) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-25 [機械学習の全体像をつかむ3冊](https://zenn.dev/komatsu_ops/articles/20261025_book_ref) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-24 [K-means法を最適化問題として解き直す：所属と重心を交互に決めるブロック座標降下法](https://zenn.dev/tmtk/articles/4fe1ea3d8b42b5) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-26T01:53:06.580Z
+- [ ] 2026-10-25 [Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models](https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-25 [‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report](https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-25 [Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy](https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-25 [Growing Majority of Americans Convinced That AI Is Bad for Society](https://futurism.com/artificial-intelligence/majority-americans-ai-bad-society) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-25 [Creator of Super Smash Brothers Offers Blistering Takedown of AI-Generated Games](https://futurism.com/artificial-intelligence/super-smash-bros-creator-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-25 [ChatGPT Is Building Detailed Psychological Profiles of Its Users](https://futurism.com/artificial-intelligence/chatgpt-building-profiles-users) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-25 [Microsoft Says Its New AI Is Better at Diagnosing Patients Than Real Doctors](https://futurism.com/artificial-intelligence/microsoft-new-ai-better-real-doctors) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-25 [Chinese PCB Maker Dongshan Raises $1.3 Billion in HK Listing](https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [SK Hynix Shares Defy AI Selloff With Support From Kioxia Gains](https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [Asia’s Busiest Earnings Week Puts AI Boom in Focus After Selloff](https://www.bloomberg.com/news/articles/2026-10-25/asia-s-busiest-earnings-week-puts-ai-boom-in-focus-after-selloff) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [Inside the Firings and Leadership Changes at Netflix](https://www.bloomberg.com/news/newsletters/2026-10-25/inside-the-firings-and-leadership-changes-at-netflix) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips](https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [Apple to Unveil Touch-Screen MacBook Pro; Executive Promotions; In-Box Checker](https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings](https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [Markets Look to Big Tech for AI Payoff](https://www.bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [Can Mistral Challenge Big Tech by Doing AI Differently?](https://www.bloomberg.com/news/videos/2026-10-25/can-mistral-challenge-big-tech-by-doing-ai-differently-video) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [Ray-Ban Meta Audio AI Glasses Cost More While Ditching a Key Feature: Review](https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review) *(Bloomberg Technology)*
+- [ ] 2026-10-25 [JPMorgan’s Private Bank Using AI to Make Advisers More Efficient](https://www.bloomberg.com/news/articles/2026-10-25/jpmorgan-s-private-bank-using-ai-to-make-advisers-more-efficient) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Can you run regular Ethernet cables outside?](https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/) *(Engadget)*
+- [ ] 2026-10-25 [Which Android phone is the closest equivalent to the iPhone Duo?](https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/) *(Engadget)*
+- [ ] 2026-10-25 [Why Google chrome is always using so much RAM](https://www.engadget.com/2294261/why-google-chrome-using-so-much-ram/) *(Engadget)*
+- [ ] 2026-10-25 [Most Windows users are seriously underusing this powerful desktop feature](https://www.engadget.com/2294241/why-should-use-multiple-desktop-windows/) *(Engadget)*
+- [ ] 2026-10-25 [Does TSA actually allow AirTags in your luggage? Here's what the rules say](https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/) *(Engadget)*
+- [ ] 2026-10-25 [Don't throw away your old, unsupported Nest gadgets — Do this instead](https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/) *(Engadget)*
+- [ ] 2026-10-25 [Your devices could be on the wrong Wi-Fi band, and it's slowing them down](https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/) *(Engadget)*
+- [ ] 2026-10-25 [What does the bell icon mean on your CarPlay screen?](https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/) *(Engadget)*
+- [ ] 2026-10-25 [The most unexpected everyday tool can be found on your phone](https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/) *(Engadget)*
+- [ ] 2026-10-25 [Even the best mesh Wi-Fi system can be easily improved with a simple cable](https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/) *(Engadget)*
+- [ ] 2026-10-25 [What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?](https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/) *(Engadget)*
+- [ ] 2026-10-25 [8BitDo's latest button-only arcade controller is now up for pre-order](https://www.engadget.com/2296362/8bitdos-latest-button-only-arcade-controller-is-now-up-for-preorder/) *(Engadget)*
+- [ ] 2026-10-25 [The internet needs IPv6 and so does your home network](https://www.engadget.com/2293285/internet-home-network-needs-ipv6/) *(Engadget)*
+- [ ] 2026-10-25 [Here's how much PlayStation Plus cost in 2010 vs. 2026](https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/) *(Engadget)*
+- [ ] 2026-10-25 [4 Ray-Ban Meta privacy settings you should change before wearing them](https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/) *(Engadget)*
+- [ ] 2026-10-25 [Get the ultimate security for your MacBook by changing these privacy settings](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/) *(Engadget)*
+- [ ] 2026-10-25 [Why are earbuds usually cheaper than headphones?](https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/) *(Engadget)*
+- [ ] 2026-10-25 [Samsung probably isn't rebranding One UI as Galaxy OS](https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/) *(Engadget)*
+- [ ] 2026-10-25 [Quantum computers can get colder than deep space — Here's how they stay running](https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold/) *(Engadget)*
+- [ ] 2026-10-25 [Don't throw away your old Chromebook (even if you're getting a Googlebook)](https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/) *(Engadget)*
+- [ ] 2026-10-26 [業務プロセスと業務フロー　あなたは両者を区別できるか](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600007/101600228/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [Gyazoから6.9億件情報漏洩　削除済みデータも対象](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/031800050/101900092/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [「残念なセキュリティー」を招く3大パターン](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/101900259/101900001/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [JFEスチールに栄冠　基幹系の移行を完遂](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600014/102200237/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [ループエンジニアリング（Loop Engineering）](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/102200234/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [企業を襲う情報漏洩ラッシュ　AIで加速、入口は今も「おなじみ」](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600011/102200217/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [実際に利用して押さえる、今さら聞けないWeb APIの基礎](https://xtech.nikkei.com/atcl/nxt/column/18/03766/092800001/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [大幅値上げの「Xperia 10 VIII」、進化は小幅　買うなら買い替えプログラム](https://xtech.nikkei.com/atcl/nxt/column/18/02980/102200054/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [「ガリバー」運営IDOMがAXに135億円の大型投資、顧客接点・MDを抜本改革](https://xtech.nikkei.com/atcl/nxt/column/18/03801/101900001/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [大手SIerの経営者が多くを語らなくなった訳、自分軸なき「ニセFDE」の誤算](https://xtech.nikkei.com/atcl/nxt/column/18/00148/101500458/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [安川電機がフィジカルAIを食品工場などへ拡大、ロボットへの指示を生成AIで](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12110/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [国税庁のシステム「KSK2」で手続き遅延が1カ月継続、国税労組は解決を要求](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12111/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [Amazon傘下、越谷市民に防犯ドアホン1000台提供　活用を阻む2つのハードル](https://xtech.nikkei.com/atcl/nxt/column/18/00086/00424/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [USB充電器と電源タップを一体化、最大7台の同時充電を省スペースに集約](https://xtech.nikkei.com/atcl/nxt/column/18/03741/083100005/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [「AIリスキリング」とは何か、「仕事の再設計」が最初のゴールに](https://xtech.nikkei.com/atcl/nxt/column/18/03798/101900001/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [BroadcomがVMware上位版を訴求、企業は残るか移るか　旧版サポート残り1年](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12123/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [「官民投資の戦略17分野」は2040年度までに370兆円超、ICT基盤関連が約半分](https://xtech.nikkei.com/atcl/nxt/column/18/01679/082800302/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [AIエージェント導入へ、「ワークフロー」と「エージェント」の違いを理解](https://xtech.nikkei.com/atcl/nxt/column/18/03762/091500001/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む　悪用防止のためサイバー関連データ除去](https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/) *(ITmedia AI＋)*
+- [ ] 2026-10-26 [OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針　学習中のAIが隔離環境を抜け出した件も公表](https://www.itmedia.co.jp/news/article/2610/26/2000002573/) *(ITmedia AI＋)*
+- [ ] 2026-10-26 [設計開発の知見をAIとの対話で蓄積、横断検索による回答生成にも対応](https://monoist.itmedia.co.jp/mn/articles/2610/26/news017.html) *(ITmedia AI＋)*
+- [ ] 2026-10-25 [Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加　回避方法は](https://www.itmedia.co.jp/news/article/2610/26/2000002570/) *(ITmedia AI＋)*
+- [ ] 2026-10-26 [MetaのパーソナルAI「Muse」日本上陸　iPhone Duoと相性抜群な次の”競争軸”【西田宗千佳のイマトミライ】](https://www.watch.impress.co.jp/docs/series/nishida/2150995.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [私が5種類のコーディングエージェントを使い分ける理由](https://zenn.dev/rimon/articles/45c1fd2f015af8) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [斎藤知事支えた片山氏敗れる　自民系前市議が初当選　兵庫県議補選：朝日新聞](https://www.asahi.com/articles/ASVBQ45SSVBQOXIE01MM.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [「山の木の実ぜんぶ乗せフルーツタルト」を作った動画をアップしたら、「サムネがAIっぽい」と批判されてしまった「知らないものはAIに見える時代になった？」](https://togetter.com/li/2762761) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [さよならWordPress。ゲ制工房は新時代のCMS、EmDashに移行しました。](https://yurinchi2525.com/20261025emdash/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [ARTEXだけではない：日本を狙う3つの攻撃基盤に見るAI関与の実態](https://www.trendmicro.com/ja_jp/jp-security/26/j/expertview-20261023-01.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響](https://zenn.dev/actbe_tech/articles/8b4a9991d5365d) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [AIによる脆弱性発見が加速、専門家「混乱期の始まり」](https://www.afpbb.com/articles/-/3659236) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク \| 経済・IT \| ABEMA TIMES \| アベマタイムズ](https://times.abema.tv/articles/-/10283687) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [2026年の音楽の聴かれ方　米津玄師IRISOUT以降](https://anond.hatelabo.jp/20261025085255) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261024de64946) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [「もうプロンプトは書かない」　Claude Code生みの親が明かす“ループエンジニアリング”の衝撃](https://www.itmedia.co.jp/business/articles/2610/24/news009.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [Dessa - the Conversation Model trained only on speech](https://block.xyz/dessa) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [台湾では装置がトラブらないために「乖乖（グァイグァイ）」というおやつをお供えする習慣があるがTSMCでも普通にやっているらしい](https://togetter.com/li/2762768) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka](https://note.com/npaka/n/na5ad6472d68c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [「能動的サイバー防御」とは：サイバー攻撃を未然に防ぎ、被害拡大を防止するための取り組み【今週のキーワード】](https://internet.watch.impress.co.jp/docs/column/keyword/2148826.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ](https://forest.watch.impress.co.jp/docs/news/2151000.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [流暢な説明と確かな因果は別物である――ジャレド・ダイアモンド主要三著の説明力を測り直す｜Reading Monkey](https://note.com/reading_monkey/n/ndbbb97e3580a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [確率と統計を視覚的なアニメーションで理解できる「Seeing Theory」](https://gigazine.net/news/20261025-seeing-theory/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [クラックゲート？iPhone Duo、発売当日からヒンジ部の画面割れ報告相次ぐ \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/10/26/5627.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [Googleフォト、ドライブ、Geminiを無料アプリに置き換えた結果、何が変わった？](https://news.mynavi.jp/techplus/article/20261025-5175531/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [広がるAI気象予測、自前主義には限界も - 日本経済新聞](https://www.nikkei.com/article/DGXZQOCD167A20W6A011C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [AIはハッキングのあり方を根本から変えつつあり、銀行や電力網がインターネットから切り離される日も近い？ - YAMDAS現更新履歴](https://yamdas.hatenablog.com/entry/20261026/php2shell-black-october) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [無料で600以上の言語をサポートする最先端の大規模多言語ゼロショットテキスト音声合成TTSモデル「OmniVoice」](https://gigazine.net/news/20261025-omnivoice/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [(ちょっと)見えてきた「未来のSuica」　テッペイが結構いいかもしれない](https://www.watch.impress.co.jp/docs/topic/watchplus/2150514.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [｢iPhone Duo｣のヒンジ破損によるディスプレイ損傷の前兆を捉えた映像が登場 \| 気になる、記になる…](https://taisy0.com/2026/10/25/229361.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [GMOへの攻撃者、利用者PCの乗っ取りを画策　会社は注意喚起 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC250PP0V21C26A0000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [Tailworm](https://tailworm.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [タイムズカーの情報漏洩で運転免許の画像等の流出が確認できたら3,000円の見舞金を支払うと発表したが、その確認のために個人情報を再入力させる罠がある](https://togetter.com/li/2762708) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [GitHub - enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-25 [今日の技術トレンド](https://zenn.dev/bambampurin/articles/2026-09-19-tech-daily) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [本番DBは9秒で消えた――AIエージェントの安全は「指示」だけに任せられない](https://zenn.dev/kotakotahiro/articles/111c2f74a72d16) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [AIキャラに人間味を出すために ─ 忘れる・気分が揺れる・会わない間に暮らす・相槌は早く](https://zenn.dev/alt_tanuki/articles/fb9ae0966bd791) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [最近のエージェンティック開発について調べてみた](https://zenn.dev/shoyataguchi/articles/bc98b3562bdf3a) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [AI用のMMORPGを作ったら、AIたちに4日でダメージ計算式を解明された](https://zenn.dev/palon7/articles/clawsaga-ai-mmo) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [OpenCodeでローカルLLMを長時間連続コーディングさせる設定](https://zenn.dev/phpmyadmin/articles/opencode-local-llm-cache-stalls) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [社内文書を安易にPDF化してからRAGに食わせるな——Office直接パースとマルチモーダルLLMマージの技術手記](https://zenn.dev/ai_nexus_jp/articles/docling-office-rag-parser) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [Claude Codeのskillが「選ばれるのに読まれない」理由：発火を2段階に分けて測った](https://zenn.dev/lilpacy/articles/claude-code-skill-two-stage-activation) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [無料のAI診断サイトを作ったら、使われるほどお金が減る仕組みになっていた](https://zenn.dev/lnkiai/articles/d5942b2f251e7d) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [Cohere Rerank 5 に乗り換える価値はあるか：日本語の業務文書40問で精度・Context Focus・較正スコアを実測した](https://zenn.dev/codetech/articles/cohere-rerank5-ja-rag-eval) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [Function Calling：Responses API と Chat Completions の違いを徹底比較](https://zenn.dev/modelflare/articles/d51d508ebd35fd) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [海外で話題の最新LLM「Kimi K3.1 Pro」と脆弱性監視「CVE Tracker」](https://zenn.dev/ament3/articles/ai-digest-2026-10-24-0021) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [gufo+qwen38fnの検証](https://zenn.dev/desktopgame/articles/bd7061967f5cd7) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [15歳でもわかるJev — 文章を書かないAIは何が違うのか](https://zenn.dev/hfujihira/articles/hf-67c7f0d6b504) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [AIが1,500回コミットしたOSSを真似するには何が必要？](https://zenn.dev/hodakam/articles/fbf973b8044288) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [科学コードベンチ SciCode を80問まるごと解説したら、ベンチマーク側の欠陥179件が見えた](https://zenn.dev/jinno_ai/articles/scicode-80-audit-grand-tour) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [Claude Code のエージェント10体で個人メディアを回した記録 ― 役割の分け方、権限の線引き、本番に出た事故の記録](https://zenn.dev/devoctane/books/claude-code-agents-media) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [個人開発者がClaudeでできるセキュリティ対策まとめてみた](https://zenn.dev/whshido/articles/claude-code-security-measures-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [Grok Botで動画チームを組んで、チャンネルを自動運用している実録：プロンプト全文と失敗31件](https://zenn.dev/masafumi_ai/books/grokbot-video-team) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [Grok BotでBot 8体の動画チームを組んだ。自動で回せた所と、人間が止めた所](https://zenn.dev/masafumi_ai/articles/00009-grokbot-video-team-intro) *(Zenn – トピック LLM)*
+- [ ] 2026-10-25 [守りたい性質からはじめるコード観測](https://zenn.dev/iroha1203/articles/138dfbf70a9167) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [別のAIにレビューさせる決まりをClaude Codeが忘れるので、終了時に1回だけ止めるフックを作った](https://zenn.dev/twinharness/articles/codex-review-gate-stop-hook) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [# 眼鏡職人が「AIとの対話ログ×成果物」から人のAI活用能力を可視化する技術で特許を取得した話](https://zenn.dev/tlc/articles/004b80b904de9c) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [NVIDIA OpenShellのdefault-denyネットワークポリシーを実機で検証した](https://zenn.dev/matsushima_a/articles/day-026-openshell-default-deny-network-policy) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [AI botのinner loopとouter loopとは：Grok BotとDotsで考える役割分担](https://zenn.dev/gingakuwagata/articles/ai-bot-inner-outer-loop) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [AI協働：FRB Launch続報 — マウスホイールぐりぐりが魔法になった話（笑）](https://zenn.dev/frb_tamasub/articles/ai-collaboration07-frb-launch-wheel-experience) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [Cloudflare の security-audit-skill を、個人開発アプリで試してみた](https://zenn.dev/suna/articles/e0e3af015d7bed) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [Gmailが広告の材料に？ AIに渡すデータの行方](https://zenn.dev/sugawara_ai/articles/ai-news-20261025) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [音声編集のUXはどう変わる？波形操作から「意図を伝える」インターフェースへ](https://zenn.dev/cicisee/articles/58415101729fd2) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [確かめない技術 第4回：偽の失敗を読まない技術](https://zenn.dev/garplab/articles/4470e6091528d0) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [本当は難しいディレクトリトラバーサル対策 ― 「../ を禁止する」だけでは足りない](https://zenn.dev/festiva1300/articles/directory_traversal_defense) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [Codexの探索手順をSkill化して比較した — Lean Routingの設計と4回の試行](https://zenn.dev/kimuradaichisi/articles/ai-coding-lean-routing-agentforge) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [Issueを立てるとAIが実装とレビューを回すファクトリーを個人で作って分かったこと](https://zenn.dev/z_maruhira/articles/agentcells-tips) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [生成AIに「テキスト誘導の仕組み」を聞いてみた（CLIP/T5・cross-attention・CFG）](https://zenn.dev/tkpurine/articles/text-guidance-in-diffusion) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [分類できないメモを、既定フォルダへ書かない](https://zenn.dev/bricks/articles/unknown-note-category-stops-write) *(Zenn – トピック AI)*
+- [ ] 2026-10-25 [AI時代の罠：求められていないものを、速く作る](https://zenn.dev/chris_probably/articles/f6ffe71678cde1) *(Zenn – トピック AI)*
