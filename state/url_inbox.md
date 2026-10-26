@@ -161339,3 +161339,77 @@
 - [ ] 2026-10-25 [臨床試験をひもとく：AI研究者のためのガイド（第1回）ワークフローとAIの可能性](https://zenn.dev/keiji_ai_japan/articles/8248a0d8cc0143) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-25 [【Windows 11】AIでクラシックピアノMIDIを生成｜Ariaローカル環境構築](https://zenn.dev/myan_1/articles/7d2cce2f65fcac) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-25 [自動仕訳の特許を考える①：freee対マネーフォワード訴訟と「キーワードを一つ選ばない」設計](https://zenn.dev/kaikei_patent/articles/2d52208a001238) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-26T21:57:20.405Z
+- [ ] 2026-10-26 [‘Autonomy, not flesh’: RAF chief outlines AI drone-powered future](https://www.theguardian.com/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-26 [Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts](https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-26 [Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-26 [Leaked Video Shows China Taking Apart Thousands of RTX 5090s and Turning Them Into Zombie AI Servers](https://futurism.com/artificial-intelligence/video-china-rtx-5090-graphics-cards-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-26 [Americans Are Officially More Scared of AI Than a Loved One Getting Cancer](https://futurism.com/artificial-intelligence/americans-more-scared-ai-loved-one-ill) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-26 [Anthropic maintains its focus on safety in IPO filing](https://aibusiness.com/generative-ai/anthropic-maintains-focus-on-safety-in-ipo-filing) *(AI Business)*
+- [ ] 2026-10-26 [Honda demonstrates remote-controlled robot for complex physical tasks](https://aibusiness.com/robotics/honda-demonstrates-remote-controlled-robot-complex-physical-tasks) *(AI Business)*
+- [ ] 2026-10-26 [IEEE Xplore Digital Library Adds AI Assistant](https://spectrum.ieee.org/ieee-xplore-digital-library-ai) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-10-26 [Intel to Acquire Startup Classiq in Quantum Computing Push](https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [SVP’s Khosla: Credit Markets Have a Lot of Tail Risk](https://www.bloomberg.com/news/videos/2026-10-26/svp-s-khosla-credit-markets-have-a-lot-of-tail-risk-video) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [ValueEdge’s Minow on Anthropic’s Share Class Structure](https://www.bloomberg.com/news/videos/2026-10-26/valueedge-s-minow-on-anthropic-s-share-class-structure-video) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Odd Lots: AI Agents Are Already Changing the Price of Goods](https://www.bloomberg.com/news/videos/2026-10-26/odd-lots-ai-agents-are-changing-the-price-of-goods-video) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Applied Materials Boosts BE Semiconductor Stake to About 20%](https://www.bloomberg.com/news/articles/2026-10-26/applied-materials-boosts-be-semiconductor-stake-to-about-20) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Anthropic Warns of Existential Risk, Liability and Slowing Sales](https://www.bloomberg.com/news/articles/2026-10-26/anthropic-warns-of-existential-risk-liability-and-slowing-sales) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Netflix Hires Former Apple Executive to Oversee Podcasts](https://www.bloomberg.com/news/articles/2026-10-26/netflix-hires-former-apple-executive-to-oversee-podcasts) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Memory Titans Test AI Demand While Bubble Fears Transfix Markets](https://www.bloomberg.com/news/articles/2026-10-26/memory-titans-test-ai-demand-while-bubble-fears-transfix-markets) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Instacart to Wind Down Smart Cart Business Amid Sale Talks](https://www.bloomberg.com/news/articles/2026-10-26/instacart-to-wind-down-smart-cart-business-amid-sale-talks) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [What Anthropic’s IPO Reveals About the AI Boom: Live Q&A](https://www.bloomberg.com/sessions/2026-10-27/live-q-amp-a-what-anthropic-s-ipo-reveals-about-the-ai-boom) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Broadcom Arranges $63 Billion Deal to Finance Anthropic’s Chips](https://www.bloomberg.com/news/articles/2026-10-26/broadcom-arranges-63-billion-deal-to-finance-anthropic-s-chips) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Anthropic IPO Explained: S-1 Filing, Nasdaq Listing and Key Risks](https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-explained-s-1-filing-nasdaq-listing-and-key-risks) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Microsoft Rises on Buyouts as It Retools Workforce for AI \| Closing Bell](https://www.bloomberg.com/news/videos/2026-10-26/microsoft-retools-for-ai-closing-bell-video) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Tesla-SpaceX Merger Hopes Send Sell Ratings to 11-Year Low](https://www.bloomberg.com/news/articles/2026-10-26/tesla-spacex-merger-hopes-send-bearish-ratings-to-11-year-low) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [France Offers Students Funding, Reforms to Try to End Protests](https://www.bloomberg.com/news/articles/2026-10-26/france-offers-students-funding-reforms-to-try-to-end-protests) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Anthropic Drops Its S-1, Giving Market Glimpse Into Finances](https://www.bloomberg.com/news/videos/2026-10-26/bloomberg-tech-10-26-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Apple adds more Siri AI tools in its 27.2 system updates, out today](https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/) *(Engadget)*
+- [ ] 2026-10-26 [Ghost of Yōtei studio Sucker Punch reportedly lays off 24 workers](https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers/) *(Engadget)*
+- [ ] 2026-10-26 [Apple responds to reports of the iPhone Duo's inner display cracking](https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/) *(Engadget)*
+- [ ] 2026-10-26 [Your Apple TV remote has handy shortcuts most people never use](https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/) *(Engadget)*
+- [ ] 2026-10-26 [How to use your Samsung Galaxy phone to wirelessly charge other devices](https://www.engadget.com/2294444/how-to-use-samsung-galaxy-phone-wireless-powershare-charging/) *(Engadget)*
+- [ ] 2026-10-26 [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security) *(OpenAI News)*
+- [ ] 2026-10-26 [ChatGPT’s expanding world of work](https://openai.com/index/chatgpt-expanding-world-of-work) *(OpenAI News)*
+- [ ] 2026-10-26 [How Ultrafast cut incident investigation from hours to minutes at OpenAI](https://openai.com/index/openai-cut-incident-investigation) *(OpenAI News)*
+- [ ] 2026-10-26 [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities) *(OpenAI News)*
+- [ ] 2026-10-26 [Introducing GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra) *(OpenAI News)*
+- [ ] 2026-10-26 [AIエージェントが量子研究の優れた助手に、米OpenAIが発表](https://xtech.nikkei.com/atcl/nxt/column/18/03098/092900088/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [大まかに分けると3種類、Web APIの設計の観点を学ぶ](https://xtech.nikkei.com/atcl/nxt/column/18/03766/092800002/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [AIエージェントを業務に導入、「自律度」を高めれば「ブレーキ」が必要に](https://xtech.nikkei.com/atcl/nxt/column/18/03762/091500002/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [技術記者は「実践主義」に限る、DGX H200の排熱を浴びて再確認した](https://xtech.nikkei.com/atcl/nxt/column/18/02598/102000038/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [背面に貼り付けて使うパソコンスタンド、65gと軽く収納時の厚さは2.5mm](https://xtech.nikkei.com/atcl/nxt/column/18/03741/083100006/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [アシスティブアクセスに最適化されていないアプリ、画面は通常のまま](https://xtech.nikkei.com/atcl/nxt/column/18/03708/083100008/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [ノートPCメーカーの「FMV Keyboard X」、機能と打ちやすさの実力は](https://xtech.nikkei.com/atcl/nxt/column/18/00087/00465/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [VMware離脱は「総意」、それでも完全移行を終えた企業は北米で4％](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/102300232/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [年数十万件の商談をデータ化、AX宣言に先立ちガリバーが周到に整えた下地](https://xtech.nikkei.com/atcl/nxt/column/18/03801/101900002/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [「全体最適」の視点が鍵に、AIリスキリングでAI推進部門が果たすべき役割](https://xtech.nikkei.com/atcl/nxt/column/18/03798/102100002/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [緊急地震速報の誤報、ドコモ利用者には届かず　原因はデータ形式の違い](https://xtech.nikkei.com/atcl/nxt/column/18/00598/011300387/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [キヤノンが複合機にEDR、稼働中の不審操作を検知　自動遮断も](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12109/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [熊本地震に見た遠隔医療のリアル、「2件」と「65件」の実績から課題を知る](https://xtech.nikkei.com/atcl/nxt/column/18/00138/102302131/) *(日経クロステック IT)*
+- [ ] 2026-10-26 [伊藤忠インタラクティブが「Claude」活用研修　「AIを使う」から「業務を任せる」へ](https://kn.itmedia.co.jp/kn/article/2610/27/2000002583/) *(ITmedia AI＋)*
+- [ ] 2026-10-26 [「ゲームを勝手に合体Mod」などAIゲーム改造が暴走するなか、Claudeに“こっそり制限強化”疑惑浮上。ゲームの中身が丸裸、逆コンパイル流行に歯止めか - AUTOMATON](https://automaton-media.com/articles/newsjp/20261026-475703/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-26 [アップル、薄さ5.4mmでOLED搭載の新「iPad mini」発表、11万9800円～](https://k-tai.watch.impress.co.jp/docs/news/2151317.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [有機ELの新型「iPad mini」発表　A20 Pro、IP67対応、8.5型に大型化して11万9800円から](https://www.itmedia.co.jp/pcuser/articles/2610/26/news081.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [「Python」に再び「eMudhra」問題への対策、「Python 3.15.2」など5バージョンを提供／侵害された鍵をブロックする“最後の砦”が「ssl」モジュールに](https://forest.watch.impress.co.jp/docs/news/2151194.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [日本人は「ダサい」という理由でかな印字のないキーボードを買うが、海外の人はカッコ良くて読めないジャパニーズキーボードを買うという謎現象が起きている？](https://togetter.com/li/2696627) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [米AI「クロード」、有料閲覧制限を回避し選挙データに無許可アクセス](https://www.afpbb.com/articles/-/3659444) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第7報）（お客様をお守りするために現在私たちが行っていること） \| GMOインターネットグループ株式会社](https://group.gmo/info/alert/2026102602/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [不正アクセス受けたＧＭＯに高まる不信感　エンジニア界隈では真逆の評価だった \| 東スポWEB](https://www.tokyo-sports.co.jp/articles/-/407745) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [テッテレー！どこでもバックドア―☆~いんたあねっと寓話「タコミヤ書」～](https://zenn.dev/hal220/articles/d102dc51ba6513) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [AI数学 白チャート式 基礎からの100例題](https://zenn.dev/fibujrsl/articles/f374b3cce9f8fd) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [AIにTerraformを書かせる。人とAI共通のナレッジポータルとMCPサーバ](https://zenn.dev/kumamk2/articles/8b4d46090210aa) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [【HN話題】もっと野心的なソフトを作ろう！AI時代のエンジニア論](https://zenn.dev/ament3/articles/ai-digest-2026-10-25-0003) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [属人化をなくすために作ったAIが、私専用の道具になった](https://zenn.dev/think_node/articles/f35c405ace7f52) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [AIエージェントと生成ボタンの開発ルールを共通リポジトリで管理する](https://zenn.dev/kakami21/articles/f4254231afaa87) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [ブラウザで完結！サーバー送信ゼロ・完全無料のローカルファイル変換ツール「Convertube」を作った話](https://zenn.dev/audiofiltertool/articles/post-0b00a898-055e-416f-81bb-ad70298a920e) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [terraform のコードを少し整える tfstylus を作ってみた](https://zenn.dev/terraform_jp/articles/2026-10-26_tfstylus) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [他人のClaude CodeやCodexにAPIキーを渡さず仕事を委譲するゼロトラスト基盤「ACP」をOSS公開した](https://zenn.dev/acidnyan/articles/b1b851705ce4af) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [確かめない技術 第5回：全部走らせない技術](https://zenn.dev/garplab/articles/f877a9868fac7f) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [QRコードはなぜログインの鍵にならないのか。写真1枚で複製できる仕組みと安全な使い道](https://zenn.dev/kimshoshi/articles/printed-qr-is-not-a-key) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [Claude Code に「今日なにやる？」を聞ける ToDo を MCP で作って、4か月自社で回してみた](https://zenn.dev/aisaikou/articles/5008d5efa6da9f) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [コードが書けない私が、Claude Code のフックに「止めて AI に案内する門番」を置いた話](https://zenn.dev/maura/articles/ee84b0f11d8e50) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [完璧を待たないセキュリティ実務](https://zenn.dev/wyi_or_wye/books/security-practice-ai) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [AIは「通れます」と言い、私は「通れない」と言った — AIの確認は、確かめやすい道を通る](https://zenn.dev/sbkm/articles/4ad26d225c9dcb) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [CLAUDE.md とコードが違ったら、Claude Code はどちらに従う？：Sonnet は気づいても古い方に従った](https://zenn.dev/kakushigoto/articles/stale-claude-md-vs-code) *(Zenn – トピック AI)*
