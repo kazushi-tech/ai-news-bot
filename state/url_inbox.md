@@ -161413,3 +161413,71 @@
 - [ ] 2026-10-26 [完璧を待たないセキュリティ実務](https://zenn.dev/wyi_or_wye/books/security-practice-ai) *(Zenn – トピック AI)*
 - [ ] 2026-10-26 [AIは「通れます」と言い、私は「通れない」と言った — AIの確認は、確かめやすい道を通る](https://zenn.dev/sbkm/articles/4ad26d225c9dcb) *(Zenn – トピック AI)*
 - [ ] 2026-10-26 [CLAUDE.md とコードが違ったら、Claude Code はどちらに従う？：Sonnet は気づいても古い方に従った](https://zenn.dev/kakushigoto/articles/stale-claude-md-vs-code) *(Zenn – トピック AI)*
+
+## Collected on 2026-10-27T02:31:26.070Z
+- [ ] 2026-10-27 [‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims](https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-26 [In a rush to lure AI companies, the Australian government risks undoing a creative ecosystem that has taken decades to build \| Dan Guthrie](https://www.theguardian.com/commentisfree/2026/oct/27/in-a-rush-to-lure-ai-companies-the-australian-government-risks-undoing-a-creative-ecosystem-that-has-taken-decades-to-build) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-27 [Thieves Are Making a Fortune Heisting AI Data Center Equipment](https://futurism.com/artificial-intelligence/ai-data-center-heist-thieves-equipment) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-26 [Which iPhones Support iOS 27? Full Compatibility List and Missing Features](https://www.techrepublic.com/article/news-ios-27-compatible-iphones-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-27 [BlackRock’s Rieder Spent All Weekend Doing Deals in AI Debt Rush](https://www.bloomberg.com/news/articles/2026-10-27/blackrock-s-rieder-spent-all-weekend-doing-deals-in-ai-debt-rush) *(Bloomberg Technology)*
+- [ ] 2026-10-27 [AI Fund a ‘Fiscal Dam’, Says South Korea Budget Minister](https://www.bloomberg.com/news/videos/2026-10-27/ai-fund-a-fiscal-dam-says-south-korea-budget-minister-video-mvpxe6yk) *(Bloomberg Technology)*
+- [ ] 2026-10-27 [South Korea’s AI Fund Offers ‘Fiscal Dam’ Against Higher Yields](https://www.bloomberg.com/news/articles/2026-10-27/south-korea-s-ai-fund-offers-fiscal-dam-against-higher-yields) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Anthropic’s IPO Sets Up Defining Moment for Wall Street and AI Boom](https://www.bloomberg.com/news/articles/2026-10-26/anthropic-s-ipo-sets-up-defining-moment-for-wall-street-and-ai-boom) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Iran War Boosts Malaysian Data Center Appeal, SD Guthrie Says](https://www.bloomberg.com/news/articles/2026-10-26/iran-war-boosts-malaysian-data-center-appeal-sd-guthrie-says) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [The High Price of India’s iPhone Manufacturing Boom](https://www.bloomberg.com/news/videos/2026-10-26/the-high-price-of-india-s-iphone-manufacturing-boom) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [Spain Eases Data Center Energy Rules in Win for Big Tech](https://www.bloomberg.com/news/articles/2026-10-26/spain-eases-data-center-energy-rules-in-win-for-big-tech) *(Bloomberg Technology)*
+- [ ] 2026-10-26 [AirTrunk Secures $3 Billion Green Loan for Sydney Data Center](https://www.bloomberg.com/news/articles/2026-10-26/airtrunk-secures-3-billion-green-loan-for-sydney-data-center) *(Bloomberg Technology)*
+- [ ] 2026-10-27 [iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature](https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/) *(Engadget)*
+- [ ] 2026-10-26 [The most popular streaming platforms in the US might not be what you think](https://www.engadget.com/2295216/most-popular-streaming-platforms-united-states-not-what-you-think/) *(Engadget)*
+- [ ] 2026-10-26 [6+ ways you can use your PlayStation 5's USB ports](https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/) *(Engadget)*
+- [ ] 2026-10-26 [Halide releases its first batch of updates for the iPhone Duo](https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/) *(Engadget)*
+- [ ] 2026-10-26 [What are the leading causes of EV battery damage?](https://www.engadget.com/2290322/leading-causing-ev-battery-damage/) *(Engadget)*
+- [ ] 2026-10-26 [The mistake iPhone Duo buyers can easily avoid](https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/) *(Engadget)*
+- [ ] 2026-10-26 [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra) *(OpenAI News)*
+- [ ] 2026-10-27 [京大と東大が接戦　注目分野を独自調査](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/102100576/102100006/) *(日経クロステック IT)*
+- [ ] 2026-10-27 [死の谷越えへ産官学金　ばくち起業もうなくす](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/102100576/102100005/) *(日経クロステック IT)*
+- [ ] 2026-10-27 [運命の出会いを演出　狙い定めマッチング](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/102100576/102100004/) *(日経クロステック IT)*
+- [ ] 2026-10-27 [東大・慶大・京大　大学VCが存在感](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/102100576/102100003/) *(日経クロステック IT)*
+- [ ] 2026-10-27 [ゲノム編集にナノ塗料　躍動する起業家たち](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/102100576/102100002/) *(日経クロステック IT)*
+- [ ] 2026-10-27 [AI全振りで気象サービス変革　民間だからこそAIネーティブ化推進](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600001/102000220/) *(日経クロステック IT)*
+- [ ] 2026-10-27 [大学発、5年で倍増　支援体制は世界有数](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/102100576/102100001/) *(日経クロステック IT)*
+- [ ] 2026-10-27 [クラウドの使用料が爆増　検証環境のアクセス権に誤り](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800004/101900106/) *(日経クロステック IT)*
+- [ ] 2026-10-27 [国内で大規模な情報漏洩相次ぐ](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/101900343/) *(日経クロステック IT)*
+- [ ] 2026-10-27 [SAP ERPをクラウド版へ移行　業務プロセスをゼロベースで見直し](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600004/102200220/) *(日経クロステック IT)*
+- [ ] 2026-10-27 [財務の知識をAIに移植](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/041700482/102000021/) *(日経クロステック IT)*
+- [ ] 2026-10-27 [コスパ重視の「GPT-6.1 Terra」新登場　コスト10分の1で一部Astraと同等性能うたう](https://www.itmedia.co.jp/aiplus/article/2610/27/2000002611/) *(ITmedia AI＋)*
+- [ ] 2026-10-26 [大企業はAIコストを管理できていない　サイボウズ調査で浮かび上がった「3割の壁」](https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html) *(ITmedia AI＋)*
+- [ ] 2026-10-26 [京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由](https://kn.itmedia.co.jp/kn/article/2610/27/2000002599/) *(ITmedia AI＋)*
+- [ ] 2026-10-26 [熊本地震「避難状況マップ」秘話　2日で開発も「こんなの使えない」と突き返され……](https://www.itmedia.co.jp/business/articles/2610/27/news014.html) *(ITmedia AI＋)*
+- [ ] 2026-10-26 [AIで「月○○時間削減」それ本当？　浮いた時間はどこに消えたのか](https://www.itmedia.co.jp/business/articles/2610/27/news016.html) *(ITmedia AI＋)*
+- [ ] 2026-10-26 [中小企業、Windows更新「利用者任せ」が4割超　SCS評価制度で問われる管理体制](https://kn.itmedia.co.jp/kn/article/2610/27/2000002584/) *(ITmedia AI＋)*
+- [ ] 2026-10-26 [「遅延なきネットワーク」ソブリンAIの鍵に　NTT川添氏が語る「IOWN」実装後の社会](https://www.itmedia.co.jp/business/articles/2610/27/news024.html) *(ITmedia AI＋)*
+- [ ] 2026-10-26 [FDEは「スーパーマンと思われがちだが……」　脱・人月モデルで期待大、AI時代の“花形職種”の実像は？](https://www.itmedia.co.jp/business/articles/2610/27/news013.html) *(ITmedia AI＋)*
+- [ ] 2026-10-26 [三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか](https://monoist.itmedia.co.jp/mn/articles/2610/27/news041.html) *(ITmedia AI＋)*
+- [ ] 2026-10-27 [Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 \| iret.media](https://iret.media/210349) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-27 [【特集】 120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？](https://pc.watch.impress.co.jp/docs/topic/feature/2150970.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-27 [大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘](https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-27 [【やじうまミニレビュー】 見た目はUSB SSD、中身はAIプロセッサ。ASUS「UGen300」を試した](https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2151277.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-27 [GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス](https://github.com/yuiseki/map-from-scratch) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-27 [えっ!　メモリ64GBのPCで7630億パラメーターのDeepSeekを!?　Strataがついに実現](https://ascii.jp/elem/000/004/445/4445574/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-27 [GMO、「お名前.com デスクトップクラウド」へのサイバー攻撃で詳報、「能動的サイバー防御」の緊急要請も　見舞金、代替サービス、損失の補填など説明](https://internet.watch.impress.co.jp/docs/news/2150991.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-27 [GMOグループ代表の熊谷正寿さん、今そこにあるサイバー攻撃お手上げの危機に長文ポエムで日本を守る話にすり替えにかかる : 市況かぶ全力２階建](https://kabumatome.doorblog.jp/archives/66033516.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-27 [ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと](https://internet.watch.impress.co.jp/docs/special/2151050.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [電子ギフト会社に不正アクセス 5億5000万円分が不正発行 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261026de66013) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） \| GMOインターネットグループ株式会社](https://group.gmo/info/alert/20261027/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [日本企業が「サイバー攻撃はAIのせい」にして目を背ける“本当の原因”](https://atmarkit.itmedia.co.jp/ait/articles/2610/27/news018.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [登壇当日に Claude for Google Workspace で Markdown 原稿をスライドに変換して間に合わせた話 \| DevelopersIO](https://dev.classmethod.jp/articles/claude-for-google-workspace-slide-conversion/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [自分の個人情報などが漏えいした際の「対処」と「日頃の対策」まとめ、IPAが公開](https://internet.watch.impress.co.jp/docs/news/2151185.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [楽天トラベルで2件の不正アクセス、海外ホテル予約サイト・多言語予約サイトで合計最大約350万件の個人情報が対象に](https://internet.watch.impress.co.jp/docs/news/2151305.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [中国「日本で青春を送りたかった…」 日本と中国の高校の違いを写した1枚の写真が中国ネットでトレンド上位に](https://pandora11.com/blog-entry-5898.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [Microsoft、約6万人対象の希望退職制度を発表　巨額のAI投資で経費抑制か](https://www.itmedia.co.jp/news/article/2610/27/2000002604/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [【福田昭のセミコン業界最前線】 「メモリの壁」がいつまでも存在し続ける理由](https://pc.watch.impress.co.jp/docs/column/semicon/2151293.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [79億円要求されたGMO　「能動的サイバー防御」求める理由 \| 毎日新聞](https://mainichi.jp/articles/20261026/k00/00m/020/387000c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [PHPの更新を適用していないサイトからビットコインを盗む賞金付きハッキングチャレンジが開催され19時間で突破される](https://gigazine.net/news/20261026-steal-my-bitcoin/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [nvidia/simready-assets · Datasets at Hugging Face](https://huggingface.co/datasets/nvidia/simready-assets) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [Concerning behavior from a popular open-weight AI model \| Cohere](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [メール配信会社 不正アクセスで5162万件余の情報流出 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261027de66047) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-27 [ついにiPad miniも有機EL！厚さ5.4mmで防水防塵、A20 Pro搭載](https://pc.watch.impress.co.jp/docs/news/2151328.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-26 [その１　なぜ tfstylus を作ったのか](https://zenn.dev/terraform_jp/articles/2026-10-27_tfstylus_01) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [Fortranでつくる将棋用AI](https://zenn.dev/clamini/articles/0139cdfc1e60bb) *(Zenn – トピック AI)*
+- [ ] 2026-10-26 [Vibe Coding 開発に AI を導入する際の問題メモ（二）-なぜトークンはこんなに早く消費されるのか？](https://zenn.dev/lian0123/articles/efbff5f3c93ee5) *(Zenn – トピック AI)*
