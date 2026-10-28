@@ -163304,3 +163304,107 @@
 - [ ] 2026-10-28 [QuantG のリプレイ戦略の紹介](https://zenn.dev/gzh1994/articles/quantg-replay-strategy) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-27 [「確信度が高い」は「正しい」ではなかった — 2位との差で測ると、根拠が1件のとき最大になる](https://zenn.dev/shinsei99/articles/confidence-score-was-not-accuracy) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-27 [Psi4とRDKitでFukui Index計算_第5回：大域・局所特徴量を統合した機械学習データセット作成アプリの完成](https://zenn.dev/pincolo/articles/889b59ccd90342) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-28T17:28:13.158Z
+- [ ] 2026-10-28 [Social media is full of weird video game mashups. Where are they all coming from?](https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-28 [Castle Walls review – Prime’s first fully AI-generated show is here, and it’s a Vaseline-smeared mess](https://www.theguardian.com/tv-and-radio/2026/oct/29/castle-walls-review-prime-first-fully-ai-generated-tv-show) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-28 [Will it be AI or the climate crisis that ends humanity? We can make it neither \| Adam McKay and Philip Eubanks](https://www.theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-28 [Elon Musk’s Real Estate Goons Threaten Local Residents Not to Sue Over Deafening Data Center Noise](https://futurism.com/artificial-intelligence/elon-musk-real-estate-local-residents-sue-data-center-noise) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-28 [OpenAI slashes price for model again](https://aibusiness.com/generative-ai/openai-slashes-price) *(AI Business)*
+- [ ] 2026-10-28 [France: three overlapping woes are fuelling a generation of discontent](https://theconversation.com/france-three-overlapping-woes-are-fuelling-a-generation-of-discontent-295102) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-28 [AI may quickly generate ideas, but working with people leads to more creative ones](https://theconversation.com/ai-may-quickly-generate-ideas-but-working-with-people-leads-to-more-creative-ones-292417) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-28 [What is artificial general intelligence – and is it already here?](https://theconversation.com/what-is-artificial-general-intelligence-and-is-it-already-here-293600) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-28 [Apple Creator Studio to Add AI Assistants to Pages, Numbers, and Keynote](https://www.techrepublic.com/article/news-apple-creator-studio-ai-assistants/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-28 [AI Data Centers Are Straining Power Grids. New Rules Aim to Reduce the Risk](https://www.techrepublic.com/article/news-ai-data-centers-grid-reliability-standards/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-28 [Google Unveils Genie 4 With Native Audio and Real-Time World Editing](https://www.techrepublic.com/article/news-google-genie-4-native-audio-world-editing/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-28 [Samsung Health to Offer Free AI Diabetes Prevention Coaching for Seniors](https://www.techrepublic.com/article/news-samsung-health-ai-diabetes-prevention-coaching-seniors/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-28 [No Title](https://www.techrepublic.com/article/news-opera-webai-local-ai-browser-models/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-28 [Siri AI vs Google Gemini: Which AI Assistant Is Better in 2026?](https://www.techrepublic.com/article/news-siri-ai-vs-google-gemini-2026/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-28 [Safari Notify Me: How to Track Price Drops and Website Changes](https://www.techrepublic.com/article/news-safari-notify-me-price-drop-alerts-how-to-use/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-28 [Stop Trusting One Chatbot: Cross-Check Six AI Models for $50](https://www.techrepublic.com/article/clearafi-ai-lifetime-subscription/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-28 [Samsung Galaxy A18 and A08: AI Features, Specs, and Prices](https://www.techrepublic.com/article/news-samsung-galaxy-a18-a08-price-specs-ai-philippines-apac/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-28 [Vietnam and India Push AI, Cybersecurity, and Cross-Border Payments at Tech Forum](https://www.techrepublic.com/article/ai-cybersecurity-payments-cooperation-apac-vietnam-india/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-28 [Access Multiple AI Models in Your Python Apps Using OpenRouter](https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter) *(KDnuggets)*
+- [ ] 2026-10-28 [Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally](https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally) *(KDnuggets)*
+- [ ] 2026-10-28 [Which Local LMs are Best For Which Tasks](https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks) *(KDnuggets)*
+- [ ] 2026-10-28 [GitHub Expands Infra With 4 Mn Cores, Debuts Copilot Fusion for Multi-Model Routing](https://analyticsindiamag.com/ai-news/github-expands-infra-with-4-mn-cores-debuts-copilot-fusion-for-multi-model-routing) *(Analytics India Magazine)*
+- [ ] 2026-10-28 [[Webinar Alert] Building Secure and Scalable Enterprise Applications in the Age of AI With Aurigo](https://analyticsindiamag.com/ai-highlights/webinar-alert-building-secure-and-scalable-enterprise-applications-in-the-age-of-ai-with-aurigo) *(Analytics India Magazine)*
+- [ ] 2026-10-28 [IIIT Hyderabad and NPCI Sign MoU to Strengthen Cybersecurity in Digital Payments](https://analyticsindiamag.com/ai-news/iiit-hyderabad-and-npci-sign-mou-to-strengthen-cybersecurity-in-digital-payments) *(Analytics India Magazine)*
+- [ ] 2026-10-28 [Apple Unveils Touch-Screen MacBook Pro, Reversing Longheld Jobs Stance](https://www.bloomberg.com/news/articles/2026-10-28/apple-unveils-touch-screen-macbook-pro-reversing-longheld-jobs-stance) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Ransomware Negotiator Arrests Add Scrutiny to Shadowy Industry](https://www.bloomberg.com/news/newsletters/2026-10-28/ransomware-negotiator-arrests-add-scrutiny-to-shadowy-industry) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [AI Fed Simulation Predicts Interest Rates Will Hold Steady](https://www.bloomberg.com/news/videos/2026-10-28/ai-fed-simulation-predicts-rates-will-hold-steady-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Columbia Opens Claims for $16 Million Data Breach Settlement](https://www.bloomberg.com/news/articles/2026-10-28/columbia-opens-claims-for-16-million-data-breach-settlement) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Microsoft, Alphabet Earnings Put Focus on AI Cash Flow Drain](https://www.bloomberg.com/news/videos/2026-10-28/microsoft-alphabet-earnings-put-focus-on-ai-cash-drain-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [AI Data-Center Borrowing May Test Credit Market: Fortress](https://www.bloomberg.com/news/videos/2026-10-28/ai-data-center-debt-may-test-credit-market-fortress-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Robinhood Slides, Wendy's Rallies \| Stock Movers](https://www.bloomberg.com/news/videos/2026-10-28/robinhood-slides-wendy-s-rallies-stock-movers-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Causeway CEO Sees Opportunities in AI, Defense Stocks and French Banks](https://www.bloomberg.com/news/videos/2026-10-28/causeway-ceo-on-ai-defense-stocks-and-french-banks-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [UK Links Data Center Grid Access to Jobs, Local Investment](https://www.bloomberg.com/news/articles/2026-10-28/uk-links-data-center-grid-access-to-jobs-local-investment) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Drone Stocks Face Deeper Drop as Midterm Blue Wave Risks Grow](https://www.bloomberg.com/news/articles/2026-10-28/drone-stocks-face-deeper-drop-as-midterm-blue-wave-risks-grow) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Anthropic’s Tensions With Trump Laid Bare Ahead of Landmark IPO](https://www.bloomberg.com/news/articles/2026-10-28/anthropic-s-tensions-with-trump-laid-bare-ahead-of-landmark-ipo) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Amazon Unveils New Echo Show 16, Alexa Speakers, Smart Clock and Photo Frame](https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Samsung Unveils Galaxy Buds On Clip-On Earbuds for $229](https://www.bloomberg.com/news/articles/2026-10-28/samsung-unveils-galaxy-buds-on-clip-on-earbuds-for-229) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [AI Capex in Mid-Cycle Boom, Says Morgan Stanley’s Shalett](https://www.bloomberg.com/news/videos/2026-10-28/ai-capex-in-mid-cycle-boom-morgan-stanley-s-shalett-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Russia Adds Apple and Microsoft to State Surveillance Registry](https://www.bloomberg.com/news/articles/2026-10-28/russia-adds-apple-and-microsoft-to-state-surveillance-registry) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Otter adds ‘Work’ mode to automate more meeting-related tasks](https://www.computerworld.com/article/4241172/otter-adds-work-mode-to-automate-more-meeting-related-tasks.html) *(Computerworld)*
+- [ ] 2026-10-28 [Apple's redesigned MacBook Pro has an OLED touchscreen, weighs just three pounds](https://www.engadget.com/2299925/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds/) *(Engadget)*
+- [ ] 2026-10-28 [Fake PS5 emulators on GitHub are spreading password-stealing malware](https://www.engadget.com/2299912/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware/) *(Engadget)*
+- [ ] 2026-10-28 [The Xreal Aura smartglasses are now on sale for a discounted launch price](https://www.engadget.com/2299633/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/) *(Engadget)*
+- [ ] 2026-10-28 [New York governor signs AI chatbot child safety law](https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law/) *(Engadget)*
+- [ ] 2026-10-28 [Reddit is adding a 'for you' feed for recommendations](https://www.engadget.com/2299618/reddit-is-adding-a-for-you-feed-for-recommendations/) *(Engadget)*
+- [ ] 2026-10-28 [Audio Technica just released its first set of wireless StreamSet headphones](https://www.engadget.com/2299600/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/) *(Engadget)*
+- [ ] 2026-10-28 [FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar](https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/) *(Engadget)*
+- [ ] 2026-10-28 [Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places](https://www.engadget.com/2299180/kindle-paperwhite-signature-edition-2026-review/) *(Engadget)*
+- [ ] 2026-10-28 [Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn't justify the price](https://www.engadget.com/2299326/kindle-colorsoft-signature-edition-2026-review/) *(Engadget)*
+- [ ] 2026-10-28 [Apple Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen](https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog/) *(Engadget)*
+- [ ] 2026-10-28 [All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more](https://www.engadget.com/2299032/all-amazon-echo-news-october-2026/) *(Engadget)*
+- [ ] 2026-10-28 [Amazon launches its first digital photo frame with built-in Alexa](https://www.engadget.com/2299247/amazon-alexa-photo-frame/) *(Engadget)*
+- [ ] 2026-10-28 [Amazon's new Echo Time smart alarm clock tries to make waking up less painful](https://www.engadget.com/2299263/amazon-echo-time-smart-alarm-clock/) *(Engadget)*
+- [ ] 2026-10-28 [Amazon adds a glare-reducing nanomatte display to its new Echo Show 16](https://www.engadget.com/2299288/amazon-glare-reducing-nanomatte-display-to-its-new-echo-show-16/) *(Engadget)*
+- [ ] 2026-10-28 [The Amazon Echo Studio's new camera can check on your dog or tell you how to play 'Monopoly'](https://www.engadget.com/2299245/the-amazon-echo-studio-new-camera-tell-you-how-to-play-monopoly/) *(Engadget)*
+- [ ] 2026-10-28 [Amazon's new Echo Dot now works as an eero Wi-Fi extender and smart home hub](https://www.engadget.com/2299279/amazon-new-echo-dot-now-works-as-eero-wi-fi-extender-and-smart-home-hub/) *(Engadget)*
+- [ ] 2026-10-28 [Samsung's Galaxy Buds On are its first clip-on, open-ear wireless earbuds](https://www.engadget.com/2299270/samsungs-galaxy-buds-on-are-clip-on-open-ear-wireless-headphones/) *(Engadget)*
+- [ ] 2026-10-28 [The Alexa Home Map is a visual way to see and control your smart home](https://www.engadget.com/2299183/alexa-home-map-visual-way-see-control-smart-home/) *(Engadget)*
+- [ ] 2026-10-28 [Legora is building the agentic operating system for legal work](https://openai.com/index/legora) *(OpenAI News)*
+- [ ] 2026-10-28 [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary) *(Hugging Face Blog)*
+- [ ] 2026-10-28 [日立の26年4～9月期は増収増益　通期も上方修正、HMAXは売上収益5100億円へ](https://xtech.nikkei.com/atcl/nxt/news/24/03446/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [約4年間グラフィックデザイナーとして働いてきて、今年で完全に従来のデザイナーという職業はなくなりそう…一方でマーケティングへのシフトやまだまだニーズがある面も](https://togetter.com/li/2763896) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-28 [AIがコードを書いてくれる時代、我々は何を確かめるのか](https://speakerdeck.com/yosuke_furukawa/ai-ga-kodo-o-kai-te-kureru-jidai-wareware-ha-nani-o-tashikameru-no-ka) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-28 [人間は相手がただのアルゴリズムであっても不当な扱いに怒りを抱いて復讐したがるとの研究結果](https://gigazine.net/news/20261028-pay-to-revenge-algorithm/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-28 [AppleとOpenAIのモデルに基づいて構築されたAIアシスタントがKeynote・Pages・NumbersだけでなくLogic Proにも追加、Keynote・Pages・NumbersはMCPをサポート](https://gigazine.net/news/20261028-apple-creator-studio-ai-features-openai-models/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-28 [GMO不正アクセスの犯人サイト、ドメイン停止を確認](https://www.itmedia.co.jp/news/article/2610/28/2000002659/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-28 [トランプ大統領「AI」の名称使用を禁止の方針　代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」 \| TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/3042737) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-28 [AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」](https://gigazine.net/news/20261028-cve-tracker/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-28 [AMDとIntel、x86 CPU向けPyTorch最適化を統合へ](https://pc.watch.impress.co.jp/docs/news/2151484.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-28 [GMO熊谷正寿事件の概要と雑感｜山本一郎（やまもといちろう）](https://note.com/kirik/n/n72f93c8a2819) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [pfpdf — Markdown から、印刷品質の PDF へ](https://pfpdf.preferred.tech/ja/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [PHP財団の常勤職員「たった1人」の衝撃--ウェブの安全を支える人手と資金が足りない](https://japan.cnet.com/article/35254103/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [推しキャラが机の上に! ソニーの“小型空間再現ディスプレイ”見てきた](https://av.watch.impress.co.jp/docs/topic/2152028.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [漸進的過負荷の原則](https://speakerdeck.com/sansantech/20260123) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [米通信大手AT＆T、情報流出した顧客に計280億円を支払いへ　1人最大120万円](https://japan.cnet.com/article/35254076/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [ヨドバシカメラ、免税分をその場で“現金還付”　主要11店舗で11月1日から](https://ascii.jp/elem/000/004/446/4446516/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [AIに分析させる前に整えるべきもの　大阪ガスが目指す「システム」「データ」「メタデータ」の循環](https://www.itmedia.co.jp/enterprise/articles/2610/26/news002.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析](https://gigazine.net/news/20261028-claude-mythos-5-failure/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [アマゾン「Alexa+」、提供開始　月額3000円でプライム会員は無料](https://k-tai.watch.impress.co.jp/docs/news/2151993.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [RailsTokyo#6でwkhtmltopdfの次どうするか問題2026という発表をした - おもしろwebサービス開発日記](https://blog.willnet.in/entry/2026/10/28/180758) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [JAL、9万件超の予約情報に不正アクセス　一部はパスポート番号も - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC288G50Y6A021C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [Genie 4登場、AIが作る動く世界が2分続くように](https://zenn.dev/sugawara_ai/articles/ai-news-20261028) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [Ubuntu で desktop しつつ GPU local LLM 実行のための RAM/GPU リソース削減メモ](https://zenn.dev/syoyo/articles/91662b2305f2d6) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [LLMの「迎合」とハルシネーションはなぜ起きるのか？：整合性を求めるシステム設計の限界とデバッグに関する考察](https://zenn.dev/izu_moon/articles/98f46d6c0ea1be) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [AIエージェントの「単一ループ」と「有向グラフ」でコストと速度はどう変わるか？実機サンドボックスでA/B比較検証してみた](https://zenn.dev/tappers/articles/ai-labo-e04-loops-vs-graphs) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [SNSで話題のAIエージェント設計論を片っ端から実機A/B検証してわかった「トークン90%削減・品質100%」の黄金パターン総集編](https://zenn.dev/tappers/articles/ai-labo-agent-harness-patterns-omnibus) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [ハルシネーションとはどういうものと考えるべきか？](https://zenn.dev/pdfractal/articles/510885eef84b4f) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [【構想】LLMの記憶はなぜ「生録音」なのか ─ SMPTEタイムコードと制御工学に学ぶ時系列インデックスの設計 ─](https://zenn.dev/nanashi_os/articles/97ac0bc822c50a) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [ローカル LLM のエージェントが外へ送ろうとしても困らないように組む。守りと確かめ方と残る穴](https://zenn.dev/maruhana/articles/local-llm-agent-hermes-egress-defense-check) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [Claude のプロンプトキャッシュが効かないときに確かめる 7 つのこと](https://zenn.dev/aishigoto/articles/cert-claude-prompt-cache-miss) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [iPhoneでLLMと画像生成モデルを1つのアプリに入れるときに決めた3つのこと](https://zenn.dev/anvilnathan/articles/44fa94446fa182) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [LLMに書いてもらうための小さな言語、Kirohaを作りました](https://zenn.dev/nextbeat/articles/2026-10-kiroha-language) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [Pythonで環境変数からAPIキーを読み込む — Windows・macOS・Colab別の設定と確認方法](https://zenn.dev/salesanalytics/articles/d39f9adcdd1285) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [SFA/CRMに「なぜ」の層を足す —— 商談1件分のReasoning Traceで見るContinuous Reasoning Acqu](https://zenn.dev/hiromi63/articles/0b081ba228d7e7) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】](https://zenn.dev/sonicmoov/articles/67aaeb49be69ec) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [ローカルLLMの待ち時間はどこまで減る？ Strataで入力キャッシュの効果を実測する](https://zenn.dev/jtcc/articles/strata-prompt-cache-benchmark) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [Copilotが分析を始めた、そのときSIerの役割は。Flint-interactiveが示す将来](https://zenn.dev/syoshida07/articles/340f36cddec211) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [AI時代のエンジニア転職：ポートフォリオより「言語化力」が評価される理由](https://zenn.dev/sunsun_eng/articles/engineer-career-change-verbalization-ai) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [VEED動画クリーンアップの検証：動き・圧縮・細部の描写](https://zenn.dev/hiiiii/articles/76875b94fb703b) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [AI駆動開発の始め方【準備4つ＋Claude Codeで最初のアプリを作るまで】](https://zenn.dev/suekichi_system/articles/ai-driven-development-getting-started) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [『逮捕』ではなく『インフラの特定』：大規模サイバー犯罪に対する構造的・合理的な対抗ゲームの設計論](https://zenn.dev/kamonle/articles/05b3ba8c7f9faf) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [AIは私の「証明されました」を疑わなかった ── 統計の素人が、AIと一緒に仮説を殺すまで](https://zenn.dev/charat55/articles/ai-auditor-keiba) *(Zenn – トピック 機械学習)*
