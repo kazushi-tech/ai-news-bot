@@ -163408,3 +163408,73 @@
 - [ ] 2026-10-28 [AI駆動開発の始め方【準備4つ＋Claude Codeで最初のアプリを作るまで】](https://zenn.dev/suekichi_system/articles/ai-driven-development-getting-started) *(Zenn – トピック AI)*
 - [ ] 2026-10-28 [『逮捕』ではなく『インフラの特定』：大規模サイバー犯罪に対する構造的・合理的な対抗ゲームの設計論](https://zenn.dev/kamonle/articles/05b3ba8c7f9faf) *(Zenn – トピック AI)*
 - [ ] 2026-10-28 [AIは私の「証明されました」を疑わなかった ── 統計の素人が、AIと一緒に仮説を殺すまで](https://zenn.dev/charat55/articles/ai-auditor-keiba) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-28T21:55:20.633Z
+- [ ] 2026-10-28 [I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet](https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-28 [The Hinge on Apple’s Constantly Breaking New Foldable iPhone Was “Built With AI”](https://futurism.com/artificial-intelligence/hinge-apple-breaking-foldable-iphone-built-with-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-28 [Top AI Safety Researcher Says He’s Stopped Saving for Retirement Because He’s So Sure We’re All Going to Die](https://futurism.com/artificial-intelligence/ai-researcher-retirement-savings) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-28 [Elon Musk-Linked Startup Says Its AI Agents Hacked Anthropic in Just Hours](https://futurism.com/future-society/startup-ai-agents-hacked-anthropic-hours) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-28 [Woman Dies After ChatGPT Coached Her to Decrease Dose of Medication Prescribed by Doctor](https://futurism.com/artificial-intelligence/woman-dies-chatgpt-medication) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-28 [Chinese AI invasion gives enterprises a new way to control cost](https://aibusiness.com/generative-ai/chinese-ai-invasion-gives-enterprises-new-way-control-cost) *(AI Business)*
+- [ ] 2026-10-28 [Nvidia bets on personal agents in new Meta partnership](https://aibusiness.com/agentic-ai/nvidia-bets-personal-agents-new-meta-partnership) *(AI Business)*
+- [ ] 2026-10-28 [Netherlands Plans 25,000 Job Cuts as Government Turns to AI](https://www.techrepublic.com/article/news-netherlands-government-job-cuts-ai-emea/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-28 [Systems Thinking Is Vital in the Age of AI](https://spectrum.ieee.org/systems-thinking-vital-in-ai) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-10-28 [T-Mobile Boosts Profit, Adds Customers on New Rate Plans](https://www.bloomberg.com/news/articles/2026-10-28/t-mobile-boosts-profit-accounts-as-network-and-offers-resonate) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Charles Schwab Integrating AI Tools and Financial Planning](https://www.bloomberg.com/news/videos/2026-10-28/charles-schwab-integrating-ai-with-financial-planning-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Microsoft's Big Bets on AI Start to Pay Off](https://www.bloomberg.com/news/videos/2026-10-28/microsoft-s-big-bets-on-ai-start-to-pay-off-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Alphabet Shares Tank on Sales Misses Across Core Businesses](https://www.bloomberg.com/news/articles/2026-10-28/alphabet-reports-disappointing-revenue-income-shares-drop) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Marvell Said to Near Megadeal for Lumentum In AI Push](https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Microsoft Reports Rising Cloud Sales That Show Payoff From AI](https://www.bloomberg.com/news/articles/2026-10-28/microsoft-reports-quarterly-cloud-sales-that-beat-estimates) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Breaking Down Alphabet's Disappointing Earnings Report](https://www.bloomberg.com/news/videos/2026-10-28/breaking-down-alphabet-s-disappointing-earnings-report-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Palantir’s Defense Chief Sees China Threat to Taiwan Over AI](https://www.bloomberg.com/news/articles/2026-10-28/palantir-s-defense-chief-sees-chinese-threat-to-taiwan-over-ai) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Ford CFO on Earnings, AI, Gas Prices, Going Off-Road](https://www.bloomberg.com/news/videos/2026-10-28/ford-cfo-on-earnings-ai-gas-prices-going-off-road-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Four Unanswered Questions From Anthropic’s IPO Filing](https://www.bloomberg.com/news/newsletters/2026-10-28/four-unanswered-questions-from-anthropic-s-ipo-filing) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Key Takeaways From Microsoft and ServiceNow Earnings](https://www.bloomberg.com/news/videos/2026-10-28/key-takeaways-from-microsoft-and-servicenow-earnings-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [ServiceNow Falls After Quarterly Sales Outlook Revives AI Fears](https://www.bloomberg.com/news/articles/2026-10-28/servicenow-falls-after-quarterly-sales-outlook-revives-ai-fears) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Oracle Jumps After Projecting Return to Positive Cash Flow](https://www.bloomberg.com/news/articles/2026-10-28/oracle-projects-30-billion-free-cash-flow-in-fiscal-2029) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [XRP 'At The Heart' Of Everything Ripple Does: Garlinghouse](https://www.bloomberg.com/news/videos/2026-10-28/xrp-at-the-heart-of-everything-ripple-does-garlinghouse-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Fifteen-Minute Bets Scratch the Bitcoin Itch](https://www.bloomberg.com/news/videos/2026-10-28/fifteen-minute-bets-scratch-the-bitcoin-itch-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Fed's Warsh 'Sensitive' to AI, BlackRock's Rosenberg Says](https://www.bloomberg.com/news/videos/2026-10-28/fed-sensitive-to-ai-blackrock-s-rosenberg-says-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Crypto Braces for Hostile Post-Election Climate](https://www.bloomberg.com/news/videos/2026-10-28/crypto-braces-for-hostile-post-election-climate-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 ['Huge Demand' for 24/7 Trading: BNY's Majiyagbe](https://www.bloomberg.com/news/videos/2026-10-28/-huge-demand-for-24-7-trading-bny-s-majiyagbe-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Apple Unveils Touch-Screen MacBook Pro](https://www.bloomberg.com/news/videos/2026-10-28/apple-unveils-touch-screen-macbook-pro-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [DOJ Inquires About Nvidia’s Hugging Face Deal, Reuters Says](https://www.bloomberg.com/news/articles/2026-10-28/doj-inquires-about-nvidia-s-hugging-face-deal-reuters-says) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [It costs a lot more to use AI models in some languages](https://www.computerworld.com/article/4241844/ai-models-are-much-more-expensive-for-less-common-languages.html) *(Computerworld)*
+- [ ] 2026-10-28 [Apple's PROLED XDR Display has a cringy name but incredible specs](https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/) *(Engadget)*
+- [ ] 2026-10-28 [Meta weighs delaying 'alarming' new business terms as backlash grows](https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/) *(Engadget)*
+- [ ] 2026-10-28 [The PlayStation 5 just might be Sony's final Blu-Ray player](https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player/) *(Engadget)*
+- [ ] 2026-10-28 [OpenAI now lets you text your Dot agent](https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/) *(Engadget)*
+- [ ] 2026-10-28 [Engadget is hiring writers!](https://www.engadget.com/2300216/engadget-is-hiring-writers-october-2026/) *(Engadget)*
+- [ ] 2026-10-28 [Sony's new see-through DualSense controllers let you game like its 1999](https://www.engadget.com/2300152/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/) *(Engadget)*
+- [ ] 2026-10-28 [Apple's first touchscreen MacBook Pro feels both familiar and radically improved](https://www.engadget.com/2300023/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/) *(Engadget)*
+- [ ] 2026-10-28 [Here's how the touchscreen on the MacBook Pro with PROLED display works](https://www.engadget.com/2300009/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/) *(Engadget)*
+- [ ] 2026-10-28 [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion) *(OpenAI News)*
+- [ ] 2026-10-28 [The future of the firm](https://openai.com/index/the-future-of-the-firm) *(OpenAI News)*
+- [ ] 2026-10-28 [ローカル環境でWeb APIを試す、3ステップでToDo APIを開発](https://xtech.nikkei.com/atcl/nxt/column/18/03766/092800004/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [AIエージェント導入のカギを握る「プレーヤー」、誰に何を任せるか](https://xtech.nikkei.com/atcl/nxt/column/18/03762/091500004/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [アリババの医療AI、CT画像から146種の病症を識別　専門医レベルの精度](https://xtech.nikkei.com/atcl/nxt/column/18/02653/102600087/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [AIエージェント、3つの「ループ」で進化　成果物の評価基準づくりが鍵に](https://xtech.nikkei.com/atcl/nxt/column/18/03799/102100003/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [中国製の太陽光発電はエネルギー安全保障のリスクなのか？](https://xtech.nikkei.com/atcl/nxt/column/18/02421/102600136/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [「仕事をしなくてもよい」人が登場、AIで失業する人と二極化進む](https://xtech.nikkei.com/atcl/nxt/column/18/00849/00202/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [既存のサムターンに後付けするスマートロック　顔や指紋、ICカードでも解錠](https://xtech.nikkei.com/atcl/nxt/column/18/03741/083100007/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [Android TVにスマホの写真を映す、iPhoneからもGoogleフォトでキャスト](https://xtech.nikkei.com/atcl/nxt/column/18/03775/092800002/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [見知らぬ着信に代理応答、インドのパーソナルAI　電話に目を付けた秀逸さ](https://xtech.nikkei.com/atcl/nxt/column/18/02994/102600026/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [精度は満たしたのに使われないAIナレッジ、KPIを決めて実装し直そう](https://xtech.nikkei.com/atcl/nxt/column/18/03242/102800034/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [「勘と経験と度胸」の値付けをAIで　ガリバー、商品政策業務を改革](https://xtech.nikkei.com/atcl/nxt/column/18/03801/101900004/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [AIリスキリングは恩恵もたらすという意識の浸透を、現場とどう向き合うか](https://xtech.nikkei.com/atcl/nxt/column/18/03798/102100004/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [相次ぐ脆弱性対応で「組織疲労」が深刻化、今こそ優先業務の見直しを](https://xtech.nikkei.com/atcl/nxt/column/18/00138/102702133/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [「自分は大丈夫」と考える人のセキュリティー対策は困難、組織で見直しを](https://xtech.nikkei.com/atcl/nxt/column/18/01775/102800291/) *(日経クロステック IT)*
+- [ ] 2026-10-28 [「高度なAIスキル」だけではもう食えない？　IT人材が答えた「これからの必須スキル」](https://kn.itmedia.co.jp/kn/article/2610/29/2000002688/) *(ITmedia AI＋)*
+- [ ] 2026-10-28 [Gemini 4 Carbon: our next frontier model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-28 [核戦争でも大停電でもない…超知能となったAIが人類を滅ぼすまでの｢最後の4日間｣戦慄シナリオ](https://president.jp/articles/-/120676) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-28 [Amadeus の旅客サービスシステムへの不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/28/214917) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [JAL \| Amadeus社が提供する旅客サービスシステムへの不正アクセスについて](https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [その３　AIと併走しながら tfstylus を開発して苦労したこと](https://zenn.dev/terraform_jp/articles/2026-10-28_tfstylus_03) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [スキャナーはコンテナへ、AIには承認を。OSSのASM基盤「OASM」の設計を読み解く](https://zenn.dev/mizhm/articles/b9e9955b60c5bd) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [CLAUDE.md が長くなった時の分け方と、AGENTS.md との二重管理の直し方](https://zenn.dev/atasino/articles/efa9fb306b6ad0) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [ダウンロードフォルダで Claude Code や Codex を起動してはいけないのはなぜ？](https://zenn.dev/takuh/articles/d4148e707a18a5) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [AIエージェント用ネット接続ツールAgent-Reachを実機で検証した](https://zenn.dev/matsushima_a/articles/day-029-agent-reach-login-free-channels) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [認証認可をゼロから学ぶ #1 ロードマップと、パスキーがパスワードより安全な理由](https://zenn.dev/monkey_gineer/articles/auth-study-01-roadmap-and-passkeys) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [Claude Code に、経緯を覚えている「専属バトラー」を作る](https://zenn.dev/sarukani/articles/claude-code-butler-memory) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [自作の Claude Code 安全ガードを、第三者のテスト集（89件）で測ったら、すり抜けが見つかった](https://zenn.dev/extrahand_co_ai/articles/17dcd8c72800c5) *(Zenn – トピック AI)*
+- [ ] 2026-10-28 [Claude Codeを十数セッション並べて使う人の、トークン節約の工夫](https://zenn.dev/atsushi_apps/articles/claude-code-token-saving) *(Zenn – トピック AI)*
