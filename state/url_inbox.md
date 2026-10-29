@@ -163650,3 +163650,96 @@
 - [ ] 2026-10-29 [Cline から Ollama につながらない・返事が来ないとき、上から順に確かめる5つ](https://zenn.dev/shacikku3/articles/cline-ollama-cannot-connect) *(Zenn – トピック AI)*
 - [ ] 2026-10-29 [Physical AIを名乗る前に確かめた、センサーの遅延と評価のリーク](https://zenn.dev/hocky3/articles/13ea6064cfa2e0) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-29 [PythonとRのデータ分析実践書5選](https://zenn.dev/soraml/articles/20261029_book_ref) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-29T17:38:08.701Z
+- [ ] 2026-10-29 [Reader Q&A: Send a question to Guardian economics writer Aditya Chakrabortty](https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-29 [What is it like to work when your co-workers are AI agents?](https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-29 [Could Abdul El-Sayed’s plan for AI companies stave off catastrophe? \| Jerel Ezell](https://www.theguardian.com/commentisfree/2026/oct/29/abdul-el-sayed-ai-companies-public-ownership) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-29 [The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself](https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-29 [Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race](https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-29 [Google Starved Out Publishers With AI Search. Now, Its Pivot Is Blowing Up in Its Face.](https://futurism.com/artificial-intelligence/google-starved-out-publishers-ai-mode-revenue) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-29 [The UK wants ‘AI sovereignty’ to cut its reliance on foreign tech – here’s how that can be achieved](https://theconversation.com/the-uk-wants-ai-sovereignty-to-cut-its-reliance-on-foreign-tech-heres-how-that-can-be-achieved-295031) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-29 [Driverless 18-wheelers are on a few highways, but widespread use is a long way down the road](https://theconversation.com/driverless-18-wheelers-are-on-a-few-highways-but-widespread-use-is-a-long-way-down-the-road-291123) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-29 [Microsoft Offers Buyouts to 60,000 Staff in Windows, Copilot](https://www.techrepublic.com/article/news-microsoft-buyouts-60000-employees-copilot-windows/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-29 [Proton to Re-Interview Employees on AI Skills as Jobs Hang in Balance](https://www.techrepublic.com/article/news-proton-ai-skills-employee-reinterviews/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-29 [Amazon’s New Alexa Lineup: Five Devices, More Features, New Trade-Offs](https://www.techrepublic.com/article/news-amazon-alexa-five-new-devices/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-29 [Meta Launches Waddle World: An AI Pet That Journals About Your Day](https://www.techrepublic.com/article/news-news-meta-waddle-world-ai-pet-apac-philippines/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-29 [Samsung One UI 9 vs ColorOS 17: Which Handles AI, Multitasking, and Privacy Better?](https://www.techrepublic.com/article/news-samsung-one-ui-9-vs-coloros-17/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-29 [The AI Skills That Actually Show Up in Job Postings Right Now](https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now) *(KDnuggets)*
+- [ ] 2026-10-29 [5 Docker Containers You Need for a Home AI Lab](https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab) *(KDnuggets)*
+- [ ] 2026-10-29 [Amazon Warns Engineers Against AI Productivity Traps in Latest Memo](https://analyticsindiamag.com/ai-news/amazon-warns-engineers-against-ai-productivity-traps-in-latest-memo) *(Analytics India Magazine)*
+- [ ] 2026-10-29 [Gnani AI Launches Prisma v3.0 Speech Recognition Model for 10 Languages](https://analyticsindiamag.com/ai-news/gnani-ai-launches-prisma-v30-speech-recognition-model-for-10-languages) *(Analytics India Magazine)*
+- [ ] 2026-10-29 [Venttup Raises $3 Million To Expand Precision Manufacturing](https://analyticsindiamag.com/ai-news/venttup-raises-3-million-to-expand-precision-manufacturing) *(Analytics India Magazine)*
+- [ ] 2026-10-29 [Microsoft Draws $115 Billion Demand for Jumbo Debt Offering](https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Driverless Trucks Can Double Profits, Says Aurora CEO](https://www.bloomberg.com/news/videos/2026-10-29/driverless-trucks-can-double-profits-says-aurora-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Microsoft Turns to Bond Market as AI Spending Grows](https://www.bloomberg.com/news/videos/2026-10-29/microsoft-turns-to-bond-market-as-ai-spending-grows-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Google Erases a Record $500 Billion as AI Eats Into Sales](https://www.bloomberg.com/news/videos/2026-10-29/google-erases-a-record-500b-as-ai-eats-into-sales-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Caterpillar Plunges As Earnings Beat Fails To Soothe AI Jitters](https://www.bloomberg.com/news/videos/2026-10-29/caterpillar-s-earnings-beat-fails-to-soothe-ai-jitters-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Canada, Nvidia Back Cohere at Over $20 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Alphabet Miss Revives AI Fears](https://www.bloomberg.com/news/videos/2026-10-29/open-interest-10-29-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Alphabet’s AI Risk Extends Beyond $1 Trillion, Filing Shows](https://www.bloomberg.com/news/articles/2026-10-29/alphabet-s-ai-risk-extends-beyond-1-trillion-filing-shows) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Toast Accused by FTC of Misleading Customers on Subscriptions](https://www.bloomberg.com/news/articles/2026-10-29/toast-accused-by-ftc-of-misleading-customers-on-subscriptions) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Marvell in Talks to Buy Nvidia-Backed Lumentum](https://www.bloomberg.com/news/videos/2026-10-29/marvell-in-talks-to-buy-nvidia-backed-lumentum-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Situational Awareness Pitches Investors on Fluidstack Fundraise](https://www.bloomberg.com/news/articles/2026-10-29/situational-awareness-pitches-investors-on-fluidstack-fundraise) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Apple’s MacBook Pro With PROLED XDR: How the New Touch Screen Feels](https://www.bloomberg.com/news/articles/2026-10-29/apple-s-macbook-pro-with-proled-xdr-how-the-new-touch-screen-feels) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [The Customer-Centric Agentic Enterprise](https://www.bloomberg.com/news/videos/2026-10-29/the-customer-centric-agentic-enterprise-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Microsoft’s AI Bet Pays Off](https://www.bloomberg.com/news/videos/2026-10-29/microsoft-s-ai-bet-pays-off-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [The Cyber Race Goes Agentic](https://www.bloomberg.com/news/videos/2026-10-29/the-cyber-race-goes-agentic-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [The Agentic Enterprise Starts with Your Network](https://www.bloomberg.com/news/videos/2026-10-29/the-agentic-enterprise-starts-with-your-network-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [The Value of Control in the Agentic Enterprise](https://www.bloomberg.com/news/videos/2026-10-29/the-value-of-control-in-the-agentic-enterprise-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Nasdaq 100 Falls as AI Trade Shows New Cracks](https://www.bloomberg.com/news/videos/2026-10-29/nasdaq-100-falls-as-ai-trade-shows-new-cracks-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Fake Anthropic AI previews lure in overeager employees](https://www.computerworld.com/article/4241914/fake-anthropic-ai-previews-lure-in-overeager-employees-2.html) *(Computerworld)*
+- [ ] 2026-10-29 [Apple brings touch to the Mac with $2,899 OLED MacBook Pro](https://www.computerworld.com/article/4241873/apple-brings-touch-to-the-mac-with-2899-oled-macbook-pro.html) *(Computerworld)*
+- [ ] 2026-10-29 [Anthropic and OpenAI diverge on who should pull the plug on risky AI](https://www.computerworld.com/article/4242101/anthropic-and-openai-diverge-on-who-should-pull-the-plug-on-risky-ai.html) *(Computerworld)*
+- [ ] 2026-10-29 [ThermoWorks debuts shorter version of its RFX Meat wireless probe for small cuts](https://www.engadget.com/2301085/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/) *(Engadget)*
+- [ ] 2026-10-29 [FromSoftware delays The Duskbloods until 2027](https://www.engadget.com/2300955/fromsoftware-delays-the-duskbloods-until-2027/) *(Engadget)*
+- [ ] 2026-10-29 [DoorDash acquires Instacart in $17 billion delivery service merger](https://www.engadget.com/2300741/doordash-acquires-instacart-in-dollar17-billion-delivery-service-merger/) *(Engadget)*
+- [ ] 2026-10-29 [EasySMX S10 Lite review: A Switch 2 fidget toy with a weird removable faceplate](https://www.engadget.com/2294413/easysmx-s10-lite-review/) *(Engadget)*
+- [ ] 2026-10-29 [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment) *(OpenAI News)*
+- [ ] 2026-10-29 [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1) *(Hugging Face Blog)*
+- [ ] 2026-10-29 [Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready](https://huggingface.co/blog/announcing-project-protostar) *(Hugging Face Blog)*
+- [ ] 2026-10-29 [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4) *(Hugging Face Blog)*
+- [ ] 2026-10-29 [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel) *(Hugging Face Blog)*
+- [ ] 2026-10-29 [AIの利用を宗教的理由で免除された人間](https://gigazine.net/news/20261029-religious-exemption-from-ai/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-29 [AIが生成したコードは読むべきか？抽象化設計とコードの品質保証 / abstraction-design-and-quality](https://speakerdeck.com/minodriven/abstraction-design-and-quality) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-29 [KDDI松田社長「堺をAI実装の発進基地に」　フィジカルAIの新会社設立で300億円投資へ](https://www.itmedia.co.jp/business/articles/2610/29/news021.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-29 [歌手・矢野顕子氏「音楽のプロとは思えない質問ですいませんが、CDをiPhoneやPCに取り込む方法を教えてください」→専用レコーダーやiTunesなど様々な方法が集まる](https://togetter.com/li/2764323) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [CVE-2026-98432 \| Ubuntu](https://ubuntu.com/security/CVE-2026-98432) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [不正アクセスによる漏えい人数、半年余りでのべ2億6000万人に　日本人口の2倍超](https://www.itmedia.co.jp/news/article/2610/29/2000002730/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [Windowsの高性能PCで動くローカルAIをブラウザからみんなで利用できる環境を「Ollama＋Open WebUI」で構築してみた](https://gigazine.net/news/20261029-ollama-open-webui-local-ai/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [複数システムに跨っていた EC サイトをフルスクラッチ開発でリニューアル。一元管理を可能とした EC サイトのインフラ構築・開発・運用保守をワンストップで提供 \| AI とクラウド活用のシステム・アプリ開発なら KDDIアイレット株式会社（iret）](https://www.iret.co.jp/works/24-11.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [メール配信会社「アララ」 不正アクセスで300万件のメアド流出 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261029de67976) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [Microsoft、「Copilot harness」を発表 ～「GitHub Copilot」基盤を全社共通化、プレビュー提供／「GitHub Copilot SDK」は「Microsoft Copilot SDK」に](https://forest.watch.impress.co.jp/docs/news/2152248.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [松屋フーズ 不正アクセス検知 HPとアプリを停止 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261029de67623) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [クラシック版「Outlook」＋「Teams」会議の組み合わせに注意、日本語で文字起こしできない可能性／日本マイクロソフトが回避策を案内](https://forest.watch.impress.co.jp/docs/news/2152102.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [比べて分かったAC電源モデルとの意外な違い!! ソーラー給電で自動追尾、デュアルレンズのネットワークカメラ「Tapo C675D KIT」を検証[Sponsored]](https://internet.watch.impress.co.jp/docs/topic/special/2144943.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [衣装集 COSTUME-DB-01](https://ai-costume-gallery.pages.dev/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [スキーマ分離型マルチテナントの DB 接続数増加を RDS Proxy で抑制できるか？ - MNTSQ Techブログ](https://tech.mntsq.co.jp/entry/2026/10/29/090000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [【「134兆円」国家予算超え“AI投資”の賭け】「人類はまだClaudeを使いこなせてない」アンソロピック／上場書類が示す滅亡リスク／Fable超えの「パワフルAI」とは／今井翔太【AI QUEST】](https://www.youtube.com/watch?v=y7NAjBZjm9k) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [AIベンチマーク「Intelligence Index v5」発表、2つの新しいベンチマークと3つのアップグレード](https://gigazine.net/news/20261029-intelligence-index-v5/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [「カンファレンス運営の教科書」が発売されます - 生涯未熟](https://syossan.hateblo.jp/entry/conference-starter-book) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [約19億円相当のAIチップがマレーシアの空港で押収される](https://gigazine.net/news/20261029-malaysia-airport-ai-chip/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [Google親会社Alphabetの収益は前年同期比25％増加、クラウド事業の収益は2倍以上](https://gigazine.net/news/20261029-alphabet-q3-earning/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [コイントスで決めたAIの意見に専門家が86％の割合で同調してしまうことが判明](https://gigazine.net/news/20261029-anthropic-agents-judgment-calls/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [ローカル LLM のエージェントを AppContainer に入れて DNS まで塞いだ。ループバックの例外は全ポートを開けていた](https://zenn.dev/maruhana/articles/local-llm-agent-hermes-appcontainer-dns) *(Zenn – トピック LLM)*
+- [ ] 2026-10-29 [Gemini 4 Carbonが1位、でもまだ使えない理由](https://zenn.dev/sugawara_ai/articles/ai-news-20261029) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [絶対ルール**:](https://zenn.dev/bambampurin/articles/2026-09-21-market-daily) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [AI Stem Separation for Remix & Practice (Quick Guide)](https://zenn.dev/musicraft/articles/cbea5fbe3a4ce0) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [AIエージェントのセキュリティ：異常検知は作れる、でも“正常の保守”と検出器の守りは自分で設計するしかない](https://zenn.dev/yasunami_daichi/articles/normal-is-human-deviation-is-ai) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [Claude Code に最初の依頼を出して、差分を読んでから承認するまで](https://zenn.dev/deepai/articles/claude-code-first-request-diff-approve) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [Claude Code（クロードコード）を新しい環境に入れて最初の作業まで――初心者がつまずく3か所を実画面で確認した（v2.1.304）](https://zenn.dev/deepai/articles/claude-code-cm-article) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [組込み開発から考える、これからのソフトウェアエンジニアリング](https://zenn.dev/tomoya_watanabe/articles/07435c3a511c77) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [AIを使った開発の成果を、どのアウトカムにつなげて測るか](https://zenn.dev/matsunaopen/articles/ai-impact-intermediate-metrics) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [AIがひとりで運営するWebアプリ、公開13日目で1日155人が来た](https://zenn.dev/autoki_app/articles/eeb37dbb7e635d) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [AIエージェントの「役割別サブエージェント分割」vs「単一ループ統合＋段階的スキル開示」を実機サンドボックスでA/B検証](https://zenn.dev/tappers/articles/ai-labo-e05-subagent-folding) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [AIエージェントの承認はどこに置くべきか。取り消せない操作だけを人が止める](https://zenn.dev/kimshoshi/articles/ai-production-deploy-permission) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [HTML/CSS/GSAPを確定的にMP4動画へ変換するhyperframesを実際に検証した](https://zenn.dev/matsushima_a/articles/day-030-hyperframes-deterministic-html-to-mp4) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [「見たくないけど消したくない」から生まれたプラグイン——GhostTag開発対談](https://zenn.dev/ithibo/articles/ghosttag-interview) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [AIエージェントの二重実行を止める「冪等性キー」の最小実装](https://zenn.dev/growl/articles/d7dafe774009b7) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [【AWS】AI にインフラを把握させるため、手作業で作った環境を CDK 化した](https://zenn.dev/linkedge/articles/0c14017ab7446c) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [OBSでハロウィンのAI顔交換が映らないとき、入力と出力を切り分ける](https://zenn.dev/ellafisherwrite/articles/f9ec3f62092cf3) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [ITニュースの情報収集に迷走した末、Claude+Gmailで「朝刊・夕刊」を自動配信するようにした話](https://zenn.dev/spring1293/articles/2918fcd8518bb3) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [AIへの指示、「いつもの一言」を変えるだけで精度が上がる理由](https://zenn.dev/sunsun_eng/articles/improve-ai-prompt-precision-tips) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [コーディング AI の導入を判断する情報セキュリティ担当者のための参考書](https://zenn.dev/mika_and_coco/books/coding-ai-infosec-guide) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [AI にデバッグ用の機能を書かせても、脆弱性にしないために](https://zenn.dev/yasuakiomokawa/articles/5a7188483acfe7) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [AdaGrad・RMSProp・Adamを自分で書く：成分ごとのステップサイズで、標準化していないデータを解く](https://zenn.dev/tmtk/articles/17ee3ae87733eb) *(Zenn – トピック 機械学習)*
