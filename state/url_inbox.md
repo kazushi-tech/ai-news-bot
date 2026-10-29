@@ -163743,3 +163743,87 @@
 - [ ] 2026-10-29 [コーディング AI の導入を判断する情報セキュリティ担当者のための参考書](https://zenn.dev/mika_and_coco/books/coding-ai-infosec-guide) *(Zenn – トピック AI)*
 - [ ] 2026-10-29 [AI にデバッグ用の機能を書かせても、脆弱性にしないために](https://zenn.dev/yasuakiomokawa/articles/5a7188483acfe7) *(Zenn – トピック AI)*
 - [ ] 2026-10-29 [AdaGrad・RMSProp・Adamを自分で書く：成分ごとのステップサイズで、標準化していないデータを解く](https://zenn.dev/tmtk/articles/17ee3ae87733eb) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-29T22:03:23.229Z
+- [ ] 2026-10-29 [Amazon gives Wall Street mixed financial picture in earnings report](https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-29 [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-29 [Frustrated Resident Blasts the Screeching Sound of a Data Center to a County Official During a Council Meeting, Gets Mocked](https://futurism.com/artificial-intelligence/resident-screeching-data-center-county-official) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-29 [Using ChatGPT before a medical appointment? How to get the best support for your health questions](https://theconversation.com/using-chatgpt-before-a-medical-appointment-how-to-get-the-best-support-for-your-health-questions-294051) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-29 [AI Slowdown Is More Macro Than Tied to One Company: T.Rowe Price’s Wang](https://www.bloomberg.com/news/videos/2026-10-29/t-rowe-price-s-wang-on-what-intel-results-means-for-tech-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [GE Healthcare CEO on 3Q Earnings Beat, Impact of AI](https://www.bloomberg.com/news/videos/2026-10-29/ge-healthcare-ceo-on-3q-earnings-beat-impact-of-ai-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Binance Founder CZ Says Exchange ‘May Have Been Hacked’](https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Raymond James CEO on 4Q Earnings and AI Strategy](https://www.bloomberg.com/news/videos/2026-10-29/raymond-james-ceo-on-4q-earnings-and-ai-strategy-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Tradeweb CEO: This Is a Seminal Moment in the Market](https://www.bloomberg.com/news/videos/2026-10-29/tradeweb-ceo-this-is-a-seminal-moment-in-the-market-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Amazon Spending Soars Amid Slowing Growth of Online Business](https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Supply Constraints a Swing Factor for Intel, Seaport's Goldberg Says](https://www.bloomberg.com/news/videos/2026-10-29/supply-snags-a-big-swing-factor-for-intel-seaport-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Sandisk Posts Strong Profit, Upbeat Outlook on Growing AI Demand](https://www.bloomberg.com/news/articles/2026-10-29/sandisk-posts-strong-profit-upbeat-outlook-on-growing-ai-demand) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Intel Plunges After PC Slump and Supply Snags Hurt Outlook](https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Stryker Cuts Outlook as Cyberattack Impact on Supply Lingers](https://www.bloomberg.com/news/articles/2026-10-29/stryker-cuts-outlook-as-cyberattack-impact-on-supply-lingers) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Polymarket Trading Halted After Reports of Stolen Funds](https://www.bloomberg.com/news/articles/2026-10-29/polymarket-halts-trading-after-reports-of-customers-losing-money) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [No One Wanted These Amazon Earnings, Thill Says](https://www.bloomberg.com/news/videos/2026-10-29/no-one-wanted-these-amazon-earnings-thill-says-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Breaking Down Amazon's Third-Quarter Earnings](https://www.bloomberg.com/news/videos/2026-10-29/breaking-down-amazon-s-third-quarter-earnings-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Reddit Falls on Pivot to Curb Logged-Out Users’ Access](https://www.bloomberg.com/news/articles/2026-10-29/reddit-to-limit-access-for-logged-out-users-in-strategy-shift) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [What Intel's CEO Had to Say About Forecast, Demand](https://www.bloomberg.com/news/videos/2026-10-29/what-intel-s-ceo-had-to-say-about-forecast-demand-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Strategy Shifts to Daily Payments to Jumpstart Funding Machine](https://www.bloomberg.com/news/articles/2026-10-29/strategy-shifts-to-daily-payments-to-jumpstart-funding-machine) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Roblox Users Miss Estimates Despite Hit Game, ‘Steal An Egg’](https://www.bloomberg.com/news/articles/2026-10-29/roblox-users-miss-estimates-despite-hit-game-steal-an-egg) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Pentagon Probing Freezer Failures at Multiple Military Outposts](https://www.bloomberg.com/news/articles/2026-10-29/pentagon-probing-freezer-failures-at-multiple-military-outposts) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [VRChat says it's not adding AI labels despite user survey showing people want that](https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/) *(Engadget)*
+- [ ] 2026-10-29 [Fan fiction website AO3 is down, and it could take weeks to recover](https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks/) *(Engadget)*
+- [ ] 2026-10-29 [Reddit will force users to log in as AI is killing search traffic](https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/) *(Engadget)*
+- [ ] 2026-10-29 [Google fixes an annoying Photos bug that hid edited images from other apps](https://www.engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/) *(Engadget)*
+- [ ] 2026-10-29 [Google brings AI Mode advertisements to more countries](https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/) *(Engadget)*
+- [ ] 2026-10-29 [Popcorn bucket innovation is at an all-time low and the Dune: Part Three 'Double Sandworm' is proof](https://www.engadget.com/2301587/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/) *(Engadget)*
+- [ ] 2026-10-29 [Hacker may have stolen millions in a malware attack against online poker players](https://www.engadget.com/2301500/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/) *(Engadget)*
+- [ ] 2026-10-29 [Netflix is making a live-action PUBG show written and directed by Donald Glover](https://www.engadget.com/2301458/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/) *(Engadget)*
+- [ ] 2026-10-29 [Don't expect more Assassin's Creed remakes anytime soon](https://www.engadget.com/2301452/dont-expect-more-assassins-creed-remakes-anytime-soon/) *(Engadget)*
+- [ ] 2026-10-29 [NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy](https://www.engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/) *(Engadget)*
+- [ ] 2026-10-29 [Meta will now alert parents if teens 'repeatedly' search for self-harm content on Facebook](https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/) *(Engadget)*
+- [ ] 2026-10-29 [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec) *(OpenAI News)*
+- [ ] 2026-10-29 [How Ropes & Gray is developing AI for transactional diligence](https://openai.com/index/ropes-gray-ai-diligence) *(OpenAI News)*
+- [ ] 2026-10-29 [階層状のNICでポリシー策定　現場への影響を押さえよう](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/101900257/101900003/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [RFC・IEEE・ITUの3大標準　策定フローと入手方法を理解する](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/101900257/101900002/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [標準とポリシーの世界を知ろう　ネットワーク技術習得にも役立つ](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/101900257/101900001/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [「Dire Wolf」の攻撃が急増　ファイルの一部を暗号化し高速化](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600214/101900021/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [成り行きで始めたエンジニア人生　VPNに出合い技術に目覚める](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600215/101900019/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [欧州の水素導入目標と現実に隔たり、電化をさらに優先に](https://xtech.nikkei.com/atcl/nxt/column/18/02421/102600137/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [撤退報道を否定し新スマホ投入、Nothingはメモリー高騰を乗り越えられるか](https://xtech.nikkei.com/atcl/nxt/column/18/00745/102600278/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [「エリクソンとベライゾン、7GHz帯で6G実証」など5本](https://xtech.nikkei.com/atcl/nxt/column/18/02928/102300119/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [1万円強のGPS内蔵スマートウオッチ、1.74型の有機ELで最大21日間駆動](https://xtech.nikkei.com/atcl/nxt/column/18/03741/083100008/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [日揮HDの「バイオものづくり」、鍵はスケールアップ　研究の最前線に潜入](https://xtech.nikkei.com/atcl/nxt/column/18/03520/102900025/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [エージェントの性能支える「ハーネス」、変わる役割　改善はAI自身にお任せ](https://xtech.nikkei.com/atcl/nxt/column/18/03799/102700004/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [6つのステップを意識し着実に進めよ、AIリスキリング成功のコツ](https://xtech.nikkei.com/atcl/nxt/column/18/03798/102100005/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [IDOMが目指すAX時代のデータ基盤、AIの精度高める鍵は「意味付け」](https://xtech.nikkei.com/atcl/nxt/column/18/03801/101900005/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [三菱UFJ信託などのデジタル証明をJIPDECが初登録、総務省も信頼基盤整備](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12134/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [スマホをかざしながら問題の解決策を知る、AIアプリのカメラ機能](https://xtech.nikkei.com/atcl/nxt/column/18/02737/102600069/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [活用広がる「マテリアルズ・インフォマティクス」、AIで材料開発を変革](https://xtech.nikkei.com/atcl/nxt/column/18/03088/102700026/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [相次ぐ情報漏洩の陰でVPNのゼロデイ攻撃が深刻化、パッチだけでは不十分](https://xtech.nikkei.com/atcl/nxt/column/18/00989/102300223/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [GMOのサイバー攻撃対応は適切だったのか、3つの重要な判断を振り返る](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12138/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [顧客の声を聞け、AI活用度による技術者評価の弊害をAmazonが公式に認める](https://xtech.nikkei.com/atcl/nxt/column/18/03079/102900047/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [「Qilin」がリスク評価で首位に、攻撃実行者への好条件提示で勢力拡大](https://xtech.nikkei.com/atcl/nxt/column/18/03053/102900024/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [見積書100枚超をどうさばく？　「半日仕事」を約30分にした建設会社のAI活用](https://kn.itmedia.co.jp/kn/article/2610/30/2000002725/) *(ITmedia AI＋)*
+- [ ] 2026-10-29 [ソクラテス、ジムへ行く｜an](https://note.com/cap120/n/nd766cccccade) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-29 [「グッドスマイルカンパニー公式ショップ」、決済ページの改ざんでクレジットカード情報を含む個人情報が漏えいの可能性](https://internet.watch.impress.co.jp/docs/news/2152332.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-29 [プライム会員なら実質無料！新世代AIアシスタント「Alexa+」と新型Echoをチェックしてきた](https://pc.watch.impress.co.jp/docs/news/2152255.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 - AUTOMATON](https://automaton-media.com/articles/newsjp/20261029-476529/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [GitHub - tester-army/e2e: Next generation e2e testing framework for web and mobile apps.](https://github.com/tester-army/e2e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [E2Eってつらくないですか？E2Eの管理コストを下げる手段とその実践](https://speakerdeck.com/akaboshinit/e2e-tte-tsurakunaidesu-ka-e2e-no-kanri-kosuto-o-sageru-shudan-to-sono-jissen) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [[本日の一品]百均で買える45WのUSB充電器、実は馴染みのあるメーカー製だった](https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2152015.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [楽天カード、本人認証をワンタイムパスワードに統一　27年2月から順次](https://www.itmedia.co.jp/news/article/2610/29/2000002729/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [Prioritize Dependabot alerts with reachability analysis - GitHub Changelog](https://github.blog/changelog/2026-10-28-prioritize-dependabot-alerts-with-reachability-analysis/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [Tech Watch 2026-10-30: エージェントの判断と監視](https://zenn.dev/laiken/articles/20261030-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-10-29 [【EmbeddingGemma 2】お客様の申告の件数を、判定の確率で按分して数える](https://zenn.dev/michy/articles/d4c97cd7a57240) *(Zenn – トピック LLM)*
+- [ ] 2026-10-29 [AIペンテストツールARTEXの攻撃ログを防御側から見てみた](https://zenn.dev/shinji_bk/articles/403b2510054c6a) *(Zenn – トピック LLM)*
+- [ ] 2026-10-29 [音声AIの割り込み品質をLLM-as-a-Judgeに丸投げしない評価設計](https://zenn.dev/susie/articles/d9b4473e50a8b3) *(Zenn – トピック LLM)*
+- [ ] 2026-10-29 [LM Studio の4モデルを VRAM 16GB で測った：最速は gpt-oss、日本語の校正は Gemma 4 12B が正確](https://zenn.dev/ppp_works/articles/a53caea4f2ebaf) *(Zenn – トピック LLM)*
+- [ ] 2026-10-29 [AIエージェントの高度なメモリは、素のRAGに負ける？ 要約と整理が払う「メモリ税」とは](https://zenn.dev/takuh/articles/f6d8dd080610dc) *(Zenn – トピック LLM)*
+- [ ] 2026-10-29 [Keep the motion, change the cast: a motion-transfer video workflow](https://zenn.dev/vulcanfeynman/articles/7d5c4d36e6c08c) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [MCP のエラーは2種類：プロトコルエラーと isError の使い分け](https://zenn.dev/sakinisen/articles/132a56c40f9aab) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [Claude Code の PowerShell で日本語が文字化けする原因と直し方：Windows の Get-Content](https://zenn.dev/tamao825/articles/claude-code-powershell-mojibake-get-set-content) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [prompt-recipeを直してv0.3.0にした話 — Grok Botで設計して、Codexに書かせてみた](https://zenn.dev/mt4110/articles/prompt-recipe-ux-grokbot-codex) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [MetaのMuseは、なぜ40日で1,000万人に使われたのか？ ── ChatGPTと何が違うのか](https://zenn.dev/leading_ai/articles/meta-muse-context-and-memory) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない](https://zenn.dev/karamage/articles/ac71f1c89c73ff) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [副業で一番高くついたのは、サーバー代でもツール代でもなく「試行回数」だった](https://zenn.dev/dev_pjs/articles/e2d8c441faf9bc) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [聞き方を磨いた依頼文は5回中1回しか正解せず、素っ気ない一文は5回とも9190円に辿り着いた](https://zenn.dev/numarn/articles/context-given-vs-prompt-polish-handson) *(Zenn – トピック AI)*
+- [ ] 2026-10-29 [【備忘録】Transformerを数式レベルからnumpyのみで実装して理解する（①Forward Propagation編）](https://zenn.dev/matsu8/articles/909ccb2144b1ae) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-29 [【scikit-learn入門 #5】決定木とランダムフォレスト ─ 特徴量の重要度まで](https://zenn.dev/haruhiro1020/articles/c680c0c3a31f38) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-29 [ボルト超えの時代、走るロボットをどう止める？ GPUで9,600回の強化学習](https://zenn.dev/highreso/articles/151067a096d745) *(Zenn – トピック 機械学習)*
