@@ -163478,3 +163478,66 @@
 - [ ] 2026-10-28 [Claude Code に、経緯を覚えている「専属バトラー」を作る](https://zenn.dev/sarukani/articles/claude-code-butler-memory) *(Zenn – トピック AI)*
 - [ ] 2026-10-28 [自作の Claude Code 安全ガードを、第三者のテスト集（89件）で測ったら、すり抜けが見つかった](https://zenn.dev/extrahand_co_ai/articles/17dcd8c72800c5) *(Zenn – トピック AI)*
 - [ ] 2026-10-28 [Claude Codeを十数セッション並べて使う人の、トークン節約の工夫](https://zenn.dev/atsushi_apps/articles/claude-code-token-saving) *(Zenn – トピック AI)*
+
+## Collected on 2026-10-29T02:59:12.189Z
+- [ ] 2026-10-28 [What would happen if the internet went down?](https://theconversation.com/what-would-happen-if-the-internet-went-down-295249) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-10-28 [Humanoid Robots in 2027: Tesla, Figure AI, and Agility Race to Deploy](https://www.techrepublic.com/article/news-humanoid-robots-2027-real-world-deployment/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-29 [Tencent’s Cloud Boss Plays Long Game to Patch ‘Leaky’ AI Ship](https://www.bloomberg.com/news/articles/2026-10-29/tencent-s-cloud-boss-plays-long-game-to-patch-leaky-ai-ship) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Tencent Cloud Chief Says AI Demand Justifies Capex](https://www.bloomberg.com/news/videos/2026-10-29/tencent-cloud-chief-says-ai-demand-justifies-capex-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Samsung Electronics Shares Slide After Return Plan Is Delayed](https://www.bloomberg.com/news/articles/2026-10-29/samsung-electronics-shares-slide-after-return-plan-is-delayed) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Samsung Boosts Spending After Chip Profit Misses Estimates](https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Samsung Chip Operating Profit Misses Estimates](https://www.bloomberg.com/news/videos/2026-10-29/samsung-chip-operating-profit-misses-estimates-video) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Nscale’s Unproven CEO Braves AI Turmoil in Bid for $30 Billion Neocloud IPO](https://www.bloomberg.com/news/features/2026-10-29/nscale-s-unproven-ceo-braves-ai-turmoil-in-bid-for-30-billion-neocloud-ipo) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Equinix Says Data-Project Barriers Could Boost Its Pricing Power](https://www.bloomberg.com/news/articles/2026-10-28/equinix-says-data-project-barriers-could-boost-its-pricing-power) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Alphabet Shares Tank on Sales Misses Across Core Businesses](https://www.bloomberg.com/news/videos/2026-10-28/alphabet-shares-tank-on-sales-misses-across-businesses-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [FuriosaAI Quadruples Valuation to $2.9 Billion in Nvidia Chase](https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Japan Credit Risk Jumps Most Since 2022, Pressuring Bond Market](https://www.bloomberg.com/news/articles/2026-10-28/japan-credit-risk-jumps-most-since-2022-pressuring-bond-market) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Schwab Says AI Making Scams Harder to Spot](https://www.bloomberg.com/news/videos/2026-10-28/schwab-says-ai-making-scams-harder-to-spot-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Fed Holds Rates With a Hawkish Edge](https://www.bloomberg.com/news/videos/2026-10-28/the-close-10-28-2026-video) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [Banks Shelve Bond Sale for Anthropic-Tied Texas Data Center](https://www.bloomberg.com/news/articles/2026-10-28/banks-shelve-bond-sale-for-anthropic-tied-texas-data-center) *(Bloomberg Technology)*
+- [ ] 2026-10-28 [FCC chair wants to let prisons jam illegal cellphones](https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/) *(Engadget)*
+- [ ] 2026-10-29 [日立、OKIとのATM新会社を始動　事業撤退は否定、海外に成長余地](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/102201514/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [みずほが3万人にAIエージェント　「Cowork」で非定型業務も自律化](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/102201515/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [Colt、東京・大阪間の通信に新ルート　70km短い回線で遅延を約3割低減](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/102201516/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [エアークローゼット、AIで自動開発　変更の95％超、人手を介さず本番へ](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/102201520/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [京都銀行、粉飾見抜くAIを内製　10年分の決算書や行員の知見基に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/102201518/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [ローソン、個人情報215万件漏洩　自動検知すり抜け人手の調査で発覚](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/102201519/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [IDCFクラウド障害、侵入経路は特定　194組織のデータが取り出し可能に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/102201517/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [進化するAIが落とす影](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/101900258/101900001/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [偽の顔画像を人が識別する訓練方法を英大学が開発](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/101900344/) *(日経クロステック IT)*
+- [ ] 2026-10-29 [AI半導体市場「メガサイクル局面だ」　アドバンテスト好決算、CEOが語る「CPU」「光電融合」への期待とワクワク](https://www.itmedia.co.jp/business/articles/2610/29/news050.html) *(ITmedia AI＋)*
+- [ ] 2026-10-28 [AIエージェントは「増やせば賢くなる」のか　Metaとハーバード大の研究が示す“分業の条件”](https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/) *(ITmedia AI＋)*
+- [ ] 2026-10-28 [KDDI傘下、社内のAI活用事例113件を無料公開　「Gemini Notebook」で稟議データのチェック支援も](https://www.itmedia.co.jp/aiplus/article/2610/29/2000002685/) *(ITmedia AI＋)*
+- [ ] 2026-10-28 [製造業のAIネイティブ化の道筋は？　将来のAIの役割から「逆算」で診断するサービスが登場](https://www.itmedia.co.jp/enterprise/articles/2610/29/news011.html) *(ITmedia AI＋)*
+- [ ] 2026-10-28 [Google、「Gemini 4 Carbon」発表　「Argon」公開から2週間、サイバー防御能力などを強化](https://www.itmedia.co.jp/news/article/2610/29/2000002690/) *(ITmedia AI＋)*
+- [ ] 2026-10-28 [20年前は“門前払い”？　デル社長が語る、日本企業の今昔　「IT後進国」から抜け出せたのか](https://www.itmedia.co.jp/business/articles/2610/29/news023.html) *(ITmedia AI＋)*
+- [ ] 2026-10-28 [月末に「600行の承認作業」が集中……「紙とハンコ」「現金手渡し」の経費申請を変えた、老舗メーカーの経理DX](https://www.itmedia.co.jp/business/articles/2610/29/news033.html) *(ITmedia AI＋)*
+- [ ] 2026-10-28 [AI導入から成果創出へ　デル・テクノロジーズ新社長が示す日本市場の事業戦略](https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html) *(ITmedia AI＋)*
+- [ ] 2026-10-29 [決算:Microsoft、7〜9月32%増益　AI向けクラウド事業が5割増収 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN28CHP0Y6A021C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-29 [無料で災害や非常時にオフラインで動作できるサバイバル知識満載のAIアシスタント「Survival LLM」、停電時の食料の安全な保管方法・火傷の手当て方法・水の浄化方法などを信頼できる情報源から回答し出典も表示可能](https://gigazine.net/news/20261029-survival-llm/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-29 [OpenAIとAnthropicが2026年夏から秋にかけてLLM料金を相次いで値下げした理由とは？](https://gigazine.net/news/20261029-openai-anthropic-llm-price-cuts/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-29 [Amazon「Alexa+」国内提供開始。プライム会員は追加料金なしで使える](https://pc.watch.impress.co.jp/docs/news/2152025.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-29 [AI時代のシニアエンジニアとは](https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-29 [エアコン屋の裏方](https://aircon-urakata.com/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-29 [Apple、初のタッチ対応「MacBook Pro」発表　新型OLED搭載、国内価格は49万9800円から](https://www.itmedia.co.jp/news/article/2610/29/2000002689/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開　相次ぐ不正アクセス受け](https://japan.cnet.com/article/35254062/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [【やじうまミニレビュー】徘徊に悩んだ筆者が思う「あの時これがあれば」。AirTag入りインソール - PC Watch](https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2152066.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [Cloudflare、AIモデル「Clairic」をプレビュー公開 ――文章や画像から金額・日付などを抽出、JSON形式で出力 \| gihyo.jp](https://gihyo.jp/article/2026/10/clairic) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】](https://internet.watch.impress.co.jp/docs/event/2151590.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと](https://zenn.dev/nayuta/articles/aec9ab2e11a7b7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [Windows XPは25周年。あの丘、もう跡形もなかった \| ギズモード・ジャパン](https://www.gizmodo.jp/article/windows-xp-bliss-hill-today/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [「Alexa+」対応端末は「一部の旧世代Echoデバイスを除く、すべてのEchoデバイス」。特設サイト公開](https://av.watch.impress.co.jp/docs/news/2152065.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [ほとんどの機種で機能制限される「Androidのマイナンバーカード」、一体なぜなのか \| Gadget Gate](https://gadget.phileweb.com/post-136103/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [使いやすくて、操作性もめちゃくちゃ気持ちイイ！ さまざまなアプリに対応したmacOS用のアクションリング -Opie](https://coliss.com/articles/build-websites/operation/work/ring-around-your-pointer-opie.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [GitHub Actions workflow lockfiles are generally available - GitHub Changelog](https://github.blog/changelog/2026-10-28-github-actions-workflow-lockfiles-are-generally-available/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [Webセキュリティ被害を減らす4つの対策【漫画】 \| Web担当者Forum](https://webtan.impress.co.jp/e/2026/09/04/53119) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [バリューストリームを激流にする - Hatena Developer Blog](https://developer.hatenastaff.com/entry/2026/10/29/090000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [Chizu 🧀: リンクをルールに応じてブラウザとプロファイルへ振り分けるmacOSアプリ](https://efcl.info/2026/10/28/chizu/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [Emacs Turns 50 \| Hacker News](https://news.ycombinator.com/item?id=50273171) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [PythonでもSQLでもない、2026年「最も使う言語」　Stack Overflow調査が映す“定番回帰”とAIとの距離感](https://atmarkit.itmedia.co.jp/ait/articles/2610/27/news029.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [経産省「デントリネット」不正アクセスで停止　電力・ガス事業者の定期報告サイト](https://www.itmedia.co.jp/news/article/2610/29/2000002696/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [GitHub - pfnet-research/pfpdf: PDF typesetting tool for Markdown files](https://github.com/pfnet-research/pfpdf) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-29 [JALの予約システムに不正アクセス　約9万人分の予約情報が漏えい　一部ではパスポート番号も](https://www.itmedia.co.jp/news/article/2610/28/2000002687/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-28 [🐸にハロウィンを教えたら、ターミナルが少しホラーになった ― The Haunted Frog](https://zenn.dev/emilia_lab/articles/haunted-frog-cse-halloween) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [個人AIエージェントの引っ越しを1ファイルに収めるフォーマット「personal-agent-dossier」](https://zenn.dev/aidashika/articles/374bf1dba463e9) *(Zenn – トピック LLM)*
+- [ ] 2026-10-28 [承認こそがプロダクトである：エージェントのオーケストレーターが「はい」を求めるべき理由](https://zenn.dev/100monkeys/articles/cc06a444e8ddca) *(Zenn – トピック LLM)*
