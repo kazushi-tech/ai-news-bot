@@ -163827,3 +163827,49 @@
 - [ ] 2026-10-29 [【備忘録】Transformerを数式レベルからnumpyのみで実装して理解する（①Forward Propagation編）](https://zenn.dev/matsu8/articles/909ccb2144b1ae) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-29 [【scikit-learn入門 #5】決定木とランダムフォレスト ─ 特徴量の重要度まで](https://zenn.dev/haruhiro1020/articles/c680c0c3a31f38) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-29 [ボルト超えの時代、走るロボットをどう止める？ GPUで9,600回の強化学習](https://zenn.dev/highreso/articles/151067a096d745) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-30T03:03:45.135Z
+- [ ] 2026-10-29 [More than half of Victorian lawyers use AI – but only a quarter have cut client fees as a result](https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-30 [Big Tech’s $750 Billion AI Bet Collides With Slowing Core Growth](https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Odd Lots: What Wall Street Really Thinks  About the AI Trade Now](https://www.bloomberg.com/news/videos/2026-10-30/odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Indian AI Firm Seeks $3 Billion Financing for Nvidia Chips Order](https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Chip Suppliers Lead $765 Million Month-End Listing Rush in HK](https://www.bloomberg.com/news/articles/2026-10-30/chip-suppliers-lead-765-million-month-end-listing-rush-in-hk) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Nvidia in Talks to Offer Credit Support for Nscale Project](https://www.bloomberg.com/news/articles/2026-10-29/nvidia-in-talks-to-offer-credit-support-for-nscale-project) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [29-Year-Old Female Founder Breaths Life Into Next Generation Home-Help Robots](https://www.bloomberg.com/news/features/2026-10-29/29-year-old-female-founder-breaths-life-into-next-generation-home-help-robots) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Apple’s iPhone Maker Confident of Meeting Surge in Duo Demand](https://www.bloomberg.com/news/articles/2026-10-29/apple-s-iphone-maker-confident-of-meeting-surge-in-duo-demand) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Sony is working on a film adaptation of viral indie horror game Mouthwashing](https://www.engadget.com/2301826/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/) *(Engadget)*
+- [ ] 2026-10-29 [Meta is testing 'Threads Friends' for sharing posts with smaller groups](https://www.engadget.com/2301804/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/) *(Engadget)*
+- [ ] 2026-10-30 [富士ソフト子会社が新ERP「BizSaaS」、業界特化で差異化　最初はIT業界向け](https://xtech.nikkei.com/atcl/nxt/news/24/03449/) *(日経クロステック IT)*
+- [ ] 2026-10-30 [録画機器にタブレットやスマホをWi-Fiで接続、放送中の番組も視聴できる](https://xtech.nikkei.com/atcl/nxt/column/18/03775/092800003/) *(日経クロステック IT)*
+- [ ] 2026-10-30 [国産LLM「Sarashina」に初の「思考モデル」　ツール呼び出しやWeb検索性能が向上　APIで提供](https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/) *(ITmedia AI＋)*
+- [ ] 2026-10-30 [ChatGPT Pro 100／500プランの利用上限を「倍」に　Pro 200プランの「半減」は撤回　経緯まとめ](https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/) *(ITmedia AI＋)*
+- [ ] 2026-10-29 [OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記](https://www.itmedia.co.jp/news/article/2610/30/2000002735/) *(ITmedia AI＋)*
+- [ ] 2026-10-29 [AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化](https://monoist.itmedia.co.jp/mn/articles/2610/30/news053.html) *(ITmedia AI＋)*
+- [ ] 2026-10-29 [物理ソルバーからMODSIM、AIへ　SIMULIAが描く次世代の設計／シミュレーション](https://monoist.itmedia.co.jp/mn/articles/2610/30/news004.html) *(ITmedia AI＋)*
+- [ ] 2026-10-30 [You Have Agency（サンキュー、Ruby）](https://speakerdeck.com/snoozer05/you-have-agency) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [NVIDIAファンCEOに中国工作員が接近、情報流出の恐れ　米紙報道 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN29CK70Z21C26A0000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [GMO犯人捜索マップ](https://satoru.net/hacker/gmo/261029-map.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [「こういうの、もはやみんなネタでやってると思ってた」ラーメン屋が掲示した激キモ生成AIのチャーハン画像を見つけて嬉しくなった話…集合体恐怖症の人には正直しんどい](https://togetter.com/li/2764420) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰](https://note.com/hgffdgn654/n/n92467b83a1c1) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [Google、Elephant-Goldfish Modelプラグインを公開 ——AIが設計文書の作成と検証を分担 \| gihyo.jp](https://gihyo.jp/article/2026/10/elephant-goldfish-model-plugin) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [魔法が使えるようになったプログラマたちへ - がるの健忘録](https://gallu.hatenadiary.jp/entry/2026/10/29/003157) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [ダウンロード先指示ファイルを介したAIエージェントののっとりについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/29/170430) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [必要最低限の自分専用アプリをAIで作る](https://iwashi.co/2026/10/29/build-my-app) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [NVIDIAが文字起こしAI「Nemotron 3.5 Transcribe」を公開、大勢が同時に話す場面でも高精度な話者識別が可能](https://gigazine.net/news/20261029-nvidia-nemotron-3-5-transcribe/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [Metaがたまごっち風のAIペットを育てて会話するアプリ「Waddle World」をこっそりリリース](https://gigazine.net/news/20261029-meta-waddle-world/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog](https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog](https://tech.findy.co.jp/entry/2026/10/30/070000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [単体テストの本をデータ基盤チームで輪読会した話 - yasuhisa's blog](https://www.yasuhisay.info/entry/2026/10/29/093840) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！](https://zenn.dev/progate/articles/24b1140180300c) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [Linuxカーネルに重大な脆弱性「CVE-2026-98432」、CVSS 9.8 Claudeが遠隔root権限実行を実証\|セキュリティニュースのセキュリティ対策Lab](https://rocket-boys.co.jp/security-measures-lab/linux_kernel_cve_2026_98432_ubuntu_anthropic_20261030/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [Microsoft Officeライセンス削除のメモ - gn5r’s blog](https://gn5r.hatenablog.com/entry/2021/01/05/042836) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [[藤岡雅宣の「モバイル技術百景」] ドコモだけ配信できなかった「緊急地震速報」、そのしくみとほかの手段を考える](https://k-tai.watch.impress.co.jp/docs/column/fujioka/2152436.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [メルセンヌ・ツイスタ。PythonやC++でも使われる、世界標準「擬似乱数」の設計思想【松本眞】 - レバテックLAB](https://levtech.jp/media/detail_959/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [ヤクルト本社、個人情報約4万件漏えい　公式サイトへの不正アクセスで](https://www.itmedia.co.jp/news/article/2610/30/2000002739/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [GitHub - shibukawa/bdf: BDF is a browser document-preview suite: it combines converters for many formats (Go/WASM), a browser renderer of about 23 KB gzipped, and a compact intermediate format.](https://github.com/shibukawa/bdf) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を開始](https://internet.watch.impress.co.jp/docs/news/2152201.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [「ダウンロード」フォルダに「AI指示書」（.md）を置かないで--CodexやClaude Codeを操る攻撃](https://japan.cnet.com/article/35254160/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [複数サービスに配信するembeddingの品質監視 ── 配信データ・ベクトル空間・推薦スコアの3観点 - ZOZO TECH BLOG](https://techblog.zozo.com/entry/embedding-quality-monitoring) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [アイリスオーヤマの通販サイトに不正アクセス　情報漏えいは「調査中」](https://www.itmedia.co.jp/news/article/2610/30/2000002737/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [アルファベット株13%安、時価総額80兆円消失　AIが検索の収益圧迫 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN29CWQ0Z21C26A0000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [攻撃者サイト遮断、政府が通信各社に要請　公的介入試すGMO問題 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA293C50Z21C26A0000000/) *(はてなブックマーク – IT 人気エントリ)*
