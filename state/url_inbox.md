@@ -163873,3 +163873,89 @@
 - [ ] 2026-10-30 [アイリスオーヤマの通販サイトに不正アクセス　情報漏えいは「調査中」](https://www.itmedia.co.jp/news/article/2610/30/2000002737/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-10-30 [アルファベット株13%安、時価総額80兆円消失　AIが検索の収益圧迫 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN29CWQ0Z21C26A0000000/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-10-30 [攻撃者サイト遮断、政府が通信各社に要請　公的介入試すGMO問題 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA293C50Z21C26A0000000/) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-10-30T11:43:01.324Z
+- [ ] 2026-10-29 [Apple Touchscreen MacBook Pro Cheat Sheet: Price, Specs, and More](https://www.techrepublic.com/article/news-apple-touchscreen-macbook-pro-cheat-sheet/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-10-29 [Consumer Appetite for Personal AI Goes Mainstream](https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-10-30 [Chinese Memory Leader CXMT’s Sales Surge Yet Growth Slows](https://www.bloomberg.com/news/articles/2026-10-30/chinese-chip-leader-cxmt-s-sales-rise-sevenfold-yet-growth-slows) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Tech Stocks Poised to Drop After Amazon Adds to AI Spending Fear](https://www.bloomberg.com/news/articles/2026-10-30/tech-stocks-poised-to-drop-after-amazon-adds-to-ai-spending-fear) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [DoorDash Deal for Instacart Bolsters Defense Against Amazon and Walmart](https://www.bloomberg.com/news/newsletters/2026-10-30/doordash-deal-for-instacart-bolsters-defense-against-amazon-and-walmart) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Kioxia Warns Flash Memory Price Hikes Slowing After Outlook Miss](https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Softbank-Backed OPay Prices at $4 Billion Value in IPO](https://www.bloomberg.com/news/articles/2026-10-30/softbank-backed-opay-prices-at-4-billion-value-for-new-york-ipo) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Deutsche Bank Says ‘AI Dollar’ Is Here, Haven Bias Less Certain](https://www.bloomberg.com/news/articles/2026-10-30/deutsche-bank-says-ai-dollar-is-here-haven-bias-less-certain) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Chevron Keeps Microsoft Data Center Timeline Despite Texas Pause](https://www.bloomberg.com/news/articles/2026-10-30/chevron-keeps-microsoft-data-center-timeline-despite-texas-pause) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Circular AI Deals Spread to Asia, Widening Contagion Risk](https://www.bloomberg.com/news/newsletters/2026-10-30/circular-ai-deals-spread-to-asia-widening-contagion-risk) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist](https://www.bloomberg.com/news/videos/2026-10-30/binance-suffers-6-3-bln-hack-in-crypto-s-biggest-heist-video) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Eastern Europe Is Top AI Diversifier for Morgan Stanley’s Psaila](https://www.bloomberg.com/news/articles/2026-10-30/eastern-europe-is-top-ai-diversifier-for-morgan-stanley-s-psaila) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Japan’s Omron Targets India for Manufacturing, Exports Push](https://www.bloomberg.com/news/articles/2026-10-30/japan-s-omron-targets-india-for-manufacturing-exports-push) *(Bloomberg Technology)*
+- [ ] 2026-10-29 [Nvidia CEO Says Ties to Company in Spy Probe Were ‘Normal’](https://www.bloomberg.com/news/articles/2026-10-29/nvidia-ceo-says-ties-to-company-under-spying-probe-were-normal) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Tokyo Electron’s Outlook Beats on Surging AI Chip Spending](https://www.bloomberg.com/news/articles/2026-10-30/tokyo-electron-s-outlook-beats-estimates-while-ai-spending-grows) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Tech Selloff Deepens as Intel and Amazon Shares Fall](https://www.bloomberg.com/news/videos/2026-10-30/tech-selloff-deepens-as-intel-and-amazon-shares-fall-video) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Murata Invests $6.4 Billion to Double MLCC Output for AI](https://www.bloomberg.com/news/articles/2026-10-30/murata-boosts-mlcc-output-investment-to-keep-pace-with-ai-demand) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [How Jio Fueled India’s Digital Boom](https://www.bloomberg.com/news/videos/2026-10-30/how-jio-fueled-india-s-digital-boom-video) *(Bloomberg Technology)*
+- [ ] 2026-10-30 [Don’t trust AI to keep your secrets](https://www.computerworld.com/article/4242386/dont-trust-ai-to-keep-your-secrets.html) *(Computerworld)*
+- [ ] 2026-10-30 [Waymo and Toyota will soon start testing their robotaxis in Japan](https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan/) *(Engadget)*
+- [ ] 2026-10-30 [Senators are looking into 'serious privacy risks' with Meta's AI glasses](https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/) *(Engadget)*
+- [ ] 2026-10-30 [Binance hacked for an estimated $6.3 billion in record crypto theft](https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/) *(Engadget)*
+- [ ] 2026-10-30 [General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit](https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit/) *(Engadget)*
+- [ ] 2026-10-30 [アクセンチュアがOpenAIのセキュリティー基盤導入を支援、中堅企業も照準](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12135/) *(日経クロステック IT)*
+- [ ] 2026-10-30 [ガバメントAI基盤「源内」、18万人に国会答弁作成支援アプリを試験提供](https://xtech.nikkei.com/atcl/nxt/news/24/03450/) *(日経クロステック IT)*
+- [ ] 2026-10-30 [Binanceで資金流出、影響額は推定1兆円規模　DevOpsエンジニアのPC侵害か](https://xtech.nikkei.com/atcl/nxt/news/24/03451/) *(日経クロステック IT)*
+- [ ] 2026-10-30 [“でぶねこ”の重み公開　1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に](https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/) *(ITmedia AI＋)*
+- [ ] 2026-10-30 [Gemini Notebook、無料で数百冊の教科書にアクセス可能に　米国・インドの出版社提供　日本でも利用可](https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/) *(ITmedia AI＋)*
+- [ ] 2026-10-30 [Geminiで生成したPDFやスライドを「チャット上で直接編集」可能に　個人プランとGoogle Workspaceで試してみた](https://www.itmedia.co.jp/aiplus/article/2610/30/2000002757/) *(ITmedia AI＋)*
+- [ ] 2026-10-30 [東京と台北を「17ミリ秒」で結ぶIOWN　アンリツCTOが語るデータセンター相互接続と日本の勝機](https://www.itmedia.co.jp/business/articles/2610/30/news038.html) *(ITmedia AI＋)*
+- [ ] 2026-10-30 [Meta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃](https://www.itmedia.co.jp/news/article/2610/30/2000002684/) *(ITmedia AI＋)*
+- [ ] 2026-10-30 [なぜ「半導体の供給はデータセンター優先」に見えるのか　AIブームの実像、東京エレクトロン デバイス幹部が明かす](https://www.itmedia.co.jp/business/articles/2610/30/news064.html) *(ITmedia AI＋)*
+- [ ] 2026-10-30 [AIの回答で登場する統計データの40％が裏付ける研究結果などがない「ゾンビ統計」であることが明らかに](https://gigazine.net/news/20261030-ai-assistants-statistics-not-find-study/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [Trojanized Claude Code Extension Plants an SSH Backdoor](https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261030de68404) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [AIモデル内部でプログラムを実行できる「Qwenputer」が登場、「AIの中にCPUを作る」という異色の試み](https://gigazine.net/news/20261030-qwenputer/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [若者が選ぶ流行語「チャッピー構文」ってなんだ？　「結論から言うね」なAIの口癖、実は人間のせいかもしれない](https://www.itmedia.co.jp/mobile/articles/2610/30/news031.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [Baidu、数百ページの長文も高速OCRできる「Unlimited OCR 2」公開](https://pc.watch.impress.co.jp/docs/news/2152310.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [ここ数日、自律型AIを使っていて、その便利さに感動しているのですが、年末年始のホテルについて質問したところ、なんとAIが勝手にホテルに電話していてビックリ。 すぐにホテルに謝罪の電話を入れました。。](https://x.com/onodamasashi/status/2115602513261126024) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-30 [無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性](https://internet.watch.impress.co.jp/docs/news/2152666.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ](https://blog.calil.jp/2026/10/linux-kernel.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [個人情報を自社のDBに持たない設計は、どこまでできるのか - every Tech Blog](https://tech.every.tv/entry/2026/10/30/124255) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [Linuxカーネルの脆弱性 CVE-2026-98432 についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/30/120732) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [事故後に前校長と弁護士4人で遺族対応、校長「深く考えずにやってしまった」　同志社会見](https://www.sankei.com/article/20261030-GNXVPH4LXZM5XMWDWRSX6PD6WI/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される](https://gigazine.net/news/20261030-mistral-large-4-open/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [無印良品、最大2726万件の個人情報流出か　公式アプリに不正アクセス、退会者も対象](https://ascii.jp/elem/000/004/447/4447321/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [6カ所以上のアメリカ軍基地で食品を腐敗させた「謎の冷凍庫の故障」にサイバー攻撃の疑いあり、国防総省がフランス当局と協力して捜査中](https://gigazine.net/news/20261030-pentagon-treating-military-freezer-cyberattack/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [「リカバリー用USBメモリ」が消える？ Windows 11、クラウドからのリカバリー機能が追加に【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2152507.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [Herdr UI: a native window for the Herdr daemon](https://herdrui.dev/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [GoogleがAIに「睡眠フェーズ」を導入する研究成果を発表、AIモデルの完成後も新しい知識を継続的に習得させられる仕組み](https://gigazine.net/news/20261030-ai-sleep-knowledge/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開](https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [松屋のアプリに不正アクセス、約238万件の個人情報が漏えい　停止中の補償も予定](https://www.itmedia.co.jp/news/article/2610/30/2000002753/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [暗号資産、過去最大の盗難1兆円　取引大手バイナンス（共同通信） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/2c8de535bdb9411ae8157427338c261730f56069) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [PHP脆弱性でいち早くサービス停止、コドモン経営判断の舞台裏　実はオンラインイベントの真っ最中だった](https://www.itmedia.co.jp/news/article/2610/30/2000002720/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [9900億円相当の仮想通貨が盗まれたと仮想通貨取引所のBinanceが認める、侵入経路はエンジニアのノートPCか](https://gigazine.net/news/20261030-binance-pauses-withdrawals-hackers-stealing-crypto/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [無印良品、不正アクセスで最大2726万件の会員情報漏えいか　退会済みのユーザーも対象](https://www.itmedia.co.jp/news/article/2610/30/2000002756/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [なぜ「更新できない」のか？　PHP騒動で見えた、パッチを先送りする企業の盲点](https://www.itmedia.co.jp/enterprise/articles/2610/30/news025.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-30 [Claude Code のモデル4種に同じ課題を96回解かせた](https://zenn.dev/acerola_jp/articles/claude-code-model-cost-96runs) *(Zenn – トピック LLM)*
+- [ ] 2026-10-30 [Claude Tool Runnerで「独自ツールを呼ぶAIエージェント」をTypeScriptで実装する](https://zenn.dev/yunisuta/articles/claude-tool-runner-ai-typescript-llm-mer3vi) *(Zenn – トピック LLM)*
+- [ ] 2026-10-30 [問い合わせメールのAI振り分けに「要確認」の箱が必要な理由：不動産メール40通・480回で確かめた](https://zenn.dev/kosukeozawa/articles/ai-inquiry-triage-review-box) *(Zenn – トピック LLM)*
+- [ ] 2026-10-30 [強いLLMならPrompt Injectionに耐えられる？ 7つのローカルLLMで検証した](https://zenn.dev/sun_asterisk/articles/8370ad0dbca870) *(Zenn – トピック LLM)*
+- [ ] 2026-10-30 [Claude Codeのコンテキストが最初から7万トークン埋まっている、その内訳の調べ方](https://zenn.dev/starken/articles/claude-code-startup-context-tokens) *(Zenn – トピック LLM)*
+- [ ] 2026-10-30 [ローカルLLM study5: Ornith-1.5-9Bをstudy2〜4の手法で深掘りする](https://zenn.dev/tkpurine/articles/local-llm-study-005-ornith-1-5-deep-dive) *(Zenn – トピック LLM)*
+- [ ] 2026-10-30 [RTX 3090のGPU Unlockを検証：速くなる処理、変わらない処理](https://zenn.dev/sora_lnv/articles/rtx3090-gpu-unlock) *(Zenn – トピック LLM)*
+- [ ] 2026-10-30 [Claude API 2026-10-21の破壊的変更を自作ツールで検証——SDK 2.0でtemperatureが消えた](https://zenn.dev/sktt_panda/articles/claude-api-2026-10-21-migration-rakuscan) *(Zenn – トピック LLM)*
+- [ ] 2026-10-29 [仕様回答ボットを作り直した──AIは質問理解と事実選択、回答はコードで組み立てる](https://zenn.dev/oakensushi/articles/ecba1b633f6ff3) *(Zenn – トピック LLM)*
+- [ ] 2026-10-29 [ドキュメントの無いリポジトリを AI に把握させる。コードから仕様を起こす Agent Skill](https://zenn.dev/redamoon/articles/article54-code-spec-extractor) *(Zenn – トピック LLM)*
+- [ ] 2026-10-29 [小さなローカルLLMは、迷うと「その他」に逃げる。ふさぐと「仕事」に逃げる](https://zenn.dev/hilopon/articles/local-llm-classify-falls-into-other) *(Zenn – トピック LLM)*
+- [ ] 2026-10-30 [もうクソコードでもいいや 〜テストコードドリブンという割り切り〜](https://zenn.dev/yamitake/articles/messy-code-test-driven) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [日常の面倒をAIエージェント「Muse」に任せてみた](https://zenn.dev/0st_ts/articles/209a9fb402b6d1) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [もし明日AIが消えたら？　もうAI以前には戻れない](https://zenn.dev/tkydev/articles/2026-10-30_no_ai) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [理解の負債、AI に書かせたコードの「なぜ」はどこに残す？：識者の見方と検証](https://zenn.dev/zundamon_tools/articles/comprehension-debt-intent) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [臨床試験をひもとく：AI研究者のためのガイド（第3回）臨床試験のデータと標準](https://zenn.dev/keiji_ai_japan/articles/5001d2eaaa0445) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [AI に「止まる条件」を先に渡す:止めすぎて進まなかったので、止め方を 2 つに分けた](https://zenn.dev/k_iijima/articles/a36de9c55c7f24) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [【ハーネスエンジニアリング】AI-DLC v2で割り勘計算アプリを作ってみた](https://zenn.dev/aiforall/articles/e1c7b40c886f1c) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [伸びたクリップは「一般の人にも分かる見出し」だった。Sam Altman 回はどれが伸びるか（#40予測）](https://zenn.dev/talks_tldr_jp/articles/tldr40-altman-prediction) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [Codex Day 25徹底解説：Pro・Businessの利用枠2倍とPro 200減枠撤回](https://zenn.dev/sponge841841/articles/2026-10-30-codex-day25-usage-limits-doubled) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [生成AIでゲームを作ろう](https://zenn.dev/gura_8/books/shimokitayama-kids-games) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [生成AIでアプリ開発入門](https://zenn.dev/gura_8/books/shimokitayama-first-app) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [ChatGPTを日常から仕事に活かす](https://zenn.dev/gura_8/books/shimokitayama-daily-chatgpt) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [Claude Designがベータ終了で正式版へ。12/14までにスタンドアロン版からClaude統合版へ移行必須](https://zenn.dev/rescuenow/articles/c9925707f07824) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [Anthropic と Cursor に学ぶ、クラウドで AI に開発を任せる仕組み](https://zenn.dev/sonicmoov/articles/4b491acd1f00bc) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [How I Score Text-to-Video Clips Before I Hit Publish](https://zenn.dev/texttovideo/articles/821af3fff882e4) *(Zenn – トピック AI)*
+- [ ] 2026-10-30 [2026年自分流AIエージェント環境構築の秋](https://zenn.dev/rescuenow/articles/49826fc6cc2713) *(Zenn – トピック AI)*
