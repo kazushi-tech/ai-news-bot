@@ -164184,3 +164184,44 @@
 - [ ] 2026-10-31 [校正後の確率の上限が 96% から 99% に。原因は LightGBM で、96% は確率を式に入力したためにできた上限だった](https://zenn.dev/hii_chi/articles/lightgbm-calibration-probability-bound) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-31 [ペイントツール上でニューラルネットワークを動かす](https://zenn.dev/melville/articles/953aa2b41f674b) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-31 [コードと仕組みで学ぶPython機械学習 — 深層学習・時系列・自然言語処理](https://zenn.dev/windingroad_dev/books/557505cc3f7815) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-31T20:42:46.984Z
+- [ ] 2026-10-31 [Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal](https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-31 [Sam Altman to Infuriated Mathematicians: The Math Slop Won’t Stop](https://futurism.com/artificial-intelligence/sam-altman-mathematicians-math-slop) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-31 [Xbox manager says AI is already being used in game development](https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development/) *(Engadget)*
+- [ ] 2026-10-31 [The best Roku Streaming Stick depends on your picture quality needs](https://www.engadget.com/2302428/best-roku-streaming-stick-depends-on-picture-quality-needs/) *(Engadget)*
+- [ ] 2026-10-31 [Why your AirPods keep disconnecting without warning: These settings can fix it](https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/) *(Engadget)*
+- [ ] 2026-10-31 [How to use Claude Duet when it rolls out to you](https://www.engadget.com/2300253/how-to-use-claude-duet/) *(Engadget)*
+- [ ] 2026-10-31 [4 drawbacks you should know before buying a PlayStation 5](https://www.engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5/) *(Engadget)*
+- [ ] 2026-10-31 [Bolt Graphics powers on its first Zeus GPU](https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/) *(Engadget)*
+- [ ] 2026-10-31 [These Samsung Galaxy Watches won't be getting the new One UI update](https://www.engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update/) *(Engadget)*
+- [ ] 2026-10-31 [How to fix your phone screen when it's unresponsive to touch​](https://www.engadget.com/2301246/how-to-fix-phone-screen-unresponsive-to-touch/) *(Engadget)*
+- [ ] 2026-10-31 [How building a cheap home server could save you money in the long run](https://www.engadget.com/2301243/how-building-cheap-home-server-save-money/) *(Engadget)*
+- [ ] 2026-10-31 [Why your Spotify might be using so much storage](https://www.engadget.com/2300259/why-spotify-uses-so-much-storage/) *(Engadget)*
+- [ ] 2026-10-31 [アカウンタビリティを軸とした AI-Native 開発のデザイン戦略](https://www.nttdata.com/jp/ja/-/media/nttdatajapan/files/services/adm/ai-native.pdf) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-31 [Appleがペニスのサイズを嘲笑しているとの懸念からか韓国でiPad miniの広告を修正](https://gigazine.net/news/20261030-ipad-mini-korea-remove-gesture/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [あのさ、 10万20万するiPhoneと 数千から2万程度のAndroidスマホを 比較してAndroidあかん！ って言うのやめてもらっていいですか？→「かれこれ15年近く色々使ってきたけど、今使ってるPixel 10aを越えるコスパのものは無いな」](https://posfie.com/@petaritape/p/RxOQKQU) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [GMO 被害者情報集める不審サイト ハッカー側と関連か \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261031de69043) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [誰が何をしたか覚えていよう](https://rememberwhodidwhat.github.io/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [自律型AIペネトレーションテスターShannonを自分のPCで動かそうとして、深いところで2回連続つまずいた話](https://zenn.dev/matsushima_a/articles/day-032-shannon-ai-pentester-recon-bug) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [Mistral Large 4オープン化と56億ドルハックに学ぶ2025年の技術戦略](https://zenn.dev/ament3/articles/ai-digest-2026-10-30-1612) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [同意スコープでエージェントの「ツール」を絞る：ユーザー許可型メモリAPIの設計メモ](https://zenn.dev/adacognitia/articles/7f5efe79de0f88) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [用語集を先に作って訳語をそろえる：正本のゆれと訳文の訳語をPythonで照らす](https://zenn.dev/rakuwork_kobo/articles/glossary-first-translation-term-check-python) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [AI効果とは？AIが上手になるほど『AI』と呼ばなくなる現象をわかりやすく解説](https://zenn.dev/tkrndisk/articles/g-kentei-ai-effect-tech) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [【小学5年生でもわかる】AI効果ってなに？](https://zenn.dev/tkrndisk/articles/g-kentei-ai-effect-kids) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [AIを10窓並行で回してたら頭がパンクしたので「進行板」を作った](https://zenn.dev/sato_ken/articles/46f7f1f7a1e856) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [従量課金APIでtimeoutしても「0円」と決めつけない——unknown cost・lease・reconcileの設計](https://zenn.dev/asagiman/articles/metered-api-unknown-cost) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [AI コーディングツールを狙った攻撃から、自分の開発環境を守る — Nx の s1ngularity 事件と、手元で確かめた設定](https://zenn.dev/swdrk/articles/a4b8aa3ecc3f26) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [A short checklist before you trust an AI code change](https://zenn.dev/yksalun/articles/e4ce58be02e6dc) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [FlashAttention1~4の変遷と仕組みを読み解く](https://zenn.dev/jun_shiba/articles/211aac7544e921) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [Codex Day 26徹底解説：モバイルのアカウント切り替えと保存型リセット予告](https://zenn.dev/sponge841841/articles/2026-10-31-codex-day26-account-switching) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [複数のAIの回答だけを集める「個人ナレッジ庫」という発想（需要テスト中）](https://zenn.dev/n1labo/articles/c29fc8b85f648b) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [「片目だけアニメ化」はなぜ難しい？AIアニメフィルターの仕組みを分解して考える](https://zenn.dev/animeselfie/articles/6362ffadbc59f4) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [議事録のタスク抽出をGPTで自動化して分かった、社内の繰り返し作業を仕組み化する3つのコツ](https://zenn.dev/solo_joshis/articles/2026-10-01-gpt-ai-tool-90) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [ハイパースペクトル基盤モデルHyperSIGMAをColabで動かし、Indian Pinesの分類結果を目で見て比べてみた](https://zenn.dev/oggata/articles/317d40af6bb39a) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [MESAの解体新書](https://zenn.dev/oggata/books/fccaa80b4c38bb) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [通勤中に音声で話したことが、自宅PCのClaude Codeへの発注になる仕組み](https://zenn.dev/gear_aiteam/articles/roadrelay-voice-order-to-claude-code) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [写真1枚から12秒の「窓のダンス」映像を作る小さなツールを作りました](https://zenn.dev/zaireprow/articles/63c706d4a7fb2b) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [売上0円のアプリ事業を、AIにほぼ丸ごと任せてみた（1週目）](https://zenn.dev/utengo/articles/ai-runs-my-app-business-week1) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [写真1枚から15秒の「Tiny Desk」風ライブ映像を作る小さなツールを作りました](https://zenn.dev/zaireprow/articles/a0fcd9737337bd) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [AI時代のアクセス解析 Conversational Analytics - BQMLマーケティング分析例](https://zenn.dev/zuck/articles/3bd263151306a9) *(Zenn – トピック 機械学習)*
