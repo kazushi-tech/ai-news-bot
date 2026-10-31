@@ -164122,3 +164122,65 @@
 - [ ] 2026-10-30 [エージェント（AI）とは？自律的に行動するAIをわかりやすく解説](https://zenn.dev/tkrndisk/articles/g-kentei-ai-agent-tech) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-30 [【小学5年生でもわかる】AIエージェントってなに？](https://zenn.dev/tkrndisk/articles/g-kentei-ai-agent-kids) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-30 [AIの出力を「なんとなく良い」で決めないために物差しを先に作ったら、物差し自体のバグが2つ出た](https://zenn.dev/horibe/articles/build-the-ruler-before-the-model) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-10-31T16:21:32.211Z
+- [ ] 2026-10-31 [A-listers and AI stylists: how high-street brands are staging a fashion comeback](https://www.theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-31 [Is AI your new wingman? How chatbots are transforming dating](https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-10-31 [Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-10-31 [Better Start Hitting the Gym Finally Because AI Robots Already Are](https://futurism.com/robots-and-machines/ai-robots-hitting-gym) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-31 [Creeps Are Using AI to Undress Celebrities in Paparazzi Shots for Clicks](https://futurism.com/artificial-intelligence/creeps-ai-undress-celebrities) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-10-31 [AI Spending Fears Hammer Big Tech Stocks](https://www.bloomberg.com/news/videos/2026-10-31/ai-spending-fears-hammer-big-tech-stocks-video) *(Bloomberg Technology)*
+- [ ] 2026-10-31 [How long is too long for a USB cable?](https://www.engadget.com/2301242/how-long-should-usb-cable-be-maximum-length/) *(Engadget)*
+- [ ] 2026-10-31 [NASA's second year-long Mars simulation mission ends today](https://www.engadget.com/2303277/nasa-second-year-long-mars-simulation-mission-ends-today/) *(Engadget)*
+- [ ] 2026-10-31 [GNSS Vs GPS: What's the difference?](https://www.engadget.com/2300262/gnss-vs-gps-differences/) *(Engadget)*
+- [ ] 2026-10-31 [Traveling with electronics? These 5 items could raise TSA red flags](https://www.engadget.com/2301241/tsa-electronics-red-flags/) *(Engadget)*
+- [ ] 2026-10-31 [The Amazon Fire TV Stick setting you should try for better audio](https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio/) *(Engadget)*
+- [ ] 2026-10-31 [What is the purpose of reposting on Instagram and how do you do it?](https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do/) *(Engadget)*
+- [ ] 2026-10-31 [Sam Altman is upset at you for hoarding RAM in your own computer](https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer/) *(Engadget)*
+- [ ] 2026-10-31 [Is IMAX 3D a better experience than 2D? Here's what to know](https://www.engadget.com/2300266/imax-3d-vs-2d-which-is-better-experience/) *(Engadget)*
+- [ ] 2026-10-31 [Why SNES games are so expensive](https://www.engadget.com/2301220/why-snes-games-so-expensive/) *(Engadget)*
+- [ ] 2026-10-31 [5 Samsung One UI features you won't get with other Android phones](https://www.engadget.com/2299207/one-ui-features-not-on-other-androids/) *(Engadget)*
+- [ ] 2026-10-31 [What is a PDF reader and do you really need a dedicated one on your phone?](https://www.engadget.com/2300318/what-is-pdf-reader-do-you-need-on-phone/) *(Engadget)*
+- [ ] 2026-10-31 [Microsoft really wants you to sell that Xbox you're not using](https://www.engadget.com/2299867/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/) *(Engadget)*
+- [ ] 2026-10-31 [CDs are back, but they come with a modern problem](https://www.engadget.com/2298767/cds-are-back-modern-listening-complicated/) *(Engadget)*
+- [ ] 2026-10-31 [Here's how much the iPhone Pro cost in 2019 vs. 2026](https://www.engadget.com/2300201/how-much-iphone-pro-cost-2021-vs-2026/) *(Engadget)*
+- [ ] 2026-10-31 [Why you should never point a laser pointer at any aircraft](https://www.engadget.com/2301206/why-you-should-never-point-a-laser-pointer-at-any-aircraft/) *(Engadget)*
+- [ ] 2026-10-31 [Why your games take up way more drive space than expected (even when uninstalled)](https://www.engadget.com/2299478/games-take-up-more-drive-space-expected/) *(Engadget)*
+- [ ] 2026-10-31 [How to improve audio quality on your Android phone with Bluetooth or wired headphones](https://www.engadget.com/2298724/how-to-improve-android-phone-audio-quality-with-bluetooth-wired-headphones/) *(Engadget)*
+- [ ] 2026-10-31 [What happens when AI starts self-replicating?](https://www.engadget.com/2302896/what-happens-when-ai-starts-self-replicating/) *(Engadget)*
+- [ ] 2026-10-31 [The pros and cons of using an all-in-one desktop computer](https://www.engadget.com/2298592/pros-and-cons-using-all-in-one-desktop-computer/) *(Engadget)*
+- [ ] 2026-10-31 [This Microsoft 365 Family plan cloud storage change may leave you frustrated](https://www.engadget.com/2301048/this-microsoft-365-family-plan-cloud-storage-change-may-leave-you-frustrated/) *(Engadget)*
+- [ ] 2026-10-31 [メモリ買い占める側が発言。アルトマンCEO「個人PCのメモリは使われてない、ひどい配分なのでクラウドに集約すべき」 - すまほん!!](https://smhn.info/202610-sam-altman-pc-dram-quite-terrible-cloud) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-31 [Idolの概要 - 1枚の画像から3D Gaussian Splattingを生成するAI｜npaka](https://note.com/npaka/n/n66f6eaffeecb) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-31 [1Passwordに全部賭けろ。情報セキュリティ＆AIエージェント時代で生き残るために。｜hayatosc](https://sizu.me/hayatosc/posts/oxi9cff8k2bn) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-31 [AI時代、人間の音楽著作権どう守る　JASRACが生成曲の検知へ（朝日新聞） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/85e366919356c7205191379528eead81a9a45f97) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-31 [人間と区別できないほど自然に会話できる音声AI「Prism」が登場、発言内容を事前確認できる仕組みを搭載](https://gigazine.net/news/20261030-prism/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-31 [氾濫する「偽攻略本」問題、Amazonに直撃してみた。『ゼルダ』『FFレゾナンス』など発売前のゲームにまで広がる怪しい書籍―運営元の見解は？ \| Game*Spark - 国内・海外ゲーム情報サイト](https://www.gamespark.jp/article/2026/10/30/174306.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-10-31 [GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日会見へ \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261031de69024) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [偽コンサルの一生 - 孤独な弧度法](https://2arctan-1.hatenablog.com/entry/2026/10/31/125102) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [GeoJSON入門　JSONで地図の点・線・面を表す仕組み - 一色政彦の技術ノート](https://blog.masahiko.info/entry/2026/10/31/113000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [自分の本名を検索したらAIで要約されて表示されるのだが個人情報がダダ漏れしている？「これは本当に怖い」「ネットに上がってる情報をまとめただけだから…」](https://togetter.com/li/2765128) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [WASIじゃない、もう一つのインターフェース「WALI」という提案](https://zenn.dev/progate/articles/wali-webassembly-linux-interface) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [身代金、４割に追加要求　急増するランサム攻撃―専門家「支払いは解決ではない」・不正アクセス：時事ドットコム](https://www.jiji.com/jc/article?k=2026103100100&g=eco) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [Claude Codeによる「既存ゲーム再現」を制限したとエンジニアが認める―オリジナル作品生成は引き続き動作する想定。“AIクローンゲーム”の抑止につながるか \| Game*Spark - 国内・海外ゲーム情報サイト](https://www.gamespark.jp/article/2026/10/31/174341.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [third-intelligence/Haas-ja-v1.0 · Hugging Face](https://huggingface.co/third-intelligence/Haas-ja-v1.0) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [RHSB-2026-016 Use-after-free - kernel IPv4 (CVE-2026-98432) \| Red Hat Customer Portal](https://access.redhat.com/security/vulnerabilities/RHSB-2026-016) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [iPhone Duo レビュー。荒削り、電子書籍特化の逸品 - すまほん!!](https://smhn.info/202610-202610-iphone-duo-review) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [AIにありがちな「イマイチなコードコメント」9パターン - Qiita](https://qiita.com/jnchito/items/636c519c0b1d347c79b7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [iPad×GoodNotesで過去問を回す勉強法｜電気資格道場の使い方｜電気資格道場](https://www.denki-shikaku-dojo.com/goodnotes-kakomon-benkyouhou/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [Claude Codeの未解決バグ、自分のPCで起きる127件を先回りで台帳にした](https://zenn.dev/zenn_content/articles/claude-code-known-bugs-ledger) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [LLMは同じ質問でも、回答と書き換えで役割の割り当てを変えるのか？――5つの実験で検証](https://zenn.dev/shinyahayakawa/articles/278db8adf6bee2) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [スキルを入れる前に「前提スキルとCLI」を確かめる: 依存センサスから](https://zenn.dev/skillselion/articles/455321970cdcaf) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [AI時代の学び方に迷っている人へ: 言葉の理解を自分のものにする7つのベクトル操作](https://zenn.dev/somnicattus/articles/346bb1e0ca3345) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [CLAUDE.mdに「日本語で」と書いても英語に戻る──Claude Codeのhookで英語の返事を書き直させる](https://zenn.dev/ichikawa_y/articles/claude-code-hook-japanese-reply) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [Windows × Claude Code ── PowerShell 5.1 で黙って壊れる14か所と、守る・止める・確かめる仕組み](https://zenn.dev/kamijo_aoto/books/windows-claude-code-traps) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [Shepi のアップデート：エージェントの隣のページ、ワークツリーの片付け、静かになった通知](https://zenn.dev/xwiox/articles/e253cba90c0691) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [読みやすさは誰のため？](https://zenn.dev/lndex/articles/b1c0d7bb576720) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [AI の『実測済み』を信じない。CLAUDE.md を書き換えた AI を、別の AI に監査させる](https://zenn.dev/maura/articles/3d4551c785dcb7) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [AIに任せて失ったもの、だからこそ変わった考え方](https://zenn.dev/acntechjp/articles/6ff27f7c4301be) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [CTRが下がったのは記事のせいか、構成のせいか。全体の数字を2つに分けて読む方法](https://zenn.dev/kimshoshi/articles/google-bing-ctr-gap) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [自動売買を始める前に決める3つのこと(範囲・上限・記録)](https://zenn.dev/yoru_build/articles/c1211f930535ae) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [画像1枚から踊る動画へ：Pose-guided 人物動画生成で時間的一貫性を保つ工夫](https://zenn.dev/danceaigen/articles/5a5f5dad6ccbc0) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-31 [校正後の確率の上限が 96% から 99% に。原因は LightGBM で、96% は確率を式に入力したためにできた上限だった](https://zenn.dev/hii_chi/articles/lightgbm-calibration-probability-bound) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-31 [ペイントツール上でニューラルネットワークを動かす](https://zenn.dev/melville/articles/953aa2b41f674b) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-31 [コードと仕組みで学ぶPython機械学習 — 深層学習・時系列・自然言語処理](https://zenn.dev/windingroad_dev/books/557505cc3f7815) *(Zenn – トピック 機械学習)*
