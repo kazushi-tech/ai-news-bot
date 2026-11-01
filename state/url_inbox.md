@@ -164309,3 +164309,67 @@
 - [ ] 2026-11-01 [勾配降下法の仕組みと更新式の導出](https://zenn.dev/ok_ml/articles/1293efd3eb7e07) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-01 [Python機械学習の実務書5選](https://zenn.dev/komatsu_ops/articles/20261101_book_ref) *(Zenn – トピック 機械学習)*
 - [ ] 2026-10-31 [劣勾配法を自分で書く：最適解が折れ目にある、微分できない最適化問題を解く](https://zenn.dev/tmtk/articles/8f43d779edc605) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-01T21:23:45.145Z
+- [ ] 2026-11-01 [National Grid to site biggest substation in UK near planned Teesside datacentre](https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-01 [AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says](https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-01 [Guarding the Gates of Knowledge](https://spectrum.ieee.org/ai-slop-trust-science) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-11-01 [Inside Indonesia’s Wash-Trade Scheme](https://www.bloomberg.com/news/videos/2026-11-01/inside-indonesia-s-wash-trade-scheme-video) *(Bloomberg Technology)*
+- [ ] 2026-11-01 [Apple Touch-Screen MacBook Pro Impressions; Software Division Gaming Shake-Up](https://www.bloomberg.com/news/newsletters/2026-11-01/apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up) *(Bloomberg Technology)*
+- [ ] 2026-11-01 [Anthropic updates Claude to stop it from recreating existing video games](https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/) *(Engadget)*
+- [ ] 2026-11-01 [Ceramic vs Titanium Apple Watch: Which material is better for overall durability?](https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/) *(Engadget)*
+- [ ] 2026-11-01 [How to know if a USB-C cable is waterproof](https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof/) *(Engadget)*
+- [ ] 2026-11-01 [5 ways to get Amazon Prime for free (or way cheaper)](https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper/) *(Engadget)*
+- [ ] 2026-11-01 [How to turn on the flashlight on your Android phone without unlocking it](https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking/) *(Engadget)*
+- [ ] 2026-11-01 [Judge says xAI must face NAACP lawsuit on data center pollution](https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/) *(Engadget)*
+- [ ] 2026-11-01 [This hidden Windows 11 menu can save you valuable time when troubleshooting](https://www.engadget.com/2300300/hidden-windows-11-menu-saves-time-troubleshooting/) *(Engadget)*
+- [ ] 2026-11-01 [The biggest problem with trying to directly power EVs with solar roofs](https://www.engadget.com/2300413/biggest-problem-directly-powering-evs-with-solar-roofs/) *(Engadget)*
+- [ ] 2026-11-01 [How much would it cost to build a PC similar to the Xbox Series S?](https://www.engadget.com/2300614/xbox-series-s-pc-similar-how-much-to-build/) *(Engadget)*
+- [ ] 2026-11-01 [5 safety practices to know before vibe coding](https://www.engadget.com/2302658/vibe-coding-safety-practices/) *(Engadget)*
+- [ ] 2026-11-01 [All the leaks for the Portal prequel F-Stop have been compiled into a playable game](https://www.engadget.com/2303446/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game/) *(Engadget)*
+- [ ] 2026-11-01 [The reason why your Xbox controller still uses AA batteries](https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/) *(Engadget)*
+- [ ] 2026-11-01 [5 nifty ways you can reuse your old laptop](https://www.engadget.com/2300621/nifty-ways-reuse-old-laptop/) *(Engadget)*
+- [ ] 2026-11-01 [Meta reportedly built a humanoid robot prototype that can do household chores](https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/) *(Engadget)*
+- [ ] 2026-11-01 [Here's how to tell which gen AirPods you own](https://www.engadget.com/2300295/how-to-tell-which-airpods-gen-you-own/) *(Engadget)*
+- [ ] 2026-11-01 [Whatever happened to 8K TVs?](https://www.engadget.com/2302734/what-happened-to-8k-tvs/) *(Engadget)*
+- [ ] 2026-11-01 [Here's what your Fitbit heart rate variability actually tells you](https://www.engadget.com/2300292/what-fitbit-heart-rate-variability-tells-you/) *(Engadget)*
+- [ ] 2026-11-01 [How to tell if your smart TV has a camera (and how to disable it)](https://www.engadget.com/2302466/how-to-tell-if-smart-tv-has-camera/) *(Engadget)*
+- [ ] 2026-11-01 [You might be neglecting the one thing that keeps your PC healthy](https://www.engadget.com/2300290/desktop-pc-neglecting-cleaning-computer-health/) *(Engadget)*
+- [ ] 2026-11-01 [OpenAI adds stricter limits for teens asking about firearms](https://www.engadget.com/2303421/openai-adds-stricter-limits-for-teens-asking-about-firearms/) *(Engadget)*
+- [ ] 2026-11-01 [INPEXがSAP ERPをクラウド版へ、業務効率化と移行リスク低減を両立](https://xtech.nikkei.com/atcl/nxt/column/18/00678/102300193/) *(日経クロステック IT)*
+- [ ] 2026-11-01 [60万人のTCSが挑むAI変革、アウトソーシングは「人月」から「成果」へ](https://xtech.nikkei.com/atcl/nxt/column/18/03076/102700032/) *(日経クロステック IT)*
+- [ ] 2026-11-01 [Androidもマイナンバーカードにフル対応、その利用を阻むスマホ価格の高騰](https://xtech.nikkei.com/atcl/nxt/column/18/00086/00425/) *(日経クロステック IT)*
+- [ ] 2026-11-01 [余ったパソコンをサブディスプレーにするMiracast、Wi-Fi経由で映像を出力](https://xtech.nikkei.com/atcl/nxt/column/18/03775/092800004/) *(日経クロステック IT)*
+- [ ] 2026-11-01 [オンデバイスAIと親和性が高い「SLM」、LLMより小規模で効率的な言語モデル](https://xtech.nikkei.com/atcl/nxt/column/18/01679/092800305/) *(日経クロステック IT)*
+- [ ] 2026-11-01 [あえて文章を生成しない判断特化型AI、選択肢や確率を回答　再利用に強み](https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/102100330/) *(日経クロステック IT)*
+- [ ] 2026-11-01 [スターバックスが学んだ「AI導入後」の教訓、米企業もROI創出に苦戦](https://xtech.nikkei.com/atcl/nxt/column/18/03807/102700001/) *(日経クロステック IT)*
+- [ ] 2026-11-01 [GMO・PHPの陰で悪用確認リストKEV入り重大脆弱性が3件、至急点検が必要](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12141/) *(日経クロステック IT)*
+- [ ] 2026-11-01 [承認欲求が満たされないという技術者の「病」、重症になったらヤバいぞ](https://xtech.nikkei.com/atcl/nxt/column/18/00148/102600461/) *(日経クロステック IT)*
+- [ ] 2026-11-01 [GMO熊谷社長が一石投じた能動的サイバー防御　誰がためのデジタル安全保障](https://xtech.nikkei.com/atcl/nxt/column/18/03795/102800007/) *(日経クロステック IT)*
+- [ ] 2026-11-01 [HonoがPRを閉じた理由](https://slides.yusu.ke/foss4g-2026) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-01 [Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？](https://gigazine.net/news/20261101-wikipedia-ai-content/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-01 [デジタル庁のAIアプリで国会答弁案の作成支援、来年1月に本格提供へ](https://k-tai.watch.impress.co.jp/docs/news/2152739.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-01 [いまのダークウェブでは二段階認証も無力化する「ブラウザのクローンデータ」が売買されており、その対策にはブラウザを使い分けることが有効らしい](https://togetter.com/li/2765521) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [「作曲って難しいと思うじゃん？だったら遊びにしちゃえばいいんじゃね？」ということで、音楽理論やコード進行が全くわからなくても音楽が作れる作曲ツールを作った](https://togetter.com/li/2765526) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [【速報】GMO不正アクセス、北朝鮮関与か](https://www.47news.jp/15170287.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [【独自】GMO攻撃、北朝鮮ハッカーか　複数の痕跡、政府に報告](https://www.47news.jp/15170379.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [自作PWAをTailscale Serveで配るのが便利だった話](https://zenn.dev/6uclz1/articles/43e803ec9d54dd) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [GitHub - nishikawaakira/waf-dojo: Hands-on AWS WAF training game](https://github.com/nishikawaakira/waf-dojo) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [いまのダークウェブでは二段階認証も無力化する「ブラウザのクローンデータ」が売買されており、その対策にはブラウザを使い分けることが有効らしい (2ページ目)](https://togetter.com/li/2765521?page=2) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [GitHub - sahenjp/RustXNG: SearXNG-compatible metasearch engine written in Rust (AGPL-3.0-or-later)](https://github.com/sahenjp/RustXNG) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [無料で完全にWindowsでローカル動作できるElevenLabs代替ツール「VoiceStudio」、音声クローン・音声デザイン・動画吹き替え・音声入力・文字起こし・オーディオブック作成を多言語で可能](https://gigazine.net/news/20261101-voicestudio/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [AdaとRustの安全性の違い 実行して比較](https://comcomponent.com/blog/ada-vs-rust-safety/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [PHPショック、システム即停止は「やや過剰反応」　理解なき運用がリスクに](https://business.nikkei.com/atcl/gen/19/00304/102200276/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [KDDI における Amazon EKS Auto Mode 商用導入：カスタムコントローラーによる運用課題の解決 \| Amazon Web Services](https://aws.amazon.com/jp/blogs/news/202611-kddi-eks-auto-mode-case-study/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [WordPressも「置かない」で守る、『静的サイト化』――ヘッドレスか、プラグインか、2つの道：生涯ITエンジニアでいこう。：オルタナティブ・ブログ](https://blogs.itmedia.co.jp/osonoi/2026/10/1_wordpress2.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [Kiro CLIとKiro Crewを改めて入門してAWSで動かすまで](https://zenn.dev/upgradetech/articles/2026-11-kiro-crew-api-key-intro) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [今日の市場ブリーフィング](https://zenn.dev/bambampurin/articles/2026-09-22-market-daily) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [Agent DX 〜 AI時代にフレームワークHonoは必要か](https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [Unlimited-OCR-2で完全ローカルOCRワークベンチ構築：長文PDF・数式・表もVRAM一定で爆速解析](https://zenn.dev/lumichy/articles/unlimited-ocr-2-workbench-2026) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [Coding Agent の「作り直し」と「検証ミス」を減らす：Matt Pocock Skills × pstack](https://zenn.dev/ryodev/articles/469b436dee634a) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [Claude Desktopで「確認してから断定する」を全部の発言にかける——FA開発で使っている常時規則のスキル](https://zenn.dev/kensho_ya/articles/claude-desktop-always-on-rules-verify-first) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [Claude Codeに「進捗どう？」と聞くのをやめた ― 隣の画面で勝手に育つ"きょうのボード"](https://zenn.dev/jir0/articles/4cbcdd7421f26e) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [AI生成コードのレビューで先に確認したい5つの前提](https://zenn.dev/techstudiolab/articles/review-ai-generated-code-business-assumptions) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [既存コードから仕様書・テストまでをつなぐ開発フローを、Codex の Agent Skills で作った話](https://zenn.dev/elletech/articles/bbadfc622f2cd2) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [拡散VLMの論文 LOWN を、LLaDA-V の実際の推論記録で遊べる3Dゲームにした](https://zenn.dev/zguo/articles/c86799626b7ece) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-01 [Kaggle RSNA 膝MRIコンペで銅メダル：やって良かったこと・やらなきゃ良かったこと](https://zenn.dev/hazy_viper/articles/rsna-knee-2026-bronze) *(Zenn – トピック 機械学習)*
