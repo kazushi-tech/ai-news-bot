@@ -164257,3 +164257,55 @@
 - [ ] 2026-10-31 [Claude Code を無人で回す仕組み一式：起動・委任・見張り・ゲート](https://zenn.dev/acerola_jp/books/claude-code-unattended-ops) *(Zenn – トピック AI)*
 - [ ] 2026-10-31 [公式のClaude拡張に裏口、約12時間。AI道具をどう守るか](https://zenn.dev/sugawara_ai/articles/ai-news-20261031) *(Zenn – トピック AI)*
 - [ ] 2026-10-31 [AI漫画制作の始め方｜使えるツールと制作の流れ](https://zenn.dev/lyra_japan/articles/a1c319363cc764) *(Zenn – トピック AI)*
+
+## Collected on 2026-11-01T12:05:46.974Z
+- [ ] 2026-11-01 [Chatbots Are Leading Hikers Astray, With Dangerous Consequences](https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-01 [Fox News Takes Massive Ratings Hit As It Triples Down on Pro-Data Center Coverage](https://futurism.com/artificial-intelligence/fox-news-media-data-center-propaganda-coverage) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-01 [The Bengaluru Founder Building a Bridge to San Francisco](https://analyticsindiamag.com/ai-startups/the-bengaluru-founder-building-a-bridge-to-san-francisco) *(Analytics India Magazine)*
+- [ ] 2026-11-01 [DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic](https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic) *(Bloomberg Technology)*
+- [ ] 2026-11-01 [GMO系、顧客情報4.5万人分漏洩　設定ミスで9年間外部から取得可能 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC010ZZ0R01C26A1000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-01 [GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,](https://github.com/vercel-labs/agent-desktop) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-01 [AI学習の可否をrobots.txtで指定 Google、MS、OpenAIらが共通仕様を27年導入](https://www.watch.impress.co.jp/docs/news/2152852.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-01 [いらすとや、ファンが生息域踏査　AIに押されサイト訪問者は減少 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC284ZY0Y6A021C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-01 [Material 3 Expressiveの画面をブラウザで組み立てて画面同士をつなぎタップして確かめてそのままAIコーディング用のプロンプトにするツール「M3E Canvas」](https://gigazine.net/news/20261031-m3e-canvas/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-01 [TVerにおけるテスト自動化の歩み - TVer Tech Blog](https://techblog.tver.co.jp/entry/shiroma/history-of-test-automation) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [FF14が「毎日ログイン前提」を見直す。吉田直樹が挑む、プレイヤーの時間を奪わないゲーム設計 - エンジニアtype \| 転職type](https://type.jp/et/feature/32071/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [楽天証券、顧客情報流出の可能性　NTTデータ委託先不正アクセスで](https://japan.cnet.com/article/35254251/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [WordPressの問い合わせフォーム用プラグイン Contact Form 7に認証不要の任意ファイルアップロードの脆弱性、6.2.4で修正 最新6.2.4.1への更新を推奨\|セキュリティニュースのセキュリティ対策Lab](https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [おいグエンちゃん b:id:nguyen-oi Grafana が No data になってるけど](https://anond.hatelabo.jp/20261101084900) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [NTTデータ委託先に不正アクセス　社債向けサービス、楽天証券など利用 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC010BF0R01C26A1000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [Chromagraph Cameraアプリ - App Store](https://apps.apple.com/jp/app/chromagraph-camera/id6803329435) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [「ハッカーに身代金を支払うことなく暗号化されたファイルを復元できる」というセキュリティ企業が実際は被害者から得た高額な手数料の中から身代金を支払っていたとしてCEOが起訴される](https://gigazine.net/news/20261031-monstercloud-ransomware-victims/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [楽天証券、顧客情報流出の可能性　NTTデータ委託先不正アクセスで（CNET Japan） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/005b8b559abd8087bf6998381fecfc02882aa2e1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [LLMの賢さに拘ってちゃダメ、MIT AI Conference 2026から読み解くCopilotの次なる進化](https://zenn.dev/syoshida07/articles/2f81edc02f11ef) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [GPT-6.1 Terra を開発に使い、使い勝手やトークン消費を普段使っているAIモデルと比べてみた](https://zenn.dev/marvelousu/articles/gpt61-terra-usage-review) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [生成AI APIの instructions と input — 守ってほしいルールと、その都度変わるデータを分ける](https://zenn.dev/salesanalytics/articles/26724675727736) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [AI住人に「ござるの話したよね？」とうそをついたら、3人とも思い出した](https://zenn.dev/miki_mini/articles/7f16991ad3a157) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [研究課題の設定から査読までを行う自律研究エージェントの実験](https://zenn.dev/kofujimura/articles/9b8bb8e1e8692f) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [LLMにサイト運営を任せる仕組み ― 更新の確認から公開まで](https://zenn.dev/llmonmac/articles/mac-mini-studio-inference) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [Jevを呼べるC# SDKは20本超 — 非公式JevSharpで48件を流した結果](https://zenn.dev/jodycraft/articles/jev-dotnet-sdk-comparison-2026-10) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [Bedrockのプロンプトキャッシュは何を再利用するのか、図で整理した](https://zenn.dev/hknote/articles/bedrock-claude-prompt-caching) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [失敗したコード履歴を残すとAIがまた同じミスをする！「失敗履歴の累積」vs「失敗ターンの剪定（Pruning）」実機検証](https://zenn.dev/tappers/articles/ai-labo-e19-error-trace-pruning) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [0。OpenAIのモデルが公開済みのリカバリーフレーズから資金を見つけ最終報告に書かなかったと公表された日、自分が同じ探索を実行できた回数](https://zenn.dev/hideki_tamae/articles/credential-exploration-classifier-denial) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [Claude Code のスキルを削って 1 つにまとめたら、4 分の 1 の長さで精度はむしろ上がった](https://zenn.dev/akaringo1109/articles/claude-code-skill-slimming) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [2026年のLLM面接で一番出るシステムデザイン問題の練習法](https://zenn.dev/mleplaybook/articles/a275ec96e84811) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [AIに無人運用させたパイプラインで、エラーを出さずに壊れていた8件と検知の作り方](https://zenn.dev/zenn_content/articles/unattended-pipeline-silent-failures) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [Claude と ホワイトボードで話そう！ (GRWB powered by Excalidraw)](https://zenn.dev/good_relax/articles/4319ae2a1db391) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [Claude Code で「ここを直して」を重ねても終わらない時、プロンプトより前に決めること](https://zenn.dev/atasino/articles/4a689b859d1922) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [AI協働：FRB Launch続報 — リモコンから始めると、PC操作が気持ちよくなった話（笑）](https://zenn.dev/frb_tamasub/articles/ai-collaboration09-frb-launch-remote-workflow) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [Stop Judging AI Floor Plans by Their Renders: A Concept Plan Should Be](https://zenn.dev/amuzozenn8/articles/251780b45c3319) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [持続可能性を重視する俺の開発手法 2026-11-01](https://zenn.dev/numekudi/articles/cb92837f300683) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [AIに任せるなんてとんでもない！と言われている人達へ — 「AIを信じなくていい仕組み」から始める](https://zenn.dev/hamatz/articles/5c16da7d798b80) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [仕事のメールに毎日30分使っていたので、プロンプト集を自分で作った](https://zenn.dev/minipenn/articles/a7829a2dd25ecf) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [AIの指示ファイル、コマンドを変えたら何を直す？ AGENTS.md・CLAUDE.md・Copilot指示の手入れ手順](https://zenn.dev/ryuyanishino/articles/900bb7877eb34647b74fb8e985f7b3d8) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [Windows の Claude Code：ネイティブ版か WSL 2 かは「プロジェクトの置き場所」で決める](https://zenn.dev/deepai/articles/claude-code-windows-native-or-wsl) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [測る作業は AI に、決める作業は自分に](https://zenn.dev/aqiu/articles/6589e8c7bd21af) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [【2026年10月】Decisions APIの一般提供、エージェントの状態管理ほか \| AIスタック定点観測](https://zenn.dev/ryusenkei/articles/997e34cd1a168c) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [【2026年9月】OpenAI Agents APIの公開、サンドボックスの切り離しほか \| AIスタック定点観測](https://zenn.dev/ryusenkei/articles/3aadd569d45957) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [Claude Code、Codex、Gemini CLI を1つのターミナルで並べて回す（tmux ベースの運用メモ）](https://zenn.dev/agentmanagerdev/articles/8f32460a358bc1) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [RAGが一度も効いていなかった話](https://zenn.dev/ohgy/articles/ede0bdff101d76) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [AIエージェントにUnityを直接操作させる：Unity MCPの入れ方と、エディタ操作の自動化](https://zenn.dev/shoyomayabot/articles/unity-mcp-agent-editor) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [動かさない技術 第2回：ラッパーを使わせない技術](https://zenn.dev/garplab/articles/938997a2614b17) *(Zenn – トピック AI)*
+- [ ] 2026-11-01 [勾配降下法の仕組みと更新式の導出](https://zenn.dev/ok_ml/articles/1293efd3eb7e07) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-01 [Python機械学習の実務書5選](https://zenn.dev/komatsu_ops/articles/20261101_book_ref) *(Zenn – トピック 機械学習)*
+- [ ] 2026-10-31 [劣勾配法を自分で書く：最適解が折れ目にある、微分できない最適化問題を解く](https://zenn.dev/tmtk/articles/8f43d779edc605) *(Zenn – トピック 機械学習)*
