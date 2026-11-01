@@ -164225,3 +164225,35 @@
 - [ ] 2026-10-31 [売上0円のアプリ事業を、AIにほぼ丸ごと任せてみた（1週目）](https://zenn.dev/utengo/articles/ai-runs-my-app-business-week1) *(Zenn – トピック AI)*
 - [ ] 2026-10-31 [写真1枚から15秒の「Tiny Desk」風ライブ映像を作る小さなツールを作りました](https://zenn.dev/zaireprow/articles/a0fcd9737337bd) *(Zenn – トピック AI)*
 - [ ] 2026-10-31 [AI時代のアクセス解析 Conversational Analytics - BQMLマーケティング分析例](https://zenn.dev/zuck/articles/3bd263151306a9) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-01T02:43:22.814Z
+- [ ] 2026-10-31 [FBI Blames North Korea for $6 Billion Binance Crypto Hack](https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack) *(Bloomberg Technology)*
+- [ ] 2026-11-01 [5 expensive hobbies where owning a 3D printer actually saves you money](https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/) *(Engadget)*
+- [ ] 2026-11-01 [Amazon made the AUX input on older Alexa devices less useful](https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/) *(Engadget)*
+- [ ] 2026-10-31 [How big and powerful is SpaceX's Starship rocket?](https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/) *(Engadget)*
+- [ ] 2026-10-31 [Why your Apple AirPods' battery drains so fast and how to make it last longer](https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/) *(Engadget)*
+- [ ] 2026-10-31 [The Slate vs Ford Fathom debate might be settled by this one key tech feature](https://www.engadget.com/2300238/slate-vs-ford-fathom-android-auto-carplay-support/) *(Engadget)*
+- [ ] 2026-10-31 [4 important features you should know if you use Microsoft Teams](https://www.engadget.com/2300242/important-features-should-know-microsoft-teams/) *(Engadget)*
+- [ ] 2026-10-31 [The reason most electrical plug prongs have holes in them](https://www.engadget.com/2300248/reason-most-electrical-plug-prongs-have-holes/) *(Engadget)*
+- [ ] 2026-10-31 [5 Netflix tips we all wish we knew sooner](https://www.engadget.com/2300249/netflix-download-speeds-offline-tricks-wish-knew-sooner/) *(Engadget)*
+- [ ] 2026-10-31 [Why your Apple AirPods won't connect to your iPhone and how can you fix it](https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes/) *(Engadget)*
+- [ ] 2026-10-31 [AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明](https://www.itmedia.co.jp/news/article/2611/01/2000002776/) *(ITmedia AI＋)*
+- [ ] 2026-11-01 [AIエージェント向けの業務手順書（Agent Skills）の設計方法](https://techblog.kazaneya.com/20261030-agent-skills/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-01 [3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）](https://zenn.dev/kauche/articles/f3736c660aab77) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」](https://www.afpbb.com/articles/-/3660265) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [These hidden Windows services are hogging your CPU (and how to shut them down)](https://www.makeuseof.com/windows-services-hogging-cpu/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue](https://aws.amazon.com/security/security-bulletins/2026-160-aws/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [streamAppendHTML() で AI の回答を HTML のままストリーミング描画する](https://azukiazusa.dev/blog/stream-append-html/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [チームAnago: ISUCON2026参加記](https://imoz.jp/scraps/202610_isucon.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-10-31 [【今更聞けないLLM 後編】AIが画像を作る裏側は？Function Calling・オープンウェイト・蒸留をやさしく整理](https://zenn.dev/takumi_shida/articles/2026-11-01-zenn-llm-basics-part3-tools) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [Tech Watch 2026-11-01: 検証ループの設計](https://zenn.dev/laiken/articles/20261101-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [1つのキーで主要モデル70種に接続できるOSSのローカルAIボット「AnyModelBot」](https://zenn.dev/malachi_amb/articles/df4580505116b3) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [ローカルLLM study6: 資料作成・要約用途で、小型モデルは「形式の指示」にどこまで従うか](https://zenn.dev/tkpurine/articles/local-llm-study-006-summarization-check) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [LFM3-1.7BをVRAM 6GBで動かす：量子化3つとも全層GPU、Q4_K_M・QAD版Q4_0は約152 tok/s](https://zenn.dev/localai_lab/articles/c55ed905a6f037) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [15歳でもわかるJev その3 — 「AIの自信」は当てになるか、13行のPythonで測る](https://zenn.dev/hfujihira/articles/hf-4f8e8e041205) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [エージェントの記憶喪失を治す：OSS「Hindsight」をClaude APIに繋いで長期記憶を持たせる](https://zenn.dev/yunisuta/articles/oss-hindsight-claude-api-ai-llm-python-meq5so) *(Zenn – トピック LLM)*
+- [ ] 2026-10-31 [Claude Code の会話履歴が消える日数を4か所に別々に書いたら、--settings が勝った(既定は30日)](https://zenn.dev/numarn/articles/claude-cleanup-period-days-precedence-handson) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [「予約が止まった」理由も「漏えいはなかった」で終わった理由も ― 2つの不正アクセス事例に見る委託先管理の確認ポイント](https://zenn.dev/taichiendoh/articles/medical-reservation-outage-vendor-case-study) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [Claude Code を無人で回す仕組み一式：起動・委任・見張り・ゲート](https://zenn.dev/acerola_jp/books/claude-code-unattended-ops) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [公式のClaude拡張に裏口、約12時間。AI道具をどう守るか](https://zenn.dev/sugawara_ai/articles/ai-news-20261031) *(Zenn – トピック AI)*
+- [ ] 2026-10-31 [AI漫画制作の始め方｜使えるツールと制作の流れ](https://zenn.dev/lyra_japan/articles/a1c319363cc764) *(Zenn – トピック AI)*
