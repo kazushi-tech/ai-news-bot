@@ -164373,3 +164373,59 @@
 - [ ] 2026-11-01 [既存コードから仕様書・テストまでをつなぐ開発フローを、Codex の Agent Skills で作った話](https://zenn.dev/elletech/articles/bbadfc622f2cd2) *(Zenn – トピック AI)*
 - [ ] 2026-11-01 [拡散VLMの論文 LOWN を、LLaDA-V の実際の推論記録で遊べる3Dゲームにした](https://zenn.dev/zguo/articles/c86799626b7ece) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-01 [Kaggle RSNA 膝MRIコンペで銅メダル：やって良かったこと・やらなきゃ良かったこと](https://zenn.dev/hazy_viper/articles/rsna-knee-2026-bronze) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-02T02:51:50.133Z
+- [ ] 2026-11-02 [Police use facial recognition to scan one million faces in WA trial leading to 122 arrests](https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-01 [Prisons Using AI to Predict When Incarcerated People Will Commit Future Crimes](https://futurism.com/artificial-intelligence/prisons-ai-prediction-incarceration-algorithm) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-01 [Microsoft Patents an AI That Can Literally Put Words in People’s Mouths in Real Time](https://futurism.com/artificial-intelligence/microsoft-patents-ai-words-in-peoples-mouths) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-01 [New Data Centers in the US Set to Wipe Out 15 Years of Greenhouse Gas Reductions](https://futurism.com/artificial-intelligence/data-centers-us-greenhouse-gas-reductions-emissions) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-01 [Trump Living in Alternate World of AI Slop, Insiders Say](https://futurism.com/artificial-intelligence/trump-alternate-world-ai-slop) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-01 [Innocent People Are Being Accused of Shoplifting by Faulty AI-Facial Recognition Systems at an Alarming Rate](https://futurism.com/future-society/ai-facial-recognition-innocent-shoplifting-uk) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-02 [AI translation sounds convincing, but it can be riddled with hidden errors](https://theconversation.com/ai-translation-sounds-convincing-but-it-can-be-riddled-with-hidden-errors-294686) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-02 [Macquarie Executive Sees AI Fast-Tracking Junior Analyst Careers](https://www.bloomberg.com/news/articles/2026-11-02/macquarie-executive-sees-ai-fast-tracking-junior-analyst-careers) *(Bloomberg Technology)*
+- [ ] 2026-11-02 [UBS Asia Wealth Chair: Hiring Selectively Amid Growth](https://www.bloomberg.com/news/videos/2026-11-02/ubs-asia-wealth-chair-hiring-selectively-amid-growth-video) *(Bloomberg Technology)*
+- [ ] 2026-11-02 [Capital Group: Will Open Mideast Office in November](https://www.bloomberg.com/news/videos/2026-11-02/capital-group-will-open-mideast-office-in-november-video) *(Bloomberg Technology)*
+- [ ] 2026-11-02 [Singapore’s STTGDC Eyes $2.4 Billion Loan, Adds to AI Debt Binge](https://www.bloomberg.com/news/articles/2026-11-02/singapore-s-sttgdc-eyes-2-4-billion-loan-adds-to-ai-debt-binge) *(Bloomberg Technology)*
+- [ ] 2026-11-02 [Kioxia Shares Sink After Outlook Shows Demand Leveling Off](https://www.bloomberg.com/news/articles/2026-11-02/kioxia-shares-tumble-after-outlook-suggests-demand-leveling-off) *(Bloomberg Technology)*
+- [ ] 2026-11-02 [The Music Industry’s $20 Billion Public Market Problem](https://www.bloomberg.com/news/newsletters/2026-11-02/the-music-industry-s-20-billion-public-market-problem) *(Bloomberg Technology)*
+- [ ] 2026-11-02 [How long is a new Apple TV actually supposed to last?](https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/) *(Engadget)*
+- [ ] 2026-11-02 [6 Google Maps features that work better on Android Auto vs. CarPlay](https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay/) *(Engadget)*
+- [ ] 2026-11-02 [How to add and rearrange apps on your Samsung smart TV](https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv/) *(Engadget)*
+- [ ] 2026-11-02 [Android Auto could upset your work-life balance with its next update](https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/) *(Engadget)*
+- [ ] 2026-11-02 [10 iPad widgets you probably didn't realize existed](https://www.engadget.com/2299525/ipad-widgets-didnt-realize-existed/) *(Engadget)*
+- [ ] 2026-11-02 [AI glasses can replace your prescription glasses, but should they?](https://www.engadget.com/2300320/ai-glasses-replace-prescription-should-they/) *(Engadget)*
+- [ ] 2026-11-01 [How using one earbud more than the other can cause uneven wear and tear](https://www.engadget.com/2301054/using-one-earbud-more-than-other-cause-uneven-wear-and-tear/) *(Engadget)*
+- [ ] 2026-11-01 [This is the right way to clean your vinyl records](https://www.engadget.com/2300311/this-is-the-right-way-to-clean-your-vinyl-records/) *(Engadget)*
+- [ ] 2026-11-01 [How to clean your PlayStation 5 without damaging it](https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/) *(Engadget)*
+- [ ] 2026-11-01 [Which Samsung S Pens can be located using SmartThings Find?](https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find/) *(Engadget)*
+- [ ] 2026-11-02 [TCPの役割と動作を押さえる](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/071500225/101900016/) *(日経クロステック IT)*
+- [ ] 2026-11-02 [マルチキャスト](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900172/101900038/) *(日経クロステック IT)*
+- [ ] 2026-11-02 [eSIMって何？](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800014/101900113/) *(日経クロステック IT)*
+- [ ] 2026-11-02 [ChatGPTの「Chat」と「Work」統合へ　利用制限はCodexと共通化](https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/) *(ITmedia AI＋)*
+- [ ] 2026-11-02 [建設現場の「古い図面」問題　紙とデジタルのズレが招く「手戻り」と「工事遅延」、日本HPはどう解消した？](https://www.itmedia.co.jp/business/articles/2611/02/news006.html) *(ITmedia AI＋)*
+- [ ] 2026-11-01 [Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃](https://www.itmedia.co.jp/news/article/2611/02/2000002777/) *(ITmedia AI＋)*
+- [ ] 2026-11-01 [「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX](https://www.itmedia.co.jp/business/articles/2611/02/news003.html) *(ITmedia AI＋)*
+- [ ] 2026-11-01 [キオクシア「設備投資を急がねば……」　2027年分は完売、メモリ供給追い付くか](https://www.itmedia.co.jp/business/articles/2611/02/news031.html) *(ITmedia AI＋)*
+- [ ] 2026-11-01 [その日、メルカリは「業務を止めた」――上司と部下が対立も、AI利用率100％をかなえたCAIOの奮闘記](https://www.itmedia.co.jp/business/articles/2611/02/news032.html) *(ITmedia AI＋)*
+- [ ] 2026-11-01 [オラクルの機能がChatGPTで利用可能に　複数システムをまたぐ業務をAIで自動化](https://kn.itmedia.co.jp/kn/article/2611/02/2000002740/) *(ITmedia AI＋)*
+- [ ] 2026-11-02 [クラウドが状態を把握してもIaCがなくならない理由 - YAMAGUCHI::weblog](https://ymotongpoo.hatenablog.com/entry/2026/11/02/093500) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-02 [【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし](https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-02 [米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み解く巨額AI投資の“台所事情”](https://www.itmedia.co.jp/pcuser/articles/2611/02/news029.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-02 [GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026](https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-02 [音楽で遊んでみた](https://ongaku-de-asonde-mita.gedousan.chatgpt.site/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-02 [アップル、Chromeを名指しで挑発。「Safariは あなたを守る、Chromeは あなたを晒す」 - すまほん!!](https://smhn.info/202611-apple-switch-to-safari-campaign-targets-chrome) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-02 [Amazon ECS の新機能 「ECS Gateway」 を試してみた \| DevelopersIO](https://dev.classmethod.jp/articles/try-amazon-ecs-gateway/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-02 [GMO熊谷社長、きょう記者会見　不正アクセス対策なぜ後手に - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC010M10R01C26A1000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-02 [誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除](https://gigazine.net/news/20261102-adguard-adblocking/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-02 [遊んでいるNPUにWindowsのデスクトップ描画を任せるドライバ登場。ただし遅い](https://pc.watch.impress.co.jp/docs/news/2152950.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-01 [Tech Watch 2026-11-02: 実行境界と信頼の証明](https://zenn.dev/laiken/articles/20261102-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [LLMを使ったシステムの品質担保をQATで自動化してみた](https://zenn.dev/koyasama/articles/llm-qat-model-migration) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [常駐型AIエージェントが連携ツールの一部障害でも「できることだけは止めない」設計](https://zenn.dev/hach/articles/chat-agent-partial-tool-outage-degradation-design) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [ダウンロードもロードもできるのに0問しか解けない。Ollama公式タグの量子化崖を自分のデータ再集計で確かめた](https://zenn.dev/matsushima_a/articles/day-033-quantized-llm-cliff) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [ベクトル検索だけでは足りない ― ハイブリッド検索とCrossEncoder再ランキングの実装手順](https://zenn.dev/johnny1024/articles/3ecdf0573f5d73) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [RAGのチャンキング戦略を比較する ― 固定長・再帰的・意味的分割と「親子チャンク」](https://zenn.dev/johnny1024/articles/93201cb4461da6) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [AIにミステリを書かせるなら、書き手に真相を教えない ― 知覚の投影で「嘘をつかない錯誤」を作る](https://zenn.dev/infra_ojisan/articles/ai-novel-studio-part7) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [Clover-35B-A3B-Preview試用記：気になったのはGPUなしでの使い道](https://zenn.dev/gsun/articles/12e6aee2ecda07) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [生成AIが書いたGAS/VBAのレビュー観点チェックリスト](https://zenn.dev/rakuwork_kobo/articles/ai-written-gas-vba-review-checklist) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [Amazon Bedrock の構造化出力を破壊しようとしてみた（失敗）](https://zenn.dev/aws_japan/articles/bedrock-structured-outputs-adversarial) *(Zenn – トピック LLM)*
+- [ ] 2026-11-01 [Agentic AI 時代におけるオントロジー入門](https://zenn.dev/daichidev/books/ontology-for-agentic-ai) *(Zenn – トピック LLM)*
