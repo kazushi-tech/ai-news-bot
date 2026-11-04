@@ -165151,3 +165151,479 @@
 - [ ] 2026-11-03 [平均エラー率が同じでも、AIの間違いが怖い理由をシミュレーションで確かめる](https://zenn.dev/shisei_kbrg322/articles/e4808f04b8e8be) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-03 [チューリングテストとは？AIの知性を測る古典的概念](https://zenn.dev/h888s/articles/gtest-turing-test) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-03 [失業率の予測をどう評価し、どう疑ったか：「前月の値」という相手と、公表のタイミング](https://zenn.dev/takayuki0127/articles/71f2cb119c0b15) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-04T13:19:03.990Z
+- [ ] 2026-11-04 [Very good boys? The dark, dystopian rise of robot dogs \| Arwa Mahwadi](https://www.theguardian.com/commentisfree/2026/nov/04/robot-dogs-ice-dimensional-warhound) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-04 [Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure](https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-03 [US tech stocks recover after selloff spooks investors over AI spending](https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-03 [AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-03 [Google says there’s no way to use Search without using artificial intelligence](https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-03 [Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’](https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-03 [Cold war? Why are fridges being hacked and what could be next? - The Latest](https://www.theguardian.com/news/audio/2026/nov/03/cold-war-why-are-fridges-being-hacked-and-what-could-be-next-the-latest) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-03 [Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them \| Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/nov/03/datacentres-are-deeply-unpopular-so-the-geniuses-at-openai-are-rebranding-them) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-03 [Bakers and cake lovers: have you used AI for inspiration?](https://www.theguardian.com/food/2026/nov/03/bakers-and-cake-lovers-have-you-used-ai-for-inspiration) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-03 [Here’s Why You Shouldn’t Use AI to Vote](https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-04 [Former Meta Exec Shreds the Company’s Muse AI Agent as “Insane” Privacy Risk](https://futurism.com/artificial-intelligence/former-meta-exec-shreds-muse-ai-agent) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-03 [OpenAI Wants to Change the Name of Data Centers to the Stupidest Thing You’ve Ever Heard in Your Life](https://futurism.com/artificial-intelligence/openai-change-name-data-centers) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-03 [Sam Altman Crows That AI Is Now Smarter Than the Brightest Human Scientists](https://futurism.com/artificial-intelligence/sam-altman-crows-that-ai-is-now-smarter-than-the-brightest-human-scientists) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-03 [Anthropic Debuts Tool for Your Boss to Spy on Your Claude Chats](https://futurism.com/artificial-intelligence/anthropic-claude-surveillance-ai-chats-reports) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-03 [There’s a Dark Reason So Many Celebrities Are Subjugating Themselves to AI](https://futurism.com/artificial-intelligence/dark-reasons-celebrities-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-03 [Google Announces It’s Shutting Off Search Engine Access for Schools That Ban AI](https://futurism.com/future-society/google-search-engine-access-schools-ban-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-03 [There Are Now Growing Signs That AI Is Hurting Employment in the Job Market](https://futurism.com/future-society/ai-hurting-labor-employment-automation-software) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-03 [Did Haley Stevens Use AI to Write Her Blog Post About Her Controversial Endorsement?](https://futurism.com/artificial-intelligence/haley-stevens-ai-post) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-04 [When social media no longer needs people, what does the ‘social’ part mean?](https://theconversation.com/when-social-media-no-longer-needs-people-what-does-the-social-part-mean-275936) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-03 [Jonathan Swift foresaw the pitfalls of AI in Gulliver’s Travels](https://theconversation.com/jonathan-swift-foresaw-the-pitfalls-of-ai-in-gullivers-travels-295594) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-03 [Elon Musk: Grok Bot Costs Are ‘Unsustainable’ as Usage Limits Tighten](https://www.techrepublic.com/article/news-spacex-grok-bot-usage-limits-ai-costs/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-03 [Clear the Clutter and Speed Up Your iPhone with This Low-Cost Tool](https://www.techrepublic.com/article/cleaner-kit/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-03 [Early Black Friday 2026: 8 Tech Deals Available Now](https://www.techrepublic.com/article/news-early-black-friday-2026-tech-deals/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-03 [How a Kenyan Startup Is Rethinking AI for Small Businesses](https://spectrum.ieee.org/ai-small-business-mobile-money-startup) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-11-04 [7 Small Specialist Models That Beat Giant LLMs at One Job](https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job) *(KDnuggets)*
+- [ ] 2026-11-03 [Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM](https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm) *(KDnuggets)*
+- [ ] 2026-11-04 [Bengaluru Accounts for 34% of India's FDE Talent: Report](https://analyticsindiamag.com/ai-news/bengaluru-accounts-for-34-of-indias-fde-talent-report) *(Analytics India Magazine)*
+- [ ] 2026-11-04 [84% See AI Productivity Gains, but Only 10% Allow Agent Autonomy: TCS Study](https://analyticsindiamag.com/ai-news/84-see-ai-productivity-gains-but-only-10-allow-agent-autonomy-tcs-study) *(Analytics India Magazine)*
+- [ ] 2026-11-04 [Snowflake Introduces Business Ontology, Cortex AI Gateway to Bring AI Agents Into Enterprise Workflows](https://analyticsindiamag.com/ai-news/snowflake-introduces-business-ontology-cortex-ai-gateway-to-bring-ai-agents-into-enterprise-workflows) *(Analytics India Magazine)*
+- [ ] 2026-11-04 [When Sam Became Ram Ahead of Diwali](https://analyticsindiamag.com/ai-trends/when-sam-became-ram-ahead-of-diwali) *(Analytics India Magazine)*
+- [ ] 2026-11-04 [Three Members Behind Claude Code Leave Anthropic Within 10 Days](https://analyticsindiamag.com/ai-news/three-members-behind-claude-code-leave-anthropic-within-10-days) *(Analytics India Magazine)*
+- [ ] 2026-11-04 [Happiest Minds Q2 Revenue Rises 12.5%; AI Revenue Figure Remains Undisclosed](https://analyticsindiamag.com/ai-news/happiest-minds-q2-revenue-rises-125-ai-revenue-figure-remains-undisclosed) *(Analytics India Magazine)*
+- [ ] 2026-11-04 [Sarvam AI Launches Prism, a Jev-Like Decision Model Built on Sarvam 105B](https://analyticsindiamag.com/ai-news/sarvam-ai-launches-prism-a-jev-like-decision-model-built-on-sarvam-105b) *(Analytics India Magazine)*
+- [ ] 2026-11-04 [Canva to Lay Off 1,271 Employees, 22% of Workforce to Be Affected](https://analyticsindiamag.com/ai-news/canva-to-lay-off-1271-employees-22-of-workforce-to-be-affected) *(Analytics India Magazine)*
+- [ ] 2026-11-04 [IndiaAI Mission Releases 3 Indigenous AI Models Developed by Soket, ZenteiQ](https://analyticsindiamag.com/ai-news/indiaai-mission-releases-3-indigenous-ai-models-developed-by-soket-zenteiq) *(Analytics India Magazine)*
+- [ ] 2026-11-03 [Coforge Is Outgrowing Its Larger Rivals. Is AI the Reason?](https://analyticsindiamag.com/it-services/coforge-is-outgrowing-its-larger-rivals-is-ai-the-reason) *(Analytics India Magazine)*
+- [ ] 2026-11-04 [Meta Gets Record €53 Billion of Orders for Debut Euro Bonds](https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Waymo Co-CEO Says Uber App Deal Was ‘Crapshoot’ for Riders](https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Waymo’s Bet on a Driverless Future](https://www.bloomberg.com/news/videos/2026-11-04/waymo-s-bet-on-a-driverless-future-video) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Vauban Seeks More Investments in European District Heating, Fiber, Data Centers](https://www.bloomberg.com/news/articles/2026-11-04/vauban-eyes-more-deals-in-european-district-heating-fiber-grids-data-centers) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [HP Names Emma Walmsley as New CEO, Ending Monthlong Search](https://www.bloomberg.com/news/articles/2026-11-04/hp-names-emma-walmsley-as-new-ceo-ending-monthlong-search) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Bloomberg Tech London Event: Looking Ahead to Balance of Power After US Midterms](https://www.bloomberg.com/news/newsletters/2026-11-04/bloomberg-tech-london-event-looking-ahead-to-balance-of-power-after-us-midterms) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Wayfair Growth Hits Post-Pandemic High on US Market Share Gains](https://www.bloomberg.com/news/articles/2026-11-04/wayfair-growth-hits-post-pandemic-high-on-us-market-share-gains) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Cyberattackers Drain Money From French Bank Credit Mutuel Arkea](https://www.bloomberg.com/news/articles/2026-11-04/cyberattackers-drain-money-from-french-bank-credit-mutuel-arkea) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Democrats’ Midterm Wins Threaten to Slow the AI Data Center Boom](https://www.bloomberg.com/news/newsletters/2026-11-04/democrats-midterm-wins-threaten-to-slow-the-ai-data-center-boom) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [M&S Shrugs Off Costs as Sales Bounce Back From Cyber Hit](https://www.bloomberg.com/news/articles/2026-11-04/m-s-grocery-sales-bounce-back-after-last-year-s-cyberattack) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [How Markets Reacted to Democrats’ Win: Stocks U-Turn, Gold Gains](https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Thai Spyware Alerts on Opposition Leaders’ Phones Prompt Demands for Probe](https://www.bloomberg.com/news/articles/2026-11-04/thai-spyware-alerts-on-opposition-leaders-phones-prompt-demands-for-probe) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Google to Spend $15 Billion in Malaysia Data Center Expansion](https://www.bloomberg.com/news/articles/2026-11-04/google-to-spend-15-billion-in-malaysia-data-center-expansion) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Oaktree Data Center Firm Pure Secures Up to $1.9 Billion in Debt](https://www.bloomberg.com/news/articles/2026-11-04/oaktree-data-center-firm-pure-secures-up-to-1-9-billion-in-debt) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Dip Buyers Emerge for Tech Stocks as Traders Look Past Midterms](https://www.bloomberg.com/news/articles/2026-11-04/tech-awaits-next-leg-up-after-confronting-midterms-taking-stock) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Tencent Declares Latest AI Model Ranks Among China’s Best](https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow](https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Semight Is Said to Tap Citic, Goldman, JPMorgan for Hong Kong Listing](https://www.bloomberg.com/news/articles/2026-11-04/semight-is-said-to-tap-citic-goldman-jpmorgan-for-hong-kong-listing) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Vietnamese Tech Firm VNG Is Said to Consider Reviving US Listing](https://www.bloomberg.com/news/articles/2026-11-04/vietnamese-tech-firm-vng-is-said-to-consider-reviving-us-listing) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered](https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Get a load of Excel’s new multi-value cells](https://www.computerworld.com/article/4244163/get-a-load-of-excels-new-multi-value-cells.html) *(Computerworld)*
+- [ ] 2026-11-04 [Journify Raises $12M Series A Amid 5x Growth](https://www.computerworld.com/article/4244323/journify-raises-12m-series-a-amid-5x-growth-2.html) *(Computerworld)*
+- [ ] 2026-11-03 [Apple’s Q4 results show the enterprise tide turning to local AI](https://www.computerworld.com/article/4243990/apples-q4-results-show-the-enterprise-tide-turning-to-local-ai.html) *(Computerworld)*
+- [ ] 2026-11-03 [Google’s first AI data center in space is up and running](https://www.computerworld.com/article/4244229/googles-first-data-center-in-space-is-up-and-running.html) *(Computerworld)*
+- [ ] 2026-11-04 [Apple Music's upcoming feature will let you record yourself doing karaoke](https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/) *(Engadget)*
+- [ ] 2026-11-04 [The Legend of Zelda: Ocarina of Time review: A masterpiece reborn](https://www.engadget.com/2305825/the-legend-of-zelda-ocarina-of-time-review/) *(Engadget)*
+- [ ] 2026-11-04 [Binance attackers used fake job interviews to pull off $6.3 billion crypto heist](https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/) *(Engadget)*
+- [ ] 2026-11-04 [Valve just changed its Steam release rules amid a flood of AI games](https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/) *(Engadget)*
+- [ ] 2026-11-04 [iPad mini OLED vs. iPad mini: What's new?](https://www.engadget.com/2303546/ipad-mini-oled-vs-ipad-mini-comparison/) *(Engadget)*
+- [ ] 2026-11-04 [Your phone's apps could have more permissions than they need – here's how to check](https://www.engadget.com/2300670/phone-apps-more-permissions-than-needed-how-to-check/) *(Engadget)*
+- [ ] 2026-11-04 [Your desktop's front USB ports may be slowing down every device you plug into them](https://www.engadget.com/2304285/desktop-front-usb-port-slowing-down-every-device/) *(Engadget)*
+- [ ] 2026-11-03 [Arkane and its Blade game may end up at Ubisoft as Xbox considers offers](https://www.engadget.com/2306118/arkane-and-its-blade-game-may-end-up-at-ubisoft-as-xbox-considers-offers/) *(Engadget)*
+- [ ] 2026-11-03 [What made Nothing's CMF Phone 2 Pro so much cheaper than others?](https://www.engadget.com/2300613/nothing-cmf-phone-2-pro-why-so-much-cheaper/) *(Engadget)*
+- [ ] 2026-11-03 [NVIDIA's controversial DLSS 5 is coming to RTX Remix to 'enhance' older games](https://www.engadget.com/2306095/nvidia-dlss-5-update-rtx-remix-enhance-older-games/) *(Engadget)*
+- [ ] 2026-11-03 [Here's how to adjust Apple AirPods for small ears](https://www.engadget.com/2300409/how-adjust-apple-airpods-for-small-ears/) *(Engadget)*
+- [ ] 2026-11-03 [Meta's Quest 2 and Quest Pro reach 'end of feature development'](https://www.engadget.com/2306079/meta-quest-2-and-quest-pro-reach-end-of-feature-development/) *(Engadget)*
+- [ ] 2026-11-03 [Reddit is testing in-app search ads as traffic from Google declines](https://www.engadget.com/2305984/reddit-is-testing-search-ads-as-traffic-from-google-declines/) *(Engadget)*
+- [ ] 2026-11-03 [What type of battery does the Slate Truck use?](https://www.engadget.com/2303044/slate-battery-type-different-plans-before-debut/) *(Engadget)*
+- [ ] 2026-11-03 [Sonos' new voice assistant is launching in early access on November 6](https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/) *(Engadget)*
+- [ ] 2026-11-03 [Netflix thinks AI might save you from scrolling aimlessly for something to watch](https://www.engadget.com/2305778/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/) *(Engadget)*
+- [ ] 2026-11-03 [Don't throw away your laptop's old SSDs — do this instead](https://www.engadget.com/2300270/dont-throw-away-your-laptop-old-ssd-do-this-instead/) *(Engadget)*
+- [ ] 2026-11-03 [Itch.io adds a filter for games with gen AI disclosures](https://www.engadget.com/2305699/itchio-adds-a-filter-for-games-with-gen-ai-disclosures/) *(Engadget)*
+- [ ] 2026-11-03 [How to use your phone to find hidden cameras](https://www.engadget.com/2300439/how-to-use-phone-find-hidden-cameras/) *(Engadget)*
+- [ ] 2026-11-03 [Razer unveils the Raiju V3 Pro Signature Edition PS5 controller](https://www.engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/) *(Engadget)*
+- [ ] 2026-11-03 [Accelerating engineering for the physical world](https://openai.com/index/accelerating-engineering-for-the-physical-world) *(OpenAI News)*
+- [ ] 2026-11-03 [How Cisco defends at machine speed with OpenAI](https://openai.com/index/cisco-cyber) *(OpenAI News)*
+- [ ] 2026-11-03 [OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer) *(OpenAI News)*
+- [ ] 2026-10-28 [Evernote turns AI-driven discovery into paid subscriptions](https://openai.com/ads/customers/evernote) *(OpenAI News)*
+- [ ] 2026-11-03 [StateBench: Testing how language models track state changes over long documents](https://huggingface.co/blog/allenai/statebench) *(Hugging Face Blog)*
+- [ ] 2026-11-03 [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building) *(Hugging Face Blog)*
+- [ ] 2026-11-03 [CWE-bench v2: More coverage, quality, and transparency](https://huggingface.co/blog/cwe-bench) *(Hugging Face Blog)*
+- [ ] 2026-11-04 [Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering](https://arxiv.org/abs/2303.12212) *(arXiv cs.LG (Machine Learning))*
+- [ ] 2026-11-04 [From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings](https://arxiv.org/abs/2611.00172) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [MEMENTO: Learning Context Management for Long Context Processing Agents](https://arxiv.org/abs/2611.00244) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Cross-Lingual Persona Effects in LLM Negotiation](https://arxiv.org/abs/2611.00300) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [GAVAGAI: Referential Alignment for Infant-Scale Vision-Language Models via Balanced Optimal Transport](https://arxiv.org/abs/2611.00319) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Queering the Audits: Community-Based Auditing of AI Harms to Queer Communities](https://arxiv.org/abs/2611.00345) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Cross-Prompt Reuse of Entity-Replacement Responses](https://arxiv.org/abs/2611.00352) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers](https://arxiv.org/abs/2611.00359) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries](https://arxiv.org/abs/2611.00420) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Fidelity Collapses with Table Size, Not Turn Count: Delivery Architecture in a Deployed Tool-Using Agent](https://arxiv.org/abs/2611.00442) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory](https://arxiv.org/abs/2611.00450) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Steering Readerly Dynamics: Trajectory-Guided Story Generation with Large Language Models](https://arxiv.org/abs/2611.00469) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Spotting the Artificial: Dialogic Humor Improvisation in Humans and LLMs](https://arxiv.org/abs/2611.00492) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [AStockArena: Beyond Returns, Can We Entrust Real Capital to the Decisions of Financial Agents?](https://arxiv.org/abs/2611.00515) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Dual-Axis Policy Entailment: A Benchmark for Policy-Change Reasoning](https://arxiv.org/abs/2611.00536) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Distinguishing among reasoning levels of GPT 5.5 Pro via a grammar lens benchmark](https://arxiv.org/abs/2611.00555) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [From Apparent Search Gains to Selection Failures: Auditing Test-Time Inference in Structured Workflow Planning](https://arxiv.org/abs/2611.00579) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Saidzoda-Tajik-E5-Large: Fine-Tuning a 560M Embedder for Tajik Retrieval](https://arxiv.org/abs/2611.00592) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Multi-Estimate Elicitation Does Not Uniformly Debias Language Model Judgments](https://arxiv.org/abs/2611.00597) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://arxiv.org/abs/2611.00616) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [ElectroChemLLM: A Multimodal LLM Pipeline for High-Fidelity Electrochemical Informatics](https://arxiv.org/abs/2611.00638) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Audit at the Precision You Deploy: Quantization Reshapes a Subliminally Learned Preference](https://arxiv.org/abs/2611.00665) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Precedent Labels and Facts Shift LLM Approval Decisions in Opposite Directions](https://arxiv.org/abs/2611.00672) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Constructing Budgeted KGW Evasion through Token-Event Evidence Replacement](https://arxiv.org/abs/2611.00726) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [DuSE-Bench: Benchmarking Joint Reasoning over Evolving Dialogue and Documents](https://arxiv.org/abs/2611.00755) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [CheXPoT: Post-Hoc Visual Verification and Correction of VLM-Generated Radiology Reports](https://arxiv.org/abs/2611.00785) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Steer, Don't Tell: Breaking Reasoning Plateaus with Reachability-Aligned Self-Distillation](https://arxiv.org/abs/2611.00796) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Adaptive-Policy Distillation: Knowledge Injection under Information Asymmetry](https://arxiv.org/abs/2611.00852) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [ShiftRAG: Bypassing the Textual Bottleneck via Decoupled Learning and Continuous Soft Tokens](https://arxiv.org/abs/2611.00871) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [What Breaks and What Comes Back: Capability Damage and Recovery in Depth-Pruned Small Language Models](https://arxiv.org/abs/2611.00877) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](https://arxiv.org/abs/2611.00883) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [S1CogBench: What System One Decision Models Can and Cannot Do on Cognitive Experiments](https://arxiv.org/abs/2611.00911) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Labadain-MedQA: A Tetun Medical QA Dataset for Fine-Tuning and Evaluating Large Language Models](https://arxiv.org/abs/2611.00935) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Reformulation and Equivalence of Bock's Algorithm for Exact Dependency Parsing](https://arxiv.org/abs/2611.00939) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Self-Refining Prompt Induction for Streaming Text-to-SQL](https://arxiv.org/abs/2611.00960) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [A Token Is Not a Unit of Difficulty: Segmentation Controls Where Adaptive Computation Goes Inside a Word](https://arxiv.org/abs/2611.00983) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [HALO: Hierarchical Evidence Selection and Reinforcement Learning for Allocating Budgeted Label Optimization from Longitudinal Clinical Records](https://arxiv.org/abs/2611.00986) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Label Smoothing in Disguise? Gated Knowledge Distillation for Low-Resource Bangla Generation](https://arxiv.org/abs/2611.01065) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [CogRSI: Evolving and Auditing Cognitive Reasoning Strategies](https://arxiv.org/abs/2611.01113) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [CompSkill: Compiling Execution Experience for Skill Retrieval](https://arxiv.org/abs/2611.01115) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Do Earnings Calls Help Predict Financial Restatements? Evaluating Text Beyond Public Firm Information](https://arxiv.org/abs/2611.01123) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Rethinking LLM Pruning via Test-Time Scaling](https://arxiv.org/abs/2611.01133) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [GSLM2: Multi-Stream Speech Representation Learning and Generative Spoken Language Modeling](https://arxiv.org/abs/2611.01143) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [ArSciKids: Arabic Curriculum-Aligned Datasets for Scientific Experiment and Multiple-Choice Question Generation in Primary Education](https://arxiv.org/abs/2611.01191) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [The Brittle Compass: Navigating LLM Prompt Sensitivity in Slovak Migration Media Discourse](https://arxiv.org/abs/2611.01219) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [MedAstra: ASR-less Speech Retrieval with Diagnostic Grounding for Medical QA](https://arxiv.org/abs/2611.01261) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [EZ-Ar-VC: Robust Arabic Voice Anonymization with Generalization across Dialects and Code-Switching](https://arxiv.org/abs/2611.01268) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Character-Name Concentration in LLM Fiction: Measuring Displacement and Mitigating Repetition](https://arxiv.org/abs/2611.01284) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [CuriousTogether: Implications of Curiosity and Cultural Grounding in Multi-Agent LLM Interactions](https://arxiv.org/abs/2611.01301) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [When LLMs Modify Themselves: Convergence, Values, and Stopping in Iterative Self-Improvement](https://arxiv.org/abs/2611.01304) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference](https://arxiv.org/abs/2611.01320) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Sentiment sensing: comparative analysis of multilingual sentiment dynamics](https://arxiv.org/abs/2611.01348) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Wrong Together: Shared Bias in User Simulation](https://arxiv.org/abs/2611.01354) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Interpreting Classical Readability Formulae as Surprisal](https://arxiv.org/abs/2611.01359) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [XDecideBench: Evaluating Typed Decision Models and Confidence Policies Across Languages](https://arxiv.org/abs/2611.01370) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Information-Theoretic Design of Sparse Autoencoder-Based Steering](https://arxiv.org/abs/2611.01378) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [RAG-TRACE: Tracing Measurement Evidence and Diagnostic Completeness in AI-Generated ECG Reports](https://arxiv.org/abs/2611.01409) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Latent Harness: Compiling Agent Behaviors into Post-Block Activation Shifts](https://arxiv.org/abs/2611.01415) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [FlyWheel: Attention Kernels Built for the TPU](https://arxiv.org/abs/2611.01426) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Towards Fine-grained and Robust Detection of Human-AI Co-authorship](https://arxiv.org/abs/2611.01427) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Accounting for Irregular State Transitions through Belief Estimation in Online Medical Consultation](https://arxiv.org/abs/2611.01474) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [TopoSteer: Topological Layer Selection for Activation Steering in LLMs](https://arxiv.org/abs/2611.01493) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Write Facts the Way Models Read Them: Lifting the Two-Hop Curse](https://arxiv.org/abs/2611.01519) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [The Structure of Disagreement in Emotion Annotation](https://arxiv.org/abs/2611.01539) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Revisiting LLM Homogeneity Through a Multidimensional Lens](https://arxiv.org/abs/2611.01549) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Can Large Language Models Extend Their Agentic Capabilities to Goal Pursuit in Open-Ended Multi-Turn Interaction?](https://arxiv.org/abs/2611.01552) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Halal-NeSyNet: Clause-Scoped Neuro-Symbolic Cross-Attention for Automated Food Ingredient Auditing and Risk-Aware Halal Logistics Triage](https://arxiv.org/abs/2611.01612) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [FinForesight: A Diagnostic Backtesting Benchmark for Deep Research Systems in Financial Forecasting](https://arxiv.org/abs/2611.01621) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [BanglishDepYT: Depression Detection in Native Bengali Social Media with Emotion-Preserving Preprocessing and Domain-Adaptive Pretraining](https://arxiv.org/abs/2611.01633) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [EEG-HealthLLM: Hierarchical Adaptation of Large Language Models for Unified Heterogeneous EEG Health Assessment](https://arxiv.org/abs/2611.01652) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [CST: Lightweight Risk Triage with Source-Grounded Evidence for Web Discussions](https://arxiv.org/abs/2611.01710) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [EarlySelectKV: Anticipatory KV Selection via Cross-Layer Query Proxies](https://arxiv.org/abs/2611.01715) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Less but Sufficient: Relation Knowledge Selects Compact Knowledge-Graph Contexts, and What External Checks Can and Cannot Catch](https://arxiv.org/abs/2611.01733) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [A Bounded Evaluation Protocol for Representational Systematicity](https://arxiv.org/abs/2611.01755) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [MemRole: From Memories to Decisions for Long-Horizon Reasoning in Role-Playing Agents](https://arxiv.org/abs/2611.01778) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Shared relations, specific choices: conditional sensitivity and competing pathways in language models](https://arxiv.org/abs/2611.01809) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [LegoEnv: Self-Evolving Agentic Environments via Modular Recombination](https://arxiv.org/abs/2611.01834) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Don't Guess, Ask Wisely: Benchmarking and Training Proactive Elicitation in Open-Domain LLM Conversations](https://arxiv.org/abs/2611.01878) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [TAC-CoT: Tool-Empowered Implicit Chain-of-Thought via Interleaving Explicit Tokens](https://arxiv.org/abs/2611.01926) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Tracing How Language Models Integrate Temporal Anchors into Factual Recall](https://arxiv.org/abs/2611.01945) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Towards Self-Evolving Narrative Systems: Real-Time Adaptation and Long-Term Optimization with LLMs](https://arxiv.org/abs/2611.01954) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Better Answers, Weaker Evidence Control: Evidence Bypass in On-Policy Distillation](https://arxiv.org/abs/2611.01967) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [TrackMem: Tracking Evolving Beliefs in Long-Horizon Financial Dialogue](https://arxiv.org/abs/2611.02001) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Retrieval-Enhanced Cultural Evaluation for Social Media Translation Training](https://arxiv.org/abs/2611.02009) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [MedPsy: State-of-the-Art Small Medical Language Models for Efficient Edge Deployment](https://arxiv.org/abs/2611.02011) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Scaling Makes It Possible: How Large Models Master Impossible Languages](https://arxiv.org/abs/2611.02015) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Switch-SWE: Do Coding Agents Hold Focus When Switching Between Unfinished Tasks?](https://arxiv.org/abs/2611.02017) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [CULTURE-CMT: Benchmarking Contextualized Social Media Translation](https://arxiv.org/abs/2611.02018) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [How Green Is Your Manifesto? Scoring Environmental Positions in the 2024 EU Elections with an LLM Panel](https://arxiv.org/abs/2611.02033) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Consolidating Reasoning with Test-Time Training](https://arxiv.org/abs/2611.02104) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [FOLLIE: Automated Reasoning over the First Dataset of Sentences with their First-Order Logical Representation for French](https://arxiv.org/abs/2611.02129) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [HaloGuard 2.0: An Open-Weights Constitutional Output Guard for Multilingual Response Safety](https://arxiv.org/abs/2611.02134) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [GatedV: Self-Gated Values for Transformer Language Models](https://arxiv.org/abs/2611.02145) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Detailed Derivation of The Backpropagation Algorithm](https://arxiv.org/abs/2611.02152) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Multi-Agent Collusion and the J-Space](https://arxiv.org/abs/2611.02153) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Decision Models as Policy Gates for Coding Agents: Explicit Policy Boundaries Improve Detection and Reduce False Alarms](https://arxiv.org/abs/2611.02155) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Can AI Reviewers See Your Efforts to Improve Your Paper? A Large-Scale Study of Paper Revision Trajectories](https://arxiv.org/abs/2611.02244) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Current state of LLMs for Arabic dialectal machine translation](https://arxiv.org/abs/2611.02271) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [GRIPS: An Empirical Study of Pre-SQL Grounding Information for SQL Generation](https://arxiv.org/abs/2611.02314) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [A Capitulation Direction Emerges With Scale and Is Causally Load-Bearing Where Validation Is Strong: Eight Models, Two Families, and Five Measurement Hazards](https://arxiv.org/abs/2611.02318) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Outdated numeric values from Norwegian statutes and regulations in a further-trained model and its base model: a preregistered paired comparison of Borealis 2 and Gemma 4](https://arxiv.org/abs/2611.02334) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [MemShift: Separating Detection from Repair in LLM-Derived Personal Memory](https://arxiv.org/abs/2611.02338) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Which Words a Model Fears: From a Refusal Direction to a Vocabulary-Wide Fear Lexicon](https://arxiv.org/abs/2611.02348) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [VisCodeBench: a new benchmark dataset for Text-to-Vis reflecting real-world practice](https://arxiv.org/abs/2611.02353) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Beyond Accuracy: How Quantization Affects Coding Agents](https://arxiv.org/abs/2611.02368) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [EviCast: Forecasting Retrieval Gains Through Shared Response Calibration](https://arxiv.org/abs/2611.02387) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Solver-Like Behavior in Large Language Models as Formalizers](https://arxiv.org/abs/2611.02395) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Diagnosing Model--Item Interactions in Language Model Benchmarks with LSIRM](https://arxiv.org/abs/2611.02432) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [As Expected? Efficient LLM Planning via Expectation-Observation Consistency Verification](https://arxiv.org/abs/2611.02438) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [GigaSpeech 3: Scaling Multi-Dialect Arabic Speech Recognition with Weakly Labeled Data](https://arxiv.org/abs/2611.02476) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Chain on Demand: Deferred Evidence Organization for Long-Term Conversational Memory](https://arxiv.org/abs/2611.02480) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Same Sentence, Different Construct: Identity-Swapped Rationales Reveal Measurement Non-Invariance in LLM Hate Speech Classifiers](https://arxiv.org/abs/2611.02491) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Ranked but Not Stopped: Detecting Prompt-Injection Hijacks from Typed Decision Models' Output Probabilities](https://arxiv.org/abs/2611.02522) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Tune the Baseline First: Most of Muon's Scaled Weight Decay Gain Is a Tuning Gap, but Its Small Real Advantage Grows With Model Size](https://arxiv.org/abs/2611.02529) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [FindLink: Learning to Assess Scientific Connections from Source-Grounded Premises](https://arxiv.org/abs/2611.02545) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Re$^3$Rank: Listwise Reranking with Reasoning-Conditioned Retrieval Heads](https://arxiv.org/abs/2611.02550) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [From Language to Country to Valence: A Multilingual Audit of Stereotype Bias Across LLMs](https://arxiv.org/abs/2611.02585) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [They Know Where It Is, But Not What It Says: A Bilingual Hallucination Benchmark of Hadith Recall in Open LLMs](https://arxiv.org/abs/2611.02587) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Scalaris: A Scalable Enterprise Memory Architecture for Conversational AI Assistants](https://arxiv.org/abs/2611.02612) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [ICJ-Graph: A Citation Graph and a Layered Document Corpus of the International Court of Justice](https://arxiv.org/abs/2611.02630) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [SYNC: A Training-Free Inference Controller for Dynamic Layer Selection in Multi-Persona Alignment](https://arxiv.org/abs/2611.02636) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [LLMs Cannot Be Neutral: Gender Sensitivity Across Candidates, Evaluators, and Models](https://arxiv.org/abs/2611.02692) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [MicroMouse: Masking Harmful Supervision in Long CoT via Relative Potential](https://arxiv.org/abs/2611.02710) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [EffComp: Efficient Prompt Compression via Hybrid Reinforcement & Supervised Learning](https://arxiv.org/abs/2611.02766) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [PGuard: A Native, Streaming, and Plug-in Guardrail for Multimodal Large Language Models](https://arxiv.org/abs/2611.02791) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation](https://arxiv.org/abs/2611.02810) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Window-Aware Scheduling for Health Messaging under Platform Delivery Constraints: Evidence from an AI-Powered WhatsApp Maternal and Infant Health Chatbot in Nigeria](https://arxiv.org/abs/2611.02834) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Omni-Life: Benchmarking Omnimodal Real-Time AI Assistants in People's Daily Lives](https://arxiv.org/abs/2611.02835) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Tug of Watts: A study on the Energy - Accuracy Trade-off of Large Language Models on Medical Question Answering Tasks](https://arxiv.org/abs/2611.02889) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Maswao: An automatically collected, prepared, and benchmarked dataset for the South African Sign language](https://arxiv.org/abs/2611.02903) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [A State Change Is Local, Its Consequences Are Not: Dependency-Aware State Revision for Long-Term Agent Memory](https://arxiv.org/abs/2611.02912) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [PlagiaCorpus: A Bilingual, Adversarial, and Cross-Lingual Dataset for Forensic Plagiarism Detection](https://arxiv.org/abs/2611.02940) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Distilling Literary Sentiment from LLM Annotations into an Ordinal BERT Model](https://arxiv.org/abs/2611.02985) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Finding Errors Is Not Enough: Selective Model Escalation for Entity-Targeted Sentiment Analysis](https://arxiv.org/abs/2611.02989) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [VERS: Steering Reasoning Models by Editing Their Activation Explanations](https://arxiv.org/abs/2611.03040) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Unlocking Criminal Court Decisions: Flexible Information Extraction for Empirical Legal Research](https://arxiv.org/abs/2611.03051) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [SAGE (Subjectivity-Aware Generation Estimator): A Linguistic Framework for AI-Generated Review Detection *](https://arxiv.org/abs/2611.03060) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [An Experimental Study of Hybrid Retrieval, NLI and Open-source LLMs for Scientific Claim Verification](https://arxiv.org/abs/2611.03093) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Meet Students Where They Are: Student-Prefix Teacher Adaptation for On-Policy Distillation](https://arxiv.org/abs/2611.03133) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [DepthGraft: Structural Regularization through Hierarchical Cross-Layer KV Reconstruction](https://arxiv.org/abs/2611.03142) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [ACTOR: Action-Centered Temporal Organization for Literary Role-Playing Agents](https://arxiv.org/abs/2611.03184) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Written Once, Read Differently How Language Models Own Answers Steer Their Next Ones](https://arxiv.org/abs/2611.03198) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Specificity Bias and the Wikipedia Paradox: An xAI Analysis of AI Text Detectors under Domain Shift](https://arxiv.org/abs/2611.03280) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [MultiInpaintCOCO: Fine-Grained Visual Understanding in Multiple Languages](https://arxiv.org/abs/2611.03309) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Steering with Multilingual Lexicons for Sentiment Control in Low-Resource Languages](https://arxiv.org/abs/2611.03317) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [IdeaTaste: Do LLMs Share the Research Taste of Human Researchers?](https://arxiv.org/abs/2611.03424) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [VIAS: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for Organisations](https://arxiv.org/abs/2611.03518) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Can LLM Agents Be Forward-Deployed Engineers? Requirement Discovery and Delivery for Enterprise Text-to-SQL](https://arxiv.org/abs/2611.03551) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably](https://arxiv.org/abs/2611.03575) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [NitiBench+: A Temporal Thai Legal Question Answering Benchmark Across 17 Domains](https://arxiv.org/abs/2611.03576) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch](https://arxiv.org/abs/2611.03605) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Tracing the Scientific Discovery Capacity of LLMs to Their Training Data](https://arxiv.org/abs/2611.03617) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Total Cost of Agency: Exact Attribution of Memory Injection Cost in Multi-Agent LLM Workflows](https://arxiv.org/abs/2609.23790) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Cultural Evolution Drives the Emergence of Conventions in Neural Emergent Communication](https://arxiv.org/abs/2611.00006) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 ["I Wrote, I Paused, I Rewrote": A Mixed-Methods Study of Learner Perceptions of Process-Aware LLM Feedback](https://arxiv.org/abs/2611.00009) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [ARTA: Graph Combinatorial Optimization for Robust Interbeat Interval Estimation from Wearable Electrocardiogram Signals](https://arxiv.org/abs/2611.00011) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Edge-Optimized YOLOv11n Architecture for Offline Recognition of Nigerian Sign Language Alphanumeric Gestures](https://arxiv.org/abs/2611.00025) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [A Systematic Analysis of Live Intraoperative Surgical Expert Narrations](https://arxiv.org/abs/2611.00028) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [When frequency domain classification is superior to spatial](https://arxiv.org/abs/2611.00073) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [From Zero to OCR: A Data-Centric Framework for Unsupported Low-Resource Scripts](https://arxiv.org/abs/2611.00078) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [HistGramBench: Measuring Structural Recovery When Multimodal Models Redraw Historical Mathematical Diagrams as TikZ](https://arxiv.org/abs/2611.00081) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Teach, Abstract, Apply: A Framework for Dialogue-Driven Task Learning with Collaborative Robots](https://arxiv.org/abs/2611.00297) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Decentralized Multi-Agent Coordination and Communication in Shared Codebases](https://arxiv.org/abs/2611.00314) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [One Waveform, Two Stories: Benchmarking Speech-Acoustic Conflict in Audio-Language Models](https://arxiv.org/abs/2611.00325) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [SPARK: Self-Correcting Embodied Memory via Physical Re-Observation](https://arxiv.org/abs/2611.00344) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Unlearning by Extrapolating a Shrink-and-Heal Lookahead](https://arxiv.org/abs/2611.00374) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [LF-VideoQA: Evaluating Long-Video Understanding with Long-Form Theory-of-Mind Questions](https://arxiv.org/abs/2611.00383) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Geometric and algebraic inference in humans and neural networks](https://arxiv.org/abs/2611.00387) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Do Multimodal Models Decide Consistently on Equivalent Optical Spectra?](https://arxiv.org/abs/2611.00428) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Quantiles, Not Points: Streaming Quantile Matching for Ordinal-Aware LLM-as-a-Judge Calibration](https://arxiv.org/abs/2611.00447) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [From Small to Large: Assessing Medical Reasoning, Benchmark Contamination, and Model Size in Language Models](https://arxiv.org/abs/2611.00460) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Swap, Replicate, Read the Mass: A Protocol for Auditing Demographic Bias in System One Decision Models](https://arxiv.org/abs/2611.00496) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Robustness Starts with the Objective: Designing and Certifying Robust LLM-Generated Heuristics](https://arxiv.org/abs/2611.00504) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Agentic Context Management for Multi-Turn Human-AI Conversations](https://arxiv.org/abs/2611.00518) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [WeSearch: A Unified Model-Centric Retrieval Framework for WeChat Search](https://arxiv.org/abs/2611.00530) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Skill++: Towards Lifelong Agents via Routing-Aware Skill Refinement](https://arxiv.org/abs/2611.00544) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Conic Certification of Transformer Attention](https://arxiv.org/abs/2611.00585) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [TVP: TV is Almost All You Need for Speculative Decoding](https://arxiv.org/abs/2611.00588) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Sparse Autoencoder Attribution Graphs Are Decided at the Margin](https://arxiv.org/abs/2611.00606) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Heirloom: Carrying a Phone's Personalization Across Base-Model Generations](https://arxiv.org/abs/2611.00650) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Learning Timeline-Preserving Speech-to-Speech Translation](https://arxiv.org/abs/2611.00690) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [ConstraintMatch: Compositional Image-Text Matching through Constrained Regional Evidence Selection](https://arxiv.org/abs/2611.00784) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [ODC: Orthogonal Drift Correction for Improved Text-to-Image Semantic Alignment at Inference](https://arxiv.org/abs/2611.00819) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Fewer Tokens, More Answers: Verifiable-Reward Tuning of an Ornith-Style VLM for Multi-View Driving QA](https://arxiv.org/abs/2611.00833) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [When 200 OK Is Not an Answer: Silent Fetch Failures in Agentic Web Content Acquisition](https://arxiv.org/abs/2611.00884) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Multi-Turn Semantic Caching for Low-Cost LLM Serving](https://arxiv.org/abs/2611.01077) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Concept-Guided Prompting Strategies Increase Diversity in LLM-Generated Recipe Populations](https://arxiv.org/abs/2611.01171) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Does Random Search Discover Task Experts? Revisiting Neural Thickets](https://arxiv.org/abs/2611.01262) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Geometry of Confabulation and Refusal in Small Language Models](https://arxiv.org/abs/2611.01272) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [What Do LLM Judges Actually Verify? Matched Controls and Record Gaps for Document Currency](https://arxiv.org/abs/2611.01311) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Are Fake Citations a Form of Reward Hacking? A Pre-Registered Study of Post-Training and Citation Cues](https://arxiv.org/abs/2611.01313) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Learning by Doing: Autonomously Compiling and Curating Agent Skills from Verified Traces](https://arxiv.org/abs/2611.01386) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [When Should an Agent Refresh? Adaptive Index Reuse for Efficient Long-Horizon Reasoning](https://arxiv.org/abs/2611.01429) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Can Large Language Model Agents Learn by Watching Tutorial Videos?](https://arxiv.org/abs/2611.01460) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [See, Think, Use: Diagnosing Perception and Reasoning Failures in VLMs](https://arxiv.org/abs/2611.01467) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Sweep Less, Steer More: Using Activation Steering Geometry for Reduced Hyperparameter Search](https://arxiv.org/abs/2611.01496) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [VLMs Read Aloud: The Gap Between Recognizing and Using Visual Text](https://arxiv.org/abs/2611.01517) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [LLM-Enhanced Multimodal House Price Prediction using Structured, Textual, and Visual Features](https://arxiv.org/abs/2611.01615) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [CREDO: Evidence-Conditioned Credit Assignment for Temporal Reasoning Agents](https://arxiv.org/abs/2611.01643) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [MAC-Bench: Benchmarking Multi-Agent Collaboration via Interconnected Tasks](https://arxiv.org/abs/2611.01728) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Evolving Memory, Learning to Meta-Control: Test-Time Adaptation for Experience-augmented LLM Agents](https://arxiv.org/abs/2611.01747) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Rubric-Based Assessment of Student Reports Using Small Language Models](https://arxiv.org/abs/2611.01785) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [The Scope Grammar of Natural-Language Rules: Counting and Enumerating Readings modulo Logical Equivalence](https://arxiv.org/abs/2611.01825) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Self-Evolving Agentic Workflows via Semantic Decomposition of Complex Tasks](https://arxiv.org/abs/2611.01840) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Quantizing Recurrent Language Models Is Easier Than You Think](https://arxiv.org/abs/2611.01864) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [To Align Long, Plan Short: Simulating Diverse Profile-Aligned Students by Realizing Short-Term Plans in Long-Horizon Learning Environments](https://arxiv.org/abs/2611.02002) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [ClickSight: An LLM Framework for Interpreting Student Clickstreams Through Learning Strategies](https://arxiv.org/abs/2611.02021) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [ParetoSaddler: Pareto-Guided Optimization of Agent Harnesses for Quality and Cost](https://arxiv.org/abs/2611.02079) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Order-Only On-Policy Distillation](https://arxiv.org/abs/2611.02112) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Conditional Calibration Contracts under Coupled Load: A Branch-Aware Audit of Switched Inference](https://arxiv.org/abs/2611.02121) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Test-Time Scaling for Open-Ended Reasoning at Small Model Scale](https://arxiv.org/abs/2611.02208) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Who Should Score the Cache? Mid-Depth Layers Are the Best Judges of KV-Cache Eviction](https://arxiv.org/abs/2611.02230) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Metamorphic Testing for Evaluating Robustness of Sentiment Analysis Models](https://arxiv.org/abs/2611.02248) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Hinted Scaling Laws](https://arxiv.org/abs/2611.02270) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [When the Text Is Silent: Memory Shortcuts and the Validity of LLM Annotation under Evidence Insufficiency](https://arxiv.org/abs/2611.02273) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Concise-9B: Removing the Slack from a Reasoning Model's Thinking](https://arxiv.org/abs/2611.02278) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Accessed, never disclosed: Silent access to protected health information by medical artificial intelligence agents](https://arxiv.org/abs/2611.02319) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [LEANGUARD: Lean-Verified Guardrails for Tool-Using Agents](https://arxiv.org/abs/2611.02332) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [When Does Adaptive Halting Win? Selection Rules Matter in Looped Language Models](https://arxiv.org/abs/2611.02333) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [When Rewards Depend on the Group, GRPO Plays a Tournament](https://arxiv.org/abs/2611.02404) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [InteractionBench: Measuring Timing, Task Accuracy, Whisper and Volume, and Grounding in Real-Time Voice Systems](https://arxiv.org/abs/2611.02430) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [PixelBench: Can LLMs Understand and Generate Images Pixel by Pixel?](https://arxiv.org/abs/2611.02540) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [SMILE: A Structured Multi-Agent Clinical Reasoning for Liver Ultrasound Understanding](https://arxiv.org/abs/2611.02581) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Variable names provide priors: semantic grounding enables data-efficient numerical prediction by large language models](https://arxiv.org/abs/2611.02637) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Constructing an Artworld Influencers Network by Mining Social Media](https://arxiv.org/abs/2611.02657) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Train the Sampler You Run: Few-Step Masked Diffusion Language Models via Mixture-Likelihood Fine-Tuning](https://arxiv.org/abs/2611.02666) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Replay for LLM Continual Learning with Multi-Teacher On-Policy Distillation](https://arxiv.org/abs/2611.02746) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Stop Handcrafting Your Engine! GenDB-V: Towards AI-Generated and Formally Verified Database Systems](https://arxiv.org/abs/2611.02779) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [SelfImprove-Bench: Evaluating Generalization in Self-Improving Agents](https://arxiv.org/abs/2611.02797) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Creating Hybrid Interactive Narrative Systems with LLM: From Formal Description to Evaluation](https://arxiv.org/abs/2611.02807) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [User Attributes and Political Ideology Shape LLM Receptiveness in Online Political Debates](https://arxiv.org/abs/2611.02908) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Action Verification through Conjecture and Refutation for Language Model Agents](https://arxiv.org/abs/2611.02950) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Specification-Aware Predictive Uncertainty Decomposition](https://arxiv.org/abs/2611.02956) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Avatar Intelligence: Amplifying Human Agency Through Persistent Personal Agents](https://arxiv.org/abs/2611.03092) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [DR Pixel: Page-Native Deep Research with Vision-Language Models](https://arxiv.org/abs/2611.03097) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Preprocessing Choices in Fine-Tuning Data Matter: Utility and Demographic Sensitivity in LLM-Based Recommendation](https://arxiv.org/abs/2611.03113) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [ViAdminShift: A Vietnamese Benchmark for Event-Level Knowledge Updates Built from the 2025 Administrative Reform](https://arxiv.org/abs/2611.03171) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://arxiv.org/abs/2611.03178) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Every Clause Counts: Instruction-Following Reranking by Multiplying Small, Answerable Questions](https://arxiv.org/abs/2611.03179) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Dh\={a}r\={a} Bench: An Evidence-Oriented Retrieval Benchmark for Indian Knowledge Systems](https://arxiv.org/abs/2611.03196) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Do Agents Still Follow the Rules? Benchmarking Rule Compliance under Agent Context Compaction](https://arxiv.org/abs/2611.03223) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [LLMs Depend on Specialist Tools for Out-of-Distribution Generalization in MS/MS Structural Elucidation](https://arxiv.org/abs/2611.03308) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Characterizing When Language Models Take Harmful Actions to Protect Their Assigned Goals](https://arxiv.org/abs/2611.03374) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Same Outputs, Different Scores: Auditing the Unchecked Graders of Multimodal LLM Benchmarks](https://arxiv.org/abs/2611.03377) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Optimize the Harness, Not the Model: Fitting a Minimal Agent to a Self-Hostable LLM for Investigative Analysis](https://arxiv.org/abs/2611.03434) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Online Label-Free Gradient Matching for Continual Language Model Training](https://arxiv.org/abs/2611.03496) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime](https://arxiv.org/abs/2611.03526) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Sonar-MoE: In-Backward Expert Updates for Memory-Efficient Mixture-of-Experts Training](https://arxiv.org/abs/2611.03577) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [DiabAgent: Toward Agentic Physiological Control](https://arxiv.org/abs/2611.03601) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Strategist: Evolving Reasoning with Agents](https://arxiv.org/abs/2611.03618) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models](https://arxiv.org/abs/2611.03622) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](https://arxiv.org/abs/2611.03634) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Do media narratives shape foreign ownership? Evidence from African regions](https://arxiv.org/abs/2403.10239) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory](https://arxiv.org/abs/2508.04903) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Probing the Limits of the Lie Detector Approach to LLM Deception](https://arxiv.org/abs/2603.10003) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models](https://arxiv.org/abs/2603.18489) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [\textit{Versteasch du mi?} Computational and Socio-Linguistic Perspectives on GenAI, LLMs, and Non-Standard Language](https://arxiv.org/abs/2603.28213) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Tmax: A simple recipe for terminal agents](https://arxiv.org/abs/2606.23321) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [AgentHop: A Diagnostic Benchmark for Agentic Multi-Hop Question Answering over Scientific Citation Graphs](https://arxiv.org/abs/2609.34428) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Empathy Is Not the Scapegoat for Declines in Factuality and Reliability](https://arxiv.org/abs/2610.18541) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment](https://arxiv.org/abs/2610.37682) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Multi-View Latent MoE: Letting Every Router Shape Expert Computation](https://arxiv.org/abs/2610.40577) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Theoretical Analysis of Byte-Pair Encoding](https://arxiv.org/abs/2411.08671) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [VeriCypher: Named-Entity Verification for GraphRAG via Text-to-Cypher Generation](https://arxiv.org/abs/2511.08274) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Paediatric-HGNN: A Hybrid Heterogeneous Graph Neural Network for Detecting Disfluency in Children's Speech via Multiscale Acoustic Fusion](https://arxiv.org/abs/2606.08210) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Query Language Sensitivity in Automated Sentiment Scores of LLM Responses](https://arxiv.org/abs/2607.13304) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Beyond fabrication: Misattributed numbers in papers written by AI research agents](https://arxiv.org/abs/2610.38691) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation](https://arxiv.org/abs/2610.38960) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [Leveraging Recourse and Size Bounds for OnlineKnapsack with Removable Items](https://arxiv.org/abs/2610.40290) *(arXiv cs.CL (Computation and Language))*
+- [ ] 2026-11-04 [NTTデータGの26年4～9月期決算は増収減益、DC譲渡益の反動減が影響](https://xtech.nikkei.com/atcl/nxt/news/24/03455/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [公取委が自治体システムの移行巡り実態調査、ベンダーにもヒアリング](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12153/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [米中間選挙で民主圧勝、「青い波」がAIブームに冷や水か　規制強化の公算](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12155/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [GMO熊谷会長「設計必ず見直す」も具体策なし、会見で判明の事実を押さえる](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12151/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [ラックからの排熱に当てられて実践主義を再確認した](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900173/101900038/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [マルウエア解析ツール徹底解説・中編](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/111900071/101900084/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [ビットコインへの量子攻撃コストを86％削減、研究チームが公表](https://xtech.nikkei.com/atcl/nxt/column/18/03098/092900089/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [EdgeのベースもChromeと同じオープンソース「Chromium」、拡張機能に互換性](https://xtech.nikkei.com/atcl/nxt/column/18/03778/093000001/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [Windowsに標準搭載の「スマートフォン連携」、通話に加えSMSの送受信もPCで](https://xtech.nikkei.com/atcl/nxt/column/18/03775/092800005/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [完全には防げないサイバー攻撃、「サイバーレジリエンス」を強化せよ](https://xtech.nikkei.com/atcl/nxt/column/18/03810/102800001/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [ルネサス、半導体設計全体をAIエージェント化　全製品に適用へ](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12113/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [JPモルガンやロッキードにみるAI導入「4原則」、日本企業への示唆](https://xtech.nikkei.com/atcl/nxt/column/18/03807/102700002/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [パナソニック、禁止した生成AIに33万人分の個人情報　従業員の家族も](https://xtech.nikkei.com/atcl/nxt/column/18/00598/011300388/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [大手ITの下請けで働くエンジニア、顧客先で「社員」と紹介されて違和感](https://xtech.nikkei.com/atcl/nxt/column/18/00084/00447/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [「20年来の悲願」、トヨタ・東京海上・山陰合同が挑むオンチェーン金融](https://xtech.nikkei.com/atcl/nxt/column/18/03808/102800001/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [記憶力と表現力を磨き、データ分析系と基幹系の間にある壁を乗り越えよう](https://xtech.nikkei.com/atcl/nxt/column/18/01195/103000136/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [複数の会議資料を1つの音声に、Copilotノートブックで概要をまとめて確認](https://xtech.nikkei.com/atcl/nxt/column/18/01787/110200232/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [AIで激化するサイバー攻撃、矛先は製造業へ　防御対象選定とBCPが急務](https://xtech.nikkei.com/atcl/nxt/column/18/00138/103002136/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [米T-Mobileが一風変わった新料金プラン、工夫も多いが突っ込みどころも](https://xtech.nikkei.com/atcl/nxt/column/18/00687/110100259/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [コンセプトが変わった無印「Kindle」、漫画は厳しいが文庫本には最適](https://xtech.nikkei.com/atcl/nxt/column/18/00087/00466/) *(日経クロステック IT)*
+- [ ] 2026-11-04 [国産AI開発のNoetra、テックブログ開設　「開発現場での試行錯誤や工夫」も発信](https://www.itmedia.co.jp/aiplus/article/2611/04/2000002886/) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [製造業の「秘伝のタレ」はAIに奪われるのか、競争力の源泉はどこにある？](https://monoist.itmedia.co.jp/mn/articles/2611/04/news064.html) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [GitHub、「Copilot Fusion」正式リリース　タスクに応じて最適なAIモデル選択、高性能・低コスト両立](https://www.itmedia.co.jp/news/article/2611/04/2000002869/) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開](https://www.itmedia.co.jp/aiplus/article/2611/04/2000002863/) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [Claudeプラン名変更で容量半減？→公式が否定　「元々、Max 20xの週次制限はProの10倍」](https://www.itmedia.co.jp/aiplus/article/2611/04/2000002862/) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に](https://www.itmedia.co.jp/news/article/2611/04/2000002855/) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [「海外モデルでも自前サーバで動かせば100％安全」ではない――チームみらい安野氏が指摘、国産モデルの必要性を強調](https://www.itmedia.co.jp/aiplus/article/2611/04/2000002853/) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [3D CADデータ×AIで造船設計を支援、設計情報の確認作業を効率化へ](https://monoist.itmedia.co.jp/mn/articles/2611/04/news020.html) *(ITmedia AI＋)*
+- [ ] 2026-11-03 [Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も](https://www.itmedia.co.jp/news/article/2611/04/2000002849/) *(ITmedia AI＋)*
+- [ ] 2026-11-03 [資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ](https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/) *(ITmedia AI＋)*
+- [ ] 2026-11-03 [東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初](https://monoist.itmedia.co.jp/mn/articles/2611/04/news046.html) *(ITmedia AI＋)*
+- [ ] 2026-11-03 [全社員を「AIマスター化」した広告代理店の“研修じゃない”人材戦略](https://kn.itmedia.co.jp/kn/article/2611/04/2000002712/) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 \| ちもろぐ](https://chimolog.co/strata-guide/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [【速報】グーグル、小中高で検索・AIの利用制限へ](https://www.47news.jp/15183028.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に](https://gigazine.net/news/20261104-ram-altman/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [Amazon DynamoDB のベクトル検索機能を検証 - Taste of Tech Topics](https://acro-engineer.hatenablog.com/entry/2026/11/04/120000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [GPT-6 AstraでQwen3.5-0.8Bの重みを直接編集、数学スコアは約6倍に](https://pc.watch.impress.co.jp/docs/news/2153457.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました](https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [高市早苗が細野豪志に手を重ねている画像はAIによる偽画像だよ - 電脳塵芥](https://nou-yunyun.hatenablog.com/entry/2026/11/04/130000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [株価 大きく値下がり AI関連投資の先行きに不透明感 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261104de70160) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [AIにQAの判断を任せる：AIによるトリアージ精度を2倍にするQAコンテキスト設計 - Tabelog Tech Blog](https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。](https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [AIでデザインファイルの扱い方が変わった](https://yasuhisa.com/could/article/design-format-and-ai/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [アメリカ中間選挙2026 開票速報](https://vdata.nikkei.com/us-election/2026/live/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [【元半導体設計屋 筑秋 景のシリコン解体新書】 NVIDIAを追うだけじゃない。Intel CTOが探す「GPUの次」とは？](https://pc.watch.impress.co.jp/docs/column/silicon_exp/2153181.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み](https://blog.kuniwak.com/entry/e2ebok) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [GLITCH WITCH - 第３話　眠る者 眠らぬ者 眠れぬ者① \| ヤンマガWeb](https://yanmaga.jp/viewer/comics/GLITCH_WITCH/1493bfaa11de4758119b974e7340f126?cid=06A0000000001057766S) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [マッキンゼーが国に納品した資料2,446ページ、全部数えたらパターンは7つだけだった｜うちた](https://note.com/uchita_success/n/nfc53d1ef5f81) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [[第228話]ジャンケットバンク - 田中一行 \| 少年ジャンプ＋](https://shonenjumpplus.com/episode/9253191257689745593) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026](https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita](https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [GitHub - NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.](https://github.com/NVIDIA/auto-ontology) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [ADRをregoでlintする](https://zenn.dev/babarot/articles/regomark-adr-checker) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [『ファイナルファンタジー レゾナンス』の“高解像度化Mod”が注目を集めるも、「むしろ悪化している」との指摘相次ぐ。“綺麗”になって失われるドット絵の魅力 - AUTOMATON](https://automaton-media.com/articles/newsjp/20261103-477226/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [AI エージェントがデスクトップアプリを操作する CLI agent-desktop](https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [個人情報を扱う常駐型AIエージェント「Muse」のセキュリティの仕組み｜npaka](https://note.com/npaka/n/ncccb2783a262) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [ISUCON2026 で 4位でした - Route54](https://goccy54.hatenablog.com/entry/2026/11/03/172808) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ](https://zenn.dev/uguisu_blog/articles/45d1f446ece415) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [値上げ時代でも｢もやし｣は30円台で買える…巨大野菜工場で見えた日本の｢安くてうまい｣を支える意外なもの](https://president.jp/articles/-/121217) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [久しぶりにChatGPTの無料プランを使っているけどヤバいな…爆速で間違った答えが返ってくる「課金してるけど超爆速で間違った答えが返ってくる」](https://togetter.com/li/2766077) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-04 [良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261104de70494) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か　Googleが取引停止](https://www.itmedia.co.jp/news/article/2611/04/2000002884/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [「ヘリの爆音で妻がノイローゼに」　GMO熊谷代表の「迷惑行為」を近隣住民が明かす　モデルを集めて「シャンパンパーティー」に「もう勘弁してほしい」 \| デイリー新潮](https://www.dailyshincho.jp/article/2026/11041149/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う - Weekend Researcher Tsurezure Diary](https://disconinja.hatenablog.com/entry/2026/11/03/230647) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [Aterm設定画面、「PHP使ってないのに.php」なぜ？　NECに聞いた](https://www.itmedia.co.jp/news/article/2611/04/2000002847/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [日本語プログラミングフォント「Cyroit」とそのファミリー8種が一斉アップデート／「Inconsolata」＋「Circle M+」＋「BIZ UDゴシック」、コード特有の可読性にも配慮](https://forest.watch.impress.co.jp/docs/news/2153421.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [【やじうまPC Watch】 メモリ発言で物議のSam Altman氏、「Ram Altman」に改名](https://pc.watch.impress.co.jp/docs/news/yajiuma/2153619.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [マスク氏、米中間選挙の民主党勝利に「肩すくめる」絵文字　共和党の巨額献金者](https://www.cnn.co.jp/usa/35254380.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [ドコモ社長、5G基地局がKDDIやソフトバンクより少ない理由を説明](https://japan.cnet.com/article/35254374/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [無印良品の公式アプリの情報漏洩が、クレカの番号全桁などスケールが大きすぎるし、良品週間が終わったあとの報告にモヤモヤする](https://togetter.com/li/2766561) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [優秀なテストエンジニアの特徴を調べた研究｜森崎 修司](https://note.com/smorisaki/n/n8dd86d903e19) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [MUJI Card 会員情報の流出の可能性に関するお知らせとお詫び \| クレジットカードはセゾンカード](https://www.saisoncard.co.jp/customer-support/information/20261104/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [ビックカメラG、メールアドレスなど約1490万件漏えいの可能性　委託先への不正アクセスで](https://www.itmedia.co.jp/news/article/2611/04/2000002866/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか　不正アクセスで続報](https://www.itmedia.co.jp/news/article/2611/04/2000002885/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [「GPT-6 AstraがQwen3.5-0.8Bの重みを書き換えて数学性能を約6倍に改善した」との研究結果、ただし「誤解を招く」との批判も](https://gigazine.net/news/20261104-gpt-6-astra-qwen-weight-space-programming/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [ロシア企業がドローン攻撃を受けて地下データセンターの建設を計画](https://gigazine.net/news/20261104-russia-underground-data-center/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [【やじうまPC Watch】普通のドライブでCD/DVDの記録面に絵を焼く「Disc Image Studio」 - PC Watch](https://pc.watch.impress.co.jp/docs/news/yajiuma/2153436.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [JR東日本、「JRE ID」で他人のIDを誤表示か　4000人超の利用を一時停止](https://japan.cnet.com/article/35254354/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-04 [LLM と VLM は何が違う？](https://zenn.dev/pitodon/articles/5811ef1e941381) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [【建設AI】Construction AI Leaderboardの概要と評価の詳細](https://zenn.dev/onestruction/articles/260c1d42239901) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [別のセッションの実測と一致しても、正しい証拠にならない — Claude Code を並走させて検算した話](https://zenn.dev/kuu_dqx/articles/matching-session-is-not-proof) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [Claude 向けに作ったメルマガ生成 AI を、さくらの AI Engine（gpt-oss）に載せ替えて本番に出すまで](https://zenn.dev/newsletterready/articles/702bcb348c0329) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [Claude Code を島で30時間遊ばせたら、やさしい世界が爆誕した ― 『Is this machine playing?』](https://zenn.dev/moimoi/articles/claudecode-agents-play-3d-island) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [LLMの重みを直接操作する「Astra」とAIテストエージェント「Momentic」の技術解説](https://zenn.dev/ament3/articles/ai-digest-2026-11-03-0524) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [Agentic RAG入門 ― 検索を「判断」させる設計：ReAct・自己評価・クエリ書き換えと、通常のRAGとの使い分け](https://zenn.dev/johnny1024/articles/f0a39fa856e56a) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [GPT-6.1 Terra 徹底解説：パラメーター・料金・他モデルとの比較](https://zenn.dev/modelflare_dev/articles/26c5a21cc8d8a5) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [D3-edgeでLLMを自動選択してみた：vLLM Semantic RouterをAWSで検証](https://zenn.dev/tatsuyaaaaaaa/articles/346b04134937a7) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [電話AIの1通話コストを分解する｜Twilio料金をPythonで見積もり、感度と損益分岐を調べる](https://zenn.dev/cauchye_asia/articles/phone-ai-call-cost-model) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [DeepTutorをコードから読む：マルチエンジンRAGの構成と静的セキュリティレビュー](https://zenn.dev/shun_producer/articles/deeptutor-rag-security-review) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [GraphRAG論文を実装目線で読む：事前要約とGlobal Searchの境界](https://zenn.dev/kas_blog/articles/20260914-graphrag) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [Claude Codeが/clearで全部忘れる問題。claude-memで記憶を持たせる前に知っておきたい4つのこと](https://zenn.dev/290oss/articles/603baac55c6950) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [AIエージェントに「やった」と言わせない仕組み：実運用の失敗台帳から](https://zenn.dev/aether_wing/articles/agent-no-fake-done) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [手書きメモからAIエージェントを作ってみた ~ STORM Act #4](https://zenn.dev/sionicai_jp/articles/b6557d90991da7) *(Zenn – トピック LLM)*
+- [ ] 2026-11-03 [GitHub ActionsでLLMアプリをテストするのに、APIキーを登録しなくていい方法](https://zenn.dev/uenonao/articles/654d850e325328) *(Zenn – トピック LLM)*
+- [ ] 2026-11-03 [LLMの出力が毎回違ってもpytestでassertできる「決定的チェック」5選](https://zenn.dev/uenonao/articles/b2fd482dc5310d) *(Zenn – トピック LLM)*
+- [ ] 2026-11-03 [プロンプトの先へ：本番運用できるAIエージェントのシステム設計](https://zenn.dev/keiji_ai_japan/articles/2969cb921d0c9d) *(Zenn – トピック LLM)*
+- [ ] 2026-11-03 [不可視の Unicode タグ文字に仕込まれた指示を、日本語の文字列と日本のサイトで試した](https://zenn.dev/mystery_hat/articles/invisible-unicode-tags-canvas-fingerprint) *(Zenn – トピック LLM)*
+- [ ] 2026-11-03 [Claude Code で DeepSeek V4・GLM-5.3・Kimi K3 を使う：設定ひとつと、2時間セッションのコスト比較](https://zenn.dev/korouter/articles/185ade3ea792fc) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [Workspace Studioを投入したら、名刺・アンケート入力業務なくなった話](https://zenn.dev/densan_techblog/articles/88d754d6ba56bd) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [Cursorに『全部やって』と頼む前にコピペする3行](https://zenn.dev/masafumi_ai/articles/00008-cursor-paste-3lines-template) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [Claude CodeとCodexにSupabaseのメモアプリを12回作らせたら、RLSは毎回かかっていた。分かれたのは『だれが読めるか』](https://zenn.dev/bpr_prot/articles/9d3e3631820c5d) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [Altman 回の 1 本だけが 2,299 回。同じ人をもう一度出したらどうなるか（#41 投稿前予測）](https://zenn.dev/talks_tldr_jp/articles/tldr41-altman-prediction) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [エージェントが同じミスを繰り返す日に、エージェントに「エージェントの達人」の動画を調べさせた](https://zenn.dev/gunboo/articles/a6b834dd0cf7da) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [改稿は終わっていた。確認用コピーは旧稿のままだった](https://zenn.dev/bricks/articles/review-copy-must-match-revision) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [MuseとClaudeをGoogleドライブ経由で連携する: ファイルを伝言板にしたAI間の受け渡し](https://zenn.dev/hachihou_system/articles/muse-claude-drive-relay) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [AIの回答に含まれるLaTeX数式をWordへ移す：PandocとTODOCを比較](https://zenn.dev/chest/articles/78169108ff056f) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [AI活用の10段階：使いこなす力から、他の人が育てられる仕組みへ](https://zenn.dev/sugitakenji/articles/d43586a71695ab) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [Markdown ファイルを「人と AI エージェントの共有メモ」にする](https://zenn.dev/xueyanz/articles/b77a74f8f9f0a1) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [【AIと始めるQt/QMLアプリ開発(6)】アプリのリリース手順とAI開発の総括（Qt/QML AI開発実践 最終回）](https://zenn.dev/spacesolver/articles/qt_ai_part06) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた](https://zenn.dev/nexta_/articles/42a828ca2b8a02) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [【Vol.32】Claude Code がゲームの再現を断るようになった - 手元に見えない変更とどう向きあう？](https://zenn.dev/tech_realinvent/articles/1f8110a4e09657) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [社内システムのデザインガイドラインを、根拠つきで AI と作る](https://zenn.dev/genda_jp/articles/43f2c7a4088b2f) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [Museで韓国株・米国株のデイリーブリーフを作る方法](https://zenn.dev/asher9886/articles/e4d47d3323fe4a) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [SigLIP2に匹敵する画像エンコーダーをフルスクラッチで開発した話](https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-04 [話者分離がうまくいかず、モデルを 7 つ替えても直らなかった](https://zenn.dev/kaji_kaji/articles/diarization-ground-truth-before-model-swap) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-03 [Qwen3.5-9Bは自分の重みを編集して賢くなれるか](https://zenn.dev/lube8163/articles/0f43cdc664127c) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-03 [AIの基本 ― 定義・歴史・いまの実力【AIと社会の基本 #1】](https://zenn.dev/yui10/articles/ai-society-basics-01-what-is-ai) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-03 [多忠実度学習帳 ― Claude Code から初心者 KNIMEST への講義資料](https://zenn.dev/knimest/books/multi-fidelity-lecture-for-knimest) *(Zenn – トピック 機械学習)*
