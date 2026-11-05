@@ -165627,3 +165627,167 @@
 - [ ] 2026-11-03 [Qwen3.5-9Bは自分の重みを編集して賢くなれるか](https://zenn.dev/lube8163/articles/0f43cdc664127c) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-03 [AIの基本 ― 定義・歴史・いまの実力【AIと社会の基本 #1】](https://zenn.dev/yui10/articles/ai-society-basics-01-what-is-ai) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-03 [多忠実度学習帳 ― Claude Code から初心者 KNIMEST への講義資料](https://zenn.dev/knimest/books/multi-fidelity-lecture-for-knimest) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-05T03:49:47.457Z
+- [ ] 2026-11-04 [Scare campaigns: Victoria’s major parties trade blows over AI-generated videos of leaders in election ads](https://www.theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-04 [US parents and teachers: share your thoughts on Google turning off Search for schools that reject AI](https://www.theguardian.com/technology/2026/nov/04/google-search-ai-schools) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-04 [Jeanette Winterson’s point about AI brings to mind an Isaac Asimov story \| Letters](https://www.theguardian.com/books/2026/nov/04/jeanette-winterson-point-about-ai-brings-to-mind-an-isaac-asimov-story) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-04 [Albanese government warned it is ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI](https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-04 [‘Discontent and distrust’: annual social cohesion checkup shows exactly what’s making Australia angry](https://www.theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-04 [The Blue Wave Has Tech Bros Scrambling for Data Centers in Space](https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-04 [The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms](https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-04 [Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out](https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-04 [Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’](https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-04 [The Results Are In: Voters Hate Data Centers](https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-04 [UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google](https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-04 [Panicked Sam Altman Reverses Position as Walls Close In, Says People Should Be Able to Own RAM](https://futurism.com/artificial-intelligence/sam-altman-reverses-position-ram) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-04 [The Tech Industry Went All in on Trump, and Now They’re in Serious Danger Now That Americans Have Turned on Him](https://futurism.com/artificial-intelligence/tech-companies-danger-trump) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-04 [Sam Altman Makes Weird Tweet After Bruising Midterm Results](https://futurism.com/artificial-intelligence/sam-altman-weird-tweet-midterm-results) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-04 [Americans Just Resoundingly Rejected AI Data Centers](https://futurism.com/artificial-intelligence/americans-reject-data-centers) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-04 [What AI's growing share of tech spending means for enterprises in 2027](https://aibusiness.com/generative-ai/what-ai-s-growing-share-tech-spending-means-enterprises-2027) *(AI Business)*
+- [ ] 2026-11-04 [AWS goes inside the enterprise to find the real value of AI](https://aibusiness.com/generative-ai/aws-goes-inside-enterprise-find-real-value-of-ai) *(AI Business)*
+- [ ] 2026-11-04 [Baidu’s new world model highlights value, challenge of physical AI](https://aibusiness.com/automation/baidu-s-new-world-model-highlights-value-of-physical-ai) *(AI Business)*
+- [ ] 2026-11-03 [The rise of agentic AI in networking](https://aibusiness.com/agentic-ai/the-rise-of-agentic-ai-in-networking) *(AI Business)*
+- [ ] 2026-11-04 [Pennsylvania Democrats now have power to push forward on election reform, marijuana legalization and minimum wage increases](https://theconversation.com/pennsylvania-democrats-now-have-power-to-push-forward-on-election-reform-marijuana-legalization-and-minimum-wage-increases-295731) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-04 [AI and blockchain are coming to African farms: 4 things must happen for farmers to benefit](https://theconversation.com/ai-and-blockchain-are-coming-to-african-farms-4-things-must-happen-for-farmers-to-benefit-294739) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-04 [How a French philosopher’s warnings about speed and power describe today’s AI race](https://theconversation.com/how-a-french-philosophers-warnings-about-speed-and-power-describe-todays-ai-race-295532) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-04 [Seeing is no longer believing: why physical witnesses matter more in the age of AI-generated content](https://theconversation.com/seeing-is-no-longer-believing-why-physical-witnesses-matter-more-in-the-age-of-ai-generated-content-295677) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-04 [Apple and Google Face Scrutiny Over 400 Apps and Websites Linked to AI Deepfakes](https://www.techrepublic.com/article/news-ai-nudify-apps-apple-google-deepfake-investigation/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-04 [OPPO Find X10 Pro Max Cheat Sheet: Price, Specs, Camera and Features](https://www.techrepublic.com/article/news-oppo-find-x10-pro-max-cheat-sheet/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-04 [Canva Announces Layoffs in Restructure Affecting 1,271 Workers](https://www.techrepublic.com/article/news-canva-restructure-1271-workers-layoffs/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-04 [Google Changes AI Access Rules for Schools Ahead of 2027](https://www.techrepublic.com/article/news-google-schools-ai-opt-out-search-access/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-04 [AWS Wants 10,000 Malaysian SMEs Using AI by 2028 — Offers Six Months of Free AI Tools](https://www.techrepublic.com/article/news-aws-smes-free-ai-tools-apac-malaysia/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-04 [OpenAI Expands AI Engineering Tests From Devices to Vehicles](https://www.techrepublic.com/article/news-openai-ai-engineering-hardware-vehicles/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-04 [EU Court Adviser Outlines Copyright Risks for Google Gemini](https://www.techrepublic.com/article/news-google-gemini-copyright-risks-emea-hungary/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-04 [The Data Science Interview in 2026: What’s Changed and How to Prepare](https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare) *(KDnuggets)*
+- [ ] 2026-11-04 [OpenAI's Codex Helps in Aerodynamic Engineering for Mazda](https://analyticsindiamag.com/ai-news/openais-codex-helps-in-aerodynamic-engineering-for-mazda) *(Analytics India Magazine)*
+- [ ] 2026-11-04 [Why AI is Eating Google Search’s Ad Revenue While Boosting Meta’s](https://analyticsindiamag.com/global-tech/why-ai-is-eating-google-searchs-ad-revenue-while-boosting-metas) *(Analytics India Magazine)*
+- [ ] 2026-11-05 [China Blocks SoftBank Acquisition of ABB Robot Unit, FT Says](https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Nigeria-Focused OPay Said to Halt US IPO After China Inquiry](https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Nextdc Shares Surge After Rival Data Center Firms Seek Stake](https://www.bloomberg.com/news/articles/2026-11-04/nextdc-surges-on-report-of-goodman-digital-realty-buying-stake) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Circle Lays Off 5% of Workforce as Revenue, Profit Surprises](https://www.bloomberg.com/news/articles/2026-11-04/circle-s-revenue-increases-more-than-estimated-shares-climb) *(Bloomberg Technology)*
+- [ ] 2026-11-05 [South Korea’s Current Account Surplus Hits Record on Chip Boom](https://www.bloomberg.com/news/articles/2026-11-05/south-korea-s-current-account-surplus-hits-record-on-chip-boom) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Months-Old Chip Startup Tenspresso in Talks for $500 Million Valuation](https://www.bloomberg.com/news/articles/2026-11-04/months-old-chip-startup-tenspresso-in-talks-for-500-million-valuation) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Arm Fails to Impress Investors With AI-Fueled Sales Forecast](https://www.bloomberg.com/news/articles/2026-11-04/arm-forecast-meets-estimates-after-data-center-push-pays-off) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Qualcomm Slides After Supply Costs Take a Bite Out of Profit](https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Isomorphic Labs in Talks for About $5 Billion in Funding](https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [ScottsMiracle-Gro CEO on Earnings Beat, Growth Outlook](https://www.bloomberg.com/news/videos/2026-11-04/scottsmiracle-gro-ceo-on-earnings-beat-growth-outlook-video) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [John Chambers Makes the Case for AI, Calling It a Win for Society](https://www.bloomberg.com/news/videos/2026-11-04/john-chambers-backs-ai-calling-it-a-win-for-society-video) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Arm's Results Are 'Perfectly Fine,' CFRA's Zino Says](https://www.bloomberg.com/news/videos/2026-11-04/arm-s-results-perfectly-fine-cfra-s-zino-says-video) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [MercadoLibre Shares Drop As Investments Weigh on Profit](https://www.bloomberg.com/news/articles/2026-11-04/mercadolibre-results-meet-estimates-as-fintech-e-commerce-grow) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Qualcomm Revenue Will Shift Away From Handsets, CFRA's Zino Says](https://www.bloomberg.com/news/videos/2026-11-04/qualcomm-will-shift-away-from-handsets-cfra-s-zino-says-video) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Snap Declines After Daily User Growth Misses Estimates](https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Big Tech Rallies as Election Results Reshape AI Spending Outlook \| Closing Bell](https://www.bloomberg.com/news/videos/2026-11-04/big-tech-rallies-on-ai-outlook-closing-bell-video) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal](https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [CoreWeave Bonds Hit Lows as Texas Data Centers in Crosshairs](https://www.bloomberg.com/news/articles/2026-11-04/coreweave-bonds-hit-new-lows-as-texas-data-centers-in-crosshairs) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending](https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Uber Delivery Accelerates as Rides Growth Slows](https://www.bloomberg.com/news/videos/2026-11-04/uber-delivery-accelerates-as-rides-growth-slows-video) *(Bloomberg Technology)*
+- [ ] 2026-11-04 [Microsoft files patent for AI that can alter what people say during live broadcasts](https://www.computerworld.com/article/4244752/microsoft-files-patent-for-ai-that-can-alter-what-people-say-during-live-broadcasts.html) *(Computerworld)*
+- [ ] 2026-11-04 [Snap has more than 30 million paid subscribers across Snapchat+ and other plans](https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/) *(Engadget)*
+- [ ] 2026-11-04 [Pangram expands its AI detection tools to video and images](https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/) *(Engadget)*
+- [ ] 2026-11-04 [Xbox is testing two new controller options for Cloud Gaming](https://www.engadget.com/2307085/xbox-is-testing-two-new-controller-options-for-cloud-gaming/) *(Engadget)*
+- [ ] 2026-11-04 [Nintendo's main Switch cartridge supplier is leaving the ROM business](https://www.engadget.com/2306886/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/) *(Engadget)*
+- [ ] 2026-11-04 [God of War Laufey is delayed until May 20](https://www.engadget.com/2306802/god-of-war-laufey-is-delayed-until-may-20/) *(Engadget)*
+- [ ] 2026-11-04 [Redditor uses AI to get Switch games running natively on Apple TV](https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/) *(Engadget)*
+- [ ] 2026-11-04 [Bluetooth is going to get a lot faster in 2027](https://www.engadget.com/2306723/bluetooth-is-going-to-get-a-lot-faster-in-2027/) *(Engadget)*
+- [ ] 2026-11-04 [Elon Musk spent nearly $500 million on the midterms and lost big-time](https://www.engadget.com/2306698/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime/) *(Engadget)*
+- [ ] 2026-11-04 [Americans overwhelmingly voted against data centers in the midterms](https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms/) *(Engadget)*
+- [ ] 2026-11-04 [OpenAI to acquire Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre) *(OpenAI News)*
+- [ ] 2026-11-04 [Daybreak Red is now available in AWS GovCloud (US-East)](https://openai.com/index/daybreak-red-aws-govcloud) *(OpenAI News)*
+- [ ] 2026-11-04 [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root) *(OpenAI News)*
+- [ ] 2026-11-04 [Introducing Images 2.6](https://openai.com/index/introducing-images-2-6) *(OpenAI News)*
+- [ ] 2026-11-04 [DevRev delivers autonomous self-service with GPT-6.1 Sol](https://openai.com/index/devrev-enterprise-self-service) *(OpenAI News)*
+- [ ] 2026-11-04 [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor) *(Hugging Face Blog)*
+- [ ] 2026-11-05 [ホワイトボードの前で議論　「目指す何か」を描き出す](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020900021/103000229/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [データ活用は「伴走者」で決まる　走る現場を正しく見て支える技術](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/022000534/110200010/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [AIシステムの品質を確認　押さえるべき8つのポイント](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/100500575/110200002/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [サイバーレジリエンスのフレームワーク、「何を達成し、どう実現するか」を具体化](https://xtech.nikkei.com/atcl/nxt/column/18/03810/102900002/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [Edgeの垂直タブバーでタイトルを読みやすく、ページが増えても表示幅は同じ](https://xtech.nikkei.com/atcl/nxt/column/18/03778/093000002/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [ビデオ会議の手元資料を映したい、Androidスマホを標準機能で仮想カメラ化](https://xtech.nikkei.com/atcl/nxt/column/18/03775/092800006/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [大手新聞が指摘してもAIが進化しても、多重下請けはなくならない](https://xtech.nikkei.com/atcl/nxt/column/18/00166/110300211/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [住友ゴム、荒唐無稽な究極タイヤ　物理法則覆す「低温で軟化」に挑んだ執念](https://xtech.nikkei.com/atcl/nxt/column/18/03444/110200046/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [国債や株式のトークン化も視野、金融庁のオンチェーン金融フォーラムが始動](https://xtech.nikkei.com/atcl/nxt/column/18/03808/102800002/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [「入社後3カ月の流れを教えて」、エンジニアは中途面接で必ず確認しよう](https://xtech.nikkei.com/atcl/nxt/column/18/01775/110400292/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [Claude Codeを相棒に記者が月2kg減量、個人向けエージェントの可能性](https://xtech.nikkei.com/atcl/nxt/column/18/00138/110302138/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [富士通、Uvanceの軸足を汎用型から業種特化AIへ　5年で売上2.4倍目指す](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12146/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [富士通・日立・AWSも、「ソブリンAI」で競演　AI主権の機運に商機見いだす](https://xtech.nikkei.com/atcl/nxt/column/18/03795/102700004/) *(日経クロステック IT)*
+- [ ] 2026-11-05 [OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に](https://www.itmedia.co.jp/news/article/2611/05/2000002894/) *(ITmedia AI＋)*
+- [ ] 2026-11-05 [AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ](https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/) *(ITmedia AI＋)*
+- [ ] 2026-11-05 [設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携](https://monoist.itmedia.co.jp/mn/articles/2611/05/news011.html) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体](https://www.itmedia.co.jp/business/articles/2611/05/news018.html) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則](https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [予算止める側だったのに「増額」進言　現場の「伸びそう」応援する“CFOの右腕”設置、MIXIに何が起きた？](https://www.itmedia.co.jp/business/articles/2611/05/news025.html) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [深刻な「中国依存」を脱せるか　老舗問屋が動いた「空気を使った肥料づくり」とAI農業とは？](https://www.itmedia.co.jp/business/articles/2611/05/news019.html) *(ITmedia AI＋)*
+- [ ] 2026-11-04 [OSSは「プルリクエストを送る」から「自分用に直す」へ？　AI時代のメンテナーがPR受付を閉じると宣言した理由](https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html) *(ITmedia AI＋)*
+- [ ] 2026-11-05 [PLaMo 3 Translate：世界最高クラスの翻訳特化LLMの重み公開と開発秘話｜株式会社Preferred Networks](https://www.preferred.jp/ja/blog/tech/plamo-3-translate-weight-release) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [AIと「聖杯」は似ている。](https://blog.tinect.jp/?p=91573) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [AIデータセンター建設にブレーキ　テキサス州で反対派勝利、全米に波及 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN04BNW0U6A101C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [不正アクセス、個人情報「持たない」選択　ゆで太郎は会員制廃止 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC29A0T0Z21C26A0000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita](https://qiita.com/Syoitu/items/9364a0a175893bb15219) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [商品情報、若年層はインフルエンサーより生成AI信頼　サイバー調査 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC301IV0Q6A031C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [エンジニアはAIのせいで燃え尽き、働く意欲を失い、アイデンティティ喪失の危機に直面している【3万人調査】 \| Business Insider Japan](https://www.businessinsider.jp/article/2610-developers-are-burned-out-as-ai-coding-reshapes-work-survey/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [年収3000万円も電気代は8万円？ AI投資・トランプ関税の行方は \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261030de68759) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [無印良品の公式アプリ「MUJIアプリ」におけるお客さま情報流出の可能性について（第二報） \| ニュース \| 株式会社良品計画](https://www.ryohin-keikaku.jp/news/articles/2026_1104_02) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [現代のチェスAIを動かす30年前のPCと昔のチェスAIを動かす現代PCが対決、100局の勝敗は？](https://gigazine.net/news/20261104-modern-chess-engine-vs-pc/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [ChatGPT無料ユーザー、10月29日から返事がそっけなく――褒め言葉も減らす仕様変更に – shiritomo](https://hashout.jp/ai/13689/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [Apple、すべてのアプリがSiriに統合する機能を劇的に拡張する「Siri AI Developer Preview」を発表 \| NEWS \| Mac OTAKARA](https://www.macotakara.jp/news/entry-52225.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [Webデザインのインスピレーションを得られる！ デザインの細部に関するアイデアがまとめられた -Design Details](https://coliss.com/articles/build-websites/operation/work/designdetails.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-05 [日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた](https://av.watch.impress.co.jp/docs/review/review/2152900.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [メーカー自身がバックドアを仕込み、犯罪集団に“販売”　乗っ取られたTV用端末130万台超、Googleが遮断　日本の警察庁も参加](https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [無印良品「MUJIアプリ」情報流出は2726万件に、セゾン発行「MUJI Card」全桁も対象](https://k-tai.watch.impress.co.jp/docs/news/2153688.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [相次ぐWEBシステムからの情報漏洩事案について（第2報） \| セキュリティ研究センターブログ](https://security.macnica.co.jp/blog/2026/11/web-incidents2026-oct2.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [仏銀行にサイバー攻撃、約177億円流出 顧客に損失なし](https://www.afpbb.com/articles/-/3660864) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [Codexのセキュリティの仕組み - Sandbox・Trust・Approvalを理解する｜npaka](https://note.com/npaka/n/n00dcc54360eb) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [クラウドインフラのシェア、AWSが26％に後退、Google Cloudは16％に上昇。クラウドインフラ市場全体は過去最大の高成長率へ。2026年第3四半期、Synergy Research](https://www.publickey1.jp/blog/26/aws26google_cloud1620263synergy_research.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [GitHubで最も使われている言語は2年連続TypeScript、プルリクの増加率はRust。急成長したOSSはCC Switch、Omarchyなど。GitHub Octoverse 2026](https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」](https://gigazine.net/news/20261104-project-nomad/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん - Findy Media](https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [アララのメール配信サービス「アララ メッセージ」への不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/05/015717) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [AI時代に求められるペネトレーションテスト - ラック・セキュリティごった煮ブログ](https://devblog.lac.co.jp/entry/20261104) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [「JAXA Earth API」で地球観測データを容易に取得可能。QGIS用プラグインもあるので地図上への可視化も簡単にできる【地図と位置情報】](https://internet.watch.impress.co.jp/docs/column/chizu3/2152304.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [仏血液センターの冷蔵設備にサイバー攻撃　温度設定を不正変更、血液製剤への被害は回避](https://www.itmedia.co.jp/news/article/2611/05/2000002890/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [30周年を迎えて \| お知らせ \| Mac OTAKARA](https://www.macotakara.jp/etc/category-49/entry-52233.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [ドコモに不正アクセスの可能性 オンラインサービス停止 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261105de70776) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [第933回　Ubuntuが特定のCVEに対応できているかの確認方法 \| gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0933) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [Gist of Go: Concurrency](https://antonz.org/go-concurrency/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [家庭のＩｏＴ機器１３０万台をサイバー攻撃の中継地点に悪用、指令サーバーを無効化…警察庁・グーグル](https://www.yomiuri.co.jp/national/20261105-GYT1T00091/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [未知のサイバー脆弱性、米テックに共有要請へ　重要インフラ巡り政府 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA048DG0U6A101C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [日本郵便 サイバー攻撃で海外向け配送「UGX」一部停止 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261105de70691) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-05 [muse.ai＋githubでシステム開発やってみた](https://zenn.dev/lifona/articles/c9d46fd8e947ec) *(Zenn – トピック LLM)*
+- [ ] 2026-11-05 [速くすると答えが変わる──Flideが決定モデルの推論を厳密な状態フォークで9.5倍速くする仕組み](https://zenn.dev/lixian/articles/flide-exact-state-forking-decision-inference) *(Zenn – トピック LLM)*
+- [ ] 2026-11-05 [Mac mini M4 ProでローカルLLMを動かす：LM Studioの構築と運用で確認するポイント](https://zenn.dev/tpdd_gm/articles/mac-mini-m4-pro-lmstudio-local-llm) *(Zenn – トピック LLM)*
+- [ ] 2026-11-05 [引き継ぐことと、置き換えることは同義じゃない — 複数RuntimeでAI相棒を動かすための「混ぜない共有メモリ」設計](https://zenn.dev/0rv3/articles/6d7bfd7f2e326a) *(Zenn – トピック LLM)*
+- [ ] 2026-11-05 [VRAM 8GB・12GB・16GB 別、Cline で使うローカルモデルの早見表（実測の数字と設定値つき）](https://zenn.dev/shacikku3/articles/vram-cline-model-cheatsheet) *(Zenn – トピック LLM)*
+- [ ] 2026-11-05 [予測台帳：エージェントに確率を先に書かせ、別のモデルと翌朝採点](https://zenn.dev/aether_wing/articles/agent-prediction-ledger) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [RAGの動的検索でもプロンプトキャッシュは9割効くか？3社4方式の配置順別ヒット率と損益分岐点を実測検証](https://zenn.dev/ai_nexus_jp/articles/rag-prompt-caching-hitrate-experiment) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [Amazon Bedrock AgentCore Gatewayの推論ターゲットで利用者別のトークン上限を試してみた](https://zenn.dev/fusic/articles/a8a966f7f6124b) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [AIが別のAIの頭を直接直した。数学の正答率が7.9%→48.1%に](https://zenn.dev/sugawara_ai/articles/ai-news-20261104) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [Tech Watch 2026-11-05: 権限とエージェントの画面](https://zenn.dev/laiken/articles/20261105-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [Claude Code を Sonnet で動かし、判断だけ Opus に相談させ、下働きは Haiku に任せる設定を検証する](https://zenn.dev/scalar_sol_blog/articles/20261103-104939-claude-code-model-split) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [Recursive FlintをVRAM 6GBで動かす：UD-Q2_K_XL・n-cpu-moe 41で約25 tok/s](https://zenn.dev/localai_lab/articles/668d238e849df6) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [MCPツール定義の「スキーマ税」でトークンが溶ける！「全32ツール一括投入」vs「オンデマンド検索」で入力92.7%削減](https://zenn.dev/tappers/articles/ai-labo-e14-progressive-tool-search) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [AstraがQwenを「外科手術」？重み0.016%の編集で何が変わったのか](https://zenn.dev/akisayo/articles/weight-space-programming) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [GPUなしでAbliteration CLI『Heretic』を動かし、拒否率とKL発散を実測した](https://zenn.dev/matsushima_a/articles/day-036-heretic-abliteration-cpu-smoke-test) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [科学AIの信頼性は、LLMの推論だけでは決まらない](https://zenn.dev/ai_practitioner/articles/ea4de984a1d12d) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [2026年版 ローカルLLMに必要なVRAMの目安（Qwen3.8 27B / 24GB vs 32GB）](https://zenn.dev/harkbox/articles/e1a7a10c40c91d) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [Claude認定資格を日本語で受ける前に確かめる8つのこと（受験資格・申し込み・改訂）](https://zenn.dev/aishigoto/articles/cert-claude-exam-checklist-ja) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [RAGを作った話を「誰が困っていたか」から話し直す。開発者がアプライドAIアーキテクトの面接を受ける前の準備](https://zenn.dev/kotsulab/articles/38fec4399dc205) *(Zenn – トピック LLM)*
+- [ ] 2026-11-04 [学習なしでLLMの思考ループは直せるのか——重みを2か所編集する研究を、自宅のDGX Sparkで追試した](https://zenn.dev/sodeyama/articles/tech-weight-edit-thinking-loop) *(Zenn – トピック LLM)*
+- [ ] 2026-11-05 [サブエージェントに任せるか、今の会話でやるか：並列・出力隔離・レビューの4場面と費用](https://zenn.dev/ryuyanishino/articles/2c67dc24bfcb4658b3292bd5922bac2b) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [ChatGPTのdotで技術情報を蓄積し、評価を次の情報収集に返す](https://zenn.dev/kzk_maeda/articles/dot-tech-information-cycle) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [組込ユーザーの代理でエージェント実行可能に／ソース差替APIがBeta公開 \| What's New in Sigma 2026/10/30](https://zenn.dev/truestar/articles/7fe2cd5b2c09b4) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [Excelの大量データ集計をPythonで自動化する手順：695行の分類表を実際に集計して分かった注意点](https://zenn.dev/andyailab/articles/c863f6909ea8d0) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [HANDOFF 駆動開発 —— Claude Code に仕様書を渡して個人アプリを完走させる](https://zenn.dev/osprey74/articles/06-stilo-handoff-driven-development) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [今日の市場ブリーフィング](https://zenn.dev/bambampurin/articles/2026-09-23-market-daily) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [XとSubstackへの投稿を自動化するアプリを作りました](https://zenn.dev/aipython/articles/74eab3371fad50) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [写真1枚から7秒の「バイセップハート」動画を作るツールを作った：設計で決めたこと](https://zenn.dev/zaireprow/articles/75fde3bcad528c) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [AIは嘘をつく前提で。仕様準拠を exit code で判定する「spec-gate」を作った](https://zenn.dev/nozomi720/articles/spec-gate-harness) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [AIの「完了しました」を読まなくていい世界を作る。hook-gate と depgraph と spec-gate の設計意図](https://zenn.dev/nozomi720/articles/ai-harness-three-layers) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [AIでコードを書くのが簡単になったあと OSSはどう続いていくのか（CSS2026 OWS研究会）](https://zenn.dev/ultrasupara/articles/1efe7b63416a9f) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [なぜあなたのAI開発は破綻するのか？ 〜非エンジニアが3体の自律型AIを率いて、7.8万行の商用Webアプリを完成させた「チーム統率論」〜](https://zenn.dev/kazaboshi/books/autonomous-ai-mastery) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [Genesis で水と砂をシミュレーションする](https://zenn.dev/oggata/articles/13c100345ed318) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [AI協働：パソコンでかなフリック入力使う人なんているの？（笑）](https://zenn.dev/frb_tamasub/articles/ai-collaboration11-frb-kana-flick-press-conference) *(Zenn – トピック AI)*
+- [ ] 2026-11-04 [Kaggle初挑戦の記録①：コンペ決定と、登録・Notebookの使い方メモ](https://zenn.dev/py_ml_studio/articles/3bf3f8150513ea) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-04 [漢字画像生成モデルを学習した記録](https://zenn.dev/tonimono/articles/5a63d6eb32e6d3) *(Zenn – トピック 機械学習)*
