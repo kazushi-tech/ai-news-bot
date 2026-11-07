@@ -167265,3 +167265,43 @@
 - [ ] 2026-11-06 [機械学習の代表的なモデルの基本、実戦と設定可能なパラメータまとめ：ロジスティック回帰編](https://zenn.dev/yu_satokawa/articles/6fe6e1193ffebf) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-06 [[機械学習][用語解説]メトリック・ラーニング(Metric Learning)](https://zenn.dev/rg687076/articles/6fde27c38268a5) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-06 [おーぷん2ch発話の判定を通した音声・言語エンコーダの精度・速度比較](https://zenn.dev/ivry/articles/9bd9ca7f1e7699) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-07T03:20:13.679Z
+- [ ] 2026-11-06 [Neocloud Groq Aims to Double Value to $8 Billion Amid AI Selloff](https://www.bloomberg.com/news/articles/2026-11-06/neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff) *(Bloomberg Technology)*
+- [ ] 2026-11-06 [AI Selloff Exposes Data Center Boom Risks](https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-exposes-data-center-boom-risks-video) *(Bloomberg Technology)*
+- [ ] 2026-11-06 [AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ](https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/) *(ITmedia AI＋)*
+- [ ] 2026-11-06 [「ChatGPTの回答にリンクがない＝見られていない」　実は違うAIの情報収集](https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/) *(ITmedia AI＋)*
+- [ ] 2026-11-06 [AIで営業は効率化した、でもなぜ売れない？　成果を出す人が大切にしていること](https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/) *(ITmedia AI＋)*
+- [ ] 2026-11-07 [AIネオクラウド「8割消滅」予測　債務膨張、民主旋風が追い打ち - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-07 [東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植　実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 \| Ledge.ai](https://ledge.ai/articles/nicam_claude_code_migration) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-07 [【衝撃】Claudeを『ADHDモード』化する裏技が話題。コピペして貼るだけで1週間のタスクが4時間で終了へ : 凹凸ちゃんねる　発達障害・生きにくい人のまとめ](https://hattatu-matome.ldblog.jp/archives/63590888.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-07 [「お値打ちAI銘柄」太陽誘電が逆行高　悲観一色に差す光明 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-07 [AIで実装は速くなったのに、なぜアウトカムは増えないのか？ ボトルネックが移った先にあるエンジニアの仕事](https://codezine.jp/article/detail/30105) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-07 [AI時代の要求管理ハンドブック ～経営・現場・開発がともに描く、問いから実現への道筋～ \| 社会・産業のデジタル変革 \| IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/digital/kaihatsu/youkyu-kanri.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-07 [もう検索エンジンに戻れない](https://anond.hatelabo.jp/20260930202455) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。](https://posfie.com/@Acg3C2/p/NF0FdOe) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス](https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [agent-skills/plugins/kuden/skills/writing/SKILL.md at main · shokai/agent-skills](https://github.com/shokai/agent-skills/blob/main/plugins/kuden/skills/writing/SKILL.md) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [【重要】280blocker Android版の新規販売停止について \| 280blocker](https://280blocker.net/blog/20261106/20261106082700/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [OpenAIがサイバーセキュリティのためのAI「GPT-6 Cyber」を発表](https://gigazine.net/news/20261106-openai-gpt-6-cyber/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [GitHub - ppmpreetham/BUI: Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI](https://github.com/ppmpreetham/BUI) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [ドコモの顧客情報流出、本人確認書類の番号も　見舞金の支払い検討 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC0663J0W6A101C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [ベテランのツアコン「最近のiPhoneでピサの斜塔を撮影すると、ピサの斜塔が真っ直ぐに写る」どんなに頑張って撮影しても勝手に真っ直ぐに補正されるらしい？](https://togetter.com/li/2767589) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [私は Gemini ですが、 GeoAI と LLM / 生成AI は特段関係がなさそうです｜ゆいせき](https://note.com/yuiseki/n/n048539c60690) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-06 [画像内テキストが崩れないプロンプト設計：商品写真・広告向けチェックリスト](https://zenn.dev/decomytree/articles/781e53405126ee) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [AIが政策を議論したらどうなるか ― マルチエージェント討論とバーチャル議会の設計](https://zenn.dev/onelifevibe/articles/cd89b587413b8c) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [GodotでAIを使ってスプライト、ピクセルアート、タイルを作る方法](https://zenn.dev/zivaengine/articles/f68112e1c7c433) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [画像から3Dプリント用のSTLを作る：リトフェインとの違いと、約8万／約150万ポリの使い分けメモ](https://zenn.dev/xer97/articles/57f76704aabcef) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [生成したスプライトシートを Godot 4 / Unity に入れるときのメモ（5アクション前提）](https://zenn.dev/xer97/articles/6913c179bb40ff) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [AIによる政策討論は、トレードオフをどう見える化できるか](https://zenn.dev/onelifevibe/articles/499672aae38832) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [人間3分、AI48分。これは何分の仕事か？](https://zenn.dev/futoka/articles/ai-agent-effort-four-clocks) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [What is AI for? — Don’t think. Feel. と Be water.](https://zenn.dev/sugitakenji/articles/af925cba5484fb) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [SDカードをアルバムにする妻のために、元データを1バイトも触らないローカル写真管理ソフトをAIと作った話](https://zenn.dev/torakichi0428/articles/5e5573b10976a0) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [年間数億円のSaaSを、開発者一人バイブコーディングでリプレイスして感じた達成感と危機感](https://zenn.dev/ttake/articles/0b6c8f887b160e) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [Claude Codeのスキルで動画制作を自動化する設計 ― 声に合う字幕とffmpegの自己QA](https://zenn.dev/heynstudio/articles/a21ba753d44618) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [AIが書いたXの下書き14本のうち、6本を出さなかった —— 出さない理由を3つに決めておいた話](https://zenn.dev/ai_shihan/articles/5785b771e9583d) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [AI×開発組織Summit 2026｜2026年10月16日(金) 汐留開催｜参加レポート](https://zenn.dev/moritoki/articles/a505aed545a9ba) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [売るのはAIではなく成果だった ― 受託メニューの叩き台を作って考えたこと](https://zenn.dev/ai_secretary/articles/c8c24c30b32f4a) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった](https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [エージェントスキルの定量検証をしよう](https://zenn.dev/yasuakiomokawa/articles/d271586275672e) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [AIのスキルの手順を二重管理しない：SKILL.mdを正本に、READMEは入口だけにする](https://zenn.dev/madao1981/articles/20261021-skill-md-readme-split) *(Zenn – トピック AI)*
