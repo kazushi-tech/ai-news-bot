@@ -167368,3 +167368,78 @@
 - [ ] 2026-11-07 [Claude Codeと作る競馬予測システム開発記(11) 答え合わせと日次レビュー編](https://zenn.dev/teruyotasaki/articles/horse-racing-ml-dev-11-daily-review) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-07 [ResNetの構造を基礎から整理する：畳み込み・残差接続・BatchNormの位置](https://zenn.dev/972697325291316/articles/4888ab583d2f45) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-07 [機械学習の数学を固める技術書5選](https://zenn.dev/soraml/articles/20261107_book_ref) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-07T17:13:34.988Z
+- [ ] 2026-11-07 [Standing in the way of slop bowls: the woman blocking food delivery robots](https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-07 [Remember When Bosses Were Forcing Their Workers to Use AI? They’re Now Realizing They Made a Huge Mistake](https://futurism.com/artificial-intelligence/bosses-workers-ai-huge-mistake) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-07 [OpenAI Hears Voters’ Overwhelming Rebuke To Data Centers, Vows to Build More of Them](https://futurism.com/artificial-intelligence/openai-voters-more-data-centers) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-07 [New Democratic Congressional Majority Preparing Barrage of AI Legislation](https://futurism.com/future-society/democratic-majority-ai-legislation-regulation-elections) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-07 [AI Godfather Says to Get Ready for a Chernobyl-Style “Blackout” Caused by AI](https://futurism.com/artificial-intelligence/ai-godfather-chernobyl-blackout) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-07 [AI Safety Advocates Make Gains After $110 Million Midterm Fight](https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight) *(Bloomberg Technology)*
+- [ ] 2026-11-07 [AI Trade Faces a Post-Election Reality Check](https://www.bloomberg.com/news/videos/2026-11-07/ai-trade-faces-a-post-election-reality-check-video) *(Bloomberg Technology)*
+- [ ] 2026-11-07 [How does the digital ink in ereaders work?](https://www.engadget.com/2306305/how-does-ereader-nook-amazon-kindle-digital-ink-work/) *(Engadget)*
+- [ ] 2026-11-07 [Solar panel breakthrough could almost double the efficiency of today's panels](https://www.engadget.com/2306188/solar-panel-efficiency-breakthrough-doubles-output/) *(Engadget)*
+- [ ] 2026-11-07 [This GPS navigation app should be the go-to for older drivers](https://www.engadget.com/2305919/gps-navigation-app-go-to-older-drivers-google-maps/) *(Engadget)*
+- [ ] 2026-11-07 [What gamers should know when bringing their consoles through TSA](https://www.engadget.com/2305767/gamers-tsa-game-console-rules/) *(Engadget)*
+- [ ] 2026-11-07 [The right way to fix your MacBook keyboard if it isn't responding](https://www.engadget.com/2305570/macbook-keyboard-fix-not-responding/) *(Engadget)*
+- [ ] 2026-11-07 [Cleaning your PC with expired isopropyl alcohol can be risky — here's why](https://www.engadget.com/2305456/why-isopropyl-alcohol-degrades-pc-cleaning/) *(Engadget)*
+- [ ] 2026-11-07 [How to use your old tablet to build a live streaming setup](https://www.engadget.com/2304970/how-to-build-live-streaming-setup-with-old-tablet/) *(Engadget)*
+- [ ] 2026-11-07 [How iOS can warn you when one of your passwords shows up in a data leak](https://www.engadget.com/2305444/how-ios-warn-password-shows-up-data-leak/) *(Engadget)*
+- [ ] 2026-11-07 [Why you don't really need an expensive, high-end router](https://www.engadget.com/2305411/why-you-dont-need-expensive-high-end-router/) *(Engadget)*
+- [ ] 2026-11-07 [Windows PowerToys can automate some of your more tedious PC tasks](https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks/) *(Engadget)*
+- [ ] 2026-11-07 [The accessory Samsung Galaxy S26 users should be taking advantage of](https://www.engadget.com/2304963/samsung-galaxy-s26-users-accessory-take-advantage-of/) *(Engadget)*
+- [ ] 2026-11-07 [What's the point of buying a touchscreen laptop when you could just get a tablet?](https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/) *(Engadget)*
+- [ ] 2026-11-07 [China's main intelligence agency reportedly recruited the spy who targeted NVIDIA's CEO](https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/) *(Engadget)*
+- [ ] 2026-11-07 [Why PlayStation can't hold a candle to Xbox's backward compatibility](https://www.engadget.com/2305049/playstation-cant-hold-candle-to-xbox-backwards-compatibility/) *(Engadget)*
+- [ ] 2026-11-07 [How to use Gboard to boost productivity on your Android phone](https://www.engadget.com/2305040/how-to-use-gboard-boost-productivity-android-phone/) *(Engadget)*
+- [ ] 2026-11-07 [This is when external DACs for your phone are worth buying](https://www.engadget.com/2304952/when-external-dac-worth-buying-for-phone/) *(Engadget)*
+- [ ] 2026-11-07 [November is the month of fake Black Friday tech deals - here's how to spot them](https://www.engadget.com/2304942/black-friday-fake-tech-deals-how-to-spot/) *(Engadget)*
+- [ ] 2026-11-07 [10 of the coolest features in Samsung's new One UI 9 update](https://www.engadget.com/2305270/samsung-one-ui-9-coolest-features/) *(Engadget)*
+- [ ] 2026-11-07 [Engadget review recap: Apple devices, Googlebooks and Kindles](https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/) *(Engadget)*
+- [ ] 2026-11-07 [AI時代に求められる優秀なTechLeadの振る舞い](https://speakerdeck.com/pospome/ai-jidai-ni-motomerareru-yuushuuna-techlead-no-furumai-2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-07 [【注意事項】全日本ジュニアに出場する選手の頭髪について – 一般社団法人 全日本空手審判機構（JKJO）](https://karate-jkjo.jp/news/jkjo20th_hair_caution1/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-07 [VoidでWebアプリを作ろう！](https://void-workshop.yusuke.run/phpmatsuri) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [シーリングライトの様子がおかしいので蓋開けて中を見てみたらこの有様「みたらし団子かと」「何がどうしてそうなった？」](https://togetter.com/li/2767778) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例](https://gibberishlab.com/blog/oss-ai-agent-harness-philosophy) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 \| ゲーム・エンタメ最新情報のファミ通.com](https://www.famitsu.com/article/202611/93352) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [運用しながら改善する LLM-as-a-Judge の構築 - Timee Product Team Blog](https://tech.timee.co.jp/entry/2026/11/05/101407) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [証明駆動開発（PDD Kit）とは｜エージェントのコードを行ごとに読まずに信頼する GitHub Next の試み](https://ai-heartland.com/explain/proof-driven-development/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [Microsoft Entra Kerberos で実現するクラウド デバイス管理](https://speakerdeck.com/tamaiyutaro/microsoft-entra-kerberos-de-jitsugen-suru-kura-udo-debaisu-kanri) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [Active Directory と Entra ID のむむむな関係](https://speakerdeck.com/murachiakira/entraidandaddc-20261106) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [LDRライクなRSSリーダのIrodrをReact 19 + Vite+で書き直して、iPhone Duoにも対応した](https://efcl.info/2026/11/07/irodr-2/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [Inside GitHub's new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [SpaceX、Qualcommと複数年契約　「Starlink Mobile」の地上5G網を2027年から全米に展開へ](https://www.itmedia.co.jp/news/article/2611/05/2000002889/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [パブリックサブネットを持たない Web配信基盤の現在地 \| ドクセル](https://www.docswell.com/s/suzryo/KDMX88-2026-11-07-160134) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [LLMの回答を安全に表示する React / React Native 向け Markdown レンダラーを作った](https://zenn.dev/mickeyichi/articles/4fb6f931469455) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [Vercel Labsのagent-browserを試す: アクセシビリティツリーでAIエージェントがブラウザを操作する](https://zenn.dev/matsushima_a/articles/day-039-agent-browser-accessibility-tree) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [AIで仕事は回る。では、私たちはどこで育つのか](https://zenn.dev/revo1290/articles/ai-era-where-we-grow) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [osFoundryが常駐Claude Codeセッションにチャンネル履歴を二度送らない仕組み](https://zenn.dev/bbt/articles/b94c58532e97ec) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [LM Studio のローカル AI から、MCP でスマホのシンセを操作して曲を作る](https://zenn.dev/meas_nobu/articles/040daa3bcd2daa) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [LLMの世界モデルを「逆向き」から探る――生成過程の不可逆性という視点](https://zenn.dev/koheip/articles/llm-world-model-irreversibility) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [osFoundryとは?チャットからローカルモデルまで、デスクトップAIワークスペースの全体像](https://zenn.dev/tauchi/articles/f361acf354d648) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [なぜAIの文章は「正しいのに読みづらい」のか？最新論文が暴いた「AI臭」の正体](https://zenn.dev/lumichy/articles/why-ai-text-is-hard-to-read-2026) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [モード切替なしでローマ字・英単語混在文を一括変換するAI入力メソッド「UnimeType」の設計と仕組み](https://zenn.dev/unimetype/articles/dfa2a1307aa531) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [メモリ管理のアーキテクチャを意外な文書から考えついた](https://zenn.dev/cosmopanda/articles/raiya-memory) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [構造化出力とJSON Schema入門：AIの返答を安全に処理するための設計](https://zenn.dev/yushiyamamoto/articles/structured-output-json-schema-2026-09) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [AIが身体を知る前の時代に名前をつけた話 — 「cherry（AIの呼び名）」](https://zenn.dev/lock_sta/articles/4ffcc2965dda45) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [ローカルLLM study11: LFM2.5-24B-A2B（2-bit量子化のMoE）を、27B級の2モデルと同じ条件で測る](https://zenn.dev/tkpurine/articles/local-llm-study-011-lfm2-5-24b-a2b-gguf-ud-q2-k-xl) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [Decision 3.0（vLLM Semantic Router）を読み解く：生成せずに「選ぶ」8サイズのモデルは何が違うのか](https://zenn.dev/tatsuyaaaaaaa/articles/a15bf06d818ad2) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [無料枠3,000リクエストで「新規事業のAIエージェントチーム」 ─ さくらのAI Engine 5モデルを分担させる日次バッチ](https://zenn.dev/knbzyh/articles/107244226b97ee) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [Claude Code・Codex・Antigravityの週の利用枠を、余らせずに自動で使い切る仕組み](https://zenn.dev/shinai/articles/ai-weekly-quota-autorun) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [攻撃を演習環境の外に出さない：Security Audit Skillで自宅レッドチームラボのIaCを監査した](https://zenn.dev/malwaresuk/articles/security-audit-skill-redteam-lab) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [#gpt-6.1-terraで画像・操作計画・JSONを試した実測メモ：GPT-6.1 Terraの使いどころ](https://zenn.dev/boluoji/articles/61672b80cdb2be) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [AIがお金を使う前にスマホで聞いてくれる「AIの財布番」を作りました](https://zenn.dev/saihu/articles/951271fa23e4ea) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [今日の市場ブリーフィング](https://zenn.dev/bambampurin/articles/2026-09-24-market-daily) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [普通では撮れない運転データを作る (悪天候・災害・事故の一歩手前)](https://zenn.dev/oggata/articles/7310903e55cb78) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [農業×AI週間トレンド 11/4〜11/7](https://zenn.dev/unagi_labo/articles/ebf13dcdc0434f) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [Claude Codeの操作をルールで止める仕組みと限界](https://zenn.dev/tomsolog/articles/20261010-claude-code-permissions-guide) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [Claude CodeからAPIキーなどの秘密情報を守る設定](https://zenn.dev/tomsolog/articles/20261104-claude-code-permissions-quickstart) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [9 年前に書いた同人誌を、AI と一緒に増補改訂した](https://zenn.dev/kokuyouwind/articles/20261107-informatics-girl-ai-revision) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [Herdr のターミナル UI は、仕事をしっかりこなす。Shepi は、その作業を Mac でもっと快適にする。](https://zenn.dev/xwiox/articles/d0f5e6dca4b435) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [DSH本体を安全に改造する規約設計](https://zenn.dev/skiptheslop/articles/fceab5d7d57145) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [なぜ企業はAI駆動開発に取り組めないのか](https://zenn.dev/matsunaopen/articles/ai-driven-dev-adoption-barriers) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [「実装完了」のはずが、中心機能が動いていなかった話](https://zenn.dev/dev_to_earn/articles/92c1f67ad02ec2) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [Xのいいねとリポストを、AIブラウザで整理](https://zenn.dev/zhaojiayi/articles/9549a83ebf3324) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [【Meshy vs Tripo vs Hyper3D】3D生成AIはどれが良い？同じイラストで比較してみた](https://zenn.dev/daichi_gamedev/articles/3dai-compare) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [失敗を記録に残して設計に返す ― 「失敗記録」の育て方](https://zenn.dev/ai_secretary/articles/a887c02269a13d) *(Zenn – トピック AI)*
