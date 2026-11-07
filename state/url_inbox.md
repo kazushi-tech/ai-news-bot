@@ -167305,3 +167305,66 @@
 - [ ] 2026-11-06 [毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった](https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria) *(Zenn – トピック AI)*
 - [ ] 2026-11-06 [エージェントスキルの定量検証をしよう](https://zenn.dev/yasuakiomokawa/articles/d271586275672e) *(Zenn – トピック AI)*
 - [ ] 2026-11-06 [AIのスキルの手順を二重管理しない：SKILL.mdを正本に、READMEは入口だけにする](https://zenn.dev/madao1981/articles/20261021-skill-md-readme-split) *(Zenn – トピック AI)*
+
+## Collected on 2026-11-07T11:57:37.114Z
+- [ ] 2026-11-07 [Steve Jones on dangerous tech innovations – cartoon](https://www.theguardian.com/commentisfree/picture/2026/nov/07/steve-jones-dangerous-tech-innovations-cartoon-ai-fire) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-07 [Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim](https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-07 [The datacentre arms race hits pause in south-east Asia](https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-07 [Can AI really save you money on your heating bill? I spent two years testing to find out](https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-07 [Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough](https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-07 [Governor-Elect of Texas Announces Plans to Control Elon Musk](https://futurism.com/future-society/texas-governor-elon-musk) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-07 [Meloni Blames Pro-Russian Hackers for Cyberattack on Minister](https://www.bloomberg.com/news/articles/2026-11-07/meloni-blames-pro-russian-hackers-for-attack-on-foreign-minister) *(Bloomberg Technology)*
+- [ ] 2026-11-07 [Russia’s Rosstat Struggles to Restore Systems After Major Cyberattack](https://www.bloomberg.com/news/articles/2026-11-07/russia-s-rosstat-struggles-to-restore-systems-after-major-cyberattack) *(Bloomberg Technology)*
+- [ ] 2026-11-07 [SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal](https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal) *(Bloomberg Technology)*
+- [ ] 2026-11-07 [Claude Academy](https://academy.claude.com/ja/courses/introduction-to-evals) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-07 [Google Antigravity 2.29 が公開。クラウドで動くリモートエージェントと音声モードを追加 \| HelenTech](https://helentech.jp/news-antigravity-2-29-adds-remote-agents-voice-mode-93305/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-07 [AI is dramatically accelerating AI research right now](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-07 [THE MODAL EARTH — 旋法の地球儀](https://musica-terra.com/interactive/modal-earth/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-07 [ワイヤレス主流時代になぜ？「有線イヤホン」再流行のワケ【THE TIME,】  \| TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/3068819) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261107de72062) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい](https://togetter.com/li/2767610) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [AI時代に求められる優秀なTechLeadの振る舞い - pospomeのプログラミング日記](https://www.pospome.work/entry/2026/11/07/192125) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [120FPS達成が大変だった話。](https://project-asura.com/blog/archives/14007) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [ISUCON2026をClaude Codeが優勝したらしい｜laiso](https://sizu.me/laiso/posts/k59is4cnd77f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [ロート製薬、約280万人分の個人情報漏えい　9715件は通話音声データとクレカ情報が流出](https://www.itmedia.co.jp/news/article/2611/06/2000002984/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [上司に｢クビだ｣と罵られた設計で"日本人初受賞"…ホンダジェット開発者が30年かけて覆した｢飛行機の常識｣](https://president.jp/articles/-/121455) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有](https://forest.watch.impress.co.jp/docs/news/2154396.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [KDDIの通信品質、「横浜・福岡でパケ止まり約3割減」　楽天ローミング縮小で](https://k-tai.watch.impress.co.jp/docs/news/2154433.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [GitHub - soudai/postgresql-use-improve-agents-skill](https://github.com/soudai/postgresql-use-improve-agents-skill) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [長いパスワードで認証を回避する脆弱性「*sshole」、「Alpine Linux」などに影響／2016年から存在、「OpenSSH 10.6p2」で対策](https://forest.watch.impress.co.jp/docs/news/2154439.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [AppleのAVFを利用しターミナル内にAIエージェントが操作できるmacOS仮想マシンを作成できる「Terminal-Mac」がリリース。](https://applech2.com/archives/20261106-terminal-mac-macos-running-in-your-terminal.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [年末調整の書類、どこから書けばいい？ 基礎控除申告書の収入・所得を算出するには？【2026年(令和8年分)年末調整の書き方ガイド 前編】](https://internet.watch.impress.co.jp/docs/special/2154000.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-07 [llama2.c を学科PCで最速で動かしたい](https://zenn.dev/cullisto/articles/repo_llama2c) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [日本語で話しかけるとPythonを書いて動く六本脚ロボットを、ネットにつながないローカルAIで作った](https://zenn.dev/xzero_001/articles/fd184d4bea1bc7) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [LLM-as-Judgeを使うときはバイアスに注意する](https://zenn.dev/yuya0408/articles/llm-as-judge-cutoff-not-ranking) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [LLMエージェント基盤のシステム設計 #4 信頼性（障害復旧・キャンセル・実行状態の保存）](https://zenn.dev/acntechjp/articles/3548ec2a9e741a) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [Claude Codeの/advisorパターンを実機検証！「単一モデル反復」vs「Advisor設計＋Executor実装」比較](https://zenn.dev/tappers/articles/ai-labo-e18-advisor-executor-routing) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [劣るAIを「環境」で勝たせる ― Museに課金するか迷っている人へ](https://zenn.dev/bunkeideploy/articles/8cff1a003fab13) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [Weight-Space Programming やってみた(やらせてみた)](https://zenn.dev/nwn/articles/cf9fe78aa33861) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [PLaMoでQwen3.8-Flash-Nextを高速化したい](https://zenn.dev/k7ly/articles/dgx-spark-qwen-plamo) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [VS CodeでローカルLLMを使うときの設定・タイムアウト・モデル選択の確認手順](https://zenn.dev/tpdd_gm/articles/vscode-lmstudio-local-model-troubleshooting) *(Zenn – トピック LLM)*
+- [ ] 2026-11-06 [Mac で無料・正確な日本語読み上げ ── Kokoro と yomiscript の仕組みと使い方](https://zenn.dev/singularity/articles/yomiscript-kokoro-tts) *(Zenn – トピック LLM)*
+- [ ] 2026-11-06 [個人開発のDifyプラグインを、公式マーケットプレイスに載せるまで](https://zenn.dev/kuronurikun/articles/fd7f181d222cb8) *(Zenn – トピック LLM)*
+- [ ] 2026-11-06 [Difyで、個人情報をLLMに渡さずにチャットボットを作る](https://zenn.dev/kuronurikun/articles/d9f1d11d0611ef) *(Zenn – トピック LLM)*
+- [ ] 2026-11-06 [Tech Watch 2026-11-07: 検証できる境界](https://zenn.dev/laiken/articles/20261107-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-11-06 [LLM 学習チェックポイントの設定をどう決めるか](https://zenn.dev/tosshi/articles/dcf057e8b99eda) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [CLAUDE.md は削っても戻る。だから「今の字数」を上限にした](https://zenn.dev/maura/articles/0a3f541be9f42d) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [リファクターの判断はAIに任せない ― git履歴から候補を出して、テックリードと答え合わせする](https://zenn.dev/litalico/articles/84d2427087c27b) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [ブランチ保護のない private リポで、Claude Code の main への push を止める守りを「割り切って」作り直した話](https://zenn.dev/sk8jp/articles/937288f65fcfab) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [コードを読まずにClaude Codeへ作らせた仕組みを人に渡そうとしたら、止まる所のほとんどはAIが作者のPCに合わせて足した門だった](https://zenn.dev/kirinukiauto/articles/20ca9307f2d268) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [Live3D Face SwapのAI顔入れ替え機能はどう選ぶ？集合写真1枚と複数の写真で使い分ける](https://zenn.dev/ellafisherwrite/articles/b87d66c80a6b81) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [2026年11月までの論文投稿振り返り](https://zenn.dev/sugamamasayuki/articles/493363b207645c) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [Claude Code利用者のためのclaude-mem実践ガイド｜セッションを閉じても文脈を忘れない長期記憶を6つのhookで自動記録する](https://zenn.dev/ikahan/books/claude-mem-guide) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [Claude Code の窓を増やしても、仕事は1つの窓に集まる。役の分け方と CLAUDE.md の書き方](https://zenn.dev/ciel_lab/articles/5a9291e5cc3128) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [音楽生成の遅延とGPUジョブ遅延を混ぜない短い設計メモ](https://zenn.dev/jessica1007/articles/77ae5da0076c37) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [ChatGPTはGIF、Googleの動画は30%安く。裏で電力に逆風](https://zenn.dev/sugawara_ai/articles/ai-news-20261106) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [「コードを書くだけの人はいらない」は、AI の前からそうだったのかもしれない](https://zenn.dev/kaji_kaji/articles/personality-before-tech) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [「人が編集した感じ」をAIに伝える：好みを言語化して指示に落とすコツ](https://zenn.dev/shoyomayabot/articles/verbalize-preferences-for-ai) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [Babylon.js：AI駆動でつくる Hit&Blow / Numer0n](https://zenn.dev/fnamuoo/articles/a5ae68d2a8f31c) *(Zenn – トピック AI)*
+- [ ] 2026-11-06 [AIと喧嘩しながら挑んだソフトウェアラジオ開発：9千円のLNA、停波していた衛星、そして気象衛星・ISS受信への道](https://zenn.dev/twsnmp/articles/twnoaa-rtl-sdr-satellite-ai) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [計測工学・機械学習・生成AIのための応用数学 計算ドリル80題](https://zenn.dev/qwerewq/articles/7044b8de389de4) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-07 [Kaggle挑戦の記録と、機械学習手法の勉強まとめ](https://zenn.dev/py_ml_studio/articles/170b292f42479d) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-07 [Kaggle初挑戦の記録②：簡易EDAとベースラインで初提出](https://zenn.dev/py_ml_studio/articles/572671365bcc34) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-07 [Claude Codeと作る競馬予測システム開発記(11) 答え合わせと日次レビュー編](https://zenn.dev/teruyotasaki/articles/horse-racing-ml-dev-11-daily-review) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-07 [ResNetの構造を基礎から整理する：畳み込み・残差接続・BatchNormの位置](https://zenn.dev/972697325291316/articles/4888ab583d2f45) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-07 [機械学習の数学を固める技術書5選](https://zenn.dev/soraml/articles/20261107_book_ref) *(Zenn – トピック 機械学習)*
