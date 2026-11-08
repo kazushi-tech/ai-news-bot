@@ -167507,3 +167507,38 @@
 - [ ] 2026-11-08 [型を教える前に現場を読ませる──オープン・ミッドトレーニングがSWEエージェントの下地を500Bトークンで作る仕組み](https://zenn.dev/lixian/articles/priming-base-models-midtraining) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-07 [BigQuery の TabFM と LightGBM を Diamonds で比較](https://zenn.dev/ttomo_tommy/articles/tabfm-vs-lightgbm-diamonds) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-07 [セルラーオートマトン（CA）から理解するニューラルセルラーオートマトン（NCA）入門](https://zenn.dev/yyam/articles/62e60d3bf68598) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-08T12:15:49.034Z
+- [ ] 2026-11-08 [‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints](https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-08 [1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box \| Heather Stewart](https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-08 [Tom Gauld on prompts for a cartoon about artificial intelligence and writing – cartoon](https://www.theguardian.com/books/picture/2026/nov/08/tom-gauld-on-prompts-for-a-cartoon-about-artificial-intelligence-and-writing-cartoon) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-08 [The efficiency trap: why optimising everything can backfire, badly](https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-08 [Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?](https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-07 [A hidden limit of space and time could unlock electronics 100,000 times faster](https://www.sciencedaily.com/releases/2026/11/261106174537.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-11-08 [I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good](https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-08 [World Models Will Soon Be Inescapable. Here’s What You Need to Know](https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-08 [Anthropic Buys Power for AI Data Centres in $3.4B Deal, FT Says](https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says) *(Bloomberg Technology)*
+- [ ] 2026-11-08 [日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.](https://posfie.com/@su_damari/p/xvcxjNy) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-08 [警告:ジャンプルーキーはそのうちAI漫画で埋まる](https://anond.hatelabo.jp/20261108174809) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-08 [Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは \| 建設ITブログ](https://ken-it.world/it/2026/11/sumicad-free-bim.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-08 [AI生成の証拠「透かし」がユーザー追跡の「スパイマーク」と化している](https://gigazine.net/news/20261108-spymarks-not-watermarks/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-08 [生成AI時代のIAMのマニアックな話](https://speakerdeck.com/takuros/jaws-festa-2026-public) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-08 [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic · Hugging Face](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-08 [数百ページのPDF文書を一括解析できるローカルAI「Unlimited OCR 2」、NVIDIA開発の文字起こし音声AI「Nemotron 3.5 Transcribe」など生成AI技術5つを解説（生成AIウィークリー） \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/11/06/5679.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-08 [ホテル川久に宿泊し、バブルの夢を偲ぶ - 生存記録](https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [個人情報“手放す”企業続々 「持たないことが抜本的な解決に」 漏えいなくても運用変更も【#みんなのギモン】（2026年11月8日掲載）｜日テレNEWS NNN](https://news.ntv.co.jp/category/economy/4524fbcdecaf445bac0d956439508aca) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 \| Hiraoku.dev](https://hiraoku.dev/blog/mcp-cli-cloud/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [リストラします。会社のMacBookは引き続き使えます](https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [仕事、ドパ越えて利益 - オイオイオイ書くわアイツ](https://ttmmjm.hatenablog.com/entry/2026/11/06/135935) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [AWSを利用する上で知っておきたい名前解決の話 2026](https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [Windowsに市販のセキュリティソフトは必要か｜npaka](https://note.com/npaka/n/nf119bada91e7) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [【重要】不正アクセスによる情報流出に関するお詫びとお知らせ（第一報）](https://corporate.teket.jp/news/privacy_261108) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [Macのセキュリティの仕組み - 標準機能と安全に使うための対策｜npaka](https://note.com/npaka/n/nae09bd9ce37d) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [Weight-Space Programming を試す - Qwenをずんだもん口調にする｜npaka](https://note.com/npaka/n/n703107f1009a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [ワークマンの新リカバリーウェアを着てみた　温度調節が快適【いつモノコト】](https://www.watch.impress.co.jp/docs/series/itsmo/2153603.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [オープンソース監視ツールのLTS版「Zabbix 8.0 LTS」、OpenTelemetryにネイティブ対応しオブザーバビリティを強化](https://cloud.watch.impress.co.jp/docs/news/2154360.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [What I run on my $10 USD OpenStick homelab \| Bosscher](https://blog.bosscher.ch/posts/openstick/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [生成AI広告「ネガティブな印象」5割超　故人や実在人物の生成に抵抗感 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC0569T0V01C26A1000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [WordPress 7.2からランダムなページにリダイレクトする謎機能が実装されることに – Capital P – WordPressメディア](https://capitalp.jp/2026/11/06/wordpress-7-2-random-redirect/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [AI返信の例外をFAQへ昇格する条件を決める](https://zenn.dev/miraigent/articles/ai-reply-faq-promotion-gate) *(Zenn – トピック AI)*
+- [ ] 2026-11-08 [FA案件の仕様書をClaude Desktopに全文読ませる——docxは本文と表を文書の順に、xlsxは全シートを読む手順](https://zenn.dev/kensho_ya/articles/fa-spec-docx-xlsx-full-read-skill) *(Zenn – トピック AI)*
