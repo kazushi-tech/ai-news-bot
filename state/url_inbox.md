@@ -167443,3 +167443,67 @@
 - [ ] 2026-11-07 [Xのいいねとリポストを、AIブラウザで整理](https://zenn.dev/zhaojiayi/articles/9549a83ebf3324) *(Zenn – トピック AI)*
 - [ ] 2026-11-07 [【Meshy vs Tripo vs Hyper3D】3D生成AIはどれが良い？同じイラストで比較してみた](https://zenn.dev/daichi_gamedev/articles/3dai-compare) *(Zenn – トピック AI)*
 - [ ] 2026-11-07 [失敗を記録に残して設計に返す ― 「失敗記録」の育て方](https://zenn.dev/ai_secretary/articles/a887c02269a13d) *(Zenn – トピック AI)*
+
+## Collected on 2026-11-08T02:49:30.094Z
+- [ ] 2026-11-07 [FAA announces first US digital air traffic control towers in Florida and Alaska](https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-07 [CoreWeave Asks Texas Governor-Elect for Data Center Cooperation](https://www.bloomberg.com/news/articles/2026-11-07/coreweave-asks-texas-governor-elect-for-data-center-cooperation) *(Bloomberg Technology)*
+- [ ] 2026-11-07 [AI Backlash Spreads Across Europe With Data Center Protests](https://www.bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests) *(Bloomberg Technology)*
+- [ ] 2026-11-08 [Syncing Apple Music across your devices is easier than you think](https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/) *(Engadget)*
+- [ ] 2026-11-08 [Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program](https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/) *(Engadget)*
+- [ ] 2026-11-08 [How do spam callers get your number in the first place?](https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/) *(Engadget)*
+- [ ] 2026-11-08 [What does Apple One Family come with and which subscription is best for you?](https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/) *(Engadget)*
+- [ ] 2026-11-08 [10 useful iPad apps that could make your daily life easier](https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/) *(Engadget)*
+- [ ] 2026-11-08 [Why you shouldn't remove the screen protector film on your Nintendo Switch 2](https://www.engadget.com/2307095/why-keep-nintendo-switch-2-screen-protector/) *(Engadget)*
+- [ ] 2026-11-07 [Why you should never put your PlayStation 5 on a carpeted floor](https://www.engadget.com/2306821/why-never-put-playstation-5-on-carpeted-floor/) *(Engadget)*
+- [ ] 2026-11-07 [The pros and cons of using an Amazfit smartwatch](https://www.engadget.com/2306820/using-amazfit-smartwatch-pros-and-cons/) *(Engadget)*
+- [ ] 2026-11-07 [Claude Personal Finance vs. ChatGPT Finances: What sets them apart?](https://www.engadget.com/2310182/claude-vs-chatgpt-personal-finance-comparison/) *(Engadget)*
+- [ ] 2026-11-07 [What discs can a PlayStation 5 play?](https://www.engadget.com/2306942/playstation-5-playable-discs-explained/) *(Engadget)*
+- [ ] 2026-11-07 [What does NAT type mean for online gaming?](https://www.engadget.com/2309599/what-nat-type-means-online-gaming/) *(Engadget)*
+- [ ] 2026-11-07 [The disadvantages of owning smart refrigerators](https://www.engadget.com/2309569/disadvantages-owning-smart-refrigerators/) *(Engadget)*
+- [ ] 2026-11-07 [Is your router overheating? Here's how to keep it cool and working safely](https://www.engadget.com/2306359/how-to-keep-router-from-overheating/) *(Engadget)*
+- [ ] 2026-11-07 [How often should you restart your Fitbit watch?](https://www.engadget.com/2309565/how-often-should-restart-fitbit-watch/) *(Engadget)*
+- [ ] 2026-11-07 [The built-in iPhone app for creativity you may be ignoring (but shouldn't)](https://www.engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform/) *(Engadget)*
+- [ ] 2026-11-07 [Your EV's battery is big enough to run your house — here's what stops most people](https://www.engadget.com/2309559/ev-battery-can-power-house-what-stops-most-people/) *(Engadget)*
+- [ ] 2026-11-07 [Your old iPod could be a sleeper flash drive](https://www.engadget.com/2306204/old-ipod-sleeper-flash-drive/) *(Engadget)*
+- [ ] 2026-11-07 [There is no end in sight for the GPU supply problem](https://www.engadget.com/2309554/gpu-supply-problem-no-end-in-sight/) *(Engadget)*
+- [ ] 2026-11-07 [How long should a PC processor actually last?](https://www.engadget.com/2309550/how-long-pc-processor-should-last/) *(Engadget)*
+- [ ] 2026-11-07 [Is AMD's Ryzen 7 5800X3D CPU still worth buying in 2026?](https://www.engadget.com/2309549/amd-cpu-ryzen-7-5800x3d-worth-buying-2026/) *(Engadget)*
+- [ ] 2026-11-07 [【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理](https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html) *(ITmedia AI＋)*
+- [ ] 2026-11-08 [「国が博打を打たせているようなもの」アメリカ中間選挙の結果に株式市場は沸いたが、NISAなど株価が上がる政策は問題をすり替えている印象を感じられる](https://togetter.com/li/2767802) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-08 [Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化](https://zenn.dev/tomipetit/articles/zero-wire-github-actions) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-08 [Sakutto - Local AI translation - Chrome Web Store](https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も](https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [「燃やす」ってなに？](https://anond.hatelabo.jp/20261107090533) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能](https://gigazine.net/news/20261107-harmony/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [思想が強いのではない，ただイキっているだけ](https://wtrclred.io/ja/posts/29) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [Amazonで探す、ChatGPTが使いやすいノートパソコン10選｜持ち歩きと自宅作業で選ぶ｜スプリー \| 軽やかノート](https://note.com/spry_bounce_note/n/n130dd232030e) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [FMV Display V2403(CF)（USB-C/HDMI×2入力） \| K0AK0025JF](https://www.fmv.com/store/p/accessories/monitor/vt_f/k0ak0025jf) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [OpenAI、セキュリティ特化AIモデル「GPT-6 Cyber」を発表、一部顧客に限定提供／Firefox、Linuxカーネル、Brotliの脆弱性発見・検証に活躍](https://forest.watch.impress.co.jp/docs/news/2154238.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-08 [Claude Codeがメアドを送った？利用者の指摘が波紋](https://zenn.dev/sugawara_ai/articles/ai-news-20261107) *(Zenn – トピック LLM)*
+- [ ] 2026-11-08 [evals の次の一歩 ── 評価ツール・練習問題の自動生成・プロンプトの自動改善を、公式文書と論文で調べた](https://zenn.dev/singularity/articles/llm-evals-tools-data-optimizers) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [月$0.99でコーディングエージェントを回す — 格安クラウドLLM 5社を実測した](https://zenn.dev/rigprobe/articles/9dedab8c9101f8) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [Tech Watch 2026-11-08: エージェントの検証と記憶](https://zenn.dev/laiken/articles/20261108-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [DeepL に貼れない文章用に、PLaMo 3 Translate を完全ローカルで動く翻訳アプリにした](https://zenn.dev/fizor/articles/9000d4ff1a95b9) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [日本のビジネスシーンで日々直面する5つの判定タスクで、機械的判定・LLM・判定専用モデルを比べた](https://zenn.dev/nemolize/articles/judge-models-japanese-tasks) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [画像・動画生成スキルは「どのキーで、どこに課金されるか」で選ぶ: Claude Code 向け SKILL.md を読み比べた](https://zenn.dev/skillselion/articles/f9e8735f6b4f1c) *(Zenn – トピック LLM)*
+- [ ] 2026-11-07 [LLaDA論文を実装目線で読む：予測候補と次の状態を分ける](https://zenn.dev/kas_blog/articles/20260914-llada) *(Zenn – トピック LLM)*
+- [ ] 2026-11-08 [【連載第3回】ゼロトラスト2層機械検査・SHA-256メモリ台帳・8案件MD健康診断と、第三者監査で暴かれた「継ぎ目」の4大バグ](https://zenn.dev/kaeyuki/articles/d5b245ff77474e) *(Zenn – トピック AI)*
+- [ ] 2026-11-08 [【連載第2回】「AIに丸投げして壊れる」をUIと3つの関所で防ぐ — 5階層6名・80点監査で動く『AI Hub』の画面設計](https://zenn.dev/kaeyuki/articles/a48432926156d9) *(Zenn – トピック AI)*
+- [ ] 2026-11-08 [ペダルポイントとは？和音が動いても低音を保つ入力案を作る](https://zenn.dev/creatunealex/articles/a10efebad04e22) *(Zenn – トピック AI)*
+- [ ] 2026-11-08 [「指示どおりにやりました」と言うのに従っていないClaude。原因は、AI自身が指示ファイルやメモリに書き残していた昔の仕様](https://zenn.dev/murooka_az/articles/claude-degraded-or-correction-unreachable) *(Zenn – トピック AI)*
+- [ ] 2026-11-08 [Dify 1.19.0 のネストトレースを企業Dify環境で評価した——設計にどう効くかを整理する](https://zenn.dev/sidejob/articles/a051023b0c97aa449) *(Zenn – トピック AI)*
+- [ ] 2026-11-08 [エージェントの定期実行は「変化があった日だけ報告」が正解だった](https://zenn.dev/dev_pjs/articles/d76c2125a58406) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [攻撃は止まらない。だから、防御も止めない — 非侵襲・授権強制のセキュリティ診断ツール「Aegis-Scan」を作った](https://zenn.dev/wangsh/articles/1dbb5a0e51c4dc) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [AIに読ませるファイルを分割しても、数日でまた800行を超えていた話](https://zenn.dev/itaraiguma/articles/agent-read-limit-split-did-not-hold) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [ISUCON2026 ソロ参加記：自作ハーネスで Claude Code をほぼ無人運転した](https://zenn.dev/5alt_nacl/articles/isucon2026-solo-ai-agent) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [AI協働：FRB Launch 第5回 記者会見風 —『ワープ差し棒』誕生！〜ぐりぐりを進化させたら、ぐりぐりしなくなった話〜](https://zenn.dev/frb_tamasub/articles/ai-collaboration14-frb-launch-warp) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [「禁止」と書いたルールは効いていなかった — Claude Codeの安全装置を年1回点検する手順](https://zenn.dev/joinclass/articles/1-20261106220023-11182) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [なぜAIが書くテストコードには血が通っていないのか](https://zenn.dev/buko106/articles/why-ai-tests-feel-bloodless) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [AI検索によって、Googleの広告はどうなるのか？── AI Mode時代の検索ビジネスを完全理解する](https://zenn.dev/leading_ai/articles/google-ai-mode-search-ads) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [俺の考えた最強のバーコードバトル！！！](https://zenn.dev/konbu_love/articles/a74963e3ec2cdf) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [AlienPentest 徹底解説 — AIが自律的にペネトレーションテストを実行するツール](https://zenn.dev/zer0m0hum0hu/articles/5445a3f4cbd019) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [git を知らなくても houritsu で法改正の差分を見る方法](https://zenn.dev/koheiwada/articles/houritsu-guide-without-git) *(Zenn – トピック AI)*
+- [ ] 2026-11-07 [機能制限のつもりが「試乗禁止」になっていた話 —— バックアップツールのB2B試用設計を14日間フル開放に変えた理由](https://zenn.dev/chililikobo/articles/c75512a76486f8) *(Zenn – トピック AI)*
+- [ ] 2026-11-08 [型を教える前に現場を読ませる──オープン・ミッドトレーニングがSWEエージェントの下地を500Bトークンで作る仕組み](https://zenn.dev/lixian/articles/priming-base-models-midtraining) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-07 [BigQuery の TabFM と LightGBM を Diamonds で比較](https://zenn.dev/ttomo_tommy/articles/tabfm-vs-lightgbm-diamonds) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-07 [セルラーオートマトン（CA）から理解するニューラルセルラーオートマトン（NCA）入門](https://zenn.dev/yyam/articles/62e60d3bf68598) *(Zenn – トピック 機械学習)*
