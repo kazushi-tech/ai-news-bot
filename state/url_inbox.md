@@ -168025,3 +168025,134 @@
 - [ ] 2026-11-09 [機械学習のスコアに、誤差評価まで添えたくてAutoMLを自作しています](https://zenn.dev/okamasaya/articles/diy-automl-evaluation-framework) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-09 [Python機械学習の実践書4選](https://zenn.dev/makitech/articles/20261109_book_ref) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-08 [DINOv2の特徴を使う前に：CLS・パッチ・凍結評価を分けて読む](https://zenn.dev/kas_blog/articles/20260914-dinov2) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-10T00:53:20.470Z
+- [ ] 2026-11-09 [Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy](https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-09 [Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?](https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-09 [The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security](https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-09 [Cyber-attack on French supermarket freezers has geopolitical context](https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-09 [The Guardian view on Jensen Huang’s affair: why did Trump ignore the warnings? \| Editorial](https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-09 [Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records](https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-10 [Jensen Huang’s Troubles Leave the AI Industry Reeling](https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-09 [Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year](https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-09 [Anthropic Just Committed a Shocking Crime Against the Environment](https://futurism.com/artificial-intelligence/anthropic-environment-gas-deal) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-09 [We Are Now Learning in Real Time Whether the Stock Market Cares About an AI Executive Admitting to an Affair With an Alleged Chinese Spy](https://futurism.com/artificial-intelligence/nvidia-stock-lurches-downward-ceo-affair) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-09 [Meta’s Conductor deal puts enterprise AI coding workflows on deadline](https://aibusiness.com/generative-ai/meta-s-conductor-deal-enterprise-ai-coding-workflows-deadline) *(AI Business)*
+- [ ] 2026-11-09 [Jensen Huang’s future raises questions for AI infrastructure industry](https://aibusiness.com/data-centers/jensen-huang-future-raises-questions-ai-infrastructure-industry) *(AI Business)*
+- [ ] 2026-11-09 [Jailbreak week: how SharkNinja is hacking its own business to unlock AI](https://aibusiness.com/generative-ai/jailbreak-week-sharkninja-hacking-own-business-unlock-ai) *(AI Business)*
+- [ ] 2026-11-09 [Most uni students now use AI, but that doesn’t mean they like it](https://theconversation.com/most-uni-students-now-use-ai-but-that-doesnt-mean-they-like-it-295170) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-09 [AI use is now universal in higher education. Why are universities failing to adapt?](https://theconversation.com/ai-use-is-now-universal-in-higher-education-why-are-universities-failing-to-adapt-294137) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-09 [Amazon’s Next Home Robot: A Second Chance After Astro’s Rocky Start](https://www.techrepublic.com/article/news-amazon-new-home-robot-astro-fauna-robotics/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-09 [Nvidia Backs Jensen Huang as Board Examines Espionage Reports](https://www.techrepublic.com/article/news-nvidia-jensen-huang-espionage-inquiry-apac-china/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-09 [Learn the Language Your International Clients Speak for $60](https://www.techrepublic.com/article/lingzio-language-learning-lifetime-subscription/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-09 [Samsung’s Galaxy AI Could Get a Paid Tier: What Stays Free and What Costs Extra](https://www.techrepublic.com/article/news-samsung-galaxy-ai-premium-subscription-price-features/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-09 [Google Is Shutting Down Firebase Studio: How to Migrate Before March 2027](https://www.techrepublic.com/article/news-firebase-studio-shutdown-march-2027-migration/) *(TechRepublic – Artificial Intelligence)*
+- [ ] 2026-11-09 [AI Agents Are Testing the Limits of Zero-Trust Security](https://spectrum.ieee.org/zero-trust-agentic-ai-architecture) *(IEEE Spectrum – Artificial Intelligence)*
+- [ ] 2026-11-09 [Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?](https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy) *(KDnuggets)*
+- [ ] 2026-11-09 [Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns](https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shakes](https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Nvidia Intervened in US Megaspeed Chip Smuggling Probe](https://www.bloomberg.com/news/videos/2026-11-09/nvidia-intervened-in-us-megaspeed-chip-smuggling-probe-video) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [China Chipmakers to Debut in HK in Test of Tech Stock Demand](https://www.bloomberg.com/news/articles/2026-11-09/china-chipmakers-to-debut-in-hk-in-test-of-tech-stock-demand) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Comcast Job Cuts to Begin With Hundreds Let Go In Pennsylvania](https://www.bloomberg.com/news/articles/2026-11-09/comcast-job-cuts-to-begin-with-hundreds-let-go-in-pennsylvania) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Big Take: The Markets Fallout From the Huang Scandal](https://www.bloomberg.com/news/videos/2026-11-09/big-take-the-markets-fallout-from-the-huang-scandal-video) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Morgan Stanley Wealth Mgmt. Head on Vinyl Equity Deal](https://www.bloomberg.com/news/videos/2026-11-09/morgan-stanley-wealth-mgmt-head-on-vinyl-equity-deal-video) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Ross Gerber Sees 75% Chance Huang Remains Nvidia CEO](https://www.bloomberg.com/news/videos/2026-11-09/ross-gerber-sees-75-chance-huang-remains-nvidia-ceo-video) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [US Lawmakers Demand Details on Nvidia Amid Jensen Huang Scandal](https://www.bloomberg.com/news/articles/2026-11-09/us-lawmakers-demand-details-on-nvidia-amid-jensen-huang-scandal) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Skydance Growing But Has a Lot of Work to Do, Ross Gerber Says](https://www.bloomberg.com/news/videos/2026-11-09/skydance-growing-but-has-work-to-do-ross-gerber-says-video) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Uber Engineering Leader for Robotaxis, Delivery Network to Exit](https://www.bloomberg.com/news/articles/2026-11-09/uber-engineering-leader-for-robotaxis-delivery-network-to-exit) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Nvidia Intervened in US Probe of Megaspeed Chip Smuggling](https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [AMD Surges 13% as Wall Street Revives AI Chip Trade \| Closing Bell](https://www.bloomberg.com/news/videos/2026-11-09/amd-surges-as-ai-chip-trade-returns-closing-bell-video) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Take-Two’s ‘NBA 2K’ Sales Miss Expectations Due to ‘Grand Theft Auto VI’](https://www.bloomberg.com/news/articles/2026-11-09/take-two-s-nba-2k-sales-miss-expectations-due-to-grand-theft-auto-vi) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Google Rolls Out New AI Chips to Challenge Nvidia](https://www.bloomberg.com/news/videos/2026-11-09/google-rolls-out-new-ai-chips-to-challenge-nvidia-video) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Who Could Replace Nvidia's CEO Jensen Huang?](https://www.bloomberg.com/news/videos/2026-11-09/who-could-replace-nvidia-s-ceo-jensen-huang-video) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Nvidia-Backed Fireworks AI Notifies Customers of Its Second Hack in Weeks](https://www.bloomberg.com/news/articles/2026-11-09/nvidia-backed-fireworks-ai-notifies-customers-of-its-second-hack-in-weeks) *(Bloomberg Technology)*
+- [ ] 2026-11-09 [Former UK Tech Adviser Thinks Government Is Failing Startups](https://www.bloomberg.com/news/articles/2026-11-09/uk-must-back-startups-or-face-economic-ruin-ex-adviser-says) *(Bloomberg Technology)*
+- [ ] 2026-11-10 [How to turn on personal results on your Google Home](https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home/) *(Engadget)*
+- [ ] 2026-11-10 [The safety reason TSA might ask you to turn on your phone](https://www.engadget.com/2307751/why-tsa-ask-turn-on-phone-safety-reason/) *(Engadget)*
+- [ ] 2026-11-09 [Why you probably shouldn't buy gadgets with micro USB ports](https://www.engadget.com/2307748/why-avoid-buying-micro-usb-gadgets/) *(Engadget)*
+- [ ] 2026-11-09 [The pros and cons of using mesh Wi-Fi](https://www.engadget.com/2307745/using-mesh-wifi-pros-and-cons/) *(Engadget)*
+- [ ] 2026-11-09 [YouTube will once again be part of Billboard chart calculations in 2027](https://www.engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/) *(Engadget)*
+- [ ] 2026-11-09 [5 Nintendo Switch 2 features everyone should know about](https://www.engadget.com/2307744/nintendo-switch-2-features-everyone-should-know/) *(Engadget)*
+- [ ] 2026-11-09 [Apple starts offering $50 extended usage packs for AI features in Creator Studio](https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/) *(Engadget)*
+- [ ] 2026-11-09 [Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up](https://www.engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up/) *(Engadget)*
+- [ ] 2026-11-09 [How to use your iPhone to take the best picture of the Moon](https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/) *(Engadget)*
+- [ ] 2026-11-09 [Gmail users should know about this little-noticed feature](https://www.engadget.com/2307742/gmail-unsend-feature/) *(Engadget)*
+- [ ] 2026-11-09 [How does Google Wallet's notification feed work and can you disable it?](https://www.engadget.com/2307741/google-wallet-notifications-how-works-disable/) *(Engadget)*
+- [ ] 2026-11-09 [The reason your laptop can get hot after extended use](https://www.engadget.com/2307737/why-laptops-overheat-after-extended-use/) *(Engadget)*
+- [ ] 2026-11-09 [What the tiny blue dot on your Android phone is telling you](https://www.engadget.com/2307733/what-tiny-blue-dot-on-android-phone-telling-you/) *(Engadget)*
+- [ ] 2026-11-09 [Venmo finally launches an in-app bill splitting feature](https://www.engadget.com/2310993/venmo-finally-launches-an-in-app-bill-splitting-feature/) *(Engadget)*
+- [ ] 2026-11-09 [Uber is launching its own parking reservation service](https://www.engadget.com/2308678/uber-is-launching-its-own-parking-reservation-service/) *(Engadget)*
+- [ ] 2026-11-09 [Why EV fast charging slows down after 80 percent](https://www.engadget.com/2307731/why-ev-fast-charging-slows-after-80-percent/) *(Engadget)*
+- [ ] 2026-11-09 [NHTSA investigates if Waymo robotaxis are still running school bus stop signs](https://www.engadget.com/2310872/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs/) *(Engadget)*
+- [ ] 2026-11-09 [Think twice before using a webcam cover on your MacBook](https://www.engadget.com/2307730/think-twice-before-using-webcam-cover-macbook/) *(Engadget)*
+- [ ] 2026-11-09 [Meta is expanding AI age detection for Instagram teen accounts](https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/) *(Engadget)*
+- [ ] 2026-11-09 [The pros and cons of using OnePlus smartwatches](https://www.engadget.com/2307727/using-oneplus-smartwatches-pros-and-cons/) *(Engadget)*
+- [ ] 2026-11-09 [ChatGPT Enterprise now available in AWS Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace) *(OpenAI News)*
+- [ ] 2026-11-09 [Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room) *(OpenAI News)*
+- [ ] 2026-11-09 [CodeRabbit scales agentic software development and ships 20x more](https://openai.com/index/coderabbit-codex-daybreak) *(OpenAI News)*
+- [ ] 2026-11-09 [Kuken Industries searches 70 years of drawings in minutes](https://openai.com/index/kuken) *(OpenAI News)*
+- [ ] 2026-11-09 [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan) *(Hugging Face Blog)*
+- [ ] 2026-11-10 [FDEを自社で育成　成功に3つのリアル](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/110400579/110400006/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [NTTデータと日立　FDEで人月脱却へ](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/110400579/110400005/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [米大手がFDE増強　かさむAI投資回収](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/110400579/110400004/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [FDEに5つの疑問　常駐SEと何が違う](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/110400579/110400003/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [急増する「FDE」　求人票で実像に迫る](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/110400579/110400002/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [SIの「人月」常識　富士通FDEが崩す](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/110400579/110400001/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [シミュレーションで供給計画最適化　約100回の説明会で社内の意識改革](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600004/103000221/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [「請け負い体質」から脱却　経営戦略を描けるIT人材に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600003/110500112/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [部品調達でデジタルものづくりを支援　基幹システムも組織も「AIレディー」に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600001/110400221/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [Markdown記法で本格的な文書を作成、「Obsidian」を使ってみよう](https://xtech.nikkei.com/atcl/nxt/column/18/03787/100800002/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [「スケーラブル論理量子ビット」の4つの評価軸、MicrosoftとQolabが提案](https://xtech.nikkei.com/atcl/nxt/column/18/03098/092900090/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [サイバーレジリエンス実践法、評価と改善までを一貫して進める](https://xtech.nikkei.com/atcl/nxt/column/18/03810/102900005/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [ADF搭載スキャナーで書類や名刺を一気にデジタル化、Wi-Fi経由でPCに転送](https://xtech.nikkei.com/atcl/nxt/column/18/03775/092800009/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [「iPhone Duo」の満足度、1週間で65点から75点に　残る不満はアプリ対応](https://xtech.nikkei.com/atcl/nxt/column/18/00087/00467/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [ギフティGで不正アクセス相次ぐ、eギフト5.5億円損失　サーティワンも影響](https://xtech.nikkei.com/atcl/nxt/column/18/00598/011300389/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [EdgeのPDF表示で文字入力機能を呼び出す、ページ全体のキャプチャーも可能](https://xtech.nikkei.com/atcl/nxt/column/18/03778/093000004/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [見えてきた2032年までのAI投資リスク、4兆ドル超を回収できるか](https://xtech.nikkei.com/atcl/nxt/column/18/00848/00199/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [企業はセキュリティー診断が急務、IT資産を棚卸しして「裏口」も塞ぐ](https://xtech.nikkei.com/atcl/nxt/column/18/03816/110800004/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [総額1.2兆円、50億以上のIT投資約60件を独自調査で一覧に　最多はMUFG](https://xtech.nikkei.com/atcl/nxt/column/18/03815/110600002/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [AIサイバー攻撃に日本も官民で情報統合、政府の分析発信力が重要に](https://xtech.nikkei.com/atcl/nxt/column/18/00138/110902142/) *(日経クロステック IT)*
+- [ ] 2026-11-10 [Meta、最小・低コストのAIモデル「Muse Ember」発表　「Muse Spark 1.3」に迫る性能を約17分の1のコストで](https://www.itmedia.co.jp/news/article/2611/10/2000003044/) *(ITmedia AI＋)*
+- [ ] 2026-11-09 [Google、第8世代TPUに「8tx」と「8i Max」を追加　機密データ処理と大規模AIエージェントに特化](https://www.itmedia.co.jp/news/article/2611/10/2000003043/) *(ITmedia AI＋)*
+- [ ] 2026-11-09 [Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表　API料金2割下げ、出力は最大30％高速化](https://www.itmedia.co.jp/news/article/2611/10/2000003042/) *(ITmedia AI＋)*
+- [ ] 2026-11-09 [「MCPはもう特別な存在ではない」――その普及と“仕様改訂”がもたらした転換点](https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news003.html) *(ITmedia AI＋)*
+- [ ] 2026-11-10 [暴走は必要悪か、自由を謳歌するAI　アンソロピックが気づいた｢感情｣ - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN151Q50V11C26A0000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-10 [Claude Fable 5.2へのプロンプト](https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-10 [Introducing Claude Fable 5.2 and Claude Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-10 [ソフトバンク宮川社長「正直もう疲れ切っている」　サイバー攻撃が月7億件、決算発表会で明かした危機感とは](https://www.itmedia.co.jp/business/articles/2611/09/news084.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-10 [盗んだ情報をAIに査定させるインフォスティーラー「VOLTA」についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/09/144357) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-10 [Markdownのウェブを構築する](https://mehori.com/diary/2026/11/08/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-10 [エンジニアにとってEMは魅力のない役割なのか - mtx2s’s blog](https://mtx2s.hatenablog.com/entry/2026/11/09/210114) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [Xユーザーのはまちや２さん: 「今日発表されたばかりの「ドラゴンクエストRPG　魔界樹と導かれし島」でGoogle検索すると1ページ目に西武プリンスホテルのサイトが何故か表示されるんだけど、どうやら... / X](https://x.com/Hamachiya2/status/2119691158423040348) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [ヤマハからついに! 小型でも“中身はガチHi-Fi”ストリーミングアンプ「WXA-70A」。机やTVで使ってみた[Sponsored]](https://av.watch.impress.co.jp/docs/topic/special/2145430.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [Krpano 360° の脆弱性 CVE-2020-24901 を悪用：検索結果を操作する大規模な XSS キャンペーン](https://iototsecnews.jp/2025/02/28/over-350-high-profile-websites-hit-by-360xss-attack/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [Go における Gra ceful Shutdown とハマりどころ](https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず \| 筑波学生新聞](https://www.tsukuba-sp.org/news/wghx7ljlx7/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [Terminal2Shell: Critical flaw grants instant shell access on every major OS](https://terminal2shell.com/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す](https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [並列度を下げたら速くなった — go build の重複コンパイルを実測で見る](https://speakerdeck.com/tomoaki25/slides-cd95d381-a27b-4a9a-8b53-0abd69397a1b) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs - AWS](https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [Zed の UI フレームワーク GPUI で Rust のデスクトップ ToDo アプリを作る](https://azukiazusa.dev/blog/gpui-todo-app/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [【重要なお知らせ・増進会ホールディングス】Ｚ会グループにおけるシステムへの不正アクセスに関するご報告とお詫び - Ｚ会](https://www.zkai.co.jp/post-121568/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [相次ぐメール配信サービスへの不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/09/230435) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [肉眼では見えないQRコード。A4用紙に2TBのデータを保存 \| ギズモード・ジャパン](https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [警告:ジャンプルーキーはそのうちAIで埋まる　への意見に対して](https://anond.hatelabo.jp/20261109134903) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [Metaの複数の従業員が海賊版ポルノ動画を見ていたことが裁判の提出書類で示される](https://gigazine.net/news/20261109-meta-employees-pirated-adult/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [ニトリに不正アクセス、最大3762万件の個人情報流出の可能性　法人会員も対象に](https://www.itmedia.co.jp/news/article/2611/09/2000003039/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [vbamacroinfoのブックマーク - はてなブックマーク](https://b.hatena.ne.jp/vbamacroinfo/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [AI株「売られすぎ」論の落とし穴　揺れるEPS予想の信頼性 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB081AG0Y6A101C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [政府、大学に防衛専門研究所　AI・宇宙など先端技術いかし装備品開発 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA091EZ0Z01C26A1000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-10 [翻訳特化モデル「PLaMo 3 Translate」をオープンウェイトで公開しました \| PLaMo翻訳](https://translate.preferredai.jp/news/20261105-2-plamo3-translate-open-weight/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-09 [「AIで何かしたい」を解ける課題に変える ― AIソリューション設計の実践ガイド](https://zenn.dev/inf_e/books/ai-solution-design-guide) *(Zenn – トピック LLM)*
+- [ ] 2026-11-09 [「AIで何かしたい」を解ける課題に変える ― AIソリューション設計の全体像](https://zenn.dev/inf_e/articles/ai-solution-design-overview) *(Zenn – トピック LLM)*
+- [ ] 2026-11-09 [🐥同じプロンプトなのに答えが変わるLLM](https://zenn.dev/poyopuyo/articles/346f00682ff7bf) *(Zenn – トピック LLM)*
+- [ ] 2026-11-09 [Docker で AnyModelBot を立て、`/model` で切り替え、journal.jsonl で記憶の変更を追う](https://zenn.dev/malachi_amb/articles/ad203556e2522d) *(Zenn – トピック LLM)*
+- [ ] 2026-11-09 [AIエージェントの提案を人が直したときこそ「なぜ」を残す —問い合わせ対応で見るContinuous Reasoning Acquis](https://zenn.dev/hiromi63/articles/ff328f80b48923) *(Zenn – トピック LLM)*
+- [ ] 2026-11-09 [ゼロから作ったMamba3言語モデルを日本語で話せる全二重音声対話モデルに拡張するまで](https://zenn.dev/taaroo/articles/47f8d1ac55d4af) *(Zenn – トピック LLM)*
+- [ ] 2026-11-09 [2B モデルを自前の GPU で動かして、壊れたロケーターを Optics Framework に直させる](https://zenn.dev/chinmayajha/articles/3c34eebead824a) *(Zenn – トピック LLM)*
+- [ ] 2026-11-09 [Grok Botの代わりに、手元のClaude Code CLIをそのままチャットのバックエンドにしてみた](https://zenn.dev/matsushima_a/articles/day-041-openmausbot-claude-cli) *(Zenn – トピック LLM)*
+- [ ] 2026-11-09 [Amazon Bedrockのバッチ推論をClaude Opus 5で試す](https://zenn.dev/smori/articles/bedrock-batch-inference-handson) *(Zenn – トピック LLM)*
+- [ ] 2026-11-09 [Godotでプレイテストを自動化する方法：入力のシミュレート、ボット、MCPサーバー、AIエージェント](https://zenn.dev/zivaengine/articles/bffec9e5d9b95a) *(Zenn – トピック AI)*
+- [ ] 2026-11-09 [コードを一行も読まずに Flutter アプリを開発してみた ― 完全バイブコーディング実験の記録](https://zenn.dev/daisuke7/articles/41940336b06cc7) *(Zenn – トピック AI)*
+- [ ] 2026-11-09 [Meta の Muse から Tailscale と SSH でMacBook に入る（iPhone だけで設定）](https://zenn.dev/mediiiiium/articles/muse-tailscale-ssh-macbook) *(Zenn – トピック AI)*
+- [ ] 2026-11-09 [曲全体にボーカルは必要？前奏・間奏・尾奏がある歌のリップシンク動画](https://zenn.dev/hiiiii/articles/eabcf209ee3dc2) *(Zenn – トピック AI)*
