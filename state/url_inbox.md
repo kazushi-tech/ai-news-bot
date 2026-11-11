@@ -168425,3 +168425,66 @@
 - [ ] 2026-11-10 [【完全網羅】Python×Rust×金融工学で作る自律型AIヘッジファンドの全アーキテクチャ徹底解説](https://zenn.dev/prompter_note/articles/lumina-full-architecture-python-rust-quant) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-10 [旅行・カフェ・買い物のデータを機械学習にかけたら、何が分かった？](https://zenn.dev/okamasaya/articles/diy-automl-business-three-experiments) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-10 [ROC曲線とは？分類モデル性能を可視化する曲線](https://zenn.dev/h888s/articles/dscert-roc-curve) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-11T03:15:36.837Z
+- [ ] 2026-11-10 [Anthropic Investors Shop IPO Shares Early, and at a Premium](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-investors-shop-ipo-shares-early-and-at-a-big-premium) *(Bloomberg Technology)*
+- [ ] 2026-11-11 [SPH Media is Latest Singapore Firm Impacted by Data Breach: CNA](https://www.bloomberg.com/news/articles/2026-11-11/sph-media-is-latest-singapore-firm-impacted-by-data-breach-cna) *(Bloomberg Technology)*
+- [ ] 2026-11-11 [Cohere's Gomez on $25B Valuation, Growth](https://www.bloomberg.com/news/videos/2026-11-11/cohere-s-gomez-on-25b-valuation-growth-video) *(Bloomberg Technology)*
+- [ ] 2026-11-11 [Otter.ai CEO on Growth Strategy, Multi-language push](https://www.bloomberg.com/news/videos/2026-11-11/otter-ai-ceo-on-growth-strategy-multi-language-push-video) *(Bloomberg Technology)*
+- [ ] 2026-11-11 [Nvidia-Backed Cohere in a ‘Fight’ to Secure AI Computing Power](https://www.bloomberg.com/news/articles/2026-11-11/nvidia-backed-cohere-in-a-fight-to-secure-ai-computing-power) *(Bloomberg Technology)*
+- [ ] 2026-11-11 [India’s Rich Pivot to Real Estate After Stock Returns Falter](https://www.bloomberg.com/news/articles/2026-11-11/india-s-rich-pivot-to-real-estate-after-stock-returns-falter) *(Bloomberg Technology)*
+- [ ] 2026-11-10 [OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion](https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion) *(Bloomberg Technology)*
+- [ ] 2026-11-11 [CoreWeave Sees ‘No Reason’ That Nvidia Partnership Will Change](https://www.bloomberg.com/news/articles/2026-11-11/coreweave-sees-no-reason-that-nvidia-partnership-will-change) *(Bloomberg Technology)*
+- [ ] 2026-11-11 [CoreWeave Boosts Forecast, Easing Slowdown Concerns](https://www.bloomberg.com/news/videos/2026-11-11/coreweave-boosts-forecast-easing-slowdown-concerns-video) *(Bloomberg Technology)*
+- [ ] 2026-11-10 [Walker & Dunlop CEO on ‘27 Data Center Buildout Outlook](https://www.bloomberg.com/news/videos/2026-11-10/walker-dunlop-ceo-on-27-data-center-buildout-outlook-video) *(Bloomberg Technology)*
+- [ ] 2026-11-10 [KPMG Chief Economist Predicts Hot PCE Report After CPI](https://www.bloomberg.com/news/videos/2026-11-10/kpmg-chief-economist-predicts-hot-pce-report-after-cpi-video) *(Bloomberg Technology)*
+- [ ] 2026-11-10 [Sonos Plans ‘Many’ New Products Next Year to Capitalize on AI Era](https://www.bloomberg.com/news/articles/2026-11-10/sonos-plans-many-new-products-next-year-to-capitalize-on-ai-era) *(Bloomberg Technology)*
+- [ ] 2026-11-11 [What is the average lifespan of recordable Blu-ray discs?](https://www.engadget.com/2307784/average-lifespan-recordable-blu-ray-discs/) *(Engadget)*
+- [ ] 2026-11-11 [Why your Roku might be plugged into the wrong HDMI port](https://www.engadget.com/2307791/why-roku-plugged-into-wrong-hdmi-port/) *(Engadget)*
+- [ ] 2026-11-11 [iFixit teardown shows how Apple's glowing PROLED MacBook logo works](https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/) *(Engadget)*
+- [ ] 2026-11-11 [How to get this Siri camera upgrade for your iPad before its public release](https://www.engadget.com/2312808/how-to-get-ipad-siri-camera-upgrade-early/) *(Engadget)*
+- [ ] 2026-11-10 [NVIDIA shareholders are suing the company and CEO Jensen Huang](https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/) *(Engadget)*
+- [ ] 2026-11-10 [How SCSKiller is trying to fix shader stuttering in PC games](https://www.engadget.com/2307815/scskiller-fix-shader-stuttering-pc-games/) *(Engadget)*
+- [ ] 2026-11-10 [These Xiaomi phones are no longer getting support with the latest HyperOS 4 update](https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update/) *(Engadget)*
+- [ ] 2026-11-12 [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless) *(OpenAI News)*
+- [ ] 2026-11-11 [中国AI「Qwen4」ついに登場　プレビュー版を提供開始、AlibabaのAIサービスで](https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/) *(ITmedia AI＋)*
+- [ ] 2026-11-11 [Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始　Antigravityでのマルチエージェントチーム編成機能も](https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/) *(ITmedia AI＋)*
+- [ ] 2026-11-11 [「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に](https://www.itmedia.co.jp/news/article/2611/11/2000003089/) *(ITmedia AI＋)*
+- [ ] 2026-11-11 [ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から](https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/) *(ITmedia AI＋)*
+- [ ] 2026-11-11 [過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成](https://monoist.itmedia.co.jp/mn/articles/2611/11/news018.html) *(ITmedia AI＋)*
+- [ ] 2026-11-10 [動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消](https://monoist.itmedia.co.jp/mn/articles/2611/10/news083.html) *(ITmedia AI＋)*
+- [ ] 2026-11-10 [「“できる人”ばかり質問されがち」から脱却し、年4400時間削減――紀陽銀行の「社内知識」集約術とは](https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news029.html) *(ITmedia AI＋)*
+- [ ] 2026-11-10 [SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道](https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html) *(ITmedia AI＋)*
+- [ ] 2026-11-10 [Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定](https://www.itmedia.co.jp/news/article/2611/11/2000003083/) *(ITmedia AI＋)*
+- [ ] 2026-11-10 [Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門](https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/) *(ITmedia AI＋)*
+- [ ] 2026-11-10 [通信大手3社こぞって「フィジカルAI」に参入、なぜ？　ロボットが動くともうかるワケ](https://www.itmedia.co.jp/business/articles/2611/11/news038.html) *(ITmedia AI＋)*
+- [ ] 2026-11-10 [なぜAgodaは“異常に”安いのか？　商務責任者が明かす「自腹値引き」と社内競争の正体](https://www.itmedia.co.jp/business/articles/2611/11/news028.html) *(ITmedia AI＋)*
+- [ ] 2026-11-10 [富士フイルム、Q2過去最高益　「instaxチェキ」ヒットに並ぶ“もう一つの稼ぎ頭”とは？](https://www.itmedia.co.jp/business/articles/2611/11/news032.html) *(ITmedia AI＋)*
+- [ ] 2026-11-10 [日本製紙ら「たった半年で」釧路にデータセンター新設　なぜスピード稼働できたのか？](https://www.itmedia.co.jp/business/articles/2611/11/news017.html) *(ITmedia AI＋)*
+- [ ] 2026-11-11 [おやすみ、インターネットの時代](https://wirelesswire.jp/2026/11/94886/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-11 [量産化、１年延期案が浮上　先端半導体の開発難航―ラピダス：時事ドットコム](https://www.jiji.com/jc/article?k=2026111000768&g=eco) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-11 [「目標には掲げましたが、約束はしていません」　1日の売り上げを80万円程度見込みで結果は1万円　ご当地グルメを楽しめるはずのイベントが騒動へと発展　鳥取県倉吉市（2026年11月10日掲載）｜日本海テレビNEWS NNN](https://news.ntv.co.jp/n/nkt/category/society/nk6c55c98f175445cdadde29d47f6af464) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-11 [ゲーム日本語化ツール「PCOT」次のアプデで開発終了へ。AIの進化で“セルフ直接日本語化”の未来が見えたため - AUTOMATON](https://automaton-media.com/articles/newsjp/20261110-478520/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-11 [Windowsに挑むAIネイティブOS「KORA」、元Cyanogen創業者らが発表](https://pc.watch.impress.co.jp/docs/news/2155269.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-11 [AIと始める監視基盤なしの セキュリティ監視 / secmon-without-a-siem](https://speakerdeck.com/mizutani/ai-to-hajimeru-kanshi-kiban-nashi-no-sekyuriti-kanshi-2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-11 [ハードウェアを開発できる「Claude Fable 5.2」。最大3回のリセット権も付与](https://pc.watch.impress.co.jp/docs/news/2155000.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-11 [無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計](https://gigazine.net/news/20261110-leantime/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [「盗撮」→「法律で規制」が話題のAI眼鏡　海外では大ヒットなのに、日本での普及は限定的　ビジネスでの活用事例を探る](https://www.itmedia.co.jp/news/article/2611/11/2000002913/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [2026年度 新卒研修『AWS インフラハンズオン』の資料を公開します \| CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/66422/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -](https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [予定どおりに進まない育児を、どう回す？エンジニアが家庭で実践する、夫婦どちらか1人でも回る仕組み - レバテックLAB](https://levtech.jp/media/detail_961/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [AMD次世代CPUコア「Zen 6」公開！Zen 5の最適化版で効くのはL3キャッシュ](https://pc.watch.impress.co.jp/docs/news/2155080.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [「iCloud」で朝から障害　「ログインできない」ユーザー混乱、メールやカレンダーも](https://www.itmedia.co.jp/news/article/2611/11/2000003090/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [NTTドコモで通信障害 原因調査中 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261111de73934) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [“年内入試”での生成AI活用めぐり大学の対応分かれる　 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261111de73858) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [Waymo自動運転タクシー、「停車スクールバスの横を通過する癖」直らず？　米当局が調査](https://japan.cnet.com/article/35254669/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [属人化したISMS運用をGitHubとAIで仕組み化した1年間の記録](https://speakerdeck.com/sioncojp/zokujinka-shita-isms-unyou-o-github-to-ai-de-shikumika-shita-1-nenkan-no-kiroku) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [「AIで漏洩した？と思うくらいに同感同意」キャリア女性のロールモデルとして、メチャクチャ有能な働きマンを出されても困るという話に賛同が集まる](https://togetter.com/li/2769100) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [商工会議所ネット試験管理システムへの不正アクセスによる受験者情報（個人情報）漏えいの可能性について｜日本商工会議所](https://www.jcci.or.jp/news/news/2026/1110170000.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [Google、「Gemini 4 Carbon」提供開始--AstraやFable対抗の最上位AI](https://japan.cnet.com/article/35254674/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [ソフトバンクG、マスク氏の「債務不履行」投稿に「全くの事実無根」　7〜9月期決算は1兆円超の赤字](https://www.itmedia.co.jp/news/article/2611/10/2000003079/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [AIを組み込んだアプリの信頼性をどう制御するか](https://sre-magazine.net/articles/15/katzchang/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [博報堂DY、傘下の広告3社統合へ　AI時代のマーケティング確立めざす - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC1060C0Q6A111C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [アンソロピックIPO、熱狂より現実路線　AIマネー変調でテック7社下支え - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [冷蔵庫狙った「前代未聞の」サイバー攻撃、フランスがイランを非難](https://www.cnn.co.jp/world/35254638.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [「AI店長」、対人関係に苦戦　指摘が生かされずスタッフからの報告減少　PwCが“売店”で実験](https://www.itmedia.co.jp/news/article/2611/10/2000003040/) *(はてなブックマーク – IT 人気エントリ)*
