@@ -169237,3 +169237,45 @@
 - [ ] 2026-11-11 [副業を Claude Code に任せたら、私の仕事はスマホで yes/no を押すだけになった（5日目・売上0円）](https://zenn.dev/murakisvlog/articles/ai-sidejob-first-week) *(Zenn – トピック AI)*
 - [ ] 2026-11-11 [0円で、AIがゲームマスターの「ひとり用TRPG」を公開した話](https://zenn.dev/nirokudo/articles/3059fb79cf6999) *(Zenn – トピック AI)*
 - [ ] 2026-11-11 [Transformerをわざと過学習させて、原因と対策を数字で比べた](https://zenn.dev/miyamoto_gt/articles/transformer-0-1-w5) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-12T04:27:22.721Z
+- [ ] 2026-11-12 [The (alleged) spy who loved me: the Nvidia scandal - podcast](https://www.theguardian.com/news/audio/2026/nov/12/the-alleged-spy-who-loved-me-the-nvidia-scandal-podcast) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-12 [Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns](https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-12 [‘Nobody cared’: new research shows deepfakes are hurting regular people, not just celebrities](https://theconversation.com/nobody-cared-new-research-shows-deepfakes-are-hurting-regular-people-not-just-celebrities-296154) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-12 [Another Data Center Halts in Australia as Public Backlash Rises](https://www.bloomberg.com/news/articles/2026-11-12/another-data-center-halts-in-australia-as-public-backlash-rises) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [What Could Come Next After Huang’s Ouster?](https://www.bloomberg.com/news/videos/2026-11-12/what-could-come-next-after-huang-s-ouster-video) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [Will Nvidia Replace Jensen Huang as CEO? What’s Next for AI, Markets?: Live Q&A](https://www.bloomberg.com/sessions/2026-11-11/live-q-amp-a-will-jensen-huang-be-replaced-as-ceo-what-s-next-for-nvidia) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [Nvidia to Decide on Jensen Huang’s Fate](https://www.bloomberg.com/news/videos/2026-11-12/nvidia-to-decide-on-jensen-huang-s-fate-video) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [Alleged Chinese Spy at Center of Nvidia Firestorm Is in Beijing](https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [Alphabet Kicks Off Asia Bond Sale as AI Firms Face Scrutiny](https://www.bloomberg.com/news/articles/2026-11-12/alphabet-kicks-off-asia-bond-sale-as-ai-firms-face-scrutiny) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [ANZ CEO Matos Warns of Global Jobs Crisis Without AI Rules](https://www.bloomberg.com/news/articles/2026-11-12/anz-ceo-matos-warns-of-global-jobs-crisis-without-ai-rules) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [Nvidia’s CEO Change Won’t Derail AI Trade: Pepperstone](https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-ceo-change-won-t-derail-ai-trade-pepperstone-video) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [Nvidia Working With Outside Firm to Identify CEO Options](https://www.bloomberg.com/news/videos/2026-11-12/nvidia-working-with-outside-firm-to-identify-ceo-options-video) *(Bloomberg Technology)*
+- [ ] 2026-11-11 [Nvidia Working With Outside Firm to Identify CEO Candidates](https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill](https://www.computerworld.com/article/4247584/hackers-stole-ai-credentials-to-get-740000-in-free-compute-railway-picked-up-the-bill-2.html) *(Computerworld)*
+- [ ] 2026-11-12 [NVIDIAがファンCEO解任を準備、米紙報道　社内幹部とも不倫関係か](https://xtech.nikkei.com/atcl/nxt/news/24/03465/) *(日経クロステック IT)*
+- [ ] 2026-11-12 [AI「Muse」専用メアド開始、「日本で取れた」報告続々　メール送受信も任せられる](https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/) *(ITmedia AI＋)*
+- [ ] 2026-11-12 [Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI](https://www.itmedia.co.jp/news/article/2611/12/2000003132/) *(ITmedia AI＋)*
+- [ ] 2026-11-12 [OpenAI APIで国内推論可能に　GPT-6 Lunaのみ](https://www.itmedia.co.jp/aiplus/article/2611/12/2000003129/) *(ITmedia AI＋)*
+- [ ] 2026-11-12 [ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」](https://www.itmedia.co.jp/news/article/2611/12/2000003127/) *(ITmedia AI＋)*
+- [ ] 2026-11-12 [Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述](https://www.itmedia.co.jp/news/article/2611/12/2000003126/) *(ITmedia AI＋)*
+- [ ] 2026-11-12 [本職の弁護士が訴訟相手からバリバリのAI書面が来た時の対応をコメント、こちらの書面もAIに読み込まれるのを想定すると、相手のAIが説得してくれる模様](https://togetter.com/li/2769528) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-12 [NVIDIA、ファンCEOの解任準備と米紙報道　取締役会で進退議論 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN1209D0S6A111C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-12 [Beyond ARTEX: 45 AI Pentesting Tools and How to Find Them](https://blog.gitguardian.com/ai-pentesting-tools-beyond-artex/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-12 [Test your applications against AWS locally with AWS Emulator \| Amazon Web Services](https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-12 [人手不足解消へ ファミマがフィジカルAI導入 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261111de74472) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-12 [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-12 [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-12 [NTT、“未来を予測する”フィジカルAI　ロボットの失敗を回避](https://www.watch.impress.co.jp/docs/news/2155271.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-12 [アドビ、「フォトショ」「プレミア」などがMCP対応　外部AIエージェントから操作可能に](https://japan.cnet.com/article/35254677/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-12 [Mozkey（もずきー）\| 書くことに集中できる、日本語入力。](https://koyasi777.com/mozkey/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-12 [Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤](https://zenn.dev/ubie_dev/articles/45501469c9c044) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-12 [定年後に移住する地方都市を検討中、ChatGPTに仙台を激推しされ、富士山がないとゴネたら「岩手山は盛岡から見たらほぼ富士山だから」とジェネリック富士山を提示された](https://togetter.com/li/2769545) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-12 [Appleサポートコミュニティ、11月20日に閉鎖へ　新規投稿は既に終了](https://www.itmedia.co.jp/news/article/2611/12/2000003124/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-12 [いざという時に使える10のHTML&CSS Tips集vol.3 \| ウェブサイト制作事務所corto](https://corto.jp/note/html-css-tips03/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-12 [脆弱性の影響調査を Devin Automations で自動化した話](https://zenn.dev/rescuenow/articles/2ee1c4b66ecec8) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-12 [ありえんダサいしまむらのイヤホン貰った、使えるけど起動するときに「し〜ま〜む〜ら〜」って音声が流れる](https://togetter.com/li/2769453) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-12 [Outlook.comがDMARC認証を受けていないドメインからのメールを拒否](https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-12 [Kotlin コンテキストパラメータの詳細な挙動を調べてみた - ドワンゴ教育サービス開発者ブログ](https://blog.nnn.dev/entry/2026/11/12/110000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-12 [ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー](https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-11 [売上0円・費用0円をそのまま書く ― 数字を推測で作らない台帳の記録規律](https://zenn.dev/ai_secretary/articles/ed6dacfffa0859) *(Zenn – トピック AI)*
