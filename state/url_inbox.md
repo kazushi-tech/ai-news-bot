@@ -169578,3 +169578,115 @@
 - [ ] 2026-11-13 [米マイクロソフトのメール「アウトルック」などで大規模システム障害…世界各地にも影響の可能性](https://www.yomiuri.co.jp/economy/20261113-GYT1T00153/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-11-12 [人とAIエージェントはどう協働する？エージェント時代のプロジェクト管理実践ガイド](https://zenn.dev/techhub/articles/a05bc9029d78) *(Zenn – トピック AI)*
 - [ ] 2026-11-12 [Claude Code fork() の使いどき — 並列エージェント設計の判断基準](https://zenn.dev/joemike/articles/claude-code-fork-subagent-guide-2026) *(Zenn – トピック AI)*
+
+## Collected on 2026-11-13T13:28:49.647Z
+- [ ] 2026-11-13 [The datacenter industry is using propaganda to fight opposition \| Samuel Woolley, Dean Jackson and Maia Woluchem](https://www.theguardian.com/commentisfree/2026/nov/13/datacenter-industry-propaganda) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-13 [Nvidia scandal: Howard Lutnick under pressure over alleged lack of action](https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-13 [Have we finally found a valid use case for AI? Meet Pino the autonomous virtual kiwi \| First Dog on the Moon](https://www.theguardian.com/commentisfree/picture/2026/nov/13/have-we-finally-found-a-valid-use-case-for-ai-meet-pino-the-autonomous-virtual-kiwi) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-13 [Tiny flaws in diamonds could unlock a quantum computing revolution](https://www.sciencedaily.com/releases/2026/11/261111005855.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-11-12 [AI-powered bionic eye breakthrough could help the blind see again](https://www.sciencedaily.com/releases/2026/11/261110042553.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-11-13 [This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood](https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-13 [Shameless Scammers Are Cashing in by Posting Fake, AI-Altered Paparazzi Shots of Celebrities Undergoing Going Huge Body Changes, Drinking While Pregnant, and Cheating on Their Partners](https://futurism.com/artificial-intelligence/fake-ai-paparazzi-shots-celebrities) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-13 [Jensen Huang’s scandal-fueled ouster exposes enterprise doubts about AI](https://aibusiness.com/data-centers/jensen-huang-s-ouster-exposes-ai-doubts) *(AI Business)*
+- [ ] 2026-11-13 [Could you survive without Microsoft? Inside the costs of digital dependence](https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-13 [5 FREE Open-Source Alternatives to Jev](https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev) *(KDnuggets)*
+- [ ] 2026-11-13 [ReNew Pledges ₹80,000 Cr for Green Data Centre to Fuel India’s AI Push](https://analyticsindiamag.com/ai-news/renew-pledges-80000-cr-for-green-data-centre-to-fuel-indias-ai-push) *(Analytics India Magazine)*
+- [ ] 2026-11-13 [Mars Opens Hyderabad GCC With Genpact to Expand Digital, AI Capabilities](https://analyticsindiamag.com/ai-news/mars-opens-hyderabad-gcc-with-genpact-to-expand-digital-ai-capabilities) *(Analytics India Magazine)*
+- [ ] 2026-11-13 [Shield AI Opens Bengaluru Engineering Office to Build Defence Autonomy Software](https://analyticsindiamag.com/ai-news/shield-ai-opens-bengaluru-engineering-office-to-build-defence-autonomy-software) *(Analytics India Magazine)*
+- [ ] 2026-11-13 [Adobe, Google Expand AI Partnership Across Creative and Productivity Tools](https://analyticsindiamag.com/ai-news/adobe-google-expand-ai-partnership-across-creative-and-productivity-tools) *(Analytics India Magazine)*
+- [ ] 2026-11-13 [A Practical Blueprint for an AI-Ready Enterprise](https://analyticsindiamag.com/ai-highlights/a-practical-blueprint-for-an-ai-ready-enterprise) *(Analytics India Magazine)*
+- [ ] 2026-11-13 [Can Karnataka’s AI Hub Ease Compute Costs for Women-Led Startups?](https://analyticsindiamag.com/ai-startups/can-karnatakas-ai-hub-ease-compute-costs-for-women-led-startups) *(Analytics India Magazine)*
+- [ ] 2026-11-13 [Google Launches Gemini 4 Hydrogen for Faster Coding and AI Workflows](https://analyticsindiamag.com/ai-news/google-launches-gemini-4-hydrogen-for-faster-coding-and-ai-workflows) *(Analytics India Magazine)*
+- [ ] 2026-11-13 [Kalshi to Develop Trading Platform for Compute Futures: Report](https://analyticsindiamag.com/ai-news/kalshi-to-develop-trading-platform-for-compute-futures-report) *(Analytics India Magazine)*
+- [ ] 2026-11-13 [Microsoft Outage: Fix Fails to Restore Outlook, Teams, Copilot Across 74 Countries](https://analyticsindiamag.com/ai-news/microsoft-outage-fix-fails-to-restore-outlook-teams-copilot-across-74-countries) *(Analytics India Magazine)*
+- [ ] 2026-11-13 [The Nightmare at NVIDIA](https://analyticsindiamag.com/ai-features/the-nightmare-at-nvidia) *(Analytics India Magazine)*
+- [ ] 2026-11-13 [Banned Nvidia Chips Installed at China Data Center Linked to Alice Huang](https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Nvidia’s Biggest Risk Is Product Pace: Windsor](https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-biggest-risk-is-product-pace-windsor) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Dan Ives on Nvidia Without Jensen Huang, Microsoft Outage](https://www.bloomberg.com/news/videos/2026-11-13/ives-on-nvidia-without-jensen-huang-microsoft-outage-video) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Microsoft Outage Sends Traders Back to Phones and Fax](https://www.bloomberg.com/news/articles/2026-11-13/microsoft-outage-gums-up-markets-forces-traders-to-use-phones) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Jensen Huang’s Supporters See Nvidia Exit as Lesson for Founders to Keep Control](https://www.bloomberg.com/news/newsletters/2026-11-13/jensen-huang-s-supporters-see-nvidia-exit-as-lesson-for-founders-to-keep-control) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Businessweek In December Is All About China](https://www.bloomberg.com/news/videos/2026-11-13/businessweek-in-december-is-all-about-china) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Dan Ives Cuts Nvidia Price Target, But Stays Bullish Post-Huang](https://www.bloomberg.com/news/videos/2026-11-13/ives-cuts-nvidia-price-target-stays-bullish-post-huang-video) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Nvidia in Crisis: What Next? \| Bloomberg Tech: Europe](https://www.bloomberg.com/news/videos/2026-11-13/nvidia-in-crisis-what-next-bloomberg-tech-europe-video) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Jensen Huang’s Nvidia (NVDA) Scandal Fuels Push for Tighter China Chip Curbs](https://www.bloomberg.com/news/newsletters/2026-11-13/jensen-huang-s-nvidia-nvda-scandal-fuels-push-for-tighter-china-chip-curbs) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Nvidia’s France Pledges Remain Intact: Varza](https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-france-pledges-remain-intact-varza-video) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Paytm Wins India Central Bank’s Conditional Nod to Revive Wallet](https://www.bloomberg.com/news/articles/2026-11-13/paytm-wins-india-central-bank-s-conditional-nod-to-revive-wallet) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Nvidia’s AI Chip Share Set to Shrink: Akarca](https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-ai-chip-share-set-to-shrink-akarca-video) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [UK Retailers Are Hiring for AI and Pulling Back on Other Roles](https://www.bloomberg.com/news/articles/2026-11-13/uk-retailers-are-hiring-for-ai-and-pulling-back-on-other-roles) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Alice Huang Firm Procured Banned Nvidia Chips in China](https://www.bloomberg.com/news/videos/2026-11-13/alice-huang-firm-procured-banned-nvidia-chips-in-china-video) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Goldman Sees S&P 500 Rising 14% on Cheap Hyperscaler Valuations](https://www.bloomberg.com/news/articles/2026-11-13/goldman-sees-s-p-500-rising-14-on-cheap-hyperscaler-valuations) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [DeepX Bets $100 Million on New AI Chip Using Samsung Technology](https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Microsoft Struggles to Restore Access to Software](https://www.bloomberg.com/news/videos/2026-11-13/microsoft-struggles-to-restore-access-to-software-video) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Hyperscalers Are Strongest Tech Conviction: JPMorgan Strategist](https://www.bloomberg.com/news/videos/2026-11-13/hyperscalers-are-strongest-tech-conviction-jpmorgan-video) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Microsoft struggles to get M365 services back online after widespread outage](https://www.computerworld.com/article/4248253/microsoft-struggles-to-get-m365-services-back-online-after-widespread-outage-2.html) *(Computerworld)*
+- [ ] 2026-11-13 [For November, Patch Tuesday means a to-do list that starts with Outlook](https://www.computerworld.com/article/4248384/for-november-patch-tuesday-means-a-to-do-list-that-starts-with-outlook.html) *(Computerworld)*
+- [ ] 2026-11-13 [Surface Laptop Ultra review: The most powerful Surface yet, but it still lags behind Apple](https://www.engadget.com/2314873/surface-laptop-ultra-review/) *(Engadget)*
+- [ ] 2026-11-13 [Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang](https://www.engadget.com/2315710/bloomberg-details-web-of-chinese-ai-companies-with-smuggled-nvidia-chips-linked-to-alice-huang/) *(Engadget)*
+- [ ] 2026-11-13 [Whoop Humans is a social network designed for fitness enthusiasts](https://www.engadget.com/2315689/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/) *(Engadget)*
+- [ ] 2026-11-13 [BYD admits wheel assembly error on its flagship electric SUV](https://www.engadget.com/2315638/byd-wheel-assembly-error-great-tang-electric-suv/) *(Engadget)*
+- [ ] 2026-11-13 [マイクロソフト障害で影響相次ぐ、佐川急便の一部サービスや政府にも波及](https://xtech.nikkei.com/atcl/nxt/news/24/03470/) *(日経クロステック IT)*
+- [ ] 2026-11-13 [GMO、不正アクセスで約30.5億円の業績影響見込む　最先端AIで点検へ](https://xtech.nikkei.com/atcl/nxt/news/24/03471/) *(日経クロステック IT)*
+- [ ] 2026-11-13 [Microsoft 365障害、復旧後もメールに注意　大量受信や未達の恐れ](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12176/) *(日経クロステック IT)*
+- [ ] 2026-11-13 [自治体システム標準化の課題検証へ、デジタル庁が検討会発足](https://xtech.nikkei.com/atcl/nxt/news/24/03468/) *(日経クロステック IT)*
+- [ ] 2026-11-13 [【解説】 AIの先駆者、誤った判断で破滅……エヌビディアのフアンCEO辞任 - BBCニュース](https://www.bbc.com/japanese/articles/cjy5xype60l0o) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [AIユーザーの平均労働時間は非AIユーザーより最大で90分長いことが判明](https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例](https://ktlog.net/posts/claude-code-ai-ecosystem) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [虎柄ロボットに「阪神君」と命名　首相、フィジカルAIを体験　関連企業と意見交換](https://www.itmedia.co.jp/news/article/2611/13/2000003182/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [AIコンテンツを排除　心拍で証明する「実在する人間」だけのSNSが登場](https://japan.cnet.com/article/35254830/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [【笠原一輝のユビキタス情報局】 フアン氏辞任のNVIDIA、33年の成功を支えたCUDAと次のリーダーの条件](https://pc.watch.impress.co.jp/docs/column/ubiq/2156149.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [ポッキー的観点で考える、組織とデザイン｜keitaro imai](https://note.com/imimar9n/n/ne39a1916d099) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [AIで文脈を読み取って変換を自動補正 ～“書くことに集中できる”日本語入力「Mozkey」／「Mozc」をベースに「Zenz」で補正、Windows/macOSに対応するオープンソースのIME【レビュー】](https://forest.watch.impress.co.jp/docs/review/2155934.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [ぼくのClaude Codeの使い方](https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事前に対処しておくのがシステム部だろうが！」と言われ、反抗して早退…連絡の受け手は必然的に私に](https://togetter.com/li/2770045) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [2026年11月に発生したMicrosoft 365の接続障害についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/13/114230) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [お客様からメールもCopilotも使えないと問い合わせが来て「Microsoft 365が障害発生してまして」と伝えたら「そんなのCopilotに聞いたらすぐ復旧するでしょ」と言われた](https://togetter.com/li/2769964) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [「Qoo10」不正アクセス、個人情報漏えい　「住所の地理座標」や「身体的特徴」も対象の可能性](https://www.itmedia.co.jp/news/article/2611/13/2000003186/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ](https://k-tai.watch.impress.co.jp/docs/news/2156449.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [「Microsoft 365」の障害、発生から12時間を突破 ～メールサービスを中心に影響が拡大【16:45追記】／悪意ある攻撃ではない模様。解決に向けて明るい兆しが見えるも引き続き障害継続中【やじうまの杜】](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2156298.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [#26 Home Repo パターン](https://blog.lai.so/2026-11-13/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [良品計画への不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/13/162738) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [意外な用途も？ 日本語のローマ字入力が限界まで遅くなる「史上最悪のキー配列」が公開中【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2156140.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [「磁気テープ」再注目　生成AIの普及でデータ量莫大に　情報流出リスク低く需要高まる（テレビ朝日系（ANN）） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/5797fd48c4bd5ca4579498f09aa3fb2484b110b1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [400gを切るモバイルモニター（タッチ対応）と Samsung DeX との相性が良い - えいのうにっき](https://blog.a-know.me/entry/2026/11/12/225133) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [宝くじ公式サイトに不正ログイン、当落情報や住所・氏名など閲覧された可能性（アスキー） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/27d715bca9199d6f230059857ba8a03352ea0fb3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [マイクロソフト障害、市場ではFAX活用　投信で基準価格公表に遅れも - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB133K20T11C26A1000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [GitHub - cloudflare/kitesurf: Kitesurf is an experimental browser engine that runs on Cloudflare Workers.](https://github.com/cloudflare/kitesurf) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え](https://zenn.dev/karamage/articles/5c3f8370b2b370) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [手作りで自宅が太陽光発電所に? 出前発電所Zeroを作ってみよう - 家電 Watch](https://kaden.watch.impress.co.jp/docs/column/solar/2155107.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [Microsoft 365の接続障害が長期化　OutlookやCopilotなどに影響](https://www.watch.impress.co.jp/docs/news/2156244.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [aws-emulatorにTerraformでリソースを作成できるか試してみる \| フューチャー技術ブログ](https://future-architect.github.io/articles/20261113a/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [APIの利用量と料金をPythonで確認する — response.usageからコストを概算する](https://zenn.dev/salesanalytics/articles/7efc1d74900082) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [Gemini Decision 1を実際に動かしてみた。54問中53問正解、速さは環境次第だった](https://zenn.dev/shibatamago_dev/articles/gemini-decision-1-hands-on) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [小型LLMで選択的知識蒸留をやってみた](https://zenn.dev/highreso/articles/1b00c38d595d66) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [ローカルLLMのエラー、実は原因が3種類しかない：OOM・モデルファイル・GPU未使用](https://zenn.dev/harkbox/articles/a1c6c1c946367e) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [【さくらのAI】あの話って今どうなってる？　北海道議会の答弁を毎朝追いかけるサイトを作った](https://zenn.dev/subara3/articles/cc71e76bddc7d7) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [Gemini 4 Hydrogen：移行ではまずパラメータを整理し、思考の深さを決める](https://zenn.dev/twinklemodel/articles/c314aab3f77530) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [正しい解が学べる解とは限らない──FPRTが学生の間違い方の診断で推論蒸留のデータを作り直す仕組み](https://zenn.dev/lixian/articles/fprt-failure-profiling-reachable-trajectories) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [小さいLLMの点検で、効いたのは意味選びと手がかりを全部まとめる学習だった（E11〜E14）](https://zenn.dev/mst_design2020/articles/8ac3114ae8cf58) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [Claude Fable 5.2 徹底解説：ベンチマーク・料金・Opus 5.5 との比較](https://zenn.dev/modelflare_dev/articles/837f26e9c36870) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [情報は“発生源”と“完成品”に二極化する ― 伝達・まとめはAIの中間レポートへ](https://zenn.dev/dotext/articles/585b07cc82e10f) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [2. Web](https://zenn.dev/bambampurin/articles/2026-09-26-tech-daily) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [生成AIで作るLPの「AIっぽさ」を減らす指示の型｜参考サイトの分解とデザイン指定テンプレート](https://zenn.dev/andyailab/articles/a6af91106ab664) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [Agent-R²を読み解く：なぜ「完成したファイル」で学習するのか](https://zenn.dev/ai_practitioner/articles/7252188c70cf7e) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [Stateful Tool Callingで、Agentは何を覚えるべきか](https://zenn.dev/ai_practitioner/articles/9d9ccf5bcecd4b) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [【検証】LLMにロト7をガチ予測させて億万長者になりたい！](https://zenn.dev/aiforall/articles/acfa0c6bf3be2d) *(Zenn – トピック LLM)*
+- [ ] 2026-11-12 [最強オープンウェイトモデル Kimi-K3.1-Pro をセルフホストして独自ベンチで比べてみた](https://zenn.dev/fixstars/articles/kimi-k31-pro-benchmark) *(Zenn – トピック LLM)*
+- [ ] 2026-11-12 [別モデルにレビューさせる流れを仕組みにした](https://zenn.dev/daimo0120/articles/b36d9873c59c7c) *(Zenn – トピック LLM)*
+- [ ] 2026-11-12 [AI に書類を整理させたら、書いていない学校名を作られた（推測させないプロンプト）](https://zenn.dev/hiroyamayu/articles/ai-invented-school-name) *(Zenn – トピック LLM)*
+- [ ] 2026-11-12 [Tech Watch 2026-11-13: エージェントの経験と分業](https://zenn.dev/laiken/articles/20261113-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-11-12 [26Bモデルで長文対話と100 TPSを両立する最適化記録 — Prefill 80msの理論限界とGemini 3.8 Flashとの開発](https://zenn.dev/kakuare/articles/445e06a0ddb388) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [組み込みLinux×Edge AI: WasmEdgeとONNX Runtimeで実現する安全な「動的AI前処理プラグイン」アーキテクチャ](https://zenn.dev/esperanza/articles/auto-20261112-095106) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [5年後のエンジニアは、何に責任を持つのだろうか](https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [Android の Codex CLI を bionic ELF 直接実行で動かす](https://zenn.dev/ryoitabashi/articles/2026-11-13-dev-ja) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [AIの表情差分は結局1枚ずつ作るほうが早い？一括生成と修正の手間を徹底検証](https://zenn.dev/satofun/articles/e31f8672a4a5f3) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [Claude Code で日本語 CSV が文字化けする：CP932 は Read で化け、Edit と Write は拒否される](https://zenn.dev/agentkiyaku/articles/8f4e4c0facd812) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [compactを重ねると指示を忘れるClaude Codeに、プロンプトを1つ足したら忘れなくなった。3回重ねても消えた指示は0件](https://zenn.dev/murooka_az/articles/compact-loses-decisions-carry-user-words) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [フィーチャーチームに配属された新卒エンジニアのAIに振り回されない「AI活用」](https://zenn.dev/safie_inc/articles/b6fa3de06606be) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [SEO記事の数字を裏取りする手順 ― 一次情報の確認をどう回すか](https://zenn.dev/ikesita/articles/02a8da5a357745) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [Claude Code と Codex に話させたら、届いたのは返事ではなく画面の飾りだった](https://zenn.dev/ciel_lab/articles/0948c1a232abe2) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [1人のキャラクターを6つの新しい画風で描く：画像生成63回・$4.68のマスコット制作パイプライン](https://zenn.dev/kensaurus/articles/a925025703bee8) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [「書き込みは提案、確定は人」——複数のコーディング Agent が同じチーム事実を引用する](https://zenn.dev/ontoloop/articles/e3c1fe4c04e923) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [Claude Codeを記事づくりから外したら、出力トークンが約140分の1になった](https://zenn.dev/kosukeozawa/articles/claude-code-only-for-code) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [FHマクロのユニットマクロで計測結果を画面に出す——表示用のラベルとDrawText、位置一覧表示がONだと動かない処理](https://zenn.dev/kensho_ya/articles/fh-macro-unit-macro-drawtext-display) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [小さいLLMの答えを辞書で確かめる方法を「TADORI」と命名した（E15で辞書の鎖を区切る）](https://zenn.dev/mst_design2020/articles/fc03d9c1a5763b) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-13 [仕組み編：Two-Towerによる検索システム（学習・推論・配信）](https://zenn.dev/ca_kagglers/articles/two-tower-mechanism) *(Zenn – トピック 機械学習)*
