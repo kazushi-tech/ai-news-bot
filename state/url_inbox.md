@@ -169529,3 +169529,52 @@
 - [ ] 2026-11-12 [樹冠上からの熱源観測：高度・画角・解像度による検出限界](https://zenn.dev/bur/articles/canopy-thermal-resolution-study) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-12 [【scikit-learn入門 #7】回帰モデルの評価 ─ MAE・MSE・RMSE・決定係数R²](https://zenn.dev/haruhiro1020/articles/c60b9e17a43e5d) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-12 [競馬AI開発の罠。LightGBM実装で絶対に避けるべき「データリーク」と正しい特徴量設計](https://zenn.dev/tubelink/articles/8d2aa0fae20bc0) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-13T03:42:23.163Z
+- [ ] 2026-11-13 [Anthropic IPO tests Wall Street's appetite for standalone frontier AI](https://aibusiness.com/foundation-models/anthropic-ipo-tests-wall-street-s-appetite-for-frontier-ai) *(AI Business)*
+- [ ] 2026-11-13 [Malaysia Checks Whether Chips Were Reexported by Megaspeed Unit](https://www.bloomberg.com/news/articles/2026-11-13/malaysia-checks-whether-chips-were-reexported-by-megaspeed-unit) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Singapore Charges 5th Person Linked to Nvidia Case, ST Says](https://www.bloomberg.com/news/articles/2026-11-13/singapore-charges-5th-person-linked-to-nvidia-chip-case-st-says) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Singtel CFO on 1H Earnings](https://www.bloomberg.com/news/videos/2026-11-13/singtel-cfo-on-1h-earnings-video) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [China Chipmaker SigmaStar Said to Plan $300 Million HK Listing](https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Inside Jensen Huang's Final Hours as the CEO of Nvidia](https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Berkshire Pays More to Borrow in Japan on ¥182 Billion Deal](https://www.bloomberg.com/news/articles/2026-11-13/berkshire-pays-more-to-borrow-in-japan-on-182-billion-deal) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Trump Says Huang Told Him He Regrets Scandal’s Toll on Family](https://www.bloomberg.com/news/articles/2026-11-13/trump-says-huang-told-him-he-regrets-scandal-s-toll-on-family) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [‘Dark Day’: Silicon Valley Mourns Nvidia’s Decision to Oust CEO](https://www.bloomberg.com/news/articles/2026-11-12/-dark-day-silicon-valley-mourns-nvidia-s-decision-to-oust-ceo) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [Samsung Is in Talks to Acquire Data Center Cooling Firm Modine](https://www.bloomberg.com/news/articles/2026-11-12/samsung-is-in-talks-to-acquire-data-center-cooling-firm-modine) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Nvidia May Face Employee Churn, Analyst Says](https://www.bloomberg.com/news/videos/2026-11-13/nvidia-may-face-employee-churn-analyst-says-video) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [US Probes If Alice Huang Helped Smuggle Super Micro Products](https://www.bloomberg.com/news/articles/2026-11-12/us-probing-if-alice-huang-helped-smuggle-super-micro-products) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [Can Huang's Exit Create Chip Competition](https://www.bloomberg.com/news/videos/2026-11-12/can-huang-s-exit-create-chip-competition-video) *(Bloomberg Technology)*
+- [ ] 2026-11-12 [United Airlines becomes the latest enterprise to shut its door to customer bots](https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html) *(Computerworld)*
+- [ ] 2026-11-12 [Meta's Muse can now make calls on your behalf (if you have a paid subscription)](https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/) *(Engadget)*
+- [ ] 2026-11-12 [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude) *(OpenAI News)*
+- [ ] 2026-11-12 [Gondola doubles revenue as its team builds more with Codex](https://openai.com/business/customer-stories/gondola) *(OpenAI News)*
+- [ ] 2026-11-13 [NVIDIAのファンCEOが辞任、カリスマ退場で「AIの中央銀行」はどう変わるか](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12174/) *(日経クロステック IT)*
+- [ ] 2026-11-13 [Microsoft 365大規模障害、「Outlook」や「Teams」などに影響か　復旧難航](https://xtech.nikkei.com/atcl/nxt/news/24/03467/) *(日経クロステック IT)*
+- [ ] 2026-11-13 [Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も](https://www.itmedia.co.jp/news/article/2611/13/2000003110/) *(ITmedia AI＋)*
+- [ ] 2026-11-13 [「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた](https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/) *(ITmedia AI＋)*
+- [ ] 2026-11-13 [「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り](https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/) *(ITmedia AI＋)*
+- [ ] 2026-11-13 [M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」](https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/) *(ITmedia AI＋)*
+- [ ] 2026-11-12 [Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能](https://www.itmedia.co.jp/news/article/2611/13/2000003162/) *(ITmedia AI＋)*
+- [ ] 2026-11-12 [NECがデータカタログ1435個を1年で整備　AIによる意思決定支援への挑戦](https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html) *(ITmedia AI＋)*
+- [ ] 2026-11-12 [設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略](https://monoist.itmedia.co.jp/mn/articles/2611/13/news012.html) *(ITmedia AI＋)*
+- [ ] 2026-11-12 [AIエージェントを「追えない、止められない」　約半数が経験する“暴走”、浮上する3つの盲点](https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html) *(ITmedia AI＋)*
+- [ ] 2026-11-13 [AIが作成?画像は別人?選挙ポスター複数掲示　作成費に公費支出　尼崎市議補選、戸惑う有権者](https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [パンダを守るテクノロジーはどのように進化した？ - レバテックLAB](https://levtech.jp/media/detail_970/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [エヌビディアのフアンCEOが辞任　中国スパイ疑惑の女性と不倫、衝撃の転落](https://www.cnn.co.jp/business/35254806.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミュレータ」正式リリース](https://www.publickey1.jp/blog/26/awsawsaws_1.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [エヌビディアCEOに愛人紹介した謎の実業家、正体は「夫」 - WSJ](https://jp.wsj.com/articles/a-mystery-businessman-introduced-jensen-huang-to-his-paramour-it-was-her-husband-0e4e28ee) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [対話型AI「Claude」が『ポケモン』関連の作業を拒否するようになったとの報告。“ゲーム模倣NG”に加え、「アセット」「ロゴ」の使用も拒む - AUTOMATON](https://automaton-media.com/articles/newsjp/20261112-478893/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-13 [フィッシング攻撃を“遮断”　物理パスキー「YubiKey」日本で本格展開](https://www.watch.impress.co.jp/docs/news/2156008.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [インシデント調査報告書チェックリスト](https://jpcertcc.github.io/ir_report_checklist/index.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [エヌビディア フアンCEOが辞任 業界全体に影響も \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261112de75078) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [アウトルックでメール送れず　「マイクロソフト365」で大規模障害：朝日新聞](https://www.asahi.com/articles/ASVCD6X84VCDUHBI001M.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨](https://github.com/tsukumijima/YacchoGPT) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [前回1,737名が申込、来場者の約75％が大手企業に所属！AI時代の内製開発を考える「内製開発Summit 2027」スポンサー募集開始](https://prtimes.jp/main/html/rd/p/000000288.000045379.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [Announcing Rust 1.100.0 \| Rust Blog](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [Introducing Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [GitHub - vercel-labs/ui: A library of behaviors for agents to build the next generation of user interfaces.](https://github.com/vercel-labs/ui) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [緊急情報の音声放送システムにランサムウェア攻撃　滋賀県甲賀市、屋外拡声器など使えず](https://www.itmedia.co.jp/news/article/2611/13/2000003167/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [SPECTRUM \| Official Website](https://spectrum-official.jp/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-13 [米マイクロソフトのメール「アウトルック」などで大規模システム障害…世界各地にも影響の可能性](https://www.yomiuri.co.jp/economy/20261113-GYT1T00153/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-12 [人とAIエージェントはどう協働する？エージェント時代のプロジェクト管理実践ガイド](https://zenn.dev/techhub/articles/a05bc9029d78) *(Zenn – トピック AI)*
+- [ ] 2026-11-12 [Claude Code fork() の使いどき — 並列エージェント設計の判断基準](https://zenn.dev/joemike/articles/claude-code-fork-subagent-guide-2026) *(Zenn – トピック AI)*
