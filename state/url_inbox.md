@@ -169801,3 +169801,25 @@
 - [ ] 2026-11-13 [AIプロジェクトの進め方【G検定 技術解説】](https://zenn.dev/tkrndisk/articles/g-kentei-ai-project-management-tech) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-13 [YOLO の追加学習にリグレッションテストを](https://zenn.dev/xtone/articles/detection-regression) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-13 [MiniBoosts: A Boosting Library](https://zenn.dev/__leopardus__/articles/8ef73b83693db3) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-14T03:41:12.596Z
+- [ ] 2026-11-14 [White House Urges Easing Liability to Encourage AI Disclosure](https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure) *(Bloomberg Technology)*
+- [ ] 2026-11-14 [Fed’s Jefferson Says Inflation Will Determine Rate Decisions](https://www.bloomberg.com/news/articles/2026-11-14/fed-s-jefferson-says-inflation-will-determine-rate-decisions) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [SpaceX Starship Launches on Flight Test of Reusability](https://www.bloomberg.com/news/videos/2026-11-13/spacex-starship-launches-on-flight-test-video) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Colette Kress Will Face Scrutiny at Nvidia](https://www.bloomberg.com/news/videos/2026-11-13/colette-kress-will-face-scrutiny-at-nvidia-video) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Modine Shares Gain Most in Six Years After Samsung Buyout Talks](https://www.bloomberg.com/news/articles/2026-11-13/modine-shares-gain-most-in-six-years-after-samsung-buyout-talks) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Morgan Stanley’s Shalett ‘Incredibly’ Bullish Despite AI Turmoil](https://www.bloomberg.com/news/articles/2026-11-13/morgan-stanley-s-shalett-incredibly-bullish-despite-ai-turmoil) *(Bloomberg Technology)*
+- [ ] 2026-11-13 [Shield helps technicians hand off legacy portal work with OpenAI](https://openai.com/business/customer-stories/shield) *(OpenAI News)*
+- [ ] 2026-11-13 [NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生](https://www.itmedia.co.jp/business/articles/2611/14/news008.html) *(ITmedia AI＋)*
+- [ ] 2026-11-14 [【速報】マネックス証券、マイナカード画像漏えいか](https://www.47news.jp/15227159.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-14 [人間＋AIを「チーム」としてプロセスを再設計する](https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-14 [データセンターの排熱でエビ養殖、NTT系が実験　育ったら食べられる？　担当者に聞いてみた](https://www.itmedia.co.jp/news/article/2611/13/2000003200/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-14 [ゲームのコードのわずか0.1％未満にAIを使用したことを公表しただけで400件以上の低評価レビューが殺到](https://gigazine.net/news/20261113-indie-game-used-ai-bad-review/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-14 [かつて、noteのようなブログもTwitterのような短文投稿もDiscordのようなコミュニティ運営もすべてまとめてできる、夢のようなサービスがあったのじゃ](https://togetter.com/li/2770247) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [マイクロソフト 接続障害「広範囲にわたる復旧がみられる」 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261114de75755) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [楽園追放 心のレゾナンス：12年ぶり続編の挑戦　3DCGの現在地、AIと人間らしさ　水島精二監督インタビュー - MANTANWEB（まんたんウェブ）](https://mantan-web.jp/article/20261112dog00m200059000a.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [Announcing the GraphQL over HTTP specification \| GraphQL](https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [古い機器をスマートホームデバイスとしてよみがえらせる「Home Assistant Connect AUX-2」が発売開始](https://gigazine.net/news/20261113-home-assistant-connect-aux-2/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [「あの人は館長の次くらいに偉い」国会図書館でバイトしていた頃、仕事をしてる姿を見たことがない人がいた→COBOLの話題から始まる往年の技術者の話](https://togetter.com/li/2770134) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [Let’s Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [大阪でCopilotの初心者向け研修の講師をやる予定なのに障害で使えず…他のAIは使用禁止、代替ツールなし「お気の毒すぎる」「これは泣ける」→フル座学で研修を乗り切った](https://togetter.com/li/2770072) *(はてなブックマーク – IT 人気エントリ)*
