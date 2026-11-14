@@ -169823,3 +169823,56 @@
 - [ ] 2026-11-14 [「あの人は館長の次くらいに偉い」国会図書館でバイトしていた頃、仕事をしてる姿を見たことがない人がいた→COBOLの話題から始まる往年の技術者の話](https://togetter.com/li/2770134) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-11-14 [Let’s Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-11-14 [大阪でCopilotの初心者向け研修の講師をやる予定なのに障害で使えず…他のAIは使用禁止、代替ツールなし「お気の毒すぎる」「これは泣ける」→フル座学で研修を乗り切った](https://togetter.com/li/2770072) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-11-14T12:33:24.014Z
+- [ ] 2026-11-14 [‘The social contract is broken’: young people on feeling shut out of careers](https://www.theguardian.com/business/2026/nov/14/young-people-shut-out-of-work-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-14 [‘It’s like the wild west’: how AI has rocked the literary world](https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-14 [No Pilots. Few Air Traffic Controllers. What Could Go Wrong?](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-14 [Jensen Huang’s Exit Just Gave AMD and Google Their Biggest AI Opening](https://analyticsindiamag.com/global-tech/jensen-huangs-exit-just-gave-amd-and-google-their-biggest-ai-opening) *(Analytics India Magazine)*
+- [ ] 2026-11-14 [OpenAI Introduces ChatGPT Wallet for Agent-Led Payments](https://analyticsindiamag.com/ai-news/openai-introduces-chatgpt-wallet-for-agent-led-payments) *(Analytics India Magazine)*
+- [ ] 2026-11-14 [AI Chatbots and Children: Should India Regulate What Bots Say?](https://analyticsindiamag.com/ai-features/ai-chatbots-and-children-should-india-regulate-what-bots-say) *(Analytics India Magazine)*
+- [ ] 2026-11-14 [Outage at HR platform Workday locks millions of employees out of their account](https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account/) *(Engadget)*
+- [ ] 2026-11-14 [FAA allows flights to resume after hours-long ground stop across the US](https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/) *(Engadget)*
+- [ ] 2026-11-14 [動いた農林中金、AI株を「底値買い」　長期で安定成長を期待 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB109MD0Q6A111C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-14 [幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明](https://gigazine.net/news/20261114-llm-fluency-credible/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-14 [トランプ氏と急接近、NVIDIAファン氏の転落劇　対中政策で内紛招く - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN13BUZ0T11C26A1000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-14 [「AIっぽい」ポスター炎上騒動があぶり出したもの　使用ルールは手探りの中で「AI憎悪」抱く人々も：東京新聞デジタル](https://www.tokyo-np.co.jp/article/527516) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-14 [Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了](https://forest.watch.impress.co.jp/docs/news/2156117.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-14 [元Anker CMOが挑む「AIのための記憶補完デバイス」、11グラムのAIウェアラブル「Memoket Gem」とは？ \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/11/13/5713.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-14 [Google、AIエージェント向けUIプロトコル「A2UI」バージョン1.0を公開 \| gihyo.jp](https://gihyo.jp/article/2026/11/a2ui-1.0) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-14 [AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた - Qiita](https://qiita.com/yama3133/items/11a360fc97ed3ec09742) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている](https://gigazine.net/news/20261114-developers-games-industry-using-generative-ai/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [「なんでお前は重要なデータを任されるほど信用されてんの？」と上司に聞かれたセキュリティ担当者の回答、信頼に値する妙な説得力がある「情報って武器だなぁ」](https://togetter.com/li/2770282) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [マネジメントされる側の仕事は「文句」を言うこと](https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 \| The Update](https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [相次ぐ情報漏えいでアナログ回帰？　ダイソー「パスワード管理ノート」が品薄に　一方でリスクも──IPAに聞いた](https://www.itmedia.co.jp/news/article/2611/14/2000003193/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [Microsoft 365、接続障害からおおむね回復　後日詳細を報告へ](https://www.watch.impress.co.jp/docs/news/2156470.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [ng: Neovim のためのシンプルな GUI](https://zenn.dev/shougo/articles/ng-nvim-simple-gui) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [An update on our recent security incident · Cursor](https://cursor.com/blog/security-incident-update) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [GoogleのGemini搭載スマートグラス「Intelligent Eyewear」が予約受付開始、70以上の言語のリアルタイム翻訳やハンズフリーでのAI操作が可能](https://gigazine.net/news/20261113-google-intelligent-eyewear/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない - Qiita](https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [知人の「録画映像」が会議に現れる　北朝鮮の暗号資産窃取「FaceStealer」、FBIが盗撮動画900本超を押収 \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/11/13/5722.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [「GeForce RTX 5090」搭載グラボに50万円超の“幅”　そのワケは？](https://www.itmedia.co.jp/pcuser/articles/2611/14/news013.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-14 [Kaggle：RSNA Knee Abnormality Detection振り返り](https://zenn.dev/rikutw/articles/ab14fa9ad56909) *(Zenn – トピック LLM)*
+- [ ] 2026-11-14 [GPUのないノートPCで8BのLLMを動かし、見守りロボットにした。ローカルとクラウドの役割分担の実際](https://zenn.dev/xzero_001/articles/6c84c888cbcf3c) *(Zenn – トピック LLM)*
+- [ ] 2026-11-14 [Ollamaで780Mを使おうとCUDA_VISIBLE_DEVICES=-1にしたら、RTX 3060がVulkanで動いていた](https://zenn.dev/eight_blog/articles/4b4376814c76d7) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [AIに「実行失敗」と表示されたら、なぜそのまま再試行してはいけないのか？](https://zenn.dev/weiyi/articles/blog-022c68d7eba0f6a3) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [ボットなしで会議音声を拾う AI 面接アシスタント兼議事録ツール「Natively」の仕組み](https://zenn.dev/natively/articles/8260a8fb0926ea) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [AI が読んだ日付は、印刷された曜日で検算する（給食の献立が 1 日ずれた話）](https://zenn.dev/hiroyamayu/articles/ai-date-weekday-check) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [ivvyとOpus 単独を比べ直した](https://zenn.dev/daimo0120/articles/d2f0c169f6e498) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [Tech Watch 2026-11-14: エージェントの実行境界](https://zenn.dev/laiken/articles/20261114-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [役割を分けたつもりで、記憶は共有していた ― 複数のAIエージェントに同じコンテキストを見せない設計](https://zenn.dev/taichiendoh/articles/multi-agent-shared-memory-scope-isolation) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [Claude のモデル、みんなどう使い分けてる？：Opus・Sonnet・Haiku・Fable の公式の答えと3つの型](https://zenn.dev/zundamon_tools/articles/claude-model-choice-opus-sonnet) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [LM StudioでPDFに答えられないとき：抽出・検索・生成を切り分ける](https://zenn.dev/kas_blog/articles/20260917-lm-studio-pdf-chat) *(Zenn – トピック LLM)*
+- [ ] 2026-11-13 [対話型AI上に仮想OS『KratOS』を構築するINI設計手法](https://zenn.dev/akajishi/articles/613e1c0e9368b1) *(Zenn – トピック LLM)*
+- [ ] 2026-11-14 [大会運営の秘書役を、AIエージェント「Muse」と乗り切りました](https://zenn.dev/edtech_guild/articles/b08522651d8ea3) *(Zenn – トピック AI)*
+- [ ] 2026-11-14 [会社の情報発信をAIエージェント「Muse」に任せてみた2日間](https://zenn.dev/edtech_guild/articles/6480c25fe775aa) *(Zenn – トピック AI)*
+- [ ] 2026-11-14 [なぜ今、Rustが注目されるのか：言語の歴史、Pythonとの関係、AI基盤の事例から](https://zenn.dev/kentaro36/articles/why-rust-is-getting-attention) *(Zenn – トピック AI)*
+- [ ] 2026-11-14 [CLAUDE.mdを313行から163行に削った理由——152回の改訂と100の罠から学ぶAIエージェント本番運用](https://zenn.dev/growl/books/4bd285d11011a2) *(Zenn – トピック AI)*
+- [ ] 2026-11-14 [農業×AI週間トレンド 11/7〜11/14](https://zenn.dev/unagi_labo/articles/bda6b0b30a6113) *(Zenn – トピック AI)*
+- [ ] 2026-11-14 [毎時の「連絡係」セッションで、複数の Claude セッションをつなぐ](https://zenn.dev/neuralalpha/articles/hourly-relay-sessions) *(Zenn – トピック AI)*
+- [ ] 2026-11-14 [Claude Codeに縦のショートを作らせたら、検査は全部合格なのに字幕が5か所おかしかった](https://zenn.dev/kirinukiauto/articles/b031c8dba3cea7) *(Zenn – トピック AI)*
+- [ ] 2026-11-14 [AI駆動開発はドキュメントの置き場から始めたい](https://zenn.dev/au/articles/421e5b08c64472) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [【2026/11/13時点】Claude Duet を Team プランで触ってみた（組織で使うときの注意点つき）](https://zenn.dev/canly/articles/e2bd67c9a4c18b) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [NvidiaのCEOが辞任。Googleは新AIを検索へ](https://zenn.dev/sugawara_ai/articles/ai-news-20261113) *(Zenn – トピック AI)*
+- [ ] 2026-11-13 [一人の開発者 vs ボット・インターネット:OpenOS EDNA —— 生体情報を一切クラウドに送らず「あなたが人間であること」を証明する](https://zenn.dev/sebklaey/articles/cd02b3c07d03d9) *(Zenn – トピック AI)*
