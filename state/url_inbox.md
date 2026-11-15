@@ -169968,3 +169968,89 @@
 - [ ] 2026-11-14 [最初からスパルタ vs できたら厳しく：歩行ロボットを15体強化学習させたら、一番厳しい練習をしていない方が強かった](https://zenn.dev/yuya26_ai/articles/977266db42ea8e) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-14 [フィジカルAI入門:2本足ロボットを強化学習で鍛えて、研究として正しく評価する](https://zenn.dev/yuya26_ai/books/4905ffb6271e17) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-14 [小さいLLMの答えを辞書で確かめる「TADORI」は、どこで効いて、どこで効かないか（E16〜E20）](https://zenn.dev/mst_design2020/articles/45f9359416b8e5) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-15T12:59:53.183Z
+- [ ] 2026-11-15 [160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating](https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-15 [‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick](https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-15 [AI discovers a hidden heart signal that could predict sudden death](https://www.sciencedaily.com/releases/2026/11/261112230456.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-11-15 [AI DJs Completely Kill My Groove](https://www.wired.com/story/ai-djs-completely-kill-my-groove/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-15 [This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets](https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-15 [Wingtech to Challenge Dutch Court’s Nexperia Interim Order](https://www.bloomberg.com/news/articles/2026-11-15/wingtech-to-challenge-dutch-court-s-nexperia-interim-order) *(Bloomberg Technology)*
+- [ ] 2026-11-15 [China’s Yoozoo Gets $214 Million Flash-Memory Components Order](https://www.bloomberg.com/news/articles/2026-11-15/china-s-yoozoo-gets-214-million-flash-memory-components-order) *(Bloomberg Technology)*
+- [ ] 2026-11-15 [Firmus Plans to Raise $3 Billion After IPO Collapse, AFR Says](https://www.bloomberg.com/news/articles/2026-11-15/firmus-plans-to-raise-3-billion-after-ipo-collapse-afr-says) *(Bloomberg Technology)*
+- [ ] 2026-11-15 [Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating](https://www.bloomberg.com/news/articles/2026-11-15/korea-s-top-scorer-in-tax-accountant-exam-admits-to-ai-cheating) *(Bloomberg Technology)*
+- [ ] 2026-11-15 [Carney, Lula Forge Closer Ties With Forests Funding, Visits](https://www.bloomberg.com/news/articles/2026-11-15/carney-pledges-c-560-million-for-brazil-led-forest-project) *(Bloomberg Technology)*
+- [ ] 2026-11-15 [India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return](https://www.bloomberg.com/news/articles/2026-11-15/india-stock-market-rebounds-as-ai-trade-unwinds-foreign-funds-return) *(Bloomberg Technology)*
+- [ ] 2026-11-15 [Troubleshooting a black screen on your MacBook is easier than you think](https://www.engadget.com/2313043/troubleshoot-macbook-black-screen-issues/) *(Engadget)*
+- [ ] 2026-11-15 [Which NVIDIA GPU is closest to the PS5? The answer isn't so simple](https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/) *(Engadget)*
+- [ ] 2026-11-15 [This Sony patent would add a credit card reader to your PlayStation controller](https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/) *(Engadget)*
+- [ ] 2026-11-15 [What are the limitations of eGPUs vs onboard graphics cards for laptops?](https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/) *(Engadget)*
+- [ ] 2026-11-15 [11 gadgets under $10 that solve everyday problems](https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/) *(Engadget)*
+- [ ] 2026-11-15 [There's a hidden way you can check which services are running on your Android phone](https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/) *(Engadget)*
+- [ ] 2026-11-14 [Common reasons your Roku TV can turn on by itself and how to fix it](https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/) *(Engadget)*
+- [ ] 2026-11-14 [One cable mistake could be killing your desktop PC's gaming performance](https://www.engadget.com/2313063/cable-mistake-desktop-pc-gaming-performance/) *(Engadget)*
+- [ ] 2026-11-14 [Why your SD card won't let you transfer files bigger than 4GB, and how to fix it](https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/) *(Engadget)*
+- [ ] 2026-11-14 [This underrated Google Health app feature can make food tracking less annoying](https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/) *(Engadget)*
+- [ ] 2026-11-14 [How to get better results from Google Gemini](https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/) *(Engadget)*
+- [ ] 2026-11-14 [Honor Magic8 Pro vs. Magic9 Pro Max: What's been upgraded?](https://www.engadget.com/2307825/honor-magic-8-pro-vs-9-pro-upgrade-comparison/) *(Engadget)*
+- [ ] 2026-11-14 [Here's when a dedicated graphics card is worth it](https://www.engadget.com/2312688/when-dedicated-graphics-card-worth-it/) *(Engadget)*
+- [ ] 2026-11-15 [今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi](https://note.com/at_sushi_at/n/n2e6ea3453e37) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-15 [プラレールの上を走るペンプロッタを、人間と一緒に作った話【前編】――作る話｜Kohya S.](https://note.com/kohya_ss/n/nb028d0974cdd) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-15 [脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現](https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-15 [「人工知能学会」で「おじさん構文」の研究発表、問われる「若者に絵文字を使っていいのか」問題…ＡＩとの関係は](https://www.yomiuri.co.jp/science/20261112-GYT1T00160/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-15 [All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI](https://www.youtube.com/watch?v=O_zcc6Xl12g) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-15 [AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか](https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-15 [個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）](https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-15 [NVIDIAフアン前CEOの復帰求める署名が11万人超　マスク氏らも賛同、米議会は追及継続](https://www.itmedia.co.jp/news/article/2611/15/2000003207/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-15 [自作フィードリーダーを作った - A Day in the Life](https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-15 [Building always-on agents](https://claude.com/resources/articles/building-always-on-agents) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-15 [たった0.8Bで53言語対応。翻訳特化型ローカルLLM「PLaMo 3 Translate」を試す【使ってわかるAI PC】](https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2156218.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-15 [マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序](https://clivelab.jp/blogs/news/motherboard-rarely-fails) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [独プールで15人体調不良　マイクロソフト障害影響 \| NEWSjp](https://news.jp/i/1494496378441958289) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [pingしながら問題の切り分けまでしてくれるspingが良さげかも \| kawarimidoll.com](https://kawarimidoll.com/posts/202610201/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [デスクトップアプリを自動操作できるAUVが良さげかも \| kawarimidoll.com](https://kawarimidoll.com/posts/202610182/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [55歳でグーグル本社をクビになった私が、4つのバイトのかけもち生活を通して思い出した「肉体労働の価値」とは](https://crea.bunshun.jp/articles/-/60719) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org](https://p2ptk.org/monopoly/5681) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [【Hothotレビュー】 メモリ48GBで26万円台のミニPC「T5 Max」でローカルAIエージェントを動かしてみた](https://pc.watch.impress.co.jp/docs/column/hothot/2155899.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)](https://note.activetk.jp/etc/uncensored-dev-list) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [【速報】スペースXの「スターシップ」が発射台に初帰還！　第15回飛行試験でキャッチ成功](https://sorae.info/space/20261115-starship-15.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [データカタログをNotionからdbt docsに切り替えた話](https://zenn.dev/luup_developers/articles/data-kouno-20231210) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [グーグルに16年間勤務、55歳で突然解雇…スーパーのレジ係に転職した私が直面した「3つの試練」](https://crea.bunshun.jp/articles/-/60720) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [E2E Test というハーネス — AI時代の自動テスト民主化](https://speakerdeck.com/daishukojima/ttf2026-e2e-test-harness) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 \| Amazon Web Services](https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [Linux Kernel Internals](https://kernel-internals.org/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [米国はトランピズムを「なかったこと」にはできない » p2ptk[.]org](https://p2ptk.org/notes/5679) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [Netflixが値上げ　最安の広告つきプランは月額990円、4K対応「プレミアム」は2590円に](https://www.itmedia.co.jp/mobile/articles/2611/14/news017.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [AIの時代だからこそ、強い型付けのIaCツールをつくっている](https://mizzy.org/blog/2026/11/02/2/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [AI時代のチーム組成を考える｜Genki Sano](https://note.com/sanogemaru/n/ne9df8a63ec82) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [2026年11月のWindows 11セキュリティパッチ、一部デバイスでインストールが完了しない問題／Microsoftが自動で修復中](https://forest.watch.impress.co.jp/docs/news/2156181.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [分身AIの未来予想図──AIモデルを替えても「私の記憶」は失わない](https://zenn.dev/ccq/articles/a83c4b882f1579) *(Zenn – トピック LLM)*
+- [ ] 2026-11-15 [生身の人間 vs 10年前の骨董品PCに住むAI社員 ―― B2B受発注のフルサイクル模擬商談バトル](https://zenn.dev/meshu/articles/4afc17b626a2ec) *(Zenn – トピック LLM)*
+- [ ] 2026-11-15 [忘れるために書き出す──CORALが認知的オフロードで長期エージェントの文脈を自ら整理する仕組み](https://zenn.dev/lixian/articles/coral-cognitive-resource-self-allocation) *(Zenn – トピック LLM)*
+- [ ] 2026-11-15 [AI 基礎② なぜ日本語は英語よりトークン消費量が多いのか](https://zenn.dev/luvmini511/articles/japanese-korean-tokens) *(Zenn – トピック LLM)*
+- [ ] 2026-11-15 [128GBの統合メモリに、夜色の道具箱を全部載せる — 副業ツールをローカルLLMで回す構想](https://zenn.dev/fast_snake57/articles/82bb5e6a81bcca) *(Zenn – トピック LLM)*
+- [ ] 2026-11-15 [Meta Muse の「自分から動く AI エージェント」を、業務システムに — Biz AI で作る AI 社員](https://zenn.dev/itccloudsoft/articles/e3a111482bea94) *(Zenn – トピック LLM)*
+- [ ] 2026-11-15 [議論の記録を後から検証できる形で残すには、判断の根拠を共有する設計メモ](https://zenn.dev/onelifevibe/articles/6ef89c0713c3fe) *(Zenn – トピック LLM)*
+- [ ] 2026-11-14 [Gemini Decision 1 で学校行事のカレンダー判定を 7 割安くした（選ぶ AI と書く AI を分ける）](https://zenn.dev/hiroyamayu/articles/gemini-decision-calendar) *(Zenn – トピック LLM)*
+- [ ] 2026-11-14 [仕様作成をivvyとOpus単独で比べてみた](https://zenn.dev/daimo0120/articles/ba68474ee80ef2) *(Zenn – トピック LLM)*
+- [ ] 2026-11-14 [Tech Watch 2026-11-15: 道具と検証の境界](https://zenn.dev/laiken/articles/20261115-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-11-14 [写真はクラウドに置く。作るのは家のGPUで。](https://zenn.dev/keizoh53/articles/family-photo-local-gpu) *(Zenn – トピック LLM)*
+- [ ] 2026-11-14 [ローカルLLMで動く翻訳拡張機能「Sakutto」を開発した話](https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension) *(Zenn – トピック LLM)*
+- [ ] 2026-11-15 [OpenSpecで始める仕様駆動開発 ── チームに入れる前に考えたこと](https://zenn.dev/pnrnc485/articles/20e0b2a6ff6674) *(Zenn – トピック AI)*
+- [ ] 2026-11-15 [109万円はAPI費用じゃ回収できない。それでもローカルに置くものを、毎日のAIエージェント運用から決める](https://zenn.dev/dev_daichi/articles/d1982686fd59e9) *(Zenn – トピック AI)*
+- [ ] 2026-11-15 [ブラウザ操作をAIに任せて踏んだ、順序とUIの罠4つ — 日時ピッカー・並び替わるダイアログ・簡体字](https://zenn.dev/zeroyen_dev/articles/browser-automation-order-traps) *(Zenn – トピック AI)*
+- [ ] 2026-11-15 [「うるさくない店がいい」を検索語に翻訳する、旅行計画の Claude Code スキルを作った](https://zenn.dev/airspace_nobo/articles/trip-harness-claude-code-skill) *(Zenn – トピック AI)*
+- [ ] 2026-11-15 [OutSystems 11 の MCP で、Claude Code に画面を作らせてみた](https://zenn.dev/dorag/articles/o11-mcp-claude-code) *(Zenn – トピック AI)*
+- [ ] 2026-11-15 [FHマクロで値を残す場所の選び方——一時変数・グローバルデータ・システムデータ・VarSaveのスコープと保存](https://zenn.dev/kensho_ya/articles/fh-macro-data-scope-global-system-varsave) *(Zenn – トピック AI)*
+- [ ] 2026-11-15 [Can I use AI image to video on a suggestive photo without making porn?](https://zenn.dev/sarabuilds/articles/d2a3a7ca85cd41) *(Zenn – トピック AI)*
+- [ ] 2026-11-15 [AIが買い物まで代行。ChatGPT Walletが始まった](https://zenn.dev/sugawara_ai/articles/ai-news-20261114) *(Zenn – トピック AI)*
+- [ ] 2026-11-15 [AIの回答が長すぎて、理解しないまま実装している問題（理解負債）](https://zenn.dev/kent_code/articles/5892898be90cac) *(Zenn – トピック AI)*
+- [ ] 2026-11-15 [Claude Codeと7週間で、コーネル式ノートのWebアプリを作って公開するまで](https://zenn.dev/spring1293/articles/0a196cadb5942b) *(Zenn – トピック AI)*
+- [ ] 2026-11-15 [CLAUDE.mdが手順書になってきたら：スキルに切り出す目安と、置き場所の決め方](https://zenn.dev/ryuyanishino/articles/16c7cdb166a048769887588957ffd475) *(Zenn – トピック AI)*
+- [ ] 2026-11-15 [AI にコードを読ませて設計意図を推測させたら、3つ外れた](https://zenn.dev/tomnotelog/articles/design-intent-guesses-missed-retrospective) *(Zenn – トピック AI)*
+- [ ] 2026-11-14 [Claude Codeに役割分担させる『部制』の考え方｜CLAUDE.mdと連絡箱で受け渡す運用](https://zenn.dev/wadome_do/articles/claude-code-team-dev-kit) *(Zenn – トピック AI)*
+- [ ] 2026-11-15 [Claude Codeと作る競馬予測システム開発記(12) ハイパーパラメータ調整編](https://zenn.dev/teruyotasaki/articles/horse-racing-ml-dev-12-hyperparameter) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-15 [どの気象モデルが最も正確か: 世界の予報モデルを毎日採点する公開リーダーボード](https://zenn.dev/vidraft/articles/245ae2b0f06e11) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-15 [Python機械学習の基礎固め3冊](https://zenn.dev/soraml/articles/20261115_book_ref) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-14 [深層学習DNNは未知の電解液ブレンドのイオン伝導度をどう予測するのか？](https://zenn.dev/ykusachi/articles/8a84dd5b7b614d) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-14 [EmbeddingGemma 2を法人名寄せ用に追加学習したら、文字列検索に勝てなかった](https://zenn.dev/jo_okazaki/articles/accelai-embeddinggemma2-corporate-name-matching) *(Zenn – トピック 機械学習)*
