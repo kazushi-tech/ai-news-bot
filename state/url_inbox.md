@@ -170155,3 +170155,70 @@
 - [ ] 2026-11-15 [四足歩行方策の設定と高さ観測：ANYmalの角材通過に関する予備実験](https://zenn.dev/bur/articles/quadruped-height-observation-study) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-15 [森林内ドローンの熱源検出と視点変更による再捕捉](https://zenn.dev/bur/articles/forest-thermal-reacquisition-study) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-15 [ROC AUCとは：なぜ正解率ではなくAUCで評価するのか](https://zenn.dev/py_ml_studio/articles/b31ae5dfb2eea6) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-16T03:19:38.950Z
+- [ ] 2026-11-16 [Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows](https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-16 [Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter](https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-16 [Morgan Stanley ‘Max Overweight’ Global Stocks on AI Cycle](https://www.bloomberg.com/news/articles/2026-11-16/morgan-stanley-max-overweight-global-stocks-on-intact-ai-cycle) *(Bloomberg Technology)*
+- [ ] 2026-11-15 [Nvidia’s CEO Search Draws Fire With Bessent’s ‘Shakeup’ Call](https://www.bloomberg.com/news/articles/2026-11-15/nvidia-s-ceo-search-draws-fire-with-bessent-s-call-for-shakeup) *(Bloomberg Technology)*
+- [ ] 2026-11-16 [Alibaba Unveils New Flagship AI Model in Riposte to US Rivals](https://www.bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals) *(Bloomberg Technology)*
+- [ ] 2026-11-16 [Kakao Prepares for Historic Split of Internet Empire in AI Chase](https://www.bloomberg.com/news/articles/2026-11-16/kakao-prepares-for-historic-split-of-internet-empire-in-ai-chase) *(Bloomberg Technology)*
+- [ ] 2026-11-16 [Nvidia’s CEO Search Draws Fire With Bessent’s ‘Shakeup’ Call](https://www.bloomberg.com/news/videos/2026-11-16/nvidia-s-ceo-search-scrutiny-including-from-bessent-video) *(Bloomberg Technology)*
+- [ ] 2026-11-16 [SK Hynix Plans Chip Testing Hub to Boost Smaller Korean Players](https://www.bloomberg.com/news/articles/2026-11-16/sk-hynix-plans-chip-testing-hub-to-boost-smaller-korean-players) *(Bloomberg Technology)*
+- [ ] 2026-11-15 [Netflix Resets Its Experiential Strategy](https://www.bloomberg.com/news/newsletters/2026-11-15/netflix-resets-its-experiential-strategy) *(Bloomberg Technology)*
+- [ ] 2026-11-15 [Taisei Launches $150 Million AI, Robotics Fund With Pegasus Tech Ventures](https://www.bloomberg.com/news/articles/2026-11-15/taisei-launches-150-million-ai-robotics-fund-with-pegasus-tech-ventures) *(Bloomberg Technology)*
+- [ ] 2026-11-16 [How to clear the application cache on your Mac](https://www.engadget.com/2314079/how-to-clear-application-cache-mac/) *(Engadget)*
+- [ ] 2026-11-16 [The oldest gadget in your house could be your home network's biggest security hole](https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/) *(Engadget)*
+- [ ] 2026-11-16 [The pros and cons of using your phone as a mobile hotspot](https://www.engadget.com/2313946/pros-cons-using-phone-mobile-hotspot/) *(Engadget)*
+- [ ] 2026-11-16 [The pros and cons of using cloud storage over local storage](https://www.engadget.com/2313943/pros-cons-using-cloud-storage-over-local/) *(Engadget)*
+- [ ] 2026-11-16 [10 things your iPhone's Notes app can do other than taking notes](https://www.engadget.com/2310550/other-things-iphone-notes-app-can-do/) *(Engadget)*
+- [ ] 2026-11-16 [What causes a sudden drop in phone battery percentage?](https://www.engadget.com/2313940/phone-battery-percentage-suddenly-drops/) *(Engadget)*
+- [ ] 2026-11-15 [Here's what actually happens if your laptop battery is completely drained](https://www.engadget.com/2313936/what-happens-drained-laptop-battery/) *(Engadget)*
+- [ ] 2026-11-15 [Why your Wi-Fi slows down when more devices connect](https://www.engadget.com/2313934/wifi-slows-down-when-devices-connect/) *(Engadget)*
+- [ ] 2026-11-15 [How long can a 1000 watt-hour power station run your devices?](https://www.engadget.com/2313932/how-long-1000-watt-power-station-run-devices/) *(Engadget)*
+- [ ] 2026-11-15 [Samsung is discontinuing these useful mobile apps in December](https://www.engadget.com/2313930/samsung-is-discontinuing-these-useful-mobile-apps-in-december/) *(Engadget)*
+- [ ] 2026-11-15 [How one 13-year-old is helping solve a huge solar panel limitation](https://www.engadget.com/2313927/13-year-old-solving-solar-panel-limitation/) *(Engadget)*
+- [ ] 2026-11-15 [How to get warnings about speed cameras in Apple CarPlay](https://www.engadget.com/2313915/how-to-get-speed-camera-alerts-carplay/) *(Engadget)*
+- [ ] 2026-11-15 [A step toward defining the Standard Model on a lattice](https://openai.com/index/step-toward-defining-the-standard-model) *(OpenAI News)*
+- [ ] 2026-11-15 [Our new blog for science](https://openai.com/index/our-new-blog-for-science) *(OpenAI News)*
+- [ ] 2026-11-16 [OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証](https://www.itmedia.co.jp/news/article/2611/16/2000003208/) *(ITmedia AI＋)*
+- [ ] 2026-11-16 [エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場　OpenAIが決済大手と提携し開発　提供は米国から](https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/) *(ITmedia AI＋)*
+- [ ] 2026-11-16 [CAD図面内の品名や注記をAIで検索、DWG／DXF形式に対応](https://monoist.itmedia.co.jp/mn/articles/2611/16/news016.html) *(ITmedia AI＋)*
+- [ ] 2026-11-15 [AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」](https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html) *(ITmedia AI＋)*
+- [ ] 2026-11-15 [自信がなければ「分かりません」──足立区が議会答弁AIにかけた“ガード”　「情報間違えれば区民に影響」の思い](https://www.itmedia.co.jp/aiplus/article/2611/16/2000003196/) *(ITmedia AI＋)*
+- [ ] 2026-11-15 [ガートナーが考えるフィジカルAI実装のロードマップと人の役割](https://monoist.itmedia.co.jp/mn/articles/2611/16/news050.html) *(ITmedia AI＋)*
+- [ ] 2026-11-15 [DMG森精機が進める工作機械部品へのAM活用、自社イベントで最新5軸機も展示](https://monoist.itmedia.co.jp/mn/articles/2611/17/news012.html) *(ITmedia AI＋)*
+- [ ] 2026-11-15 [ライセンス更新を機に「脱マクロ」　オートバックスセブンがGeminiで目指す売上高5000億円](https://kn.itmedia.co.jp/kn/article/2611/16/2000003181/) *(ITmedia AI＋)*
+- [ ] 2026-11-15 [AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！](https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html) *(ITmedia AI＋)*
+- [ ] 2026-11-15 [メルカリ、アプリ開発「2日→数十分」へ　直面したAI時代の“意外な課題”とは？](https://www.itmedia.co.jp/business/articles/2611/16/news031.html) *(ITmedia AI＋)*
+- [ ] 2026-11-16 [OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB](https://levtech.jp/media/detail_972/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-16 [内製 Coding Agent "haro" と社内 GPU で、探索的テスト AI Agent をぶん回している - LayerX エンジニアブログ](https://tech.layerx.co.jp/entry/haro-et-agent) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-16 [Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開](https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-16 [信号機AI制御8000カ所、東京都内全域導入へ　渋滞長さ1割減で物流円滑に - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUD292PN0Z20C26A9000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-16 [筒抜けの国家中枢　安全保障脅かすスマホ位置情報](https://vdata.nikkei.com/newsgraphics/location-data-leaks/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-16 [宿題ぐらい「自力でやらないと」…でも勉強はチャッピー頼み、思考丸投げ「自分の今後怖い」](https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20261116-GYT1T00001/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-16 [PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか](https://www.publickey1.jp/blog/26/postgresql_194ai.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-16 [LLMはソフトウェア開発に「重力」をもたらした ― 建築家と考える、AI時代の設計 - arclamp](https://arclamp.hatenablog.com/entry/2026/11/14/224526) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-16 [俺、8210円で買える「透明レトロカメラ」に夢中なんだ。これ面白いんだぜ！ (1/5)](https://ascii.jp/elem/000/004/451/4451322/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org](https://p2ptk.org/monopoly/5688) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」](https://www.yomiuri.co.jp/world/20261115-GYT1T00190/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [Microsoft 365障害はなぜ長引いたのか？　原因・タイムラインと「SLAクレジット」請求方法まとめ](https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [ドコモでまたも通信障害、全国の「5G SA」で通話・データ通信に影響　11月3度目](https://k-tai.watch.impress.co.jp/docs/news/2156616.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [またオマエ（MT7925）か…。高級PCでもWi-Fiで320MHz幅通信ができない問題を考える【イニシャルB】](https://internet.watch.impress.co.jp/docs/column/shimizu/2154830.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [GitHub - owasp-dep-scan/dep-scan: OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as](https://github.com/owasp-dep-scan/dep-scan) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [NTTドコモ 全国で通信障害 今月3度目 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261116de76369) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [GitHub - oxynote/oxynote: An open‑source technical wiki connected to the systems it describes](https://github.com/oxynote/oxynote) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [ドコモ、また「5G SA」で通信障害　今月3回目【更新】](https://www.itmedia.co.jp/news/article/2611/16/2000003218/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [GPTって教えないくせに根掘り葉掘り聞くよね](https://anond.hatelabo.jp/20261116035910) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [日本語でリアルタイム会話可能なAI「Haru-4B」がオープンモデルとして公開される、電話で話せるデモもあり](https://gigazine.net/news/20261116-haru-4b-conversation-ai/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く](https://www.itmedia.co.jp/news/article/2611/16/2000003215/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [はてな東京オフィスでGo言語の勉強会「hatena.go #3」を開催します - Hatena Developer Blog](https://developer.hatenastaff.com/entry/2026/11/06/174023) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [人が辞めてもお構いなし？　とにかく出社させたがる「地球の重力に魂を引かれた人たち」](https://atmarkit.itmedia.co.jp/ait/articles/2611/16/news013.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [【AV Watchアワード】26年も無双だった液晶ブラビア。安いだけじゃないTCL台頭で老舗ブランド危うし！～AV Watchアワード座談会・液晶編](https://av.watch.impress.co.jp/docs/topic/avwaward/2155465.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [テスラ「Cybercab」、購入しても別途「月5万円のサブスク契約」が必要　払わないと走行不可](https://japan.cnet.com/article/35254914/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [宿題ぐらい「自力でやらないと」…でも勉強はチャッピー頼み、思考丸投げ「自分の今後怖い」（読売新聞オンライン） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/b3d77bd70ed3d2ebe05c2a28248b6cd63ab21e2a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [無料でSQLiteデータベース（.sqlite・.db）・.sqlダンプファイル・CSVファイルなどを編集・変換できる「editsqlite」](https://gigazine.net/news/20261115-editsqlite/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-16 [No AI Slop Manifesto に署名した - ちなみに](https://blog.nishimu.land/entry/2026/11/15/143815) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-15 [拒否率が高いAIは安全なのか？ 従来の安全性評価が見落としていたもの](https://zenn.dev/takuh/articles/83e14ce3ee9464) *(Zenn – トピック LLM)*
+- [ ] 2026-11-15 [Ternary Bonsai 2 4B／9BをVRAM 6GBで実測：4Bは88.4 tok/s、はみ出さず -c 106,496](https://zenn.dev/localai_lab/articles/cb6b4aaf83a9d1) *(Zenn – トピック LLM)*
+- [ ] 2026-11-15 [コードが読めなくても、Claude Code の出力が正しいか確かめられる——動かす・開く・分ける・基準を持つ、4つの確認方法](https://zenn.dev/tottoko_hamu/articles/2026-11-14-141430) *(Zenn – トピック LLM)*
