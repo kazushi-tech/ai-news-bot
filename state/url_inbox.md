@@ -172567,3 +172567,60 @@
 - [ ] 2026-11-19 [9グラフ中6つ：QCS6490でInternVL3.5-2Bを測る——ベンダーの資産に紛れ込んだFP32テンソル](https://zenn.dev/anguoyang/articles/7fa7f37ce91700) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-19 [テキストと画像を同じ形にする](https://zenn.dev/miyamoto_gt/articles/transformer-0-1-w6) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-19 [日本株AIクオンツの過学習罠と完全ローカル業務AIガード実装](https://zenn.dev/pecopeko/books/afml-quant-and-local-ai-guard) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-20T04:40:04.458Z
+- [ ] 2026-11-20 [Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?](https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-20 [NextDC vows to keep future datacentres away from homes after community backlash in Melbourne](https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-20 [Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry](https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-20 [Chip Selloff Turns Into Stampede in Asia as AI Fears Grow](https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes) *(Bloomberg Technology)*
+- [ ] 2026-11-20 [Nextdc Says It Will No Longer Develop Data Centers Near Homes](https://www.bloomberg.com/news/articles/2026-11-20/nextdc-says-it-will-no-longer-develop-data-centers-near-homes) *(Bloomberg Technology)*
+- [ ] 2026-11-20 [Anthropic Slumps 5% Post-Market After Record $107.3 Billion IPO](https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans) *(Bloomberg Technology)*
+- [ ] 2026-11-20 [Emerging-Market Stocks Head for Bear Market on AI-Led Tech Slide](https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide) *(Bloomberg Technology)*
+- [ ] 2026-11-20 [Japanese Shares Slide as AI Concerns Overshadow Anthropic Debut](https://www.bloomberg.com/news/articles/2026-11-20/japanese-shares-slide-amid-uncertainty-around-the-ai-trade-mwo9cqcj) *(Bloomberg Technology)*
+- [ ] 2026-11-20 [Court Upholds Kakao Founder’s Acquittal of Stock Rigging Charges](https://www.bloomberg.com/news/articles/2026-11-20/court-upholds-kakao-founder-s-acquittal-of-stock-rigging-charges) *(Bloomberg Technology)*
+- [ ] 2026-11-20 [Minotaur's Rosenberg: Anthropic IPO Fuels Wider AI Trade](https://www.bloomberg.com/news/videos/2026-11-20/minotaur-s-rosenberg-anthropic-ipo-fuels-wider-ai-trade-video) *(Bloomberg Technology)*
+- [ ] 2026-11-20 [Could a Jensen Huang-Style Scandal Happen at Apple?](https://www.bloomberg.com/news/videos/2026-11-20/could-a-jensen-huang-style-scandal-happen-at-apple-video) *(Bloomberg Technology)*
+- [ ] 2026-11-19 [Joanna Stern on Siri’s iOS 27 Issues and Her Viral ‘Apple Dad’ Review](https://www.bloomberg.com/news/videos/2026-11-19/joanna-stern-on-siri-s-ios-27-issues-and-her-viral-apple-dad-review) *(Bloomberg Technology)*
+- [ ] 2026-11-19 [Currency Playbook Gets Rewritten in Asia as Losers Bounce Back](https://www.bloomberg.com/news/articles/2026-11-19/currency-playbook-gets-rewritten-in-asia-as-losers-bounce-back) *(Bloomberg Technology)*
+- [ ] 2026-11-20 [Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks](https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/) *(Engadget)*
+- [ ] 2026-11-19 [Deploying Daybreak Red](https://openai.com/business/learn/deploying-daybreak-red) *(OpenAI News)*
+- [ ] 2026-11-20 [古川デジタル相、Microsoft 365障害で日本MS社長から報告　安定稼働を要請](https://xtech.nikkei.com/atcl/nxt/news/24/03482/) *(日経クロステック IT)*
+- [ ] 2026-11-20 [Anthropicがナスダック上場　期待と不安が交錯、「価値観と矛盾」との声も](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12193/) *(日経クロステック IT)*
+- [ ] 2026-11-20 [日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？](https://www.itmedia.co.jp/business/articles/2611/20/news024.html) *(ITmedia AI＋)*
+- [ ] 2026-11-20 [車体形状を変えながら空力性能をAI予測、AutodeskがNVIDIAとの技術統合を計画](https://monoist.itmedia.co.jp/mn/articles/2611/20/news029.html) *(ITmedia AI＋)*
+- [ ] 2026-11-20 [ChatGPT「Plus」プラン一部ユーザーに「dots」解禁　「Business Standard」全ユーザーにも](https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/) *(ITmedia AI＋)*
+- [ ] 2026-11-20 [ベテランPMが辞めても失いたくない「暗黙知」を“生成AI面談”で残す　東京ガス系が実践したノウハウ継承術](https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news021.html) *(ITmedia AI＋)*
+- [ ] 2026-11-20 [ヒューマノイドからAIビジョンまで、三菱電機「Serendie Automation」の具体像](https://monoist.itmedia.co.jp/mn/articles/2611/20/news045.html) *(ITmedia AI＋)*
+- [ ] 2026-11-19 [Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加　まず米国で](https://www.itmedia.co.jp/news/article/2611/20/2000003356/) *(ITmedia AI＋)*
+- [ ] 2026-11-20 [録音の文字起こし・リアルタイム文字起こし・テキストの音声読み上げができる「speech.cpp」はGPU不要でCPUだけで動作可能](https://gigazine.net/news/20261119-speech-cpp/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-20 [Impossible OS、LinuxでもWindows派生でもない新OSを一人で構築。143万行でプリアルファに到達](https://joho-todai.com/impossible-os-new-operating-system-linux-windows/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-20 [韓国の法学適性試験で満点の男性、ソウルの宿泊施設にて心停止状態で発見 - Kstyle](https://kstyle.com/article.ksn?articleNo=2286592) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-20 [Google「Gemini 4 Neon」公開、Carbonより1タスク32%安い中位モデル　Geminiアプリは有料プランで選択可能 \| テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/11/19/5766.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-20 [Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル／“フロンティア級”の知能をより高速・低コストで、「Carbon」比でタスク単価32％削減](https://forest.watch.impress.co.jp/docs/news/2157693.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-20 [Introducing Amazon OpenSearch Memory: Persistent memory for AI agents \| Amazon Web Services](https://aws.amazon.com/blogs/big-data/introducing-amazon-opensearch-memory-persistent-memory-for-ai-agents/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-20 [湘南美容クリニックのSBC、162万人分の個人情報流出　パスワードは「暗号化せず保存していた」](https://www.itmedia.co.jp/news/article/2611/20/2000003355/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [Muse の VM は約2時間で入れ替わる（実測と対策） - Qiita](https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス](https://zenn.dev/nttdata_tech/articles/9562962cc181a1) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [【やじうまミニレビュー】 Kindle専用のはずが……「Kindle Click」はiPhoneでも使えた](https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止　予定を前倒し](https://www.itmedia.co.jp/news/article/2611/19/2000003344/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [Introducing the new AWS WAF security analytics dashboard \| Amazon Web Services](https://aws.amazon.com/blogs/security/introducing-the-new-aws-waf-security-analytics-dashboard/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要](https://gigazine.net/news/20261120-rdma-over-usb4-windows/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [かつてスクウェアにナーシャ・ジベリ氏という伝説のプログラマーがいて数々の逸話を残した→河津秋敏さんが反応して当時の話をしてくれるアツい展開に](https://togetter.com/li/2772052) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [PHP「緊急」脆弱性、サービス一時停止の動き再び　ウマ娘やグラブル、イープラスなど緊急メンテ](https://www.itmedia.co.jp/news/article/2611/20/2000003357/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [Web制作者は要チェック！ 新しいユニバーサルセレクタ、アプリのインストールを要求できるinstall要素など、Chrome 158で追加された6つのCSSとUIの新機能](https://coliss.com/articles/build-websites/operation/work/chrome-158-adds-6-new-css-feature.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [Windowsに負けた「PC-98」、生みの親が見切りをつけた切実すぎる理由](https://kn.itmedia.co.jp/kn/article/2611/18/2000003276/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [生成AIの普及によるWebサイトのトラフィック激減と当社での対策 \| 社長ブログ \| 才流](https://sairu.co.jp/blog/110567/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [Ruby2Shell (GHSA-34m4-m9fh-gqp5)](https://verialabs.com/ruby2shell/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [phpAfterShell: From Interrupted Session Writes to Remote Code Execution \| depthfirst](https://depthfirst.com/research/phpaftershell) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-19 [Tech Watch 2026-11-20: エージェント運用の境界](https://zenn.dev/laiken/articles/20261120-tech-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-11-19 [5年使った自作PCを買い替えた：RTX 5070 Tiで125BのローカルLLMを動かすまで](https://zenn.dev/kentaro36/articles/pc-switch-local-llm-5070ti) *(Zenn – トピック LLM)*
+- [ ] 2026-11-19 [AI エージェントのファイル探しを、判定モデル Jev に 1 回だけ聞く道具 Jev-explore にした話](https://zenn.dev/kokagex/articles/4e02fc764af8ba) *(Zenn – トピック LLM)*
+- [ ] 2026-11-19 [「この単位で卒業できますか」に、自分の便覧で答えるツールを作った【AIが便覧を読む】](https://zenn.dev/yukidev25/articles/ee3d255560f0d8) *(Zenn – トピック AI)*
+- [ ] 2026-11-19 [Copilot Autopilotを試す前に：米国限定プレビュー・従量課金・クラウド実行を整理](https://zenn.dev/jinsights/articles/34ffd08657217f) *(Zenn – トピック AI)*
+- [ ] 2026-11-19 [GPUなし・空きメモリ16GBで挑む！10万行超のAngular・DjangoをオフラインAIでコードレビューする環境設計](https://zenn.dev/okkun_lab/articles/58a2c4f00a9312) *(Zenn – トピック AI)*
+- [ ] 2026-11-19 [ChatGPTでつくったGodotのシェーダーをAIは直せるか？フォーラムの実際のシェーダーでZivaを検証](https://zenn.dev/zivaengine/articles/d889f9298b8c43) *(Zenn – トピック AI)*
+- [ ] 2026-11-19 [php2shellに狼狽して閉じた自宅サーバをAIでコンテナ化して復活させた](https://zenn.dev/pesi/articles/b3badbf8918c53) *(Zenn – トピック AI)*
+- [ ] 2026-11-19 [「動いている」と「働いている」は別だった ― AIの見回りで気づいた監視の落とし穴](https://zenn.dev/hachihou_system/articles/79cb54993ed283) *(Zenn – トピック AI)*
+- [ ] 2026-11-19 [EditBright：登録不要で使える、ブラウザ上の無料AI画像エディタ](https://zenn.dev/editbright/articles/3509e266e8671d) *(Zenn – トピック AI)*
+- [ ] 2026-11-19 [【小学5年生でもわかる】アルゴリズムバイアスってなに？](https://zenn.dev/tkrndisk/articles/g-kentei-algorithm-bias-kids) *(Zenn – トピック AI)*
+- [ ] 2026-11-19 [【scikit-learn入門 #8】交差検証とハイパーパラメータ調整（cross_val_score・GridSearchCV）](https://zenn.dev/haruhiro1020/articles/a990b98eabb07b) *(Zenn – トピック 機械学習)*
