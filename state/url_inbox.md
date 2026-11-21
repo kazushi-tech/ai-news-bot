@@ -173008,3 +173008,37 @@
 - [ ] 2026-11-20 [Museを使ってみたら日々の技術ニュースキャッチアップが楽になった](https://zenn.dev/ryokasai/articles/99a9bc244fcf24) *(Zenn – トピック AI)*
 - [ ] 2026-11-20 [AI記事の事実誤認をゼロにする一次情報の突き合わせ手順と検証チェックリスト【コピペ用プロンプト1本＋5項目チェック】](https://zenn.dev/andyailab/articles/ef0c053d6b3326) *(Zenn – トピック AI)*
 - [ ] 2026-11-20 [Museに頭を焼かれた開発者が、音楽とコードの共通点を考えた](https://zenn.dev/aqiu/articles/29fb780111d506) *(Zenn – トピック AI)*
+
+## Collected on 2026-11-21T04:22:55.937Z
+- [ ] 2026-11-20 [Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop](https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-21 [China Deploys 5G Across Manufacturing Base as 6G Testing Advances, CCTV Reports](https://www.bloomberg.com/news/articles/2026-11-21/china-deploys-5g-across-manufacturing-base-as-6g-testing-advances-cctv-reports) *(Bloomberg Technology)*
+- [ ] 2026-11-21 [Anthropic Researcher Claims to Solve Riemann Problem With Claude](https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude) *(Bloomberg Technology)*
+- [ ] 2026-11-21 [Wall Street Week \| Gaming Blockbuster, Healthcare Costs, Cybersecurity Meets AI](https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video) *(Bloomberg Technology)*
+- [ ] 2026-11-20 [Tony Wang on CrowdStrike-Zscaler Deal, AI Trade](https://www.bloomberg.com/news/videos/2026-11-20/tony-wang-on-crowdstrike-zscaler-deal-ai-trade-video) *(Bloomberg Technology)*
+- [ ] 2026-11-20 [Wonder Explores Sale of Delivery Service Grubhub, WSJ Reports](https://www.bloomberg.com/news/articles/2026-11-20/wonder-explores-sale-of-delivery-service-grubhub-wsj-reports) *(Bloomberg Technology)*
+- [ ] 2026-11-20 [Why you shouldn't depend on GTA 6 to auto-save](https://www.engadget.com/2323929/why-you-shouldnt-rely-on-gta-6-auto-save/) *(Engadget)*
+- [ ] 2026-11-20 [YouTube could pay $3 billion to settle social media addiction lawsuits with school districts](https://www.engadget.com/2323927/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/) *(Engadget)*
+- [ ] 2026-11-21 [AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表](https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html) *(ITmedia AI＋)*
+- [ ] 2026-11-21 [アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOSG20CQC0Q6A121C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [Claudeを使い「リーマン予想」を証明か　Anthropic数学者が発表　Lean検証も通過、数学界が精査へ](https://japan.cnet.com/article/35255245/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表](https://www.yomiuri.co.jp/science/20261121-GYT1T00089/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [[アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた \| DevelopersIO](https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari \| モダンな情シス](https://note.com/kajinari/n/n19c73d819b14) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [https://alpo.ge/remark.pdf](https://alpo.ge/remark.pdf) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!](https://smhn.info/202611-gemini-subscription-third-party-harness-december-2) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった \| ギズモード・ジャパン](https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か](https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [【分析】「私はMAGAではない」　マスク氏の方向転換が発する強烈なサイン](https://www.cnn.co.jp/usa/35255243.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 - AUTOMATON](https://automaton-media.com/articles/newsjp/20261121-480255/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [ZOZOTOWNの退会者含む1,518万人分の情報が漏えい　WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな](https://togetter.com/li/2773122) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [ソフトウェアファクトリーとコード設計と顧客価値](https://kosui.me/posts/2026/11/15/code-design-after-agents) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [New Relicのアラート対応をClaude Codeで自動修正するワークフローを作った話](https://speakerdeck.com/manabuseki/new-relic-no-taiou-o-claude-code-de-jidou-shuusei-suru-waku-furo-o-tsukuta-hanashi) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [正しいUIデザインと、意図のあるUIデザイン](https://zenn.dev/praha/articles/08568310684aa3) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [Anthropicの人がClaudeと数学界のラスボス「リーマン予想」の証明を発見したらしい \| ギズモード・ジャパン](https://www.gizmodo.jp/article/2611-claude-riemann-hypothesis-proof/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [GitHub - RustWTM/RustWTM: Windows task manager and resource governor written in Rust. Monitor processes, manage resource usage, and keep your PC responsive.](https://github.com/RustWTM/RustWTM) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [QRコードに「Webアプリ丸ごと」を圧縮して焼き込む狂気。サーバー代0円で一生消えない「紙の資格試験カートリッジ」を妄想してみた｜ぬこやぽち┃キャリアコンサルタント](https://note.com/nukoya_pochi/n/n889b2db947e4) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [ZOZO、1518万人分の顧客情報流出　委託先に不正アクセス - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC20APN0Q6A121C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-20 [返ってきたのは「exit code 14」だけだった——本当の答えは「68」という数字ひとつ](https://zenn.dev/anguoyang/articles/794e6708c3b2a2) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-20 [アルゴリズムバイアス【G検定 技術解説】](https://zenn.dev/tkrndisk/articles/g-kentei-algorithm-bias-tech) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-20 [ネットがネットを教える仕組みを、三目並べで一から作ってみた](https://zenn.dev/tainari/articles/ttt-teacher-net-teaches-net) *(Zenn – トピック 機械学習)*
