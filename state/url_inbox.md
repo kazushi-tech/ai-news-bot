@@ -173042,3 +173042,117 @@
 - [ ] 2026-11-20 [返ってきたのは「exit code 14」だけだった——本当の答えは「68」という数字ひとつ](https://zenn.dev/anguoyang/articles/794e6708c3b2a2) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-20 [アルゴリズムバイアス【G検定 技術解説】](https://zenn.dev/tkrndisk/articles/g-kentei-algorithm-bias-tech) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-20 [ネットがネットを教える仕組みを、三目並べで一から作ってみた](https://zenn.dev/tainari/articles/ttt-teacher-net-teaches-net) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-21T22:29:04.740Z
+- [ ] 2026-11-21 [‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions](https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-21 [Two groups verify mathematician’s claim that Claude helped prove mathematics problem](https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-21 [Anthony Albanese talks a big game about sovereignty. But Australia remains in thrall to its ‘unreliable boyfriend’ \| Julianne Schultz](https://www.theguardian.com/commentisfree/2026/nov/22/anthony-albanese-talks-a-big-game-about-sovereignty-but-australia-remains-in-thrall-to-its-unreliable-boyfriend) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-21 [International UN talks on controlling use of autonomous weapons collapse](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-21 [‘Little room for error’: what a debt-laden cloud computing company says about the AI boom](https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-21 [I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling \| Rev Kevin Deal](https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-21 [‘I’m opening the cage of a monster’: Taxi Driver scriptwriter Paul Schrader on unleashing AI at 80](https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-21 [‘The doom of humanity’: will the quest to make robotic hands render us obsolete?](https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-21 [AI may not work like the human brain after all, scientists discover](https://www.sciencedaily.com/releases/2026/11/261120075701.htm) *(ScienceDaily – Artificial Intelligence)*
+- [ ] 2026-11-21 [The Outages Are Just Getting Started](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-21 [We’ve Found the Only Good AI Chatbot: One So Tiny It Fits on a Single MS-DOS Floppy Disk](https://futurism.com/artificial-intelligence/ai-model-floppy-disk) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-21 [Economists Are Hyperventilating Over the AI Bubble](https://futurism.com/future-society/economists-hyperventilating-ai-bubble) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-21 [You Know These AI Chips That Are Making Billions of Dollars? The Workers Building Them Say They’re Being Paid Peanuts, and Now They’re Realizing They Have Leverage](https://futurism.com/future-society/workers-semiconductors-ai-chips-taiwan-strike-labor) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-21 [Crowdstrike’s Talks With Zscaler Show AI-Led Cyber Consolidation](https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation) *(Bloomberg Technology)*
+- [ ] 2026-11-21 [California Nvidia Probe Covers Potential Criminal Law Violations](https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations) *(Bloomberg Technology)*
+- [ ] 2026-11-21 [GTA 6: The Blockbuster That is Changing Gaming Forever](https://www.bloomberg.com/news/videos/2026-11-21/gta-6-the-blockbuster-that-is-changing-gaming-forever-video) *(Bloomberg Technology)*
+- [ ] 2026-11-21 [Wall Street Confronts AI Reality Check](https://www.bloomberg.com/news/videos/2026-11-21/wall-street-confronts-ai-reality-check-video) *(Bloomberg Technology)*
+- [ ] 2026-11-21 [Apple TV 4K Review: New $299 Streaming Box is Excellent But Too Expensive](https://www.bloomberg.com/news/features/2026-11-21/apple-tv-4k-review-new-299-streaming-box-is-excellent-but-too-expensive) *(Bloomberg Technology)*
+- [ ] 2026-11-21 [China Plans to Strengthen AI Token Standards in Computing Push](https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push) *(Bloomberg Technology)*
+- [ ] 2026-11-21 [How AI Is Reshaping China's Industrial Policy](https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video) *(Bloomberg Technology)*
+- [ ] 2026-11-21 [Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern](https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets) *(Bloomberg Technology)*
+- [ ] 2026-11-21 [This built-in windows tool can tell if your DirectX has a problem](https://www.engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic/) *(Engadget)*
+- [ ] 2026-11-21 [FBI and USDA were reportedly targeted in back-to-back cyberattacks](https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/) *(Engadget)*
+- [ ] 2026-11-21 [The free Raspberry Pi tool you should be using to access it remotely](https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely/) *(Engadget)*
+- [ ] 2026-11-21 [How long can fiber optic cables be before they lose signal?](https://www.engadget.com/2319077/fiber-optic-cable-how-long-before-lose-signal/) *(Engadget)*
+- [ ] 2026-11-21 [How to easily factory reset your Fitbit](https://www.engadget.com/2319074/how-to-factory-reset-fitbit-device/) *(Engadget)*
+- [ ] 2026-11-21 [What's new with Apple's latest Siri Remote, and does your old Apple TV support it?](https://www.engadget.com/2319050/whats-new-siri-remote-does-older-apple-tv-support/) *(Engadget)*
+- [ ] 2026-11-21 [The trade-offs of using Apple's AirPods Max headphones](https://www.engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones/) *(Engadget)*
+- [ ] 2026-11-21 [Discs vs. disks: What's the difference?](https://www.engadget.com/2319034/discs-vs-disks-differences/) *(Engadget)*
+- [ ] 2026-11-21 [Why Apple Vision Pro never took off like Meta's VR headsets](https://www.engadget.com/2318875/why-apple-vision-pro-did-not-take-off-vs-meta-vr/) *(Engadget)*
+- [ ] 2026-11-21 [How to block a device from your home network](https://www.engadget.com/2318874/how-to-block-device-home-network/) *(Engadget)*
+- [ ] 2026-11-21 [Anthropic employee claims to have proven the most famous math problem using Claude](https://www.engadget.com/2324141/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude/) *(Engadget)*
+- [ ] 2026-11-21 [Here's how much a Sony Walkman cost in 1980 vs. 2026](https://www.engadget.com/2318873/how-much-sony-walkman-cost-1980-vs-2026/) *(Engadget)*
+- [ ] 2026-11-21 [Signs it's time to replace your phone's screen protector](https://www.engadget.com/2318871/signs-when-replace-phone-screen-protector/) *(Engadget)*
+- [ ] 2026-11-21 [How does iCloud Private Relay's security compare to VPN alternatives?](https://www.engadget.com/2318772/how-does-icloud-private-relay-security-compare-vpn-alternatives/) *(Engadget)*
+- [ ] 2026-11-21 [Which car has the largest infotainment touchscreen?](https://www.engadget.com/2318759/largest-car-infotainment-touchscreen/) *(Engadget)*
+- [ ] 2026-11-21 [Six simple Raspberry Pi projects for beginners](https://www.engadget.com/2318530/simple-raspberry-pi-projects-for-beginners/) *(Engadget)*
+- [ ] 2026-11-21 [How to use a solar panel to charge your phone](https://www.engadget.com/2318512/how-to-use-solar-panel-charge-phone/) *(Engadget)*
+- [ ] 2026-11-21 [Tesla's assisted driving system gets the green light for rollout in Italy](https://www.engadget.com/2324122/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy/) *(Engadget)*
+- [ ] 2026-11-21 [How much can you get for your old, discontinued Apple Watch?](https://www.engadget.com/2318441/how-much-old-discontinued-apple-watch-trade-in-program/) *(Engadget)*
+- [ ] 2026-11-21 [Setting up an Apple HomeView is ridiculously easy thanks to your iPhone](https://www.engadget.com/2318610/easy-apple-homeview-setup-with-iphone/) *(Engadget)*
+- [ ] 2026-11-21 [AIに必要なのは知識か、企業独自の判断基準か？　管理職調査で見えたAI活用の盲点](https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/) *(ITmedia AI＋)*
+- [ ] 2026-11-21 [企業はAIをどう選ぶようになった？　ChatGPT、Copilot、Geminiの勢力図](https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/) *(ITmedia AI＋)*
+- [ ] 2026-11-21 ["リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元](https://note.com/katobungen/n/n9c2bb939b9c7) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [高市首相の中国到着時に飛行機とタラップの間に段差は事前情報があったようで - 電脳塵芥](https://nou-yunyun.hatenablog.com/entry/2026/11/21/220000) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.](https://github.com/mitaku/andon) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [「AIが私を追い越した」　リーマン予想「証明」の数学者自身も驚き：朝日新聞](https://www.asahi.com/articles/ASVCP2WB0VCPDIFI008M.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [GitHub - fkubota/understand-mode: Claude Code の出力・PR・コードを、付箋のホワイトボードで寄り道しながら理解する /understand スキル](https://github.com/fkubota/understand-mode) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [AIが数学の未解決問題「リーマン予想」を証明か　米アンソロピックの数学者が主張 - BBCニュース](https://www.bbc.com/japanese/articles/cwlyl6ymz841o) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [超難問「リーマン予想」AIと証明か　米アンソロピックの数学者発表：朝日新聞](https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [将棋AI、先手勝率が高すぎて大会運営が困難に \| やねうら王 公式サイトやねうら王 公式サイト](https://yaneuraou.yaneu.com/2026/11/21/shogi-ai-first-player-win-rate-crisis/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [検証前のリーマン予想「証明」を砕く——1969年の発想を、整数の世界へ運ぶ鎖｜数学の翻訳家｜数学の翻訳家](https://note.com/math_translator/n/n5d2600a29405) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [トランプ大統領 米国外のデータセンター建設認めず 罰則も \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261121de79543) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正　銀行や空港停止 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド](https://zenn.dev/canly/articles/ca6875cd79539f) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [Unforced Euler singularity, unforced Navier-Stokes singularity, and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [クマ被害防止へ、青森のリンゴ畑で犬型ロボの実証実験　「ワンワン」とほえて警告灯点灯](https://www.sankei.com/article/20261120-XVM67Y3IQJIYRO5SNLEJBHXPKI/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-21 [新宿駅で財布を忘れて家に帰れない女の子から「PayPay1000円分を現金で交換して貰えませんか？」とお願いされ、「返さなくていいよ」と1000円あげたら喜ばれず戸惑っていた](https://togetter.com/li/2773268) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [日本でも「ダムフォン」は広がるか？　KDDIが「INFOBAR ZERO」で目指す2台持ちの新しい形](https://www.itmedia.co.jp/mobile/articles/2611/21/news010.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [ボールの慣性で素早いカーソル移動！奥深きトラックボールの世界 3つのスタイルに分けて計14モデルをピックアップ text by 石川 ひさよし](https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2158378.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [相次ぐシステム障害、AIはどこまで関係しているのか--「12月はさらに深刻に」と専門家](https://japan.cnet.com/article/35255244/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール - 株式会社ヘンリー エンジニアブログ](https://dev.henry.jp/entry/e2e-repository) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [形式検証を活用した脆弱性診断LLMのプロトタイプをEthereum Foundationに納品｜Nyx Foundation](https://note.com/nyxfoundation/n/n782d4fb32344) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [S&P500が調整局面入り　「重なる最悪の事態」AI株高ピーク過ぎたか - 日本経済新聞](https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [columnsプロパティで縦積みのナビゲーションを作る – TAKLOG](https://www.tak-dcxi.com/article/vertical-navigation-with-columns-property/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [一番無難じゃないキャラが優勝　Suica「B案」とAI時代の愛されかた](https://www.watch.impress.co.jp/docs/topic/watchplus/2157644.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [みずほ銀行のシステムがハッキングされないの、開発者だけじゃなくてハッカーも仕様を把握できないから説「妙な説得力あるな」「ハッキングが先か、障害が先か…」](https://togetter.com/li/2773158) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [令和8年に「INFOBAR」が復活するも、通話とSMSしかできない「ダムフォン」に](https://www.itmedia.co.jp/mobile/articles/2611/21/news011.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [Welcome! You are invited to join a webinar: 【26/11/26開催】「脱WordPress」に取り組みたい方へ。セキュリティ懸念・運用負担を解消するSaaS型CMS移行. After registering, you will receive a confirmation email about joining the webinar.](https://hatena.zoom.us/webinar/register/2217624929911/WN_UyuXGu7hRfSejKa5G_lUGg) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [GoogleやAppleなどのアカウント乗っ取りでPayPay不正利用の事例　サポートが注意喚起](https://www.itmedia.co.jp/mobile/articles/2611/20/news069.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [PHPカンファレンス関西2026のお誘いチケットを学生・若手エンジニアの方へ先着2名に譲渡します - おうさまのみみはロバのみみ](https://luccafort.hatenablog.com/entry/2026/11/20/193344) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [Introducing Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [スシロー、アメリカ・ニューヨーク1号店が大行列の人気「チップ不要なシステムも好評の理由」→アメリカ人も面倒くさいと思ってるのかよ…](https://togetter.com/li/2773198) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [AWS STS announces GetScopedCredentials to scope down permissions at runtime - AWS](https://aws.amazon.com/about-aws/whats-new/2026/11/sts-getscopedcredentials/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [「リーマン予想」生成AIが証明か - Yahoo!ニュース](https://news.yahoo.co.jp/pickup/6603360) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-21 [LLM出力の壊れたJSONをPython標準ライブラリで決定的に修復・型検証する実装パターン](https://zenn.dev/inemuri/articles/llm-broken-json-repair-validator) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [RTX 4070 Ti SUPERでMemory Mosaics v2を日本語ゼロから学習した話](https://zenn.dev/firemio/articles/memory-mosaics-v2-japanese-training) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [LLMの日本語評価で見落としがちな3つの地雷と「平均点」の罠（20問シードセット＋Cohen's κスクリプト公開）](https://zenn.dev/eleanoratlas/articles/aa0e5f941775fb) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [縦書き・複合表PDFを RAG / NotebookLM / Obsidian が誤読しない Markdown に整える実践ポイント](https://zenn.dev/smkc/articles/8991f7bc189155) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [機密データを外部に送らないAIエージェントを作りたい　第3回（仮）「エージェント（hermes agent）」](https://zenn.dev/kokeshi_gnome/articles/f20a4881d79c65) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [自分のPCで動く日本語AIアシスタント『ヤタ』を作った](https://zenn.dev/koheip/articles/yata-local-ai-assistant) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [ローカルLLMでクラウドのトークンを9割節約する](https://zenn.dev/ace_toshi/articles/local-llm-confidential-mapreduce) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [複数のAIに役を分け、機械の関所で確かめる——ひとりで回すAIスタジオの設計と実装](https://zenn.dev/zeuslab/books/3e4510456deb81) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [無人で回す自動化を Surface Laptop Ultra で組み直す構想](https://zenn.dev/houchi_unyo/articles/surface-laptop-ultra-hybrid-plan) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [AIエージェントに渡すMCPの返り値で気をつけていること（Search ConsoleのMCPを作って）](https://zenn.dev/yohei_kuno/articles/a1047222376276) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [AWS公式のマルチエージェントCLI「CAO」でClaude Codeに仕事を委任させたら、フォルダ信頼確認で60秒止まった](https://zenn.dev/matsushima_a/articles/day-053-cao-trust-dialog-wall) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [Databricksのエージェントがおかしいとき、4つの「コンテキストの失敗」を見分けて直す](https://zenn.dev/y0shidahr/articles/2d1fb00790d0ad) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [AIのレビューを、AIに判定させる ― 外部モデル多段レビューの運用実録](https://zenn.dev/halu_c/articles/multi-model-review-pipeline) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [AIのRTL最適化をどう評価するか：PPAとRISC-Vベンチマークの落とし穴](https://zenn.dev/ai_practitioner/articles/3a6e8034c700d5) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [RTX 4070 12GBでLLMを5モデル×520試行――再現性を監査してわかったこと](https://zenn.dev/shinyahayakawa/articles/8d3892e901340a) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [LLMに点検や候補列挙を先にさせると、判断は良くなるのか？ PAS実験の途中報告](https://zenn.dev/shinyahayakawa/articles/e100cfbe790c5f) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [コードに無い「決めた理由」をどう残すか。LLM Wikiに書かせるものを2つに絞った](https://zenn.dev/mizo_ko/articles/article-008-zenn) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [判定AIは現場で使えるか — 設備点検記録48件で Jev と d1 を測った全記録](https://zenn.dev/jodycraft/books/judgement-ai-48) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [手順書は「お願い」、フックは「決まり」——CLAUDE.md・AGENTS.md・SKILL.md と、機械で断る関所を自分の記録で比べる](https://zenn.dev/zeuslab/articles/df65e8457149ea) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [タイプミスをしても大丈夫なIME「AImai IME」を作った](https://zenn.dev/myaruran/articles/aimai-ime-intro) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [Excelのエラー表示、AIに聞くときの「3点セット」：表計算をAIに頼む頼み方](https://zenn.dev/tenpurekoubou/articles/cc34739277baa1) *(Zenn – トピック AI)*
+- [ ] 2026-11-21 [TechLead Conference 2026 Autumn 参加レポート:テックリードは、エンジニアの上位版ではなかった](https://zenn.dev/dip_techblog/articles/f3e463cfe79fc3) *(Zenn – トピック AI)*
+- [ ] 2026-11-21 [Steamの登録料$100と手数料30%をゼロに！30言語＆29通貨換算対応のゲーム配信ストア『Zteam』を個人開発した](https://zenn.dev/mcp/articles/6b8f51b13c099b) *(Zenn – トピック AI)*
+- [ ] 2026-11-21 [月3,000回の無料枠で、「AIに任せないこと」を先に決めた。猫耳秘書と宇宙を旅した話](https://zenn.dev/nanako1129/articles/799de43c4e556c) *(Zenn – トピック AI)*
+- [ ] 2026-11-21 [Antigravityの調子が良いので全部の作業を任せてみた話](https://zenn.dev/ququla89/articles/antigravity-is-better-now-i-think) *(Zenn – トピック AI)*
+- [ ] 2026-11-21 [AIに丸投げしない設計論：「Pythonの定量フィルタ × Gemini API 1回リクエスト」で株式の情報収集を自動化した話](https://zenn.dev/shimashimap/articles/3be54bfa332afc) *(Zenn – トピック AI)*
+- [ ] 2026-11-21 [AIに開発を任せきれないのは、仕組み以上に気持ちの問題な気がする](https://zenn.dev/sunny9/articles/7020ee629b43a8) *(Zenn – トピック AI)*
+- [ ] 2026-11-21 [Museを使ってZOZOTOWNで買い物してみた](https://zenn.dev/april_sugar/articles/muse-zozotown-shopping) *(Zenn – トピック AI)*
+- [ ] 2026-11-21 [AIエージェントの「進捗」は証拠ではない。レビューできる作業面を設計する](https://zenn.dev/heftykoo/articles/3cf9c142df8f81) *(Zenn – トピック AI)*
+- [ ] 2026-11-21 [Issueを投げるだけでAIが仕様確認〜PR作成まで自走する「Issue駆動開発スキル」でChrome拡張を作った話](https://zenn.dev/sawarame/articles/idd-skills-nickmark) *(Zenn – トピック AI)*
+- [ ] 2026-11-21 [Rails の暗号化とハッシュ：master.key と Devise が内部でやっていること](https://zenn.dev/sunsun_eng/articles/rails-master-key-devise) *(Zenn – トピック AI)*
+- [ ] 2026-11-21 [ITエンジニアはHOWを司るべき存在と考える](https://zenn.dev/someone7140/articles/6eafe59a2099f4) *(Zenn – トピック AI)*
+- [ ] 2026-11-21 [SQLを3回書くだけで機械学習ができる! BigQuery ML最速入門](https://zenn.dev/ml_joshibu/articles/1_bqml-3-queries-ml-intro) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-21 [Claude Codeと作る競馬予測システム開発記(13) 再学習パイプライン編](https://zenn.dev/teruyotasaki/articles/horse-racing-ml-dev-13-retraining-pipeline) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-21 [Abliteratedモデルの繰り返しループを実測して止めた話 — Ollamaとllama.cppの設定と数字](https://zenn.dev/shinkaspool/articles/ccb951672725e5) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-21 [日本語プロンプトインジェクション検知モデルを公開した（攻撃発見率0.930、誤検出率0.44%）](https://zenn.dev/jpopendata/articles/2cc6a3888fc645) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-21 [機械学習の仕組みが感覚でわかるブラウザゲームを公開](https://zenn.dev/edugamer/articles/b85a993e7e7850) *(Zenn – トピック 機械学習)*
