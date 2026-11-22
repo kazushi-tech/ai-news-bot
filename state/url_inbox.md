@@ -173156,3 +173156,25 @@
 - [ ] 2026-11-21 [Abliteratedモデルの繰り返しループを実測して止めた話 — Ollamaとllama.cppの設定と数字](https://zenn.dev/shinkaspool/articles/ccb951672725e5) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-21 [日本語プロンプトインジェクション検知モデルを公開した（攻撃発見率0.930、誤検出率0.44%）](https://zenn.dev/jpopendata/articles/2cc6a3888fc645) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-21 [機械学習の仕組みが感覚でわかるブラウザゲームを公開](https://zenn.dev/edugamer/articles/b85a993e7e7850) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-22T03:37:01.095Z
+- [ ] 2026-11-22 [China Objects to US Curbs on Telecoms’ Access to Phone Numbers](https://www.bloomberg.com/news/articles/2026-11-22/china-objects-to-us-curbs-on-telecoms-access-to-phone-numbers) *(Bloomberg Technology)*
+- [ ] 2026-11-22 [Australia Spy Chief Warns of Data Center, AI Risks, Age Reports](https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports) *(Bloomberg Technology)*
+- [ ] 2026-11-22 [Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?](https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/) *(Engadget)*
+- [ ] 2026-11-22 [Samsung vs. LG OLED TVs: What's the difference between them?](https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between/) *(Engadget)*
+- [ ] 2026-11-22 [This is what can happen if too many devices are sharing your home network](https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/) *(Engadget)*
+- [ ] 2026-11-22 [Your PC's USB port can charge your phone, even when it's turned off — Here's how](https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off/) *(Engadget)*
+- [ ] 2026-11-22 [10 things you should never do on your Android phone](https://www.engadget.com/2317775/never-do-these-things-on-android-phone/) *(Engadget)*
+- [ ] 2026-11-22 [This is the best type of wireless earbuds for audio output](https://www.engadget.com/2319289/wireless-earbuds-type-best-for-audio-output/) *(Engadget)*
+- [ ] 2026-11-21 [How to calibrate your 3D printer (and why you should)](https://www.engadget.com/2310980/how-to-calibrate-3d-printer-why-should/) *(Engadget)*
+- [ ] 2026-11-21 [Building your own mini PC is harder than you would think](https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected/) *(Engadget)*
+- [ ] 2026-11-21 [Six products and services Google discontinued in 2026](https://www.engadget.com/2319181/google-products-services-discontinued-2026/) *(Engadget)*
+- [ ] 2026-11-21 [Why does your phone say no service even with a SIM card?](https://www.engadget.com/2319140/phone-says-no-service-with-sim-card/) *(Engadget)*
+- [ ] 2026-11-21 [iPad Air vs. iPad Pro: The features you're actually paying $450 extra for](https://www.engadget.com/2319122/ipad-air-vs-pro-features-compared-price-difference/) *(Engadget)*
+- [ ] 2026-11-21 [Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定](https://www.itmedia.co.jp/news/article/2611/22/2000003388/) *(ITmedia AI＋)*
+- [ ] 2026-11-22 [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-22 [RH Lean proof: verification files](https://math.mit.edu/~drew/grh/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-22 [KARTEを選んだのは顧客の私じゃない｜しがないサラリーマン](https://note.com/kochan34123412/n/nf37511e42de9) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [情報漏えいを公表しないリスクの要点整理 - Qiita](https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能](https://gigazine.net/news/20261121-wyrmrss/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [回収対象のAnker製モバイルバッテリーで火災発生か　型番「A1257」の一部に使用中止を呼びかけ](https://japan.cnet.com/article/35255262/) *(はてなブックマーク – IT 人気エントリ)*
