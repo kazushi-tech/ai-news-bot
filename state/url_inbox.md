@@ -173178,3 +173178,77 @@
 - [ ] 2026-11-22 [情報漏えいを公表しないリスクの要点整理 - Qiita](https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-11-22 [無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能](https://gigazine.net/news/20261121-wyrmrss/) *(はてなブックマーク – IT 人気エントリ)*
 - [ ] 2026-11-22 [回収対象のAnker製モバイルバッテリーで火災発生か　型番「A1257」の一部に使用中止を呼びかけ](https://japan.cnet.com/article/35255262/) *(はてなブックマーク – IT 人気エントリ)*
+
+## Collected on 2026-11-22T13:39:25.080Z
+- [ ] 2026-11-22 [South Korean minister quits after AI cheating scandal engulfs university exams](https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-22 [As the real world falls apart, Grand Theft Auto looks more and more appealing \| Dave Schilling](https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-22 [Why I won’t leave mathematics, despite AI solving centuries-old problems \| Ken Ono](https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-22 [It will soon be too late to regulate use of autonomous weapons, warns Red Cross](https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-22 [‘Serious error of judgment’: outrage over military AI event at Berlin arts complex](https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-22 [Banks Have Had It Up to Here With Your AI Agent](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/) *(WIRED – Artificial Intelligence Latest)*
+- [ ] 2026-11-22 [Preposterous Real Estate Listing Uses AI to Turn Dilapidated Murder Cabin Into Beautiful Cottage](https://futurism.com/artificial-intelligence/real-estate-listing-ai-dilapidated-cabin) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-22 [Who gets to decide whether an AI data centre has a ‘social licence’ to operate?](https://theconversation.com/who-gets-to-decide-whether-an-ai-data-centre-has-a-social-licence-to-operate-295729) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-22 [From Raye to Coldplay, How AI Scalpers are Pricing You Out of Concert Tickets](https://analyticsindiamag.com/ai-features/from-raye-to-coldplay-how-ai-scalpers-are-pricing-you-out-of-concert-tickets) *(Analytics India Magazine)*
+- [ ] 2026-11-22 [Tech Outages Fuel a New Prepping Boom](https://www.bloomberg.com/news/videos/2026-11-22/tech-outages-fuel-a-new-prepping-boom-video) *(Bloomberg Technology)*
+- [ ] 2026-11-22 [Governors Call for Federal AI Rules Without Sidelining States](https://www.bloomberg.com/news/articles/2026-11-22/governors-call-for-federal-ai-rules-without-sidelining-states) *(Bloomberg Technology)*
+- [ ] 2026-11-22 [Tower Records Becomes Latest Japan Retailer Hit by Data Breach](https://www.bloomberg.com/news/articles/2026-11-22/tower-records-becomes-latest-japan-retailer-hit-by-data-breach) *(Bloomberg Technology)*
+- [ ] 2026-11-22 [Apple AirPods 5 vs. AirPods Pro 3: What are the key differences?](https://www.engadget.com/2319344/apple-airpods-5-vs-airpods-pro-3-differences/) *(Engadget)*
+- [ ] 2026-11-22 [10 rare game consoles that almost no one owns](https://www.engadget.com/2321882/rare-game-console-no-one-owns/) *(Engadget)*
+- [ ] 2026-11-22 [What does the blue snowflake icon mean for your Tesla battery?](https://www.engadget.com/2319342/tesla-battery-blue-snowflake-icon-meaning/) *(Engadget)*
+- [ ] 2026-11-22 [【TLA+】AIにテストケースを書かせるな。ルールを書け](https://zenn.dev/karamage/articles/73027ee36796dc) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-22 [MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGeminiとの違い、注意点を解説](https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-22 [AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは? \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261122de79817) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-22 [Not Found](https://anond.hatelabo.jp/20261122095858) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-22 [特許翻訳専門でフリーランス翻訳者を２０年やってきたのですが、ここ半年で、生活でき...](https://question.realestate.yahoo.co.jp/knowledge/chiebukuro/detail/13332944543/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-22 [GitHub - awslabs/codekb](https://github.com/awslabs/codekb) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-22 [[AI-Driven Modernization] 既存コードからAIエージェント向けの仕様書を起こす「Reverse Spec Flow」を公開しました \| Amazon Web Services](https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-22 [グーグルのGemini Notebook、資料を操作可能なWebサイトへ変換可能に](https://k-tai.watch.impress.co.jp/docs/news/2157164.html) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-22 [おやつ屋「六花亭」が不正アクセス、クレカのセキュリティコードまで流出→最上位のやらかしなのに誠実さを感じてかあまり荒れていない……なぜ他社にこれができないのか？](https://togetter.com/li/2773676) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [クロネコヤマトのロゴが外国人たちに人気らしい「これまでで一番好きな企業ロゴ」「これの絵柄が前後に入ったシャツを持ってるよ！」](https://togetter.com/li/2773549) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [タワーレコード 不正アクセスで約1100万件の個人情報流出 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261122de79936) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [フロントエンドのテストカバレッジは 100%強制がいい](https://speakerdeck.com/bengo4com/20261122-jsconfjp2026-coverage-100) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [Androidの野良アプリ導入が2027年1月から世界規模で制限へ　Googleの開発者認証が本格展開](https://sumahodigest.com/?p=76937) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [六花亭に不正アクセス クレカ情報不正利用とみられる被害確認 \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261122de79904) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [Upload2Shell](https://pwn.ai/upload2shell) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [プラガブルで宣言的なソフトウェアファクトリーを支えるTypeScript](https://speakerdeck.com/timakin/definitive-and-pluggable-software-factory) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [「サイバーセキュリティ緊急対策パッケージ」の中身 \| blog.jxck.io](https://blog.jxck.io/entries/2026-11-19/cyber-security-emergency-package.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [Rust で疎ボリュームのライブラリ brodo を Claude Code と作った](https://zenn.dev/akahmys/articles/454a729a00401f) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [Just Use Postgres!\|マイナビブックス](https://book.mynavi.jp/ec/products/detail/id=153264) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-22 [NixOSでStrataを動かそう](https://zenn.dev/mekhr/articles/87b57fbdad4b9e) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [AIの「完了しました」を作業記録と照合する。Done Means Doneでできること](https://zenn.dev/git_dungeon/articles/dmd-evidence-handoff) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [LLMに赤い箱を探索させたら、56ステップかかった話](https://zenn.dev/rass/articles/9be28167d0f4b7) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [tiny-voca入門 ― 18MBの英語TTSをCPUで動かす。70倍速の看板を実測する](https://zenn.dev/ikesita/articles/zenn-08-tiny-voca) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [ZONOS3-MiniをVRAM 6GBで実測：llama-ttsで日本語読み上げ12回（VRAM・RTF）](https://zenn.dev/localai_lab/articles/0f842a9f6372e8) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [「慣れた」ローカルLLMがモデルを選ぶ —— 実務のコスパ評価とRAGルーターの構想](https://zenn.dev/7thcode/articles/25d5a8b0e8c4d5) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [ChatGPTのチャット内でIrodori-TTSを動かした――864MBのモデルをGoogle Drive経由で「密輸」](https://zenn.dev/c_a_p_engineer/articles/chatgpt-irodori-drive-model-cargo) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [AWS Continuumペンテスティング: LLM による動的擬態の検証レポート](https://zenn.dev/nakayukl/articles/0138545f239879) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [機密隔離とクラウド知能を両立する「ハイブリッド・パーソナルエージェント」設計論 ― メダリオン構造 × ローカルLLM構想](https://zenn.dev/user_thebigslee/articles/hybrid-llm-personal-agent-architecture) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [Snowflake Pipeline Builderで構築するエージェントワークフロー](https://zenn.dev/takikomi/articles/sf-agent-workflow-pipeline) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [AI同士にリバーシで対戦させて、キャラクターの掛け合い動画にした](https://zenn.dev/mkryo59/articles/ai-reversi-character-duel) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [Antigravity が Gemini の利用上限をリセットなど、11/22 の AI ニュース](https://zenn.dev/xdaily/articles/ai-dev-news-daily) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [判断ログの仕様（1枚）— エージェントの「何をしたか」ではなく「なぜそう決めたか」を残す](https://zenn.dev/linga17/articles/bf2e1dca62fa5d) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [Knowledge Studio を試してみました:AI の説明文を人はどこまで見るか](https://zenn.dev/yuji_sakurai/articles/70f0d11e8fa0ac) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [その「繰り返し率」、測っている対象が違うかもしれない — ローカルLLMの思考と本文を分けて測る話](https://zenn.dev/shinkaspool/articles/83e7b524e25a93) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [LLM時代の仕様記述DSL「tazuna」を作った](https://zenn.dev/hasagake/articles/69c8bd2d6582f3) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [AIが論文を書く時代はどこまで来たか：Sakana AI「The AI Scientist」4部作を読み解く](https://zenn.dev/kentaro36/articles/ai-scientist-four-papers) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [エージェント評価の設計と運用 — ベンチマークの読み方から本番監視まで](https://zenn.dev/kazu1/books/benchmark-evals) *(Zenn – トピック LLM)*
+- [ ] 2026-11-21 [「使っていい」と言われた後に、エンジニアが確認する3つの設定 ― 医療機関のAI利用方針を技術設定に落とし込む](https://zenn.dev/taichiendoh/articles/ai-usage-policy-zdr-log-model-checklist) *(Zenn – トピック LLM)*
+- [ ] 2026-11-22 [同じ商品を9か国で比較：越境価格差をテスト](https://zenn.dev/everyinfra/articles/cross-market-price-gap) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [AIエージェントへの依頼は、チャットではなく「依頼書」で渡す ― 実物の書式と、受け手から返ってきた指摘](https://zenn.dev/kenshoya_ai/articles/6c7cdc73e270f1) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [Claude Codeのタスク管理は3つの型に分かれる——GitHub IssuesをGTDの台帳にするやり方は何が違うのか](https://zenn.dev/tottoko_hamu/articles/2026-11-21-202608) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [Claudeでリーマン予想を証明？数学者の主張と検証の行方](https://zenn.dev/sugawara_ai/articles/ai-news-20261121) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [AI 駆動開発の要件定義書は、AI が書いて AI が読む——「メモして」から始まった文書づくり](https://zenn.dev/kanae_chaika/articles/ai-requirements-docs-workflow) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [さくらのVPSと無料SiteGuard＋さくらのAI Engineで24時間動くAIセキュリティ検査を作った](https://zenn.dev/pesi/articles/e5f464272c0b15) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [MacのAI機能、増えすぎでは？APIキー不要の音声操作アプリを作ってみた](https://zenn.dev/sonicmoov/articles/8a82ec6c689266) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [AIエージェントに読ませる文書を、9日間で1つから5つに分けた](https://zenn.dev/kaminariume/articles/split-agent-context-docs) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [会話を運ぶのをやめて、文書を運ぶことにした](https://zenn.dev/kaminariume/articles/share-context-across-agent-envs) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [AI時代のITエンジニアに必要なのは、答えより「HOW」](https://zenn.dev/aqiu/articles/bdc27f7fdcde2b) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [スマートグラス・自作の腕時計・ローカル AI：全記事の目次（シリーズ別）](https://zenn.dev/maruhana/articles/maruhana-series-index-all-articles) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [毎朝の要約を自然言語で予約し、AlarmManagerで起こす](https://zenn.dev/ryoitabashi/articles/2026-11-20-dev-ja) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [AIエージェント総出でホラーゲームを作ったら「全然面白くなかった」：15分の試遊で分かったAIレビューの死角](https://zenn.dev/shoyomayabot/articles/ai-game-dev-not-fun-lessons) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [なぜ開発に7時間半以上かかったのか？AIに自分の「遅延原因」を徹底調査させた話](https://zenn.dev/sunwood_ai_labs/articles/20261114-nekoneko-09-delay-investigation) *(Zenn – トピック AI)*
+- [ ] 2026-11-22 [電気学会 C部門大会 2025 で、振動と音響による異常兆候の検知をポスター発表しました（PS8-8）](https://zenn.dev/kd_yuta/articles/ieej-c2025-vibration-acoustic-poster) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-22 [【小学5年生でもわかる】アライメント問題ってなに？](https://zenn.dev/tkrndisk/articles/g-kentei-alignment-problem-kids) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-22 [画像生成モデルのRL学習、その効果の9割は「定数のズレ」だけで再現できる](https://zenn.dev/lonebula/articles/rl-post-training-activation-steering) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-22 [日本語ASR句読点復元モデルを公開した（実ASRベンチF1 0.888、Whisper単体0.606）](https://zenn.dev/jpopendata/articles/3c412512f68be8) *(Zenn – トピック 機械学習)*
+- [ ] 2026-11-22 [層化K分割交差検証とOOF予測：スコアを信頼できるものにする仕組み](https://zenn.dev/py_ml_studio/articles/ad3484e227e368) *(Zenn – トピック 機械学習)*
