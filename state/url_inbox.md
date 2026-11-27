@@ -175432,3 +175432,82 @@
 - [ ] 2026-11-26 [✍️ PyTorchと量子アニーリング(D-Wave Quantum)の連携](https://zenn.dev/qa_messenger/articles/9beef7e6924bb8) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-26 [BQMLのTRANSFORM句が「学習と推論のズレ」を解決してくれる話](https://zenn.dev/ml_joshibu/articles/4_bqml-transform) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-26 [DIY AutoML 開発メモ (1) 手元のPCでデータ点検からモデル評価まで](https://zenn.dev/okamasaya/articles/diy-automl-development-note-01-overview) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-27T01:11:07.756Z
+- [ ] 2026-11-26 [Can Elon Musk really put AI datacentres in space? - The Latest](https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-26 [AI could be used to write your child’s report. Is this a problem?](https://theconversation.com/ai-could-be-used-to-write-your-childs-report-is-this-a-problem-297517) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-26 [We built an AI you can dance with. It taught us about developing the technology responsibly](https://theconversation.com/we-built-an-ai-you-can-dance-with-it-taught-us-about-developing-the-technology-responsibly-295348) *(The Conversation – Artificial intelligence (AI))*
+- [ ] 2026-11-26 [NVIDIA Halts AI Server Shipments to 4 Southeast Asian Countries: Report](https://analyticsindiamag.com/ai-news/nvidia-halts-ai-server-shipments-to-4-southeast-asian-countries-report) *(Analytics India Magazine)*
+- [ ] 2026-11-26 [Coforge Adds Cybersecurity Patches to AI Enterprise Suite in Wake of Vulnerabilities](https://analyticsindiamag.com/ai-news/coforge-expands-nuuron-with-ai-led-vulnerability-remediation) *(Analytics India Magazine)*
+- [ ] 2026-11-26 [Holidays to Test AI Shopping Bots From Google, Amazon, Meta and OpenAI](https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai) *(Bloomberg Technology)*
+- [ ] 2026-11-26 [TDK Bets on AI Data Centers and Robots to Fuel Sensor Growth](https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth) *(Bloomberg Technology)*
+- [ ] 2026-11-26 [SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring](https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring) *(Bloomberg Technology)*
+- [ ] 2026-11-26 [Backloggd urges users to change their passwords after a breach](https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/) *(Engadget)*
+- [ ] 2026-11-26 [1Password says it was hacked but users' vaults are safe](https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/) *(Engadget)*
+- [ ] 2026-11-26 [Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday](https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/) *(Engadget)*
+- [ ] 2026-11-26 [NVIDIA reportedly halts AI chip shipments to Southeast Asia](https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/) *(Engadget)*
+- [ ] 2026-11-26 [Workers at GTA 6 studio Rockstar Games vote overwhelmingly against union recognition](https://www.engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition/) *(Engadget)*
+- [ ] 2026-11-26 [Man sentenced to 47 months in prison after using AI to impersonate streamer N3on](https://www.engadget.com/2329150/man-sentenced-to-47-month-prison-sentence-after-using-ai-impersonate-streamer/) *(Engadget)*
+- [ ] 2026-11-27 [企業に迫るOSS危機](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800013/111700109/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [相次ぐ情報漏洩の裏に「A2B攻撃」](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/111700346/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [感情分析アプリを実装、結果をExcelに出力しよう](https://xtech.nikkei.com/atcl/nxt/column/18/03796/101400004/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [米量子クオンティニュアムCEO、研究・供給網で「日本との連携が不可欠」](https://xtech.nikkei.com/atcl/nxt/column/18/03556/111800014/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [Sansan流AI活用、商談準備を月60時間削減も　実践向けプロンプト公開](https://xtech.nikkei.com/atcl/nxt/column/18/03671/111600010/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [マルウエア解析を効率化する勘所、ファイルや開発言語でツールを使い分ける](https://xtech.nikkei.com/atcl/nxt/column/18/02805/111800035/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [向き合うのは画面ではなく現場、FDEは「客先常駐」と何が違うのか](https://xtech.nikkei.com/atcl/nxt/column/18/03820/111000004/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [日本は全固体電池で覇権を取れるのか、LFP電池の歴史が示す教訓](https://xtech.nikkei.com/atcl/nxt/column/18/02421/112400138/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [カナダとドイツの「AI同盟」に注目、原動力は中堅国の危機感](https://xtech.nikkei.com/atcl/nxt/column/18/03079/112600048/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [AI利用で重要な「べからず」3つ、手段だけ伝えず・迎合させず・暴言吐かず](https://xtech.nikkei.com/atcl/nxt/column/18/03832/111300004/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [破棄すべきクレジットカード番号が残っていた、サイバー攻撃で漏洩相次ぐ](https://xtech.nikkei.com/atcl/nxt/column/18/00989/112400224/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [取材につきものの「録音」、テレコから40年でどう変わったか](https://xtech.nikkei.com/atcl/nxt/column/18/02598/111700039/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [MacBookはバッテリー駆動時間の長さも魅力、充電上限の設定で劣化を抑える](https://xtech.nikkei.com/atcl/nxt/column/18/03708/092900012/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [電波を張り巡らせるメッシュネットワーク、最適なWi-Fi接続に自動切り替え](https://xtech.nikkei.com/atcl/nxt/column/18/03775/092800021/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [「ブレークスルー起きない方が驚き」、Transformer生みの親が賭ける次のAI](https://xtech.nikkei.com/atcl/nxt/column/18/03794/111700005/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [生成AIに任せてはいけない仕事は何か、求められる適切な見極め](https://xtech.nikkei.com/atcl/nxt/column/18/02737/112200071/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [シャオミとオッポが高額スマホを相次ぎ投入、「高コスパ」脱却の背景は](https://xtech.nikkei.com/atcl/nxt/column/18/00745/112400282/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [国内月間利用者279万人のSNSを5人で運営、「setlog」のAI活用](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12200/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [電池パックのフタは車の床、中国EV「B05」を分解　コスパの源泉に迫る](https://xtech.nikkei.com/atcl/nxt/column/18/03520/112400028/) *(日経クロステック IT)*
+- [ ] 2026-11-27 [電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始　その内容とは？](https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news038.html) *(ITmedia AI＋)*
+- [ ] 2026-11-26 [AIエージェントの行動が「適切か暴走か」をどう見極める？　Googleが明かすテストの盲点](https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news035.html) *(ITmedia AI＋)*
+- [ ] 2026-11-26 [「コスト削減」の“次”の成果、どう設定する？　ビジネス変革に結び付けるための「期待の中身」](https://www.itmedia.co.jp/enterprise/articles/2611/27/news025.html) *(ITmedia AI＋)*
+- [ ] 2026-11-26 [生成AI登場で人員増えた部門、減った部門は？　デロイト調査](https://www.itmedia.co.jp/aiplus/article/2611/27/2000003505/) *(ITmedia AI＋)*
+- [ ] 2026-11-26 [アマダと日立、AIエージェントのPoCで効果確認 フィジカルAIの現場実装へ](https://monoist.itmedia.co.jp/mn/articles/2611/27/news050.html) *(ITmedia AI＋)*
+- [ ] 2026-11-27 [2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX](https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-27 [初調査の「性的いじめ」8000件超　AI悪用のディープフェイク背景、全国の学校で](https://www.sankei.com/article/20261126-BLDMVFSIK5NHVFJGMUO7X7Y4IQ/?outputType=asynd) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-27 [Aniwaffle \| Expressive, lovable AI voices for your characters](https://aniwaffle.com/) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-27 [AI法改正案の概要 “事業者に安全確保義務 罰則適用も” \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261126de81752) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-27 [Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始 \| gihyo.jp](https://gihyo.jp/article/2026/11/skills-over-mcp) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-27 [AIが書いたコードを、「わかる」コードに変える \| gihyo.jp](https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-05) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-27 [情報量が4倍のQRコードを作ろう - Qiita](https://qiita.com/reipandada/items/17496db6ac5f64a5e61a) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る｜デジタル庁ニュース](https://digital-agency-news.digital.go.jp/articles/2026-11-26) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [SSH is a GUI framework \| ssh zydra.sh](https://zydra.sh/articles/ssh-is-a-gui-framework/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定](https://www.publickey1.jp/blog/26/aiai_1.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [エンジニア2人・8ヶ月で新規事業を立ち上げる──「フルAI開発」のふりかえり - コネヒト開発者ブログ](https://tech.connehito.com/entry/2026/11/26/100507) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [【やじうまミニレビュー】 工具のマキタバッテリがPCの電源に!? 最大100Wの純正アダプタを使ってみた](https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2159706.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [息子が父親のSwitchを勝手に持ち出し、公園で紛失して帰ってきた→「みまもりアプリ」に暗証番号入力ミスの通知が…息子への対応は？取り戻す方法は？](https://togetter.com/li/2775400) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [さくらインターネット、AWSやAzureなど他クラウドでバックアップ可能な新ストレージ「Object Storage Suite」（OS2）発表](https://www.publickey1.jp/blog/26/awsazureobject_storage_suiteos2.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [集英社 販売サイト会員の生年月日など70万件余漏えい \| NHKニュース](https://news.web.nhk/newsweb/na/nd-20261126de82087) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [UI style guides](https://aresluna.org/ui-style-guides/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [Skills over MCP、めっちゃよさそう \| ashunar0](https://ashunar0.dev/posts/skills-over-mcp/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [サイバー攻撃深刻化、「ひとり情シス」は危機管理上リスク…デジタル人材不足はＤＸの障壁に](https://www.yomiuri.co.jp/economy/20261127-GYT1T00002/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [SIG-Indiedev(仮)第二回イベント『インディーゲーム開発者における「デバンキング問題」の実態と対策』録画・議事録非公開のオンラインセッションと情報ご提供のお願い \| 国際ゲーム開発者協会日本](https://igda.jp/2026/11/24/17317/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [これが「雨天時の衛星写真」、日本の宇宙ベンチャーQPS研究所が公開　愛媛県松山市を撮影](https://japan.cnet.com/article/35255433/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [「Telnet Client」（telnet.exe）が非推奨に ～将来のWindowsリリースで削除へ／リモートコンピューターと通信するOSのオプション機能](https://forest.watch.impress.co.jp/docs/news/2159560.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-26 [Tech Watch 2026-11-27: エージェントを検証する仕組み](https://zenn.dev/laiken/articles/20261127-tech-watch) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [GPT-6.2 AstraとSolの違い：トークン効率・キャッシュ・料金の仕組みを解説](https://zenn.dev/sponge841841/articles/2026-11-18-gpt62-astra-sol-efficiency) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [情報セキュリティ研修を動画でリッチに！AIなら簡単に……出来るわけがなかった](https://zenn.dev/yut_kawabata/articles/4c5c7bbd4893f0) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [人間共存下における人工超知能の知性構造(概念論考)](https://zenn.dev/pika_pi/books/a615a9567f4af9) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [個人向けAIエージェント Muse を「部下」として運用する実践メモ：定期実行・常時指示・検証ゲート](https://zenn.dev/aletheia_jp/articles/66575ea60c143b) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [IDEの次に使わなくなるものは？](https://zenn.dev/kabeya/articles/whats-next-after-ide) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [Claude Codeの定型ブラウザ操作を2回目からLLMなし1.5秒に。迷う手だけDecisionモデルに聞くCLI&SKILL](https://zenn.dev/airtanker/articles/agent-browser-decisions-three-tier-plans) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [Forge Neo × Anima（DiT）で Regional Prompter と NegPiP（本家・派生）を併用できるようにしたお話](https://zenn.dev/neon_aiart/articles/27787e29a4e635) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [AIを活用した開発を始めるために、既存リポジトリで何から取り組むべきか](https://zenn.dev/matsunaopen/articles/ai-dev-foundation-steps) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [プロジェクトごとに、ルールが少しずつ違っていく。1つの標準を十数のプロジェクトに配るまで](https://zenn.dev/intprime/articles/devstd-01-one-standard-many-repos) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [はじめまして。Claude Codeと一緒に「頼れる開発標準」を育てています](https://zenn.dev/intprime/articles/intro-dev-standard) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [ライブラリを替えたのに、AIが古いコードを書く](https://zenn.dev/kaguraai/articles/grow-memory-update-forget) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [資金0円でAIに自律起業させる実験を始めた【設計編】](https://zenn.dev/aioneautopilot/articles/ai-zero-capital-founder-01) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [How to building an AI image editor on Cloudflare Workers](https://zenn.dev/picsdo/articles/28087691a8c7ab) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [本書が生まれるまでの秘話](https://zenn.dev/aquaxis/books/fpga-guidebook00) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [漫画・縦スクロールWebtoonのAI画像翻訳パイプライン比較：縦書きOCR・Inpainting・自動組版の技術選定](https://zenn.dev/mangatranslate/articles/c9d21946ead1fa) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [Windows の短い名前（8.3）で Claude Code に書かせると、元のファイル名が消える](https://zenn.dev/kamijo_aoto/articles/windows-claude-code-83-shortname) *(Zenn – トピック AI)*
+- [ ] 2026-11-26 [「日本語で」と書いても AI が英語に戻るので、Stop フックで止めた](https://zenn.dev/hitori_pm/articles/cc955887656339) *(Zenn – トピック AI)*
