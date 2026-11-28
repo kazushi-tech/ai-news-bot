@@ -175700,3 +175700,67 @@
 - [ ] 2026-11-26 [LightGBM で全9万回の国会会議を学習させたら ROC-AUC 0.818 で「荒れる会議」を予測できた話](https://zenn.dev/kokkaidatalabo/articles/0369b2f5d2cb01) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-26 [【scikit-learn入門 #9】クラスタリング ─ KMeans（教師なし学習）](https://zenn.dev/haruhiro1020/articles/ec60d23e3a0169) *(Zenn – トピック 機械学習)*
 - [ ] 2026-11-26 [LLM判定器は日本の「名字＋様」を減点したりしなかったりする ― 4モデルを繰り返し回した実測](https://zenn.dev/quent/articles/2329d74464eff5) *(Zenn – トピック 機械学習)*
+
+## Collected on 2026-11-28T00:43:50.548Z
+- [ ] 2026-11-27 [Trump is destroying the rule of law in the US – to protect himself and the tech titans he worships as new gods \| Jonathan Freedland](https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-27 [The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy \| Editorial](https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-ai-and-the-riemann-hypothesis-a-triumph-of-intelligence-a-test-of-democracy) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-27 [Google told to halt Belgium datacentre construction over lack of planning permit](https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits) *(The Guardian – Artificial Intelligence)*
+- [ ] 2026-11-27 [Meta’s Content Moderation Said to Be Severely Broken After Moving to Human Reviewers to AI](https://futurism.com/artificial-intelligence/meta-content-moderation-broken-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-27 [Top Treasury Official Is Too Busy Vibe Coding a Crappy Video Game Clone Instead of Addressing a Historic Hack](https://futurism.com/artificial-intelligence/top-treasury-official-vibe-coding-hack) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-27 [Community Outraged When Hospital Moves to Automate Healthcare Jobs With AI](https://futurism.com/artificial-intelligence/healthcare-telemetry-workers-hospital-automation-ai) *(Futurism – Artificial Intelligence)*
+- [ ] 2026-11-27 [Blending Unsupervised Clustering Tasks with Scikit-LLM](https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm) *(KDnuggets)*
+- [ ] 2026-11-27 [10 GitHub Repositories to Master AI Decision Models](https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models) *(KDnuggets)*
+- [ ] 2026-11-27 [OpenAI Says Apple Pressured Suppliers to Shun Its Devices](https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices) *(Bloomberg Technology)*
+- [ ] 2026-11-27 [Bots de compras con IA amenazan el dominio de Amazon y Google](https://www.bloomberg.com/news/features/2026-11-27/bots-de-compras-con-ia-amenazan-el-dominio-de-amazon-y-google) *(Bloomberg Technology)*
+- [ ] 2026-11-27 [Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says](https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says) *(Bloomberg Technology)*
+- [ ] 2026-11-27 [GTA VI’s Success Makes the Case for Human-Made Games](https://www.bloomberg.com/news/videos/2026-11-27/gta-vi-s-record-launch-makes-the-case-for-human-made-video) *(Bloomberg Technology)*
+- [ ] 2026-11-27 [Microsoft 365 Backup retention period extended to ten years](https://www.computerworld.com/article/4254127/microsoft-365-backup-extends-retention-period-from-two-to-ten-years.html) *(Computerworld)*
+- [ ] 2026-11-27 [5 ways to make sure your console isn't holding back your GTA 6 performance](https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/) *(Engadget)*
+- [ ] 2026-11-27 [LA school district blocks Google's AI search features](https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features/) *(Engadget)*
+- [ ] 2026-11-27 [Samsung is reportedly giving its camera app an AI mode](https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/) *(Engadget)*
+- [ ] 2026-11-27 [Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang](https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/) *(Engadget)*
+- [ ] 2026-11-27 [OpenAI countersues Apple and accuses it of stealing trade secrets](https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/) *(Engadget)*
+- [ ] 2026-11-27 [Hackers reportedly infiltrated the Air Force's cloud systems](https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/) *(Engadget)*
+- [ ] 2026-11-27 [5 Costco Electronics With Deep Discounts For Black Friday 2026](https://www.engadget.com/2329581/costco-electronics-deep-discounts-black-friday-2026/) *(Engadget)*
+- [ ] 2026-11-27 [WhatsApp adds support for travel eSIMs](https://www.engadget.com/2329553/whatsapp-adds-support-for-travel-esims/) *(Engadget)*
+- [ ] 2026-11-28 [【資料公開】コードを書くAI、アーキテクチャーを決める組織](https://www.ryuzee.com/contents/blog/14629) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-28 [なぜAIは超難問を解けるのに、あなたの現場では“綺麗なゴミ”を量産するのか？ - サッとぶ](https://kei-1010.hatenablog.com/entry/2026/11/27/133416) *(はてなブックマーク – AI 人気エントリ)*
+- [ ] 2026-11-28 [｢もう管理職はいらない｣　震源はシリコンバレー、AIで消える肩書と階層 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN246EE0U6A121C2000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-28 [シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化](https://gigazine.net/news/20261127-d2/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-28 [ノンフライヤーはからあげだけじゃない　夕飯作りラクにしてくれるかも](https://kaden.watch.impress.co.jp/docs/column/iikoto/2160002.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-28 [YAPC::Asia Tokyo 2010 Keynoteを観た - 生涯未熟](https://syossan.hateblo.jp/entry/2026/09/08/093000) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-28 [パールスター感謝祭 YAPC::Tokyo 2026 総合順位発表 #yapcjapan - YAPC::Japan 運営ブログ](https://blog.yapcjapan.org/entry/2026/11/28/014109) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-28 [GMO、サーバー貸出事業で不正アクセス　顧客情報51万件漏洩 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC27B210X21C26A1000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-28 [XYZA、何度も自由に描き替え可能なカラーE Ink搭載スマートキーホルダー](https://www.itmedia.co.jp/pcuser/articles/2611/27/news083.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-28 [大阪大学、学生と教職員のメアド5万件漏洩　アララへの不正アクセス - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUF272NY0X21C26A1000000/) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-28 [Kizuna AI、春猿火ら9組がバーチャル空間に集結　VRChat音楽フェス「ESPERA」レポート](https://kai-you.net/article/97275) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-28 [ドコモに聞く「新ahamo」の狙い　3段階制と165円値上げ、既存契約者に“40GBリミッター”実装の理由](https://www.itmedia.co.jp/mobile/articles/2611/26/news074.html) *(はてなブックマーク – IT 人気エントリ)*
+- [ ] 2026-11-27 [AIエージェントの原型は3本の論文にあった：ReAct、SWE-bench、SWE-agentを読み解く](https://zenn.dev/kentaro36/articles/ai-agent-foundation-papers) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [出自を確認する前に、まず内容を検査する ― 複数AIエージェントの記憶に、書き込み前の入力チェックを足す設計](https://zenn.dev/taichiendoh/articles/ai-agent-memory-input-moderation-gate) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [Local LLMの重みに知識を焼く vs 記憶カセットを挿す - 重み編集の壁と、キーワードなしの言い換えを99.2%捌くまで](https://zenn.dev/caphtech/articles/kestrom-keyed-to-kv-probes) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [Learning Watch 2026-11-28: 学ぶ人の判断を残す設計](https://zenn.dev/laiken/articles/20261128-learning-watch) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [AIエージェントに渡す権限の設計：読み取り専用から始めて、取り返しのつかない操作だけを分離する](https://zenn.dev/aletheia_jp/articles/c4cd7b90c63e30) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [【ハイブリッドLLM】Claudeが作った事件を、LLMを尋問して解き明かす。一人マダミスで遊ぼう](https://zenn.dev/subara3/articles/45ead2147a20e6) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [LLMマルチエージェントの議論が収束する様子を可視化してみた](https://zenn.dev/dxclab/articles/6bd4c4c1213b8f) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [Strands Decider の v1/v2 の仕組みと性能を理解する](https://zenn.dev/aws_japan/articles/2026-11-27-strands-decider-v2) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [静的サイト251ページのAI検索対応：facts.json・llms-full.txt・.md配信の実装記録](https://zenn.dev/kurodaschool/articles/e478038976268c) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [AIエージェントの実行ログの読み方 — 「できた」を検収する5つの確認点](https://zenn.dev/temanashi_kobo/articles/1c34de658b4f3c) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [AIエージェントの「止まり方」を設計する — 停止条件と上限の決め方](https://zenn.dev/temanashi_kobo/articles/e4f6b19f140746) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [検閲解除ツールhereticの「KL 0.0000」は劣化ゼロではなかった: Qwen3の<think>が指標を素通りさせていた](https://zenn.dev/matsushima_a/articles/day-059-heretic-kl-think-prefix) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [Claude Code のフックで「前回の続き」を差し込んでたら、1 万字を超えて頭だけになってた（設定とスクリプトつき）](https://zenn.dev/azarashi_ora/articles/ora-claude-code-hook-cap) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [LLM に「材料にない数字」を言わせない：魚の質問欄を、指示ではなく答えの検査で守る](https://zenn.dev/zennpay/articles/ab648c77094b5c) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [gpt-oss-120B を SciCode tas で測った全記録 — 61step・決定性・effort 感度・3体対照](https://zenn.dev/jinno_ai/books/scicode-gpt-oss-eval-report) *(Zenn – トピック LLM)*
+- [ ] 2026-11-27 [Claude Code を複数ターミナル＋git worktree で並べて、ほぼ1人で4つの SaaSを作っている話](https://zenn.dev/newsletterready/articles/4585354b62b688) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [ChatGPTのカスタム指示で商品仕様とFAQを固定し出力ブレを防ぐ設定手順｜4ステップ](https://zenn.dev/andyailab/articles/5b19e68f723333) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [AIが「直りました」と言った。その修正、採っていい？](https://zenn.dev/veripsa/articles/api-contract-repair-review) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [Claude Code デスクトップの SSH 接続で自宅 Mac mini を外から使う——環境を同期しない2台運用](https://zenn.dev/tottoko_hamu/articles/2026-11-23-225800) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [AI に1万円渡して稼がせる実験・最初の10日は0円だった](https://zenn.dev/soremo/articles/d8fc2d86587595) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [AIと考えるスモールスタートのシステム設計 - EC2の1台から作り直さずに育て、状態遷移はTLA+で形式検証する](https://zenn.dev/okamyuji/articles/ai-small-start-system-design) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [サブスクの枠、余らせていませんか？ AIに「残量を見て自分で仕事量を決めて」と頼んでみた](https://zenn.dev/hachihou_system/articles/55f41c9f0b40b5) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる](https://zenn.dev/miraizuk/articles/ae8db2bc3ff561) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [AI動画の「カットごとに顔が変わる・尺が合わない・文字が潰れる」を解決する『音声先行クロック＋IDロック』演出術](https://zenn.dev/coco666/articles/68a496ecd207c8) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [「歩くだけの3Dデモ」で終わらせない：画像生成GLBをGodot 4 & Three.jsで遊べるゲームに変える4段階パイプライン](https://zenn.dev/coco666/articles/69738a56aa1a42) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [Nano Banana 3.0実践ガイド：複数参照画像で照明・構図を壊さずに4K商品・ライフスタイル写真を編集する方法](https://zenn.dev/yoxi957/articles/174c799a7962d3) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [生徒の指導も、251ページのサイト運営も一人。オンライン塾を静的HTMLとPython標準ライブラリだけで回している話](https://zenn.dev/kurodaschool/articles/185081fcd8e9db) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [検査AIの判定を、ラインの動きに戻す — 排出・停止・作業者確認をC#で設計する](https://zenn.dev/jodycraft/articles/inspection-ai-line-action-design) *(Zenn – トピック AI)*
+- [ ] 2026-11-27 [【Stable Diffusion】写真から顔を似せたら、決め手は「輪かく」と「見た目を読む1枚」だった（GTX 1660）](https://zenn.dev/tainari/articles/sd15-faceid-rinkaku-mitame) *(Zenn – トピック 機械学習)*
